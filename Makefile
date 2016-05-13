@@ -5,8 +5,11 @@
 WHOAMI = $(shell basename `pwd`)
 YMD = $(shell date "+%Y%m%d")
 
+# https://github.com/whosonfirst/go-whosonfirst-utils/blob/master/cmd/wof-expand.go
+WOF_EXPAND = $(shell which wof-expand)
+
 archive:
-	tar --exclude='.git*' --exclude='Makefile*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./
+	tar --exclude='.git*' --exclude='Makefile*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./data ./meta ./LICENSE.md ./CONTRIBUTING.md ./README.md
 
 bundles:
 	echo "please write me"
@@ -25,29 +28,51 @@ concordances:
 count:
 	find ./data -name '*.geojson' -print | wc -l
 
+docs:
+	curl -s -o LICENSE.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/LICENSE-SHORT.md
+	curl -s -o CONTRIBUTING.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/CONTRIBUTING.md
+
 gitignore:
 	mv .gitignore .gitignore.$(YMD)
 	curl -s -o .gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/.gitignore
+
+gitlf:
+	if ! test -f .gitattributes; then touch .gitattributes; fi
+ifeq ($(shell grep '*.geojson text eol=lf' .gitattributes | wc -l), 0)
+	cp .gitattributes .gitattributes.tmp
+	perl -pe 'chomp if eof' .gitattributes.tmp
+	echo "*.geojson text eol=lf" >> .gitattributes.tmp
+	mv .gitattributes.tmp .gitattributes
+else
+	@echo "Git linefeed hoohah already set"
+endif
 
 # https://internetarchive.readthedocs.org/en/latest/cli.html#upload
 # https://internetarchive.readthedocs.org/en/latest/quickstart.html#configuring
 
 ia:
-	ia upload $(WHOAMI)-$(YMD) $(src)/$(WHOAMI)-$(YMD).tar.bz2 --metadata="title:$(WHOAMI)-$(YMD)" --metadata="licenseurl:http://creativecommons.org/licenses/by/4.0/" --metadata="date:$(YMD)" --metadata="subject:geo,mapzen,whosonfirst" --metadata="creator:Who's On First (Mapzen)"
+	ia upload $(WHOAMI)-$(YMD) $(src)/$(WHOAMI)-$(YMD).tar.bz2 --metadata="title:$(WHOAMI)-$(YMD)" --metadata="licenseurl:http://creativecommons.org/licenses/by/4.0/" --metadata="date:$(YMD)" --metadata="subject:geo;mapzen;whosonfirst" --metadata="creator:Who's On First (Mapzen)"
 
 internetarchive:
 	$(MAKE) dest=$(src) archive
 	$(MAKE) src=$(src) ia
-
-makefile:
-	mv Makefile Makefile.$(YMD)
-	curl -s -o Makefile https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/make/Makefile
+	rm $(src)/$(WHOAMI)-$(YMD).tar.bz2
 
 list-empty:
 	find data -type d -empty -print
 
+makefile:
+	curl -s -o Makefile https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/make/Makefile
+
 postbuffer:
 	git config http.postBuffer 104857600
+
+# As in this: https://github.com/whosonfirst/git-whosonfirst-data
+
+post-pull:
+	./.git/hooks/pre-commit --start-commit $(commit)
+	./.git/hooks/post-commit --start-commit $(commit)
+	./.git/hooks/post-push-async --start-commit $(commit)
 
 prune:
 	git gc --aggressive --prune
@@ -64,3 +89,28 @@ setup:
 	git config --add oh-my-zsh.hide-status 1
 	# --------
 	# Okay, all done with setup!
+
+# https://github.com/whosonfirst/py-mapzen-whosonfirst-search
+# Note that this does not try to be at all intelligent. It is a 
+# straight clone in to ES for every record.
+# (20160421/thisisaaronland)
+
+sync-es:
+	wof-es-index --source data --bulk --host $(host)
+
+# https://github.com/whosonfirst/go-whosonfirst-s3
+# Note that this does not try to be especially intelligent. It is a 
+# straight clone with only minimal HEAD/lastmodified checks
+# (20160421/thisisaaronland)
+
+sync-s3:
+	wof-sync-dirs -root data -bucket whosonfirst.mapzen.com -prefix data -processes 64
+
+wof-less:
+	less `$(WOF_EXPAND) -prefix data $(id)`
+
+wof-open:
+	$(EDITOR) `$(WOF_EXPAND) -prefix data $(id)`
+
+wof-path:
+	$(WOF_EXPAND) -prefix data $(id)
