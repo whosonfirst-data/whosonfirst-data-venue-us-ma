@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.120639,42.37419,-71.120639,42.37419",
     "geom:latitude":42.37419,
     "geom:longitude":-71.120639,
@@ -32,7 +33,15 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pLua90pgmKWor8vaOHaRZ_42.374190_-71.120639@1303262215"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461738823,
     "wof:geomhash":"6d3abbe76831a61576ffe9f4fe84a109",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":689075539
+        }
+    ],
     "wof:id":689075539,
-    "wof:lastmodified":1472625257,
+    "wof:lastmodified":1489019961,
     "wof:name":"Prx",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

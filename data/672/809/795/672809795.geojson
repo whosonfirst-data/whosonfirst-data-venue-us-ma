@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.121434,42.372851,-71.121434,42.372851",
     "geom:latitude":42.372851,
     "geom:longitude":-71.121434,
@@ -33,7 +34,15 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PhNae1LnrYgKNoGqemQPj_42.372851_-71.121434@1294127905"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461727185,
     "wof:geomhash":"fc8a107c35dee9fca3df36c0494d7a17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":672809795
+        }
+    ],
     "wof:id":672809795,
-    "wof:lastmodified":1472626047,
+    "wof:lastmodified":1489019988,
     "wof:name":"Harris Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

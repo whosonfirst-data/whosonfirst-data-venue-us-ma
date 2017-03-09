@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.099035,42.392948,-71.099035,42.392948",
     "geom:latitude":42.392948,
     "geom:longitude":-71.099035,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881029,
+        85858351,
         102191575,
         404476445,
         85633793,
         85950339,
         102084643,
-        85688645
+        85688645,
+        85881029
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,25 @@
             "county_id":102084643,
             "localadmin_id":404476445,
             "locality_id":85950339,
+            "neighbourhood_id":85858351,
+            "region_id":85688645,
+            "venue_id":689101033
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476445,
+            "locality_id":85950339,
             "neighbourhood_id":85881029,
             "region_id":85688645,
             "venue_id":689101033
         }
     ],
     "wof:id":689101033,
-    "wof:lastmodified":1472625329,
+    "wof:lastmodified":1489023735,
     "wof:name":"Quick Locksmith",
-    "wof:parent_id":85881029,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

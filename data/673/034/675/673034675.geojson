@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.113654,42.370606,-71.113654,42.370606",
     "geom:latitude":42.370606,
     "geom:longitude":-71.113654,
@@ -35,7 +36,15 @@
     ],
     "sg:website":"http://www.thegamespeopleplaycambridge.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85844965,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0e3e2Vnu54vMZVgMRjUr7w_42.370836_-71.113905@1293134755"
@@ -43,11 +52,22 @@
     "wof:country":"US",
     "wof:created":1461732419,
     "wof:geomhash":"659086e4b955f0e503be9f0bd430c1db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85844965,
+            "region_id":85688645,
+            "venue_id":673034675
+        }
+    ],
     "wof:id":673034675,
-    "wof:lastmodified":1472625073,
+    "wof:lastmodified":1489019902,
     "wof:name":"The Games People Play",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

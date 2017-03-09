@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.113748,42.374371,-71.113748,42.374371",
     "geom:latitude":42.374371,
     "geom:longitude":-71.113748,
@@ -33,7 +34,15 @@
     ],
     "sg:website":"www.stephenjennings.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85876611,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VEFWk2t2duwPos62JEhm9_42.374347_-71.113601@1293134755"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461732491,
     "wof:geomhash":"d890f392f5df9a51b4955af74816e410",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85876611,
+            "region_id":85688645,
+            "venue_id":673038145
+        }
+    ],
     "wof:id":673038145,
-    "wof:lastmodified":1472625049,
+    "wof:lastmodified":1489020104,
     "wof:name":"Jennings Stephen Photographer",
-    "wof:parent_id":-1,
+    "wof:parent_id":85876611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

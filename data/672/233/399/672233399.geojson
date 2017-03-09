@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.119638,42.373397,-71.119638,42.373397",
     "geom:latitude":42.373397,
     "geom:longitude":-71.119638,
@@ -32,7 +33,15 @@
         "housing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rNfW8vyIQ5Z9QAMvRftgy_42.373397_-71.119638@1294127905"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461714258,
     "wof:geomhash":"e3e6e369cd1fb6232066254a307178a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":672233399
+        }
+    ],
     "wof:id":672233399,
-    "wof:lastmodified":1472625310,
+    "wof:lastmodified":1489020006,
     "wof:name":"Cambridge Housing Authority",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

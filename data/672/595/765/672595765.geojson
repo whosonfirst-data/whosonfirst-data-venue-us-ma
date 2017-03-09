@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.075908,42.370763,-71.075908,42.370763",
     "geom:latitude":42.370763,
     "geom:longitude":-71.075908,
@@ -31,7 +32,15 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816073,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33J5nPYtIiBnD2SLcYGBt8_42.370763_-71.075908@1294127905"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461722490,
     "wof:geomhash":"1602d0d3dada61c6f1a77c0f3394a58a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85816073,
+            "region_id":85688645,
+            "venue_id":672595765
+        }
+    ],
     "wof:id":672595765,
-    "wof:lastmodified":1472625849,
+    "wof:lastmodified":1489019725,
     "wof:name":"T Transportation Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

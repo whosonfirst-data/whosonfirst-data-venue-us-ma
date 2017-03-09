@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.078794,42.365954,-71.078794,42.365954",
     "geom:latitude":42.365954,
     "geom:longitude":-71.078794,
@@ -33,7 +34,15 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816073,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EyLOHiZU9Hah6ve7DUJ0W_42.366088_-71.078987@1293134755"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461733042,
     "wof:geomhash":"b9c2dc66c29a1d9a356d11ca811ee95a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85816073,
+            "region_id":85688645,
+            "venue_id":673064839
+        }
+    ],
     "wof:id":673064839,
-    "wof:lastmodified":1472625188,
+    "wof:lastmodified":1489019806,
     "wof:name":"Chang Shing Tofu, Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

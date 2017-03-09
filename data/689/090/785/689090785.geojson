@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.07761,42.367786,-71.07761,42.367786",
     "geom:latitude":42.367786,
     "geom:longitude":-71.07761,
@@ -32,7 +33,15 @@
     ],
     "sg:website":"http://www.findimport.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816073,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34LwaB0RCMyAJ1flmS4ugD_42.367786_-71.077610@1303262217"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461739194,
     "wof:geomhash":"de5afe5c0653a769bb36f5abfd53a519",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85816073,
+            "region_id":85688645,
+            "venue_id":689090785
+        }
+    ],
     "wof:id":689090785,
-    "wof:lastmodified":1472625317,
+    "wof:lastmodified":1489019796,
     "wof:name":"Atafa Sporting Goods",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

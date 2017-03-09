@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.081134,42.366178,-71.081134,42.366178",
     "geom:latitude":42.366178,
     "geom:longitude":-71.081134,
@@ -31,7 +32,15 @@
         "trainer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816073,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39uZHFdspo5kc4eEtp4uzw_42.366178_-71.081134@1303262218"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461739234,
     "wof:geomhash":"28084eb3ed15f626ae76ec12f5e62ae5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85816073,
+            "region_id":85688645,
+            "venue_id":689092719
+        }
+    ],
     "wof:id":689092719,
-    "wof:lastmodified":1472625360,
+    "wof:lastmodified":1489019789,
     "wof:name":"Immunetics",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

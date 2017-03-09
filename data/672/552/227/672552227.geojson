@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.133842,42.379134,-71.133842,42.379134",
     "geom:latitude":42.379134,
     "geom:longitude":-71.133842,
@@ -32,7 +33,16 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108713389,
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fvv1XTnJgFrrWiIobyiB6_42.379134_-71.133842@1294127905"
@@ -40,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1461721505,
     "wof:geomhash":"0c0bb0983881700a0be299a02d8c34f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "microhood_id":1108713389,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":672552227
+        }
+    ],
     "wof:id":672552227,
-    "wof:lastmodified":1472625802,
+    "wof:lastmodified":1489020321,
     "wof:name":"NCI Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108713389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

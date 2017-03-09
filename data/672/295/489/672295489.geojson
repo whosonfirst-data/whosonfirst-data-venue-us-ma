@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.138469,42.379452,-71.138469,42.379452",
     "geom:latitude":42.379452,
     "geom:longitude":-71.138469,
@@ -31,7 +32,16 @@
         "psychologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108713389,
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ej5PP3lCv83Rajzx23bYA_42.379452_-71.138469@1294127905"
@@ -39,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1461715524,
     "wof:geomhash":"f13f3e1874e9e261f0e1db8de109878c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "microhood_id":1108713389,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":672295489
+        }
+    ],
     "wof:id":672295489,
-    "wof:lastmodified":1472625477,
+    "wof:lastmodified":1489020318,
     "wof:name":"Patricia L Straus",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108713389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

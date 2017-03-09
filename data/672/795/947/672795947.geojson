@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.081303,42.389872,-71.081303,42.389872",
     "geom:latitude":42.389872,
     "geom:longitude":-71.081303,
@@ -33,7 +34,15 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816797,
+        102191575,
+        404476445,
+        85633793,
+        85950339,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xu04h4wFkWikVW21DiDiZ_42.389872_-71.081303@1294127905"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461726897,
     "wof:geomhash":"7bff3039df1287e6baed429d5618fe15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476445,
+            "locality_id":85950339,
+            "neighbourhood_id":85816797,
+            "region_id":85688645,
+            "venue_id":672795947
+        }
+    ],
     "wof:id":672795947,
-    "wof:lastmodified":1472626033,
+    "wof:lastmodified":1489023658,
     "wof:name":"Circuit City",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

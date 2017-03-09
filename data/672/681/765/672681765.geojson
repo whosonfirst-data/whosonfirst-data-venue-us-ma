@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.145046,42.377964,-71.145046,42.377964",
     "geom:latitude":42.377964,
     "geom:longitude":-71.145046,
@@ -29,13 +30,17 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108712257,
         85835463,
         102191575,
         404476459,
         85633793,
         85950335,
         102084643,
-        85688645
+        85688645,
+        85867961,
+        404476475,
+        85950329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +56,27 @@
             "county_id":102084643,
             "localadmin_id":404476459,
             "locality_id":85950335,
+            "microhood_id":1108712257,
             "neighbourhood_id":85835463,
+            "region_id":85688645,
+            "venue_id":672681765
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "microhood_id":1108712257,
+            "neighbourhood_id":85867961,
             "region_id":85688645,
             "venue_id":672681765
         }
     ],
     "wof:id":672681765,
-    "wof:lastmodified":1472625934,
+    "wof:lastmodified":1489020284,
     "wof:name":"Roco Realty Toco Consultant",
-    "wof:parent_id":85835463,
+    "wof:parent_id":1108712257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

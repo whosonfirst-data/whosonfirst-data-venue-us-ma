@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.121113,42.373613,-71.121113,42.373613",
     "geom:latitude":42.373613,
     "geom:longitude":-71.121113,
@@ -32,7 +33,15 @@
     ],
     "sg:website":"www.jasminesola.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XkRkct2kILZ2kpuAaYHv2_42.373613_-71.121113@1294127905"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461724991,
     "wof:geomhash":"7f7e150f8bf810ad7f771abff06ab3ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":672705791
+        }
+    ],
     "wof:id":672705791,
-    "wof:lastmodified":1472625953,
+    "wof:lastmodified":1489019973,
     "wof:name":"Jasmine Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

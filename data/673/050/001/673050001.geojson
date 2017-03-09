@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.079376,42.369536,-71.079376,42.369536",
     "geom:latitude":42.369536,
     "geom:longitude":-71.079376,
@@ -32,7 +33,15 @@
     ],
     "sg:website":"www.middlesexda.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816073,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2V3oL6CoxzstQAqWY9LYnR_42.369514_-71.079898@1293134755"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461732757,
     "wof:geomhash":"cf7432cd3f6674f76c25ebaafbf18609",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85816073,
+            "region_id":85688645,
+            "venue_id":673050001
+        }
+    ],
     "wof:id":673050001,
-    "wof:lastmodified":1472625118,
+    "wof:lastmodified":1489019781,
     "wof:name":"Middlesex District Attorney's Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

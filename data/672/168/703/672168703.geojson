@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.118109,42.373216,-71.118109,42.373216",
     "geom:latitude":42.373216,
     "geom:longitude":-71.118109,
@@ -32,7 +33,15 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85876611,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5L5UKz3EOtZjk14GFDIDiL_42.373216_-71.118109@1294127905"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461712878,
     "wof:geomhash":"c238bbab8d6ce8ec6fa81bbd04fab0f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85876611,
+            "region_id":85688645,
+            "venue_id":672168703
+        }
+    ],
     "wof:id":672168703,
-    "wof:lastmodified":1472625042,
+    "wof:lastmodified":1489020125,
     "wof:name":"Harvard Alumni Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85876611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

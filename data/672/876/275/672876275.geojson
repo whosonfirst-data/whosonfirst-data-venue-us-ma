@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.114482,42.370495,-71.114482,42.370495",
     "geom:latitude":42.370495,
     "geom:longitude":-71.114482,
@@ -28,7 +29,15 @@
     "sg:postcode":"02138",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85844965,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4apzNG5mv2shsRtzFoxlKJ_42.370495_-71.114482@1294127905"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461728562,
     "wof:geomhash":"7ec9138cf64fcb33e90e89b71bd8118f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85844965,
+            "region_id":85688645,
+            "venue_id":672876275
+        }
+    ],
     "wof:id":672876275,
-    "wof:lastmodified":1472626094,
+    "wof:lastmodified":1489019909,
     "wof:name":"Anne Dow Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

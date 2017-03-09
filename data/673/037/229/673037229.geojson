@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.120697,42.374901,-71.120697,42.374901",
     "geom:latitude":42.374901,
     "geom:longitude":-71.120697,
@@ -34,7 +35,15 @@
         "academic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0q4FidqMpMngx3Cl4yaOFY_42.374866_-71.120888@1293134755"
@@ -42,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1461732475,
     "wof:geomhash":"2f42fd2a7dbced0d5bd768c57ba49273",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":673037229
+        }
+    ],
     "wof:id":673037229,
-    "wof:lastmodified":1472625053,
+    "wof:lastmodified":1489019997,
     "wof:name":"Garden Nursery School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

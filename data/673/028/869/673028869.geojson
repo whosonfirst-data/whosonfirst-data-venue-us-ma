@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.127021,42.396429,-71.127021,42.396429",
     "geom:latitude":42.396429,
     "geom:longitude":-71.127021,
@@ -28,7 +29,18 @@
     "sg:postcode":"02140",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85837429,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645,
+        85881035,
+        404476445,
+        85950339
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32uCunYFMEm5Md0FmmyZsy_42.396429_-71.127021@1294127905"
@@ -36,11 +48,32 @@
     "wof:country":"US",
     "wof:created":1461732302,
     "wof:geomhash":"081cd1ec8ea19a2c7602606387bb456c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85837429,
+            "region_id":85688645,
+            "venue_id":673028869
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476445,
+            "locality_id":85950339,
+            "neighbourhood_id":85881035,
+            "region_id":85688645,
+            "venue_id":673028869
+        }
+    ],
     "wof:id":673028869,
-    "wof:lastmodified":1472625034,
+    "wof:lastmodified":1489019861,
     "wof:name":"Simpson Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.070099,42.370024,-71.070099,42.370024",
     "geom:latitude":42.370024,
     "geom:longitude":-71.070099,
@@ -33,7 +34,15 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816073,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FK0pUaOtepfgc0BCr4nlx_42.370024_-71.070099@1303262217"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461739199,
     "wof:geomhash":"dc151f1eafcf2c7dda86c20e3b6afa43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85816073,
+            "region_id":85688645,
+            "venue_id":689091069
+        }
+    ],
     "wof:id":689091069,
-    "wof:lastmodified":1472625283,
+    "wof:lastmodified":1489019731,
     "wof:name":"Metropolitan District Commission, Massachusetts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],
