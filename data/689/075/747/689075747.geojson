@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.127653,42.375766,-71.127653,42.375766",
     "geom:latitude":42.375766,
     "geom:longitude":-71.127653,
@@ -47,7 +48,15 @@
         "forwarding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VwdbKw6Kx4ZKWme7rE7F0_42.375766_-71.127653@1303262215"
@@ -55,11 +64,22 @@
     "wof:country":"US",
     "wof:created":1461738828,
     "wof:geomhash":"05b0d21dccb46aa85fb933b60be8fc4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":689075747
+        }
+    ],
     "wof:id":689075747,
-    "wof:lastmodified":1472625262,
+    "wof:lastmodified":1489020015,
     "wof:name":"Mike's Shipping Line Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

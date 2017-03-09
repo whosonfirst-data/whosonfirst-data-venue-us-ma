@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.111859,42.369574,-71.111859,42.369574",
     "geom:latitude":42.369574,
     "geom:longitude":-71.111859,
@@ -28,7 +29,15 @@
     "sg:province":"MA",
     "sg:website":"http://www.greentechmedia.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85876611,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pZdKGkTF01aEOHQnrDZ3f_42.369574_-71.111859@1308186497"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461742610,
     "wof:geomhash":"dcb2c1fbb5a122017c9be04e62196672",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85876611,
+            "region_id":85688645,
+            "venue_id":689225863
+        }
+    ],
     "wof:id":689225863,
-    "wof:lastmodified":1472625631,
+    "wof:lastmodified":1489020095,
     "wof:name":"Greentech Media",
-    "wof:parent_id":-1,
+    "wof:parent_id":85876611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

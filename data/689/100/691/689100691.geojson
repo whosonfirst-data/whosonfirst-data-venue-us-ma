@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.082432,42.390733,-71.082432,42.390733",
     "geom:latitude":42.390733,
     "geom:longitude":-71.082432,
@@ -33,7 +34,15 @@
     ],
     "sg:website":"timdreherpt.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816797,
+        102191575,
+        404476445,
+        85633793,
+        85950339,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PGEWeLmWEj6RngAi3Z55h_42.390733_-71.082432@1303262219"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461739397,
     "wof:geomhash":"8228d84e438c55897e3f6b7873d8249b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476445,
+            "locality_id":85950339,
+            "neighbourhood_id":85816797,
+            "region_id":85688645,
+            "venue_id":689100691
+        }
+    ],
     "wof:id":689100691,
-    "wof:lastmodified":1472625371,
+    "wof:lastmodified":1489023659,
     "wof:name":"Tim Dreher Therapy Asscociates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

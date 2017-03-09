@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.119339,42.37225,-71.119339,42.37225",
     "geom:latitude":42.37225,
     "geom:longitude":-71.119339,
@@ -31,7 +32,15 @@
         "grocers-ethnic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85844965,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AEtdjlGiCagxFPW694b08_42.372250_-71.119339@1303262215"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461738861,
     "wof:geomhash":"6a8d1c1846cc68b1b06df3ee298e8d47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85844965,
+            "region_id":85688645,
+            "venue_id":689076991
+        }
+    ],
     "wof:id":689076991,
-    "wof:lastmodified":1472625279,
+    "wof:lastmodified":1489019936,
     "wof:name":"Nantucket Nectars",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

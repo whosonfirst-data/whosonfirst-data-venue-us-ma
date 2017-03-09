@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.078097,42.369277,-71.078097,42.369277",
     "geom:latitude":42.369277,
     "geom:longitude":-71.078097,
@@ -31,7 +32,15 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816073,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12GQEiP3oL9xCsscR8ko0N_42.369277_-71.078097@1294127905"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461717970,
     "wof:geomhash":"5d9ed5949586e792ebc992da58909317",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85816073,
+            "region_id":85688645,
+            "venue_id":672403305
+        }
+    ],
     "wof:id":672403305,
-    "wof:lastmodified":1472625665,
+    "wof:lastmodified":1489019646,
     "wof:name":"Elizabeth Baum Attorney",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

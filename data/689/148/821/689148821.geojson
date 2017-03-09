@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.118782,42.372864,-71.118782,42.372864",
     "geom:latitude":42.372864,
     "geom:longitude":-71.118782,
@@ -32,7 +33,15 @@
     ],
     "sg:website":"www.bgood.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85844965,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VYZFkJYxR7RFa7cSEVrwH_42.372864_-71.118782@1303262225"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461740734,
     "wof:geomhash":"5e8d3340e4f75b79682c3fd7d9b3aee5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85844965,
+            "region_id":85688645,
+            "venue_id":689148821
+        }
+    ],
     "wof:id":689148821,
-    "wof:lastmodified":1472625517,
+    "wof:lastmodified":1489019936,
     "wof:name":"b.good",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

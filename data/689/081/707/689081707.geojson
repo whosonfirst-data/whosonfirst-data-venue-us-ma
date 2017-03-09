@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.121033,42.375996,-71.121033,42.375996",
     "geom:latitude":42.375996,
     "geom:longitude":-71.121033,
@@ -33,7 +34,15 @@
     ],
     "sg:website":"http://www.genderaction.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_266JkSVQ1oH2ADMBLZzwZv_42.375996_-71.121033@1303262216"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461738996,
     "wof:geomhash":"f087453c6bf211a00c7b58f8e58b8e8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":689081707
+        }
+    ],
     "wof:id":689081707,
-    "wof:lastmodified":1472625313,
+    "wof:lastmodified":1489020030,
     "wof:name":"Greater Boston Psr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

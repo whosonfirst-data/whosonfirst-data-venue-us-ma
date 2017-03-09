@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.127185,42.394622,-71.127185,42.394622",
     "geom:latitude":42.394622,
     "geom:longitude":-71.127185,
@@ -39,7 +40,10 @@
         85633793,
         85950339,
         102084643,
-        85688645
+        85688645,
+        85837429,
+        404476475,
+        85950329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,12 +62,22 @@
             "neighbourhood_id":85881035,
             "region_id":85688645,
             "venue_id":672173219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85837429,
+            "region_id":85688645,
+            "venue_id":672173219
         }
     ],
     "wof:id":672173219,
-    "wof:lastmodified":1472625059,
+    "wof:lastmodified":1489019862,
     "wof:name":"By Noon Software Inc",
-    "wof:parent_id":85881035,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

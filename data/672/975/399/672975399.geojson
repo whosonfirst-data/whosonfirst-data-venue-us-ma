@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.122243,42.374855,-71.122243,42.374855",
     "geom:latitude":42.374855,
     "geom:longitude":-71.122243,
@@ -28,7 +29,15 @@
     "sg:postcode":"02138",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QAYBaB502f6GOnublKO1V_42.374855_-71.122243@1294127905"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461730922,
     "wof:geomhash":"3a4e03c6b8dff2d42f03cbbf7648646f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":672975399
+        }
+    ],
     "wof:id":672975399,
-    "wof:lastmodified":1472626185,
+    "wof:lastmodified":1489020027,
     "wof:name":"Gutman Library-Research Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

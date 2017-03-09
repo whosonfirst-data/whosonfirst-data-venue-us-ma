@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.115836,42.365778,-71.115836,42.365778",
     "geom:latitude":42.365778,
     "geom:longitude":-71.115836,
@@ -31,7 +32,15 @@
     ],
     "sg:website":"www.hres.harvard.edu/RRE/NewWeb/...",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85844965,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55N7UqLOZ3E0E55jfB9qSg_42.365778_-71.115836@1303262215"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461738834,
     "wof:geomhash":"352afc0a8940653334b5155446cd7fb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85844965,
+            "region_id":85688645,
+            "venue_id":689076041
+        }
+    ],
     "wof:id":689076041,
-    "wof:lastmodified":1472625265,
+    "wof:lastmodified":1489019913,
     "wof:name":"10 Akron Street",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

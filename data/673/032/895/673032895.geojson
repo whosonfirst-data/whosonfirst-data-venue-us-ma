@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.129433,42.416584,-71.129433,42.416584",
     "geom:latitude":42.416584,
     "geom:longitude":-71.129433,
@@ -44,7 +45,10 @@
         85633793,
         85950347,
         102084643,
-        85688645
+        85688645,
+        85856399,
+        404476445,
+        85950339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,12 +67,22 @@
             "neighbourhood_id":85833665,
             "region_id":85688645,
             "venue_id":673032895
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476445,
+            "locality_id":85950339,
+            "neighbourhood_id":85856399,
+            "region_id":85688645,
+            "venue_id":673032895
         }
     ],
     "wof:id":673032895,
-    "wof:lastmodified":1472625083,
+    "wof:lastmodified":1489023704,
     "wof:name":"U-Haul Co",
-    "wof:parent_id":85833665,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

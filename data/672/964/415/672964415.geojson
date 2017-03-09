@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.12581,42.37578,-71.12581,42.37578",
     "geom:latitude":42.37578,
     "geom:longitude":-71.12581,
@@ -31,7 +32,16 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108712253,
+        1108712243,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Glnn14ph5E8BE9PG9bTH0_42.375780_-71.125810@1294127905"
@@ -39,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1461730595,
     "wof:geomhash":"d76c2f837032b6779dea9c5fc9ccb822",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "microhood_id":1108712253,
+            "neighbourhood_id":1108712243,
+            "region_id":85688645,
+            "venue_id":672964415
+        }
+    ],
     "wof:id":672964415,
-    "wof:lastmodified":1472626174,
+    "wof:lastmodified":1489020277,
     "wof:name":"William Lam Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108712253,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

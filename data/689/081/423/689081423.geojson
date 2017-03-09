@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.113783,42.3687,-71.113783,42.3687",
     "geom:latitude":42.3687,
     "geom:longitude":-71.113783,
@@ -31,7 +32,15 @@
         "telegraph"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85844965,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MuWPDqI7dtfW4PdzoHTGI_42.368700_-71.113783@1303262216"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461738991,
     "wof:geomhash":"71828be3f03aa36a693104c24251d5bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85844965,
+            "region_id":85688645,
+            "venue_id":689081423
+        }
+    ],
     "wof:id":689081423,
-    "wof:lastmodified":1472625296,
+    "wof:lastmodified":1489019934,
     "wof:name":"Go Fax",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

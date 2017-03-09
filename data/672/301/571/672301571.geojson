@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.152063,42.377449,-71.152063,42.377449",
     "geom:latitude":42.377449,
     "geom:longitude":-71.152063,
@@ -32,7 +33,15 @@
         "convent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867967,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tc7StOQZ3sYt8Mj1hImDm_42.377449_-71.152063@1294127905"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461715644,
     "wof:geomhash":"7882ace302e951673b7351b15e37cb70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85867967,
+            "region_id":85688645,
+            "venue_id":672301571
+        }
+    ],
     "wof:id":672301571,
-    "wof:lastmodified":1472625500,
+    "wof:lastmodified":1489020054,
     "wof:name":"Sacred Heart Religious",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

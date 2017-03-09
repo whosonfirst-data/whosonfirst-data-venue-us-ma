@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.124303,42.392137,-71.124303,42.392137",
     "geom:latitude":42.392137,
     "geom:longitude":-71.124303,
@@ -44,7 +45,10 @@
         85633793,
         85950339,
         102084643,
-        85688645
+        85688645,
+        85837429,
+        404476475,
+        85950329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,12 +67,22 @@
             "neighbourhood_id":85881035,
             "region_id":85688645,
             "venue_id":689089009
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85837429,
+            "region_id":85688645,
+            "venue_id":689089009
         }
     ],
     "wof:id":689089009,
-    "wof:lastmodified":1472625284,
+    "wof:lastmodified":1489019854,
     "wof:name":"Murder Victims Families For Reconciliation",
-    "wof:parent_id":85881035,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

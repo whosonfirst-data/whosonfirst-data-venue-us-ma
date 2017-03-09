@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.084476,42.371668,-71.084476,42.371668",
     "geom:latitude":42.371668,
     "geom:longitude":-71.084476,
@@ -32,7 +33,15 @@
     ],
     "sg:website":"www.pageworks.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816073,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7duRoMJLi2BNzI7AIIiFb9_42.371668_-71.084476@1294127905"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461723708,
     "wof:geomhash":"d3bb09db492f7119ba739cb8e809ce5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85816073,
+            "region_id":85688645,
+            "venue_id":672649855
+        }
+    ],
     "wof:id":672649855,
-    "wof:lastmodified":1472625905,
+    "wof:lastmodified":1489019821,
     "wof:name":"Pageworks Headquarters",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

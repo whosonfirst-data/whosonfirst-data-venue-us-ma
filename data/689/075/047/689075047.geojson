@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.124693,42.373979,-71.124693,42.373979",
     "geom:latitude":42.373979,
     "geom:longitude":-71.124693,
@@ -32,7 +33,15 @@
         "mental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7azyyVQuSTlfrxl6Dvx55k_42.373979_-71.124693@1303262215"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461738812,
     "wof:geomhash":"857e66e382bab98cf6b88127a8cacf55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":689075047
+        }
+    ],
     "wof:id":689075047,
-    "wof:lastmodified":1472625222,
+    "wof:lastmodified":1489019985,
     "wof:name":"Christian Counseling Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

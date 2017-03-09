@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.109293,42.396569,-71.109293,42.396569",
     "geom:latitude":42.396569,
     "geom:longitude":-71.109293,
@@ -34,7 +35,15 @@
         "gymnasium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85881041,
+        102191575,
+        404476445,
+        85633793,
+        85950339,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61rufm4Sm11DS88XLxlxPR_42.396569_-71.109293@1294127905"
@@ -42,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1461712276,
     "wof:geomhash":"cf49fe0ba403d1550d84d7517dbc1294",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476445,
+            "locality_id":85950339,
+            "neighbourhood_id":85881041,
+            "region_id":85688645,
+            "venue_id":672141181
+        }
+    ],
     "wof:id":672141181,
-    "wof:lastmodified":1472624908,
+    "wof:lastmodified":1489023776,
     "wof:name":"Curves For Women",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

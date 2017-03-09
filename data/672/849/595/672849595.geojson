@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.129522,42.375932,-71.129522,42.375932",
     "geom:latitude":42.375932,
     "geom:longitude":-71.129522,
@@ -28,7 +29,15 @@
     "sg:postcode":"02138",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AyjvPwlgSZ4Qvx7w2DV30_42.375932_-71.129522@1294127905"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461727986,
     "wof:geomhash":"a2c89aad6d4a97cb8317711531a4a045",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":672849595
+        }
+    ],
     "wof:id":672849595,
-    "wof:lastmodified":1472626083,
+    "wof:lastmodified":1489020051,
     "wof:name":"G9 Girl Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

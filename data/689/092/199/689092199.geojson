@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.08044,42.37124,-71.08044,42.37124",
     "geom:latitude":42.37124,
     "geom:longitude":-71.08044,
@@ -28,7 +29,15 @@
     "sg:postcode":"02141",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816073,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36CQ0uu5yiJA0nFMN0Ni8c_42.371240_-71.080440@1303262218"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461739225,
     "wof:geomhash":"9288ee02c13c2a8431dda7cd149d923f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85816073,
+            "region_id":85688645,
+            "venue_id":689092199
+        }
+    ],
     "wof:id":689092199,
-    "wof:lastmodified":1472625329,
+    "wof:lastmodified":1489019785,
     "wof:name":"Grantham Cencarik PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

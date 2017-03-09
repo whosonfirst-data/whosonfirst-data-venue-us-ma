@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.112177,42.369663,-71.112177,42.369663",
     "geom:latitude":42.369663,
     "geom:longitude":-71.112177,
@@ -28,7 +29,15 @@
     "sg:postcode":"02138",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85844965,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hbJlJ15jIpmXS4fMRfwfi_42.369663_-71.112177@1303262216"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461738980,
     "wof:geomhash":"5652abce3996453fd9b8c51f81127c65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85844965,
+            "region_id":85688645,
+            "venue_id":689080871
+        }
+    ],
     "wof:id":689080871,
-    "wof:lastmodified":1472625313,
+    "wof:lastmodified":1489019906,
     "wof:name":"Stubbins Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

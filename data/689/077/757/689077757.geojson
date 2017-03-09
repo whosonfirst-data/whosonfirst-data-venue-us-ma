@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.120501,42.372108,-71.120501,42.372108",
     "geom:latitude":42.372108,
     "geom:longitude":-71.120501,
@@ -32,7 +33,15 @@
     ],
     "sg:website":"www.9taste.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85844965,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bYQOc4NXryK9VMQqFOLrP_42.372108_-71.120501@1303262216"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461738880,
     "wof:geomhash":"25e4708d11533e862a5c63f8bba676c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85844965,
+            "region_id":85688645,
+            "venue_id":689077757
+        }
+    ],
     "wof:id":689077757,
-    "wof:lastmodified":1472625292,
+    "wof:lastmodified":1489019912,
     "wof:name":"9 Tastes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

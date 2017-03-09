@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.122137,42.377503,-71.122137,42.377503",
     "geom:latitude":42.377503,
     "geom:longitude":-71.122137,
@@ -31,7 +32,16 @@
         "club"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108712253,
+        1108712243,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Pwrp16XTyMt2fIx0uiMWY_42.377503_-71.122137@1294127905"
@@ -39,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1461711219,
     "wof:geomhash":"0d22be32cf6a97aef2f8e5efce1fd3dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "microhood_id":1108712253,
+            "neighbourhood_id":1108712243,
+            "region_id":85688645,
+            "venue_id":656362699
+        }
+    ],
     "wof:id":656362699,
-    "wof:lastmodified":1472624971,
+    "wof:lastmodified":1489020278,
     "wof:name":"Fly Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108712253,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

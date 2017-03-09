@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.117525,42.400832,-71.117525,42.400832",
     "geom:latitude":42.400832,
     "geom:longitude":-71.117525,
@@ -30,13 +31,14 @@
     "sg:website":"www.dunkindonuts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881049,
+        85881041,
         102191575,
         404476445,
         85633793,
         85950339,
         102084643,
-        85688645
+        85688645,
+        85881049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,25 @@
             "county_id":102084643,
             "localadmin_id":404476445,
             "locality_id":85950339,
+            "neighbourhood_id":85881041,
+            "region_id":85688645,
+            "venue_id":689097625
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476445,
+            "locality_id":85950339,
             "neighbourhood_id":85881049,
             "region_id":85688645,
             "venue_id":689097625
         }
     ],
     "wof:id":689097625,
-    "wof:lastmodified":1472625358,
+    "wof:lastmodified":1489023796,
     "wof:name":"Dunkin Donuts",
-    "wof:parent_id":85881049,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

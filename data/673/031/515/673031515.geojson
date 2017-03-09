@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.14308,42.380284,-71.14308,42.380284",
     "geom:latitude":42.380284,
     "geom:longitude":-71.14308,
@@ -32,7 +33,15 @@
         "economic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dzXqgQgmnZ5r4gS9QzZLC_42.380284_-71.143080@1294127905"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461732359,
     "wof:geomhash":"04e47b72e2e7d41c8f0f1999870f20d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":673031515
+        }
+    ],
     "wof:id":673031515,
-    "wof:lastmodified":1472625027,
+    "wof:lastmodified":1489019990,
     "wof:name":"Simon Johnson",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

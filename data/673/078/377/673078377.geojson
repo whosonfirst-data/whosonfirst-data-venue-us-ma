@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.121367,42.372083,-71.121367,42.372083",
     "geom:latitude":42.372083,
     "geom:longitude":-71.121367,
@@ -31,7 +32,15 @@
         "japanese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7k1LRGboLjJnGLy6hTVKkF_42.371511_-71.121070@1293134755"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461733316,
     "wof:geomhash":"c555ca67ab4dd4d0a562116c7cc43719",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":673078377
+        }
+    ],
     "wof:id":673078377,
-    "wof:lastmodified":1472625212,
+    "wof:lastmodified":1489020015,
     "wof:name":"Takemura Japanese Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

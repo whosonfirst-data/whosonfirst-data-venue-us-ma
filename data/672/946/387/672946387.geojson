@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.139867,42.380893,-71.139867,42.380893",
     "geom:latitude":42.380893,
     "geom:longitude":-71.139867,
@@ -31,7 +32,16 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108713389,
+        85867961,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pQyn7vx9aSmsspVfA5vAq_42.380893_-71.139867@1294127905"
@@ -39,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1461730028,
     "wof:geomhash":"4b8479b5c2e32d5c2686a8028432fe40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "microhood_id":1108713389,
+            "neighbourhood_id":85867961,
+            "region_id":85688645,
+            "venue_id":672946387
+        }
+    ],
     "wof:id":672946387,
-    "wof:lastmodified":1472626159,
+    "wof:lastmodified":1489020318,
     "wof:name":"MFDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108713389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.12005,42.377545,-71.12005,42.377545",
     "geom:latitude":42.377545,
     "geom:longitude":-71.12005,
@@ -42,7 +43,16 @@
     ],
     "sg:website":"http://www.mechuwana.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108713407,
+        85876607,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cQk5epxBkEUsTGzkRZ1P5_42.377545_-71.120050@1303262216"
@@ -50,11 +60,23 @@
     "wof:country":"US",
     "wof:created":1461738991,
     "wof:geomhash":"58b2f685b3bbe235df461cea2215ff62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "microhood_id":1108713407,
+            "neighbourhood_id":85876607,
+            "region_id":85688645,
+            "venue_id":689081417
+        }
+    ],
     "wof:id":689081417,
-    "wof:lastmodified":1472625290,
+    "wof:lastmodified":1489020324,
     "wof:name":"Harvard-Epworth United Mthdst",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108713407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

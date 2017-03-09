@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.08462,42.37236,-71.08462,42.37236",
     "geom:latitude":42.37236,
     "geom:longitude":-71.08462,
@@ -28,7 +29,16 @@
     "sg:province":"MA",
     "sg:website":"www.ci.cambridge.ma.us/cdd/cp/pa...",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816073,
+        102191575,
+        404476475,
+        85633793,
+        85950329,
+        102084643,
+        85688645,
+        85876615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BadXwUTuTtmTsidwC61YV_42.372360_-71.084620@1303262225"
@@ -36,11 +46,32 @@
     "wof:country":"US",
     "wof:created":1461740735,
     "wof:geomhash":"a0bfce88a3e96252f3a67b840fa7bc04",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85816073,
+            "region_id":85688645,
+            "venue_id":689148857
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476475,
+            "locality_id":85950329,
+            "neighbourhood_id":85876615,
+            "region_id":85688645,
+            "venue_id":689148857
+        }
+    ],
     "wof:id":689148857,
-    "wof:lastmodified":1472625518,
+    "wof:lastmodified":1489019810,
     "wof:name":"Gold Star Mothers Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

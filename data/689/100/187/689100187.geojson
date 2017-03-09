@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.079587,42.393152,-71.079587,42.393152",
     "geom:latitude":42.393152,
     "geom:longitude":-71.079587,
@@ -42,7 +43,15 @@
     ],
     "sg:website":"http://www.centralsteelsupply.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85816797,
+        102191575,
+        404476445,
+        85633793,
+        85950339,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ptj9b0q7wz3bdrS208VZ8_42.393152_-71.079587@1303262219"
@@ -50,11 +59,22 @@
     "wof:country":"US",
     "wof:created":1461739388,
     "wof:geomhash":"c271d733479349f2b228735100a4a1ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476445,
+            "locality_id":85950339,
+            "neighbourhood_id":85816797,
+            "region_id":85688645,
+            "venue_id":689100187
+        }
+    ],
     "wof:id":689100187,
-    "wof:lastmodified":1472625337,
+    "wof:lastmodified":1489023657,
     "wof:name":"Central Steel Supply Co.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],
