@@ -2,9 +2,14 @@
   "id": 672542133,
   "type": "Feature",
   "properties": {
+    "addr:full":"98 Granite Ave Dorchester Ctr MA 02124",
+    "addr:housenumber":"98",
+    "addr:postcode":"02124",
+    "addr:street":"Granite Ave Dorchester Ctr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.054236,42.279373,-71.054236,42.279373",
     "geom:latitude":42.279373,
     "geom:longitude":-71.054236,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420524011,
+        1108701997,
+        85814925,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        420523747
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":420524011,
-            "region_id":85688645,
-            "venue_id":672542133
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420523747,
+            "microhood_id":1108701997,
+            "neighbourhood_id":85814925,
             "region_id":85688645,
             "venue_id":672542133
         }
     ],
     "wof:id":672542133,
-    "wof:lastmodified":1466554316,
+    "wof:lastmodified":1489011097,
     "wof:name":"Butlers Contracting Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108701997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

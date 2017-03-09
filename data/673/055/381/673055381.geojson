@@ -2,9 +2,14 @@
   "id": 673055381,
   "type": "Feature",
   "properties": {
+    "addr:full":"3050 Washington St Roxbury MA 02119",
+    "addr:housenumber":"3050",
+    "addr:postcode":"02119",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.097801,42.316502,-71.097801,42.316502",
     "geom:latitude":42.316502,
     "geom:longitude":-71.097801,
@@ -30,15 +35,7 @@
         "dancing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891361,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3S37OwUe1APBWFu3xazjmv_42.315969_-71.098066@1293134755"
@@ -46,22 +43,11 @@
     "wof:country":"US",
     "wof:created":1461732865,
     "wof:geomhash":"67da5ab1d1ab08ef61b213ff6c898e21",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85891361,
-            "region_id":85688645,
-            "venue_id":673055381
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":673055381,
-    "wof:lastmodified":1466549278,
+    "wof:lastmodified":1489011327,
     "wof:name":"Origination Inc",
-    "wof:parent_id":85891361,
+    "wof:parent_id":1108705213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

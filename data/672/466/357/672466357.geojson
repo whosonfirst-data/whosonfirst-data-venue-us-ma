@@ -2,9 +2,14 @@
   "id": 672466357,
   "type": "Feature",
   "properties": {
+    "addr:full":"261 W Roxbury Pkwy West Roxbury MA 02132",
+    "addr:housenumber":"261",
+    "addr:postcode":"02132",
+    "addr:street":"W Roxbury Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.14591,42.29783,-71.14591,42.29783",
     "geom:latitude":42.29783,
     "geom:longitude":-71.14591,
@@ -27,7 +32,15 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85856255,
+        102191575,
+        404476573,
+        85633793,
+        85950361,
+        102084423,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fbm76Yi2mKiLXt2lD6ozP_42.297830_-71.145910@1294127905"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461719595,
     "wof:geomhash":"6a1652e0f9defe0f443fa88297b1f669",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":85856255,
+            "region_id":85688645,
+            "venue_id":672466357
+        }
+    ],
     "wof:id":672466357,
-    "wof:lastmodified":1466565695,
+    "wof:lastmodified":1489010297,
     "wof:name":"Tree & Lawn Care Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85856255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

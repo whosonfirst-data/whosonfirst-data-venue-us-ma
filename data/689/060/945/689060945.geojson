@@ -2,9 +2,14 @@
   "id": 689060945,
   "type": "Feature",
   "properties": {
+    "addr:full":"465 Medford St Charlestown MA 02129",
+    "addr:housenumber":"465",
+    "addr:postcode":"02129",
+    "addr:street":"Medford St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.068398,42.383701,-71.068398,42.383701",
     "geom:latitude":42.383701,
     "geom:longitude":-71.068398,
@@ -39,14 +44,13 @@
     "sg:website":"http://www.deltamass.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420524033,
+        85810461,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        420523683
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,25 +66,15 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":420524033,
-            "region_id":85688645,
-            "venue_id":689060945
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420523683,
+            "neighbourhood_id":85810461,
             "region_id":85688645,
             "venue_id":689060945
         }
     ],
     "wof:id":689060945,
-    "wof:lastmodified":1466566135,
+    "wof:lastmodified":1489008540,
     "wof:name":"Delta Dental Plan of Massachusetts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

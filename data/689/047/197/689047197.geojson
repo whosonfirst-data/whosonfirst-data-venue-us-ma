@@ -2,9 +2,14 @@
   "id": 689047197,
   "type": "Feature",
   "properties": {
+    "addr:full":"540 Gallivan Blvd Dorchester Center MA 02124",
+    "addr:housenumber":"540",
+    "addr:postcode":"02124",
+    "addr:street":"Gallivan Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.0547,42.283,-71.0547,42.283",
     "geom:latitude":42.283,
     "geom:longitude":-71.0547,
@@ -30,14 +35,14 @@
     "sg:website":"www.baystatept.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420524011,
+        1108711937,
+        85814925,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        420523747
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":420524011,
-            "region_id":85688645,
-            "venue_id":689047197
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420523747,
+            "microhood_id":1108711937,
+            "neighbourhood_id":85814925,
             "region_id":85688645,
             "venue_id":689047197
         }
     ],
     "wof:id":689047197,
-    "wof:lastmodified":1466565385,
+    "wof:lastmodified":1489011925,
     "wof:name":"Bay State Physical Therapy",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108711937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

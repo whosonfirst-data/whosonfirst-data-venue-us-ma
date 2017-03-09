@@ -2,9 +2,14 @@
   "id": 673087359,
   "type": "Feature",
   "properties": {
+    "addr:full":"183 State St Boston MA 02109",
+    "addr:housenumber":"183",
+    "addr:postcode":"02109",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.052951,42.359308,-71.052951,42.359308",
     "geom:latitude":42.359308,
     "geom:longitude":-71.052951,
@@ -29,13 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866973,
+        85688645,
         102191575,
         404476573,
         85633793,
         85950361,
-        102084423,
-        85688645
+        102084423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +55,14 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85866973,
             "region_id":85688645,
             "venue_id":673087359
         }
     ],
     "wof:id":673087359,
-    "wof:lastmodified":1466551836,
+    "wof:lastmodified":1489003298,
     "wof:name":"Dockside Sports Bar ",
-    "wof:parent_id":85866973,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

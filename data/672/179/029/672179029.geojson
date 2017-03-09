@@ -2,9 +2,14 @@
   "id": 672179029,
   "type": "Feature",
   "properties": {
+    "addr:full":"161 Granite Ave Dorchester Ctr MA 02124",
+    "addr:housenumber":"161",
+    "addr:postcode":"02124",
+    "addr:street":"Granite Ave Dorchester Ctr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.054107,42.278629,-71.054107,42.278629",
     "geom:latitude":42.278629,
     "geom:longitude":-71.054107,
@@ -31,14 +36,14 @@
     "sg:website":"www.shields.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523747,
+        1108701997,
+        85814925,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        420524011
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,25 +59,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":420523747,
-            "region_id":85688645,
-            "venue_id":672179029
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420524011,
+            "microhood_id":1108701997,
+            "neighbourhood_id":85814925,
             "region_id":85688645,
             "venue_id":672179029
         }
     ],
     "wof:id":672179029,
-    "wof:lastmodified":1466546602,
+    "wof:lastmodified":1489011098,
     "wof:name":"Shields Mri Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108701997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

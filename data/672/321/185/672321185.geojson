@@ -2,9 +2,14 @@
   "id": 672321185,
   "type": "Feature",
   "properties": {
+    "addr:full":"736 Cambridge St Brighton MA 02134",
+    "addr:housenumber":"736",
+    "addr:postcode":"02134",
+    "addr:street":"Cambridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.147078,42.350165,-71.147078,42.350165",
     "geom:latitude":42.350165,
     "geom:longitude":-71.147078,
@@ -35,7 +40,8 @@
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85802869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,22 @@
             "neighbourhood_id":85807537,
             "region_id":85688645,
             "venue_id":672321185
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":85802869,
+            "region_id":85688645,
+            "venue_id":672321185
         }
     ],
     "wof:id":672321185,
-    "wof:lastmodified":1466555705,
+    "wof:lastmodified":1489008046,
     "wof:name":"Robert Stern MD",
-    "wof:parent_id":85807537,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

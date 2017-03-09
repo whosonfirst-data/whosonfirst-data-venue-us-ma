@@ -2,9 +2,14 @@
   "id": 689004809,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Financial Center Boston MA 02111",
+    "addr:housenumber":"1",
+    "addr:postcode":"02111",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.056204,42.352537,-71.056204,42.352537",
     "geom:latitude":42.352537,
     "geom:longitude":-71.056204,
@@ -25,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869413,
+        85815133,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85869413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "neighbourhood_id":85815133,
+            "region_id":85688645,
+            "venue_id":689004809
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
             "neighbourhood_id":85869413,
             "region_id":85688645,
             "venue_id":689004809
         }
     ],
     "wof:id":689004809,
-    "wof:lastmodified":1466563478,
+    "wof:lastmodified":1489009292,
     "wof:name":"Atkins Sharifa J Atty",
-    "wof:parent_id":85869413,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

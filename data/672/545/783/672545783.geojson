@@ -2,9 +2,14 @@
   "id": 672545783,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Franconia St Dorchester MA 02122",
+    "addr:housenumber":"47",
+    "addr:postcode":"02122",
+    "addr:street":"Franconia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.05338,42.285351,-71.05338,42.285351",
     "geom:latitude":42.285351,
     "geom:longitude":-71.05338,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420524011,
+        1108711937,
+        85814925,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        420523747
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":420524011,
-            "region_id":85688645,
-            "venue_id":672545783
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420523747,
+            "microhood_id":1108711937,
+            "neighbourhood_id":85814925,
             "region_id":85688645,
             "venue_id":672545783
         }
     ],
     "wof:id":672545783,
-    "wof:lastmodified":1466555519,
+    "wof:lastmodified":1489011922,
     "wof:name":"Richard E Mc Keen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108711937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

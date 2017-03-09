@@ -2,9 +2,14 @@
   "id": 672265159,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Grove St West Roxbury MA 02132",
+    "addr:housenumber":"10",
+    "addr:postcode":"02132",
+    "addr:street":"Grove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.161,42.267725,-71.161,42.267725",
     "geom:latitude":42.267725,
     "geom:longitude":-71.161,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420524057,
+        1108712093,
+        85856255,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        420523795
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":420524057,
-            "region_id":85688645,
-            "venue_id":672265159
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420523795,
+            "microhood_id":1108712093,
+            "neighbourhood_id":85856255,
             "region_id":85688645,
             "venue_id":672265159
         }
     ],
     "wof:id":672265159,
-    "wof:lastmodified":1466552073,
+    "wof:lastmodified":1489012182,
     "wof:name":"West Roxbury Crushed Stone Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108712093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

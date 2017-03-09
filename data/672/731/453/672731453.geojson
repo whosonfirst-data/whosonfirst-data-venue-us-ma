@@ -2,9 +2,14 @@
   "id": 672731453,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Alwyn St Hyde Park MA 02136",
+    "addr:housenumber":"37",
+    "addr:postcode":"02136",
+    "addr:street":"Alwyn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.14342,42.254644,-71.14342,42.254644",
     "geom:latitude":42.254644,
     "geom:longitude":-71.14342,
@@ -27,7 +32,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420524063,
+        102191575,
+        404476573,
+        85633793,
+        85950361,
+        102084423,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dTue8pIvJ3zonynxwR43A_42.254644_-71.143420@1294127905"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461725548,
     "wof:geomhash":"07cbc5f983841f7ebb2d2e0f7f6cfe43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":420524063,
+            "region_id":85688645,
+            "venue_id":672731453
+        }
+    ],
     "wof:id":672731453,
-    "wof:lastmodified":1466572129,
+    "wof:lastmodified":1489010778,
     "wof:name":"First Hispanic Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420524063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

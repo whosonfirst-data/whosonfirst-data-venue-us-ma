@@ -2,9 +2,14 @@
   "id": 689024523,
   "type": "Feature",
   "properties": {
+    "addr:full":"191 Stuart St Boston MA 02116",
+    "addr:housenumber":"191",
+    "addr:postcode":"02116",
+    "addr:street":"Stuart St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.067048,42.350961,-71.067048,42.350961",
     "geom:latitude":42.350961,
     "geom:longitude":-71.067048,
@@ -30,14 +35,14 @@
     "sg:website":"www.vapiano.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891285,
+        1108711983,
+        85815133,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        85866971
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85891285,
-            "region_id":85688645,
-            "venue_id":689024523
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85866971,
+            "microhood_id":1108711983,
+            "neighbourhood_id":85815133,
             "region_id":85688645,
             "venue_id":689024523
         }
     ],
     "wof:id":689024523,
-    "wof:lastmodified":1466564184,
+    "wof:lastmodified":1489012094,
     "wof:name":"Vapiano",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108711983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 689024059,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Commonwealth Avenue Boston MA 02116",
+    "addr:housenumber":"29",
+    "addr:postcode":"02116",
+    "addr:street":"Commonwealth Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.074015,42.353229,-71.074015,42.353229",
     "geom:latitude":42.353229,
     "geom:longitude":-71.074015,
@@ -33,13 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805015,
+        85804161,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85805015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +61,25 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "neighbourhood_id":85804161,
+            "region_id":85688645,
+            "venue_id":689024059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
             "neighbourhood_id":85805015,
             "region_id":85688645,
             "venue_id":689024059
         }
     ],
     "wof:id":689024059,
-    "wof:lastmodified":1466564074,
+    "wof:lastmodified":1489008164,
     "wof:name":"Bloom D Gil DMD",
-    "wof:parent_id":85805015,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

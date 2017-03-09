@@ -2,9 +2,14 @@
   "id": 672554029,
   "type": "Feature",
   "properties": {
+    "addr:full":"241 Blue Hill Ave Roxbury MA 02119",
+    "addr:housenumber":"241",
+    "addr:postcode":"02119",
+    "addr:street":"Blue Hill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.07828,42.315952,-71.07828,42.315952",
     "geom:latitude":42.315952,
     "geom:longitude":-71.07828,
@@ -27,15 +32,7 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85846283,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3msFZMMv33JNYfe74eWztt_42.315952_-71.078280@1294127905"
@@ -43,22 +40,11 @@
     "wof:country":"US",
     "wof:created":1461721552,
     "wof:geomhash":"6005374ba16d97833d5860619af99b5c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85846283,
-            "region_id":85688645,
-            "venue_id":672554029
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":672554029,
-    "wof:lastmodified":1466557849,
+    "wof:lastmodified":1489011743,
     "wof:name":"Zion Apostolic Temple",
-    "wof:parent_id":85846283,
+    "wof:parent_id":1108711421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

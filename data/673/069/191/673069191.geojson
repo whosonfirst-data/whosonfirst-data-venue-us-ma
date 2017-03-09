@@ -2,9 +2,14 @@
   "id": 673069191,
   "type": "Feature",
   "properties": {
+    "addr:full":"659 Warren St Dorchester MA 02121",
+    "addr:housenumber":"659",
+    "addr:postcode":"02121",
+    "addr:street":"Warren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.082703,42.309799,-71.082703,42.309799",
     "geom:latitude":42.309799,
     "geom:longitude":-71.082703,
@@ -27,15 +32,7 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420524067,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zT9xGbexbIOerUiFpqqDD_42.309782_-71.082870@1293134755"
@@ -43,22 +40,11 @@
     "wof:country":"US",
     "wof:created":1461733126,
     "wof:geomhash":"153b8628bd7a8a26655ee99885c016fa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420524067,
-            "region_id":85688645,
-            "venue_id":673069191
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":673069191,
-    "wof:lastmodified":1466550378,
+    "wof:lastmodified":1489011748,
     "wof:name":"Red Island Restaurant",
-    "wof:parent_id":420524067,
+    "wof:parent_id":1108711421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

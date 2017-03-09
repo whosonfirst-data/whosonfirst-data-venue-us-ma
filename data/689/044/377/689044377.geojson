@@ -2,9 +2,14 @@
   "id": 689044377,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 Blue Hill Ave Dorchester MA 02121",
+    "addr:housenumber":"515",
+    "addr:postcode":"02121",
+    "addr:street":"Blue Hill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.084171,42.3075,-71.084171,42.3075",
     "geom:latitude":42.3075,
     "geom:longitude":-71.084171,
@@ -29,15 +34,7 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891363,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_757QtfLC64YOnoEiAktkrm_42.307500_-71.084171@1303262211"
@@ -45,22 +42,11 @@
     "wof:country":"US",
     "wof:created":1461738174,
     "wof:geomhash":"32903fb33fb52e92a215de27069c7be4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85891363,
-            "region_id":85688645,
-            "venue_id":689044377
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689044377,
-    "wof:lastmodified":1466565186,
+    "wof:lastmodified":1489011749,
     "wof:name":"Nativity Miguel Network of Schools",
-    "wof:parent_id":85891363,
+    "wof:parent_id":1108711421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

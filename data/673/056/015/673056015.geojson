@@ -2,9 +2,14 @@
   "id": 673056015,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Constitution Rd Charlestown MA 02129",
+    "addr:housenumber":"28",
+    "addr:postcode":"02129",
+    "addr:street":"Constitution Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.059806,42.371275,-71.059806,42.371275",
     "geom:latitude":42.371275,
     "geom:longitude":-71.059806,
@@ -29,14 +34,14 @@
     "sg:website":"www.ConstitutionMarina.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837591,
+        85810461,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
         85688645,
-        85891299
+        85837591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +57,7 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85837591,
+            "neighbourhood_id":85810461,
             "region_id":85688645,
             "venue_id":673056015
         },
@@ -62,15 +67,15 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85891299,
+            "neighbourhood_id":85837591,
             "region_id":85688645,
             "venue_id":673056015
         }
     ],
     "wof:id":673056015,
-    "wof:lastmodified":1466549271,
+    "wof:lastmodified":1489008515,
     "wof:name":"Constitution Marina",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

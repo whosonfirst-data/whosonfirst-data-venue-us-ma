@@ -2,9 +2,14 @@
   "id": 672274055,
   "type": "Feature",
   "properties": {
+    "addr:full":"1971 Columbus Ave Roxbury MA 02119",
+    "addr:housenumber":"1971",
+    "addr:postcode":"02119",
+    "addr:street":"Columbus Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.098409,42.316655,-71.098409,42.316655",
     "geom:latitude":42.316655,
     "geom:longitude":-71.098409,
@@ -28,15 +33,7 @@
         "barber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891361,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TPvK42llddsYfyPavKBnY_42.316655_-71.098409@1294127905"
@@ -44,22 +41,11 @@
     "wof:country":"US",
     "wof:created":1461715075,
     "wof:geomhash":"954d64e68a6474246b719df9bc41e2ff",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85891361,
-            "region_id":85688645,
-            "venue_id":672274055
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":672274055,
-    "wof:lastmodified":1466552591,
+    "wof:lastmodified":1489011327,
     "wof:name":"Lawson Beauty Supply",
-    "wof:parent_id":85891361,
+    "wof:parent_id":1108705213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

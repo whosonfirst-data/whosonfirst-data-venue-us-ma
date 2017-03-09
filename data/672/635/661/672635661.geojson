@@ -2,9 +2,14 @@
   "id": 672635661,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Washington St Boston MA 02121",
+    "addr:housenumber":"42",
+    "addr:postcode":"02121",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.082732,42.30796,-71.082732,42.30796",
     "geom:latitude":42.30796,
     "geom:longitude":-71.082732,
@@ -27,15 +32,7 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420524067,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Jgm2RGcElJuFQkeuivm9D_42.307960_-71.082732@1294127905"
@@ -43,22 +40,11 @@
     "wof:country":"US",
     "wof:created":1461723406,
     "wof:geomhash":"4342203272ba69afdbabc4a9b3f0af75",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420524067,
-            "region_id":85688645,
-            "venue_id":672635661
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":672635661,
-    "wof:lastmodified":1466570254,
+    "wof:lastmodified":1489011748,
     "wof:name":"Grove Hall Bakery",
-    "wof:parent_id":420524067,
+    "wof:parent_id":1108711421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 689040721,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Wardman Rd Roxbury MA 02119",
+    "addr:housenumber":"9",
+    "addr:postcode":"02119",
+    "addr:street":"Wardman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.094487,42.315627,-71.094487,42.315627",
     "geom:latitude":42.315627,
     "geom:longitude":-71.094487,
@@ -27,15 +32,7 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85836877,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16UrRxbVqsVSgKIkyi4Oas_42.315627_-71.094487@1303262210"
@@ -43,22 +40,11 @@
     "wof:country":"US",
     "wof:created":1461738078,
     "wof:geomhash":"d9b22245ad1da203013216bb05466dc3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85836877,
-            "region_id":85688645,
-            "venue_id":689040721
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689040721,
-    "wof:lastmodified":1466565026,
+    "wof:lastmodified":1489011329,
     "wof:name":"Urban Edge",
-    "wof:parent_id":85836877,
+    "wof:parent_id":1108705213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

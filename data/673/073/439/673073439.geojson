@@ -2,9 +2,14 @@
   "id": 673073439,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 Tremont St Boston MA 02116",
+    "addr:housenumber":"275",
+    "addr:postcode":"02116",
+    "addr:street":"Tremont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.065201,42.349899,-71.065201,42.349899",
     "geom:latitude":42.349899,
     "geom:longitude":-71.065201,
@@ -30,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891285,
+        1108711983,
+        85815133,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        85866971
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85891285,
-            "region_id":85688645,
-            "venue_id":673073439
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85866971,
+            "microhood_id":1108711983,
+            "neighbourhood_id":85815133,
             "region_id":85688645,
             "venue_id":673073439
         }
     ],
     "wof:id":673073439,
-    "wof:lastmodified":1466550759,
+    "wof:lastmodified":1489012112,
     "wof:name":"Jukebox",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108711983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

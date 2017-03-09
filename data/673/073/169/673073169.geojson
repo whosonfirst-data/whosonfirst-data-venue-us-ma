@@ -2,9 +2,14 @@
   "id": 673073169,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Blackstone St Boston MA 02109",
+    "addr:housenumber":"106",
+    "addr:postcode":"02109",
+    "addr:street":"Blackstone St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.05644,42.361745,-71.05644,42.361745",
     "geom:latitude":42.361745,
     "geom:longitude":-71.05644,
@@ -30,13 +35,12 @@
     "sg:website":"www.haymarketpizzaboston.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891269,
+        85688645,
         102191575,
         404476573,
         85633793,
         85950361,
-        102084423,
-        85688645
+        102084423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +56,14 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85891269,
             "region_id":85688645,
             "venue_id":673073169
         }
     ],
     "wof:id":673073169,
-    "wof:lastmodified":1466550698,
+    "wof:lastmodified":1489007351,
     "wof:name":"Haymarket Pizza",
-    "wof:parent_id":85891269,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

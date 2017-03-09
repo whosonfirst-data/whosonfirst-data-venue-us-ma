@@ -2,9 +2,14 @@
   "id": 689007587,
   "type": "Feature",
   "properties": {
+    "addr:full":"260 Tremont Street Tufts Medical Center, Biewend Building, 7th Floor Boston MA 02112",
+    "addr:housenumber":"260;7th floor",
+    "addr:postcode":"02112",
+    "addr:street":"Tremont Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.065112,42.350395,-71.065112,42.350395",
     "geom:latitude":42.350395,
     "geom:longitude":-71.065112,
@@ -30,14 +35,14 @@
     "sg:website":"advancedorthopedic.net/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891285,
+        1108711983,
+        85815133,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        85866971
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85891285,
-            "region_id":85688645,
-            "venue_id":689007587
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85866971,
+            "microhood_id":1108711983,
+            "neighbourhood_id":85815133,
             "region_id":85688645,
             "venue_id":689007587
         }
     ],
     "wof:id":689007587,
-    "wof:lastmodified":1466563414,
+    "wof:lastmodified":1489012119,
     "wof:name":"Orthopedic & Sports Physical Therapy",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108711983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

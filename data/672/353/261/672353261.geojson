@@ -2,9 +2,14 @@
   "id": 672353261,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 13th St Charlestown MA 02129",
+    "addr:housenumber":"4",
+    "addr:postcode":"02129",
+    "addr:street":"13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.052031,42.378153,-71.052031,42.378153",
     "geom:latitude":42.378153,
     "geom:longitude":-71.052031,
@@ -31,8 +36,7 @@
         85633793,
         85950361,
         102084423,
-        85688645,
-        85891299
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,22 +55,12 @@
             "neighbourhood_id":85810461,
             "region_id":85688645,
             "venue_id":672353261
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85891299,
-            "region_id":85688645,
-            "venue_id":672353261
         }
     ],
     "wof:id":672353261,
-    "wof:lastmodified":1466557596,
+    "wof:lastmodified":1489007558,
     "wof:name":"Heafitz & Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

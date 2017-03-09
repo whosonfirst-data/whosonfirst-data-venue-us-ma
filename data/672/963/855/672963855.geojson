@@ -2,9 +2,14 @@
   "id": 672963855,
   "type": "Feature",
   "properties": {
+    "addr:full":"161 Prescott St East Boston MA 02128",
+    "addr:housenumber":"161",
+    "addr:postcode":"02128",
+    "addr:street":"Prescott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.024693,42.375203,-71.024693,42.375203",
     "geom:latitude":42.375203,
     "geom:longitude":-71.024693,
@@ -29,6 +34,7 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108712227,
         102530741,
         85815995,
         102191575,
@@ -53,13 +59,14 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "microhood_id":1108712227,
             "neighbourhood_id":85815995,
             "region_id":85688645,
             "venue_id":672963855
         }
     ],
     "wof:id":672963855,
-    "wof:lastmodified":1466576428,
+    "wof:lastmodified":1489012356,
     "wof:name":"Aserca Airlines Cargo",
     "wof:parent_id":102530741,
     "wof:placetype":"venue",

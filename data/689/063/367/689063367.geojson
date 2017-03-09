@@ -2,9 +2,14 @@
   "id": 689063367,
   "type": "Feature",
   "properties": {
+    "addr:full":"262 Hyde Park Ave Jamaica Plain MA 02130",
+    "addr:housenumber":"262",
+    "addr:postcode":"02130",
+    "addr:street":"Hyde Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.117798,42.2925,-71.117798,42.2925",
     "geom:latitude":42.2925,
     "geom:longitude":-71.117798,
@@ -25,14 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819907,
+        1108712101,
+        85827307,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        85885311
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,25 +53,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85819907,
-            "region_id":85688645,
-            "venue_id":689063367
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85885311,
+            "microhood_id":1108712101,
+            "neighbourhood_id":85827307,
             "region_id":85688645,
             "venue_id":689063367
         }
     ],
     "wof:id":689063367,
-    "wof:lastmodified":1466566075,
+    "wof:lastmodified":1489012206,
     "wof:name":"Monahan's Barber Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108712101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

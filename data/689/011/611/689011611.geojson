@@ -2,9 +2,14 @@
   "id": 689011611,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Bowdoin St Boston MA 02114",
+    "addr:housenumber":"13",
+    "addr:postcode":"02114",
+    "addr:street":"Bowdoin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.062883,42.360903,-71.062883,42.360903",
     "geom:latitude":42.360903,
     "geom:longitude":-71.062883,
@@ -41,7 +46,8 @@
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85805015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,12 +66,22 @@
             "neighbourhood_id":85815133,
             "region_id":85688645,
             "venue_id":689011611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":85805015,
+            "region_id":85688645,
+            "venue_id":689011611
         }
     ],
     "wof:id":689011611,
-    "wof:lastmodified":1466563645,
+    "wof:lastmodified":1489008349,
     "wof:name":"Linda C Monahon, Psychologist",
-    "wof:parent_id":85815133,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

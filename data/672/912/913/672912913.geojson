@@ -2,9 +2,14 @@
   "id": 672912913,
   "type": "Feature",
   "properties": {
+    "addr:full":"676 Morton St Mattapan MA 02126",
+    "addr:housenumber":"676",
+    "addr:postcode":"02126",
+    "addr:street":"Morton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.091642,42.28441,-71.091642,42.28441",
     "geom:latitude":42.28441,
     "geom:longitude":-71.091642,
@@ -35,7 +40,8 @@
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85814925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,22 @@
             "neighbourhood_id":85832891,
             "region_id":85688645,
             "venue_id":672912913
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":85814925,
+            "region_id":85688645,
+            "venue_id":672912913
         }
     ],
     "wof:id":672912913,
-    "wof:lastmodified":1466575948,
+    "wof:lastmodified":1489008817,
     "wof:name":"Lappen's Discount Auto Parts",
-    "wof:parent_id":85832891,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

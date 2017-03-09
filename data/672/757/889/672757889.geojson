@@ -2,9 +2,14 @@
   "id": 672757889,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Kovey Rd Hyde Park MA 02136",
+    "addr:housenumber":"27",
+    "addr:postcode":"02136",
+    "addr:street":"Kovey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.140535,42.255768,-71.140535,42.255768",
     "geom:latitude":42.255768,
     "geom:longitude":-71.140535,
@@ -27,7 +32,15 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420524063,
+        102191575,
+        404476573,
+        85633793,
+        85950361,
+        102084423,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lQIIhU2exXvGVzcWaRBHK_42.255768_-71.140535@1294127905"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461726098,
     "wof:geomhash":"5725a06dea87f9ffe85f49a6cce3f061",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":420524063,
+            "region_id":85688645,
+            "venue_id":672757889
+        }
+    ],
     "wof:id":672757889,
-    "wof:lastmodified":1466572769,
+    "wof:lastmodified":1489010775,
     "wof:name":"Hazel Maxwell",
-    "wof:parent_id":-1,
+    "wof:parent_id":420524063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 673088335,
   "type": "Feature",
   "properties": {
+    "addr:full":"1610 Vfw Pkwy West Roxbury MA 02132",
+    "addr:housenumber":"1610",
+    "addr:postcode":"02132",
+    "addr:street":"Vfw Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.168199,42.26567,-71.168199,42.26567",
     "geom:latitude":42.26567,
     "geom:longitude":-71.168199,
@@ -30,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420524057,
+        1108712093,
+        85856255,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        420523795
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":420524057,
-            "region_id":85688645,
-            "venue_id":673088335
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420523795,
+            "microhood_id":1108712093,
+            "neighbourhood_id":85856255,
             "region_id":85688645,
             "venue_id":673088335
         }
     ],
     "wof:id":673088335,
-    "wof:lastmodified":1466551900,
+    "wof:lastmodified":1489012184,
     "wof:name":"Burger King",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108712093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

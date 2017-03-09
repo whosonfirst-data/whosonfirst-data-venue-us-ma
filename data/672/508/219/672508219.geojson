@@ -2,9 +2,14 @@
   "id": 672508219,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 Hill Top St Dorchester Ctr MA 02124",
+    "addr:housenumber":"60",
+    "addr:postcode":"02124",
+    "addr:street":"Hill Top St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.051563,42.279268,-71.051563,42.279268",
     "geom:latitude":42.279268,
     "geom:longitude":-71.051563,
@@ -25,14 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523753,
+        1108701997,
+        85814925,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        420524017
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,25 +53,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":420523753,
-            "region_id":85688645,
-            "venue_id":672508219
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420524017,
+            "microhood_id":1108701997,
+            "neighbourhood_id":85814925,
             "region_id":85688645,
             "venue_id":672508219
         }
     ],
     "wof:id":672508219,
-    "wof:lastmodified":1466545501,
+    "wof:lastmodified":1489011095,
     "wof:name":"New England Mill Work Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108701997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

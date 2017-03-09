@@ -2,9 +2,14 @@
   "id": 672676133,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Beacon St Boston MA 02108",
+    "addr:housenumber":"8",
+    "addr:postcode":"02108",
+    "addr:street":"Beacon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.062642,42.357977,-71.062642,42.357977",
     "geom:latitude":42.357977,
     "geom:longitude":-71.062642,
@@ -25,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815133,
+        85805015,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85815133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "neighbourhood_id":85805015,
+            "region_id":85688645,
+            "venue_id":672676133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
             "neighbourhood_id":85815133,
             "region_id":85688645,
             "venue_id":672676133
         }
     ],
     "wof:id":672676133,
-    "wof:lastmodified":1466570775,
+    "wof:lastmodified":1489005690,
     "wof:name":"Alliance For New Priorities",
-    "wof:parent_id":85815133,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

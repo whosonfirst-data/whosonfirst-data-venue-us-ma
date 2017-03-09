@@ -2,9 +2,14 @@
   "id": 688987069,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Custom House St Boston MA 02110",
+    "addr:housenumber":"21",
+    "addr:postcode":"02110",
+    "addr:street":"Custom House St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.0528,42.357931,-71.0528,42.357931",
     "geom:latitude":42.357931,
     "geom:longitude":-71.0528,
@@ -28,13 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866973,
+        85688645,
         102191575,
         404476573,
         85633793,
         85950361,
-        102084423,
-        85688645
+        102084423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +54,14 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85866973,
             "region_id":85688645,
             "venue_id":688987069
         }
     ],
     "wof:id":688987069,
-    "wof:lastmodified":1466562250,
+    "wof:lastmodified":1489004391,
     "wof:name":"24 Hours A Locksmith",
-    "wof:parent_id":85866973,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

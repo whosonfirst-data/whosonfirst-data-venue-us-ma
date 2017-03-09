@@ -2,9 +2,14 @@
   "id": 689004743,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Edinboro Street Boston MA 02111",
+    "addr:housenumber":"17",
+    "addr:postcode":"02111",
+    "addr:street":"Edinboro Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.059885,42.352294,-71.059885,42.352294",
     "geom:latitude":42.352294,
     "geom:longitude":-71.059885,
@@ -35,13 +40,14 @@
     "sg:website":"www.wahlumpai.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869413,
+        85866971,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85869413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +63,25 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "neighbourhood_id":85866971,
+            "region_id":85688645,
+            "venue_id":689004743
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
             "neighbourhood_id":85869413,
             "region_id":85688645,
             "venue_id":689004743
         }
     ],
     "wof:id":689004743,
-    "wof:lastmodified":1466563460,
+    "wof:lastmodified":1489010322,
     "wof:name":"Boston Wah Lum Kung Fu",
-    "wof:parent_id":85869413,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

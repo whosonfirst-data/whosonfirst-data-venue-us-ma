@@ -2,9 +2,14 @@
   "id": 672433971,
   "type": "Feature",
   "properties": {
+    "addr:full":"3928 Washington St Roslindale MA 02131",
+    "addr:housenumber":"3928",
+    "addr:postcode":"02131",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.119653,42.294331,-71.119653,42.294331",
     "geom:latitude":42.294331,
     "geom:longitude":-71.119653,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819907,
+        1108712125,
+        85846101,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        85885311
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85819907,
-            "region_id":85688645,
-            "venue_id":672433971
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85885311,
+            "microhood_id":1108712125,
+            "neighbourhood_id":85846101,
             "region_id":85688645,
             "venue_id":672433971
         }
     ],
     "wof:id":672433971,
-    "wof:lastmodified":1466564052,
+    "wof:lastmodified":1489012278,
     "wof:name":"Tapias Cleaning Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108712125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

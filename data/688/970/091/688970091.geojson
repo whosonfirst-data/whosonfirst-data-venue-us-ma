@@ -2,9 +2,14 @@
   "id": 688970091,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 S Market St Building Fanueil Hall Boston MA 02109",
+    "addr:housenumber":"101",
+    "addr:postcode":"boston;02109",
+    "addr:street":"S Market",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.055388,42.359852,-71.055388,42.359852",
     "geom:latitude":42.359852,
     "geom:longitude":-71.055388,
@@ -19,13 +24,12 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866973,
+        85688645,
         102191575,
         404476573,
         85633793,
         85950361,
-        102084423,
-        85688645
+        102084423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,14 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85866973,
             "region_id":85688645,
             "venue_id":688970091
         }
     ],
     "wof:id":688970091,
-    "wof:lastmodified":1466561482,
+    "wof:lastmodified":1489004014,
     "wof:name":"Plaza III Kansas City Steakhouse",
-    "wof:parent_id":85866973,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

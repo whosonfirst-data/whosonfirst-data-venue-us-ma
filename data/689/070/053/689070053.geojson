@@ -2,9 +2,14 @@
   "id": 689070053,
   "type": "Feature",
   "properties": {
+    "addr:full":"556 Cambridge St Allston MA 02134",
+    "addr:housenumber":"556",
+    "addr:postcode":"02134",
+    "addr:street":"Cambridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.139963,42.352488,-71.139963,42.352488",
     "geom:latitude":42.352488,
     "geom:longitude":-71.139963,
@@ -26,14 +31,14 @@
     "sg:website":"barinchiro.com/index.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837411,
+        1108712147,
+        85802869,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        85891227
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,25 +54,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85837411,
-            "region_id":85688645,
-            "venue_id":689070053
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85891227,
+            "microhood_id":1108712147,
+            "neighbourhood_id":85802869,
             "region_id":85688645,
             "venue_id":689070053
         }
     ],
     "wof:id":689070053,
-    "wof:lastmodified":1466566363,
+    "wof:lastmodified":1489012332,
     "wof:name":"Barin Chiropractic",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108712147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

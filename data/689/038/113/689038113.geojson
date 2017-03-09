@@ -2,9 +2,14 @@
   "id": 689038113,
   "type": "Feature",
   "properties": {
+    "addr:full":"255 Southampton St Boston MA 02118",
+    "addr:housenumber":"255",
+    "addr:postcode":"02118",
+    "addr:street":"Southampton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.063603,42.330807,-71.063603,42.330807",
     "geom:latitude":42.330807,
     "geom:longitude":-71.063603,
@@ -32,13 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869669,
+        85849485,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85869669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,25 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "neighbourhood_id":85849485,
+            "region_id":85688645,
+            "venue_id":689038113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
             "neighbourhood_id":85869669,
             "region_id":85688645,
             "venue_id":689038113
         }
     ],
     "wof:id":689038113,
-    "wof:lastmodified":1466564844,
+    "wof:lastmodified":1489010194,
     "wof:name":"South Bay Motors",
-    "wof:parent_id":85869669,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

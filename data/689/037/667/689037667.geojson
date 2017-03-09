@@ -2,9 +2,14 @@
   "id": 689037667,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 S Bay Avenue Boston MA 02118",
+    "addr:housenumber":"70",
+    "addr:postcode":"02118",
+    "addr:street":"S Bay Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.065692,42.334163,-71.065692,42.334163",
     "geom:latitude":42.334163,
     "geom:longitude":-71.065692,
@@ -30,13 +35,14 @@
     "sg:website":"www.gbfb.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869669,
+        85849485,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85869669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,25 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "neighbourhood_id":85849485,
+            "region_id":85688645,
+            "venue_id":689037667
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
             "neighbourhood_id":85869669,
             "region_id":85688645,
             "venue_id":689037667
         }
     ],
     "wof:id":689037667,
-    "wof:lastmodified":1466564927,
+    "wof:lastmodified":1489010253,
     "wof:name":"Greater Boston Food Bank",
-    "wof:parent_id":85869669,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],
