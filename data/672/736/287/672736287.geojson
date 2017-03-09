@@ -2,9 +2,14 @@
   "id": 672736287,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Winchester St Boston MA 02116",
+    "addr:housenumber":"45",
+    "addr:postcode":"02116",
+    "addr:street":"Winchester St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.06959,42.349437,-71.06959,42.349437",
     "geom:latitude":42.349437,
     "geom:longitude":-71.06959,
@@ -25,14 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891285,
+        420780907,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        85866971
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,25 +52,15 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85891285,
-            "region_id":85688645,
-            "venue_id":672736287
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85866971,
+            "neighbourhood_id":420780907,
             "region_id":85688645,
             "venue_id":672736287
         }
     ],
     "wof:id":672736287,
-    "wof:lastmodified":1466572616,
+    "wof:lastmodified":1489010806,
     "wof:name":"Moving Picture Operators Union",
-    "wof:parent_id":-1,
+    "wof:parent_id":420780907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

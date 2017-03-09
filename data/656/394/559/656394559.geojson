@@ -2,9 +2,14 @@
   "id": 656394559,
   "type": "Feature",
   "properties": {
+    "addr:full":"647 Warren St Dorchester MA 02121",
+    "addr:housenumber":"647",
+    "addr:postcode":"02121",
+    "addr:street":"Warren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.082753,42.30955,-71.082753,42.30955",
     "geom:latitude":42.30955,
     "geom:longitude":-71.082753,
@@ -24,15 +29,7 @@
     "sg:postcode":"02121",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85846283,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20T2WZ69hDVSeT5DrcXYXP_42.309550_-71.082753@1294127905"
@@ -40,22 +37,11 @@
     "wof:country":"US",
     "wof:created":1461711899,
     "wof:geomhash":"9f3af71558032d66e6e6f92d207d6072",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85846283,
-            "region_id":85688645,
-            "venue_id":656394559
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":656394559,
-    "wof:lastmodified":1466546459,
+    "wof:lastmodified":1489011740,
     "wof:name":"US Post Office",
-    "wof:parent_id":85846283,
+    "wof:parent_id":1108711421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

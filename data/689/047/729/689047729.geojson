@@ -2,9 +2,14 @@
   "id": 689047729,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Rhoades Street Dorchester Center MA 02124",
+    "addr:housenumber":"5",
+    "addr:postcode":"02124",
+    "addr:street":"Rhoades Street Dorchester Center",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.091582,42.284962,-71.091582,42.284962",
     "geom:latitude":42.284962,
     "geom:longitude":-71.091582,
@@ -31,7 +36,8 @@
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85814925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +56,22 @@
             "neighbourhood_id":85832891,
             "region_id":85688645,
             "venue_id":689047729
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":85814925,
+            "region_id":85688645,
+            "venue_id":689047729
         }
     ],
     "wof:id":689047729,
-    "wof:lastmodified":1466565521,
+    "wof:lastmodified":1489008618,
     "wof:name":"Sampson Auto Body",
-    "wof:parent_id":85832891,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

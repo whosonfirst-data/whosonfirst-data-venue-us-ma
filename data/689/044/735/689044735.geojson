@@ -2,9 +2,14 @@
   "id": 689044735,
   "type": "Feature",
   "properties": {
+    "addr:full":"638 Warren St Dorchester MA 02121",
+    "addr:housenumber":"638",
+    "addr:postcode":"02121",
+    "addr:street":"Warren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.083231,42.31051,-71.083231,42.31051",
     "geom:latitude":42.31051,
     "geom:longitude":-71.083231,
@@ -35,15 +40,7 @@
         "elevator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85846283,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wUUq00ggPUVbRf6i8C92H_42.310510_-71.083231@1303262211"
@@ -51,22 +48,11 @@
     "wof:country":"US",
     "wof:created":1461738180,
     "wof:geomhash":"6cf9ec951eebfa4a8f4f8bc96a69a3ea",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85846283,
-            "region_id":85688645,
-            "venue_id":689044735
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689044735,
-    "wof:lastmodified":1466565277,
+    "wof:lastmodified":1489011744,
     "wof:name":"Nazing Elevator",
-    "wof:parent_id":85846283,
+    "wof:parent_id":1108711421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

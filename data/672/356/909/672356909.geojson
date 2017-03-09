@@ -2,9 +2,14 @@
   "id": 672356909,
   "type": "Feature",
   "properties": {
+    "addr:full":"461 Walnut Ave Jamaica Plain MA 02130",
+    "addr:housenumber":"461",
+    "addr:postcode":"02130",
+    "addr:street":"Walnut Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.097918,42.311164,-71.097918,42.311164",
     "geom:latitude":42.311164,
     "geom:longitude":-71.097918,
@@ -28,15 +33,7 @@
     ],
     "sg:website":"www.bhchp.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85836877,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06LH14hfyNiPyidcO1beE1_42.311164_-71.097918@1294127905"
@@ -44,22 +41,11 @@
     "wof:country":"US",
     "wof:created":1461716903,
     "wof:geomhash":"606c453e8d43262c7cdffd9ce240c260",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85836877,
-            "region_id":85688645,
-            "venue_id":672356909
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":672356909,
-    "wof:lastmodified":1466557974,
+    "wof:lastmodified":1489011328,
     "wof:name":"Boston Health Care-Homeless",
-    "wof:parent_id":85836877,
+    "wof:parent_id":1108705213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

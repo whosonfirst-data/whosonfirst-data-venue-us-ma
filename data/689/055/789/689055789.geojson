@@ -2,9 +2,14 @@
   "id": 689055789,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 Harborside Dr Boston MA 02128",
+    "addr:housenumber":"121",
+    "addr:postcode":"02128",
+    "addr:street":"Harborside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.022949,42.35783,-71.022949,42.35783",
     "geom:latitude":42.35783,
     "geom:longitude":-71.022949,
@@ -29,6 +34,7 @@
     "sg:website":"http://www.sunglasshut.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108712227,
         102530741,
         85815995,
         102191575,
@@ -53,13 +59,14 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "microhood_id":1108712227,
             "neighbourhood_id":85815995,
             "region_id":85688645,
             "venue_id":689055789
         }
     ],
     "wof:id":689055789,
-    "wof:lastmodified":1466565833,
+    "wof:lastmodified":1489012356,
     "wof:name":"Sunglass Hut",
     "wof:parent_id":102530741,
     "wof:placetype":"venue",

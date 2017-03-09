@@ -2,9 +2,14 @@
   "id": 672859963,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Washington St Boston MA 02121",
+    "addr:housenumber":"24",
+    "addr:postcode":"02121",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.082345,42.307339,-71.082345,42.307339",
     "geom:latitude":42.307339,
     "geom:longitude":-71.082345,
@@ -24,15 +29,7 @@
     "sg:postcode":"02121",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420524067,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EJdReCxN7yDVtryHzmdn7_42.307339_-71.082345@1294127905"
@@ -40,22 +37,11 @@
     "wof:country":"US",
     "wof:created":1461728177,
     "wof:geomhash":"e739420ff6edc44ed497a8115ae1697b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420524067,
-            "region_id":85688645,
-            "venue_id":672859963
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":672859963,
-    "wof:lastmodified":1466574993,
+    "wof:lastmodified":1489011741,
     "wof:name":"Anderson Jewelers",
-    "wof:parent_id":420524067,
+    "wof:parent_id":1108711421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

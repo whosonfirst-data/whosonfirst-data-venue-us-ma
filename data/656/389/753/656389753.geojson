@@ -2,9 +2,14 @@
   "id": 656389753,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Neptune Ter East Boston MA 02128",
+    "addr:housenumber":"3",
+    "addr:postcode":"02128",
+    "addr:street":"Neptune Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.02307,42.378426,-71.02307,42.378426",
     "geom:latitude":42.378426,
     "geom:longitude":-71.02307,
@@ -25,6 +30,7 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108712227,
         102530741,
         85815995,
         102191575,
@@ -49,13 +55,14 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "microhood_id":1108712227,
             "neighbourhood_id":85815995,
             "region_id":85688645,
             "venue_id":656389753
         }
     ],
     "wof:id":656389753,
-    "wof:lastmodified":1466546326,
+    "wof:lastmodified":1489012359,
     "wof:name":"Neptune Convenience",
     "wof:parent_id":102530741,
     "wof:placetype":"venue",

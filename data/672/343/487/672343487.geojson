@@ -2,9 +2,14 @@
   "id": 672343487,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Cobden St Roxbury MA 02119",
+    "addr:housenumber":"38",
+    "addr:postcode":"02119",
+    "addr:street":"Cobden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.096443,42.317614,-71.096443,42.317614",
     "geom:latitude":42.317614,
     "geom:longitude":-71.096443,
@@ -27,15 +32,7 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891361,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BmWZKTOFb4a2eFY3ploAZ_42.317614_-71.096443@1294127905"
@@ -43,22 +40,11 @@
     "wof:country":"US",
     "wof:created":1461716572,
     "wof:geomhash":"b43c42069a8d9d8c3d6883fa5b328075",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85891361,
-            "region_id":85688645,
-            "venue_id":672343487
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":672343487,
-    "wof:lastmodified":1466557103,
+    "wof:lastmodified":1489011322,
     "wof:name":"Round The Clock Movers",
-    "wof:parent_id":85891361,
+    "wof:parent_id":1108705213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 673087737,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Merrimac St Boston MA 02114",
+    "addr:housenumber":"107",
+    "addr:postcode":"02114",
+    "addr:street":"Merrimac St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.061253,42.363359,-71.061253,42.363359",
     "geom:latitude":42.363359,
     "geom:longitude":-71.061253,
@@ -31,16 +36,7 @@
         "chicken"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102526589,
-        85891269,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2O5P3FXTUDAZH8B2VcXqlN_42.363359_-71.061253@1299784598"
@@ -48,21 +44,9 @@
     "wof:country":"US",
     "wof:created":1461733513,
     "wof:geomhash":"f4ad2011692e9f5f0c0963b4afdd8ef3",
-    "wof:hierarchy":[
-        {
-            "campus_id":102526589,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85891269,
-            "region_id":85688645,
-            "venue_id":673087737
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":673087737,
-    "wof:lastmodified":1466551929,
+    "wof:lastmodified":1489011722,
     "wof:name":"Flatiron Tapas Bar & Lounge",
     "wof:parent_id":102526589,
     "wof:placetype":"venue",

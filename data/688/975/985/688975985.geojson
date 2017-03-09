@@ -2,9 +2,14 @@
   "id": 688975985,
   "type": "Feature",
   "properties": {
+    "addr:full":"96 Blackstone St Boston MA 02109",
+    "addr:housenumber":"96",
+    "addr:postcode":"02109",
+    "addr:street":"Blackstone St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.056286,42.361622,-71.056286,42.361622",
     "geom:latitude":42.361622,
     "geom:longitude":-71.056286,
@@ -50,13 +55,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891269,
+        85688645,
         102191575,
         404476573,
         85633793,
         85950361,
-        102084423,
-        85688645
+        102084423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,15 +76,14 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85891269,
             "region_id":85688645,
             "venue_id":688975985
         }
     ],
     "wof:id":688975985,
-    "wof:lastmodified":1466562017,
+    "wof:lastmodified":1489004355,
     "wof:name":"Garden Halal Meat",
-    "wof:parent_id":85891269,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

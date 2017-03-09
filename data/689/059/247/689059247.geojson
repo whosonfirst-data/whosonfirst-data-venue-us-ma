@@ -2,9 +2,14 @@
   "id": 689059247,
   "type": "Feature",
   "properties": {
+    "addr:full":"529 Main St Ste 602 Charlestown MA 02129",
+    "addr:housenumber":"529",
+    "addr:postcode":"02129",
+    "addr:street":"Main St Ste 602",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.072229,42.383733,-71.072229,42.383733",
     "geom:latitude":42.383733,
     "geom:longitude":-71.072229,
@@ -29,14 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420524033,
+        85810461,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        420523683
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +56,15 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":420524033,
-            "region_id":85688645,
-            "venue_id":689059247
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420523683,
+            "neighbourhood_id":85810461,
             "region_id":85688645,
             "venue_id":689059247
         }
     ],
     "wof:id":689059247,
-    "wof:lastmodified":1466565965,
+    "wof:lastmodified":1489008502,
     "wof:name":"Mass High Tech",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

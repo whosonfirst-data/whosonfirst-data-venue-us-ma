@@ -2,9 +2,14 @@
   "id": 672279945,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 State St Boston MA 02109",
+    "addr:housenumber":"28",
+    "addr:postcode":"02109",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.057805,42.358923,-71.057805,42.358923",
     "geom:latitude":42.358923,
     "geom:longitude":-71.057805,
@@ -28,15 +33,7 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85815133,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GIT7OEi2Eovd11HHkSzt1_42.358923_-71.057805@1294127905"
@@ -44,22 +41,11 @@
     "wof:country":"US",
     "wof:created":1461715197,
     "wof:geomhash":"dd0b64958d9d96e579ec64be97704fab",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85815133,
-            "region_id":85688645,
-            "venue_id":672279945
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":672279945,
-    "wof:lastmodified":1466553319,
+    "wof:lastmodified":1489011727,
     "wof:name":"Forbes Holding Inc",
-    "wof:parent_id":85815133,
+    "wof:parent_id":1108711419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

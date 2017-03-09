@@ -2,9 +2,14 @@
   "id": 672678455,
   "type": "Feature",
   "properties": {
+    "addr:full":"428 Blue Hill Ave Dorchester MA 02121",
+    "addr:housenumber":"428",
+    "addr:postcode":"02121",
+    "addr:street":"Blue Hill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.081574,42.310835,-71.081574,42.310835",
     "geom:latitude":42.310835,
     "geom:longitude":-71.081574,
@@ -27,15 +32,7 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420524067,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qW333uKTknBkv01MZOHxd_42.310835_-71.081574@1294127905"
@@ -43,22 +40,11 @@
     "wof:country":"US",
     "wof:created":1461724350,
     "wof:geomhash":"4f94fae9fc0499b6e7f4ae6af1c7e8b2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420524067,
-            "region_id":85688645,
-            "venue_id":672678455
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":672678455,
-    "wof:lastmodified":1466571164,
+    "wof:lastmodified":1489011750,
     "wof:name":"Bethlehem Healing Temple",
-    "wof:parent_id":420524067,
+    "wof:parent_id":1108711421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

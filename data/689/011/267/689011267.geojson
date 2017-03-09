@@ -2,9 +2,14 @@
   "id": 689011267,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 Canal St Boston MA 02114",
+    "addr:housenumber":"65",
+    "addr:postcode":"02114",
+    "addr:street":"Canal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.059656,42.364148,-71.059656,42.364148",
     "geom:latitude":42.364148,
     "geom:longitude":-71.059656,
@@ -57,16 +62,7 @@
     ],
     "sg:website":"http://www.cvs.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102526589,
-        85891269,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tUZNb9GedAAtw0m9hQWm3_42.364148_-71.059656@1303262207"
@@ -74,21 +70,9 @@
     "wof:country":"US",
     "wof:created":1461737500,
     "wof:geomhash":"15cb9fc147eaaba5f71b3e0287a74d82",
-    "wof:hierarchy":[
-        {
-            "campus_id":102526589,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85891269,
-            "region_id":85688645,
-            "venue_id":689011267
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689011267,
-    "wof:lastmodified":1466563548,
+    "wof:lastmodified":1489012236,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":102526589,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 672819325,
   "type": "Feature",
   "properties": {
+    "addr:full":"971 Commonwealth Ave Boston MA 02215",
+    "addr:housenumber":"971",
+    "addr:postcode":"02215",
+    "addr:street":"Commonwealth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.120164,42.351477,-71.120164,42.351477",
     "geom:latitude":42.351477,
     "geom:longitude":-71.120164,
@@ -28,7 +33,15 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85802869,
+        102191575,
+        404476573,
+        85633793,
+        85950361,
+        102084423,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19nVOMETw5IN0OJY30QbRX_42.351477_-71.120164@1294127905"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461727381,
     "wof:geomhash":"df74dd26ed4d9d4c5b56d10fa9d70780",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":85802869,
+            "region_id":85688645,
+            "venue_id":672819325
+        }
+    ],
     "wof:id":672819325,
-    "wof:lastmodified":1466574000,
+    "wof:lastmodified":1489008126,
     "wof:name":"Paradise Lounge",
-    "wof:parent_id":-1,
+    "wof:parent_id":85802869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

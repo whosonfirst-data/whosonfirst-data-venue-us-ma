@@ -2,9 +2,14 @@
   "id": 689003873,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 Atlantic Ave Boston MA 02111",
+    "addr:housenumber":"720",
+    "addr:postcode":"02111",
+    "addr:street":"Atlantic Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.056602,42.350422,-71.056602,42.350422",
     "geom:latitude":42.350422,
     "geom:longitude":-71.056602,
@@ -20,13 +25,14 @@
     "sg:website":"http://www.aubonpain.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869413,
+        85815133,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85869413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +48,25 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "neighbourhood_id":85815133,
+            "region_id":85688645,
+            "venue_id":689003873
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
             "neighbourhood_id":85869413,
             "region_id":85688645,
             "venue_id":689003873
         }
     ],
     "wof:id":689003873,
-    "wof:lastmodified":1466563299,
+    "wof:lastmodified":1489009322,
     "wof:name":"Au Bon Pain",
-    "wof:parent_id":85869413,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 672375437,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Washington St Dorchester MA 02121",
+    "addr:housenumber":"24",
+    "addr:postcode":"02121",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.082345,42.307339,-71.082345,42.307339",
     "geom:latitude":42.307339,
     "geom:longitude":-71.082345,
@@ -27,15 +32,7 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420524067,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KFJyAviBFpIGUQp9fI1Ma_42.307339_-71.082345@1294127905"
@@ -43,22 +40,11 @@
     "wof:country":"US",
     "wof:created":1461717332,
     "wof:geomhash":"e739420ff6edc44ed497a8115ae1697b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420524067,
-            "region_id":85688645,
-            "venue_id":672375437
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":672375437,
-    "wof:lastmodified":1466559029,
+    "wof:lastmodified":1489011745,
     "wof:name":"Prince Hall Grand Lodge",
-    "wof:parent_id":420524067,
+    "wof:parent_id":1108711421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

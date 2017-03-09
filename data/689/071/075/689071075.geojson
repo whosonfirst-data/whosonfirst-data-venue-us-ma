@@ -2,9 +2,14 @@
   "id": 689071075,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 Portsmouth St Brighton MA 02135",
+    "addr:housenumber":"57",
+    "addr:postcode":"02135",
+    "addr:street":"Portsmouth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.144448,42.358834,-71.144448,42.358834",
     "geom:latitude":42.358834,
     "geom:longitude":-71.144448,
@@ -30,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837411,
+        1108711939,
+        85807537,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        85807537
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85837411,
-            "region_id":85688645,
-            "venue_id":689071075
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
+            "microhood_id":1108711939,
             "neighbourhood_id":85807537,
             "region_id":85688645,
             "venue_id":689071075
         }
     ],
     "wof:id":689071075,
-    "wof:lastmodified":1466566409,
+    "wof:lastmodified":1489011955,
     "wof:name":"Tone Den Music Rehearsal Studios",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108711939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

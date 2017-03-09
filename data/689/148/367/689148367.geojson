@@ -2,9 +2,14 @@
   "id": 689148367,
   "type": "Feature",
   "properties": {
+    "addr:full":"Logan Int'l Airport Terminal C Boston MA 02228",
+    "addr:housenumber":"c",
+    "addr:postcode":"02228",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.01787,42.367036,-71.01787,42.367036",
     "geom:latitude":42.367036,
     "geom:longitude":-71.01787,
@@ -36,6 +41,7 @@
     "sg:website":"www.currito.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108712227,
         102530741,
         85815995,
         102191575,
@@ -60,13 +66,14 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "microhood_id":1108712227,
             "neighbourhood_id":85815995,
             "region_id":85688645,
             "venue_id":689148367
         }
     ],
     "wof:id":689148367,
-    "wof:lastmodified":1466555875,
+    "wof:lastmodified":1489012358,
     "wof:name":"Currito",
     "wof:parent_id":102530741,
     "wof:placetype":"venue",

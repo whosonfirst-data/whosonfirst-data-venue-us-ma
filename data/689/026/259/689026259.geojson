@@ -2,9 +2,14 @@
   "id": 689026259,
   "type": "Feature",
   "properties": {
+    "addr:full":"399 Boylston St Ste 730 Boston MA 02116",
+    "addr:housenumber":"399",
+    "addr:postcode":"02116",
+    "addr:street":"Boylston St Ste 730",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.071996,42.351683,-71.071996,42.351683",
     "geom:latitude":42.351683,
     "geom:longitude":-71.071996,
@@ -29,14 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891285,
+        85804161,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        85804161
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +56,15 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85891285,
-            "region_id":85688645,
-            "venue_id":689026259
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
             "neighbourhood_id":85804161,
             "region_id":85688645,
             "venue_id":689026259
         }
     ],
     "wof:id":689026259,
-    "wof:lastmodified":1466564205,
+    "wof:lastmodified":1489002131,
     "wof:name":"Absolute Value",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

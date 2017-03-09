@@ -2,9 +2,14 @@
   "id": 689071643,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 Warren St Brighton MA 02135",
+    "addr:housenumber":"77",
+    "addr:postcode":"02135",
+    "addr:street":"Warren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.144501,42.349899,-71.144501,42.349899",
     "geom:latitude":42.349899,
     "geom:longitude":-71.144501,
@@ -35,7 +40,8 @@
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85802869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,22 @@
             "neighbourhood_id":85807537,
             "region_id":85688645,
             "venue_id":689071643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":85802869,
+            "region_id":85688645,
+            "venue_id":689071643
         }
     ],
     "wof:id":689071643,
-    "wof:lastmodified":1466566561,
+    "wof:lastmodified":1489008047,
     "wof:name":"Licsw",
-    "wof:parent_id":85807537,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 673035019,
   "type": "Feature",
   "properties": {
+    "addr:full":"397 Blue Hill Ave Dorchester MA 02121",
+    "addr:housenumber":"397",
+    "addr:postcode":"02121",
+    "addr:street":"Blue Hill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.081398,42.310902,-71.081398,42.310902",
     "geom:latitude":42.310902,
     "geom:longitude":-71.081398,
@@ -28,15 +33,7 @@
         "churches-baptist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420524067,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FOY0SqcWFy9LWCy07tre5_42.310835_-71.081574@1293134755"
@@ -44,22 +41,11 @@
     "wof:country":"US",
     "wof:created":1461732425,
     "wof:geomhash":"238f65a505b553112601db7973eba54c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420524067,
-            "region_id":85688645,
-            "venue_id":673035019
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":673035019,
-    "wof:lastmodified":1466547782,
+    "wof:lastmodified":1489011740,
     "wof:name":"First Haitian Baptist Church",
-    "wof:parent_id":420524067,
+    "wof:parent_id":1108711421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

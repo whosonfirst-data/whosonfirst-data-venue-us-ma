@@ -2,9 +2,14 @@
   "id": 672204657,
   "type": "Feature",
   "properties": {
+    "addr:full":"1195 Blue Hill Ave Mattapan MA 02126",
+    "addr:housenumber":"1195",
+    "addr:postcode":"02126",
+    "addr:street":"Blue Hill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.091546,42.284273,-71.091546,42.284273",
     "geom:latitude":42.284273,
     "geom:longitude":-71.091546,
@@ -35,7 +40,8 @@
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85814925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,22 @@
             "neighbourhood_id":85832891,
             "region_id":85688645,
             "venue_id":672204657
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":85814925,
+            "region_id":85688645,
+            "venue_id":672204657
         }
     ],
     "wof:id":672204657,
-    "wof:lastmodified":1466547865,
+    "wof:lastmodified":1489008650,
     "wof:name":"Always Available Locksmith",
-    "wof:parent_id":85832891,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

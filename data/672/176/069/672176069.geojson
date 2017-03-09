@@ -2,9 +2,14 @@
   "id": 672176069,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 W Roxbury Pkwy West Roxbury MA 02131",
+    "addr:housenumber":"350",
+    "addr:postcode":"02131",
+    "addr:street":"W Roxbury Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.145884,42.29539,-71.145884,42.29539",
     "geom:latitude":42.29539,
     "geom:longitude":-71.145884,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85856255,
+        102191575,
+        404476573,
+        85633793,
+        85950361,
+        102084423,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A2IkEZHIcPRsB1RTUVJfW_42.295390_-71.145884@1294127905"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461713037,
     "wof:geomhash":"1e8e3b0bb2893e123fe3011046511dce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":85856255,
+            "region_id":85688645,
+            "venue_id":672176069
+        }
+    ],
     "wof:id":672176069,
-    "wof:lastmodified":1466546499,
+    "wof:lastmodified":1489010272,
     "wof:name":"Best Jobbing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85856255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

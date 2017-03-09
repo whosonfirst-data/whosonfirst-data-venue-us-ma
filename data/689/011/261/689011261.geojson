@@ -2,9 +2,14 @@
   "id": 689011261,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 Cambridge St Boston MA 02114",
+    "addr:housenumber":"275",
+    "addr:postcode":"02114",
+    "addr:street":"Cambridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.068199,42.361099,-71.068199,42.361099",
     "geom:latitude":42.361099,
     "geom:longitude":-71.068199,
@@ -36,7 +41,8 @@
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85805015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +61,22 @@
             "neighbourhood_id":85869769,
             "region_id":85688645,
             "venue_id":689011261
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":85805015,
+            "region_id":85688645,
+            "venue_id":689011261
         }
     ],
     "wof:id":689011261,
-    "wof:lastmodified":1466563547,
+    "wof:lastmodified":1489008335,
     "wof:name":"Rustgi Anil K MD",
-    "wof:parent_id":85869769,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

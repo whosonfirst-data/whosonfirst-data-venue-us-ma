@@ -2,9 +2,14 @@
   "id": 672771167,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Hill Top St Dorchester Ctr MA 02124",
+    "addr:housenumber":"4",
+    "addr:postcode":"02124",
+    "addr:street":"Hill Top St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.049714,42.2799,-71.049714,42.2799",
     "geom:latitude":42.2799,
     "geom:longitude":-71.049714,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420524017,
+        1108701997,
+        85814925,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        420523753
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":420524017,
-            "region_id":85688645,
-            "venue_id":672771167
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420523753,
+            "microhood_id":1108701997,
+            "neighbourhood_id":85814925,
             "region_id":85688645,
             "venue_id":672771167
         }
     ],
     "wof:id":672771167,
-    "wof:lastmodified":1466573039,
+    "wof:lastmodified":1489011100,
     "wof:name":"John Mc Keon Post 146",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108701997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

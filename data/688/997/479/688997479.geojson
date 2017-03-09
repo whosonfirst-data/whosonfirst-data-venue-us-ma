@@ -2,9 +2,14 @@
   "id": 688997479,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Commercial Wharf Boston MA 02110",
+    "addr:housenumber":"1",
+    "addr:postcode":"02110",
+    "addr:street":"Commercial Wharf",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.051697,42.362499,-71.051697,42.362499",
     "geom:latitude":42.362499,
     "geom:longitude":-71.051697,
@@ -25,14 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866973,
+        85837591,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        85891287
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,25 +52,15 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85866973,
-            "region_id":85688645,
-            "venue_id":688997479
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85891287,
+            "neighbourhood_id":85837591,
             "region_id":85688645,
             "venue_id":688997479
         }
     ],
     "wof:id":688997479,
-    "wof:lastmodified":1466562847,
+    "wof:lastmodified":1489009982,
     "wof:name":"Parker E Peter Atty",
-    "wof:parent_id":-1,
+    "wof:parent_id":85837591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

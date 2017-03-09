@@ -2,9 +2,14 @@
   "id": 672205871,
   "type": "Feature",
   "properties": {
+    "addr:full":"4198 Washington St Roslindale MA 02131",
+    "addr:housenumber":"4198",
+    "addr:postcode":"02131",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.128128,42.286448,-71.128128,42.286448",
     "geom:latitude":42.286448,
     "geom:longitude":-71.128128,
@@ -25,13 +30,15 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108712125,
         85846101,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        1108711925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +54,27 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "microhood_id":1108712125,
+            "neighbourhood_id":85846101,
+            "region_id":85688645,
+            "venue_id":672205871
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "microhood_id":1108711925,
             "neighbourhood_id":85846101,
             "region_id":85688645,
             "venue_id":672205871
         }
     ],
     "wof:id":672205871,
-    "wof:lastmodified":1466548013,
+    "wof:lastmodified":1489012280,
     "wof:name":"Lil Peach",
-    "wof:parent_id":85846101,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

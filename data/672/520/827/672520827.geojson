@@ -2,9 +2,14 @@
   "id": 672520827,
   "type": "Feature",
   "properties": {
+    "addr:full":"73 Neptune Ter East Boston MA 02128",
+    "addr:housenumber":"73",
+    "addr:postcode":"02128",
+    "addr:street":"Neptune Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.023025,42.378483,-71.023025,42.378483",
     "geom:latitude":42.378483,
     "geom:longitude":-71.023025,
@@ -28,6 +33,7 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108712227,
         102530741,
         85815995,
         102191575,
@@ -52,13 +58,14 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "microhood_id":1108712227,
             "neighbourhood_id":85815995,
             "region_id":85688645,
             "venue_id":672520827
         }
     ],
     "wof:id":672520827,
-    "wof:lastmodified":1466546990,
+    "wof:lastmodified":1489012355,
     "wof:name":"Retnirp",
     "wof:parent_id":102530741,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 673095957,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Walk Hill St Jamaica Plain MA 02130",
+    "addr:housenumber":"7",
+    "addr:postcode":"02130",
+    "addr:street":"Walk Hill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.116101,42.295558,-71.116101,42.295558",
     "geom:latitude":42.295558,
     "geom:longitude":-71.116101,
@@ -55,14 +60,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819907,
+        1108712101,
+        85827307,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        85885311
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,25 +83,16 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85819907,
-            "region_id":85688645,
-            "venue_id":673095957
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85885311,
+            "microhood_id":1108712101,
+            "neighbourhood_id":85827307,
             "region_id":85688645,
             "venue_id":673095957
         }
     ],
     "wof:id":673095957,
-    "wof:lastmodified":1466552496,
+    "wof:lastmodified":1489012206,
     "wof:name":"Dunkin' Donuts",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108712101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

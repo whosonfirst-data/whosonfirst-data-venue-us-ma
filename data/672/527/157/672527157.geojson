@@ -2,9 +2,14 @@
   "id": 672527157,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Lawrence Ave Dorchester MA 02121",
+    "addr:housenumber":"26",
+    "addr:postcode":"02121",
+    "addr:street":"Lawrence Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.079497,42.313513,-71.079497,42.313513",
     "geom:latitude":42.313513,
     "geom:longitude":-71.079497,
@@ -27,15 +32,7 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420524067,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0v54Y76vLBKNBhUFzs7dWc_42.313513_-71.079497@1294127905"
@@ -43,22 +40,11 @@
     "wof:country":"US",
     "wof:created":1461720987,
     "wof:geomhash":"4f6d60fdf292f22d9a3259d092739771",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420524067,
-            "region_id":85688645,
-            "venue_id":672527157
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":672527157,
-    "wof:lastmodified":1466548954,
+    "wof:lastmodified":1489011743,
     "wof:name":"St John's St Hugh's Rectory",
-    "wof:parent_id":420524067,
+    "wof:parent_id":1108711421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

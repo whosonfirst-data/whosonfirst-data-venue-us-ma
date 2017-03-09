@@ -2,9 +2,14 @@
   "id": 689011163,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 Portland St Ste 401 Boston MA 02114",
+    "addr:housenumber":"129",
+    "addr:postcode":"02114",
+    "addr:street":"Portland St Ste 401",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.06099,42.363653,-71.06099,42.363653",
     "geom:latitude":42.363653,
     "geom:longitude":-71.06099,
@@ -28,16 +33,7 @@
         "device"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102526589,
-        85891269,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XqDjAwXViqgK3rwBGLiVz_42.363653_-71.060990@1303262207"
@@ -45,21 +41,9 @@
     "wof:country":"US",
     "wof:created":1461737498,
     "wof:geomhash":"29fec1bd030c27f6c2fbc86a4892192b",
-    "wof:hierarchy":[
-        {
-            "campus_id":102526589,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85891269,
-            "region_id":85688645,
-            "venue_id":689011163
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689011163,
-    "wof:lastmodified":1466563519,
+    "wof:lastmodified":1489012222,
     "wof:name":"Digital Lumens Incorporated",
     "wof:parent_id":102526589,
     "wof:placetype":"venue",

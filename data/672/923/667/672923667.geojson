@@ -2,9 +2,14 @@
   "id": 672923667,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 Beach St Boston MA 02111",
+    "addr:housenumber":"46",
+    "addr:postcode":"02111",
+    "addr:street":"Beach St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.060662,42.3515,-71.060662,42.3515",
     "geom:latitude":42.3515,
     "geom:longitude":-71.060662,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869413,
+        85866971,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85869413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "neighbourhood_id":85866971,
+            "region_id":85688645,
+            "venue_id":672923667
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
             "neighbourhood_id":85869413,
             "region_id":85688645,
             "venue_id":672923667
         }
     ],
     "wof:id":672923667,
-    "wof:lastmodified":1466576041,
+    "wof:lastmodified":1489010314,
     "wof:name":"Prosperity Imagrations",
-    "wof:parent_id":85869413,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

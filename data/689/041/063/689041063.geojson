@@ -2,9 +2,14 @@
   "id": 689041063,
   "type": "Feature",
   "properties": {
+    "addr:full":"1990 Columbus Ave Roxbury MA 02119",
+    "addr:housenumber":"1990",
+    "addr:postcode":"02119",
+    "addr:street":"Columbus Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.097214,42.314911,-71.097214,42.314911",
     "geom:latitude":42.314911,
     "geom:longitude":-71.097214,
@@ -28,15 +33,7 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85836877,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74jYZdbkKuxnb2Hh2WiY4g_42.314911_-71.097214@1303262211"
@@ -44,22 +41,11 @@
     "wof:country":"US",
     "wof:created":1461738090,
     "wof:geomhash":"1a496def1cacb4fa1f3137af99328023",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85836877,
-            "region_id":85688645,
-            "venue_id":689041063
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689041063,
-    "wof:lastmodified":1466564878,
+    "wof:lastmodified":1489011329,
     "wof:name":"Est Of Wizardz Consultants",
-    "wof:parent_id":85836877,
+    "wof:parent_id":1108705213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

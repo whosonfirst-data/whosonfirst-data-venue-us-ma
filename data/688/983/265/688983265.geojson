@@ -2,9 +2,14 @@
   "id": 688983265,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 State Street Suite 25 Boston MA 02109",
+    "addr:housenumber":"60;25",
+    "addr:postcode":"02109",
+    "addr:street":"State Street Suite",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.056216,42.358973,-71.056216,42.358973",
     "geom:latitude":42.358973,
     "geom:longitude":-71.056216,
@@ -39,13 +44,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866973,
+        85688645,
         102191575,
         404476573,
         85633793,
         85950361,
-        102084423,
-        85688645
+        102084423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,15 +65,14 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85866973,
             "region_id":85688645,
             "venue_id":688983265
         }
     ],
     "wof:id":688983265,
-    "wof:lastmodified":1466562190,
+    "wof:lastmodified":1489003300,
     "wof:name":"Burnett Eric C B Lwyr",
-    "wof:parent_id":85866973,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

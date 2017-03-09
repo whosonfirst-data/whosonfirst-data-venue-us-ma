@@ -2,9 +2,14 @@
   "id": 672743317,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Wood St Charlestown MA 02129",
+    "addr:housenumber":"2",
+    "addr:postcode":"02129",
+    "addr:street":"Wood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.063779,42.37663,-71.063779,42.37663",
     "geom:latitude":42.37663,
     "geom:longitude":-71.063779,
@@ -25,14 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891299,
+        85810461,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        85810461
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,25 +52,15 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":85891299,
-            "region_id":85688645,
-            "venue_id":672743317
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
             "neighbourhood_id":85810461,
             "region_id":85688645,
             "venue_id":672743317
         }
     ],
     "wof:id":672743317,
-    "wof:lastmodified":1466572326,
+    "wof:lastmodified":1489007558,
     "wof:name":"J M L Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

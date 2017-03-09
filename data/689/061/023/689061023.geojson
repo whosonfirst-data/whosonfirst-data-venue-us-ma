@@ -2,9 +2,14 @@
   "id": 689061023,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Baldwin St Ste 2 Charlestown MA 02129",
+    "addr:housenumber":"47",
+    "addr:postcode":"02129",
+    "addr:street":"Baldwin St Ste 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.070452,42.381639,-71.070452,42.381639",
     "geom:latitude":42.381639,
     "geom:longitude":-71.070452,
@@ -31,14 +36,13 @@
     "sg:website":"www.doranconsultants.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420524033,
+        85810461,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645,
-        420523683
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,25 +58,15 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
-            "neighbourhood_id":420524033,
-            "region_id":85688645,
-            "venue_id":689061023
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420523683,
+            "neighbourhood_id":85810461,
             "region_id":85688645,
             "venue_id":689061023
         }
     ],
     "wof:id":689061023,
-    "wof:lastmodified":1466565890,
+    "wof:lastmodified":1489008545,
     "wof:name":"Doran Consulting and Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

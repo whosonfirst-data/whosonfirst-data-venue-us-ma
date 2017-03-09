@@ -2,9 +2,14 @@
   "id": 689024739,
   "type": "Feature",
   "properties": {
+    "addr:full":"Copley Pl Boston MA 02116",
+    "addr:housenumber":"",
+    "addr:postcode":"02116",
+    "addr:street":"Copley Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.077866,42.348015,-71.077866,42.348015",
     "geom:latitude":42.348015,
     "geom:longitude":-71.077866,
@@ -40,8 +45,7 @@
         85633793,
         85950361,
         102084423,
-        85688645,
-        85891281
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,22 +64,12 @@
             "neighbourhood_id":85804161,
             "region_id":85688645,
             "venue_id":689024739
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85891281,
-            "region_id":85688645,
-            "venue_id":689024739
         }
     ],
     "wof:id":689024739,
-    "wof:lastmodified":1466564243,
+    "wof:lastmodified":1489002560,
     "wof:name":"BosTix Half-Price Tickets and Ticketmaster Outlet",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

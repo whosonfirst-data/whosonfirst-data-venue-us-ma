@@ -2,9 +2,14 @@
   "id": 688988739,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 Federal St Fl 4 Boston MA 02110",
+    "addr:housenumber":"160;4",
+    "addr:postcode":"02110",
+    "addr:street":"Federal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.056267,42.353958,-71.056267,42.353958",
     "geom:latitude":42.353958,
     "geom:longitude":-71.056267,
@@ -30,13 +35,14 @@
     "sg:website":"http://www.mefa.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869413,
+        85815133,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85869413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,25 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "neighbourhood_id":85815133,
+            "region_id":85688645,
+            "venue_id":688988739
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
             "neighbourhood_id":85869413,
             "region_id":85688645,
             "venue_id":688988739
         }
     ],
     "wof:id":688988739,
-    "wof:lastmodified":1466562582,
+    "wof:lastmodified":1489009369,
     "wof:name":"M E F A",
-    "wof:parent_id":85869413,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

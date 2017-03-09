@@ -2,9 +2,14 @@
   "id": 689005729,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Harrison Ave Ste 2D Boston MA 02111",
+    "addr:housenumber":"40",
+    "addr:postcode":"02111",
+    "addr:street":"Harrison Ave Ste 2D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.061061,42.35169,-71.061061,42.35169",
     "geom:latitude":42.35169,
     "geom:longitude":-71.061061,
@@ -30,13 +35,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869413,
+        85866971,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85869413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,25 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "neighbourhood_id":85866971,
+            "region_id":85688645,
+            "venue_id":689005729
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
             "neighbourhood_id":85869413,
             "region_id":85688645,
             "venue_id":689005729
         }
     ],
     "wof:id":689005729,
-    "wof:lastmodified":1466563427,
+    "wof:lastmodified":1489010311,
     "wof:name":"Diva Spa",
-    "wof:parent_id":85869413,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

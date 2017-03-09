@@ -2,9 +2,14 @@
   "id": 689144269,
   "type": "Feature",
   "properties": {
+    "addr:full":"916 Commonwealth Ave Boston MA 02215",
+    "addr:housenumber":"916",
+    "addr:postcode":"02215",
+    "addr:street":"Commonwealth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.117251,42.351174,-71.117251,42.351174",
     "geom:latitude":42.351174,
     "geom:longitude":-71.117251,
@@ -45,7 +50,15 @@
     ],
     "sg:website":"www.allstonsfinest.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85802869,
+        102191575,
+        404476573,
+        85633793,
+        85950361,
+        102084423,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6quCSCmh4SG3qjL3jrJHp5_42.351174_-71.117251@1303262224"
@@ -53,11 +66,22 @@
     "wof:country":"US",
     "wof:created":1461740485,
     "wof:geomhash":"a2b443adb305e722306eee62f02a9a70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
+            "neighbourhood_id":85802869,
+            "region_id":85688645,
+            "venue_id":689144269
+        }
+    ],
     "wof:id":689144269,
-    "wof:lastmodified":1466554576,
+    "wof:lastmodified":1489008087,
     "wof:name":"Sunset Cantina",
-    "wof:parent_id":-1,
+    "wof:parent_id":85802869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 689041893,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Gerard St Roxbury MA 02119",
+    "addr:housenumber":"13",
+    "addr:postcode":"02119",
+    "addr:street":"Gerard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.072958,42.33167,-71.072958,42.33167",
     "geom:latitude":42.33167,
     "geom:longitude":-71.072958,
@@ -29,13 +34,14 @@
     "sg:website":"www.wingfook.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869669,
+        85846283,
         102191575,
         404476573,
         85633793,
         85950361,
         102084423,
-        85688645
+        85688645,
+        85869669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102084423,
             "localadmin_id":404476573,
             "locality_id":85950361,
+            "neighbourhood_id":85846283,
+            "region_id":85688645,
+            "venue_id":689041893
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476573,
+            "locality_id":85950361,
             "neighbourhood_id":85869669,
             "region_id":85688645,
             "venue_id":689041893
         }
     ],
     "wof:id":689041893,
-    "wof:lastmodified":1466565058,
+    "wof:lastmodified":1489010135,
     "wof:name":"Wing Fook Funeral Home",
-    "wof:parent_id":85869669,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],
