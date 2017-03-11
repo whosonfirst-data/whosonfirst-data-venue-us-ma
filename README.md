@@ -1,8 +1,7 @@
-# whosonfirst-data-venue-us-massachusetts
+# whosonfirst-data-venue-us-ma
 
 Who's On First venue data for Massachusetts (US)
 
 ## See also
 
-* https://whosonfirst.mapzen.com/
-* https://whosonfirst.mapzen.com/spelunker/id/85688645
+* https://mapzen.com/blog/whosonfirst-venues
