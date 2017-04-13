@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.844102,42.318907,-71.844102,42.318907",
     "geom:latitude":42.318907,
     "geom:longitude":-71.844102,
@@ -37,17 +38,26 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mVcmkJ7wxETPCLQ2i3sw9_42.318907_-71.844102@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734230,
-    "wof:geomhash":"579596d41d02b13b11333ccc304df52c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93965007194aa02c479e32b4ca39789e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":673121631
+        }
+    ],
     "wof:id":673121631,
-    "wof:lastmodified":1472625359,
+    "wof:lastmodified":1492104163,
     "wof:name":"Pelevan Realty Co Inc",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

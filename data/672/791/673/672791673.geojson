@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.858122,42.086946,-70.858122,42.086946",
     "geom:latitude":42.086946,
     "geom:longitude":-70.858122,
@@ -32,17 +33,26 @@
         "parcel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Tfgd9pNYNbwpZzm0JfkLr_42.086946_-70.858122@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726820,
-    "wof:geomhash":"d18c002ea7c00650a6d97af91301ebf9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07d751d304f714df9f5c8f9403157a78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523915,
+            "venue_id":672791673
+        }
+    ],
     "wof:id":672791673,
-    "wof:lastmodified":1472626031,
+    "wof:lastmodified":1492113751,
     "wof:name":"Gift Basket Supplies Inc",
     "wof:parent_id":420523915,
     "wof:placetype":"venue",

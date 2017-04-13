@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.826564,42.254732,-70.826564,42.254732",
     "geom:latitude":42.254732,
     "geom:longitude":-70.826564,
@@ -33,17 +34,26 @@
         "handling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77teNEw4aGrtMZ9aCQAiWR_42.254732_-70.826564@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727529,
-    "wof:geomhash":"2bcd0b0901139df8ef32ee93b5fbf41c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb9877d4a70e687945a92a79c54175f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523765,
+            "venue_id":672826605
+        }
+    ],
     "wof:id":672826605,
-    "wof:lastmodified":1472626057,
+    "wof:lastmodified":1492115925,
     "wof:name":"Buckley Co",
     "wof:parent_id":420523765,
     "wof:placetype":"venue",

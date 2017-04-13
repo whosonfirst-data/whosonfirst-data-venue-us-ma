@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.960099,42.451049,-72.960099,42.451049",
     "geom:latitude":42.451049,
     "geom:longitude":-72.960099,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Mg0FTX8QSmue96PLC4oPZ_42.451049_-72.960099@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721976,
-    "wof:geomhash":"714f4ed199c6003258a70c7760233507",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e509204a9cf474a04a97063298f06da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523653,
+            "venue_id":672573161
+        }
+    ],
     "wof:id":672573161,
-    "wof:lastmodified":1472625809,
+    "wof:lastmodified":1492116954,
     "wof:name":"West Cummington Stone & Wood",
     "wof:parent_id":420523653,
     "wof:placetype":"venue",

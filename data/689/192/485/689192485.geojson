@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.433502,41.7229,-70.433502,41.7229",
     "geom:latitude":41.7229,
     "geom:longitude":-70.433502,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lDMiRZTp0RlCoeXKW8kFw_41.722900_-70.433502@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741894,
-    "wof:geomhash":"28b74347fe1f13c58cbb2de402a6e12e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"530135075a22f9112c902b61aeacb803",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523225,
+            "venue_id":689192485
+        }
+    ],
     "wof:id":689192485,
-    "wof:lastmodified":1472625592,
+    "wof:lastmodified":1492098054,
     "wof:name":"Cox Construction Co",
     "wof:parent_id":420523225,
     "wof:placetype":"venue",

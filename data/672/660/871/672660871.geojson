@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.856807,42.499918,-70.856807,42.499918",
     "geom:latitude":42.499918,
     "geom:longitude":-70.856807,
@@ -34,6 +35,7 @@
         85633793,
         85950797,
         102084463,
+        85832399,
         85856519
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461723961,
-    "wof:geomhash":"53024815326611a2815ea58e757632fd",
+    "wof:geomhash":"c3610fb3bebbfd84a3e065a807350f55",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950797,
+            "neighbourhood_id":85832399,
+            "region_id":85688645,
+            "venue_id":672660871
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":672660871,
-    "wof:lastmodified":1472625911,
+    "wof:lastmodified":1492119511,
     "wof:name":"Mrs O's Of Marblehead",
-    "wof:parent_id":85856519,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

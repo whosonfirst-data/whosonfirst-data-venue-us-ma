@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.802485,41.916111,-70.802485,41.916111",
     "geom:latitude":41.916111,
     "geom:longitude":-70.802485,
@@ -31,17 +32,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4o0g2tYFSbh9GzxSzc5ATo_41.916111_-70.802485@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722516,
-    "wof:geomhash":"f37096186eb01d4188a288c097093810",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f18923624d525c3bc17285f336b7b17d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672597169
+        }
+    ],
     "wof:id":672597169,
-    "wof:lastmodified":1472625845,
+    "wof:lastmodified":1492106258,
     "wof:name":"Aggregate Industries",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

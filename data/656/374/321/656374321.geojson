@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.906506,42.055652,-70.906506,42.055652",
     "geom:latitude":42.055652,
     "geom:longitude":-70.906506,
@@ -32,17 +33,26 @@
         "sewage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24Hd5YHxLs3yqS20Mh0ndE_42.055652_-70.906506@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711467,
-    "wof:geomhash":"f8b3e3bf7eb75d483e2de5cb3c74b85c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00f0ddd5a824840f1406dae8a975a12a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":656374321
+        }
+    ],
     "wof:id":656374321,
-    "wof:lastmodified":1472624991,
+    "wof:lastmodified":1492101923,
     "wof:name":"Hanson Water Dept",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

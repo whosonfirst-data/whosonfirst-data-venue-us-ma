@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.066819,42.029425,-71.066819,42.029425",
     "geom:latitude":42.029425,
     "geom:longitude":-71.066819,
@@ -32,19 +33,28 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sRHN8izOJ6IUwDihBZyGR_42.029425_-71.066819@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726365,
-    "wof:geomhash":"985bae76ab537d7416547d26c918a16a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9f6db6a006930b4c110cc7e08046bde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":672769765
+        }
+    ],
     "wof:id":672769765,
-    "wof:lastmodified":1472626018,
+    "wof:lastmodified":1492108754,
     "wof:name":"Artistic Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

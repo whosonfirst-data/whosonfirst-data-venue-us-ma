@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.583278,42.501071,-71.583278,42.501071",
     "geom:latitude":42.501071,
     "geom:longitude":-71.583278,
@@ -31,10 +32,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85809037,
-        102084655,
         85950627,
-        85824179
+        102084655,
+        85824179,
+        85809037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +43,8 @@
     },
     "wof:country":"US",
     "wof:created":1461720712,
-    "wof:geomhash":"5398a64033cf6b73f8dc85428e2b46ee",
+    "wof:geomhash":"c24fb057bf0ed31fbcbb26cb15a2f50d",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85809037,
-            "region_id":85688645,
-            "venue_id":672514355
-        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -58,12 +52,19 @@
             "neighbourhood_id":85824179,
             "region_id":85688645,
             "venue_id":672514355
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85809037,
+            "region_id":85688645,
+            "venue_id":672514355
         }
     ],
     "wof:id":672514355,
-    "wof:lastmodified":1472625769,
+    "wof:lastmodified":1492116544,
     "wof:name":"Public Library",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.244325,42.417651,-71.244325,42.417651",
     "geom:latitude":42.417651,
     "geom:longitude":-71.244325,
@@ -38,7 +39,10 @@
         85633793,
         85950337,
         102084643,
-        85688645
+        85688645,
+        85891395,
+        404476393,
+        85950637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722445,
-    "wof:geomhash":"85975e78ea23897365d12159e5f56531",
+    "wof:geomhash":"1a6e392748ca438b7b903fa1b0f3f82b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +61,22 @@
             "neighbourhood_id":85829465,
             "region_id":85688645,
             "venue_id":672593777
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476393,
+            "locality_id":85950637,
+            "neighbourhood_id":85891395,
+            "region_id":85688645,
+            "venue_id":672593777
         }
     ],
     "wof:id":672593777,
-    "wof:lastmodified":1472625851,
+    "wof:lastmodified":1492112941,
     "wof:name":"Nancy S Seasholes",
-    "wof:parent_id":85829465,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

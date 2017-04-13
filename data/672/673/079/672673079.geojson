@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.775019,41.886856,-70.775019,41.886856",
     "geom:latitude":41.886856,
     "geom:longitude":-70.775019,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523937,
+        85688645,
         85826411,
         102084367
     ],
@@ -43,8 +45,13 @@
     },
     "wof:country":"US",
     "wof:created":1461724223,
-    "wof:geomhash":"15be117cdc8e4e80292bcbe4e720b950",
+    "wof:geomhash":"a19689195b4c87d4a98f158f3670b6af",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":672673079
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -54,9 +61,9 @@
         }
     ],
     "wof:id":672673079,
-    "wof:lastmodified":1472625915,
+    "wof:lastmodified":1492113154,
     "wof:name":"Crystal Lake Greenhouse",
-    "wof:parent_id":85826411,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

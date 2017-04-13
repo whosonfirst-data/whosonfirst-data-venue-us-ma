@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.090656,41.575885,-71.090656,41.575885",
     "geom:latitude":41.575885,
     "geom:longitude":-71.090656,
@@ -31,17 +32,26 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27Whvyu7v7aZleF0B1Jn7W_41.575885_-71.090656@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726791,
-    "wof:geomhash":"481de014794644af6417c2a0b791f07a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1bb6e96b1bda9e655d4ad81d7cbb148",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672790171
+        }
+    ],
     "wof:id":672790171,
-    "wof:lastmodified":1472626016,
+    "wof:lastmodified":1492119678,
     "wof:name":"Westport Animal Hospital",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

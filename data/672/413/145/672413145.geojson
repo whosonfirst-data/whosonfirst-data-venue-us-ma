@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.007842,41.894367,-71.007842,41.894367",
     "geom:latitude":41.894367,
     "geom:longitude":-71.007842,
@@ -31,17 +32,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476139,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21YIJi4pdawM1AI3amCDyG_41.894367_-71.007842@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718238,
-    "wof:geomhash":"90f38b93c5aa9f7d410ad30eea4676d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2502f5bb184bfaa0b2619679043180b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476139,
+            "region_id":85688645,
+            "venue_id":672413145
+        }
+    ],
     "wof:id":672413145,
-    "wof:lastmodified":1472625675,
+    "wof:lastmodified":1492116885,
     "wof:name":"ICCE Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

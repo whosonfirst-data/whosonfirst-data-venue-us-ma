@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.792531,41.903754,-70.792531,41.903754",
     "geom:latitude":41.903754,
     "geom:longitude":-70.792531,
@@ -33,17 +34,26 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3linyfFovoSiT2kpyXreUC_41.903754_-70.792531@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741136,
-    "wof:geomhash":"4f47a358ed87221339cdd2dfc2d02c8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2546034536435663493e79becad781e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":689158297
+        }
+    ],
     "wof:id":689158297,
-    "wof:lastmodified":1472625505,
+    "wof:lastmodified":1492099880,
     "wof:name":"Long Ridge Wine & Spirits",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

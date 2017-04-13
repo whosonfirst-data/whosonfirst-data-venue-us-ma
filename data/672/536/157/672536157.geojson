@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.181082,42.355053,-71.181082,42.355053",
     "geom:latitude":42.355053,
     "geom:longitude":-71.181082,
@@ -28,17 +29,34 @@
     "sg:postcode":"02458",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3U7ERdmINpGXBPmhNuoMm1_42.355053_-71.181082@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721186,
-    "wof:geomhash":"6d73dfb8f25eb6df38ef9ecd4255106c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"435bbe01072679c41bb96d75838c1015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":672536157
+        }
+    ],
     "wof:id":672536157,
-    "wof:lastmodified":1472625778,
+    "wof:lastmodified":1492118853,
     "wof:name":"Wright Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

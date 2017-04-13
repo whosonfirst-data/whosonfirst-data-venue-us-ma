@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.058841,42.044923,-71.058841,42.044923",
     "geom:latitude":42.044923,
     "geom:longitude":-71.058841,
@@ -32,17 +33,26 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4isV9nBTlKESOW1ArQr4WX_42.044923_-71.058841@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716321,
-    "wof:geomhash":"48b004a00f3197f9d5b557e7042212a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68dfc9e9c678c5d61c3d1f0edfb38603",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523999,
+            "venue_id":672334395
+        }
+    ],
     "wof:id":672334395,
-    "wof:lastmodified":1472625568,
+    "wof:lastmodified":1492115850,
     "wof:name":"Leo's Trash Svc",
     "wof:parent_id":420523999,
     "wof:placetype":"venue",

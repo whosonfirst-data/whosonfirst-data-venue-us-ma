@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.174166,42.427622,-71.174166,42.427622",
     "geom:latitude":42.427622,
     "geom:longitude":-71.174166,
@@ -41,6 +42,9 @@
         85950613,
         102084643,
         85688645,
+        420523681,
+        404476393,
+        85950637,
         85815901
     ],
     "wof:breaches":[],
@@ -49,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722122,
-    "wof:geomhash":"21412d00a77fb7ece76be95b51973f80",
+    "wof:geomhash":"fb91786f6ebf00c052835d302fb976c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,6 +69,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084643,
+            "localadmin_id":404476393,
+            "locality_id":85950637,
+            "neighbourhood_id":420523681,
+            "region_id":85688645,
+            "venue_id":672579881
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
             "localadmin_id":404476319,
             "locality_id":85950613,
             "neighbourhood_id":85815901,
@@ -73,9 +87,9 @@
         }
     ],
     "wof:id":672579881,
-    "wof:lastmodified":1472625840,
+    "wof:lastmodified":1492112605,
     "wof:name":"Great Expectations Preschool",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

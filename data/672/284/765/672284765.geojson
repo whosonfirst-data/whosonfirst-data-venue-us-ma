@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.259792,42.136027,-71.259792,42.136027",
     "geom:latitude":42.136027,
     "geom:longitude":-71.259792,
@@ -31,17 +32,26 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V69OpWD7twRuYHnQdPiic_42.136027_-71.259792@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715295,
-    "wof:geomhash":"23f6e53c535f57a5d14d6d3b0360b616",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4114bdc5c3a4eddde4e53ca162b145db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672284765
+        }
+    ],
     "wof:id":672284765,
-    "wof:lastmodified":1472625471,
+    "wof:lastmodified":1492106966,
     "wof:name":"Magic Dry Cleaning & Tailoring",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

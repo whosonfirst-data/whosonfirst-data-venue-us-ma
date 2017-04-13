@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.83608,42.33427,-71.83608,42.33427",
     "geom:latitude":42.33427,
     "geom:longitude":-71.83608,
@@ -25,17 +26,26 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TzZML9wkoCTimUrnUdsCN_42.334270_-71.836080@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732486,
-    "wof:geomhash":"333dc674e456af01e1e66be2f17f6a2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d29249f097a416964991c425b8de202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":673037851
+        }
+    ],
     "wof:id":673037851,
-    "wof:lastmodified":1472625101,
+    "wof:lastmodified":1492105270,
     "wof:name":"Inergy Propane LLC",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

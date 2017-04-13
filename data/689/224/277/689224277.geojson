@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.118342,41.643556,-71.118342,41.643556",
     "geom:latitude":41.643556,
     "geom:longitude":-71.118342,
@@ -31,17 +32,26 @@
         "trust"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sDSLFj8kq4MSfAp8FrYIF_41.643556_-71.118342@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742576,
-    "wof:geomhash":"fcf54966916a857f3acf068eaeb0c090",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccb3c38fd8fe2d364ed5e00489051f03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":689224277
+        }
+    ],
     "wof:id":689224277,
-    "wof:lastmodified":1472625619,
+    "wof:lastmodified":1492097817,
     "wof:name":"Messier Family Foundation",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.830293,42.358088,-71.830293,42.358088",
     "geom:latitude":42.358088,
     "geom:longitude":-71.830293,
@@ -32,17 +33,26 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mqSH54SIDwuhQFGOYW3YR_42.358088_-71.830293@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714080,
-    "wof:geomhash":"a5b7dbd4d9522b3c6fd686bd22859ac9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1cfaa840284d0946d39e68d8c8df77e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":672225635
+        }
+    ],
     "wof:id":672225635,
-    "wof:lastmodified":1472625249,
+    "wof:lastmodified":1492105643,
     "wof:name":"Star Gas Propane",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

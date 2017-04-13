@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.132341,42.570046,-72.132341,42.570046",
     "geom:latitude":42.570046,
     "geom:longitude":-72.132341,
@@ -32,19 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85841497,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gl3rfHL4jUG8jX3g8WAks_42.570046_-72.132341@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726460,
-    "wof:geomhash":"802de22425b301c327f0446809340bb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"578226fbf35e8f75fd0f5164479a2e28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85841497,
+            "region_id":85688645,
+            "venue_id":672774135
+        }
+    ],
     "wof:id":672774135,
-    "wof:lastmodified":1472626005,
+    "wof:lastmodified":1492115596,
     "wof:name":"Dave Corey & Sons Auto Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":85841497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

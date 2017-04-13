@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.710962,42.250302,-71.710962,42.250302",
     "geom:latitude":42.250302,
     "geom:longitude":-71.710962,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2w2bZVlFsXAy61smCyw1Su_42.250302_-71.710962@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722396,
-    "wof:geomhash":"19805781a6879f805564fec73c0aa838",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e124de90b178589b526f3ec6c8d8d75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":672591487
+        }
+    ],
     "wof:id":672591487,
-    "wof:lastmodified":1472625847,
+    "wof:lastmodified":1492116154,
     "wof:name":"John D Linde Trucking Inc",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.877327,42.110537,-70.877327,42.110537",
     "geom:latitude":42.110537,
     "geom:longitude":-70.877327,
@@ -31,17 +32,26 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NfnTJ0a2PydLO1Dww6blZ_42.110537_-70.877327@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725314,
-    "wof:geomhash":"0b48edd31f8f0b6fac27e6acd305b796",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4ee7a68460609d29f3da3df8c773862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672720843
+        }
+    ],
     "wof:id":672720843,
-    "wof:lastmodified":1472625964,
+    "wof:lastmodified":1492112967,
     "wof:name":"Joseph Ingle Bus Svc",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

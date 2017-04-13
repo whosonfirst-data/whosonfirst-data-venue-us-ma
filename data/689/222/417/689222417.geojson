@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.219016,41.758917,-71.219016,41.758917",
     "geom:latitude":41.758917,
     "geom:longitude":-71.219016,
@@ -31,17 +32,26 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0spQ2Krg8HFcfdnwgUNcHb_41.758917_-71.219016@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742537,
-    "wof:geomhash":"7517895dca45071b4853341735170338",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73e67671b1fc6823ed5120fa7ec68ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":689222417
+        }
+    ],
     "wof:id":689222417,
-    "wof:lastmodified":1472625623,
+    "wof:lastmodified":1492100194,
     "wof:name":"Swansea Mall",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.897319,42.042319,-70.897319,42.042319",
     "geom:latitude":42.042319,
     "geom:longitude":-70.897319,
@@ -31,17 +32,26 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pZmE73xAdNXYF9W4Wgdtm_42.042319_-70.897319@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716585,
-    "wof:geomhash":"f2947701fb04e67ae95d8ece60eeae58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"333165e3cfd27a2b3bb0320db485f500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":672343955
+        }
+    ],
     "wof:id":672343955,
-    "wof:lastmodified":1472625589,
+    "wof:lastmodified":1492108729,
     "wof:name":"William Kailher Dental Lab",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

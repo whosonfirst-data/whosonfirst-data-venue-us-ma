@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.790576,41.997653,-70.790576,41.997653",
     "geom:latitude":41.997653,
     "geom:longitude":-70.790576,
@@ -40,17 +41,26 @@
     ],
     "sg:website":"http://www.thecleanteam.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WGLrt89HwmBaqokqlfoTx_41.997653_-70.790576@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741205,
-    "wof:geomhash":"41331c792e7b56ba6ab73b92c3051a72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c9512db0bed78f5eb19a76a399dd90d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689161381
+        }
+    ],
     "wof:id":689161381,
-    "wof:lastmodified":1472625511,
+    "wof:lastmodified":1492099165,
     "wof:name":"The Clean Team",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

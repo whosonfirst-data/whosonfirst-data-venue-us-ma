@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.916056,42.515907,-72.916056,42.515907",
     "geom:latitude":42.515907,
     "geom:longitude":-72.916056,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mZSbflvNWSClDTosoTiDs_42.515907_-72.916056@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719966,
-    "wof:geomhash":"a3e09c72b5a65cac7d64c99aabe3c3ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2990562f3c20fc5012cc5a748292b413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523653,
+            "venue_id":672480805
+        }
+    ],
     "wof:id":672480805,
-    "wof:lastmodified":1472625748,
+    "wof:lastmodified":1492118956,
     "wof:name":"Town Office",
     "wof:parent_id":420523653,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.103752,42.127022,-71.103752,42.127022",
     "geom:latitude":42.127022,
     "geom:longitude":-71.103752,
@@ -31,17 +32,26 @@
         "lithographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57z9n6FDFk1SWwuF9vqzIr_42.127022_-71.103752@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736338,
-    "wof:geomhash":"da11c32d668c24a758983c0150a23288",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d07da8fd9827b8823eb371411cfa3fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688954665
+        }
+    ],
     "wof:id":688954665,
-    "wof:lastmodified":1472625167,
+    "wof:lastmodified":1492120875,
     "wof:name":"Idea Design",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

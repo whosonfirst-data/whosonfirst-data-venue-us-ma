@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.818336,42.17317,-70.818336,42.17317",
     "geom:latitude":42.17317,
     "geom:longitude":-70.818336,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85828399,
-        102084367
+        102084367,
+        85811123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461729791,
-    "wof:geomhash":"5cc75dc5baf3eb1ed4fe73f8ac5a24a4",
+    "wof:geomhash":"d30eae89efd7708851e24a3c95a08d52",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,19 @@
             "neighbourhood_id":85828399,
             "region_id":85688645,
             "venue_id":672936675
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85811123,
+            "region_id":85688645,
+            "venue_id":672936675
         }
     ],
     "wof:id":672936675,
-    "wof:lastmodified":1472626157,
+    "wof:lastmodified":1492106808,
     "wof:name":"Black Pond Veterinary Svc Inc",
-    "wof:parent_id":85828399,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

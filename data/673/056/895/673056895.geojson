@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.549136,41.828678,-70.549136,41.828678",
     "geom:latitude":41.828678,
     "geom:longitude":-70.549136,
@@ -32,17 +33,26 @@
         "telephone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40vPa1lzjQbh1AitnXUgNu_41.828715_-70.549206@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732891,
-    "wof:geomhash":"4da96eeb5f54308e7825bbada8d980cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6aca06ce6ae30ed6debfb55999abf9d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523843,
+            "venue_id":673056895
+        }
+    ],
     "wof:id":673056895,
-    "wof:lastmodified":1472625184,
+    "wof:lastmodified":1492105007,
     "wof:name":"Cape Cod Secretarial",
     "wof:parent_id":420523843,
     "wof:placetype":"venue",

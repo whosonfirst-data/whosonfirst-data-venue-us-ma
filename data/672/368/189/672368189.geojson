@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.795344,42.251297,-71.795344,42.251297",
     "geom:latitude":42.251297,
     "geom:longitude":-71.795344,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881871,
+        85853089,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85881871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461717164,
-    "wof:geomhash":"6de94ae5f7bf0021962c5965204ba3f7",
+    "wof:geomhash":"67568fa36aed3bd53417cc9a1abcd1af",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85853089,
+            "region_id":85688645,
+            "venue_id":672368189
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672368189,
-    "wof:lastmodified":1472625638,
+    "wof:lastmodified":1492115217,
     "wof:name":"Deli Austral",
-    "wof:parent_id":85881871,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

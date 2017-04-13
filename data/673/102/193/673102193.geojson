@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.603828,42.205059,-72.603828,42.205059",
     "geom:latitude":42.205059,
     "geom:longitude":-72.603828,
@@ -49,17 +50,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476357,
+        85633793,
+        85950395,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dRxeTxK6oJmcH82kwZH7L_42.205059_-72.603828@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733805,
-    "wof:geomhash":"fe42b60ea4a8934b9696ad0e1a0877ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66de4269b34a72c0e1d0c3e13b749b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476357,
+            "locality_id":85950395,
+            "region_id":85688645,
+            "venue_id":673102193
+        }
+    ],
     "wof:id":673102193,
-    "wof:lastmodified":1472625270,
+    "wof:lastmodified":1492104759,
     "wof:name":"Lady Bugs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

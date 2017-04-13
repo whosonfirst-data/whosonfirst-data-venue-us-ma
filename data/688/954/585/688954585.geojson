@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.102173,42.125488,-71.102173,42.125488",
     "geom:latitude":42.125488,
     "geom:longitude":-71.102173,
@@ -38,17 +39,26 @@
     ],
     "sg:website":"http://www.usps.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i4Z0iaA6FualDz4Ox6V4N_42.125488_-71.102173@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736336,
-    "wof:geomhash":"cb2d75cd916f01355ca11859323e2dd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee07b93d0e2c8a941e93fe46fa99a8e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688954585
+        }
+    ],
     "wof:id":688954585,
-    "wof:lastmodified":1472625163,
+    "wof:lastmodified":1492120880,
     "wof:name":"USPS - United States Post Office - Stoughton",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

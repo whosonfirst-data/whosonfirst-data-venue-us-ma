@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101601,42.1301,-71.101601,42.1301",
     "geom:latitude":42.1301,
     "geom:longitude":-71.101601,
@@ -31,17 +32,26 @@
         "cleaner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b35hwiuU6MY4v0PjbndYG_42.130567_-71.101847@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733028,
-    "wof:geomhash":"efb3c6fa4e70aaf319ec0a5a72c53884",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cc46d0d242959f68f657ec938b0a30e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":673064133
+        }
+    ],
     "wof:id":673064133,
-    "wof:lastmodified":1472625139,
+    "wof:lastmodified":1492102532,
     "wof:name":"Able Cleaners",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

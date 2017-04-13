@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.886784,42.081069,-70.886784,42.081069",
     "geom:latitude":42.081069,
     "geom:longitude":-70.886784,
@@ -32,17 +33,26 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CQgR9V5KBGj4Wpzyu1pdv_42.081069_-70.886784@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711985,
-    "wof:geomhash":"60d34e744db5406cbf0a2d9cc1c8b4a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6c053530f54da5a6e54700d23423066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":656398837
+        }
+    ],
     "wof:id":656398837,
-    "wof:lastmodified":1472625098,
+    "wof:lastmodified":1492102085,
     "wof:name":"Cahill & Driscoll Inc",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

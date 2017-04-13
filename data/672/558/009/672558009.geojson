@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.467874,42.221292,-71.467874,42.221292",
     "geom:latitude":42.221292,
     "geom:longitude":-71.467874,
@@ -32,19 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85809003,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fIt6DiBMBzICzH0B4nJKZ_42.221292_-71.467874@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721646,
-    "wof:geomhash":"7a6c0dbedbf85577bfb5adbaf8b4bf04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d96aba175385fc30808fc5e2ea71d39e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85809003,
+            "region_id":85688645,
+            "venue_id":672558009
+        }
+    ],
     "wof:id":672558009,
-    "wof:lastmodified":1472625799,
+    "wof:lastmodified":1492107706,
     "wof:name":"Andrew Shiff",
-    "wof:parent_id":-1,
+    "wof:parent_id":85809003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

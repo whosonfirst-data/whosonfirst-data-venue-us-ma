@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.503691,42.350383,-71.503691,42.350383",
     "geom:latitude":42.350383,
     "geom:longitude":-71.503691,
@@ -38,7 +39,8 @@
         85633793,
         85950343,
         102084643,
-        85688645
+        85688645,
+        85891427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721247,
-    "wof:geomhash":"b9dfa1952a9bf9f50839aa4217d20467",
+    "wof:geomhash":"5e2494db99ea78e01c0d686643cd7afa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85891327,
             "region_id":85688645,
             "venue_id":672539437
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476401,
+            "locality_id":85950343,
+            "neighbourhood_id":85891427,
+            "region_id":85688645,
+            "venue_id":672539437
         }
     ],
     "wof:id":672539437,
-    "wof:lastmodified":1472625800,
+    "wof:lastmodified":1492114743,
     "wof:name":"Sodexho USA",
-    "wof:parent_id":85891327,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

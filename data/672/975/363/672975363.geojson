@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.975802,41.805589,-69.975802,41.805589",
     "geom:latitude":41.805589,
     "geom:longitude":-69.975802,
@@ -31,8 +32,12 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85852345,
-        102084379
+        85854975,
+        102084379,
+        85845359,
+        102191575,
+        404476187,
+        85950577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,20 +45,30 @@
     },
     "wof:country":"US",
     "wof:created":1461730921,
-    "wof:geomhash":"5f59b02f578e1198f5660c6e3477f84b",
+    "wof:geomhash":"9cfa928e497f5ccefc796bdc175cfd92",
     "wof:hierarchy":[
         {
             "country_id":85633793,
             "county_id":102084379,
-            "neighbourhood_id":85852345,
+            "neighbourhood_id":85854975,
+            "region_id":85688645,
+            "venue_id":672975363
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404476187,
+            "locality_id":85950577,
+            "neighbourhood_id":85845359,
             "region_id":85688645,
             "venue_id":672975363
         }
     ],
     "wof:id":672975363,
-    "wof:lastmodified":1472626184,
+    "wof:lastmodified":1492117090,
     "wof:name":"Town Cove Heating",
-    "wof:parent_id":85852345,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

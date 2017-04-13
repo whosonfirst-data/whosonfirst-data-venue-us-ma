@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.785853,41.900155,-70.785853,41.900155",
     "geom:latitude":41.900155,
     "geom:longitude":-70.785853,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Tqi0zf5QpzbHLKWhdJ1j7_41.900155_-70.785853@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725421,
-    "wof:geomhash":"db6d730ccd6520e67d770d4b18af0ec7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d103b660227e2d70c8eac6e4bd86b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":672726137
+        }
+    ],
     "wof:id":672726137,
-    "wof:lastmodified":1472625959,
+    "wof:lastmodified":1492111738,
     "wof:name":"Prett's Auto Sales",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

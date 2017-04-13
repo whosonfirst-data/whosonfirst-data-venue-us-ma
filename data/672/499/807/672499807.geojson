@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.091046,41.573868,-71.091046,41.573868",
     "geom:latitude":41.573868,
     "geom:longitude":-71.091046,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VfmGvtHZzjcCoAeZGJiYC_41.573868_-71.091046@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720405,
-    "wof:geomhash":"bc2d6c6a8975c7d6fc211a9f2bfb6270",
-    "wof:hierarchy":[],
+    "wof:geomhash":"947bddd5f46b6ce26f393bda67b70fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672499807
+        }
+    ],
     "wof:id":672499807,
-    "wof:lastmodified":1472625771,
+    "wof:lastmodified":1492115020,
     "wof:name":"Westport Police Dept",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

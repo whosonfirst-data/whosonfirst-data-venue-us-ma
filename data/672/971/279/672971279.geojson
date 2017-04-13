@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101676,41.62758,-71.101676,41.62758",
     "geom:latitude":41.62758,
     "geom:longitude":-71.101676,
@@ -32,17 +33,26 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GIhcp76t3fSOhmIJsSXXG_41.627580_-71.101676@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730790,
-    "wof:geomhash":"06f7f9e8f93819d3e832a985f4495aee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4834e23b805539f90ff390273e3aaacd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672971279
+        }
+    ],
     "wof:id":672971279,
-    "wof:lastmodified":1472626181,
+    "wof:lastmodified":1492105885,
     "wof:name":"Cormier & Sons Moving Svc",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

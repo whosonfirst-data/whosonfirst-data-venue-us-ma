@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.097366,41.627689,-71.097366,41.627689",
     "geom:latitude":41.627689,
     "geom:longitude":-71.097366,
@@ -56,17 +57,26 @@
         "chimney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LVeD61NhFAPtPgtAM0RQx_41.627689_-71.097366@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742582,
-    "wof:geomhash":"1a7b9dbd9ee26d8de9e903bcf3aeb72d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e32ebb2136258276011d8c4535b14989",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523343,
+            "venue_id":689224433
+        }
+    ],
     "wof:id":689224433,
-    "wof:lastmodified":1472625622,
+    "wof:lastmodified":1492097809,
     "wof:name":"Masons Corner",
     "wof:parent_id":420523343,
     "wof:placetype":"venue",

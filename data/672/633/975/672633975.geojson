@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.005815,41.972493,-71.005815,41.972493",
     "geom:latitude":41.972493,
     "geom:longitude":-71.005815,
@@ -31,17 +32,26 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PugEYwUNOabS5skjpoBgB_41.972493_-71.005815@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723372,
-    "wof:geomhash":"6d86572f44d486bd34b4527e6a913194",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e67ef83fcfbc67f10f24c1565c9c15b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672633975
+        }
+    ],
     "wof:id":672633975,
-    "wof:lastmodified":1472625889,
+    "wof:lastmodified":1492112482,
     "wof:name":"Best Cleaners",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

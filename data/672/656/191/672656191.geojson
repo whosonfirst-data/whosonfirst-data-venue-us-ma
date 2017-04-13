@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.781617,41.975039,-70.781617,41.975039",
     "geom:latitude":41.975039,
     "geom:longitude":-70.781617,
@@ -31,17 +32,26 @@
         "reporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vQHP4spuL2VlA1Sve7f83_41.975039_-70.781617@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723849,
-    "wof:geomhash":"b9b9d18a6c760da2fea7acb89f93d7f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37b6aca592e7491e9390078100671a64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672656191
+        }
+    ],
     "wof:id":672656191,
-    "wof:lastmodified":1472625897,
+    "wof:lastmodified":1492109393,
     "wof:name":"Ganska Reporting Services",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

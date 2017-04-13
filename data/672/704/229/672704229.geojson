@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.563048,41.917955,-70.563048,41.917955",
     "geom:latitude":41.917955,
     "geom:longitude":-70.563048,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85832139,
-        102084367
+        85832143,
+        102084367,
+        85832139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461724960,
-    "wof:geomhash":"1f2be9b4efb052bae6f75cf6bde1eb38",
+    "wof:geomhash":"398b6117dddcf191845d32813547cdf2",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85832143,
+            "region_id":85688645,
+            "venue_id":672704229
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -54,9 +63,9 @@
         }
     ],
     "wof:id":672704229,
-    "wof:lastmodified":1472625938,
+    "wof:lastmodified":1492115625,
     "wof:name":"Quintal Bros Fruit Market",
-    "wof:parent_id":85832139,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

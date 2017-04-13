@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.970963,42.120073,-71.970963,42.120073",
     "geom:latitude":42.120073,
     "geom:longitude":-71.970963,
@@ -35,17 +36,26 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wXHwFNoirGwNUfPgNc7JV_42.120073_-71.970963@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725925,
-    "wof:geomhash":"3720cf292abf602c94edb0ac323f9749",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f71a8c2a36e633b863a383cefcf895a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":672749249
+        }
+    ],
     "wof:id":672749249,
-    "wof:lastmodified":1472625976,
+    "wof:lastmodified":1492105558,
     "wof:name":"Aa Carphone & Paging Service",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

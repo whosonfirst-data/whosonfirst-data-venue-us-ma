@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.90717,41.736086,-70.90717,41.736086",
     "geom:latitude":41.736086,
     "geom:longitude":-70.90717,
@@ -33,17 +34,26 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XF11jOTKUaVzIWI6G4kwg_41.736086_-70.907170@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724966,
-    "wof:geomhash":"f850a55fc13d2ba7a11f56e4dc4a5c99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc1c6b528c95987ad82c9b6dbcbe6b98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672704533
+        }
+    ],
     "wof:id":672704533,
-    "wof:lastmodified":1472625947,
+    "wof:lastmodified":1492115627,
     "wof:name":"Acushnet Manufactured Homes",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

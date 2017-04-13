@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.964996,42.711618,-70.964996,42.711618",
     "geom:latitude":42.711618,
     "geom:longitude":-70.964996,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85845839,
-        102084463
+        102084463,
+        420523475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461713599,
-    "wof:geomhash":"8d75eee24bf8094d11058d1418bf814c",
+    "wof:geomhash":"dc2ac5cddb959bb5f8fc292abc441cfb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,17 @@
             "neighbourhood_id":85845839,
             "region_id":85688645,
             "venue_id":672201677
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672201677
         }
     ],
     "wof:id":672201677,
-    "wof:lastmodified":1472625182,
+    "wof:lastmodified":1492114806,
     "wof:name":"BME Engineering Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

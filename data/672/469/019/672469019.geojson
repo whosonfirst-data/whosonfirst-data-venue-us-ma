@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.335596,42.160334,-72.335596,42.160334",
     "geom:latitude":42.160334,
     "geom:longitude":-72.335596,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85851933,
+        102191575,
+        404476365,
         85633793,
         85950385,
         102084627,
-        85851933
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1461719671,
-    "wof:geomhash":"9369242708e734d30d07c88d02ae5087",
+    "wof:geomhash":"dcca6657759599941fdee559f7c08d4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084627,
+            "localadmin_id":404476365,
             "locality_id":85950385,
             "neighbourhood_id":85851933,
             "region_id":85688645,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":672469019,
-    "wof:lastmodified":1472625727,
+    "wof:lastmodified":1492119720,
     "wof:name":"Smoc Housing",
     "wof:parent_id":85851933,
     "wof:placetype":"venue",

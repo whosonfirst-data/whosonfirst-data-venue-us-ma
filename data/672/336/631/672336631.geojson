@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.387214,42.618747,-71.387214,42.618747",
     "geom:latitude":42.618747,
     "geom:longitude":-71.387214,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MEia9eHK4kWs7sEhAfzCi_42.618747_-71.387214@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716393,
-    "wof:geomhash":"08d59dcfc829193142d8a21270d500c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5466427211ba19c0ea830cba8de84ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672336631
+        }
+    ],
     "wof:id":672336631,
-    "wof:lastmodified":1472625566,
+    "wof:lastmodified":1492116089,
     "wof:name":"Jean Construction Inc",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

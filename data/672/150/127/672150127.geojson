@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.549298,42.387768,-71.549298,42.387768",
     "geom:latitude":42.387768,
     "geom:longitude":-71.549298,
@@ -38,7 +39,8 @@
         85633793,
         85950635,
         102084643,
-        85688645
+        85688645,
+        420523671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461712454,
-    "wof:geomhash":"57e84399334e80f6ef36413d6ac6e4a9",
+    "wof:geomhash":"f9d876186cd085e2cfdb4ddcd2c4dce4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,17 @@
             "neighbourhood_id":85891353,
             "region_id":85688645,
             "venue_id":672150127
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672150127
         }
     ],
     "wof:id":672150127,
-    "wof:lastmodified":1472624933,
+    "wof:lastmodified":1492116685,
     "wof:name":"Polytech Filtration Systems",
-    "wof:parent_id":85891353,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

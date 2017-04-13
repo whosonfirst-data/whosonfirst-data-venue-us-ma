@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.866803,42.09632,-70.866803,42.09632",
     "geom:latitude":42.09632,
     "geom:longitude":-70.866803,
@@ -31,17 +32,26 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ONEvd4pH6WpCTP4HO5t6q_42.096320_-70.866803@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728079,
-    "wof:geomhash":"a7ba640e556998e2546c08b46fc7f1db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf8e37e679e47183c7747c599492c26f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523915,
+            "venue_id":672854537
+        }
+    ],
     "wof:id":672854537,
-    "wof:lastmodified":1472626084,
+    "wof:lastmodified":1492116735,
     "wof:name":"Manomet Animal Hospital",
     "wof:parent_id":420523915,
     "wof:placetype":"venue",

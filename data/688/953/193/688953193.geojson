@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101959,42.136829,-71.101959,42.136829",
     "geom:latitude":42.136829,
     "geom:longitude":-71.101959,
@@ -33,17 +34,26 @@
         "pan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RYdSBtVZn3WxTmxe7PxUw_42.136829_-71.101959@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736311,
-    "wof:geomhash":"ef4640b877fc55f9207dbb13dda8ad2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d903d824b1344228e199773f934d2ec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688953193
+        }
+    ],
     "wof:id":688953193,
-    "wof:lastmodified":1472625130,
+    "wof:lastmodified":1492120226,
     "wof:name":"South China",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

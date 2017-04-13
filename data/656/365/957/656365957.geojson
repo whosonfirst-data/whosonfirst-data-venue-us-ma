@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.704205,42.375348,-72.704205,42.375348",
     "geom:latitude":42.375348,
     "geom:longitude":-72.704205,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GWrevh3MeRy61hWvU7q2l_42.375348_-72.704205@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711290,
-    "wof:geomhash":"9faaa37102e5630c98d9eac3c98598ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2dc7060296fd2d6972e5fba2dcac8cec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523635,
+            "venue_id":656365957
+        }
+    ],
     "wof:id":656365957,
-    "wof:lastmodified":1472624973,
+    "wof:lastmodified":1492101765,
     "wof:name":"Schneider Plumbing & Heating",
     "wof:parent_id":420523635,
     "wof:placetype":"venue",

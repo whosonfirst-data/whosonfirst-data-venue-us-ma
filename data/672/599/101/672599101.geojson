@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.08864,42.135364,-71.08864,42.135364",
     "geom:latitude":42.135364,
     "geom:longitude":-71.08864,
@@ -33,17 +34,26 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OaGR10tdSdIuAbj5NH1zl_42.135364_-71.088640@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722573,
-    "wof:geomhash":"dd3ebfdad8e6d6a9f3870b82013dc019",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56f384b5cd5d80a3ef9728aa572bc33c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672599101
+        }
+    ],
     "wof:id":672599101,
-    "wof:lastmodified":1472625845,
+    "wof:lastmodified":1492107717,
     "wof:name":"PAR 4 Lawn Care Inc",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

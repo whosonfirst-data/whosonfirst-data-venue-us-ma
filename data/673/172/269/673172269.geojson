@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.993206,42.754529,-70.993206,42.754529",
     "geom:latitude":42.754529,
     "geom:longitude":-70.993206,
@@ -49,17 +50,26 @@
         "equipment-repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68Lo3wA3cUyyxYty6a99eC_42.754529_-70.993206@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735272,
-    "wof:geomhash":"feb33a62ed1a4262425565ea6272781e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a28fc47827f84baa5bd3815f01550e42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673172269
+        }
+    ],
     "wof:id":673172269,
-    "wof:lastmodified":1472625470,
+    "wof:lastmodified":1492102565,
     "wof:name":"Crest Healthcare Pro",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

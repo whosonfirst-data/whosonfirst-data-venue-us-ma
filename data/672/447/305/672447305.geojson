@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.825899,42.25898,-70.825899,42.25898",
     "geom:latitude":42.25898,
     "geom:longitude":-70.825899,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h5JirGTs4DqvYG9ng6xqO_42.258980_-70.825899@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719107,
-    "wof:geomhash":"726a633375af9dddb6a54053502df5f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f9cb854fc96e198a9ef3d6d647e2f38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523765,
+            "venue_id":672447305
+        }
+    ],
     "wof:id":672447305,
-    "wof:lastmodified":1472625710,
+    "wof:lastmodified":1492116251,
     "wof:name":"Joseph J Laprise",
     "wof:parent_id":420523765,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.327949,42.156401,-72.327949,42.156401",
     "geom:latitude":42.156401,
     "geom:longitude":-72.327949,
@@ -29,11 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85851933,
+        102191575,
+        404476365,
         85633793,
         85950385,
         102084627,
-        85851933
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1461718911,
-    "wof:geomhash":"625de4c92a05b088f9359fa7df9ec79e",
+    "wof:geomhash":"90c80d567bfcf14144292c72ce2b566d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084627,
+            "localadmin_id":404476365,
             "locality_id":85950385,
             "neighbourhood_id":85851933,
             "region_id":85688645,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":672440339,
-    "wof:lastmodified":1472625703,
+    "wof:lastmodified":1492114420,
     "wof:name":"Villanova",
     "wof:parent_id":85851933,
     "wof:placetype":"venue",

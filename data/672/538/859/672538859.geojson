@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.819285,42.568146,-70.819285,42.568146",
     "geom:latitude":42.568146,
     "geom:longitude":-70.819285,
@@ -33,19 +34,38 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85810175,
+        102191575,
+        404476287,
+        85633793,
+        85950421,
+        102084463,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Dg6V6emv8E2u2Ggk4Dk6j_42.568146_-70.819285@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721237,
-    "wof:geomhash":"baa02cdc78219a58cc5425e14c16af18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23cb63823e203c34e1c07a9b705e5cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476287,
+            "locality_id":85950421,
+            "neighbourhood_id":85810175,
+            "region_id":85688645,
+            "venue_id":672538859
+        }
+    ],
     "wof:id":672538859,
-    "wof:lastmodified":1472625815,
+    "wof:lastmodified":1492106080,
     "wof:name":"North Shore Nursery School Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

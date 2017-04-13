@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.807711,42.231716,-70.807711,42.231716",
     "geom:latitude":42.231716,
     "geom:longitude":-70.807711,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KysNBvAEvvyTAXYQTcase_42.231716_-70.807711@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725991,
-    "wof:geomhash":"689de418f17f0c3670f7f15de6b5a76e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20aaedd231afdec224fcec5d9a945b23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672752711
+        }
+    ],
     "wof:id":672752711,
-    "wof:lastmodified":1472626001,
+    "wof:lastmodified":1492116915,
     "wof:name":"American Bldg Restoration Co",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

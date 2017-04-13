@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.744365,42.018311,-70.744365,42.018311",
     "geom:latitude":42.018311,
     "geom:longitude":-70.744365,
@@ -37,17 +38,26 @@
         "lodging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14qWqLHWFBYEGbmOg3qtfQ_42.018311_-70.744365@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732318,
-    "wof:geomhash":"e41ff0d8ae7b67a466883b2116d479ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d908a11aa07a937833eb91b5e47f70c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":673029403
+        }
+    ],
     "wof:id":673029403,
-    "wof:lastmodified":1472625007,
+    "wof:lastmodified":1492104801,
     "wof:name":"Town & Country Tenant's Assoc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

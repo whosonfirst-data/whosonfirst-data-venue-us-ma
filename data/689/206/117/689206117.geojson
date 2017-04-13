@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.509308,41.675308,-70.509308,41.675308",
     "geom:latitude":41.675308,
     "geom:longitude":-70.509308,
@@ -41,17 +42,26 @@
         "grooming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GlD5ojyAZNHMnYFZSG8FF_41.675308_-70.509308@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742177,
-    "wof:geomhash":"4b6f265f593c31e11372174f94627944",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27350775f9d449b4be662b515588eb97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":689206117
+        }
+    ],
     "wof:id":689206117,
-    "wof:lastmodified":1472625594,
+    "wof:lastmodified":1492098396,
     "wof:name":"Forestdale Veterinary Clinic",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

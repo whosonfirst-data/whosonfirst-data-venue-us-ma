@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.742032,41.739338,-70.742032,41.739338",
     "geom:latitude":41.739338,
     "geom:longitude":-70.742032,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UgjRiCzVqdKDy7pr5uEhL_41.739338_-70.742032@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722471,
-    "wof:geomhash":"b83e721e00fcc52c4a39bda5652245f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f88cbdf3d913a30c3bb3d38553eb962f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523897,
+            "venue_id":672594941
+        }
+    ],
     "wof:id":672594941,
-    "wof:lastmodified":1472625853,
+    "wof:lastmodified":1492117014,
     "wof:name":"Celco Construction",
     "wof:parent_id":420523897,
     "wof:placetype":"venue",

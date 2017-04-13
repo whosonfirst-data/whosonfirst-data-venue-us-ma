@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.715958,41.758668,-70.715958,41.758668",
     "geom:latitude":41.758668,
     "geom:longitude":-70.715958,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85838881,
+        102084367,
         85854495,
         102191575,
         404476567,
-        85633793,
-        85950489,
-        102084367,
-        85688645
+        85950489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,15 @@
     },
     "wof:country":"US",
     "wof:created":1461717529,
-    "wof:geomhash":"0f01dd5292b1c4d59d56f2a00378b6ea",
+    "wof:geomhash":"4e8fd7baa3adf85898b22dfc19755d54",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85838881,
+            "region_id":85688645,
+            "venue_id":672384941
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +69,9 @@
         }
     ],
     "wof:id":672384941,
-    "wof:lastmodified":1472625658,
+    "wof:lastmodified":1492116652,
     "wof:name":"Kalkanis Family Corp",
-    "wof:parent_id":85854495,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

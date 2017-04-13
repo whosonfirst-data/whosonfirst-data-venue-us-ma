@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.863754,41.676245,-70.863754,41.676245",
     "geom:latitude":41.676245,
     "geom:longitude":-70.863754,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fNuzsPyaDAmsQWiSp9eWW_41.676245_-70.863754@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729092,
-    "wof:geomhash":"0086276f8272a73832af0d7f69eb856e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"836f9d34c242dfe4138cd0a0972b91c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672903555
+        }
+    ],
     "wof:id":672903555,
-    "wof:lastmodified":1472626123,
+    "wof:lastmodified":1492115102,
     "wof:name":"Angers & Guillotte",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

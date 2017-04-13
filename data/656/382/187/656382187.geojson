@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.990723,42.08106,-70.990723,42.08106",
     "geom:latitude":42.08106,
     "geom:longitude":-70.990723,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85855157,
+        102191575,
+        404476503,
         85633793,
-        85950439,
+        85950319,
         102084367,
-        85855157
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +48,21 @@
     },
     "wof:country":"US",
     "wof:created":1461711627,
-    "wof:geomhash":"a3c875b730fcc96c3163e5f0bd69e15e",
+    "wof:geomhash":"8d7ec8ac709e5b3b30ebb188f23421d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084367,
-            "locality_id":85950439,
+            "localadmin_id":404476503,
+            "locality_id":85950319,
             "neighbourhood_id":85855157,
             "region_id":85688645,
             "venue_id":656382187
         }
     ],
     "wof:id":656382187,
-    "wof:lastmodified":1472624988,
+    "wof:lastmodified":1492101298,
     "wof:name":"RSVP Volunteer Program",
     "wof:parent_id":85855157,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.861994,42.808574,-70.861994,42.808574",
     "geom:latitude":42.808574,
     "geom:longitude":-70.861994,
@@ -38,7 +39,8 @@
         85633793,
         85950409,
         102084463,
-        85688645
+        85688645,
+        85827619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461727389,
-    "wof:geomhash":"7a4948c6e777c8062327d2fcb30a7923",
+    "wof:geomhash":"8b10a934473a94642048ebc0bbdcaac8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85891461,
             "region_id":85688645,
             "venue_id":672819783
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476251,
+            "locality_id":85950409,
+            "neighbourhood_id":85827619,
+            "region_id":85688645,
+            "venue_id":672819783
         }
     ],
     "wof:id":672819783,
-    "wof:lastmodified":1472626058,
+    "wof:lastmodified":1492105905,
     "wof:name":"Newburyport Sewerage Plant",
-    "wof:parent_id":85891461,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

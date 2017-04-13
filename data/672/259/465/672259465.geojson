@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.08836,41.585302,-71.08836,41.585302",
     "geom:latitude":41.585302,
     "geom:longitude":-71.08836,
@@ -31,17 +32,26 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GME16VvZAVG6dAkEjiVfg_41.585302_-71.088360@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714797,
-    "wof:geomhash":"22204832b5e247c47df95792b6b5ff51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd41671efe5cdf5957da9c5552def95c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672259465
+        }
+    ],
     "wof:id":672259465,
-    "wof:lastmodified":1472625351,
+    "wof:lastmodified":1492109482,
     "wof:name":"Gregory N Jonsson PC",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

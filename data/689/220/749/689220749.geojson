@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.906501,41.771356,-70.906501,41.771356",
     "geom:latitude":41.771356,
     "geom:longitude":-70.906501,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FMIzubRTh8PSYwuS6lYhg_41.771356_-70.906501@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742491,
-    "wof:geomhash":"bc66a8a63187ce86964729810690c38b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb36b0215fd1b4030e57e96163a700c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523917,
+            "venue_id":689220749
+        }
+    ],
     "wof:id":689220749,
-    "wof:lastmodified":1472625627,
+    "wof:lastmodified":1492098348,
     "wof:name":"Reynolds, Rg Electrical Serv",
     "wof:parent_id":420523917,
     "wof:placetype":"venue",

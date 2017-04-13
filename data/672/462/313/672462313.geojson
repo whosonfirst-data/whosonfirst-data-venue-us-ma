@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.112744,42.625169,-73.112744,42.625169",
     "geom:latitude":42.625169,
     "geom:longitude":-73.112744,
@@ -32,17 +33,26 @@
         "auditorium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BccFXbDID44kj3MC0hkqZ_42.625169_-73.112744@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719493,
-    "wof:geomhash":"1687c84ce957a4c7f9069fdfb538573a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fd54f00a84348c4f8070c1fe1c7dd05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672462313
+        }
+    ],
     "wof:id":672462313,
-    "wof:lastmodified":1472625727,
+    "wof:lastmodified":1492110175,
     "wof:name":"St Stanislaw Kostka Society",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.428138,42.250464,-71.428138,42.250464",
     "geom:latitude":42.250464,
     "geom:longitude":-71.428138,
@@ -33,17 +34,26 @@
     ],
     "sg:website":"http://www.varian.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UDpv6dl9fnmbktwgiMXEY_42.250464_-71.428138@1303262188"
     },
     "wof:country":"US",
     "wof:created":1461734563,
-    "wof:geomhash":"8c0dffed6017b0e2b9754bb16d04bf25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4357d97470af665bf90c03ac84f08a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":673138715
+        }
+    ],
     "wof:id":673138715,
-    "wof:lastmodified":1472625407,
+    "wof:lastmodified":1492103269,
     "wof:name":"Varian Medical Systems, Inc.",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

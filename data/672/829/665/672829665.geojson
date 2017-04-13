@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.487144,42.264922,-71.487144,42.264922",
     "geom:latitude":42.264922,
     "geom:longitude":-71.487144,
@@ -28,19 +29,34 @@
     "sg:postcode":"01721",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950719,
+        102084655,
+        85812283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mnuLm4z8cqO1WgoXr3dpO_42.264922_-71.487144@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727594,
-    "wof:geomhash":"1a176669437f8b358bd3c1adcea3518d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a255a1f6908f9b3261899ef9dbb12b9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "locality_id":85950719,
+            "neighbourhood_id":85812283,
+            "region_id":85688645,
+            "venue_id":672829665
+        }
+    ],
     "wof:id":672829665,
-    "wof:lastmodified":1472626061,
+    "wof:lastmodified":1492110651,
     "wof:name":"MN Craftsmen",
-    "wof:parent_id":-1,
+    "wof:parent_id":85812283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

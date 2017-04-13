@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.396442,42.094066,-71.396442,42.094066",
     "geom:latitude":42.094066,
     "geom:longitude":-71.396442,
@@ -32,17 +33,34 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476439,
+        85633793,
+        85950431,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b40JunqCfbzjCL0iayJFZ_42.094066_-71.396442@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713690,
-    "wof:geomhash":"d6db6cadf17373eec058df50afc12533",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f28e058a1e0acd991c123c15d38173fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476439,
+            "locality_id":85950431,
+            "region_id":85688645,
+            "venue_id":672205765
+        }
+    ],
     "wof:id":672205765,
-    "wof:lastmodified":1472625221,
+    "wof:lastmodified":1492112570,
     "wof:name":"Ahrens Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

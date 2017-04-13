@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.11088,42.124861,-71.11088,42.124861",
     "geom:latitude":42.124861,
     "geom:longitude":-71.11088,
@@ -33,17 +34,26 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JZgzLbmjKM6QG2NY42JnS_42.124861_-71.110880@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731184,
-    "wof:geomhash":"3797124b1827b2a7baee49f673463ecd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7498fe68c262861d15ce4f89b171ec72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672985841
+        }
+    ],
     "wof:id":672985841,
-    "wof:lastmodified":1472626199,
+    "wof:lastmodified":1492111704,
     "wof:name":"Ima Associates",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

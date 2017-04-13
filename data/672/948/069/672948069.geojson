@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.514145,42.482053,-71.514145,42.482053",
     "geom:latitude":42.482053,
     "geom:longitude":-71.514145,
@@ -31,19 +32,32 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85806887,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XDR8tIu8oX7MNHnLGPoJV_42.482053_-71.514145@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730069,
-    "wof:geomhash":"43e18ce200b30480cd6ffb2b2fc3e7fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"363f34edc62864c1a92a09b94b6742a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85806887,
+            "region_id":85688645,
+            "venue_id":672948069
+        }
+    ],
     "wof:id":672948069,
-    "wof:lastmodified":1472626153,
+    "wof:lastmodified":1492117709,
     "wof:name":"Today's Dental Of Boxborough",
-    "wof:parent_id":-1,
+    "wof:parent_id":85806887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

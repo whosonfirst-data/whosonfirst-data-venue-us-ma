@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.874572,42.279699,-70.874572,42.279699",
     "geom:latitude":42.279699,
     "geom:longitude":-70.874572,
@@ -32,19 +33,42 @@
         "removal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523859,
+        85688645,
+        102191575,
+        85950453,
+        102084367,
+        85827977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dI0LJRcMYi7y1VVFosqYM_42.279699_-70.874572@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714063,
-    "wof:geomhash":"10e2e4702cc54959523eb89047418f6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b934627b8416d557c9c2b12ea3f32ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523859,
+            "venue_id":672224795
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950453,
+            "neighbourhood_id":85827977,
+            "region_id":85688645,
+            "venue_id":672224795
+        }
+    ],
     "wof:id":672224795,
-    "wof:lastmodified":1472625256,
+    "wof:lastmodified":1492107850,
     "wof:name":"P S Svc",
-    "wof:parent_id":420523859,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.508855,41.689354,-70.508855,41.689354",
     "geom:latitude":41.689354,
     "geom:longitude":-70.508855,
@@ -40,17 +41,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DtivLk4MewrQLgLxONotk_41.689354_-70.508855@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742178,
-    "wof:geomhash":"7e0c43ed3ed7930694344a89cdd24e22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"278171cf6612af69f5422ff0fdd76cf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":689206155
+        }
+    ],
     "wof:id":689206155,
-    "wof:lastmodified":1472625598,
+    "wof:lastmodified":1492098398,
     "wof:name":"Joshua Painting",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

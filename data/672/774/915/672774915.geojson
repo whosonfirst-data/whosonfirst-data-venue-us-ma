@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.861858,42.034533,-70.861858,42.034533",
     "geom:latitude":42.034533,
     "geom:longitude":-70.861858,
@@ -32,17 +33,26 @@
         "rooms"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vmy1dZ7blzhxB6HroJlgN_42.034533_-70.861858@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726477,
-    "wof:geomhash":"31ee7d533daa9a2c4b069a330367d8e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d49248482a4671cb5fcaeac44481f83a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523879,
+            "venue_id":672774915
+        }
+    ],
     "wof:id":672774915,
-    "wof:lastmodified":1472626017,
+    "wof:lastmodified":1492115606,
     "wof:name":"Hanson Athletic Assn Inc",
     "wof:parent_id":420523879,
     "wof:placetype":"venue",

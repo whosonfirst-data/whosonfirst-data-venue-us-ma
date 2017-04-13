@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.227676,41.680952,-70.227676,41.680952",
     "geom:latitude":41.680952,
     "geom:longitude":-70.227676,
@@ -31,17 +32,26 @@
         "yard"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N9IggdGV6jloFRZsakF5L_41.680952_-70.227676@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721060,
-    "wof:geomhash":"e07a99a8680c6af3e434e8807e6ab871",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13abf151954c67a1ee8771403091dd61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672530147
+        }
+    ],
     "wof:id":672530147,
-    "wof:lastmodified":1472625779,
+    "wof:lastmodified":1492117060,
     "wof:name":"United Rentals",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

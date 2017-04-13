@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.365712,42.140777,-71.365712,42.140777",
     "geom:latitude":42.140777,
     "geom:longitude":-71.365712,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27G0nj0MW1pciBbKIZcdSY_42.140777_-71.365712@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728128,
-    "wof:geomhash":"4b7315d14efe3c24e45c54ce4cf1382a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e02f26e61bb47836fce075c71fc30edc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523797,
+            "venue_id":672857285
+        }
+    ],
     "wof:id":672857285,
-    "wof:lastmodified":1472626078,
+    "wof:lastmodified":1492113063,
     "wof:name":"Warnick Plumbing & Heating",
     "wof:parent_id":420523797,
     "wof:placetype":"venue",

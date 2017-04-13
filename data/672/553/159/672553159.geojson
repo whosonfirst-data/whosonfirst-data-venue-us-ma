@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.344752,41.976357,-71.344752,41.976357",
     "geom:latitude":41.976357,
     "geom:longitude":-71.344752,
@@ -31,17 +32,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476133,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fcXrRiUXSr3o8GCupIjZA_41.976357_-71.344752@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721529,
-    "wof:geomhash":"bcdf6dc0aaafae1f177463eb38989e29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e47629cf11ac48f6007a416835b16d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476133,
+            "region_id":85688645,
+            "venue_id":672553159
+        }
+    ],
     "wof:id":672553159,
-    "wof:lastmodified":1472625808,
+    "wof:lastmodified":1492118338,
     "wof:name":"Stop & Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

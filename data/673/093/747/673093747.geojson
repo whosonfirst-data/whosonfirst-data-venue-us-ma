@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.830903,42.272923,-71.830903,42.272923",
     "geom:latitude":42.272923,
     "geom:longitude":-71.830903,
@@ -35,14 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827691,
+        85805121,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
         85688645,
-        85805121
+        85827691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,18 +51,8 @@
     },
     "wof:country":"US",
     "wof:created":1461733637,
-    "wof:geomhash":"1c31c0274d1bdae5e542229add923dec",
+    "wof:geomhash":"ed6a5985262f859ae3da294c90e97efd",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476639,
-            "locality_id":85950375,
-            "neighbourhood_id":85827691,
-            "region_id":85688645,
-            "venue_id":673093747
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -71,12 +62,22 @@
             "neighbourhood_id":85805121,
             "region_id":85688645,
             "venue_id":673093747
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85827691,
+            "region_id":85688645,
+            "venue_id":673093747
         }
     ],
     "wof:id":673093747,
-    "wof:lastmodified":1472625280,
+    "wof:lastmodified":1492105064,
     "wof:name":"The Corner Grille",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

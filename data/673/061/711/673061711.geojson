@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.328521,42.10688,-73.328521,42.10688",
     "geom:latitude":42.10688,
     "geom:longitude":-73.328521,
@@ -33,17 +34,26 @@
         "hanging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sMlBzeDMq8TElXSxgWKTb_42.106983_-73.328162@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732986,
-    "wof:geomhash":"0d25f570cb7f87e7726f077be1e549de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f157c26c4770e23815ee8b427afa8357",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":673061711
+        }
+    ],
     "wof:id":673061711,
-    "wof:lastmodified":1472625192,
+    "wof:lastmodified":1492102388,
     "wof:name":"Kevin Joyce Painting",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

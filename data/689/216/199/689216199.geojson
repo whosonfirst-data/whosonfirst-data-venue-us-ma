@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.903764,41.73473,-70.903764,41.73473",
     "geom:latitude":41.73473,
     "geom:longitude":-70.903764,
@@ -31,17 +32,26 @@
         "tavern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rZKoAqswrsg6N6x4bJ5y2_41.734730_-70.903764@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742385,
-    "wof:geomhash":"4c25fcbd5475d2f6e3387b6414f1405c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2ba9cbb1783f518fe6400d888a5e9ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":689216199
+        }
+    ],
     "wof:id":689216199,
-    "wof:lastmodified":1472625611,
+    "wof:lastmodified":1492097711,
     "wof:name":"Jts Pub Inc",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.635953,41.758796,-70.635953,41.758796",
     "geom:latitude":41.758796,
     "geom:longitude":-70.635953,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85844969,
+        102191575,
+        404476567,
         85633793,
-        85868735,
-        102084367
+        85950481,
+        102084367,
+        85688645,
+        85868735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461728748,
-    "wof:geomhash":"f4da369350c664f11507ef7cd83e4ee6",
+    "wof:geomhash":"a38ddd62f497d840ab87ca245fc01e6a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476567,
+            "locality_id":85950481,
+            "neighbourhood_id":85844969,
+            "region_id":85688645,
+            "venue_id":672886121
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -54,9 +69,9 @@
         }
     ],
     "wof:id":672886121,
-    "wof:lastmodified":1472626100,
+    "wof:lastmodified":1492117354,
     "wof:name":"Cape & Bay Svc",
-    "wof:parent_id":85868735,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

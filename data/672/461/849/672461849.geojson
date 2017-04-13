@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.835487,42.169709,-71.835487,42.169709",
     "geom:latitude":42.169709,
     "geom:longitude":-71.835487,
@@ -31,17 +32,26 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0b18ELC95KMHdbabYvhDbh_42.169709_-71.835487@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719483,
-    "wof:geomhash":"c7f88efac36e913b4a7d81129dcd8a65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bae3206ccfd5485dea03d95c99336ef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672461849
+        }
+    ],
     "wof:id":672461849,
-    "wof:lastmodified":1472625732,
+    "wof:lastmodified":1492115511,
     "wof:name":"L & H Sewerage Inc",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

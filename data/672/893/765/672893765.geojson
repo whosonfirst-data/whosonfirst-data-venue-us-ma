@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.38278,42.243032,-72.38278,42.243032",
     "geom:latitude":42.243032,
     "geom:longitude":-72.38278,
@@ -31,17 +32,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fewHsuMAZGLvWMAK5JXJ2_42.243032_-72.382780@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728902,
-    "wof:geomhash":"f57c33361c77b8132065585d44ce962f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eaad3bdaeb91e4faec63db182e902cd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672893765
+        }
+    ],
     "wof:id":672893765,
-    "wof:lastmodified":1472626119,
+    "wof:lastmodified":1492108115,
     "wof:name":"Burts Garage",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

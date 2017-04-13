@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.942955,41.745499,-70.942955,41.745499",
     "geom:latitude":41.745499,
     "geom:longitude":-70.942955,
@@ -32,17 +33,26 @@
         "fiber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41i7ZSJuynMbgqRyhc4slm_41.745499_-70.942955@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716912,
-    "wof:geomhash":"652b6d7406ecc484773bedcff5cd739d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f02e1502d96b552ff30096c07c3de050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":672357147
+        }
+    ],
     "wof:id":672357147,
-    "wof:lastmodified":1472625610,
+    "wof:lastmodified":1492119571,
     "wof:name":"Craft Corrugated Box Inc",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

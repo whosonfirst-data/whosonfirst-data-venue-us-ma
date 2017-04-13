@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.393107,42.61161,-71.393107,42.61161",
     "geom:latitude":42.61161,
     "geom:longitude":-71.393107,
@@ -32,17 +33,26 @@
         "mail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0U37H7IjD845ndCtIBjI5j_42.611610_-71.393107@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720872,
-    "wof:geomhash":"85e33c1248db2449fd0a7560aca4da13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fad0d64fbf409b4e5a7b6682ba72a117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672521741
+        }
+    ],
     "wof:id":672521741,
-    "wof:lastmodified":1472625784,
+    "wof:lastmodified":1492109978,
     "wof:name":"Stephen McMillan",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

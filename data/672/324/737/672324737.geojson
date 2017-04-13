@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.44254,42.171317,-72.44254,42.171317",
     "geom:latitude":42.171317,
     "geom:longitude":-72.44254,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pCmMlr7gRIe8PcRwJAOgS_42.171317_-72.442540@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716122,
-    "wof:geomhash":"1bd9ee9dee703791097711767120add3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5a72af5d88c43269f83afddb203485e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":672324737
+        }
+    ],
     "wof:id":672324737,
-    "wof:lastmodified":1472625561,
+    "wof:lastmodified":1492113900,
     "wof:name":"Uncle Bob's General Store",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

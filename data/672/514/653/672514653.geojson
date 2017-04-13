@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.894841,41.653898,-70.894841,41.653898",
     "geom:latitude":41.653898,
     "geom:longitude":-70.894841,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OySNB5suJaIMIRgCtDbif_41.653898_-70.894841@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720718,
-    "wof:geomhash":"4c80f109d02ab312d02e6b9219af5fde",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32a903b9c027a7a38bc11c4e230c873c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672514653
+        }
+    ],
     "wof:id":672514653,
-    "wof:lastmodified":1472625778,
+    "wof:lastmodified":1492116549,
     "wof:name":"Independent Roofing",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

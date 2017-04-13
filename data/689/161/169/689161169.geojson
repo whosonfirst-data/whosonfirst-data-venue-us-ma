@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.779639,41.983406,-70.779639,41.983406",
     "geom:latitude":41.983406,
     "geom:longitude":-70.779639,
@@ -31,17 +32,26 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HIV38nie0ulHJ8u7R8ODi_41.983406_-70.779639@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741196,
-    "wof:geomhash":"72018794c06353406ba020aa4439eb8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"484d2b33451da36fbdb7ef3b8a7a1efe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689161169
+        }
+    ],
     "wof:id":689161169,
-    "wof:lastmodified":1472625505,
+    "wof:lastmodified":1492099154,
     "wof:name":"Premier Transportation, Inc.",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

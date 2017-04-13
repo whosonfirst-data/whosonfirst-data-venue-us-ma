@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.46631,42.448947,-72.46631,42.448947",
     "geom:latitude":42.448947,
     "geom:longitude":-72.46631,
@@ -33,19 +34,28 @@
     ],
     "sg:website":"www.mkatz.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ItQLCfLCGZtu3P5tUe1jc_42.448947_-72.466310@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712528,
-    "wof:geomhash":"81ffc844fb0603513a4e3913ccb2cbb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a27ddc63b3c33a619d827a88d329c49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523639,
+            "venue_id":672153899
+        }
+    ],
     "wof:id":672153899,
-    "wof:lastmodified":1472624977,
+    "wof:lastmodified":1492106914,
     "wof:name":"Hampshire Veterinary Hospital",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.888845,42.163415,-71.888845,42.163415",
     "geom:latitude":42.163415,
     "geom:longitude":-71.888845,
@@ -33,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420524189,
+        85688645,
         85808993,
         102084655
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461719865,
-    "wof:geomhash":"8a3ed59239923b417d7850e19306cc8e",
+    "wof:geomhash":"efbdd32c9c10e2f30ce497e61bf16cf5",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524189,
+            "venue_id":672477089
+        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":672477089,
-    "wof:lastmodified":1472625738,
+    "wof:lastmodified":1492115659,
     "wof:name":"T L Tax Svc",
-    "wof:parent_id":85808993,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

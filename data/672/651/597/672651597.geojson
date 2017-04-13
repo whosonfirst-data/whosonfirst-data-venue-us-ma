@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.133525,42.132929,-71.133525,42.132929",
     "geom:latitude":42.132929,
     "geom:longitude":-71.133525,
@@ -31,17 +32,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45NReopTfQz3pdRwRBUzvb_42.132929_-71.133525@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723745,
-    "wof:geomhash":"57c11d3a3def073f252e9f7534983754",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df0a076b57f5db4e8242cb0d08622a1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672651597
+        }
+    ],
     "wof:id":672651597,
-    "wof:lastmodified":1472625905,
+    "wof:lastmodified":1492108208,
     "wof:name":"Std Manufacturing",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

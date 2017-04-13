@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.245331,42.35295,-71.245331,42.35295",
     "geom:latitude":42.35295,
     "geom:longitude":-71.245331,
@@ -38,7 +39,9 @@
         85633793,
         85950337,
         102084643,
-        85688645
+        85688645,
+        85950341,
+        85891233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461716655,
-    "wof:geomhash":"18364195f888e1ca71b9a636393e9abf",
+    "wof:geomhash":"1838057df02e717ba772e0fcea06cbd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,20 @@
             "neighbourhood_id":85845135,
             "region_id":85688645,
             "venue_id":672346887
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "locality_id":85950341,
+            "neighbourhood_id":85891233,
+            "region_id":85688645,
+            "venue_id":672346887
         }
     ],
     "wof:id":672346887,
-    "wof:lastmodified":1472625588,
+    "wof:lastmodified":1492115643,
     "wof:name":"Nicolazzo Landscaping",
-    "wof:parent_id":85845135,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

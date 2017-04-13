@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.806394,41.979441,-70.806394,41.979441",
     "geom:latitude":41.979441,
     "geom:longitude":-70.806394,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51DZ0rCeuaLsyKiPWUJm8O_41.979441_-70.806394@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714455,
-    "wof:geomhash":"d02259021eb7a3364de170cf6da4f0ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64b0f3f87913fe7af09ed24807af4a21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672242151
+        }
+    ],
     "wof:id":672242151,
-    "wof:lastmodified":1472625330,
+    "wof:lastmodified":1492107167,
     "wof:name":"County Auto Mart",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.783445,42.080487,-70.783445,42.080487",
     "geom:latitude":42.080487,
     "geom:longitude":-70.783445,
@@ -31,17 +32,26 @@
         "fence"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hmYhtFm1qjGQXlUD1RSYW_42.080487_-70.783445@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726348,
-    "wof:geomhash":"83e0b066bb09371ed643ccb6be26138c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1025f7254edb17b804e8290cb415a728",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":672768769
+        }
+    ],
     "wof:id":672768769,
-    "wof:lastmodified":1472626011,
+    "wof:lastmodified":1492116292,
     "wof:name":"Boundary Line Fence Co",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

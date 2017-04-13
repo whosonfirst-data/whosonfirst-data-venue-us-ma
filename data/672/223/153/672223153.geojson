@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.570534,42.649953,-72.570534,42.649953",
     "geom:latitude":42.649953,
     "geom:longitude":-72.570534,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H2FBIkI7055WpBA7EBPt5_42.649953_-72.570534@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714034,
-    "wof:geomhash":"7b42e8665a1a7669ee96dd266bf6df69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8aae3b71beecb08c2664c0da21fb96f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672223153
+        }
+    ],
     "wof:id":672223153,
-    "wof:lastmodified":1472625229,
+    "wof:lastmodified":1492118245,
     "wof:name":"Andrew Garvin Plumbing",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

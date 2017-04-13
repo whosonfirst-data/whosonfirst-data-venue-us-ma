@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.711378,42.250282,-71.711378,42.250282",
     "geom:latitude":42.250282,
     "geom:longitude":-71.711378,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BpOFTa5ObkXSHmHxEB4HQ_42.250282_-71.711378@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715374,
-    "wof:geomhash":"5cd96fb99f02cd649f01a24cc06a68f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f38c7a7b9cf0b17653fb64dd8363cb56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":672288737
+        }
+    ],
     "wof:id":672288737,
-    "wof:lastmodified":1472625472,
+    "wof:lastmodified":1492111111,
     "wof:name":"MHQ Truck Equipment",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

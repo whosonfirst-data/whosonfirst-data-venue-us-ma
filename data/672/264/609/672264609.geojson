@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.146908,42.126268,-71.146908,42.126268",
     "geom:latitude":42.126268,
     "geom:longitude":-71.146908,
@@ -32,17 +33,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02Lijoy13C7MjwqW2ntI8M_42.126268_-71.146908@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714898,
-    "wof:geomhash":"971b9c27bd5b6f601c1a8ebf907dbb4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90c92654bc70e65a9a41c7a995d4dc13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672264609
+        }
+    ],
     "wof:id":672264609,
-    "wof:lastmodified":1472625395,
+    "wof:lastmodified":1492116528,
     "wof:name":"Busby & Assoc",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.372712,42.102973,-72.372712,42.102973",
     "geom:latitude":42.102973,
     "geom:longitude":-72.372712,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WAJZPfE36a08aDRvU4yGG_42.102973_-72.372712@1303262184"
     },
     "wof:country":"US",
     "wof:created":1461733829,
-    "wof:geomhash":"3f0ab43e18edd0224a5be5b2ec124a35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51587a643ccf2a020e6d1e8d45a2a619",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523577,
+            "venue_id":673102987
+        }
+    ],
     "wof:id":673102987,
-    "wof:lastmodified":1472625300,
+    "wof:lastmodified":1492104768,
     "wof:name":"Scott Flag Excavation",
     "wof:parent_id":420523577,
     "wof:placetype":"venue",

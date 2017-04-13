@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.0605,41.617959,-71.0605,41.617959",
     "geom:latitude":41.617959,
     "geom:longitude":-71.0605,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WyvpF0V3jKcwXSWFhGJh6_41.617959_-71.060500@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721154,
-    "wof:geomhash":"e99bda5a4bd49b27e0e60f596c8d19ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8eb5f49b36c98c72bce2c03c67ec260e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672534483
+        }
+    ],
     "wof:id":672534483,
-    "wof:lastmodified":1472625779,
+    "wof:lastmodified":1492117880,
     "wof:name":"Buckley Electric",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

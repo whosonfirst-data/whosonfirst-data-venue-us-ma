@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.44927,42.172589,-72.44927,42.172589",
     "geom:latitude":42.172589,
     "geom:longitude":-72.44927,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PDwN8qkdUI6xxBw85OjgF_42.172589_-72.449270@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722177,
-    "wof:geomhash":"bf12a31f7fe7294a2a3d34c7c9f18857",
-    "wof:hierarchy":[],
+    "wof:geomhash":"495ab88d134265f7735f98ce680378a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":672582289
+        }
+    ],
     "wof:id":672582289,
-    "wof:lastmodified":1472625815,
+    "wof:lastmodified":1492115621,
     "wof:name":"Baltazar Contractors Inc",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

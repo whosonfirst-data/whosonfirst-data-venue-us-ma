@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.982346,42.8042,-70.982346,42.8042",
     "geom:latitude":42.8042,
     "geom:longitude":-70.982346,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JPLNiPcGdOmwpWj7ddVIw_42.804200_-70.982346@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716330,
-    "wof:geomhash":"8542fef32cdb113bbf5ac58c58fca983",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4124e846dc999b991d83a0f884c4b053",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672334723
+        }
+    ],
     "wof:id":672334723,
-    "wof:lastmodified":1472625577,
+    "wof:lastmodified":1492115847,
     "wof:name":"Olde Combe Shoppe",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

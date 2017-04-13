@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.227118,42.593801,-72.227118,42.593801",
     "geom:latitude":42.593801,
     "geom:longitude":-72.227118,
@@ -32,17 +33,34 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476527,
+        85633793,
+        85950709,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Fm4l3V62A5SzdyzZGZFl5_42.593801_-72.227118@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734029,
-    "wof:geomhash":"b25136fd59229b21eef6375c420dc8d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efa062092f1b0970e0179648dfb90ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476527,
+            "locality_id":85950709,
+            "region_id":85688645,
+            "venue_id":673112537
+        }
+    ],
     "wof:id":673112537,
-    "wof:lastmodified":1472625311,
+    "wof:lastmodified":1492103751,
     "wof:name":"Tea Garden Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

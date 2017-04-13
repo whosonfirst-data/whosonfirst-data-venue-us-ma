@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.913884,41.713803,-70.913884,41.713803",
     "geom:latitude":41.713803,
     "geom:longitude":-70.913884,
@@ -33,17 +34,26 @@
         "alternative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4z3mKZXGPbv8fRLEYoC5LM_41.713803_-70.913884@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742383,
-    "wof:geomhash":"ebe005f0549b9efa60c99a40ff814f98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d929ff051661db1d02538aa4a145e919",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":689216071
+        }
+    ],
     "wof:id":689216071,
-    "wof:lastmodified":1472625604,
+    "wof:lastmodified":1492097696,
     "wof:name":"Aris Skaliotis",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

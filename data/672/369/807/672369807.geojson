@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.954271,42.105739,-71.954271,42.105739",
     "geom:latitude":42.105739,
     "geom:longitude":-71.954271,
@@ -33,17 +34,26 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dVvUKFIYGEHNguxF9LEhv_42.105739_-71.954271@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717200,
-    "wof:geomhash":"9210d83caf7a2c9052688913bab0459d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3dbd3005f91ab31cdf26a667c00770c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":672369807
+        }
+    ],
     "wof:id":672369807,
-    "wof:lastmodified":1472625644,
+    "wof:lastmodified":1492118553,
     "wof:name":"Cleaning Concepts",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

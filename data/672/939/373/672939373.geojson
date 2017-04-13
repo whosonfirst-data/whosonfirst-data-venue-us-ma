@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.565726,42.658108,-72.565726,42.658108",
     "geom:latitude":42.658108,
     "geom:longitude":-72.565726,
@@ -31,17 +32,26 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ijvKKlPhBycWNRNZ01Uhb_42.658108_-72.565726@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729846,
-    "wof:geomhash":"b7ae5d90a2da7ee8636d2a0c516bcf7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fd8b4359735ff5c605ec23b09c7f713",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672939373
+        }
+    ],
     "wof:id":672939373,
-    "wof:lastmodified":1472626150,
+    "wof:lastmodified":1492105590,
     "wof:name":"Bagley Travel",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

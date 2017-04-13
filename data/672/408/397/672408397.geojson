@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.185977,42.362699,-71.185977,42.362699",
     "geom:latitude":42.362699,
     "geom:longitude":-71.185977,
@@ -28,19 +29,38 @@
     "sg:postcode":"02472",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85805697,
+        102191575,
+        404476459,
+        85633793,
+        85950335,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18u5xMvfyahCZrTmneQtzA_42.362699_-71.185977@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718109,
-    "wof:geomhash":"69991ec1a9ec15b8f9db644924a8d05d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bc9f5c3961f0abcda722caa6bf2c96a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476459,
+            "locality_id":85950335,
+            "neighbourhood_id":85805697,
+            "region_id":85688645,
+            "venue_id":672408397
+        }
+    ],
     "wof:id":672408397,
-    "wof:lastmodified":1472625670,
+    "wof:lastmodified":1492106156,
     "wof:name":"Aegis Associates Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85805697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

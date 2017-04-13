@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.52666,42.389022,-71.52666,42.389022",
     "geom:latitude":42.389022,
     "geom:longitude":-71.52666,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BLBHv5FjWAi2wjctSVyE7_42.389022_-71.526660@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731990,
-    "wof:geomhash":"98e91647dafa77a279c17fd53900c381",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec5c16122e6470cd0192b7ff1082bed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":673017423
+        }
+    ],
     "wof:id":673017423,
-    "wof:lastmodified":1472624990,
+    "wof:lastmodified":1492103164,
     "wof:name":"Pollard Associates",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.016793,41.969752,-71.016793,41.969752",
     "geom:latitude":41.969752,
     "geom:longitude":-71.016793,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZnSU1kgNWeqHav66UEiy7_41.969752_-71.016793@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714744,
-    "wof:geomhash":"bc1b93316f2e956ce1ec08c5e4b4cf77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abf6201f06ae62b51f0e7277b8faa3e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672256883
+        }
+    ],
     "wof:id":672256883,
-    "wof:lastmodified":1472625372,
+    "wof:lastmodified":1492107474,
     "wof:name":"Ron Wallace Building",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

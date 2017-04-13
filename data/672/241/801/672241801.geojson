@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.108826,42.113572,-71.108826,42.113572",
     "geom:latitude":42.113572,
     "geom:longitude":-71.108826,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ANxMCGjjAF5pizs5pLItm_42.113572_-71.108826@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714444,
-    "wof:geomhash":"49c6dd7459583e18d774b88193280bc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc6a5095650435b2813a104ed57a33e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672241801
+        }
+    ],
     "wof:id":672241801,
-    "wof:lastmodified":1472625322,
+    "wof:lastmodified":1492108699,
     "wof:name":"Allied Services",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

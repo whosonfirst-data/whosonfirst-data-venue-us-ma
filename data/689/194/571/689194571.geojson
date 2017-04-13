@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.609802,41.637901,-70.609802,41.637901",
     "geom:latitude":41.637901,
     "geom:longitude":-70.609802,
@@ -32,17 +33,26 @@
         "medium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32z0mp04fLFmnsmmG53ExG_41.637901_-70.609802@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741934,
-    "wof:geomhash":"36d3d6acbb8c0fe37bdfba81868d43c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a15eb02175b0dcc37b286c7e6b613c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":689194571
+        }
+    ],
     "wof:id":689194571,
-    "wof:lastmodified":1472625593,
+    "wof:lastmodified":1492099907,
     "wof:name":"Journal of Membrane Biology - CLOSED",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

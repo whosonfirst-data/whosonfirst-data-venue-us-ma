@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.899423,42.042692,-70.899423,42.042692",
     "geom:latitude":42.042692,
     "geom:longitude":-70.899423,
@@ -31,17 +32,26 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Nq1w35DRWkD8cU6rnqfcH_42.042692_-70.899423@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715545,
-    "wof:geomhash":"286594c053db15190bffa6567ff3728a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb4b32b9599b6a291d036fd31c696c17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":672296721
+        }
+    ],
     "wof:id":672296721,
-    "wof:lastmodified":1472625500,
+    "wof:lastmodified":1492105701,
     "wof:name":"All American Limousine",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

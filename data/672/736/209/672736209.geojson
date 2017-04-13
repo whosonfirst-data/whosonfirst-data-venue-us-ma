@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.668405,42.633772,-70.668405,42.633772",
     "geom:latitude":42.633772,
     "geom:longitude":-70.668405,
@@ -35,7 +36,8 @@
         85633793,
         85950419,
         102084463,
-        85688645
+        85688645,
+        85844855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461725644,
-    "wof:geomhash":"22c75ee97a4cc6025654f05d6f922410",
+    "wof:geomhash":"15588ac395714e79a543776e6a6326f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,22 @@
             "neighbourhood_id":85814747,
             "region_id":85688645,
             "venue_id":672736209
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476197,
+            "locality_id":85950419,
+            "neighbourhood_id":85844855,
+            "region_id":85688645,
+            "venue_id":672736209
         }
     ],
     "wof:id":672736209,
-    "wof:lastmodified":1472625971,
+    "wof:lastmodified":1492108830,
     "wof:name":"Evergreen Marketing",
-    "wof:parent_id":85814747,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

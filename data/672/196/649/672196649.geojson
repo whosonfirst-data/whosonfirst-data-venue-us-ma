@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.38126,42.101745,-71.38126,42.101745",
     "geom:latitude":42.101745,
     "geom:longitude":-71.38126,
@@ -31,17 +32,34 @@
         "packaging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476439,
+        85633793,
+        85950431,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07z0qgvsTiwRKjzRQ6CGxu_42.101745_-71.381260@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713481,
-    "wof:geomhash":"6a8c9d19562611f9df87d908d1236f03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a28660fdb6123d9f87af02d9b04d4d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476439,
+            "locality_id":85950431,
+            "region_id":85688645,
+            "venue_id":672196649
+        }
+    ],
     "wof:id":672196649,
-    "wof:lastmodified":1472625185,
+    "wof:lastmodified":1492106130,
     "wof:name":"Mass Packaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

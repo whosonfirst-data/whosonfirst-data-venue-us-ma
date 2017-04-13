@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.807351,41.880154,-70.807351,41.880154",
     "geom:latitude":41.880154,
     "geom:longitude":-70.807351,
@@ -31,17 +32,26 @@
         "camp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qinYPdBWxc9OQXGhObfeF_41.880154_-70.807351@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726695,
-    "wof:geomhash":"5eaee8ae3e42b5f37b32af25cc6b3a8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3444ab7408eab57336c06c939d70acea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672785545
+        }
+    ],
     "wof:id":672785545,
-    "wof:lastmodified":1472626019,
+    "wof:lastmodified":1492116865,
     "wof:name":"Camp Clear",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.214771,41.754667,-71.214771,41.754667",
     "geom:latitude":41.754667,
     "geom:longitude":-71.214771,
@@ -31,17 +32,26 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3D9u0OrW9YMIYT1JLHId4s_41.754667_-71.214771@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732076,
-    "wof:geomhash":"b7fa22bfa8069a5578ea87db4ea9f265",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7b9580810136b6776cbac0935106dd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":673020521
+        }
+    ],
     "wof:id":673020521,
-    "wof:lastmodified":1472625012,
+    "wof:lastmodified":1492102609,
     "wof:name":"Fantastic Photos",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

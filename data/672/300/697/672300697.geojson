@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.947448,41.837744,-70.947448,41.837744",
     "geom:latitude":41.837744,
     "geom:longitude":-70.947448,
@@ -33,17 +34,26 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lOYLpoiPdLyv5OA30fOYO_41.837744_-70.947448@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715626,
-    "wof:geomhash":"c892a4f5cf5e02f24f233f01d6030feb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32ec3e0452fac1f85411161b395a356a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523969,
+            "venue_id":672300697
+        }
+    ],
     "wof:id":672300697,
-    "wof:lastmodified":1472625505,
+    "wof:lastmodified":1492114947,
     "wof:name":"Property Doctors",
     "wof:parent_id":420523969,
     "wof:placetype":"venue",

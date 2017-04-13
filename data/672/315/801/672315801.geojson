@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.572903,42.576787,-71.572903,42.576787",
     "geom:latitude":42.576787,
     "geom:longitude":-71.572903,
@@ -32,17 +33,32 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476323,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jhG5EqHcdhzR1yaAHy203_42.576787_-71.572903@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715924,
-    "wof:geomhash":"805101dcf3187ea5a0f2a15473037bec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5ac185e4373b460b89daf2683c06634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476323,
+            "region_id":85688645,
+            "venue_id":672315801
+        }
+    ],
     "wof:id":672315801,
-    "wof:lastmodified":1472625535,
+    "wof:lastmodified":1492110876,
     "wof:name":"Apple Valley Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

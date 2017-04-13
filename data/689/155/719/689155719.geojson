@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.858375,41.936069,-70.858375,41.936069",
     "geom:latitude":41.936069,
     "geom:longitude":-70.858375,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UaMNjAKbm9OmZhb2BX0hB_41.936069_-70.858375@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741067,
-    "wof:geomhash":"7e0a2350b98fc6be35994e8352b3582f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c38e6a91ab90e54b64592e6d60357f32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523895,
+            "venue_id":689155719
+        }
+    ],
     "wof:id":689155719,
-    "wof:lastmodified":1472625521,
+    "wof:lastmodified":1492100398,
     "wof:name":"South Shore Antique Auto Club",
     "wof:parent_id":420523895,
     "wof:placetype":"venue",

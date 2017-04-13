@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.673955,42.069801,-70.673955,42.069801",
     "geom:latitude":42.069801,
     "geom:longitude":-70.673955,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YPT1yldQBbZbRZpMz1rDH_42.069801_-70.673955@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727680,
-    "wof:geomhash":"bba19a1d3f0f61030e06189af2a7f451",
-    "wof:hierarchy":[],
+    "wof:geomhash":"055098964e3abe03938407233010bb0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":672834245
+        }
+    ],
     "wof:id":672834245,
-    "wof:lastmodified":1472626057,
+    "wof:lastmodified":1492114683,
     "wof:name":"Flow-Tech Engineering",
     "wof:parent_id":420523971,
     "wof:placetype":"venue",

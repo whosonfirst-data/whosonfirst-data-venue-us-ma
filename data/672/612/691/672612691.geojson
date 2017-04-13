@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.531174,41.779801,-70.531174,41.779801",
     "geom:latitude":41.779801,
     "geom:longitude":-70.531174,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        420523873,
+        102191575,
+        404475895,
         85633793,
-        85806815,
-        102084379
+        85950589,
+        102084379,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,20 +44,23 @@
     },
     "wof:country":"US",
     "wof:created":1461722890,
-    "wof:geomhash":"a643f9d82f6f68cb4ac0b7a0a5bfde8d",
+    "wof:geomhash":"04eaf38bd70af2c66377b5bf98c72a6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084379,
-            "neighbourhood_id":85806815,
+            "localadmin_id":404475895,
+            "locality_id":85950589,
+            "neighbourhood_id":420523873,
             "region_id":85688645,
             "venue_id":672612691
         }
     ],
     "wof:id":672612691,
-    "wof:lastmodified":1472625868,
+    "wof:lastmodified":1492106455,
     "wof:name":"Scusset Beach Reservation",
-    "wof:parent_id":85806815,
+    "wof:parent_id":420523873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

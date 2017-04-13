@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.410779,42.273974,-72.410779,42.273974",
     "geom:latitude":42.273974,
     "geom:longitude":-72.410779,
@@ -37,17 +38,26 @@
         "law"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JxLzeipnB8vt7qQf6XjoI_42.273974_-72.410779@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733742,
-    "wof:geomhash":"71f5fe8a9a9182fe1c42a16c75829ff6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9aa30e8cda0d19303497ee3a53487f75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":673099315
+        }
+    ],
     "wof:id":673099315,
-    "wof:lastmodified":1472625273,
+    "wof:lastmodified":1492105465,
     "wof:name":"Maynard Richard Law Offices",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

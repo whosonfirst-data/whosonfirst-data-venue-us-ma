@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.511609,42.3899,-71.511609,42.3899",
     "geom:latitude":42.3899,
     "geom:longitude":-71.511609,
@@ -29,8 +30,9 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523671,
+        85688645,
         85891531,
         102084643
     ],
@@ -40,8 +42,13 @@
     },
     "wof:country":"US",
     "wof:created":1461716203,
-    "wof:geomhash":"13550fbf26e1fbb42639e5938ca6f570",
+    "wof:geomhash":"7cb8131db3773de980032c7304051fd3",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672328769
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -51,9 +58,9 @@
         }
     ],
     "wof:id":672328769,
-    "wof:lastmodified":1472625570,
+    "wof:lastmodified":1492113998,
     "wof:name":"Arthur V Josephson Jr",
-    "wof:parent_id":85891531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

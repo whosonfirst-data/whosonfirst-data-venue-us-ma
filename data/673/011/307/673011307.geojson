@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.694171,42.061096,-70.694171,42.061096",
     "geom:latitude":42.061096,
     "geom:longitude":-70.694171,
@@ -31,17 +32,26 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FObBNTjSGaqzrJ1Jx62sS_42.061096_-70.694171@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731834,
-    "wof:geomhash":"baa7596d208b259df2313a949c11b653",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fce7d35634c6d0d9f5da77286c2251a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":673011307
+        }
+    ],
     "wof:id":673011307,
-    "wof:lastmodified":1472624942,
+    "wof:lastmodified":1492103956,
     "wof:name":"Wheeler Financial Svc",
     "wof:parent_id":420523971,
     "wof:placetype":"venue",

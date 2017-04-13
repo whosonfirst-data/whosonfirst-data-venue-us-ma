@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101829,42.13093,-71.101829,42.13093",
     "geom:latitude":42.13093,
     "geom:longitude":-71.101829,
@@ -32,17 +33,26 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hHqd7dohe2HhFNO376CDl_42.130930_-71.101829@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732265,
-    "wof:geomhash":"bbe54efbacbee45a2bccaf0401d0f116",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f10b0456205f22fedd35c35626c665fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":673027791
+        }
+    ],
     "wof:id":673027791,
-    "wof:lastmodified":1472625039,
+    "wof:lastmodified":1492104997,
     "wof:name":"Pt 1 Physical Therapy Plus",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

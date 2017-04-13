@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.653236,42.54446,-71.653236,42.54446",
     "geom:latitude":42.54446,
     "geom:longitude":-71.653236,
@@ -31,17 +32,34 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476419,
+        85633793,
+        85950651,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ppZVPm6AXSRJmMB4mud1G_42.544460_-71.653236@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734136,
-    "wof:geomhash":"72d42c2142b3ede7b3a4618f9470d958",
-    "wof:hierarchy":[],
+    "wof:geomhash":"267d0222231eaa8ed3bbbec04cd734f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476419,
+            "locality_id":85950651,
+            "region_id":85688645,
+            "venue_id":673117445
+        }
+    ],
     "wof:id":673117445,
-    "wof:lastmodified":1472625351,
+    "wof:lastmodified":1492104374,
     "wof:name":"Village Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

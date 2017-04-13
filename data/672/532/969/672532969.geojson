@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.79498,42.240516,-70.79498,42.240516",
     "geom:latitude":42.240516,
     "geom:longitude":-70.79498,
@@ -34,19 +35,38 @@
         "fitness"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773,
+        85688645,
+        85806299,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OTQFlfhENRgvOtLzpMnNK_42.240516_-70.794980@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721123,
-    "wof:geomhash":"19eb3571179579bbb56c14836b41373e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf589d29d3eeea60f5064e0192e8744e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672532969
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85806299,
+            "region_id":85688645,
+            "venue_id":672532969
+        }
+    ],
     "wof:id":672532969,
-    "wof:lastmodified":1472625795,
+    "wof:lastmodified":1492114236,
     "wof:name":"Body Studio",
-    "wof:parent_id":420523773,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

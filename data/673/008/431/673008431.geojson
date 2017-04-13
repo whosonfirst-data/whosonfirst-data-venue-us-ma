@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.048564,42.574826,-73.048564,42.574826",
     "geom:latitude":42.574826,
     "geom:longitude":-73.048564,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HvHj5TTXYuiPmCt03m8Eg_42.574826_-73.048564@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731764,
-    "wof:geomhash":"e36ee5bd1f8351fa36cd9984b56a9f50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c57e2e0baf8380f73e8a18a3fb4561a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523243,
+            "venue_id":673008431
+        }
+    ],
     "wof:id":673008431,
-    "wof:lastmodified":1472624937,
+    "wof:lastmodified":1492103517,
     "wof:name":"M D Amstead & Assoc",
     "wof:parent_id":420523243,
     "wof:placetype":"venue",

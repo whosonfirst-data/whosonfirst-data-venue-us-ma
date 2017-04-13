@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.073136,42.27015,-71.073136,42.27015",
     "geom:latitude":42.27015,
     "geom:longitude":-71.073136,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476583,
+        85633793,
+        85950833,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cWVWVYKvU3E7JdnpGOnWc_42.270150_-71.073136@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715842,
-    "wof:geomhash":"6f2fd36037d42ea4ae52dff9f529833a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd5e408e0de40f4f76a79fd9841d934a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476583,
+            "locality_id":85950833,
+            "region_id":85688645,
+            "venue_id":672311861
+        }
+    ],
     "wof:id":672311861,
-    "wof:lastmodified":1472625532,
+    "wof:lastmodified":1492106601,
     "wof:name":"Central Avenue Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

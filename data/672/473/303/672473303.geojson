@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.861514,41.638285,-70.861514,41.638285",
     "geom:latitude":41.638285,
     "geom:longitude":-70.861514,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HuC4D3Seo4rRva1Susvve_41.638285_-70.861514@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719771,
-    "wof:geomhash":"a2fb508c7bc1ac3b766df85c61868871",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76074b07d406ba74b124ff5ee8093e20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523387,
+            "venue_id":672473303
+        }
+    ],
     "wof:id":672473303,
-    "wof:lastmodified":1472625734,
+    "wof:lastmodified":1492109463,
     "wof:name":"Baystate Construction",
     "wof:parent_id":420523387,
     "wof:placetype":"venue",

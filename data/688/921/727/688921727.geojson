@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.040806,42.675363,-71.040806,42.675363",
     "geom:latitude":42.675363,
     "geom:longitude":-71.040806,
@@ -36,17 +37,26 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523465
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hkk5n9Or0GVB8YPCvVxoE_42.675363_-71.040806@1303262195"
     },
     "wof:country":"US",
     "wof:created":1461735688,
-    "wof:geomhash":"5c8239f0d038906125624c09d171d8bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbbe44e7550fa09ed055056a1146da36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523465,
+            "venue_id":688921727
+        }
+    ],
     "wof:id":688921727,
-    "wof:lastmodified":1472624961,
+    "wof:lastmodified":1492120647,
     "wof:name":"Distinctive Properties Neng",
     "wof:parent_id":420523465,
     "wof:placetype":"venue",

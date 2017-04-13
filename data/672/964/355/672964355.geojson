@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.938398,42.612432,-71.938398,42.612432",
     "geom:latitude":42.612432,
     "geom:longitude":-71.938398,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476055,
+        85633793,
+        85950743,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g70lDlRDG6upCSydIpHOa_42.612432_-71.938398@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730592,
-    "wof:geomhash":"76bdfc0476bb962072dab85b0d46bf98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"334e1d02f43dbdcf1965652baa90b030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476055,
+            "locality_id":85950743,
+            "region_id":85688645,
+            "venue_id":672964355
+        }
+    ],
     "wof:id":672964355,
-    "wof:lastmodified":1472626172,
+    "wof:lastmodified":1492108372,
     "wof:name":"St Anne's Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

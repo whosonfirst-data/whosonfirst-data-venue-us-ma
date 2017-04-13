@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.967497,42.832398,-70.967497,42.832398",
     "geom:latitude":42.832398,
     "geom:longitude":-70.967497,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85813287,
+        102191575,
+        404476283,
         85633793,
-        85833865,
-        102084463
+        85950401,
+        102084463,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,20 +44,23 @@
     },
     "wof:country":"US",
     "wof:created":1461730148,
-    "wof:geomhash":"39937c1742a13ed1f0a89087d66832a0",
+    "wof:geomhash":"fa00b176d61cb58eb26f0a8877b4348c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084463,
-            "neighbourhood_id":85833865,
+            "localadmin_id":404476283,
+            "locality_id":85950401,
+            "neighbourhood_id":85813287,
             "region_id":85688645,
             "venue_id":672950969
         }
     ],
     "wof:id":672950969,
-    "wof:lastmodified":1472626167,
+    "wof:lastmodified":1492116803,
     "wof:name":"Governor Bradstreet Veteran",
-    "wof:parent_id":85833865,
+    "wof:parent_id":85813287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

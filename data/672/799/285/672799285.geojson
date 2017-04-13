@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.095054,42.260384,-71.095054,42.260384",
     "geom:latitude":42.260384,
     "geom:longitude":-71.095054,
@@ -31,17 +32,34 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476583,
+        85633793,
+        85950833,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xWLfoaLfrm4iB1Glcpsi7_42.260384_-71.095054@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726963,
-    "wof:geomhash":"22e83b3ec751f3120195c846a3868cd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bef726496afdcf7b158c83796f68883d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476583,
+            "locality_id":85950833,
+            "region_id":85688645,
+            "venue_id":672799285
+        }
+    ],
     "wof:id":672799285,
-    "wof:lastmodified":1472626028,
+    "wof:lastmodified":1492107050,
     "wof:name":"A Roatan Coach Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

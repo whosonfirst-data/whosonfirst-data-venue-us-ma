@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.391835,42.644838,-71.391835,42.644838",
     "geom:latitude":42.644838,
     "geom:longitude":-71.391835,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uOOHUH0B7pW0WWKEOmCCk_42.644838_-71.391835@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718347,
-    "wof:geomhash":"c3523bf3acdee0d96af2de913ed8c1c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffe311bd716cf134547cb744aca8b150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672417733
+        }
+    ],
     "wof:id":672417733,
-    "wof:lastmodified":1472625686,
+    "wof:lastmodified":1492107866,
     "wof:name":"Stony Brook Auto Body",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

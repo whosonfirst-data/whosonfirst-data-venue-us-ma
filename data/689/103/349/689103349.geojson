@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.028722,42.444555,-71.028722,42.444555",
     "geom:latitude":42.444555,
     "geom:longitude":-71.028722,
@@ -39,17 +40,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476405,
+        85633793,
+        85950345,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Mu1EwVd59N9Yt8IGZVhOO_42.444555_-71.028722@1303262219"
     },
     "wof:country":"US",
     "wof:created":1461739447,
-    "wof:geomhash":"50ec1a88dc91c5933e241cfc404116eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41ea168a199f74facdcc1e6c30416f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476405,
+            "locality_id":85950345,
+            "region_id":85688645,
+            "venue_id":689103349
+        }
+    ],
     "wof:id":689103349,
-    "wof:lastmodified":1472625356,
+    "wof:lastmodified":1492099544,
     "wof:name":"Logan Airport Auto Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

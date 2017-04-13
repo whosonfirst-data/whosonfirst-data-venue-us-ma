@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.05762,42.1423,-71.05762,42.1423",
     "geom:latitude":42.1423,
     "geom:longitude":-71.05762,
@@ -38,7 +39,8 @@
         85633793,
         85950841,
         102084403,
-        85688645
+        85688645,
+        85838081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461715933,
-    "wof:geomhash":"e6353433b31576dcc9db5e40fd8c6854",
+    "wof:geomhash":"f1e3488d01b95a9edd621ccb82473702",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,19 @@
             "neighbourhood_id":85891483,
             "region_id":85688645,
             "venue_id":672316313
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85838081,
+            "region_id":85688645,
+            "venue_id":672316313
         }
     ],
     "wof:id":672316313,
-    "wof:lastmodified":1472625541,
+    "wof:lastmodified":1492108333,
     "wof:name":"New World",
-    "wof:parent_id":85891483,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

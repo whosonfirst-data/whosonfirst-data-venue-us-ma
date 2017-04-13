@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.527856,42.222949,-72.527856,42.222949",
     "geom:latitude":42.222949,
     "geom:longitude":-72.527856,
@@ -28,17 +29,26 @@
     "sg:postcode":"01033",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523647
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1c4lVjJRUo28yxLqHMYTiN_42.222949_-72.527856@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715620,
-    "wof:geomhash":"00e5ce63b60dd820bba7dc73686447db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed285f8d186400b7a27646acb742a5cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523647,
+            "venue_id":672300329
+        }
+    ],
     "wof:id":672300329,
-    "wof:lastmodified":1472625492,
+    "wof:lastmodified":1492114948,
     "wof:name":"Dickinson Farm",
     "wof:parent_id":420523647,
     "wof:placetype":"venue",

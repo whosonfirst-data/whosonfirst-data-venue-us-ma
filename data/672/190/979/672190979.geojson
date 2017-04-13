@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.164568,41.728969,-71.164568,41.728969",
     "geom:latitude":41.728969,
     "geom:longitude":-71.164568,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848967,
+        85806847,
         102191575,
         404476145,
         85633793,
         85950687,
         102084407,
-        85688645
+        85688645,
+        85848967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461713356,
-    "wof:geomhash":"998fcc928d8ab1a431d888f23524eb15",
+    "wof:geomhash":"275fe9ba1ffd1a3a6d1a363d9b108948",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476145,
+            "locality_id":85950687,
+            "neighbourhood_id":85806847,
+            "region_id":85688645,
+            "venue_id":672190979
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":672190979,
-    "wof:lastmodified":1472625165,
+    "wof:lastmodified":1492113110,
     "wof:name":"Citizens-Union Savings Bank",
-    "wof:parent_id":85848967,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

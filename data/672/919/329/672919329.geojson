@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.784334,42.038191,-72.784334,42.038191",
     "geom:latitude":42.038191,
     "geom:longitude":-72.784334,
@@ -33,17 +34,26 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SgvPb8TuX5kq2sqUBbSMI_42.038191_-72.784334@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729418,
-    "wof:geomhash":"3e2cf08071526d022845ce55dfa34b7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0383496680400fc73fafa1c16331793d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523599,
+            "venue_id":672919329
+        }
+    ],
     "wof:id":672919329,
-    "wof:lastmodified":1472626130,
+    "wof:lastmodified":1492108173,
     "wof:name":"Westfield Headstart",
     "wof:parent_id":420523599,
     "wof:placetype":"venue",

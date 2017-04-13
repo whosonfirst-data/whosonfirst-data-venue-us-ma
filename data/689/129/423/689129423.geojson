@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.026573,42.287042,-71.026573,42.287042",
     "geom:latitude":42.287042,
     "geom:longitude":-71.026573,
@@ -31,17 +32,34 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476591,
+        85633793,
+        85950429,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48X3tUjqad5lVYjZQ5OOCS_42.287042_-71.026573@1303262223"
     },
     "wof:country":"US",
     "wof:created":1461740079,
-    "wof:geomhash":"b105e370002a1bdd176dacdb9e5280e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c9ce580c0b8e1cd04051acf2445e814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476591,
+            "locality_id":85950429,
+            "region_id":85688645,
+            "venue_id":689129423
+        }
+    ],
     "wof:id":689129423,
-    "wof:lastmodified":1472625428,
+    "wof:lastmodified":1492100153,
     "wof:name":"The Boston Tops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

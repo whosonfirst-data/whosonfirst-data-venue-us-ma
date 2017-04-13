@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.114765,42.621964,-73.114765,42.621964",
     "geom:latitude":42.621964,
     "geom:longitude":-73.114765,
@@ -32,17 +33,26 @@
         "consignment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EShj3iybBkg6x3IWKqXiG_42.621964_-73.114765@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720065,
-    "wof:geomhash":"9288852e694d359fbb497188e84dbc8a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"698c6c5570de9c6841291ddc94cee122",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672484561
+        }
+    ],
     "wof:id":672484561,
-    "wof:lastmodified":1472625747,
+    "wof:lastmodified":1492110387,
     "wof:name":"Your Kid's Kloset",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

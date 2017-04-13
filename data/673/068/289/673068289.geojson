@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.956404,41.848701,-70.956404,41.848701",
     "geom:latitude":41.848701,
     "geom:longitude":-70.956404,
@@ -33,17 +34,26 @@
         "attraction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UklUnrlJa8jzuwaB3wwiB_41.848417_-70.956048@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733108,
-    "wof:geomhash":"89d2fd69c227aa636b3537ebd85dc5e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f1532bf92ef6923e33fd35e8020dbef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523969,
+            "venue_id":673068289
+        }
+    ],
     "wof:id":673068289,
-    "wof:lastmodified":1472625142,
+    "wof:lastmodified":1492104564,
     "wof:name":"Lakeville Haunted House",
     "wof:parent_id":420523969,
     "wof:placetype":"venue",

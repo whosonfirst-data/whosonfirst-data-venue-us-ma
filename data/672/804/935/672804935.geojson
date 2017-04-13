@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.979776,42.028904,-70.979776,42.028904",
     "geom:latitude":42.028904,
     "geom:longitude":-70.979776,
@@ -33,8 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523979,
+        420523939,
+        85688645,
         85817953,
         102084367
     ],
@@ -44,8 +47,18 @@
     },
     "wof:country":"US",
     "wof:created":1461727082,
-    "wof:geomhash":"51f745ff9c24937b8e7004649ca80bdd",
+    "wof:geomhash":"f0ed6fa928c734d32f1eff6cc4bff987",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523979,
+            "venue_id":672804935
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523939,
+            "venue_id":672804935
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -55,9 +68,9 @@
         }
     ],
     "wof:id":672804935,
-    "wof:lastmodified":1472626042,
+    "wof:lastmodified":1492118740,
     "wof:name":"Atwood Dry Wall Co",
-    "wof:parent_id":85817953,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.606518,42.080419,-71.606518,42.080419",
     "geom:latitude":42.080419,
     "geom:longitude":-71.606518,
@@ -37,7 +38,8 @@
         85688645,
         85633793,
         85810179,
-        102084655
+        102084655,
+        85857367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461711951,
-    "wof:geomhash":"8fc909aec958fc069715d3c9e8a7c80e",
+    "wof:geomhash":"5a765ba37c6f4f54ed550176d750acf7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,19 @@
             "neighbourhood_id":85810179,
             "region_id":85688645,
             "venue_id":656397273
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85857367,
+            "region_id":85688645,
+            "venue_id":656397273
         }
     ],
     "wof:id":656397273,
-    "wof:lastmodified":1472625055,
+    "wof:lastmodified":1492101997,
     "wof:name":"Uxbridge Public Works Dept",
-    "wof:parent_id":85810179,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

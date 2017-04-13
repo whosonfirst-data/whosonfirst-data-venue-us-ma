@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.375479,42.134677,-72.375479,42.134677",
     "geom:latitude":42.134677,
     "geom:longitude":-72.375479,
@@ -31,19 +32,38 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851933,
+        102191575,
+        404476365,
+        85633793,
+        85950385,
+        102084627,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OHuv9SXYU4HzHylXHXFQw_42.134677_-72.375479@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712562,
-    "wof:geomhash":"e1525bcad51a403960f32077f030f744",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63960912f8944f51d68be35c8812836f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476365,
+            "locality_id":85950385,
+            "neighbourhood_id":85851933,
+            "region_id":85688645,
+            "venue_id":672155429
+        }
+    ],
     "wof:id":672155429,
-    "wof:lastmodified":1472624954,
+    "wof:lastmodified":1492116899,
     "wof:name":"Railway Design Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

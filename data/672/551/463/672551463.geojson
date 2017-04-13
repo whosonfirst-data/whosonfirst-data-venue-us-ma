@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.019685,41.76377,-71.019685,41.76377",
     "geom:latitude":41.76377,
     "geom:longitude":-71.019685,
@@ -31,17 +32,32 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476179,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OCEgj6Y37xgLy5e7Jwlo7_41.763770_-71.019685@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721489,
-    "wof:geomhash":"f9ecf292dad47d95ea81a7a441066da5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf09f81aab69ab4d89553396d02fd170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476179,
+            "region_id":85688645,
+            "venue_id":672551463
+        }
+    ],
     "wof:id":672551463,
-    "wof:lastmodified":1472625825,
+    "wof:lastmodified":1492119061,
     "wof:name":"Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

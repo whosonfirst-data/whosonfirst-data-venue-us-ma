@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.618611,41.632699,-70.618611,41.632699",
     "geom:latitude":41.632699,
     "geom:longitude":-70.618611,
@@ -32,17 +33,26 @@
         "homeless"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ccYLnmCxgUJw9C3WYnufJ_41.632699_-70.618611@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732108,
-    "wof:geomhash":"12a5ed7555af0ac5688d6e28cf4640e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33ee39e89cdbe422b6f6cc9b7093a18e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":673022071
+        }
+    ],
     "wof:id":673022071,
-    "wof:lastmodified":1472624987,
+    "wof:lastmodified":1492104680,
     "wof:name":"Carriage House",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.90865,41.892829,-70.90865,41.892829",
     "geom:latitude":41.892829,
     "geom:longitude":-70.90865,
@@ -31,17 +32,26 @@
         "photography"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20cqAUbic58xVPadHIzOew_41.892829_-70.908650@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715849,
-    "wof:geomhash":"aeb5da64ee101ec920ba4d15923db275",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4fd92137ddfb88ed223f77ec05200fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672312263
+        }
+    ],
     "wof:id":672312263,
-    "wof:lastmodified":1472625519,
+    "wof:lastmodified":1492116399,
     "wof:name":"Lifetouch National Schl Studio",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.054323,42.578832,-73.054323,42.578832",
     "geom:latitude":42.578832,
     "geom:longitude":-73.054323,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32kAXPAsaxZpzzvZjobtVB_42.578832_-73.054323@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725951,
-    "wof:geomhash":"d9dd184b684d6bb0280360e47c08c6fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02c24bae1fa22823c9ebf1eac4150110",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523243,
+            "venue_id":672750575
+        }
+    ],
     "wof:id":672750575,
-    "wof:lastmodified":1472625990,
+    "wof:lastmodified":1492107685,
     "wof:name":"Savoy Police Dept",
     "wof:parent_id":420523243,
     "wof:placetype":"venue",

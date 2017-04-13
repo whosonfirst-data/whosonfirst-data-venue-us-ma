@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.029717,42.28195,-73.029717,42.28195",
     "geom:latitude":42.28195,
     "geom:longitude":-73.029717,
@@ -32,17 +33,26 @@
         "chimney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523247
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Lux2k9u5e3zj5zrSiJ3zq_42.281950_-73.029717@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722441,
-    "wof:geomhash":"c17daca3cc8c0bcc10243bbc64437852",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb8b77dc488337e2ca672c6df036f272",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523247,
+            "venue_id":672593537
+        }
+    ],
     "wof:id":672593537,
-    "wof:lastmodified":1472625849,
+    "wof:lastmodified":1492112949,
     "wof:name":"Blue Moon Chimney Svc",
     "wof:parent_id":420523247,
     "wof:placetype":"venue",

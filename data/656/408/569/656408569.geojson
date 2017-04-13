@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.536446,41.800319,-70.536446,41.800319",
     "geom:latitude":41.800319,
     "geom:longitude":-70.536446,
@@ -39,8 +40,7 @@
         85633793,
         85950589,
         102084379,
-        85688645,
-        420523219
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461712186,
-    "wof:geomhash":"608d329a9eeff4523211d73171c5a54b",
+    "wof:geomhash":"0fa57c47095b97e2ad6d4630983d93c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,22 +59,12 @@
             "neighbourhood_id":420523873,
             "region_id":85688645,
             "venue_id":656408569
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475895,
-            "locality_id":85950589,
-            "neighbourhood_id":420523219,
-            "region_id":85688645,
-            "venue_id":656408569
         }
     ],
     "wof:id":656408569,
-    "wof:lastmodified":1472625118,
+    "wof:lastmodified":1492101241,
     "wof:name":"Bourne Manor Extended Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

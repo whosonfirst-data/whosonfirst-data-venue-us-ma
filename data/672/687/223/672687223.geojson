@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.871828,42.219012,-70.871828,42.219012",
     "geom:latitude":42.219012,
     "geom:longitude":-70.871828,
@@ -33,17 +34,26 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65ZiNpbg145DTbGbx6vGQR_42.219012_-70.871828@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724570,
-    "wof:geomhash":"ff326072ec8989d8852515ca606a415b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a527afa1381d449ee3b94d123fc832a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523905,
+            "venue_id":672687223
+        }
+    ],
     "wof:id":672687223,
-    "wof:lastmodified":1472625925,
+    "wof:lastmodified":1492112402,
     "wof:name":"Puppy Au Pair",
     "wof:parent_id":420523905,
     "wof:placetype":"venue",

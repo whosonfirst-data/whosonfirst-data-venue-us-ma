@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.974594,41.814825,-70.974594,41.814825",
     "geom:latitude":41.814825,
     "geom:longitude":-70.974594,
@@ -32,17 +33,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NW5TDUSbFIdPiuplHNBi5_41.814825_-70.974594@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731269,
-    "wof:geomhash":"105a1519d427fc292504a9b936b5f1b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7303dde1befb991c0ac4a24871ba4044",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523853,
+            "venue_id":672988237
+        }
+    ],
     "wof:id":672988237,
-    "wof:lastmodified":1472626191,
+    "wof:lastmodified":1492114505,
     "wof:name":"Leather Medic",
     "wof:parent_id":420523853,
     "wof:placetype":"venue",

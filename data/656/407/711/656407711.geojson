@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.882852,41.90442,-70.882852,41.90442",
     "geom:latitude":41.90442,
     "geom:longitude":-70.882852,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sWINrDRnINAv3g4imzzkf_41.904420_-70.882852@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712170,
-    "wof:geomhash":"5c5950b4b42ed046b0fb6702b02fbe1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fac26625fb77ee4af1d47f86c3cc32d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":656407711
+        }
+    ],
     "wof:id":656407711,
-    "wof:lastmodified":1472625111,
+    "wof:lastmodified":1492101787,
     "wof:name":"Ventura Motors",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

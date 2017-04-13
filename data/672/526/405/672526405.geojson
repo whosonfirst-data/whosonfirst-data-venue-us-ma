@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.850327,41.804628,-70.850327,41.804628",
     "geom:latitude":41.804628,
     "geom:longitude":-70.850327,
@@ -32,17 +33,26 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oCUveIAE9zUR8BIJXIMlc_41.804628_-70.850327@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720973,
-    "wof:geomhash":"1ca0f538409e9321724c48920a75f5fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7045c412dddd5f7f97f2b726ae37f8c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523993,
+            "venue_id":672526405
+        }
+    ],
     "wof:id":672526405,
-    "wof:lastmodified":1472625786,
+    "wof:lastmodified":1492116843,
     "wof:name":"Maddigan Tax Svc",
     "wof:parent_id":420523993,
     "wof:placetype":"venue",

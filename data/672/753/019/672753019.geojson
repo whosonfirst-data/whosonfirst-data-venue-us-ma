@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.917893,41.775879,-70.917893,41.775879",
     "geom:latitude":41.775879,
     "geom:longitude":-70.917893,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RId2C6ZKZ71BQI8xUjt2B_41.775879_-70.917893@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725996,
-    "wof:geomhash":"bce9685d53d76ed46597cba91b93f806",
-    "wof:hierarchy":[],
+    "wof:geomhash":"844f1fb22180a17b1983399b55463c7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":672753019
+        }
+    ],
     "wof:id":672753019,
-    "wof:lastmodified":1472625978,
+    "wof:lastmodified":1492110760,
     "wof:name":"Reggins Associate",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

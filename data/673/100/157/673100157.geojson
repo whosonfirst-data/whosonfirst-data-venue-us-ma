@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.573444,42.198629,-72.573444,42.198629",
     "geom:latitude":42.198629,
     "geom:longitude":-72.573444,
@@ -32,17 +33,34 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476347,
+        85633793,
+        85950397,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ixvz7Izn8F8v0cOVuQsOR_42.198629_-72.573444@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733760,
-    "wof:geomhash":"28d35a0de9676fc222fb86a261f3a432",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84bc31d44ffa1181bb29fce82518c880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "region_id":85688645,
+            "venue_id":673100157
+        }
+    ],
     "wof:id":673100157,
-    "wof:lastmodified":1472625271,
+    "wof:lastmodified":1492103415,
     "wof:name":"U S Taekwondo Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

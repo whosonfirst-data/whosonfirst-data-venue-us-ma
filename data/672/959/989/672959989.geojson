@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.630945,42.70141,-72.630945,42.70141",
     "geom:latitude":42.70141,
     "geom:longitude":-72.630945,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523525
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fFwUwtpYUWlOQHi3Pnxnu_42.701410_-72.630945@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730427,
-    "wof:geomhash":"929de34a141070b5ccddba66017f3a34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae93993e07652f4f2c83bbc6f509bffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523525,
+            "venue_id":672959989
+        }
+    ],
     "wof:id":672959989,
-    "wof:lastmodified":1472626177,
+    "wof:lastmodified":1492115464,
     "wof:name":"Leyden United Methodist Church",
     "wof:parent_id":420523525,
     "wof:placetype":"venue",

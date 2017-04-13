@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.864589,42.118975,-70.864589,42.118975",
     "geom:latitude":42.118975,
     "geom:longitude":-70.864589,
@@ -31,17 +32,26 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JIswoah3SwkcmREt0IQdh_42.118975_-70.864589@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711889,
-    "wof:geomhash":"3139152a04ed3b4608ee956766428e4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7286ff09a11e5877b513fa8e3a4045a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":656394251
+        }
+    ],
     "wof:id":656394251,
-    "wof:lastmodified":1472625020,
+    "wof:lastmodified":1492101488,
     "wof:name":"Modern Vending Concepts",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.873053,42.116382,-70.873053,42.116382",
     "geom:latitude":42.116382,
     "geom:longitude":-70.873053,
@@ -31,17 +32,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QIj4yo9wIPIGfvcl1B9uH_42.116382_-70.873053@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719146,
-    "wof:geomhash":"40c99c1c7ebf7e9f4daaf32319041be7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91141c3492400116febd8438eb85197c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672448829
+        }
+    ],
     "wof:id":672448829,
-    "wof:lastmodified":1472625718,
+    "wof:lastmodified":1492111072,
     "wof:name":"Getty Gas Station",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.911087,41.731708,-70.911087,41.731708",
     "geom:latitude":41.731708,
     "geom:longitude":-70.911087,
@@ -28,19 +29,34 @@
     "sg:postcode":"02743",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oGBmdDozyFrovdohQymBU_41.731708_-70.911087@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711124,
-    "wof:geomhash":"55c4b965406b0b54a6628bd1a0e0e48a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b770efc2dedd4bb314132c5030447ecc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":656358083
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":656358083
+        }
+    ],
     "wof:id":656358083,
-    "wof:lastmodified":1472624914,
+    "wof:lastmodified":1492101794,
     "wof:name":"Acushnet Elementary School",
-    "wof:parent_id":420523313,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

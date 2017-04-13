@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.818917,42.198119,-71.818917,42.198119",
     "geom:latitude":42.198119,
     "geom:longitude":-71.818917,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZzJ1In7Xz53lXfR8psWeh_42.198119_-71.818917@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731000,
-    "wof:geomhash":"7471861a774c07fbfa13dc7bf657fa97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bf3338b0b08b18ca4be7e4285cd794a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672978583
+        }
+    ],
     "wof:id":672978583,
-    "wof:lastmodified":1472626186,
+    "wof:lastmodified":1492111441,
     "wof:name":"Exterior Systems",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

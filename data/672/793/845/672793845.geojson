@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.731838,41.84312,-70.731838,41.84312",
     "geom:latitude":41.84312,
     "geom:longitude":-70.731838,
@@ -38,8 +39,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85852247,
-        102084367
+        85826411,
+        102084367,
+        85852247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,15 @@
     },
     "wof:country":"US",
     "wof:created":1461726861,
-    "wof:geomhash":"db9cadbd48f1a3e9fd68da09231d0116",
+    "wof:geomhash":"4fcbc228d48d5ed16162318259fd4b14",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85826411,
+            "region_id":85688645,
+            "venue_id":672793845
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -58,9 +67,9 @@
         }
     ],
     "wof:id":672793845,
-    "wof:lastmodified":1472626030,
+    "wof:lastmodified":1492113395,
     "wof:name":"Anchor Water Supply",
-    "wof:parent_id":85852247,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

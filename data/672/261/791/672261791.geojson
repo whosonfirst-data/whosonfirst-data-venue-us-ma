@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.412778,42.239228,-71.412778,42.239228",
     "geom:latitude":42.239228,
     "geom:longitude":-71.412778,
@@ -33,17 +34,26 @@
         "for"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pFruGz5MXGWGTc5jf2col_42.239228_-71.412778@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714842,
-    "wof:geomhash":"8190cf9d4c18eea828b16e8e8bf6ba31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2801884804d8ba86efd4229ac51dfc66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523725,
+            "venue_id":672261791
+        }
+    ],
     "wof:id":672261791,
-    "wof:lastmodified":1472625387,
+    "wof:lastmodified":1492112960,
     "wof:name":"Clinical Trials Manangement",
     "wof:parent_id":420523725,
     "wof:placetype":"venue",

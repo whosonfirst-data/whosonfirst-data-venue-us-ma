@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.812776,42.43424,-71.812776,42.43424",
     "geom:latitude":42.43424,
     "geom:longitude":-71.812776,
@@ -33,17 +34,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524137
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X9pQEOhLQJvxqvWouTW1R_42.434240_-71.812776@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728175,
-    "wof:geomhash":"8fdcf76478b8c480f05dac039999352e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe802bc6787722a98468f4e3d6fec982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524137,
+            "venue_id":672859861
+        }
+    ],
     "wof:id":672859861,
-    "wof:lastmodified":1472626087,
+    "wof:lastmodified":1492119128,
     "wof:name":"Daves Truck and Auto Repair",
     "wof:parent_id":420524137,
     "wof:placetype":"venue",

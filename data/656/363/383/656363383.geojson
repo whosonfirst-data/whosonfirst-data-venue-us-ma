@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.065079,42.705919,-72.065079,42.705919",
     "geom:latitude":42.705919,
     "geom:longitude":-72.065079,
@@ -31,19 +32,34 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191,
+        420526083
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ELVq06azq4r6W9sh4iOpK_42.705919_-72.065079@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711231,
-    "wof:geomhash":"ad3f4fa4605a7d1b070bc53d35a03aa1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44bdf0e18743302a07256a796229b32e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":656363383
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526083,
+            "venue_id":656363383
+        }
+    ],
     "wof:id":656363383,
-    "wof:lastmodified":1472624944,
+    "wof:lastmodified":1492101613,
     "wof:name":"Ron's Diesel Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

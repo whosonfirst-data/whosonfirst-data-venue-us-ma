@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.12823,42.20811,-71.12823,42.20811",
     "geom:latitude":42.20811,
     "geom:longitude":-71.12823,
@@ -33,7 +34,8 @@
         85688645,
         85633793,
         85843933,
-        102084403
+        102084403,
+        85842667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461742600,
-    "wof:geomhash":"dc1ec7071f138a935bad03e893233b43",
+    "wof:geomhash":"8f5aa503f2378896a3e3a5bc420d05c5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,12 +51,19 @@
             "neighbourhood_id":85843933,
             "region_id":85688645,
             "venue_id":689225357
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85842667,
+            "region_id":85688645,
+            "venue_id":689225357
         }
     ],
     "wof:id":689225357,
-    "wof:lastmodified":1472625624,
+    "wof:lastmodified":1492096969,
     "wof:name":"L-3 Communications",
-    "wof:parent_id":85843933,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

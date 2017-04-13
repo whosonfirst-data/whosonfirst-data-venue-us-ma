@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.040132,42.725181,-71.040132,42.725181",
     "geom:latitude":42.725181,
     "geom:longitude":-71.040132,
@@ -31,17 +32,26 @@
         "book"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xVC9RpY0yjHJER1zSjSBg_42.725181_-71.040132@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723185,
-    "wof:geomhash":"892ce2e72f2463a9c87a213198b4a673",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a3d3d519f8494e3d6579dff1505dbbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672625171
+        }
+    ],
     "wof:id":672625171,
-    "wof:lastmodified":1472625872,
+    "wof:lastmodified":1492112222,
     "wof:name":"Saloom Publishing",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

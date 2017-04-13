@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.912769,41.893316,-70.912769,41.893316",
     "geom:latitude":41.893316,
     "geom:longitude":-70.912769,
@@ -39,7 +40,8 @@
         85633793,
         85950469,
         102084367,
-        85688645
+        85688645,
+        85854565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461725155,
-    "wof:geomhash":"93c3fdc006a1444cc4aee05f3ea9ad7a",
+    "wof:geomhash":"c8b19177d932f483fb7d52a0866772c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,19 @@
             "neighbourhood_id":85853233,
             "region_id":85688645,
             "venue_id":672713627
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85854565,
+            "region_id":85688645,
+            "venue_id":672713627
         }
     ],
     "wof:id":672713627,
-    "wof:lastmodified":1472625958,
+    "wof:lastmodified":1492106531,
     "wof:name":"WIC Program",
-    "wof:parent_id":85853233,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

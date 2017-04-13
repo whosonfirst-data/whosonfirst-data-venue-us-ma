@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.840982,41.835891,-70.840982,41.835891",
     "geom:latitude":41.835891,
     "geom:longitude":-70.840982,
@@ -33,19 +34,32 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85826411,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iGDrZIvTF2vWLH1wsqR5A_41.835891_-70.840982@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715469,
-    "wof:geomhash":"c5382197850970876e679bea60e479ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a78bcddd774f73b384476ee451aa3de8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85826411,
+            "region_id":85688645,
+            "venue_id":672293153
+        }
+    ],
     "wof:id":672293153,
-    "wof:lastmodified":1472625459,
+    "wof:lastmodified":1492113445,
     "wof:name":"Lenny's Auto Body Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

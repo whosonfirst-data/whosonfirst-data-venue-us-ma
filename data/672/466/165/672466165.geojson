@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.957044,42.178906,-71.957044,42.178906",
     "geom:latitude":42.178906,
     "geom:longitude":-71.957044,
@@ -37,7 +38,8 @@
         85688645,
         85633793,
         85838311,
-        102084655
+        102084655,
+        85814689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461719590,
-    "wof:geomhash":"b0d23c7113725193dd6913a8be68890f",
+    "wof:geomhash":"c2bc93ed484c92534908e70767ee5756",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,19 @@
             "neighbourhood_id":85838311,
             "region_id":85688645,
             "venue_id":672466165
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85814689,
+            "region_id":85688645,
+            "venue_id":672466165
         }
     ],
     "wof:id":672466165,
-    "wof:lastmodified":1472625729,
+    "wof:lastmodified":1492113916,
     "wof:name":"Bement Camp & Conference Ctr",
-    "wof:parent_id":85838311,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

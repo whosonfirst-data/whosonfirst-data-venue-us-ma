@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.003344,42.724394,-71.003344,42.724394",
     "geom:latitude":42.724394,
     "geom:longitude":-71.003344,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yGkJmeNywrpdc4CmQ5uek_42.724394_-71.003344@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712413,
-    "wof:geomhash":"46f965bedaa6a15ae04de13de38b0ffb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c3b9efc16a311f62024166057bdc005",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672147919
+        }
+    ],
     "wof:id":672147919,
-    "wof:lastmodified":1472624958,
+    "wof:lastmodified":1492115482,
     "wof:name":"Connemara Masons",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

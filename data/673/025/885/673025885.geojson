@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.831086,41.961847,-70.831086,41.961847",
     "geom:latitude":41.961847,
     "geom:longitude":-70.831086,
@@ -33,17 +34,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7U3nf9qNXqj97asmG9Egxf_41.961847_-70.831086@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732204,
-    "wof:geomhash":"0228c45d49e81251a1cb33b89da8cea1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab78373928d3db99fd041f753ea337f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":673025885
+        }
+    ],
     "wof:id":673025885,
-    "wof:lastmodified":1472625031,
+    "wof:lastmodified":1492104150,
     "wof:name":"Charisma Farms",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

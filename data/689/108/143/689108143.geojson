@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.053589,42.409134,-71.053589,42.409134",
     "geom:latitude":42.409134,
     "geom:longitude":-71.053589,
@@ -37,17 +38,34 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476487,
+        85633793,
+        85950331,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73HU9IPlohwnh9mKPdutvI_42.409134_-71.053589@1303262220"
     },
     "wof:country":"US",
     "wof:created":1461739564,
-    "wof:geomhash":"0809dfe613d9bb0ad818de48c742c7f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e238530d5a8fc5ad0ca8b548ff5d88b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476487,
+            "locality_id":85950331,
+            "region_id":85688645,
+            "venue_id":689108143
+        }
+    ],
     "wof:id":689108143,
-    "wof:lastmodified":1472625361,
+    "wof:lastmodified":1492098615,
     "wof:name":"MJ Mortgage Corp.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.127121,42.520655,-71.127121,42.520655",
     "geom:latitude":42.520655,
     "geom:longitude":-71.127121,
@@ -39,7 +40,10 @@
         85633793,
         85950649,
         102084643,
-        85688645
+        85688645,
+        85834623,
+        404476469,
+        85950353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461711692,
-    "wof:geomhash":"7f183df6ce0930df53583159b93b1cce",
+    "wof:geomhash":"5a24502502421f6db1d1cbe63bc73f2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +62,22 @@
             "neighbourhood_id":85843915,
             "region_id":85688645,
             "venue_id":656385029
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476469,
+            "locality_id":85950353,
+            "neighbourhood_id":85834623,
+            "region_id":85688645,
+            "venue_id":656385029
         }
     ],
     "wof:id":656385029,
-    "wof:lastmodified":1472624991,
+    "wof:lastmodified":1492101754,
     "wof:name":"Bot Electronics",
-    "wof:parent_id":85843915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

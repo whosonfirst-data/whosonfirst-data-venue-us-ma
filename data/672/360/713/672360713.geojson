@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.848867,41.922604,-70.848867,41.922604",
     "geom:latitude":41.922604,
     "geom:longitude":-70.848867,
@@ -32,19 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817,
+        420523895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zZB2Ju11KRR4CzwCtBkhj_41.922604_-70.848867@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716989,
-    "wof:geomhash":"cf899c3a231364c788f2a6c1eab65ad4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ecf5c948b2fe88cbbc3180acce32b2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672360713
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523895,
+            "venue_id":672360713
+        }
+    ],
     "wof:id":672360713,
-    "wof:lastmodified":1472625629,
+    "wof:lastmodified":1492111252,
     "wof:name":"Brady Masonry",
-    "wof:parent_id":420523817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

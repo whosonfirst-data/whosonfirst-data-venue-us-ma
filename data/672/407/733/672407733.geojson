@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.789527,41.907038,-70.789527,41.907038",
     "geom:latitude":41.907038,
     "geom:longitude":-70.789527,
@@ -33,17 +34,26 @@
         "damage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A4hGTZeIwOP3CtMC146Jg_41.907038_-70.789527@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718088,
-    "wof:geomhash":"ecb2d49f0d49ccbcf92704b00ab07ec8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"241d95b58464dbbf3ca3614fd4533012",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672407733
+        }
+    ],
     "wof:id":672407733,
-    "wof:lastmodified":1472625676,
+    "wof:lastmodified":1492112990,
     "wof:name":"Advanced Mold Inspection Svc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

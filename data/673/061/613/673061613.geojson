@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101601,42.130299,-71.101601,42.130299",
     "geom:latitude":42.130299,
     "geom:longitude":-71.101601,
@@ -32,17 +33,26 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RYGJj2CaSvOq8xaHVKeVv_42.130512_-71.101850@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732983,
-    "wof:geomhash":"2ff93e4502ac862c46030fbd8d972d4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffceeb155ebb24f12045419d1dd8e58e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":673061613
+        }
+    ],
     "wof:id":673061613,
-    "wof:lastmodified":1472625188,
+    "wof:lastmodified":1492102376,
     "wof:name":"New Yorker Deli",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

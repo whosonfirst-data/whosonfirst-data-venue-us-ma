@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.516341,42.063443,-72.516341,42.063443",
     "geom:latitude":42.063443,
     "geom:longitude":-72.516341,
@@ -32,17 +33,32 @@
         "coffee"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475973,
+        85633793,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74byAlSDJ8UocQqXxROlFj_42.063443_-72.516341@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722207,
-    "wof:geomhash":"3f1d8c1a102b9f6e286dd859b3a7dd38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7df148e68e13b516bf1ceaa8e18f2586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404475973,
+            "region_id":85688645,
+            "venue_id":672583409
+        }
+    ],
     "wof:id":672583409,
-    "wof:lastmodified":1472625830,
+    "wof:lastmodified":1492106682,
     "wof:name":"Coffee Roaster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

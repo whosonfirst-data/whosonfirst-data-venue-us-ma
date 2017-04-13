@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.885196,41.640297,-70.885196,41.640297",
     "geom:latitude":41.640297,
     "geom:longitude":-70.885196,
@@ -29,17 +30,26 @@
     "sg:province":"MA",
     "sg:website":"www.citizensbank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60OH846uSTvoJfJZwXQZ5f_41.640297_-70.885196@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720401,
-    "wof:geomhash":"19565b3740963f30fedda238b312baa9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4fcbb4ee7bf47c30dcc6b6c04965864",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672499591
+        }
+    ],
     "wof:id":672499591,
-    "wof:lastmodified":1472625765,
+    "wof:lastmodified":1492115024,
     "wof:name":"Citizens Bank",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

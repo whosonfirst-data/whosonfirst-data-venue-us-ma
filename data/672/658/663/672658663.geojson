@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.067482,41.997329,-71.067482,41.997329",
     "geom:latitude":41.997329,
     "geom:longitude":-71.067482,
@@ -32,17 +33,26 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523373
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33DbqvXA2cogVQDNX8OBTi_41.997329_-71.067482@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723915,
-    "wof:geomhash":"ba382cb2e7cd93077f250e8b514a2e88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1759a4ebad11c94fb72e6de4867c08b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523373,
+            "venue_id":672658663
+        }
+    ],
     "wof:id":672658663,
-    "wof:lastmodified":1472625909,
+    "wof:lastmodified":1492110785,
     "wof:name":"Storage USA",
     "wof:parent_id":420523373,
     "wof:placetype":"venue",

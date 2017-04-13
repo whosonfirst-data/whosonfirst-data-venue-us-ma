@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.28005,42.485566,-71.28005,42.485566",
     "geom:latitude":42.485566,
     "geom:longitude":-71.28005,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85805215,
+        102084643,
         85837771,
         102191575,
         404476393,
-        85633793,
-        85950637,
-        102084643,
-        85688645
+        85950637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,15 @@
     },
     "wof:country":"US",
     "wof:created":1461716704,
-    "wof:geomhash":"db6223f8991f0fb71c0df472bd2f61ad",
+    "wof:geomhash":"a491c15580a2d2d0cac30b50498485fc",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85805215,
+            "region_id":85688645,
+            "venue_id":672348257
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +69,9 @@
         }
     ],
     "wof:id":672348257,
-    "wof:lastmodified":1472625579,
+    "wof:lastmodified":1492112462,
     "wof:name":"Taylor & Lloyd",
-    "wof:parent_id":85837771,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

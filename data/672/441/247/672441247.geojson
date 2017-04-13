@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.877677,42.422164,-71.877677,42.422164",
     "geom:latitude":42.422164,
     "geom:longitude":-71.877677,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PoScmFFeANos0YF8Rxy02_42.422164_-71.877677@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718930,
-    "wof:geomhash":"84a1ee98ee3cd286d233fb8be4a1a46a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b471a2c3e34f393a65616ab4d1e483b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524219,
+            "venue_id":672441247
+        }
+    ],
     "wof:id":672441247,
-    "wof:lastmodified":1472625704,
+    "wof:lastmodified":1492119850,
     "wof:name":"Electric Light Dept",
     "wof:parent_id":420524219,
     "wof:placetype":"venue",

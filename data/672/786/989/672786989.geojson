@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.459665,41.667333,-70.459665,41.667333",
     "geom:latitude":41.667333,
     "geom:longitude":-70.459665,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aDf4xci8bhPDFbwjMnW6g_41.667333_-70.459665@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726726,
-    "wof:geomhash":"55529e29cf7479efb636f49845dcd884",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8250b7c0b3b4d8a79c3727f6eaa2240c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672786989
+        }
+    ],
     "wof:id":672786989,
-    "wof:lastmodified":1472626031,
+    "wof:lastmodified":1492107381,
     "wof:name":"David Sawyer Construction",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

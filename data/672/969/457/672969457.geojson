@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.153714,42.15477,-71.153714,42.15477",
     "geom:latitude":42.15477,
     "geom:longitude":-71.153714,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85950843,
+        85850681,
         102084403,
+        85950843,
         85816759
     ],
     "wof:breaches":[],
@@ -45,8 +47,15 @@
     },
     "wof:country":"US",
     "wof:created":1461730743,
-    "wof:geomhash":"50507294389322e1a3c50790fe359819",
+    "wof:geomhash":"6294990f0ce75f236e2430e51a0f0695",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85850681,
+            "region_id":85688645,
+            "venue_id":672969457
+        },
         {
             "country_id":85633793,
             "county_id":102084403,
@@ -57,9 +66,9 @@
         }
     ],
     "wof:id":672969457,
-    "wof:lastmodified":1472626180,
+    "wof:lastmodified":1492109128,
     "wof:name":"Kessler Machine Works Inc",
-    "wof:parent_id":85816759,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

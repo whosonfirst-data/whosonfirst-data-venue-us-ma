@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.891411,42.061451,-70.891411,42.061451",
     "geom:latitude":42.061451,
     "geom:longitude":-70.891411,
@@ -39,17 +40,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xsF9QU2S3f0T2AbuI4jZq_42.061451_-70.891411@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741050,
-    "wof:geomhash":"7aad56c8b669a1c64368b2f502b07353",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4eb8d185660d6ddc00c916082b28e667",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":689154807
+        }
+    ],
     "wof:id":689154807,
-    "wof:lastmodified":1472625510,
+    "wof:lastmodified":1492098561,
     "wof:name":"Brass Caboose Shop",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

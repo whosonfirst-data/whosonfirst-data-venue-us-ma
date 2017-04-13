@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.505619,41.700528,-70.505619,41.700528",
     "geom:latitude":41.700528,
     "geom:longitude":-70.505619,
@@ -31,17 +32,26 @@
         "psychotherapist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZiiPEVbCalo5mMtrXH39x_41.700528_-70.505619@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715772,
-    "wof:geomhash":"74459ad1b90613e037b13981197bdcc8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fb347efb59db8ac97180390db7041f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672308657
+        }
+    ],
     "wof:id":672308657,
-    "wof:lastmodified":1472625529,
+    "wof:lastmodified":1492109371,
     "wof:name":"Family Therapy Center",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

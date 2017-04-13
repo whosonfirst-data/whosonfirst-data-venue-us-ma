@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.732757,42.255878,-71.732757,42.255878",
     "geom:latitude":42.255878,
     "geom:longitude":-71.732757,
@@ -38,17 +39,26 @@
         "machinery-rebuild"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TW6ooUNRaPwj1DxS3pfDB_42.255878_-71.732757@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734274,
-    "wof:geomhash":"902c2021b47f9c94f069cc8b0ee9a039",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58df5250ebf96af4cb2d2f5b1ee885d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":673124289
+        }
+    ],
     "wof:id":673124289,
-    "wof:lastmodified":1472625342,
+    "wof:lastmodified":1492104002,
     "wof:name":"Fab Machine",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

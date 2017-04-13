@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.82727,42.200871,-71.82727,42.200871",
     "geom:latitude":42.200871,
     "geom:longitude":-71.82727,
@@ -33,17 +34,26 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jRuPQ1ijKhRtrWDUUeGSi_42.200871_-71.827270@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718656,
-    "wof:geomhash":"9520a7409740e4ed36b85702b1c9accb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60d9a1bee0232e4867d193709caf7262",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672430515
+        }
+    ],
     "wof:id":672430515,
-    "wof:lastmodified":1472625701,
+    "wof:lastmodified":1492114705,
     "wof:name":"Auburn Highway Dept",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

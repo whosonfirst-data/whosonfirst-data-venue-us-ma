@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.886712,41.641453,-70.886712,41.641453",
     "geom:latitude":41.641453,
     "geom:longitude":-70.886712,
@@ -31,17 +32,26 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RiNtzQrXAYCK2w05S1VDl_41.641453_-70.886712@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718909,
-    "wof:geomhash":"0e7fa10fbcac4026079aebf641acffc1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12a77f4f06253981be911f23dee31407",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672440255
+        }
+    ],
     "wof:id":672440255,
-    "wof:lastmodified":1472625703,
+    "wof:lastmodified":1492114428,
     "wof:name":"Mayhew's Valet Pro Dry Clnrs",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

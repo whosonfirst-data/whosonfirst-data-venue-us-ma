@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.592902,41.814127,-70.592902,41.814127",
     "geom:latitude":41.814127,
     "geom:longitude":-70.592902,
@@ -32,17 +33,32 @@
         "private"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476561,
+        85633793,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6F1Q8TP0F8obPX28JqC4mT_41.814127_-70.592902@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741177,
-    "wof:geomhash":"585a1f19f14ea65bd76560828b4d7c9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09787b6f08a253433ee7dce356cf75a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476561,
+            "region_id":85688645,
+            "venue_id":689160457
+        }
+    ],
     "wof:id":689160457,
-    "wof:lastmodified":1472625519,
+    "wof:lastmodified":1492101081,
     "wof:name":"Cape Cod Golf Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

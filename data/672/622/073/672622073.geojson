@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.187767,41.967053,-71.187767,41.967053",
     "geom:latitude":41.967053,
     "geom:longitude":-71.187767,
@@ -28,19 +29,38 @@
     "sg:postcode":"02766",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85810265,
+        102191575,
+        404476135,
+        85633793,
+        85950679,
+        102084407,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XTWZbb92OSba0wv6dNuNS_41.967053_-71.187767@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723110,
-    "wof:geomhash":"fc29568eedfe63e6711ba56469311f79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d660f31c0a4e363080aad79bf0a6179a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476135,
+            "locality_id":85950679,
+            "neighbourhood_id":85810265,
+            "region_id":85688645,
+            "venue_id":672622073
+        }
+    ],
     "wof:id":672622073,
-    "wof:lastmodified":1472625866,
+    "wof:lastmodified":1492113718,
     "wof:name":"Holman Insurance Inc",
-    "wof:parent_id":420523301,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.042312,42.687925,-72.042312,42.687925",
     "geom:latitude":42.687925,
     "geom:longitude":-72.042312,
@@ -33,17 +34,26 @@
         "vacuum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PEsSrGgiIb0Unr4d0kGE3_42.687925_-72.042312@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711213,
-    "wof:geomhash":"82a37d0a71148e33bf3793edc994a450",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab923b628ae6f55b8cc5e8f0afd8dcfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":656362447
+        }
+    ],
     "wof:id":656362447,
-    "wof:lastmodified":1472624951,
+    "wof:lastmodified":1492102349,
     "wof:name":"Village Vac Svc",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

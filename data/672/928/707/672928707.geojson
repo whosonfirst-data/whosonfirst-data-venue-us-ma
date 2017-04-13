@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.740727,42.027352,-70.740727,42.027352",
     "geom:latitude":42.027352,
     "geom:longitude":-70.740727,
@@ -33,17 +34,26 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F9V5mcAdl7ap2OvSrNYU7_42.027352_-70.740727@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729593,
-    "wof:geomhash":"5fd1ccf584eb8efac40fd0e0c544d619",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb9f10e81e837cd9143d24fc57419dd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":672928707
+        }
+    ],
     "wof:id":672928707,
-    "wof:lastmodified":1472626150,
+    "wof:lastmodified":1492111418,
     "wof:name":"American Express Financial Adv",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

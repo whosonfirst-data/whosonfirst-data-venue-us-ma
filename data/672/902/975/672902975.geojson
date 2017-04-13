@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.878256,41.908622,-70.878256,41.908622",
     "geom:latitude":41.908622,
     "geom:longitude":-70.878256,
@@ -33,17 +34,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vEfOhLw0Q9M4qoRiIWsy6_41.908622_-70.878256@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729081,
-    "wof:geomhash":"547e75fbd0fb4c8d7075f5c3ed7d30a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc5c8a25d7bb0d5498ba6812e8b0f685",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672902975
+        }
+    ],
     "wof:id":672902975,
-    "wof:lastmodified":1472626127,
+    "wof:lastmodified":1492118526,
     "wof:name":"Laser Labs Inc",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

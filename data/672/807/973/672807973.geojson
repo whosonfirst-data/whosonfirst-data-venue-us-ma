@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.702398,42.370137,-72.702398,42.370137",
     "geom:latitude":42.370137,
     "geom:longitude":-72.702398,
@@ -33,17 +34,26 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zS4kNNFYbsv6102xBVXfF_42.370137_-72.702398@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727143,
-    "wof:geomhash":"d875f3490b25a3320be238f669be6368",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1af33122b0bea1c3e3cd2e12051f9788",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523635,
+            "venue_id":672807973
+        }
+    ],
     "wof:id":672807973,
-    "wof:lastmodified":1472626048,
+    "wof:lastmodified":1492112807,
     "wof:name":"Weed Communications",
     "wof:parent_id":420523635,
     "wof:placetype":"venue",

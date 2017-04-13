@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.084069,41.660588,-71.084069,41.660588",
     "geom:latitude":41.660588,
     "geom:longitude":-71.084069,
@@ -31,17 +32,26 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N91z2c4TMYP8x9ySUNDek_41.660588_-71.084069@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721759,
-    "wof:geomhash":"ded525aefab27fad7e606a6296f4cbc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdf0158f9cb2b6ca6a60962340337f70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672562477
+        }
+    ],
     "wof:id":672562477,
-    "wof:lastmodified":1472625813,
+    "wof:lastmodified":1492113970,
     "wof:name":"Whislte Kleen Maids",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

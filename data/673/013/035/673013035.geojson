@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.767157,41.886298,-70.767157,41.886298",
     "geom:latitude":41.886298,
     "geom:longitude":-70.767157,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523817,
+        85688645,
         85826411,
         102084367
     ],
@@ -43,8 +45,13 @@
     },
     "wof:country":"US",
     "wof:created":1461731874,
-    "wof:geomhash":"5d6f9c639c92b4542b62ae8ee911cd46",
+    "wof:geomhash":"ff95d2281c6ca3901496b61490fd9ed5",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":673013035
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -54,9 +61,9 @@
         }
     ],
     "wof:id":673013035,
-    "wof:lastmodified":1472624921,
+    "wof:lastmodified":1492103759,
     "wof:name":"Richard C La Cava CPA",
-    "wof:parent_id":85826411,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

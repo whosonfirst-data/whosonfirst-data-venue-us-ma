@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.003875,41.973559,-71.003875,41.973559",
     "geom:latitude":41.973559,
     "geom:longitude":-71.003875,
@@ -32,17 +33,26 @@
         "made"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OKkBZjpV376ksRQRCBt76_41.973559_-71.003875@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731517,
-    "wof:geomhash":"635dde9bacaa1d4c2ca5879c65d0b878",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f638595f468ee3d4af234b53a00b30f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672997029
+        }
+    ],
     "wof:id":672997029,
-    "wof:lastmodified":1472626196,
+    "wof:lastmodified":1492115179,
     "wof:name":"FRP Supplies-Division",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

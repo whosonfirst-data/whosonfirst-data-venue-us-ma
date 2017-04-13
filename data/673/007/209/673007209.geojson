@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.864471,42.119247,-71.864471,42.119247",
     "geom:latitude":42.119247,
     "geom:longitude":-71.864471,
@@ -38,7 +39,8 @@
         85633793,
         85950739,
         102084655,
-        85688645
+        85688645,
+        420524215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461731738,
-    "wof:geomhash":"e5dc3c18e3b754344bd79008858061ca",
+    "wof:geomhash":"4a1399d8b89dca57d82442f537096249",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,17 @@
             "neighbourhood_id":420524075,
             "region_id":85688645,
             "venue_id":673007209
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":673007209
         }
     ],
     "wof:id":673007209,
-    "wof:lastmodified":1472624927,
+    "wof:lastmodified":1492102664,
     "wof:name":"St Roch's Parish Ctr",
-    "wof:parent_id":420524075,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

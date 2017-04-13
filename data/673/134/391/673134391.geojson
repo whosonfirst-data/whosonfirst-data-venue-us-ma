@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.822159,42.258759,-71.822159,42.258759",
     "geom:latitude":42.258759,
     "geom:longitude":-71.822159,
@@ -48,14 +49,14 @@
     "sg:website":"http://www.nationalglassco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805121,
+        85881855,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
         85688645,
-        85881855
+        85805121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,18 +64,8 @@
     },
     "wof:country":"US",
     "wof:created":1461734479,
-    "wof:geomhash":"7efd3bcd76abc42e9d875f8b5018c9bf",
+    "wof:geomhash":"3593aaa1c46cb5518f18f17f90d749f6",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476639,
-            "locality_id":85950375,
-            "neighbourhood_id":85805121,
-            "region_id":85688645,
-            "venue_id":673134391
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -84,12 +75,22 @@
             "neighbourhood_id":85881855,
             "region_id":85688645,
             "venue_id":673134391
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85805121,
+            "region_id":85688645,
+            "venue_id":673134391
         }
     ],
     "wof:id":673134391,
-    "wof:lastmodified":1472625372,
+    "wof:lastmodified":1492103045,
     "wof:name":"National Glass Works Inc - Auto Glass",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

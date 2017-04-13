@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.584477,42.558147,-71.584477,42.558147",
     "geom:latitude":42.558147,
     "geom:longitude":-71.584477,
@@ -28,17 +29,34 @@
     "sg:postcode":"01432",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476323,
+        85633793,
+        85950615,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WxV1HTd6iawvgpfEJIb32_42.558147_-71.584477@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713076,
-    "wof:geomhash":"663835272cb90329e380940cee3c329b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"525723db2328780473ff705e13749d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476323,
+            "locality_id":85950615,
+            "region_id":85688645,
+            "venue_id":672178127
+        }
+    ],
     "wof:id":672178127,
-    "wof:lastmodified":1472625065,
+    "wof:lastmodified":1492108931,
     "wof:name":"Stewart Lanier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

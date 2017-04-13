@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.898889,41.743815,-70.898889,41.743815",
     "geom:latitude":41.743815,
     "geom:longitude":-70.898889,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fhr9yfZLvh8S5hd6g8gLE_41.743815_-70.898889@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719250,
-    "wof:geomhash":"61665c99f35d9939488c6fe983084a78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77fa94657ffbe54a9f49636466892b86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672452875
+        }
+    ],
     "wof:id":672452875,
-    "wof:lastmodified":1472625717,
+    "wof:lastmodified":1492110427,
     "wof:name":"Atlantic Coast Builders",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.824752,42.051973,-70.824752,42.051973",
     "geom:latitude":42.051973,
     "geom:longitude":-70.824752,
@@ -32,19 +33,38 @@
         "consignment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85839511,
+        102084367,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VhfUUdnaU3F0RSJ1MJcm9_42.051973_-70.824752@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726200,
-    "wof:geomhash":"584da1d4e499da2c4f71409760862e43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8b9349a64f7c543169be925b256de79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85839511,
+            "region_id":85688645,
+            "venue_id":672762125
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672762125
+        }
+    ],
     "wof:id":672762125,
-    "wof:lastmodified":1472625984,
+    "wof:lastmodified":1492108397,
     "wof:name":"Kind-Hearted Woman",
-    "wof:parent_id":420523817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

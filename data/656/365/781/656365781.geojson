@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.893506,41.743883,-70.893506,41.743883",
     "geom:latitude":41.743883,
     "geom:longitude":-70.893506,
@@ -34,17 +35,26 @@
         "impaired"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TOJZ4BKYn39HRxcs6gSJ2_41.743883_-70.893506@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711287,
-    "wof:geomhash":"12067201b2219cdd69698a938fbad9e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dee84dbc2566ca569a2f4ecc6eefbab2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":656365781
+        }
+    ],
     "wof:id":656365781,
-    "wof:lastmodified":1472624963,
+    "wof:lastmodified":1492101760,
     "wof:name":"A New Bedford Hearing Aid Svc",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

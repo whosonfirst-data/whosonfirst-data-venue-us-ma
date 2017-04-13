@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.032871,42.552586,-71.032871,42.552586",
     "geom:latitude":42.552586,
     "geom:longitude":-71.032871,
@@ -36,17 +37,34 @@
         "kennel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475945,
+        85633793,
+        85950795,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UYgIADK1YMP8lv9sV2FAP_42.552586_-71.032871@1303262196"
     },
     "wof:country":"US",
     "wof:created":1461735759,
-    "wof:geomhash":"6f4fe00b680d435331fee7310894461b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b42225649d4efd60590b77b494ff2b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404475945,
+            "locality_id":85950795,
+            "region_id":85688645,
+            "venue_id":688925149
+        }
+    ],
     "wof:id":688925149,
-    "wof:lastmodified":1472624984,
+    "wof:lastmodified":1492120987,
     "wof:name":"Pioneer Kennels Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

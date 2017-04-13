@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.988135,41.976509,-70.988135,41.976509",
     "geom:latitude":41.976509,
     "geom:longitude":-70.988135,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LGL5U9AKWGXMK2QZDTJoK_41.976509_-70.988135@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726485,
-    "wof:geomhash":"65dc9e7cabb6cb8b1357c22c9fac3405",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0664af1c713c935cb51dbae1638c281",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672775261
+        }
+    ],
     "wof:id":672775261,
-    "wof:lastmodified":1472626007,
+    "wof:lastmodified":1492110707,
     "wof:name":"D & D Remodeling",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

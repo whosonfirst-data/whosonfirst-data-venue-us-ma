@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.011296,42.345104,-73.011296,42.345104",
     "geom:latitude":42.345104,
     "geom:longitude":-73.011296,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476301,
+        85633793,
+        102084459
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6prwXd1Bb09w8iGnsG0nHa_42.345104_-73.011296@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722322,
-    "wof:geomhash":"2496cec8704e41253575eb840774ab7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"606e27a4939736a462c03b147f610a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084459,
+            "localadmin_id":404476301,
+            "region_id":85688645,
+            "venue_id":672587823
+        }
+    ],
     "wof:id":672587823,
-    "wof:lastmodified":1472625841,
+    "wof:lastmodified":1492117947,
     "wof:name":"Pioneer Valley Planning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

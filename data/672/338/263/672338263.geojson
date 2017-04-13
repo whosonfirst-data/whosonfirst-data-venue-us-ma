@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.2156,42.483823,-73.2156,42.483823",
     "geom:latitude":42.483823,
     "geom:longitude":-73.2156,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85811957,
+        102191575,
+        404476123,
         85633793,
         85950325,
         102084369,
-        85811957
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,11 +49,13 @@
     },
     "wof:country":"US",
     "wof:created":1461716450,
-    "wof:geomhash":"4904ccd5a2ed99fb1439734047f45104",
+    "wof:geomhash":"363260e2d28be95c8d2884125f3eb9e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084369,
+            "localadmin_id":404476123,
             "locality_id":85950325,
             "neighbourhood_id":85811957,
             "region_id":85688645,
@@ -58,7 +63,7 @@
         }
     ],
     "wof:id":672338263,
-    "wof:lastmodified":1472625566,
+    "wof:lastmodified":1492110362,
     "wof:name":"RFQ Electronics",
     "wof:parent_id":85811957,
     "wof:placetype":"venue",

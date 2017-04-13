@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.126036,41.640588,-71.126036,41.640588",
     "geom:latitude":41.640588,
     "geom:longitude":-71.126036,
@@ -31,19 +32,28 @@
         "upholsterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KrbJtGPeT7ykHYAPkaLkg_41.640588_-71.126036@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711389,
-    "wof:geomhash":"c62253457b7475f9c9113d9fce1a1c85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f191ea5d68a5a3a83801d6f00c05f7eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":656370563
+        }
+    ],
     "wof:id":656370563,
-    "wof:lastmodified":1472624954,
+    "wof:lastmodified":1492101336,
     "wof:name":"Ray's Vinyl Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

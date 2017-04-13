@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.529726,42.449926,-72.529726,42.449926",
     "geom:latitude":42.449926,
     "geom:longitude":-72.529726,
@@ -33,19 +34,28 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xureheEHpjQD4jA5875e3_42.449926_-72.529726@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715101,
-    "wof:geomhash":"6044e1a9d415b69893ee6568dbdeb404",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e37eb12229ef4665af3d219dfe3a4a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523639,
+            "venue_id":672275497
+        }
+    ],
     "wof:id":672275497,
-    "wof:lastmodified":1472625427,
+    "wof:lastmodified":1492107454,
     "wof:name":"Catamount Woodworks",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

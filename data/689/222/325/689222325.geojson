@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.226334,41.726262,-71.226334,41.726262",
     "geom:latitude":41.726262,
     "geom:longitude":-71.226334,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476145,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Z64HJOyypdgrQjpr0S2UI_41.726262_-71.226334@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742536,
-    "wof:geomhash":"661403b15efc088089d32cba59930d68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83df5eddb41b8548b9b609bd9d2c5586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476145,
+            "region_id":85688645,
+            "venue_id":689222325
+        }
+    ],
     "wof:id":689222325,
-    "wof:lastmodified":1472625618,
+    "wof:lastmodified":1492100200,
     "wof:name":"Basic Service Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

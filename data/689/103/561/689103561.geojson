@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.039367,42.434212,-71.039367,42.434212",
     "geom:latitude":42.434212,
     "geom:longitude":-71.039367,
@@ -28,17 +29,34 @@
     "sg:postcode":"02148",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476399,
+        85633793,
+        85950349,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42P8kPPNZc525lwbtXE9ht_42.434212_-71.039367@1303262219"
     },
     "wof:country":"US",
     "wof:created":1461739451,
-    "wof:geomhash":"d21e863d9509b1103cc4b54551b4a5a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2dce95332159e1c0311ca93ff5dc65b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476399,
+            "locality_id":85950349,
+            "region_id":85688645,
+            "venue_id":689103561
+        }
+    ],
     "wof:id":689103561,
-    "wof:lastmodified":1472625368,
+    "wof:lastmodified":1492099546,
     "wof:name":"Steve's Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

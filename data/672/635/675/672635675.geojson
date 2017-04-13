@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.897027,42.370012,-71.897027,42.370012",
     "geom:latitude":42.370012,
     "geom:longitude":-71.897027,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524093
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Fn4szo4A8iLGQmvJDPEK3_42.370012_-71.897027@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723407,
-    "wof:geomhash":"e052869e88bb03038de43dfad2ccacb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1ed3128be4bf31554a51cf79fb3c05a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524093,
+            "venue_id":672635675
+        }
+    ],
     "wof:id":672635675,
-    "wof:lastmodified":1472625887,
+    "wof:lastmodified":1492111167,
     "wof:name":"Provost Albert L Lndscpg",
     "wof:parent_id":420524093,
     "wof:placetype":"venue",

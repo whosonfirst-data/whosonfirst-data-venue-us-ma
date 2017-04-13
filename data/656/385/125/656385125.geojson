@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.30607,41.999901,-71.30607,41.999901",
     "geom:latitude":41.999901,
     "geom:longitude":-71.30607,
@@ -33,17 +34,32 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476133,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OYV72ccyWhdqQLj5QVPIx_41.999901_-71.306070@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711693,
-    "wof:geomhash":"1a836bcde0a0d5914364321acf5272cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fe8e2d52466609b2aa5c044775d4c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476133,
+            "region_id":85688645,
+            "venue_id":656385125
+        }
+    ],
     "wof:id":656385125,
-    "wof:lastmodified":1472624998,
+    "wof:lastmodified":1492101755,
     "wof:name":"Thermal Fluidics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

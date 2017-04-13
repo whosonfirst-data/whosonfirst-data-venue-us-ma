@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.825707,42.688134,-70.825707,42.688134",
     "geom:latitude":42.688134,
     "geom:longitude":-70.825707,
@@ -36,8 +37,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85830977,
-        102084463
+        85836261,
+        102084463,
+        85830977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +47,15 @@
     },
     "wof:country":"US",
     "wof:created":1461730164,
-    "wof:geomhash":"18e0b91b0f7bc52b36d075854d08e370",
+    "wof:geomhash":"111e7b35ac91bf3330b53f71522d1b3c",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85836261,
+            "region_id":85688645,
+            "venue_id":672951427
+        },
         {
             "country_id":85633793,
             "county_id":102084463,
@@ -56,9 +65,9 @@
         }
     ],
     "wof:id":672951427,
-    "wof:lastmodified":1472626160,
+    "wof:lastmodified":1492115185,
     "wof:name":"Cuvilly Arts Ctr",
-    "wof:parent_id":85830977,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

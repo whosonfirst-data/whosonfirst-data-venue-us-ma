@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.00417,42.76065,-71.00417,42.76065",
     "geom:latitude":42.76065,
     "geom:longitude":-71.00417,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Dz9Evpm48xDPwHyoE3c91_42.760650_-71.004170@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721593,
-    "wof:geomhash":"30500de2be1101e499699964efae09b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62e1675863aa4d892aa8b5dbf184f7a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672555715
+        }
+    ],
     "wof:id":672555715,
-    "wof:lastmodified":1472625836,
+    "wof:lastmodified":1492117489,
     "wof:name":"Creative Developments",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.116276,42.620111,-73.116276,42.620111",
     "geom:latitude":42.620111,
     "geom:longitude":-73.116276,
@@ -32,17 +33,26 @@
         "frame"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IkoX6RFhwbwGcaOId6TPF_42.620111_-73.116276@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718506,
-    "wof:geomhash":"454306f35cd1bb90454d6bee9322e910",
-    "wof:hierarchy":[],
+    "wof:geomhash":"080ac95cb8a9847ae56eb08498349740",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672423955
+        }
+    ],
     "wof:id":672423955,
-    "wof:lastmodified":1472625694,
+    "wof:lastmodified":1492108711,
     "wof:name":"Everything Art Inc",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.884839,41.641259,-70.884839,41.641259",
     "geom:latitude":41.641259,
     "geom:longitude":-70.884839,
@@ -33,17 +34,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5l5tRfSP3B5M7cgbTNXSEw_41.641259_-70.884839@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461733610,
-    "wof:geomhash":"282223d9b943fd8a2fc3814ff6cc569c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87b4971b44decaf4ea24230d4c7ea3b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":673092191
+        }
+    ],
     "wof:id":673092191,
-    "wof:lastmodified":1472625225,
+    "wof:lastmodified":1492103032,
     "wof:name":"Papa Gino's",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

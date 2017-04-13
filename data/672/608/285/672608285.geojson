@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.135029,42.474903,-71.135029,42.474903",
     "geom:latitude":42.474903,
     "geom:longitude":-71.135029,
@@ -39,7 +40,10 @@
         85633793,
         85950665,
         102084643,
-        85688645
+        85688645,
+        85858437,
+        404476469,
+        85950353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722789,
-    "wof:geomhash":"0be1994a70b07e76fcb90ac29e3f9ab6",
+    "wof:geomhash":"4e5254c32d4f5f94cd5fbbf382af0724",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +62,22 @@
             "neighbourhood_id":85858139,
             "region_id":85688645,
             "venue_id":672608285
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476469,
+            "locality_id":85950353,
+            "neighbourhood_id":85858437,
+            "region_id":85688645,
+            "venue_id":672608285
         }
     ],
     "wof:id":672608285,
-    "wof:lastmodified":1472625858,
+    "wof:lastmodified":1492115787,
     "wof:name":"North Shore Graphics",
-    "wof:parent_id":85858139,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

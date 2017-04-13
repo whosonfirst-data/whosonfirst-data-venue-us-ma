@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.103166,42.141237,-71.103166,42.141237",
     "geom:latitude":42.141237,
     "geom:longitude":-71.103166,
@@ -33,17 +34,26 @@
         "music"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VRYzT0nYyRL9aST0JD80W_42.141237_-71.103166@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712761,
-    "wof:geomhash":"094b1388968f15df33cd38e704b3acd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5aa3a1774cecfcfae0cb926cfaa05ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672163669
+        }
+    ],
     "wof:id":672163669,
-    "wof:lastmodified":1472625032,
+    "wof:lastmodified":1492110943,
     "wof:name":"Manhattan Express Entertain",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.904999,42.296291,-71.904999,42.296291",
     "geom:latitude":42.296291,
     "geom:longitude":-71.904999,
@@ -31,17 +32,36 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420558267,
+        102191575,
+        404476639,
+        85633793,
+        85950375,
+        102084655,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fEEQRyK16tA54D3LAe9iO_42.296291_-71.904999@1303262188"
     },
     "wof:country":"US",
     "wof:created":1461734483,
-    "wof:geomhash":"005fe932f5726c59b98e29046574091d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6578ada77db84236297b5ee243cc6a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":420558267,
+            "region_id":85688645,
+            "venue_id":673134603
+        }
+    ],
     "wof:id":673134603,
-    "wof:lastmodified":1472625383,
+    "wof:lastmodified":1492103047,
     "wof:name":"Pleasant Hosting",
     "wof:parent_id":420558267,
     "wof:placetype":"venue",

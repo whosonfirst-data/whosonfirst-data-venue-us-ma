@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.20858,42.729012,-71.20858,42.729012",
     "geom:latitude":42.729012,
     "geom:longitude":-71.20858,
@@ -33,17 +34,34 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475949,
+        85633793,
+        85950411,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70mNlDHG49sV26XB0HX1eo_42.729012_-71.208580@1303262193"
     },
     "wof:country":"US",
     "wof:created":1461735324,
-    "wof:geomhash":"5fda2d2a65eadd0d5d65920007b1a360",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48caeea25f84481cde299d9dc897af14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404475949,
+            "locality_id":85950411,
+            "region_id":85688645,
+            "venue_id":673174723
+        }
+    ],
     "wof:id":673174723,
-    "wof:lastmodified":1472625509,
+    "wof:lastmodified":1492105450,
     "wof:name":"Massachusetts Department Of Highway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

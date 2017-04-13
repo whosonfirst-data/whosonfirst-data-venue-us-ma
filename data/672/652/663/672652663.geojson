@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.802518,41.914235,-70.802518,41.914235",
     "geom:latitude":41.914235,
     "geom:longitude":-70.802518,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A3nO0TMINciRxNR06kLYQ_41.914235_-70.802518@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723772,
-    "wof:geomhash":"05f9941494ca27ee74d1723680bc1161",
-    "wof:hierarchy":[],
+    "wof:geomhash":"444e35a6db79e4c578c198a0e9660dfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672652663
+        }
+    ],
     "wof:id":672652663,
-    "wof:lastmodified":1472625903,
+    "wof:lastmodified":1492111953,
     "wof:name":"Tom's Auto Svc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

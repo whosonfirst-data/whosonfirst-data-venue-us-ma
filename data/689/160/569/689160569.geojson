@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.735107,41.914471,-70.735107,41.914471",
     "geom:latitude":41.914471,
     "geom:longitude":-70.735107,
@@ -32,17 +33,26 @@
         "copying"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14PSAxOoxh7JWq5gHjLOg3_41.914471_-70.735107@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741179,
-    "wof:geomhash":"fd4bac3e289a9f36ed6c074031d607c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdc12c00fa772e8f7c222777691d7e57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689160569
+        }
+    ],
     "wof:id":689160569,
-    "wof:lastmodified":1472625522,
+    "wof:lastmodified":1492101080,
     "wof:name":"Corporate Copy, Inc.",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

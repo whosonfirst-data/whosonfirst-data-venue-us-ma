@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.742699,41.894901,-70.742699,41.894901",
     "geom:latitude":41.894901,
     "geom:longitude":-70.742699,
@@ -31,17 +32,26 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tTtf9nk6nE9ma3uK38dAb_41.894901_-70.742699@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740997,
-    "wof:geomhash":"a99c9f49ddba6f668a00aee2a8c5da65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e8c3b0c134bfec47dafad174e554f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152695
+        }
+    ],
     "wof:id":689152695,
-    "wof:lastmodified":1472625514,
+    "wof:lastmodified":1492101014,
     "wof:name":"Merchants Rent A Car",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

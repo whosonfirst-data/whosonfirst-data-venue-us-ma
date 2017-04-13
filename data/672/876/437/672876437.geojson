@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.130355,41.687391,-71.130355,41.687391",
     "geom:latitude":41.687391,
     "geom:longitude":-71.130355,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85829343,
+        102084407,
         85818859,
         102191575,
         404476177,
-        85633793,
-        85950371,
-        102084407,
-        85688645
+        85950371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,15 @@
     },
     "wof:country":"US",
     "wof:created":1461728565,
-    "wof:geomhash":"624fda5ddb49ac41cd09b1c812c100bc",
+    "wof:geomhash":"55fa8e27bcbff8d9f4de7472a6d67a53",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85829343,
+            "region_id":85688645,
+            "venue_id":672876437
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +70,9 @@
         }
     ],
     "wof:id":672876437,
-    "wof:lastmodified":1472626096,
+    "wof:lastmodified":1492112356,
     "wof:name":"Cingular Wireless",
-    "wof:parent_id":85818859,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

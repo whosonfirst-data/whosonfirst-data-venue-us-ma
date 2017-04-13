@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.857474,41.649772,-70.857474,41.649772",
     "geom:latitude":41.649772,
     "geom:longitude":-70.857474,
@@ -35,19 +36,28 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gkegznJpho5h5rT1MNdpL_41.649772_-70.857474@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728936,
-    "wof:geomhash":"b4036af2240ed6ddd49f4c2530a76450",
-    "wof:hierarchy":[],
+    "wof:geomhash":"517175d52889ef84de97f9a6d0b29f7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672895479
+        }
+    ],
     "wof:id":672895479,
-    "wof:lastmodified":1472626113,
+    "wof:lastmodified":1492105992,
     "wof:name":"J D L Finishing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

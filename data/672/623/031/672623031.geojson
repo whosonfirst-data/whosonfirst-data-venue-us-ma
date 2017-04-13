@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.981727,41.818354,-70.981727,41.818354",
     "geom:latitude":41.818354,
     "geom:longitude":-70.981727,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tibdRiU2m0QIdlaZ88yif_41.818354_-70.981727@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723130,
-    "wof:geomhash":"a275b9800b568e9f30f7b3ad1b2aa02e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b3c03958b9f06405d108649365d461e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523853,
+            "venue_id":672623031
+        }
+    ],
     "wof:id":672623031,
-    "wof:lastmodified":1472625867,
+    "wof:lastmodified":1492107789,
     "wof:name":"Majestic Auto Wholesale",
     "wof:parent_id":420523853,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.954138,42.80842,-70.954138,42.80842",
     "geom:latitude":42.80842,
     "geom:longitude":-70.954138,
@@ -32,17 +33,26 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TUBzGMhAgCUr8q8kbj1LK_42.808420_-70.954138@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720734,
-    "wof:geomhash":"ba246e2c16d09e23b431b9111eaf3fe7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd01f0a62bce486b7ae84fbe41006e2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672515465
+        }
+    ],
     "wof:id":672515465,
-    "wof:lastmodified":1472625778,
+    "wof:lastmodified":1492113936,
     "wof:name":"Kelly Associates",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

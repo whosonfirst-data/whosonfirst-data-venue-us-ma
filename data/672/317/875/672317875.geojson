@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.329472,41.997736,-71.329472,41.997736",
     "geom:latitude":41.997736,
     "geom:longitude":-71.329472,
@@ -31,17 +32,32 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476133,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75zxZQG8xdnKqhlRm2aH1y_41.997736_-71.329472@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715965,
-    "wof:geomhash":"cc0f92819a2d46fe451b1b070c36f1fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"060ab602ab3612117608ef27b908b69d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476133,
+            "region_id":85688645,
+            "venue_id":672317875
+        }
+    ],
     "wof:id":672317875,
-    "wof:lastmodified":1472625552,
+    "wof:lastmodified":1492115775,
     "wof:name":"Soup Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

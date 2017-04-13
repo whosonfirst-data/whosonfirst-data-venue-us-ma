@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.590149,42.500591,-71.590149,42.500591",
     "geom:latitude":42.500591,
     "geom:longitude":-71.590149,
@@ -34,10 +35,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85809037,
-        102084655,
         85950627,
-        85824179
+        102084655,
+        85824179,
+        85809037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +46,8 @@
     },
     "wof:country":"US",
     "wof:created":1461734097,
-    "wof:geomhash":"79ca099bf7f5c32147ca25f4d02c9e79",
+    "wof:geomhash":"d78ffd35bfbe5adb7017b53c6a415482",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85809037,
-            "region_id":85688645,
-            "venue_id":673115523
-        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -61,12 +55,19 @@
             "neighbourhood_id":85824179,
             "region_id":85688645,
             "venue_id":673115523
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85809037,
+            "region_id":85688645,
+            "venue_id":673115523
         }
     ],
     "wof:id":673115523,
-    "wof:lastmodified":1472625353,
+    "wof:lastmodified":1492103099,
     "wof:name":"Sixty Plus Club Of Harvard",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

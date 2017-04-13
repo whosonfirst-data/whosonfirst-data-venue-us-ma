@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.382733,42.073808,-73.382733,42.073808",
     "geom:latitude":42.073808,
     "geom:longitude":-73.382733,
@@ -31,19 +32,28 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hTK8dndWQhJLCpHzavGB6_42.073808_-73.382733@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727561,
-    "wof:geomhash":"bbc5d2a565b82ced23a4fea017b1bb93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f1b74773f47c8dd5d4c6dffb3eb18aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555577,
+            "venue_id":672827901
+        }
+    ],
     "wof:id":672827901,
-    "wof:lastmodified":1472626063,
+    "wof:lastmodified":1492118451,
     "wof:name":"Barrett Tree Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555577,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

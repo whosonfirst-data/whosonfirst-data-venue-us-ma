@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.924293,41.7024,-70.924293,41.7024",
     "geom:latitude":41.7024,
     "geom:longitude":-70.924293,
@@ -55,17 +56,26 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1numyDAcHay4tNFGJ7gJtr_41.702400_-70.924293@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742384,
-    "wof:geomhash":"b9bafe1eaa23ec1c096d7e9741f605d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f135a966ae4c7e732540e12d6375843e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":689216109
+        }
+    ],
     "wof:id":689216109,
-    "wof:lastmodified":1472625607,
+    "wof:lastmodified":1492097702,
     "wof:name":"Aruajo Bros Plumbing & Heating",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

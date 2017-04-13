@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.876724,41.642112,-70.876724,41.642112",
     "geom:latitude":41.642112,
     "geom:longitude":-70.876724,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x3YGLtwq9XU7LAVPXWUcj_41.642112_-70.876724@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729340,
-    "wof:geomhash":"1bac9d8de4f8a6444ac0d49a889add35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4bc0099df43bab6a704d46dc9f4e08a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672915075
+        }
+    ],
     "wof:id":672915075,
-    "wof:lastmodified":1472626124,
+    "wof:lastmodified":1492117205,
     "wof:name":"G Bourne Knowles & Co Inc",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

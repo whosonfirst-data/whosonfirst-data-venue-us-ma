@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.139532,42.651694,-71.139532,42.651694",
     "geom:latitude":42.651694,
     "geom:longitude":-71.139532,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85855177,
+        102084463,
         85848097,
         102191575,
         404476285,
-        85633793,
-        85950785,
-        102084463,
-        85688645
+        85950785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461723282,
-    "wof:geomhash":"0e8c75278a2d2bdb19a585564483b351",
+    "wof:geomhash":"6c7020dc20db9bef3b72b92dbba30fdb",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85855177,
+            "region_id":85688645,
+            "venue_id":672629561
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +66,9 @@
         }
     ],
     "wof:id":672629561,
-    "wof:lastmodified":1472625879,
+    "wof:lastmodified":1492109998,
     "wof:name":"Center For Performing Arts",
-    "wof:parent_id":85848097,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

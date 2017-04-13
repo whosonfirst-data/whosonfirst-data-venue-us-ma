@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.008581,41.633702,-71.008581,41.633702",
     "geom:latitude":41.633702,
     "geom:longitude":-71.008581,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        420558919,
+        102191575,
+        404476169,
         85633793,
-        85857139,
-        102084407
+        85950685,
+        102084407,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,20 +48,23 @@
     },
     "wof:country":"US",
     "wof:created":1461717718,
-    "wof:geomhash":"d21b1d2cfc240cd144cb7bd532d38d7d",
+    "wof:geomhash":"3d90c7b86ab3c2dbc2914b6bbc63fb58",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084407,
-            "neighbourhood_id":85857139,
+            "localadmin_id":404476169,
+            "locality_id":85950685,
+            "neighbourhood_id":420558919,
             "region_id":85688645,
             "venue_id":672392911
         }
     ],
     "wof:id":672392911,
-    "wof:lastmodified":1472625663,
+    "wof:lastmodified":1492108072,
     "wof:name":"Carter Brothers Excavtg",
-    "wof:parent_id":85857139,
+    "wof:parent_id":420558919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

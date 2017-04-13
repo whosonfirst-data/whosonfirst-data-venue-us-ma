@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.273431,42.133466,-71.273431,42.133466",
     "geom:latitude":42.133466,
     "geom:longitude":-71.273431,
@@ -32,17 +33,26 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DOgytlML5zKzuE7K8F7HO_42.133466_-71.273431@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712218,
-    "wof:geomhash":"8ea3e42fc18de7aa6f998c2ea068bc00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b4ca4cf3ab8ca87e196198266312b85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672138611
+        }
+    ],
     "wof:id":672138611,
-    "wof:lastmodified":1472624917,
+    "wof:lastmodified":1492109804,
     "wof:name":"Walpole Self Storage",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

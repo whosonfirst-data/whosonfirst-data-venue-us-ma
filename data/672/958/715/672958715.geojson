@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.170966,42.43081,-71.170966,42.43081",
     "geom:latitude":42.43081,
     "geom:longitude":-71.170966,
@@ -35,7 +36,10 @@
         85633793,
         85950613,
         102084643,
-        85688645
+        85688645,
+        420523681,
+        404476393,
+        85950637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461730393,
-    "wof:geomhash":"18b670201d85a07ecbc61ccfc96d232b",
+    "wof:geomhash":"a45d12e20bfec2d6eb6e3d5337e021b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +58,22 @@
             "neighbourhood_id":85807137,
             "region_id":85688645,
             "venue_id":672958715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476393,
+            "locality_id":85950637,
+            "neighbourhood_id":420523681,
+            "region_id":85688645,
+            "venue_id":672958715
         }
     ],
     "wof:id":672958715,
-    "wof:lastmodified":1472626174,
+    "wof:lastmodified":1492115737,
     "wof:name":"Second Appearance",
-    "wof:parent_id":85807137,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

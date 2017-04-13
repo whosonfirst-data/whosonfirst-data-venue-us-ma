@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.894959,41.858381,-70.894959,41.858381",
     "geom:latitude":41.858381,
     "geom:longitude":-70.894959,
@@ -31,17 +32,26 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gvV83H85acNGXqckJfych_41.858381_-70.894959@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711900,
-    "wof:geomhash":"887006128a6fc4969e3ee30ff973bec5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fcf39cd4c97c623765358fbaeec609b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":656394625
+        }
+    ],
     "wof:id":656394625,
-    "wof:lastmodified":1472625044,
+    "wof:lastmodified":1492101499,
     "wof:name":"Kristy Tube & Fabrication",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

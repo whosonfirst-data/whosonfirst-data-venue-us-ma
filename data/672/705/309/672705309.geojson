@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.872691,42.087013,-70.872691,42.087013",
     "geom:latitude":42.087013,
     "geom:longitude":-70.872691,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PqkhwvT6vPu1gd103SW4R_42.087013_-70.872691@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724981,
-    "wof:geomhash":"26ae8d5c5758ae9a4b0e2ff28553c458",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a23223986c17038d047e29d3dcc2f261",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523867,
+            "venue_id":672705309
+        }
+    ],
     "wof:id":672705309,
-    "wof:lastmodified":1472625944,
+    "wof:lastmodified":1492106630,
     "wof:name":"Brown Diane Cvr",
     "wof:parent_id":420523867,
     "wof:placetype":"venue",

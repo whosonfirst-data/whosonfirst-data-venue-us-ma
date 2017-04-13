@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.902909,42.244451,-71.902909,42.244451",
     "geom:latitude":42.244451,
     "geom:longitude":-71.902909,
@@ -37,17 +38,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JgZkTuwe3SUpUUpmXn3IW_42.244451_-71.902909@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734240,
-    "wof:geomhash":"ed4afd165f49be8b752de4ec94102aba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aba0be5e68343004aa38ea7f1e2c7a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":673122227
+        }
+    ],
     "wof:id":673122227,
-    "wof:lastmodified":1472625337,
+    "wof:lastmodified":1492104004,
     "wof:name":"Duffy's Discount",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

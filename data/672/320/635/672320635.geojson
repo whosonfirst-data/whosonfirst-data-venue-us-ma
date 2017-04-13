@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.326239,42.156203,-72.326239,42.156203",
     "geom:latitude":42.156203,
     "geom:longitude":-72.326239,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85851933,
+        102191575,
+        404476365,
         85633793,
         85950385,
         102084627,
-        85851933
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1461716037,
-    "wof:geomhash":"91dd481b6400f2be9fdce93c382d346e",
+    "wof:geomhash":"59a589ce8c17c83ba94140699cec74d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084627,
+            "localadmin_id":404476365,
             "locality_id":85950385,
             "neighbourhood_id":85851933,
             "region_id":85688645,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":672320635,
-    "wof:lastmodified":1472625546,
+    "wof:lastmodified":1492111124,
     "wof:name":"Yankee Properties",
     "wof:parent_id":85851933,
     "wof:placetype":"venue",

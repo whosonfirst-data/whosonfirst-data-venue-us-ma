@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.793461,42.389638,-71.793461,42.389638",
     "geom:latitude":42.389638,
     "geom:longitude":-71.793461,
@@ -32,17 +33,26 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hMQQ9FtNcLebG6bmpUZ1e_42.389638_-71.793461@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717725,
-    "wof:geomhash":"e25cab18472f11b9033723aa13f52d52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb2c1466b2a4818cd660620dd0b5a30d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":672393207
+        }
+    ],
     "wof:id":672393207,
-    "wof:lastmodified":1472625657,
+    "wof:lastmodified":1492114207,
     "wof:name":"R E Chapman Co",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

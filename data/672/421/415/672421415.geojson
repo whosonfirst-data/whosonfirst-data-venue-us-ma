@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.091389,41.568639,-71.091389,41.568639",
     "geom:latitude":41.568639,
     "geom:longitude":-71.091389,
@@ -31,17 +32,26 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y18BMQ1MvqxaMd1d8cuBv_41.568639_-71.091389@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718441,
-    "wof:geomhash":"70f6612e3839cf1947cb8291e736197c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"974091b33902f46a9c0e1e451affd6bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672421415
+        }
+    ],
     "wof:id":672421415,
-    "wof:lastmodified":1472625688,
+    "wof:lastmodified":1492114976,
     "wof:name":"Westporter",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

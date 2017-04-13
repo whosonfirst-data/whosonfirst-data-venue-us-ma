@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.873402,41.691959,-70.873402,41.691959",
     "geom:latitude":41.691959,
     "geom:longitude":-70.873402,
@@ -32,17 +33,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476163,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aue0ns90oZeKaVOISuR6r_41.691959_-70.873402@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742381,
-    "wof:geomhash":"a75376b992660ebc0256c81ba30b4ab5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc3f988be231388221d9de23f1118df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476163,
+            "region_id":85688645,
+            "venue_id":689215993
+        }
+    ],
     "wof:id":689215993,
-    "wof:lastmodified":1472625624,
+    "wof:lastmodified":1492100499,
     "wof:name":"First Line Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.39837,42.602073,-72.39837,42.602073",
     "geom:latitude":42.602073,
     "geom:longitude":-72.39837,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CmHH3QgoHoMsRfnKHZGRo_42.602073_-72.398370@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722369,
-    "wof:geomhash":"a7e73cf7ef3937912d15e8db72834f03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05face2d386c0e57953ce171d4d46388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523501,
+            "venue_id":672590219
+        }
+    ],
     "wof:id":672590219,
-    "wof:lastmodified":1472625827,
+    "wof:lastmodified":1492110804,
     "wof:name":"E T & L Corp",
     "wof:parent_id":420523501,
     "wof:placetype":"venue",

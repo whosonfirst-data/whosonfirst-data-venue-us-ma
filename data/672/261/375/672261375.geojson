@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.310408,41.968149,-71.310408,41.968149",
     "geom:latitude":41.968149,
     "geom:longitude":-71.310408,
@@ -32,17 +33,32 @@
         "promoter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476133,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GWxIw0J7rC0ubG5J7MO9v_41.968149_-71.310408@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714835,
-    "wof:geomhash":"36e214e3a407297e0d723548c80efc35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af11ce0942c9edc266c16c2ccb8a44cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476133,
+            "region_id":85688645,
+            "venue_id":672261375
+        }
+    ],
     "wof:id":672261375,
-    "wof:lastmodified":1472625370,
+    "wof:lastmodified":1492112953,
     "wof:name":"MDT Bus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

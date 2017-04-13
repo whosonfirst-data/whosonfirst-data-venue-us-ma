@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.444655,42.260229,-72.444655,42.260229",
     "geom:latitude":42.260229,
     "geom:longitude":-72.444655,
@@ -32,17 +33,26 @@
         "disc"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_764bd19rfC35fuK7WQCMho_42.260229_-72.444655@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716498,
-    "wof:geomhash":"be1b85c9e341741c478440d8d88dee26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be6d989c2341c7c88d837fdcff0fe8bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672340169
+        }
+    ],
     "wof:id":672340169,
-    "wof:lastmodified":1472625563,
+    "wof:lastmodified":1492112630,
     "wof:name":"Copywrite Data Svc",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

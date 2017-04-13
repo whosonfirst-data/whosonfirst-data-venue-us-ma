@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.768244,42.257602,-71.768244,42.257602",
     "geom:latitude":42.257602,
     "geom:longitude":-71.768244,
@@ -41,7 +42,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85806455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461714494,
-    "wof:geomhash":"a104e5aa27c81f8b50431dc0b73e05fe",
+    "wof:geomhash":"1fa235f103b758a4ae9d78291facc053",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,22 @@
             "neighbourhood_id":420524083,
             "region_id":85688645,
             "venue_id":672244257
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85806455,
+            "region_id":85688645,
+            "venue_id":672244257
         }
     ],
     "wof:id":672244257,
-    "wof:lastmodified":1472625337,
+    "wof:lastmodified":1492118947,
     "wof:name":"Tomaiolo Mechanical",
-    "wof:parent_id":420524083,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

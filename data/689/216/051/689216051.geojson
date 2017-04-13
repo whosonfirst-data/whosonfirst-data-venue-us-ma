@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.911332,41.75904,-70.911332,41.75904",
     "geom:latitude":41.75904,
     "geom:longitude":-70.911332,
@@ -45,17 +46,26 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BwCFL4KNfd3Mpgt4JohT1_41.759040_-70.911332@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742382,
-    "wof:geomhash":"40965c4c691f162266f7e2882c9175cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4187c036a570083a65aa3bb3a02c5854",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":689216051
+        }
+    ],
     "wof:id":689216051,
-    "wof:lastmodified":1472625601,
+    "wof:lastmodified":1492097712,
     "wof:name":"Keystone Carpentry Inc",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

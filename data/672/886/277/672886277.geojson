@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.706982,41.930956,-70.706982,41.930956",
     "geom:latitude":41.930956,
     "geom:longitude":-70.706982,
@@ -31,17 +32,26 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Fg2TbHCTAjMVxdtWAcseD_41.930956_-70.706982@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728750,
-    "wof:geomhash":"c1d58d8941aa39552af5236614ef814c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23b2ba103a184030e525baee7e498379",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672886277
+        }
+    ],
     "wof:id":672886277,
-    "wof:lastmodified":1472626104,
+    "wof:lastmodified":1492117352,
     "wof:name":"S & S Transport",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

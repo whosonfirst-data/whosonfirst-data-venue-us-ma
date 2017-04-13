@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.047729,41.919552,-71.047729,41.919552",
     "geom:latitude":41.919552,
     "geom:longitude":-71.047729,
@@ -31,17 +32,34 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476139,
+        85633793,
+        85950683,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bqZTUSbrcp5zxAI7AYGn9_41.919552_-71.047729@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742480,
-    "wof:geomhash":"2437fc3fd16bad115c751ad006490337",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b543380355e33916a6403ddae16f8bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476139,
+            "locality_id":85950683,
+            "region_id":85688645,
+            "venue_id":689220133
+        }
+    ],
     "wof:id":689220133,
-    "wof:lastmodified":1472625610,
+    "wof:lastmodified":1492098360,
     "wof:name":"Michael Emard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

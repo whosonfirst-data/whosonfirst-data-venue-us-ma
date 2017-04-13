@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.124661,42.135189,-71.124661,42.135189",
     "geom:latitude":42.135189,
     "geom:longitude":-71.124661,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lGuMOr3DVwpL1908BJ5sL_42.135189_-71.124661@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712610,
-    "wof:geomhash":"138d00754c00bef3783b6fab7f11574b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1940f7778ea5a50150e740bebdc3704d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672158101
+        }
+    ],
     "wof:id":672158101,
-    "wof:lastmodified":1472624979,
+    "wof:lastmodified":1492114508,
     "wof:name":"Route 138 Autobody",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

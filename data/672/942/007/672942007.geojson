@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.890874,41.882054,-70.890874,41.882054",
     "geom:latitude":41.882054,
     "geom:longitude":-70.890874,
@@ -32,19 +33,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yGu2VceYQHfA31k2LtceO_41.882054_-70.890874@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729911,
-    "wof:geomhash":"c71e2bcb58d8fb370a006c3c267fdbf8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8cfdb1a5419fef186b50827c30b08a29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672942007
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672942007
+        }
+    ],
     "wof:id":672942007,
-    "wof:lastmodified":1472626147,
+    "wof:lastmodified":1492106327,
     "wof:name":"R & S Auto Sales",
-    "wof:parent_id":420523819,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

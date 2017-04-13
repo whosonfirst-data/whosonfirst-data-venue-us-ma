@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.476244,42.07533,-71.476244,42.07533",
     "geom:latitude":42.07533,
     "geom:longitude":-71.476244,
@@ -32,19 +33,44 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420523815,
+        102191575,
+        404476423,
+        85633793,
+        85950815,
+        102084403,
+        85688645,
+        420523777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QwPkSS9VaL86WPeCPnjWB_42.075330_-71.476244@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715876,
-    "wof:geomhash":"5859a95f3bc8770df7f65cbb5b33ae1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8f71413466f15427f116875d6435896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476423,
+            "locality_id":85950815,
+            "neighbourhood_id":420523815,
+            "region_id":85688645,
+            "venue_id":672313207
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523777,
+            "venue_id":672313207
+        }
+    ],
     "wof:id":672313207,
-    "wof:lastmodified":1472625513,
+    "wof:lastmodified":1492115203,
     "wof:name":"Energy Electric Co",
-    "wof:parent_id":420523777,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.071181,42.039101,-71.071181,42.039101",
     "geom:latitude":42.039101,
     "geom:longitude":-71.071181,
@@ -28,19 +29,28 @@
     "sg:postcode":"02375",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XJp0PmD08EZ1SmKO6sAVm_42.039101_-71.071181@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716663,
-    "wof:geomhash":"cffa4a6a0facc1eecdceb4601d477ef7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3c986bf691201c5cbe356155706db1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":672347265
+        }
+    ],
     "wof:id":672347265,
-    "wof:lastmodified":1472625580,
+    "wof:lastmodified":1492116632,
     "wof:name":"Silva",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

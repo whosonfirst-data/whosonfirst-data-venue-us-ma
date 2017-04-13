@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.074811,42.037886,-71.074811,42.037886",
     "geom:latitude":42.037886,
     "geom:longitude":-71.074811,
@@ -31,19 +32,28 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NbyZVomoIoMBM7IziqiFT_42.037886_-71.074811@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718476,
-    "wof:geomhash":"5a3bd4e73e2144378834fa3999dca4e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f89c31c4b38487125c855b7bbb7bcfc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":672422869
+        }
+    ],
     "wof:id":672422869,
-    "wof:lastmodified":1472625691,
+    "wof:lastmodified":1492107621,
     "wof:name":"Tillicoultry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

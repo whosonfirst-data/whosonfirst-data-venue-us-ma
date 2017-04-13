@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.6468,41.553432,-70.6468,41.553432",
     "geom:latitude":41.553432,
     "geom:longitude":-70.6468,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85843561,
-        102084379
+        85848833,
+        102084379,
+        85843561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461727572,
-    "wof:geomhash":"de9dd734af1824bfb5035b545ed8e786",
+    "wof:geomhash":"c4ab3e7e4450a5f1d4e07a1984c749ae",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084379,
+            "neighbourhood_id":85848833,
+            "region_id":85688645,
+            "venue_id":672828403
+        },
         {
             "country_id":85633793,
             "county_id":102084379,
@@ -54,9 +63,9 @@
         }
     ],
     "wof:id":672828403,
-    "wof:lastmodified":1472626055,
+    "wof:lastmodified":1492109320,
     "wof:name":"Village Printer",
-    "wof:parent_id":85843561,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

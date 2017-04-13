@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.366134,41.904516,-71.366134,41.904516",
     "geom:latitude":41.904516,
     "geom:longitude":-71.366134,
@@ -33,11 +34,18 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85803891,
+        102191575,
+        404476165,
         85633793,
         85950363,
         102084407,
-        85803891
+        85688645,
+        85831379,
+        404488361,
+        101720591,
+        102081597,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +53,33 @@
     },
     "wof:country":"US",
     "wof:created":1461713258,
-    "wof:geomhash":"8ff7fe3e9a8a66d99241822c01bae734",
+    "wof:geomhash":"2c2021aa1f5fc87eacf6d3bb09f6a280",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084407,
+            "localadmin_id":404476165,
             "locality_id":85950363,
             "neighbourhood_id":85803891,
             "region_id":85688645,
             "venue_id":672186427
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488361,
+            "locality_id":101720591,
+            "neighbourhood_id":85831379,
+            "region_id":85688509,
+            "venue_id":672186427
         }
     ],
     "wof:id":672186427,
-    "wof:lastmodified":1472625137,
+    "wof:lastmodified":1492116561,
     "wof:name":"Looney Tuned Auto Sales Inc",
-    "wof:parent_id":85803891,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

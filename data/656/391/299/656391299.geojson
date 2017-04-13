@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.765507,42.034202,-70.765507,42.034202",
     "geom:latitude":42.034202,
     "geom:longitude":-70.765507,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NGW0Wr2bvhie975PREoLr_42.034202_-70.765507@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711828,
-    "wof:geomhash":"6043181f1541f8f62f357cc2225d1650",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1cdc97a674ce094bdafb802cff88bd84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":656391299
+        }
+    ],
     "wof:id":656391299,
-    "wof:lastmodified":1472625019,
+    "wof:lastmodified":1492102065,
     "wof:name":"Adam Morse Trucking",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

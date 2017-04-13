@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.426304,42.256918,-71.426304,42.256918",
     "geom:latitude":42.256918,
     "geom:longitude":-71.426304,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EyQ0Mx4ew0yZhbEN3UDud_42.256918_-71.426304@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719846,
-    "wof:geomhash":"ffb5481e6e546a1c560d31a0ece1c193",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad38e803e089c45de7bca3aa95e78a64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672476497
+        }
+    ],
     "wof:id":672476497,
-    "wof:lastmodified":1472625739,
+    "wof:lastmodified":1492119305,
     "wof:name":"A J Wright",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

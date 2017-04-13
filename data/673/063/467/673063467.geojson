@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.908789,42.24629,-71.908789,42.24629",
     "geom:latitude":42.24629,
     "geom:longitude":-71.908789,
@@ -31,17 +32,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_550szTYskKRbqQprwsxKM3_42.246130_-71.907939@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733017,
-    "wof:geomhash":"7a8c052b14ce84af297b2f6c68adb34d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47a10662be8c46975f27460852d56985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":673063467
+        }
+    ],
     "wof:id":673063467,
-    "wof:lastmodified":1472625163,
+    "wof:lastmodified":1492105386,
     "wof:name":"Leicester House of Pizza",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

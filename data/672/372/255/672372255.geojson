@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.737729,42.558888,-72.737729,42.558888",
     "geom:latitude":42.558888,
     "geom:longitude":-72.737729,
@@ -31,17 +32,26 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523541
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KbFzdfFEQctXn8bQenW2j_42.558888_-72.737729@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717254,
-    "wof:geomhash":"bcfb02d59660ea92d8903089fce6c63a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b59a2f4d34ae7c6011605272345b28a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523541,
+            "venue_id":672372255
+        }
+    ],
     "wof:id":672372255,
-    "wof:lastmodified":1472625642,
+    "wof:lastmodified":1492110482,
     "wof:name":"A 1 Overhead Door Inc",
     "wof:parent_id":420523541,
     "wof:placetype":"venue",

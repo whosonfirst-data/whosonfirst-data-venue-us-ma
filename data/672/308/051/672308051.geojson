@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.87165,41.70618,-70.87165,41.70618",
     "geom:latitude":41.70618,
     "geom:longitude":-70.87165,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5448ko8JBCcpb9ttvSMpBk_41.706180_-70.871650@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715761,
-    "wof:geomhash":"d1bf18a61ecee8b1c0f3ee114502ee4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46e946c47cbf00d33ed919480ac1bc56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672308051
+        }
+    ],
     "wof:id":672308051,
-    "wof:lastmodified":1472625501,
+    "wof:lastmodified":1492109379,
     "wof:name":"Farland Enterprises Inc",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

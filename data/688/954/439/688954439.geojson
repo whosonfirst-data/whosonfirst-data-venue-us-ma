@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101898,42.133999,-71.101898,42.133999",
     "geom:latitude":42.133999,
     "geom:longitude":-71.101898,
@@ -31,17 +32,26 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LJlugWmAxSkghHKCNCHcb_42.133999_-71.101898@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736334,
-    "wof:geomhash":"3a2ba69e3be2af7e343514cc59214e6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97738550fe2f255415eda3005614cdc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688954439
+        }
+    ],
     "wof:id":688954439,
-    "wof:lastmodified":1472625147,
+    "wof:lastmodified":1492120880,
     "wof:name":"Windsor Tire Co Inc",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

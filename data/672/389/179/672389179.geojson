@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.948615,41.705417,-70.948615,41.705417",
     "geom:latitude":41.705417,
     "geom:longitude":-70.948615,
@@ -38,7 +39,10 @@
         85633793,
         85950667,
         102084407,
-        85688645
+        85688645,
+        85868445,
+        404476131,
+        85950367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461717624,
-    "wof:geomhash":"924f33380cd57f52c74fb3d62884fb44",
+    "wof:geomhash":"1d75a99797dd0686df04e9652c39c3a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +61,22 @@
             "neighbourhood_id":85812593,
             "region_id":85688645,
             "venue_id":672389179
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476131,
+            "locality_id":85950367,
+            "neighbourhood_id":85868445,
+            "region_id":85688645,
+            "venue_id":672389179
         }
     ],
     "wof:id":672389179,
-    "wof:lastmodified":1472625654,
+    "wof:lastmodified":1492115165,
     "wof:name":"Professional Repossession Svc",
-    "wof:parent_id":85812593,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.307121,42.320259,-71.307121,42.320259",
     "geom:latitude":42.320259,
     "geom:longitude":-71.307121,
@@ -40,17 +41,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476465,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4asH9cMYf65krJqYLe3TSZ_42.320259_-71.307121@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741838,
-    "wof:geomhash":"0b2486fabc343cb700ee1358efea9039",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1def9f6c3b2d059b46f3ce9595bc2c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476465,
+            "region_id":85688645,
+            "venue_id":689190005
+        }
+    ],
     "wof:id":689190005,
-    "wof:lastmodified":1472625556,
+    "wof:lastmodified":1492099434,
     "wof:name":"Market Edge Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

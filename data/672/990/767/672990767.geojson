@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.023614,42.682794,-72.023614,42.682794",
     "geom:latitude":42.682794,
     "geom:longitude":-72.023614,
@@ -31,17 +32,26 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FqfyWVCgvqFa1r2zqNTLV_42.682794_-72.023614@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731344,
-    "wof:geomhash":"5fcb3a30110155ed9ad7a01826cc8775",
-    "wof:hierarchy":[],
+    "wof:geomhash":"326c7f3573ba4382023481736626a751",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":672990767
+        }
+    ],
     "wof:id":672990767,
-    "wof:lastmodified":1472626202,
+    "wof:lastmodified":1492106231,
     "wof:name":"Massachusetts Vet Mem Cmtry",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

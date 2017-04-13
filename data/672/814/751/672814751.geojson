@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.99253,42.718202,-70.99253,42.718202",
     "geom:latitude":42.718202,
     "geom:longitude":-70.99253,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6daGohk68Lxj4pUimiHB7P_42.718202_-70.992530@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727295,
-    "wof:geomhash":"4538eb9e5217e198f1661402933bbfa3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14b732a48bd45f5424cdbb7e07282099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672814751
+        }
+    ],
     "wof:id":672814751,
-    "wof:lastmodified":1472626048,
+    "wof:lastmodified":1492118431,
     "wof:name":"Family Care Assoc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

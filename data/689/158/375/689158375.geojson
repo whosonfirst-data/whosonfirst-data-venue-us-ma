@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.545502,41.815899,-70.545502,41.815899",
     "geom:latitude":41.815899,
     "geom:longitude":-70.545502,
@@ -32,17 +33,26 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AOfsfj9n4JobypMYvUtTS_41.815899_-70.545502@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741137,
-    "wof:geomhash":"86abbb33f1a2a5cccce11874a93b47a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e62502aa485b566fba7c33d1d0d1009",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":689158375
+        }
+    ],
     "wof:id":689158375,
-    "wof:lastmodified":1472625503,
+    "wof:lastmodified":1492099864,
     "wof:name":"Countrywide Home Loans - CLOSED",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

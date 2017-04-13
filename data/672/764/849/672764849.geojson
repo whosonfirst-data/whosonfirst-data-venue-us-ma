@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.877073,42.334917,-71.877073,42.334917",
     "geom:latitude":42.334917,
     "geom:longitude":-71.877073,
@@ -31,17 +32,26 @@
         "machine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MXMsFQaKH8elFMDHWBGBk_42.334917_-71.877073@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726254,
-    "wof:geomhash":"04131ea43f6429164fb9587290a81420",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fdc82397fe0879efcfa22eaf426da3d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":672764849
+        }
+    ],
     "wof:id":672764849,
-    "wof:lastmodified":1472626004,
+    "wof:lastmodified":1492106561,
     "wof:name":"Manufacturing Systems Inc",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.730615,42.381242,-72.730615,42.381242",
     "geom:latitude":42.381242,
     "geom:longitude":-72.730615,
@@ -34,17 +35,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IPgxDsvUB4r2Cl2UUWnY3_42.381242_-72.730615@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728663,
-    "wof:geomhash":"d4784477c67430d4a9b2a3742cad2e63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de105974bfdf31fc355202f98ef835cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523635,
+            "venue_id":672881745
+        }
+    ],
     "wof:id":672881745,
-    "wof:lastmodified":1472626105,
+    "wof:lastmodified":1492113342,
     "wof:name":"Attentus Inc",
     "wof:parent_id":420523635,
     "wof:placetype":"venue",

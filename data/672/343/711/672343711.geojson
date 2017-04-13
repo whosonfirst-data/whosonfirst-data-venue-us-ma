@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.41673,42.340649,-71.41673,42.340649",
     "geom:latitude":42.340649,
     "geom:longitude":-71.41673,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820523,
+        85847249,
         102191575,
         404476489,
         85633793,
         85950629,
         102084643,
-        85688645
+        85688645,
+        85820523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461716579,
-    "wof:geomhash":"547ef0ef5f03e580900329d6909e4754",
+    "wof:geomhash":"7db781549c100baf50b008bd10539767",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476489,
+            "locality_id":85950629,
+            "neighbourhood_id":85847249,
+            "region_id":85688645,
+            "venue_id":672343711
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":672343711,
-    "wof:lastmodified":1472625586,
+    "wof:lastmodified":1492108736,
     "wof:name":"Mc Cullough Plumbing & Heating",
-    "wof:parent_id":85820523,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

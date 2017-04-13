@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.533053,41.874043,-70.533053,41.874043",
     "geom:latitude":41.874043,
     "geom:longitude":-70.533053,
@@ -34,17 +35,26 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FF0PHJrzq9gbC2uT1qEBA_41.874043_-70.533053@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732062,
-    "wof:geomhash":"f7d2b94d44c883761b6a3134f2e78a87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7c242fc24cf50684b2f9bb5856881b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523829,
+            "venue_id":673020023
+        }
+    ],
     "wof:id":673020023,
-    "wof:lastmodified":1472624985,
+    "wof:lastmodified":1492102611,
     "wof:name":"Innovative Services",
     "wof:parent_id":420523829,
     "wof:placetype":"venue",

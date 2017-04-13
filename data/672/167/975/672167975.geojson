@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.863559,42.126687,-70.863559,42.126687",
     "geom:latitude":42.126687,
     "geom:longitude":-70.863559,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OTMTbwy94RTP6ETWcwHPQ_42.126687_-70.863559@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712859,
-    "wof:geomhash":"da76fcef6af312a2f1e39d663439deb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38ac475fa74348d2294d20cc7cf15fa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672167975
+        }
+    ],
     "wof:id":672167975,
-    "wof:lastmodified":1472625042,
+    "wof:lastmodified":1492106422,
     "wof:name":"Hammer Nail Carpentry",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

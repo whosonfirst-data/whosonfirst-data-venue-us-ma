@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.650223,42.13842,-71.650223,42.13842",
     "geom:latitude":42.13842,
     "geom:longitude":-71.650223,
@@ -33,17 +34,26 @@
         "conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524169
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ibtfUlROpG9Xgy6m5mCJa_42.138420_-71.650223@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715987,
-    "wof:geomhash":"b26a878bd9068e27f226c4acd4096af2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"823bf620c71a80f535d2f2b80fad3892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524169,
+            "venue_id":672319051
+        }
+    ],
     "wof:id":672319051,
-    "wof:lastmodified":1472625539,
+    "wof:lastmodified":1492107683,
     "wof:name":"Acsolution",
     "wof:parent_id":420524169,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.507384,41.684183,-70.507384,41.684183",
     "geom:latitude":41.684183,
     "geom:longitude":-70.507384,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_384KmnQtYqBLuDSdKRaAzd_41.684183_-70.507384@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712633,
-    "wof:geomhash":"7c872f862fc70b14dde0cd115e578059",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ebd490dda6a71f643dd6c2414e94c41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672158921
+        }
+    ],
     "wof:id":672158921,
-    "wof:lastmodified":1472625002,
+    "wof:lastmodified":1492114516,
     "wof:name":"Dependable Plumbers",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

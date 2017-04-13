@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.901364,42.15918,-71.901364,42.15918",
     "geom:latitude":42.15918,
     "geom:longitude":-71.901364,
@@ -33,8 +34,9 @@
     "sg:website":"www.northstarrecognition.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420524189,
+        85688645,
         85814689,
         102084655
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461724258,
-    "wof:geomhash":"e738b9d4ca04526359bc061ce3175ff3",
+    "wof:geomhash":"fa04ee09e9a308965af6e7050ed0237b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524189,
+            "venue_id":672674487
+        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":672674487,
-    "wof:lastmodified":1472625920,
+    "wof:lastmodified":1492108347,
     "wof:name":"Northstar Recognition Inc",
-    "wof:parent_id":85814689,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

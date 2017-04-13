@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.731413,41.723617,-70.731413,41.723617",
     "geom:latitude":41.723617,
     "geom:longitude":-70.731413,
@@ -33,17 +34,26 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PdxgW2YR3kBUf8xxWRMLr_41.723734_-70.731420@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733085,
-    "wof:geomhash":"0ca0851127fb1227bafe65ac9d2c958e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8da3d0ec7cdc8d654b66b6473231e33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523897,
+            "venue_id":673067171
+        }
+    ],
     "wof:id":673067171,
-    "wof:lastmodified":1472625147,
+    "wof:lastmodified":1492103772,
     "wof:name":"Galerius Collection",
     "wof:parent_id":420523897,
     "wof:placetype":"venue",

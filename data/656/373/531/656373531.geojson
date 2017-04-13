@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.307455,42.073362,-73.307455,42.073362",
     "geom:latitude":42.073362,
     "geom:longitude":-73.307455,
@@ -33,17 +34,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15qma502nbM2P0jTRCqh7R_42.073362_-73.307455@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711448,
-    "wof:geomhash":"c963f9844f570e4e727b0f19a9710219",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6aa76abcde2dd5b446b405ca91770bae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":656373531
+        }
+    ],
     "wof:id":656373531,
-    "wof:lastmodified":1472624999,
+    "wof:lastmodified":1492102308,
     "wof:name":"Fellerman Glass Works",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

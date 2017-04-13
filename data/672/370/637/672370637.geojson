@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.785613,41.919885,-70.785613,41.919885",
     "geom:latitude":41.919885,
     "geom:longitude":-70.785613,
@@ -33,17 +34,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50rD6hBdKbzHbmP8w6Lzrs_41.919885_-70.785613@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717217,
-    "wof:geomhash":"a3731aa344b00cb9d2344791c2d6e167",
-    "wof:hierarchy":[],
+    "wof:geomhash":"367175f2fcc59971bf3b7afb05d16bc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672370637
+        }
+    ],
     "wof:id":672370637,
-    "wof:lastmodified":1472625644,
+    "wof:lastmodified":1492107328,
     "wof:name":"Burr Construction",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

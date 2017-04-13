@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.88276,42.08948,-70.88276,42.08948",
     "geom:latitude":42.08948,
     "geom:longitude":-70.88276,
@@ -33,17 +34,26 @@
     ],
     "sg:website":"http://www.aeengineering.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BORAkGwhDe3kiFQOqwO2B_42.089480_-70.882760@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741036,
-    "wof:geomhash":"750c9e5929d937c8e931810e8dc53659",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1040288a069557cdc56a65cba4412bdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":689154151
+        }
+    ],
     "wof:id":689154151,
-    "wof:lastmodified":1472625493,
+    "wof:lastmodified":1492098557,
     "wof:name":"Ae Engineering",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

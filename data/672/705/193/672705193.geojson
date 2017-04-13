@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.812699,42.166092,-71.812699,42.166092",
     "geom:latitude":42.166092,
     "geom:longitude":-71.812699,
@@ -31,17 +32,26 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cVumPIFHm7T63hJlM2hTF_42.166092_-71.812699@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724979,
-    "wof:geomhash":"1c5d824617c185b5e01747653f796c7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30a6b853f87f60204cd8e7d5f5c58f8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672705193
+        }
+    ],
     "wof:id":672705193,
-    "wof:lastmodified":1472625941,
+    "wof:lastmodified":1492106628,
     "wof:name":"Hi Tech Billing & Consulting",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

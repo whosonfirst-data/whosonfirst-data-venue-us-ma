@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.368292,42.678122,-71.368292,42.678122",
     "geom:latitude":42.678122,
     "geom:longitude":-71.368292,
@@ -31,17 +32,26 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2m4VHXuUUgHjJl40FN3Hd2_42.678122_-71.368292@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720248,
-    "wof:geomhash":"fc92ef0abade5e075e2cdfc99f9b5585",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2b607f73ed320b086952c189e0fe3b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523675,
+            "venue_id":672493183
+        }
+    ],
     "wof:id":672493183,
-    "wof:lastmodified":1472625752,
+    "wof:lastmodified":1492106204,
     "wof:name":"Dracut Taxi",
     "wof:parent_id":420523675,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.4843,42.392722,-71.4843,42.392722",
     "geom:latitude":42.392722,
     "geom:longitude":-71.4843,
@@ -42,7 +43,8 @@
         85688645,
         85633793,
         85841823,
-        102084643
+        102084643,
+        85891531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461731595,
-    "wof:geomhash":"d6aa9e6a2b1ee531be8016c7a23ea79f",
+    "wof:geomhash":"1c07709626f7bc5813d4f066d87bddf7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +60,19 @@
             "neighbourhood_id":85841823,
             "region_id":85688645,
             "venue_id":673000853
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85891531,
+            "region_id":85688645,
+            "venue_id":673000853
         }
     ],
     "wof:id":673000853,
-    "wof:lastmodified":1472624942,
+    "wof:lastmodified":1492104434,
     "wof:name":"Auto Equipment Specialties Inc",
-    "wof:parent_id":85841823,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

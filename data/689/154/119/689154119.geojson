@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.877007,42.10598,-70.877007,42.10598",
     "geom:latitude":42.10598,
     "geom:longitude":-70.877007,
@@ -33,17 +34,26 @@
         "apparatus"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IlyQOEbObmLoAlIrqqMKe_42.105980_-70.877007@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741035,
-    "wof:geomhash":"892a7588e1442093a390e908a16fccff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ee28a2a7ef6efe236962238c45ce766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":689154119
+        }
+    ],
     "wof:id":689154119,
-    "wof:lastmodified":1472625493,
+    "wof:lastmodified":1492098562,
     "wof:name":"Bmi Surplus Inc",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

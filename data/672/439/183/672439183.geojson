@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.733691,42.229005,-71.733691,42.229005",
     "geom:latitude":42.229005,
     "geom:longitude":-71.733691,
@@ -32,17 +33,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QGa8683keLChZk8YM2Ba1_42.229005_-71.733691@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718881,
-    "wof:geomhash":"65b08e57036c1cba999ba968667c2076",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb613e8962188031686512fadb5cdfb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524183,
+            "venue_id":672439183
+        }
+    ],
     "wof:id":672439183,
-    "wof:lastmodified":1472625702,
+    "wof:lastmodified":1492119285,
     "wof:name":"PCC Valves & Controls",
     "wof:parent_id":420524183,
     "wof:placetype":"venue",

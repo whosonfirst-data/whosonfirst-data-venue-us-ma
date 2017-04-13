@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.922652,42.46967,-70.922652,42.46967",
     "geom:latitude":42.46967,
     "geom:longitude":-70.922652,
@@ -27,13 +28,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816553,
+        420523431,
         102191575,
         404476207,
         85633793,
         85950413,
         102084463,
-        85688645
+        85688645,
+        85816553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +43,18 @@
     },
     "wof:country":"US",
     "wof:created":1461732451,
-    "wof:geomhash":"fb5a363084ae23ec16cd576211cd50e2",
+    "wof:geomhash":"b31d47b6256b13de32f1e99ce6a522c9",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476207,
+            "locality_id":85950413,
+            "neighbourhood_id":420523431,
+            "region_id":85688645,
+            "venue_id":673036321
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +67,9 @@
         }
     ],
     "wof:id":673036321,
-    "wof:lastmodified":1472625062,
+    "wof:lastmodified":1492104944,
     "wof:name":"Masters Premiums",
-    "wof:parent_id":85816553,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

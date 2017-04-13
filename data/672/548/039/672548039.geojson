@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.710049,42.507328,-72.710049,42.507328",
     "geom:latitude":42.507328,
     "geom:longitude":-72.710049,
@@ -31,17 +32,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xKJJHQenYUE8Oq3BvKrE6_42.507328_-72.710049@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721424,
-    "wof:geomhash":"45c8325a5d905d154d835813fe1c12d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2485fbaf283dd7d9ba5f53774c7e7d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523511,
+            "venue_id":672548039
+        }
+    ],
     "wof:id":672548039,
-    "wof:lastmodified":1472625799,
+    "wof:lastmodified":1492118105,
     "wof:name":"Sunset Garage",
     "wof:parent_id":420523511,
     "wof:placetype":"venue",

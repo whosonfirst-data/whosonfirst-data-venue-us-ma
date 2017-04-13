@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.761591,41.915254,-70.761591,41.915254",
     "geom:latitude":41.915254,
     "geom:longitude":-70.761591,
@@ -43,17 +44,26 @@
         "limo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pOwVsbp8MSIUfuQqKbsMI_41.915254_-70.761591@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740997,
-    "wof:geomhash":"049986b945a14c9a13f52703758bad1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab8bf15104d6390ecaf609f5bde2b993",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152731
+        }
+    ],
     "wof:id":689152731,
-    "wof:lastmodified":1472625515,
+    "wof:lastmodified":1492101001,
     "wof:name":"Pilgrim Coach and Limo Service",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.811461,42.016598,-70.811461,42.016598",
     "geom:latitude":42.016598,
     "geom:longitude":-70.811461,
@@ -32,17 +33,26 @@
         "infrared"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ggSfmeQGqdXns8IRrGnyn_42.016598_-70.811461@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717148,
-    "wof:geomhash":"e5ae8592795e857ad0ca3db1e233255e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3e80d550f5298499987ca5d87de4c18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672367549
+        }
+    ],
     "wof:id":672367549,
-    "wof:lastmodified":1472625638,
+    "wof:lastmodified":1492114287,
     "wof:name":"Spectrum Services Co",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

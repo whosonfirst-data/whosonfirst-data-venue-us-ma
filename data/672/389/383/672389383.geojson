@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.738318,42.228689,-71.738318,42.228689",
     "geom:latitude":42.228689,
     "geom:longitude":-71.738318,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UxtxOXdhKPLr5xoEmZxlC_42.228689_-71.738318@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717632,
-    "wof:geomhash":"c4938ef33b029152e819e6ccdd31e51b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df474ac2ac98769410fe0aea1e7298ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524183,
+            "venue_id":672389383
+        }
+    ],
     "wof:id":672389383,
-    "wof:lastmodified":1472625658,
+    "wof:lastmodified":1492115160,
     "wof:name":"Massachusetts Turnpike Athrty",
     "wof:parent_id":420524183,
     "wof:placetype":"venue",

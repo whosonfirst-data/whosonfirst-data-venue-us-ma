@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.698539,41.91862,-70.698539,41.91862",
     "geom:latitude":41.91862,
     "geom:longitude":-70.698539,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TJstrpSn6MYxQSxF95XNq_41.918620_-70.698539@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726066,
-    "wof:geomhash":"9cff72b5a84b4ae1461f888c07081e10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4c073cad43034ed2ec2b649edda201d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672756197
+        }
+    ],
     "wof:id":672756197,
-    "wof:lastmodified":1472625980,
+    "wof:lastmodified":1492115813,
     "wof:name":"Northeast Construction",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

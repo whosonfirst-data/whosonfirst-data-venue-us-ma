@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.011289,42.726953,-71.011289,42.726953",
     "geom:latitude":42.726953,
     "geom:longitude":-71.011289,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UQF83uloMKrxc2uQGSUAf_42.726953_-71.011289@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731537,
-    "wof:geomhash":"54280bd5504220ba1a5873f93a4023b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7964d553b5daff4be1e8db5d3a494fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672997971
+        }
+    ],
     "wof:id":672997971,
-    "wof:lastmodified":1472626207,
+    "wof:lastmodified":1492115169,
     "wof:name":"D'Amato & D'Amato",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

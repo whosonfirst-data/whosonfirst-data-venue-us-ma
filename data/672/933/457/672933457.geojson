@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.824838,42.255424,-71.824838,42.255424",
     "geom:latitude":42.255424,
     "geom:longitude":-71.824838,
@@ -29,14 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805121,
+        85881855,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
         85688645,
-        85881855
+        85805121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +45,8 @@
     },
     "wof:country":"US",
     "wof:created":1461729717,
-    "wof:geomhash":"6fc731ae09bfe57966ffbf6f12907c5e",
+    "wof:geomhash":"51f69e5d2adb4b39480f35b3607163ca",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476639,
-            "locality_id":85950375,
-            "neighbourhood_id":85805121,
-            "region_id":85688645,
-            "venue_id":672933457
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +56,22 @@
             "neighbourhood_id":85881855,
             "region_id":85688645,
             "venue_id":672933457
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85805121,
+            "region_id":85688645,
+            "venue_id":672933457
         }
     ],
     "wof:id":672933457,
-    "wof:lastmodified":1472626150,
+    "wof:lastmodified":1492109512,
     "wof:name":"Park Avenue Laundromat",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

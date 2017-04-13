@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.590463,41.456541,-70.590463,41.456541",
     "geom:latitude":41.456541,
     "geom:longitude":-70.590463,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85817121,
+        102191575,
+        404475937,
         85633793,
-        85839269,
-        102084629
+        85950437,
+        102084629,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,20 +44,23 @@
     },
     "wof:country":"US",
     "wof:created":1461730605,
-    "wof:geomhash":"6798c7512f1bfb00215bca6f129f1453",
+    "wof:geomhash":"6fa96f4a0129f485e99b5a635980a451",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084629,
-            "neighbourhood_id":85839269,
+            "localadmin_id":404475937,
+            "locality_id":85950437,
+            "neighbourhood_id":85817121,
             "region_id":85688645,
             "venue_id":672964805
         }
     ],
     "wof:id":672964805,
-    "wof:lastmodified":1472626178,
+    "wof:lastmodified":1492108371,
     "wof:name":"Tisbury Wharf Co Inc",
-    "wof:parent_id":85839269,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

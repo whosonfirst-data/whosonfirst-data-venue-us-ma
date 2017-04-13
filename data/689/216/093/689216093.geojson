@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.912621,41.73624,-70.912621,41.73624",
     "geom:latitude":41.73624,
     "geom:longitude":-70.912621,
@@ -32,17 +33,26 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fVDtHpn4ss4t4443H0jBo_41.736240_-70.912621@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742383,
-    "wof:geomhash":"dacac1c60a8102c1a560d78e490a4604",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73684ee4ce57829b779e5164c2853c5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":689216093
+        }
+    ],
     "wof:id":689216093,
-    "wof:lastmodified":1472625605,
+    "wof:lastmodified":1492097708,
     "wof:name":"Nof Consultants",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

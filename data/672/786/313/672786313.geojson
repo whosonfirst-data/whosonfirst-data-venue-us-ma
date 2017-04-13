@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.527693,42.224533,-72.527693,42.224533",
     "geom:latitude":42.224533,
     "geom:longitude":-72.527693,
@@ -33,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523647,
+        85688645,
         85831673,
         102084627
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461726714,
-    "wof:geomhash":"72f8e0c5e8a4f5359e3eabdfd8c73720",
+    "wof:geomhash":"edcfef0a341970cb9bbc7252dded9cb4",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523647,
+            "venue_id":672786313
+        },
         {
             "country_id":85633793,
             "county_id":102084627,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":672786313,
-    "wof:lastmodified":1472626014,
+    "wof:lastmodified":1492107389,
     "wof:name":"Westover Pub On The Green",
-    "wof:parent_id":85831673,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

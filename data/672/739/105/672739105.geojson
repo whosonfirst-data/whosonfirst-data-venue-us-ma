@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.962235,42.807411,-70.962235,42.807411",
     "geom:latitude":42.807411,
     "geom:longitude":-70.962235,
@@ -33,17 +34,26 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KdiMML1qjof1rgQaChHVT_42.807411_-70.962235@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725712,
-    "wof:geomhash":"0429fd6542f3dec0dd6c123bda784d1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a895864d9a7a566b67afb402137d025",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672739105
+        }
+    ],
     "wof:id":672739105,
-    "wof:lastmodified":1472625970,
+    "wof:lastmodified":1492110883,
     "wof:name":"Highway Dept",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

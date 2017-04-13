@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.758218,42.183405,-70.758218,42.183405",
     "geom:latitude":42.183405,
     "geom:longitude":-70.758218,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85848267,
-        102084367
+        85839377,
+        102084367,
+        85848267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461720971,
-    "wof:geomhash":"e185d1341e67a0b0eedffe066c8cf4b9",
+    "wof:geomhash":"19e72d59c7d579f8531f691ee9a15cc6",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85839377,
+            "region_id":85688645,
+            "venue_id":672526301
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":672526301,
-    "wof:lastmodified":1472625778,
+    "wof:lastmodified":1492116855,
     "wof:name":"Jim Hynes",
-    "wof:parent_id":85848267,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

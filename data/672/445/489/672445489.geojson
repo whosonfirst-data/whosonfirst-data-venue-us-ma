@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.852705,42.276603,-71.852705,42.276603",
     "geom:latitude":42.276603,
     "geom:longitude":-71.852705,
@@ -38,7 +39,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        420558267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461719059,
-    "wof:geomhash":"d2a8efd190ed846e0eaeaafce8a0fdc1",
+    "wof:geomhash":"3456631595ac4e002c2b5001e813ab32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85851859,
             "region_id":85688645,
             "venue_id":672445489
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":420558267,
+            "region_id":85688645,
+            "venue_id":672445489
         }
     ],
     "wof:id":672445489,
-    "wof:lastmodified":1472625712,
+    "wof:lastmodified":1492110993,
     "wof:name":"James W Vuona DDS",
-    "wof:parent_id":85851859,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

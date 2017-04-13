@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.804652,41.988154,-70.804652,41.988154",
     "geom:latitude":41.988154,
     "geom:longitude":-70.804652,
@@ -40,17 +41,26 @@
         "repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e3OXX1ft6odp2MyEOVKs1_41.988154_-70.804652@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741216,
-    "wof:geomhash":"9b11a6f19392d59cf23fb655ff3aebce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7645126e9ef91ee2aba492ae76919ec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689161645
+        }
+    ],
     "wof:id":689161645,
-    "wof:lastmodified":1472625525,
+    "wof:lastmodified":1492099158,
     "wof:name":"Alcar Auto Repair & Collision (Auto Body)",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

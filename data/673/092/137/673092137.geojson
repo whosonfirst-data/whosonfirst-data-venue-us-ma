@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.365479,41.905747,-71.365479,41.905747",
     "geom:latitude":41.905747,
     "geom:longitude":-71.365479,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85803891,
+        102191575,
+        404476165,
         85633793,
         85950363,
         102084407,
-        85803891
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1461733609,
-    "wof:geomhash":"c8c668b035177b86dc7648e9137ff91e",
+    "wof:geomhash":"bd26ca8d793dd68128e0beba78cba6fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084407,
+            "localadmin_id":404476165,
             "locality_id":85950363,
             "neighbourhood_id":85803891,
             "region_id":85688645,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":673092137,
-    "wof:lastmodified":1472625220,
+    "wof:lastmodified":1492103026,
     "wof:name":"The Vineyard",
     "wof:parent_id":85803891,
     "wof:placetype":"venue",

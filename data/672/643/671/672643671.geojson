@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.9291,42.750215,-70.9291,42.750215",
     "geom:latitude":42.750215,
     "geom:longitude":-70.9291,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lF0GLktJSk4Gj4hg5U9k7_42.750215_-70.929100@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723578,
-    "wof:geomhash":"f42c8298ecb03cab31bd06f30c08bbca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"129c1e32d8483b012cee9f65cdd73178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672643671
+        }
+    ],
     "wof:id":672643671,
-    "wof:lastmodified":1472625892,
+    "wof:lastmodified":1492112072,
     "wof:name":"Ray Landers Home Improvement",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

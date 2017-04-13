@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.770072,41.990058,-70.770072,41.990058",
     "geom:latitude":41.990058,
     "geom:longitude":-70.770072,
@@ -31,17 +32,26 @@
         "driveway"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MCHExp42Qj9gvCn9N3L8S_41.990058_-70.770072@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722024,
-    "wof:geomhash":"f5180d2b76da923edf261aba38bb809e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8423099e8706027694c7c0884ae2c60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672575489
+        }
+    ],
     "wof:id":672575489,
-    "wof:lastmodified":1472625824,
+    "wof:lastmodified":1492106027,
     "wof:name":"Puma Paving",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

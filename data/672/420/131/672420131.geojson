@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.982655,42.727229,-70.982655,42.727229",
     "geom:latitude":42.727229,
     "geom:longitude":-70.982655,
@@ -33,17 +34,26 @@
         "kennel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hSxfJ0aD2WuzyvXsWexXb_42.727229_-70.982655@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718400,
-    "wof:geomhash":"b18ee1cf6577e3c78ddcb1e292298da6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b07beb7a01335a284421b2fc30e7adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672420131
+        }
+    ],
     "wof:id":672420131,
-    "wof:lastmodified":1472625678,
+    "wof:lastmodified":1492108477,
     "wof:name":"Gone To The Dogs",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

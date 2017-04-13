@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.387299,42.64281,-71.387299,42.64281",
     "geom:latitude":42.64281,
     "geom:longitude":-71.387299,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2b6AL50zRVkA6ymAzcIwN7_42.642810_-71.387299@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723396,
-    "wof:geomhash":"33a193e8751f47724ccbe33ea115b5fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4be411805b3b9b371416501ab45744a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672635111
+        }
+    ],
     "wof:id":672635111,
-    "wof:lastmodified":1472625876,
+    "wof:lastmodified":1492111179,
     "wof:name":"Chelmsford Auto Sales Inc",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

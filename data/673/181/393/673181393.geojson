@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.086656,42.51472,-71.086656,42.51472",
     "geom:latitude":42.51472,
     "geom:longitude":-71.086656,
@@ -23,16 +24,16 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891537,
+        85891485,
         102191575,
-        404476455,
+        404476415,
         85633793,
-        85950659,
+        85950649,
         102084643,
         85688645,
-        85891485,
-        404476415,
-        85950649
+        85891537,
+        404476455,
+        85950659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +41,8 @@
     },
     "wof:country":"US",
     "wof:created":1461735462,
-    "wof:geomhash":"6eea920a7fb8f8f173470198c2213d11",
+    "wof:geomhash":"4a98860095df054d18890ddd5a040dfc",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476455,
-            "locality_id":85950659,
-            "neighbourhood_id":85891537,
-            "region_id":85688645,
-            "venue_id":673181393
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,12 +52,22 @@
             "neighbourhood_id":85891485,
             "region_id":85688645,
             "venue_id":673181393
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476455,
+            "locality_id":85950659,
+            "neighbourhood_id":85891537,
+            "region_id":85688645,
+            "venue_id":673181393
         }
     ],
     "wof:id":673181393,
-    "wof:lastmodified":1472625510,
+    "wof:lastmodified":1492104666,
     "wof:name":"Treeline Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

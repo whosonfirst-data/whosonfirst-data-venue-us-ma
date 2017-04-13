@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.801615,42.239496,-70.801615,42.239496",
     "geom:latitude":42.239496,
     "geom:longitude":-70.801615,
@@ -31,17 +32,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Wyr6xbEYn61xBswrECY61_42.239496_-70.801615@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724196,
-    "wof:geomhash":"8f471fbf1be9fb8c8ed21c1a007360dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7598ffe73574d8e031f3d945130586b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672671725
+        }
+    ],
     "wof:id":672671725,
-    "wof:lastmodified":1472625921,
+    "wof:lastmodified":1492105630,
     "wof:name":"John Smith & Son Booksellers",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

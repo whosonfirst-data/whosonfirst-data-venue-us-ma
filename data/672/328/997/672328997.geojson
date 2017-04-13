@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.891093,41.640341,-70.891093,41.640341",
     "geom:latitude":41.640341,
     "geom:longitude":-70.891093,
@@ -31,17 +32,26 @@
         "towing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bvOoftRUeIBKT2PRhwtT7_41.640341_-70.891093@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716209,
-    "wof:geomhash":"ab5540199ca39c63078cc57069928b57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c50380a075780cec38ed1e61ddcec7b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672328997
+        }
+    ],
     "wof:id":672328997,
-    "wof:lastmodified":1472625573,
+    "wof:lastmodified":1492114008,
     "wof:name":"Buzzard's Bay Towing",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

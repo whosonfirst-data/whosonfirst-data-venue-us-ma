@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.1259,42.133301,-71.1259,42.133301",
     "geom:latitude":42.133301,
     "geom:longitude":-71.1259,
@@ -31,17 +32,26 @@
         "dvd's"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26SMxO64Ye7YPEeVV51qTd_42.133301_-71.125900@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736305,
-    "wof:geomhash":"d91e1325aebf0ac48d6b730576411c45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3dde742a33e3a997a64d20ca82d9b32d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688952789
+        }
+    ],
     "wof:id":688952789,
-    "wof:lastmodified":1472625166,
+    "wof:lastmodified":1492120324,
     "wof:name":"Road Runner Tapes & Cd's",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

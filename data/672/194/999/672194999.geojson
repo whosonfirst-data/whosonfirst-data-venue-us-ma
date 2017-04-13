@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.496667,41.665324,-70.496667,41.665324",
     "geom:latitude":41.665324,
     "geom:longitude":-70.496667,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tfhLFehUikDuTG4Wwgdes_41.665324_-70.496667@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713445,
-    "wof:geomhash":"a1a8e133b0269dc5011c4c32844007ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1ba1082e2affac7f7e53ba26ffdd81a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672194999
+        }
+    ],
     "wof:id":672194999,
-    "wof:lastmodified":1472625184,
+    "wof:lastmodified":1492114851,
     "wof:name":"M & E Enterprises",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

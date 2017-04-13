@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.783566,41.945205,-70.783566,41.945205",
     "geom:latitude":41.945205,
     "geom:longitude":-70.783566,
@@ -32,19 +33,28 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xKW7rWWlH7SHKKfvgNAiX_41.945205_-70.783566@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720607,
-    "wof:geomhash":"130573c0a7a187b25971f717f00c591b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5986598a51df1bd451b3b16de70ac008",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672509289
+        }
+    ],
     "wof:id":672509289,
-    "wof:lastmodified":1472625764,
+    "wof:lastmodified":1492118683,
     "wof:name":"L Wile & Son",
-    "wof:parent_id":420523949,
+    "wof:parent_id":420523817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

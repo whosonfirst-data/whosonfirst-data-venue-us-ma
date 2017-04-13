@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.67215,42.135117,-71.67215,42.135117",
     "geom:latitude":42.135117,
     "geom:longitude":-71.67215,
@@ -31,17 +32,26 @@
         "surveyor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SYoI290tJh5oEWb6OPfXi_42.135117_-71.672150@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728444,
-    "wof:geomhash":"3e7765190f64fc7421f3c01c4560e933",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83364f97783b2f00dae536b501de688d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524115,
+            "venue_id":672870061
+        }
+    ],
     "wof:id":672870061,
-    "wof:lastmodified":1472626092,
+    "wof:lastmodified":1492106178,
     "wof:name":"Hawk Consulting Inc",
     "wof:parent_id":420524115,
     "wof:placetype":"venue",

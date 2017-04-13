@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.200501,42.587771,-71.200501,42.587771",
     "geom:latitude":42.587771,
     "geom:longitude":-71.200501,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85848717,
-        102084643
+        85808629,
+        102084643,
+        85848717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461722182,
-    "wof:geomhash":"e4564031683863e64655db1874e8cf7e",
+    "wof:geomhash":"09477ddd6360d606bc8c770b86c095e4",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85808629,
+            "region_id":85688645,
+            "venue_id":672582305
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -54,9 +63,9 @@
         }
     ],
     "wof:id":672582305,
-    "wof:lastmodified":1472625818,
+    "wof:lastmodified":1492115619,
     "wof:name":"Mobil-Bruce Crockett",
-    "wof:parent_id":85848717,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

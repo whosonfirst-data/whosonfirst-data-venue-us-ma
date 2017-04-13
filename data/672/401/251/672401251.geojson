@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.511003,41.67742,-70.511003,41.67742",
     "geom:latitude":41.67742,
     "geom:longitude":-70.511003,
@@ -28,19 +29,40 @@
     "sg:postcode":"02644",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231,
+        85688645,
+        85950579,
+        102084379,
+        85837911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EovrYrkg7rXyFxbHd1lGk_41.677420_-70.511003@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717903,
-    "wof:geomhash":"0c5728590f48f9985d025a6070c1a48a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94410c3f3014b6dcfe5ecd88ef53214f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672401251
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084379,
+            "locality_id":85950579,
+            "neighbourhood_id":85837911,
+            "region_id":85688645,
+            "venue_id":672401251
+        }
+    ],
     "wof:id":672401251,
-    "wof:lastmodified":1472625667,
+    "wof:lastmodified":1492109260,
     "wof:name":"Marshland Group Inc",
-    "wof:parent_id":420523231,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

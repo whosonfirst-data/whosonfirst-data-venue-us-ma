@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.024773,42.462791,-71.024773,42.462791",
     "geom:latitude":42.462791,
     "geom:longitude":-71.024773,
@@ -32,17 +33,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476265,
+        85633793,
+        85950809,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DDoLEmRqfVoIsszO0cO6a_42.462791_-71.024773@1303262195"
     },
     "wof:country":"US",
     "wof:created":1461735621,
-    "wof:geomhash":"d3958bbdb02b490c8d34a3d8b98da582",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96a86795db7086de01681a42aa38e824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476265,
+            "locality_id":85950809,
+            "region_id":85688645,
+            "venue_id":688918183
+        }
+    ],
     "wof:id":688918183,
-    "wof:lastmodified":1472624925,
+    "wof:lastmodified":1492120458,
     "wof:name":"H&M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

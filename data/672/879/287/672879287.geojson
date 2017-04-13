@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.524767,42.525563,-71.524767,42.525563",
     "geom:latitude":42.525563,
     "geom:longitude":-71.524767,
@@ -32,19 +33,38 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85831043,
+        102191575,
+        404476395,
+        85633793,
+        85950641,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57LvHrgTpjBNld3lwyZtbH_42.525563_-71.524767@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728615,
-    "wof:geomhash":"85f924da04450fa2097e039a550a6393",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ee3e14489360db96a57203d447489ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476395,
+            "locality_id":85950641,
+            "neighbourhood_id":85831043,
+            "region_id":85688645,
+            "venue_id":672879287
+        }
+    ],
     "wof:id":672879287,
-    "wof:lastmodified":1472626100,
+    "wof:lastmodified":1492107889,
     "wof:name":"Austin Plumbing & Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

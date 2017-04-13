@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.230468,41.694098,-70.230468,41.694098",
     "geom:latitude":41.694098,
     "geom:longitude":-70.230468,
@@ -31,17 +32,26 @@
         "chimney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FaArHaL90n2Mi5NrVXxsf_41.694098_-70.230468@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715112,
-    "wof:geomhash":"2b359367277e0f60b6822508d119f41a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ab5c736408ad0e2a52cab4eb78470ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672275947
+        }
+    ],
     "wof:id":672275947,
-    "wof:lastmodified":1472625434,
+    "wof:lastmodified":1492107464,
     "wof:name":"All Cape Chimney Sweep",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

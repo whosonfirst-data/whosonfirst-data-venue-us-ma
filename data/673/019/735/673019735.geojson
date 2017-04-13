@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.637255,42.179936,-72.637255,42.179936",
     "geom:latitude":42.179936,
     "geom:longitude":-72.637255,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826939,
+        85850699,
         102191575,
         404476357,
         85633793,
         85950395,
         102084627,
-        85688645
+        85688645,
+        85826939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461732056,
-    "wof:geomhash":"ff5b9a5b1a39aa5e10ff37b6099eb4d1",
+    "wof:geomhash":"4ab3cca8416d1cb972157f738c1f185e",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476357,
+            "locality_id":85950395,
+            "neighbourhood_id":85850699,
+            "region_id":85688645,
+            "venue_id":673019735
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":673019735,
-    "wof:lastmodified":1472625021,
+    "wof:lastmodified":1492102977,
     "wof:name":"Holyoke Farms",
-    "wof:parent_id":85826939,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

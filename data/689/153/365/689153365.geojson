@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.72352,42.014149,-70.72352,42.014149",
     "geom:latitude":42.014149,
     "geom:longitude":-70.72352,
@@ -42,17 +43,26 @@
         "psychologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36NRJ1R3PM5tucoLDExyxG_42.014149_-70.723520@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741015,
-    "wof:geomhash":"7596a52b03b3d4eb64aa6114b87b6d33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e42ffef0376098f9fdbe95485617962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523959,
+            "venue_id":689153365
+        }
+    ],
     "wof:id":689153365,
-    "wof:lastmodified":1472625501,
+    "wof:lastmodified":1492097472,
     "wof:name":"Angell, Donald L",
     "wof:parent_id":420523959,
     "wof:placetype":"venue",

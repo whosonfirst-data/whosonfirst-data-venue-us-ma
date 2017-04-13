@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.097166,42.126762,-71.097166,42.126762",
     "geom:latitude":42.126762,
     "geom:longitude":-71.097166,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32O8reTSzhLEN7zMmhDqxn_42.126762_-71.097166@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728489,
-    "wof:geomhash":"f099137b811c6988c72a91f5ad540cc5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f68a383323c966d5600b6401d3d9e218",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672872581
+        }
+    ],
     "wof:id":672872581,
-    "wof:lastmodified":1472626098,
+    "wof:lastmodified":1492110723,
     "wof:name":"Igreja Batista De Lingua",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

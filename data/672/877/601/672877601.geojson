@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.774978,42.421396,-71.774978,42.421396",
     "geom:latitude":42.421396,
     "geom:longitude":-71.774978,
@@ -33,17 +34,26 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46YpG6iVI3Hq2QtlgV6qpQ_42.421396_-71.774978@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728584,
-    "wof:geomhash":"66c5a567a18e76fb88b3728f0545e2c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c397d54ee411610659f863b1ff73111",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":672877601
+        }
+    ],
     "wof:id":672877601,
-    "wof:lastmodified":1472626099,
+    "wof:lastmodified":1492113576,
     "wof:name":"Public Works Dept",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

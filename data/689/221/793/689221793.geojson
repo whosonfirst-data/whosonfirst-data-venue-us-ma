@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.309873,41.780015,-71.309873,41.780015",
     "geom:latitude":41.780015,
     "geom:longitude":-71.309873,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476141,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vdvvnxj41Xu1OuPTzjAiT_41.780015_-71.309873@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742520,
-    "wof:geomhash":"fe292759cb20e2fb952b152ca3a516f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40f04beceaf7cc1eca542f05bb3fcac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476141,
+            "region_id":85688645,
+            "venue_id":689221793
+        }
+    ],
     "wof:id":689221793,
-    "wof:lastmodified":1472625632,
+    "wof:lastmodified":1492099581,
     "wof:name":"John Jackson Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

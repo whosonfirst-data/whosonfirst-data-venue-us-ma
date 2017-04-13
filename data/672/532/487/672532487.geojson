@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.59482,42.572238,-72.59482,42.572238",
     "geom:latitude":42.572238,
     "geom:longitude":-72.59482,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85816365,
+        102191575,
+        404476235,
         85633793,
         85950383,
         102084457,
+        85688645,
         85810565
     ],
     "wof:breaches":[],
@@ -44,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461721114,
-    "wof:geomhash":"35a97057e192f40fcc8946b0a286b804",
+    "wof:geomhash":"d8cb9a10388f384792065a7b872e2819",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084457,
+            "localadmin_id":404476235,
+            "locality_id":85950383,
+            "neighbourhood_id":85816365,
+            "region_id":85688645,
+            "venue_id":672532487
+        },
         {
             "country_id":85633793,
             "county_id":102084457,
@@ -56,9 +70,9 @@
         }
     ],
     "wof:id":672532487,
-    "wof:lastmodified":1472625790,
+    "wof:lastmodified":1492114240,
     "wof:name":"Times Three Hair Skin & Nails",
-    "wof:parent_id":85810565,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

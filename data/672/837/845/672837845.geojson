@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.903061,42.24454,-71.903061,42.24454",
     "geom:latitude":42.24454,
     "geom:longitude":-71.903061,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gPipuxrOzvUfI5N4yNIp7_42.244540_-71.903061@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727750,
-    "wof:geomhash":"edf096cd82c17aea5c42f051bd410ba8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7189c9f8e8b03c13f098ef55b45ee38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672837845
+        }
+    ],
     "wof:id":672837845,
-    "wof:lastmodified":1472626076,
+    "wof:lastmodified":1492112249,
     "wof:name":"RPM Auto Svc",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

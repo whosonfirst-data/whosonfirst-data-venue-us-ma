@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.8946,42.112999,-71.8946,42.112999",
     "geom:latitude":42.112999,
     "geom:longitude":-71.8946,
@@ -31,17 +32,26 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32EHrikNiwtNCmkiXFFyHI_42.112999_-71.894600@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734266,
-    "wof:geomhash":"210525957a0802f58e9501922c224220",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c8df6a984731000dea8130ab68c2f33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":673123767
+        }
+    ],
     "wof:id":673123767,
-    "wof:lastmodified":1472625372,
+    "wof:lastmodified":1492102917,
     "wof:name":"Interstate Carpet & Upholstery Cleaning",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

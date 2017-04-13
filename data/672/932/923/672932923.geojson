@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.88429,42.455931,-72.88429,42.455931",
     "geom:latitude":42.455931,
     "geom:longitude":-72.88429,
@@ -32,17 +33,26 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34eaflqlpxAAnJjV15oBaL_42.455931_-72.884290@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729706,
-    "wof:geomhash":"5bad9976970f8efe671c3268ac748c16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25cf14855a8621eb318c24b39bba0dba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523653,
+            "venue_id":672932923
+        }
+    ],
     "wof:id":672932923,
-    "wof:lastmodified":1472626152,
+    "wof:lastmodified":1492113441,
     "wof:name":"Document Sciences Corp",
     "wof:parent_id":420523653,
     "wof:placetype":"venue",

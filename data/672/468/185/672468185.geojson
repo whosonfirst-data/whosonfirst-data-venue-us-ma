@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.015525,42.686779,-72.015525,42.686779",
     "geom:latitude":42.686779,
     "geom:longitude":-72.015525,
@@ -33,17 +34,26 @@
         "site"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XgKc3fbY4nWArSImZGeTG_42.686779_-72.015525@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719641,
-    "wof:geomhash":"d622eb5640f383440809b599c8df6d8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f88e3cf64fa20bcf8a5817dab7ff3814",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":672468185
+        }
+    ],
     "wof:id":672468185,
-    "wof:lastmodified":1472625728,
+    "wof:lastmodified":1492116063,
     "wof:name":"Glen Wods Mnfctred Hsing Cmnty",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

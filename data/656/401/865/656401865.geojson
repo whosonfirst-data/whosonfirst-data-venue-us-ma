@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.892391,42.766568,-70.892391,42.766568",
     "geom:latitude":42.766568,
     "geom:longitude":-70.892391,
@@ -31,17 +32,26 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523473
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vWs62knQOv4VhwUbGfyIH_42.766568_-70.892391@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712049,
-    "wof:geomhash":"84011cd880d3ed981bd94d48cdf4ef55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34cdc81ca02362373bf85ce492ec2aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523473,
+            "venue_id":656401865
+        }
+    ],
     "wof:id":656401865,
-    "wof:lastmodified":1472625100,
+    "wof:lastmodified":1492101459,
     "wof:name":"Verrier Landclearing",
     "wof:parent_id":420523473,
     "wof:placetype":"venue",

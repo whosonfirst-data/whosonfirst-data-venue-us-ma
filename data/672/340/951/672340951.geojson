@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.180232,42.302392,-71.180232,42.302392",
     "geom:latitude":42.302392,
     "geom:longitude":-71.180232,
@@ -31,17 +32,34 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5F3Na37oZIgpJOeIvyLxkr_42.302392_-71.180232@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716525,
-    "wof:geomhash":"e2258e96ff96f96b1d6386ce99116c01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cce0053387a002e29baa95ee5aa3f33b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":672340951
+        }
+    ],
     "wof:id":672340951,
-    "wof:lastmodified":1472625586,
+    "wof:lastmodified":1492112640,
     "wof:name":"Chestnut Hill Multi Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

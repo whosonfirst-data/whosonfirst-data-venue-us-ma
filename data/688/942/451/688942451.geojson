@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.880977,42.294982,-70.880977,42.294982",
     "geom:latitude":42.294982,
     "geom:longitude":-70.880977,
@@ -34,8 +35,8 @@
         85633793,
         85950453,
         102084367,
-        85854819,
-        85804923
+        85804923,
+        85854819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,8 @@
     },
     "wof:country":"US",
     "wof:created":1461736096,
-    "wof:geomhash":"2357ef4f9bb2dfab6537217f77d8ec7d",
+    "wof:geomhash":"482d3dc7050867b70f31b539d01df4d0",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "locality_id":85950453,
-            "neighbourhood_id":85854819,
-            "region_id":85688645,
-            "venue_id":688942451
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,12 +54,21 @@
             "neighbourhood_id":85804923,
             "region_id":85688645,
             "venue_id":688942451
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950453,
+            "neighbourhood_id":85854819,
+            "region_id":85688645,
+            "venue_id":688942451
         }
     ],
     "wof:id":688942451,
-    "wof:lastmodified":1472625061,
+    "wof:lastmodified":1492119941,
     "wof:name":"Fireman S",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

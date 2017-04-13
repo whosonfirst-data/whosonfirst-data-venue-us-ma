@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.438293,41.73604,-70.438293,41.73604",
     "geom:latitude":41.73604,
     "geom:longitude":-70.438293,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1I9ZvVPVwu5H2gQfD0QIB3_41.736040_-70.438293@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713688,
-    "wof:geomhash":"26785c1257c8ea162c61bd60074b3870",
-    "wof:hierarchy":[],
+    "wof:geomhash":"880257e3ee7360f36833ae4b23600488",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523225,
+            "venue_id":672205691
+        }
+    ],
     "wof:id":672205691,
-    "wof:lastmodified":1472625216,
+    "wof:lastmodified":1492112575,
     "wof:name":"Steven Shakin Construction",
     "wof:parent_id":420523225,
     "wof:placetype":"venue",

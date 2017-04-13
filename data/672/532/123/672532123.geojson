@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.423362,42.054191,-71.423362,42.054191",
     "geom:latitude":42.054191,
     "geom:longitude":-71.423362,
@@ -31,17 +32,34 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476439,
+        85633793,
+        85950431,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17UbdGhbGJUvCsvK83sLDT_42.054191_-71.423362@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721106,
-    "wof:geomhash":"ad5848291e1db124c74b77d842a10ab7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8efa0471ad57113d11d527bea3b97aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476439,
+            "locality_id":85950431,
+            "region_id":85688645,
+            "venue_id":672532123
+        }
+    ],
     "wof:id":672532123,
-    "wof:lastmodified":1472625780,
+    "wof:lastmodified":1492114234,
     "wof:name":"Lange Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

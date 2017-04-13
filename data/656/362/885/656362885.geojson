@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.836352,42.335077,-71.836352,42.335077",
     "geom:latitude":42.335077,
     "geom:longitude":-71.836352,
@@ -31,17 +32,26 @@
         "scooter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PguFgKc4vUU7sIg7bCccp_42.335077_-71.836352@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711222,
-    "wof:geomhash":"735ab7307f3d65f6828eb8254a391d42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e35dc9880402228ffd97084c446cdd52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":656362885
+        }
+    ],
     "wof:id":656362885,
-    "wof:lastmodified":1472624975,
+    "wof:lastmodified":1492102339,
     "wof:name":"A W Cycles",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.097551,42.652726,-71.097551,42.652726",
     "geom:latitude":42.652726,
     "geom:longitude":-71.097551,
@@ -31,19 +32,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837181,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3i3JfD7M8wjKJc75afos0M_42.652726_-71.097551@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720609,
-    "wof:geomhash":"8c0f966a424a050c54904ab4d00b043a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abe75b237f8dda53206709ea05fd94a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85837181,
+            "region_id":85688645,
+            "venue_id":672509397
+        }
+    ],
     "wof:id":672509397,
-    "wof:lastmodified":1472625770,
+    "wof:lastmodified":1492118679,
     "wof:name":"Massachusetts Electric Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85837181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

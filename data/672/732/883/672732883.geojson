@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.472859,41.647268,-70.472859,41.647268",
     "geom:latitude":41.647268,
     "geom:longitude":-70.472859,
@@ -31,17 +32,26 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nWAzmVmRR7a11j2NmVVtK_41.647268_-70.472859@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725578,
-    "wof:geomhash":"c10dc1028e8f08b1b25ae7545cb26eee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28a77c0c43ec1b97b5dea33a5844589f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672732883
+        }
+    ],
     "wof:id":672732883,
-    "wof:lastmodified":1472625981,
+    "wof:lastmodified":1492118001,
     "wof:name":"Millennium Painting",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

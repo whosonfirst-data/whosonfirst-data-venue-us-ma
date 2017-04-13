@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.036942,41.927272,-71.036942,41.927272",
     "geom:latitude":41.927272,
     "geom:longitude":-71.036942,
@@ -32,17 +33,34 @@
         "machines-household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476139,
+        85633793,
+        85950683,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tsztiLlnSAre4oEJMl1uC_41.927272_-71.036942@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742481,
-    "wof:geomhash":"973fd0a69128c9d98e489024e6ce5b38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43ed81c8769e7b2160cfdccf75b90bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476139,
+            "locality_id":85950683,
+            "region_id":85688645,
+            "venue_id":689220197
+        }
+    ],
     "wof:id":689220197,
-    "wof:lastmodified":1472625611,
+    "wof:lastmodified":1492098364,
     "wof:name":"Cape Cod Sewing Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

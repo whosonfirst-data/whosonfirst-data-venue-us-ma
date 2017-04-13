@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.768018,42.031098,-70.768018,42.031098",
     "geom:latitude":42.031098,
     "geom:longitude":-70.768018,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XwBM7voLZUBLSEwvxPybG_42.031098_-70.768018@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722707,
-    "wof:geomhash":"7912c2327ca359e78cc2f8c874cedadb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fec9ab8b21c56e4ed3a92cf9561319e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672604717
+        }
+    ],
     "wof:id":672604717,
-    "wof:lastmodified":1472625857,
+    "wof:lastmodified":1492109032,
     "wof:name":"Down To Earth Landscape",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.750955,42.021028,-70.750955,42.021028",
     "geom:latitude":42.021028,
     "geom:longitude":-70.750955,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CtrcHyacxmCsx8ltQO1ZJ_42.021028_-70.750955@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728286,
-    "wof:geomhash":"1cf2415e1ecf762da16a566348ec9ff8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdf1d58d1b0bbd0233c2415cf1f4bf66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":672865773
+        }
+    ],
     "wof:id":672865773,
-    "wof:lastmodified":1472626092,
+    "wof:lastmodified":1492112015,
     "wof:name":"Byron & Gillo Inc",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

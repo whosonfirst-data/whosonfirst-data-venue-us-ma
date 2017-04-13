@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.561367,42.275828,-71.561367,42.275828",
     "geom:latitude":42.275828,
     "geom:longitude":-71.561367,
@@ -32,17 +33,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476633,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Y5dpX2XzLRrb3Dbn2ALOG_42.275828_-71.561367@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715186,
-    "wof:geomhash":"5c2955e68002384439ddf54d19629821",
-    "wof:hierarchy":[],
+    "wof:geomhash":"021d87071253755718aa7f8da633d06f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476633,
+            "region_id":85688645,
+            "venue_id":672279451
+        }
+    ],
     "wof:id":672279451,
-    "wof:lastmodified":1472625446,
+    "wof:lastmodified":1492113847,
     "wof:name":"KBQ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

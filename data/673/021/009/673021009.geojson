@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.94115,42.703042,-70.94115,42.703042",
     "geom:latitude":42.703042,
     "geom:longitude":-70.94115,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85845839,
-        102084463
+        102084463,
+        420523475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461732085,
-    "wof:geomhash":"daac96a0de34d0e4fe94c647cb7a4124",
+    "wof:geomhash":"29357bd20fbae2cf2bd21ec520b70b82",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,17 @@
             "neighbourhood_id":85845839,
             "region_id":85688645,
             "venue_id":673021009
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673021009
         }
     ],
     "wof:id":673021009,
-    "wof:lastmodified":1472624984,
+    "wof:lastmodified":1492104319,
     "wof:name":"Dynamic Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

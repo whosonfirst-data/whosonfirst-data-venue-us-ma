@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.291177,42.12807,-71.291177,42.12807",
     "geom:latitude":42.12807,
     "geom:longitude":-71.291177,
@@ -32,17 +33,26 @@
         "designers-industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25kxOqJtjOXFiuuM2neK2P_42.128070_-71.291177@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736361,
-    "wof:geomhash":"5cbb80909bacecc0cc29b1add30a64d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6da96a6852ce693080b0a5f58cb2345c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":688955875
+        }
+    ],
     "wof:id":688955875,
-    "wof:lastmodified":1472625195,
+    "wof:lastmodified":1492120351,
     "wof:name":"Phoenix Navigation Componets",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

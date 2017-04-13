@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.406892,42.108927,-73.406892,42.108927",
     "geom:latitude":42.108927,
     "geom:longitude":-73.406892,
@@ -34,8 +35,14 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        85802573,
-        102085375
+        85827661,
+        102085375,
+        85805357,
+        102191575,
+        404476103,
+        85950599,
+        102084369,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,20 +50,30 @@
     },
     "wof:country":"US",
     "wof:created":1461722682,
-    "wof:geomhash":"ce4bd181b6990e576c9c565b7f96fb14",
+    "wof:geomhash":"9d557e5016198e1ed23f5a54171e600b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
             "county_id":102085375,
-            "neighbourhood_id":85802573,
+            "neighbourhood_id":85827661,
             "region_id":85688629,
+            "venue_id":672603465
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084369,
+            "localadmin_id":404476103,
+            "locality_id":85950599,
+            "neighbourhood_id":85805357,
+            "region_id":85688645,
             "venue_id":672603465
         }
     ],
     "wof:id":672603465,
-    "wof:lastmodified":1472625856,
+    "wof:lastmodified":1492117887,
     "wof:name":"Twin Fires Barn",
-    "wof:parent_id":85802573,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

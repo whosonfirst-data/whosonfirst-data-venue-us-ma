@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.218504,42.031315,-71.218504,42.031315",
     "geom:latitude":42.031315,
     "geom:longitude":-71.218504,
@@ -37,17 +38,34 @@
         "institute"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475931,
+        85633793,
+        85950671,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vYWyyfcLHqRmjgP3mczHt_42.031315_-71.218504@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722352,
-    "wof:geomhash":"a18874f394e73898241854113fc68be9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0b7869236f99e05860b9079425bdecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404475931,
+            "locality_id":85950671,
+            "region_id":85688645,
+            "venue_id":672589461
+        }
+    ],
     "wof:id":672589461,
-    "wof:lastmodified":1472625840,
+    "wof:lastmodified":1492115764,
     "wof:name":"Dave's Auto School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

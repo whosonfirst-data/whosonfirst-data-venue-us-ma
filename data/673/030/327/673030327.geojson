@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.189676,42.457255,-73.189676,42.457255",
     "geom:latitude":42.457255,
     "geom:longitude":-73.189676,
@@ -35,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85811957,
+        102191575,
+        404476123,
         85633793,
-        85859313,
-        102084369,
         85950325,
-        85811957
+        102084369,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +50,13 @@
     },
     "wof:country":"US",
     "wof:created":1461732338,
-    "wof:geomhash":"91acf8243fffeafa9093275286475567",
+    "wof:geomhash":"470ac4094997788306c7ddd4c265b5af",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084369,
-            "neighbourhood_id":85859313,
-            "region_id":85688645,
-            "venue_id":673030327
-        },
-        {
-            "country_id":85633793,
-            "county_id":102084369,
+            "localadmin_id":404476123,
             "locality_id":85950325,
             "neighbourhood_id":85811957,
             "region_id":85688645,
@@ -67,9 +64,9 @@
         }
     ],
     "wof:id":673030327,
-    "wof:lastmodified":1472625019,
+    "wof:lastmodified":1492104544,
     "wof:name":"Climate Heating & Cooling",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

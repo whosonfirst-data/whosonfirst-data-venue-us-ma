@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.775543,41.892841,-70.775543,41.892841",
     "geom:latitude":41.892841,
     "geom:longitude":-70.775543,
@@ -32,17 +33,26 @@
         "basement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jRaVozE60Z9LuN9RYfQaK_41.892841_-70.775543@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740996,
-    "wof:geomhash":"fe7217da58449805e0d60a07bc477ac0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67a96de4c02b38fa3ec204dd9c3ce19e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":689152681
+        }
+    ],
     "wof:id":689152681,
-    "wof:lastmodified":1472625514,
+    "wof:lastmodified":1492101013,
     "wof:name":"Enjoyable Basements",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.736198,42.624271,-71.736198,42.624271",
     "geom:latitude":42.624271,
     "geom:longitude":-71.736198,
@@ -41,19 +42,28 @@
     ],
     "sg:website":"http://worcester.citysearch.com/profile/external/625386930/lunenburg_ma/northend_subaru.html?publisher=yellowpages&reference_id=15&placement=ypwebsitemip",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jGOdDOrOo0k9jgz7V7wGT_42.624271_-71.736198@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734128,
-    "wof:geomhash":"df213a107fdfd8d7e03e6951bba664aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe2f4a729be50b391690f551ae097a20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523737,
+            "venue_id":673116989
+        }
+    ],
     "wof:id":673116989,
-    "wof:lastmodified":1472625381,
+    "wof:lastmodified":1492104447,
     "wof:name":"Northend Subaru",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

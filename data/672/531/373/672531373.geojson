@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.901382,41.896036,-70.901382,41.896036",
     "geom:latitude":41.896036,
     "geom:longitude":-70.901382,
@@ -32,17 +33,26 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fidkrnpiUsqvQGDgIjovS_41.896036_-70.901382@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721090,
-    "wof:geomhash":"5532e6e1b298c6da8eb77d9f33b245a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"871dcf1e60814a3fb80be69d41e4f4b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672531373
+        }
+    ],
     "wof:id":672531373,
-    "wof:lastmodified":1472625782,
+    "wof:lastmodified":1492111301,
     "wof:name":"Spectrum Home Svc",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

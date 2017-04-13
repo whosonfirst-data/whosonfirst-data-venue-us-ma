@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.045604,42.68485,-72.045604,42.68485",
     "geom:latitude":42.68485,
     "geom:longitude":-72.045604,
@@ -31,17 +32,26 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l8hYKgiy3zTEL0qcqSjaN_42.684850_-72.045604@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714610,
-    "wof:geomhash":"7a4a455ff725998b56caac6888f64014",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67419a63514fbfa4478283bcb772164a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":672249847
+        }
+    ],
     "wof:id":672249847,
-    "wof:lastmodified":1472625375,
+    "wof:lastmodified":1492105810,
     "wof:name":"Computer Works",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

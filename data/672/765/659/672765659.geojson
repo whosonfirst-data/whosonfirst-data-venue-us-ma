@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.979368,42.805749,-70.979368,42.805749",
     "geom:latitude":42.805749,
     "geom:longitude":-70.979368,
@@ -31,17 +32,26 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xjlzXBIqPgxdDrpEPEIxM_42.805749_-70.979368@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726273,
-    "wof:geomhash":"989d25e17b36db331fa05c5b125bfdc6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dac3ba89a7d888811ceae78f98c8877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672765659
+        }
+    ],
     "wof:id":672765659,
-    "wof:lastmodified":1472626000,
+    "wof:lastmodified":1492109578,
     "wof:name":"Braingrab Studios",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

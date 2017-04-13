@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.765549,41.912617,-70.765549,41.912617",
     "geom:latitude":41.912617,
     "geom:longitude":-70.765549,
@@ -31,17 +32,26 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ffz9u8IlNq2CuXHA6cdFo_41.912617_-70.765549@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724758,
-    "wof:geomhash":"c283c38183028a1ee229e74dc1476bcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f14fc8a85b6dad0cf8d86c9144efd3fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672695597
+        }
+    ],
     "wof:id":672695597,
-    "wof:lastmodified":1472625941,
+    "wof:lastmodified":1492118289,
     "wof:name":"Good Faith Farm",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

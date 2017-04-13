@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.791959,42.017158,-72.791959,42.017158",
     "geom:latitude":42.017158,
     "geom:longitude":-72.791959,
@@ -31,17 +32,26 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q8mlpNihcr6nO1C1MeDyb_42.017158_-72.791959@1303262184"
     },
     "wof:country":"US",
     "wof:created":1461733871,
-    "wof:geomhash":"d967fd2eba799e25cb0744cc683ff5aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b59dd4f04a407e41bce1db8b58f17c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523599,
+            "venue_id":673104661
+        }
+    ],
     "wof:id":673104661,
-    "wof:lastmodified":1472625296,
+    "wof:lastmodified":1492102738,
     "wof:name":"Tops Tree Service",
     "wof:parent_id":420523599,
     "wof:placetype":"venue",

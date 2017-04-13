@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.203515,42.468369,-73.203515,42.468369",
     "geom:latitude":42.468369,
     "geom:longitude":-73.203515,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85811957,
+        102191575,
+        404476123,
         85633793,
         85950325,
         102084369,
-        85811957
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1461733985,
-    "wof:geomhash":"488957fb6eb6901447c64c4a7e2d3249",
+    "wof:geomhash":"df6e319f68aa5f0b65a9f260be6dd14f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084369,
+            "localadmin_id":404476123,
             "locality_id":85950325,
             "neighbourhood_id":85811957,
             "region_id":85688645,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":673110123,
-    "wof:lastmodified":1472625285,
+    "wof:lastmodified":1492104180,
     "wof:name":"Mentor Network",
     "wof:parent_id":85811957,
     "wof:placetype":"venue",

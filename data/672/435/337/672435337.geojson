@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.105928,42.123635,-71.105928,42.123635",
     "geom:latitude":42.123635,
     "geom:longitude":-71.105928,
@@ -31,17 +32,26 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6L4CTrwXDvtj7xb3EvWEbz_42.123635_-71.105928@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718792,
-    "wof:geomhash":"86440a1f3c58aaa9a49e75f066adfe41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e81678bf3356b6394a09ff7b09fdd4fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672435337
+        }
+    ],
     "wof:id":672435337,
-    "wof:lastmodified":1472625698,
+    "wof:lastmodified":1492105602,
     "wof:name":"Immaculate Cleaning Svc",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

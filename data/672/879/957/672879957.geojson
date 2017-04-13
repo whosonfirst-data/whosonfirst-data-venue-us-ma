@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.87921,42.089457,-70.87921,42.089457",
     "geom:latitude":42.089457,
     "geom:longitude":-70.87921,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_155YoBgbqvq78Ug51kk2OQ_42.089457_-70.879210@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728626,
-    "wof:geomhash":"280fa46adc36a7d6fde3158ffdc0d73e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1a886faff3113ce93c41831bafc081d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672879957
+        }
+    ],
     "wof:id":672879957,
-    "wof:lastmodified":1472626107,
+    "wof:lastmodified":1492107881,
     "wof:name":"Cashman Construction",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

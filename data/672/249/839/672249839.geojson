@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.021455,42.016804,-71.021455,42.016804",
     "geom:latitude":42.016804,
     "geom:longitude":-71.021455,
@@ -32,19 +33,38 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523865,
+        85688645,
+        85805735,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AzVf64SafVTH0ZGIgsa4M_42.016804_-71.021455@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714610,
-    "wof:geomhash":"a485ed4b2c0b46b4a33392079443107c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa719187d0e3914ab505428447b0419f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523865,
+            "venue_id":672249839
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85805735,
+            "region_id":85688645,
+            "venue_id":672249839
+        }
+    ],
     "wof:id":672249839,
-    "wof:lastmodified":1472625375,
+    "wof:lastmodified":1492105802,
     "wof:name":"Lorray Food Brokers",
-    "wof:parent_id":420523865,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

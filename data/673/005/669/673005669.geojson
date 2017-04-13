@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.43274,42.249874,-71.43274,42.249874",
     "geom:latitude":42.249874,
     "geom:longitude":-71.43274,
@@ -31,17 +32,26 @@
         "clothing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bJbtCsHj4ZHXWFk8W1lPR_42.249874_-71.432740@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731699,
-    "wof:geomhash":"75cd9fa3f4c51ff62f81e3749bc86f5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f9ccbecf24dbf1e57baedbd273a7abc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":673005669
+        }
+    ],
     "wof:id":673005669,
-    "wof:lastmodified":1472624945,
+    "wof:lastmodified":1492103397,
     "wof:name":"Leonard Lipton",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

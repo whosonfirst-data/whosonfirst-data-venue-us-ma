@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.947787,41.848045,-70.947787,41.848045",
     "geom:latitude":41.848045,
     "geom:longitude":-70.947787,
@@ -39,17 +40,26 @@
     ],
     "sg:website":"http://www.flowersbyheritage.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cEzl2qrAtTGP8xjyaPUcq_41.848045_-70.947787@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741078,
-    "wof:geomhash":"c4230697ffe19da9490b8b0a70e5e99c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f65b02bd6ed62ed1cd1bc6c01926e4a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523969,
+            "venue_id":689156155
+        }
+    ],
     "wof:id":689156155,
-    "wof:lastmodified":1472625490,
+    "wof:lastmodified":1492099225,
     "wof:name":"Heritage Flowers",
     "wof:parent_id":420523969,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.715523,41.92337,-70.715523,41.92337",
     "geom:latitude":41.92337,
     "geom:longitude":-70.715523,
@@ -34,17 +35,26 @@
     ],
     "sg:website":"http://www.nitroy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ep2A8t2txdKpWgbxjVPwq_41.923370_-70.715523@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741122,
-    "wof:geomhash":"07a684d8c11a4152a1fbe9837d18ec5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48e7db34522e0b346cf84356a9c68703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689157537
+        }
+    ],
     "wof:id":689157537,
-    "wof:lastmodified":1472625523,
+    "wof:lastmodified":1492099706,
     "wof:name":"Nitroy Computing Service",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

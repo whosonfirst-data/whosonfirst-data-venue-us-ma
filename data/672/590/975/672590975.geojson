@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.076191,42.036634,-71.076191,42.036634",
     "geom:latitude":42.036634,
     "geom:longitude":-71.076191,
@@ -33,19 +34,28 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XIOI68jWmIOLgmzy9fOrB_42.036634_-71.076191@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722384,
-    "wof:geomhash":"b58b6d3d4d25f756386b4606e9b2eb31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3363f224d8552c47e3f3212dc9cd538b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":672590975
+        }
+    ],
     "wof:id":672590975,
-    "wof:lastmodified":1472625844,
+    "wof:lastmodified":1492110809,
     "wof:name":"Chris Voelker Lawn Maintenance",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

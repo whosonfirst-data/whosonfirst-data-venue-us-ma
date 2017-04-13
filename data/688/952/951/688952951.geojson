@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.13225,42.107825,-71.13225,42.107825",
     "geom:latitude":42.107825,
     "geom:longitude":-71.13225,
@@ -37,17 +38,32 @@
         "churches-baptist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476597,
+        85633793,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P1voTYdhSQGQCnUapzdc2_42.107825_-71.132250@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736307,
-    "wof:geomhash":"ef49123cae47d7e2489da5799fbac0ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7cdbea12f823ec10dddc015d9e1a57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476597,
+            "region_id":85688645,
+            "venue_id":688952951
+        }
+    ],
     "wof:id":688952951,
-    "wof:lastmodified":1472625181,
+    "wof:lastmodified":1492120330,
     "wof:name":"Greater Life Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

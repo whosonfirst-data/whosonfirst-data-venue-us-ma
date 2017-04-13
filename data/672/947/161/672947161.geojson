@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.259228,42.152201,-73.259228,42.152201",
     "geom:latitude":42.152201,
     "geom:longitude":-73.259228,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GEYuvFe618Ysw8nDPgb4Z_42.152201_-73.259228@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730044,
-    "wof:geomhash":"f79afa0d6394d3e2c737116b8305bfed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d652a1d0a2342da10bc4c8f93d00acd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672947161
+        }
+    ],
     "wof:id":672947161,
-    "wof:lastmodified":1472626152,
+    "wof:lastmodified":1492115145,
     "wof:name":"Ted Shmulsky",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

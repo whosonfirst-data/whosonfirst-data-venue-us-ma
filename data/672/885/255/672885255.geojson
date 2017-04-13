@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.127008,42.119907,-71.127008,42.119907",
     "geom:latitude":42.119907,
     "geom:longitude":-71.127008,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y1WXHpjh1SNwg3QeTNL2f_42.119907_-71.127008@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728732,
-    "wof:geomhash":"a501ea8d0ea44b2fab3e997cfa86f6fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21b48c3d02d999b582505a0a44b97d25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672885255
+        }
+    ],
     "wof:id":672885255,
-    "wof:lastmodified":1472626100,
+    "wof:lastmodified":1492109155,
     "wof:name":"Animal Control Office",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

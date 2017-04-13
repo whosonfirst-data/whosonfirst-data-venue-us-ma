@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.744608,42.185961,-72.744608,42.185961",
     "geom:latitude":42.185961,
     "geom:longitude":-72.744608,
@@ -28,19 +29,38 @@
     "sg:postcode":"01085",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420523615,
+        102191575,
+        404476375,
+        85633793,
+        85950391,
+        102084627,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AXoJrSYIqixNRTpFZhLCw_42.185961_-72.744608@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716630,
-    "wof:geomhash":"2be2039a36925f654ec239d071f69e2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe57888c8be22aee65847a475ce3a2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476375,
+            "locality_id":85950391,
+            "neighbourhood_id":420523615,
+            "region_id":85688645,
+            "venue_id":672346189
+        }
+    ],
     "wof:id":672346189,
-    "wof:lastmodified":1472625573,
+    "wof:lastmodified":1492115643,
     "wof:name":"Fields Of Flowers",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

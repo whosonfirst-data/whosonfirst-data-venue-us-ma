@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.965564,41.637625,-70.965564,41.637625",
     "geom:latitude":41.637625,
     "geom:longitude":-70.965564,
@@ -32,17 +33,36 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420523309,
+        102191575,
+        404476169,
+        85633793,
+        85950685,
+        102084407,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27fNACJqX4F8YQ1Ww52Q0J_41.637625_-70.965564@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718360,
-    "wof:geomhash":"5ca23a1b5b8b2658760912019bb24502",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b38d70c1b4d7365ef831ce57fd7f6768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476169,
+            "locality_id":85950685,
+            "neighbourhood_id":420523309,
+            "region_id":85688645,
+            "venue_id":672418303
+        }
+    ],
     "wof:id":672418303,
-    "wof:lastmodified":1472625682,
+    "wof:lastmodified":1492118859,
     "wof:name":"Dartmouth Manor Home Inc",
     "wof:parent_id":420523309,
     "wof:placetype":"venue",

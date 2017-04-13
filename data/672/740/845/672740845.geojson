@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.904818,41.892102,-70.904818,41.892102",
     "geom:latitude":41.892102,
     "geom:longitude":-70.904818,
@@ -31,17 +32,26 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14nRvUoLbyK5FEnvreRnvj_41.892102_-70.904818@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725752,
-    "wof:geomhash":"b2a3c6b7867b25133d2173c676eb1204",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60f07b50f509e9494070902a3bcee189",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672740845
+        }
+    ],
     "wof:id":672740845,
-    "wof:lastmodified":1472625997,
+    "wof:lastmodified":1492113476,
     "wof:name":"Middleboro Park Dept",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.795379,42.453361,-71.795379,42.453361",
     "geom:latitude":42.453361,
     "geom:longitude":-71.795379,
@@ -32,17 +33,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524139
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37LuE4LXI6PRcgZYHZBy9c_42.453361_-71.795379@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723620,
-    "wof:geomhash":"e11702374ae504ee6df892026a7412c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ccf504c35c94118e31040f747f81bd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524139,
+            "venue_id":672645569
+        }
+    ],
     "wof:id":672645569,
-    "wof:lastmodified":1472625893,
+    "wof:lastmodified":1492110677,
     "wof:name":"Country Side Farm",
     "wof:parent_id":420524139,
     "wof:placetype":"venue",

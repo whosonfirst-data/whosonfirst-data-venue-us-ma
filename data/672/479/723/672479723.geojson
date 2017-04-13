@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.610468,41.658083,-70.610468,41.658083",
     "geom:latitude":41.658083,
     "geom:longitude":-70.610468,
@@ -33,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523215,
+        85688645,
         85803055,
         102084379
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461719935,
-    "wof:geomhash":"3c8a4582d9f6d025449925272af48708",
+    "wof:geomhash":"f72cb62def78816ecc79e18685cce7c6",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523215,
+            "venue_id":672479723
+        },
         {
             "country_id":85633793,
             "county_id":102084379,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":672479723,
-    "wof:lastmodified":1472625744,
+    "wof:lastmodified":1492106892,
     "wof:name":"Genevate Corp",
-    "wof:parent_id":85803055,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

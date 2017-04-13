@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.719384,41.92237,-70.719384,41.92237",
     "geom:latitude":41.92237,
     "geom:longitude":-70.719384,
@@ -31,17 +32,26 @@
         "club"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15LYVFPdmD0wvGpdWudqUC_41.922370_-70.719384@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725835,
-    "wof:geomhash":"42f9724112f6ee4f3b44c1b653afea54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a39e763d66a72fa71939994729a4705",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672744637
+        }
+    ],
     "wof:id":672744637,
-    "wof:lastmodified":1472625988,
+    "wof:lastmodified":1492113313,
     "wof:name":"Plymouth Lodge Af & AM",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

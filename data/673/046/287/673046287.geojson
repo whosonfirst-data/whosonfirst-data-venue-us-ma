@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.117126,41.836418,-71.117126,41.836418",
     "geom:latitude":41.836418,
     "geom:longitude":-71.117126,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bVTs47HlKw7nGUdiqlsiV_41.836426_-71.117341@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732683,
-    "wof:geomhash":"26d872d47a136e2379c26cde9b8602b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da5a4120c383214ae98d33a9ad6a2588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523323,
+            "venue_id":673046287
+        }
+    ],
     "wof:id":673046287,
-    "wof:lastmodified":1472625071,
+    "wof:lastmodified":1492102943,
     "wof:name":"La Mirage",
     "wof:parent_id":420523323,
     "wof:placetype":"venue",

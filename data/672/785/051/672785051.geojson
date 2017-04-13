@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.592303,42.5116,-71.592303,42.5116",
     "geom:latitude":42.5116,
     "geom:longitude":-71.592303,
@@ -34,10 +35,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85809037,
-        102084655,
         85950627,
-        85824179
+        102084655,
+        85824179,
+        85809037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +46,8 @@
     },
     "wof:country":"US",
     "wof:created":1461726684,
-    "wof:geomhash":"bcd6e1156fc26c70ea3ca08ef607290f",
+    "wof:geomhash":"b2e564954705e1b6faa1263acb52882e",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85809037,
-            "region_id":85688645,
-            "venue_id":672785051
-        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -61,12 +55,19 @@
             "neighbourhood_id":85824179,
             "region_id":85688645,
             "venue_id":672785051
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85809037,
+            "region_id":85688645,
+            "venue_id":672785051
         }
     ],
     "wof:id":672785051,
-    "wof:lastmodified":1472626008,
+    "wof:lastmodified":1492116869,
     "wof:name":"Astrolabe",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

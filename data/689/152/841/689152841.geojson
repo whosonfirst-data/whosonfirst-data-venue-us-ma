@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.703799,41.909824,-70.703799,41.909824",
     "geom:latitude":41.909824,
     "geom:longitude":-70.703799,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_024sik0cCAYMzifkHxA5aT_41.909824_-70.703799@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741000,
-    "wof:geomhash":"4c984a84f587e38522de8ece3ea28ab8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b77b2bb5cdedc10f1407130b71abfe8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152841
+        }
+    ],
     "wof:id":689152841,
-    "wof:lastmodified":1472625523,
+    "wof:lastmodified":1492101007,
     "wof:name":"Slt Construction Corp Main Office",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

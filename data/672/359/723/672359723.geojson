@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.529223,42.450819,-72.529223,42.450819",
     "geom:latitude":42.450819,
     "geom:longitude":-72.529223,
@@ -31,19 +32,28 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43Mvl4nGYTRJXPKRzF0lXo_42.450819_-72.529223@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716971,
-    "wof:geomhash":"3e2b2f80e714442f5fe8879876ec6240",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4288741ec89729b93a53d6a6c3dd2949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523639,
+            "venue_id":672359723
+        }
+    ],
     "wof:id":672359723,
-    "wof:lastmodified":1472625626,
+    "wof:lastmodified":1492110512,
     "wof:name":"Stone Pony Farm",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

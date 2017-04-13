@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.946936,42.698839,-70.946936,42.698839",
     "geom:latitude":42.698839,
     "geom:longitude":-70.946936,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85845839,
-        102084463
+        102084463,
+        420523475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461714553,
-    "wof:geomhash":"acc3f35410c85b699106f04e90fa62fe",
+    "wof:geomhash":"df165a7cda15b764fbf67fe31d9e2488",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,17 @@
             "neighbourhood_id":85845839,
             "region_id":85688645,
             "venue_id":672247117
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672247117
         }
     ],
     "wof:id":672247117,
-    "wof:lastmodified":1472625331,
+    "wof:lastmodified":1492111513,
     "wof:name":"SMB Machine Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

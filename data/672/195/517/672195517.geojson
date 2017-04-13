@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.105464,42.519597,-71.105464,42.519597",
     "geom:latitude":42.519597,
     "geom:longitude":-71.105464,
@@ -40,7 +41,8 @@
         85633793,
         85950649,
         102084643,
-        85688645
+        85688645,
+        85843915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461713458,
-    "wof:geomhash":"3403e5ed7ddc0d733489cc71e9356a57",
+    "wof:geomhash":"c6730e8f895907ae107e324ea64f9249",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,22 @@
             "neighbourhood_id":85891485,
             "region_id":85688645,
             "venue_id":672195517
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476415,
+            "locality_id":85950649,
+            "neighbourhood_id":85843915,
+            "region_id":85688645,
+            "venue_id":672195517
         }
     ],
     "wof:id":672195517,
-    "wof:lastmodified":1472625156,
+    "wof:lastmodified":1492116446,
     "wof:name":"Samantha's Harvest Co Inc",
-    "wof:parent_id":85891485,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

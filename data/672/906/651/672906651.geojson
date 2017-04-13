@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.631751,41.749562,-70.631751,41.749562",
     "geom:latitude":41.749562,
     "geom:longitude":-70.631751,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85868735,
-        102084367
+        102084367,
+        85842535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461729164,
-    "wof:geomhash":"0e245cdc29658fcd249432643f4db555",
+    "wof:geomhash":"067592f1b73f4d4c0cc97477689098dc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,19 @@
             "neighbourhood_id":85868735,
             "region_id":85688645,
             "venue_id":672906651
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85842535,
+            "region_id":85688645,
+            "venue_id":672906651
         }
     ],
     "wof:id":672906651,
-    "wof:lastmodified":1472626129,
+    "wof:lastmodified":1492108094,
     "wof:name":"Paulies Painting",
-    "wof:parent_id":85868735,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

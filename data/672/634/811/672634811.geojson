@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.751669,41.927332,-70.751669,41.927332",
     "geom:latitude":41.927332,
     "geom:longitude":-70.751669,
@@ -31,17 +32,26 @@
         "cranberry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ExIdOOSbns5hqrjfyKCV1_41.927332_-70.751669@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723390,
-    "wof:geomhash":"a211e2be86c879d845d8aba6453de181",
-    "wof:hierarchy":[],
+    "wof:geomhash":"559dd0c9a44e58ca17c1ae3d91413f59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672634811
+        }
+    ],
     "wof:id":672634811,
-    "wof:lastmodified":1472625893,
+    "wof:lastmodified":1492117145,
     "wof:name":"RASP Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

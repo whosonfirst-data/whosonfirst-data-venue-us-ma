@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.24161,42.454575,-73.24161,42.454575",
     "geom:latitude":42.454575,
     "geom:longitude":-73.24161,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829545,
+        85853761,
         102191575,
         404476123,
         85633793,
         85950325,
         102084369,
-        85688645
+        85688645,
+        85829545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461732325,
-    "wof:geomhash":"049fc073ec2aeedb35b68bb81431d73e",
+    "wof:geomhash":"233ca4fefb064c6b21cf18d1daf45fa8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084369,
+            "localadmin_id":404476123,
+            "locality_id":85950325,
+            "neighbourhood_id":85853761,
+            "region_id":85688645,
+            "venue_id":673029679
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":673029679,
-    "wof:lastmodified":1472625031,
+    "wof:lastmodified":1492104800,
     "wof:name":"Carchedi Realty",
-    "wof:parent_id":85829545,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

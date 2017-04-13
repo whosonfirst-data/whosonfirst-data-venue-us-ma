@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.940905,42.379118,-71.940905,42.379118",
     "geom:latitude":42.379118,
     "geom:longitude":-71.940905,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1In6EKPXBxfEXX3juq9wCw_42.379118_-71.940905@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724743,
-    "wof:geomhash":"505a07bcf4429d18fdfadedf5b00938e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1cc82cee48122b4f044d5a6c46d7183",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524223,
+            "venue_id":672694835
+        }
+    ],
     "wof:id":672694835,
-    "wof:lastmodified":1472625946,
+    "wof:lastmodified":1492106513,
     "wof:name":"Rutland Motor Sales",
     "wof:parent_id":420524223,
     "wof:placetype":"venue",

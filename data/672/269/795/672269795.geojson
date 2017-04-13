@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.480752,41.657702,-70.480752,41.657702",
     "geom:latitude":41.657702,
     "geom:longitude":-70.480752,
@@ -33,17 +34,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IdvIsFGkZI6vjjJ13p3j2_41.657702_-70.480752@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714997,
-    "wof:geomhash":"76cb5b5cca19057a814c8c4aba6adc77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8dc6c6fc6da4c36af7a8c991b0021cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672269795
+        }
+    ],
     "wof:id":672269795,
-    "wof:lastmodified":1472625414,
+    "wof:lastmodified":1492111914,
     "wof:name":"RGL Irrigation",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.783152,42.104633,-70.783152,42.104633",
     "geom:latitude":42.104633,
     "geom:longitude":-70.783152,
@@ -35,7 +36,9 @@
         85688645,
         85633793,
         85850893,
-        102084367
+        102084367,
+        85950471,
+        85847339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722298,
-    "wof:geomhash":"8aa20286eeafc7c9748565d626504218",
+    "wof:geomhash":"10a828f1b48d3e525fd28f1e19208212",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +54,20 @@
             "neighbourhood_id":85850893,
             "region_id":85688645,
             "venue_id":672586535
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950471,
+            "neighbourhood_id":85847339,
+            "region_id":85688645,
+            "venue_id":672586535
         }
     ],
     "wof:id":672586535,
-    "wof:lastmodified":1472625835,
+    "wof:lastmodified":1492108417,
     "wof:name":"Taylor Rental Ctr",
-    "wof:parent_id":85850893,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

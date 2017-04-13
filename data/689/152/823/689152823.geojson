@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.7603,41.926701,-70.7603,41.926701",
     "geom:latitude":41.926701,
     "geom:longitude":-70.7603,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xHCryVt73oYsrN5t51sIH_41.926701_-70.760300@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741000,
-    "wof:geomhash":"a5ec293ee6f95447eed0c3259b915096",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72acde84af024eee417c1bc9e940827e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152823
+        }
+    ],
     "wof:id":689152823,
-    "wof:lastmodified":1472625523,
+    "wof:lastmodified":1492101008,
     "wof:name":"Thomas Brothers Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

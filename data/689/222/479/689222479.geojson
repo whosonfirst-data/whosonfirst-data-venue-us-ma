@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.2085,41.750221,-71.2085,41.750221",
     "geom:latitude":41.750221,
     "geom:longitude":-71.2085,
@@ -39,17 +40,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SfneMIdKv24gZ7lx8tfro_41.750221_-71.208500@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742539,
-    "wof:geomhash":"587b982e25be9bd9be6503907b6ed452",
-    "wof:hierarchy":[],
+    "wof:geomhash":"443730216c5ce0c585baa452c2f2b759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":689222479
+        }
+    ],
     "wof:id":689222479,
-    "wof:lastmodified":1472625624,
+    "wof:lastmodified":1492100193,
     "wof:name":"Home Genius Inc",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

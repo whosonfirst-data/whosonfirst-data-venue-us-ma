@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.83138,42.188589,-71.83138,42.188589",
     "geom:latitude":42.188589,
     "geom:longitude":-71.83138,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NMi0ytEcpi7QLPvgPi5hX_42.188589_-71.831380@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724059,
-    "wof:geomhash":"480c11613f3730bb7c29291a44b59d8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da172764768363b3e1445044f8e8c359",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672664855
+        }
+    ],
     "wof:id":672664855,
-    "wof:lastmodified":1472625912,
+    "wof:lastmodified":1492119586,
     "wof:name":"RNS Pump Co",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

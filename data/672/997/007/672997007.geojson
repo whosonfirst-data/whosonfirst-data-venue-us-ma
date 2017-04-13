@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.50844,41.683448,-70.50844,41.683448",
     "geom:latitude":41.683448,
     "geom:longitude":-70.50844,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GnEnnhJBHB4Cd1GJt6sue_41.683448_-70.508440@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731517,
-    "wof:geomhash":"66bdaa837a334c250e56dc880a744760",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2eb48a863fb1c8339337523bab71fd56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672997007
+        }
+    ],
     "wof:id":672997007,
-    "wof:lastmodified":1472626195,
+    "wof:lastmodified":1492115169,
     "wof:name":"Cape Cod Pediatrics",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

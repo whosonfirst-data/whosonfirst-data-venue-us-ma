@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.402795,42.620286,-71.402795,42.620286",
     "geom:latitude":42.620286,
     "geom:longitude":-71.402795,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dmXXLPRNuLaIbirYrkt3f_42.620286_-71.402795@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715069,
-    "wof:geomhash":"666c69c55b65793f2e1cfc583025a2ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ac6deafaeb81d7e08473ce00633fe2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672273743
+        }
+    ],
     "wof:id":672273743,
-    "wof:lastmodified":1472625427,
+    "wof:lastmodified":1492111474,
     "wof:name":"West Chelmsford United Meth",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

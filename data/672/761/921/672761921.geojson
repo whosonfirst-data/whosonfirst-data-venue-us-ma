@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.522288,42.070532,-72.522288,42.070532",
     "geom:latitude":42.070532,
     "geom:longitude":-72.522288,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475973,
+        85633793,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FyYrQpwRzUOxTREupSEEO_42.070532_-72.522288@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726196,
-    "wof:geomhash":"88c3a6db8ef964aad3c5a59baacf0932",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d8d8b6314f11e360971c42a349d96b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404475973,
+            "region_id":85688645,
+            "venue_id":672761921
+        }
+    ],
     "wof:id":672761921,
-    "wof:lastmodified":1472626003,
+    "wof:lastmodified":1492118917,
     "wof:name":"B&T Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

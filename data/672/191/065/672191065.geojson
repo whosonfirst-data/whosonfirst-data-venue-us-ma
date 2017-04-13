@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.919964,42.083148,-70.919964,42.083148",
     "geom:latitude":42.083148,
     "geom:longitude":-70.919964,
@@ -32,19 +33,28 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rwDXtGAqM0SLmFPXxhjf1_42.083148_-70.919964@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713357,
-    "wof:geomhash":"16a173b75ca7ce3e9aae1a96b755865e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"908f6539c7cc0f6d0d4c95c4432ea5ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523881,
+            "venue_id":672191065
+        }
+    ],
     "wof:id":672191065,
-    "wof:lastmodified":1472625122,
+    "wof:lastmodified":1492116075,
     "wof:name":"Paul Bob's Svc",
-    "wof:parent_id":420523881,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

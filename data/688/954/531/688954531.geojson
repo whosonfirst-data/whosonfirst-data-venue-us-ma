@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.091698,42.135101,-71.091698,42.135101",
     "geom:latitude":42.135101,
     "geom:longitude":-71.091698,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rH8C4tQl9zkKwGy0OirIZ_42.135101_-71.091698@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736335,
-    "wof:geomhash":"ff1a3a8b9b1c0ea93cf862e40be07e16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8116a7db59373f34f6b5a87de1c184be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688954531
+        }
+    ],
     "wof:id":688954531,
-    "wof:lastmodified":1472625154,
+    "wof:lastmodified":1492120872,
     "wof:name":"Twin Oaks Village",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

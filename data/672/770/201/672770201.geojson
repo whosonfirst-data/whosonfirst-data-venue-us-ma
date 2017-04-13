@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.538649,42.378971,-71.538649,42.378971",
     "geom:latitude":42.378971,
     "geom:longitude":-71.538649,
@@ -31,17 +32,26 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l0YYkcRjaICrnBUt3rFbR_42.378971_-71.538649@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726373,
-    "wof:geomhash":"8f269e1ecae832fbc979012727dd6208",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be9784a7f6c824fb2978179136add27c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672770201
+        }
+    ],
     "wof:id":672770201,
-    "wof:lastmodified":1472626004,
+    "wof:lastmodified":1492108525,
     "wof:name":"Independent Livery",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.328972,42.15575,-72.328972,42.15575",
     "geom:latitude":42.15575,
     "geom:longitude":-72.328972,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85851933,
+        102191575,
+        404476365,
         85633793,
         85950385,
         102084627,
-        85851933
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1461722055,
-    "wof:geomhash":"ef60c7345ebfb5e0d9c2b7a47229107e",
+    "wof:geomhash":"eafced2b4577955dd288457f88e7321e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084627,
+            "localadmin_id":404476365,
             "locality_id":85950385,
             "neighbourhood_id":85851933,
             "region_id":85688645,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":672576883,
-    "wof:lastmodified":1472625832,
+    "wof:lastmodified":1492116197,
     "wof:name":"Savage Industries Inc",
     "wof:parent_id":85851933,
     "wof:placetype":"venue",

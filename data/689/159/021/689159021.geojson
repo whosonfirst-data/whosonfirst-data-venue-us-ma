@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.730598,41.929699,-70.730598,41.929699",
     "geom:latitude":41.929699,
     "geom:longitude":-70.730598,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SfhP1XkjKT7CrdTnLCBsP_41.929699_-70.730598@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741150,
-    "wof:geomhash":"263b0146175727e1b49d74d07262f8f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2324db93484ebaef42e6856d5b44d51d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689159021
+        }
+    ],
     "wof:id":689159021,
-    "wof:lastmodified":1472625492,
+    "wof:lastmodified":1492097580,
     "wof:name":"O'brien Electric",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

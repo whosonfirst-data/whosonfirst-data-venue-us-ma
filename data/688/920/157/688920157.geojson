@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.912828,42.875579,-70.912828,42.875579",
     "geom:latitude":42.875579,
     "geom:longitude":-70.912828,
@@ -32,17 +33,34 @@
         "fence-sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476283,
+        85633793,
+        85950401,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sD2ShcrWSY36RnRCnTsiR_42.875579_-70.912828@1303262195"
     },
     "wof:country":"US",
     "wof:created":1461735660,
-    "wof:geomhash":"550ae6180d19f7a6c67ea60bad59cf20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcfc40eec0502e4b58025dc5b62653eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476283,
+            "locality_id":85950401,
+            "region_id":85688645,
+            "venue_id":688920157
+        }
+    ],
     "wof:id":688920157,
-    "wof:lastmodified":1472624924,
+    "wof:lastmodified":1492120429,
     "wof:name":"Prolong Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

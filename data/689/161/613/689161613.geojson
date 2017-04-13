@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.814499,41.955002,-70.814499,41.955002",
     "geom:latitude":41.955002,
     "geom:longitude":-70.814499,
@@ -32,17 +33,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Kx76dxW2VDQjRAi2MDnk3_41.955002_-70.814499@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741215,
-    "wof:geomhash":"e04c39555451ace1bf91c5b40ef57352",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f435214dc66fb196a0c263c953c1d76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":689161613
+        }
+    ],
     "wof:id":689161613,
-    "wof:lastmodified":1472625524,
+    "wof:lastmodified":1492099157,
     "wof:name":"Competition Auto Body",
     "wof:parent_id":420523949,
     "wof:placetype":"venue",

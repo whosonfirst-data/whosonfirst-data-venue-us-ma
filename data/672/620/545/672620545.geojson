@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.102097,41.524535,-71.102097,41.524535",
     "geom:latitude":41.524535,
     "geom:longitude":-71.102097,
@@ -31,19 +32,28 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540493
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13cIkJE1gxZoFgfWOiGQIs_41.524535_-71.102097@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723075,
-    "wof:geomhash":"08accc747c615b26b07add2b6795b8cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0ef363a93fbf17386fc6b0d0b0bfb66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540493,
+            "venue_id":672620545
+        }
+    ],
     "wof:id":672620545,
-    "wof:lastmodified":1472625873,
+    "wof:lastmodified":1492115403,
     "wof:name":"P O M Energy Concepts",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.823666,42.20131,-71.823666,42.20131",
     "geom:latitude":42.20131,
     "geom:longitude":-71.823666,
@@ -32,17 +33,26 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0t3WsLphfshcBaBULJEFkX_42.201310_-71.823666@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721309,
-    "wof:geomhash":"4e006509daa7bb2e82a4eca16a03970e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbcd93f7824b4a2118bd39ff0cbe9dce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672542509
+        }
+    ],
     "wof:id":672542509,
-    "wof:lastmodified":1472625806,
+    "wof:lastmodified":1492116135,
     "wof:name":"Briscon Electric Mfg Corp",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.800992,41.911158,-70.800992,41.911158",
     "geom:latitude":41.911158,
     "geom:longitude":-70.800992,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ckTq1dMeF7nIwyDcpTztP_41.911158_-70.800992@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714558,
-    "wof:geomhash":"ddac7916a2d8592b2f31c51c6b116a83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9730b729c6c6e5e2194c1036972d82a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672247439
+        }
+    ],
     "wof:id":672247439,
-    "wof:lastmodified":1472625346,
+    "wof:lastmodified":1492111518,
     "wof:name":"Carver Town Animal Control",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

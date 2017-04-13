@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.26314,42.13157,-71.26314,42.13157",
     "geom:latitude":42.13157,
     "geom:longitude":-71.26314,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aqO9FJumVIu5R7O3NvYoM_42.131570_-71.263140@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725873,
-    "wof:geomhash":"9012e8fcc23738922e8bec00eee248e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9be570cc35d347e1cb3043ccf7d37d95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672746791
+        }
+    ],
     "wof:id":672746791,
-    "wof:lastmodified":1472625990,
+    "wof:lastmodified":1492109642,
     "wof:name":"John T Frasca MD",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

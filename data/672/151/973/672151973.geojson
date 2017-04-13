@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.666827,41.957484,-70.666827,41.957484",
     "geom:latitude":41.957484,
     "geom:longitude":-70.666827,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837907,
+        85827215,
         102191575,
         404476561,
         85633793,
         85950483,
         102084367,
         85688645,
-        85827215
+        85837907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461712486,
-    "wof:geomhash":"6d4e0969e59b174dbd2bd0c21734a8cf",
+    "wof:geomhash":"b9fa8a3e056a5b2579478ed3d5696a99",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476561,
-            "locality_id":85950483,
-            "neighbourhood_id":85837907,
-            "region_id":85688645,
-            "venue_id":672151973
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -68,12 +59,22 @@
             "neighbourhood_id":85827215,
             "region_id":85688645,
             "venue_id":672151973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476561,
+            "locality_id":85950483,
+            "neighbourhood_id":85837907,
+            "region_id":85688645,
+            "venue_id":672151973
         }
     ],
     "wof:id":672151973,
-    "wof:lastmodified":1472624974,
+    "wof:lastmodified":1492108463,
     "wof:name":"Stevenson & Lynch",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

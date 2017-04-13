@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.228232,41.75144,-71.228232,41.75144",
     "geom:latitude":41.75144,
     "geom:longitude":-71.228232,
@@ -34,17 +35,26 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zMua0T5BKNmzMpepkF482_41.751440_-71.228232@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714186,
-    "wof:geomhash":"7c7446249e57e001e69761c584af70dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a139af69eaa90b8bb24ee3fefb2d2326",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":672230235
+        }
+    ],
     "wof:id":672230235,
-    "wof:lastmodified":1472625290,
+    "wof:lastmodified":1492111217,
     "wof:name":"Bristol Pool & Spa",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

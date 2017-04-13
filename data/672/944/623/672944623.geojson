@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.179459,42.025557,-71.179459,42.025557",
     "geom:latitude":42.025557,
     "geom:longitude":-71.179459,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85857581,
-        102084407
+        102084407,
+        420523367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461729994,
-    "wof:geomhash":"b5b17bc02680954923043dcdde481e3e",
+    "wof:geomhash":"7e9267dc965c80cc368aeca9595fbb36",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,17 @@
             "neighbourhood_id":85857581,
             "region_id":85688645,
             "venue_id":672944623
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523367,
+            "venue_id":672944623
         }
     ],
     "wof:id":672944623,
-    "wof:lastmodified":1472626161,
+    "wof:lastmodified":1492117506,
     "wof:name":"J R Building Contractors",
-    "wof:parent_id":85857581,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

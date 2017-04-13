@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.1543,42.15797,-71.1543,42.15797",
     "geom:latitude":42.15797,
     "geom:longitude":-71.1543,
@@ -36,19 +37,48 @@
         "adjuster"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85809323,
+        102191575,
+        404476589,
+        85633793,
+        85950839,
+        102084403,
+        85688645,
+        85950843,
+        85816759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b7DGETujCfWnZ83tmbnbl_42.157970_-71.154300@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722458,
-    "wof:geomhash":"673991e541c67c0b8726322ee145109c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47b7fe4dd49e5f0c39598c42a52802e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476589,
+            "locality_id":85950839,
+            "neighbourhood_id":85809323,
+            "region_id":85688645,
+            "venue_id":672594355
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "locality_id":85950843,
+            "neighbourhood_id":85816759,
+            "region_id":85688645,
+            "venue_id":672594355
+        }
+    ],
     "wof:id":672594355,
-    "wof:lastmodified":1472625849,
+    "wof:lastmodified":1492117005,
     "wof:name":"Holtzman Jerold M & Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

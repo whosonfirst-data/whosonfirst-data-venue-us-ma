@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.098373,42.137239,-71.098373,42.137239",
     "geom:latitude":42.137239,
     "geom:longitude":-71.098373,
@@ -32,17 +33,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XkCYqvFEmTHY72L64saf4_42.137239_-71.098373@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729763,
-    "wof:geomhash":"aa1675385dcc6c12fa2b709d9339ded9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c13019aa2cfc9b5731d55a409dc6b56a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672935407
+        }
+    ],
     "wof:id":672935407,
-    "wof:lastmodified":1472626153,
+    "wof:lastmodified":1492115727,
     "wof:name":"Advanced Laser Recharge",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

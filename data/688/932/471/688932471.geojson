@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.945999,42.691898,-70.945999,42.691898",
     "geom:latitude":42.691898,
     "geom:longitude":-70.945999,
@@ -29,8 +30,9 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523475,
+        85688645,
         85845839,
         102084463
     ],
@@ -40,8 +42,13 @@
     },
     "wof:country":"US",
     "wof:created":1461735894,
-    "wof:geomhash":"38e764ec3c9e80cc7722d20f20cd7516",
+    "wof:geomhash":"8af0d67a21e0f18a89aa8c6ce641db1d",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":688932471
+        },
         {
             "country_id":85633793,
             "county_id":102084463,
@@ -51,9 +58,9 @@
         }
     ],
     "wof:id":688932471,
-    "wof:lastmodified":1472625009,
+    "wof:lastmodified":1492120536,
     "wof:name":"Skip's Plumbing & Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

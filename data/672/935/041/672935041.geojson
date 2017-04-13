@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.718576,41.937613,-70.718576,41.937613",
     "geom:latitude":41.937613,
     "geom:longitude":-70.718576,
@@ -33,19 +34,38 @@
         "feeder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817,
+        85688645,
+        85809093,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15Ct9uq0OfcvALRe96OaCu_41.937613_-70.718576@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729754,
-    "wof:geomhash":"96e58ec4ce4d5ebd981a8a49e691142a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cdbf654c3386731b02299c70af1b7de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672935041
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85809093,
+            "region_id":85688645,
+            "venue_id":672935041
+        }
+    ],
     "wof:id":672935041,
-    "wof:lastmodified":1472626143,
+    "wof:lastmodified":1492115735,
     "wof:name":"North Carver Farm & Pet Supply",
-    "wof:parent_id":420523817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

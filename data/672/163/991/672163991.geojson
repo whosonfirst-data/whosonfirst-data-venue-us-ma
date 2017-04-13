@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.969323,42.134205,-71.969323,42.134205",
     "geom:latitude":42.134205,
     "geom:longitude":-71.969323,
@@ -33,17 +34,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TByGsZVBzGZGIJGjv4OOF_42.134205_-71.969323@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712768,
-    "wof:geomhash":"575018602fa6154059ac4ec599821ae2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65e5f3ce106729946fa2a21c92708315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":672163991
+        }
+    ],
     "wof:id":672163991,
-    "wof:lastmodified":1472625041,
+    "wof:lastmodified":1492110936,
     "wof:name":"Charlton Assessors Office",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.628468,42.199338,-72.628468,42.199338",
     "geom:latitude":42.199338,
     "geom:longitude":-72.628468,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838905,
+        85817937,
         102191575,
         404476357,
         85633793,
         85950395,
         102084627,
-        85688645
+        85688645,
+        85838905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461721928,
-    "wof:geomhash":"9e16202b43017a3e0ad1f4e8e0dd1246",
+    "wof:geomhash":"dd0886c9b541f53b9d33b612bf4e5349",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476357,
+            "locality_id":85950395,
+            "neighbourhood_id":85817937,
+            "region_id":85688645,
+            "venue_id":672570733
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":672570733,
-    "wof:lastmodified":1472625829,
+    "wof:lastmodified":1492108246,
     "wof:name":"Center For Psychiatry",
-    "wof:parent_id":85838905,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

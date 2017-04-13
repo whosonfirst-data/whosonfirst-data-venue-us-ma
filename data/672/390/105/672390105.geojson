@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.804802,42.29259,-71.804802,42.29259",
     "geom:latitude":42.29259,
     "geom:longitude":-71.804802,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810327,
+        85881873,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85810327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461717655,
-    "wof:geomhash":"6e4d771babac758511b9bc819a9ab8bc",
+    "wof:geomhash":"efb5b7611a35e666ec8cc5c6745fc85b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85881873,
+            "region_id":85688645,
+            "venue_id":672390105
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672390105,
-    "wof:lastmodified":1472625655,
+    "wof:lastmodified":1492112702,
     "wof:name":"Ramstrom's Service Ctr",
-    "wof:parent_id":85810327,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

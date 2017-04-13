@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.99563,42.727996,-70.99563,42.727996",
     "geom:latitude":42.727996,
     "geom:longitude":-70.99563,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0atm8DxFB0P5zYTrsUC6u9_42.727996_-70.995630@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732327,
-    "wof:geomhash":"1d46d64fdd9f8f22ca1906ce163ab484",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8374b8aa224aa0b0d6f4c592cef48238",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673029745
+        }
+    ],
     "wof:id":673029745,
-    "wof:lastmodified":1472625038,
+    "wof:lastmodified":1492104808,
     "wof:name":"Sam's Transportation",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

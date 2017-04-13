@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.069342,42.27142,-73.069342,42.27142",
     "geom:latitude":42.27142,
     "geom:longitude":-73.069342,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523247
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ei9Spx6oL9CR6EfClIfQB_42.271420_-73.069342@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727768,
-    "wof:geomhash":"53967ad8a8164a7a614d7193dff3f7ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e041f61853f590992c1e45ce6adbccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523247,
+            "venue_id":672838705
+        }
+    ],
     "wof:id":672838705,
-    "wof:lastmodified":1472626070,
+    "wof:lastmodified":1492116984,
     "wof:name":"Sherwood Forest Road District",
     "wof:parent_id":420523247,
     "wof:placetype":"venue",

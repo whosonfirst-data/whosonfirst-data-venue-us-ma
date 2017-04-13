@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.584477,42.265941,-72.584477,42.265941",
     "geom:latitude":42.265941,
     "geom:longitude":-72.584477,
@@ -36,7 +37,9 @@
         85633793,
         85950395,
         102084627,
-        85849109
+        85849109,
+        85835103,
+        102084459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461731514,
-    "wof:geomhash":"5ebf74b3ae7030b37056493cf7062ece",
+    "wof:geomhash":"a6ec21197227bb7ebcb2ef801b5d3d91",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,19 @@
             "neighbourhood_id":85849109,
             "region_id":85688645,
             "venue_id":672996907
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084459,
+            "neighbourhood_id":85835103,
+            "region_id":85688645,
+            "venue_id":672996907
         }
     ],
     "wof:id":672996907,
-    "wof:lastmodified":1472626205,
+    "wof:lastmodified":1492107282,
     "wof:name":"A & I Auto",
-    "wof:parent_id":85849109,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

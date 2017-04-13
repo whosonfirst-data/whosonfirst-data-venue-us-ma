@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.89914,42.692756,-72.89914,42.692756",
     "geom:latitude":42.692756,
     "geom:longitude":-72.89914,
@@ -31,17 +32,26 @@
         "camp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523495
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DABVJTaEUUNtzx9Gb8kKZ_42.692756_-72.899140@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724726,
-    "wof:geomhash":"1960daa94dbc70557168a619c38d2db1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"447ba54affbddaf5047cb210c4c35fa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523495,
+            "venue_id":672693919
+        }
+    ],
     "wof:id":672693919,
-    "wof:lastmodified":1472625944,
+    "wof:lastmodified":1492107799,
     "wof:name":"Rowe Camp",
     "wof:parent_id":420523495,
     "wof:placetype":"venue",

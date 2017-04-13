@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.981958,42.677976,-70.981958,42.677976",
     "geom:latitude":42.677976,
     "geom:longitude":-70.981958,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1s7LYll2HUW1eY1k6e0QZe_42.677976_-70.981958@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732328,
-    "wof:geomhash":"4977458e58f0c48471c4a5eb6722a1a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6163cc98fcf883986b7afd6615f8ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673029821
+        }
+    ],
     "wof:id":673029821,
-    "wof:lastmodified":1472625034,
+    "wof:lastmodified":1492104807,
     "wof:name":"Colonial Remodeling",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

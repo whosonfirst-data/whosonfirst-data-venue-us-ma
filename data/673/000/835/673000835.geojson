@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.16835,42.008609,-71.16835,42.008609",
     "geom:latitude":42.008609,
     "geom:longitude":-71.16835,
@@ -31,19 +32,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22yvKB0KhUwYBlwdvk4wia_42.008609_-71.168350@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731595,
-    "wof:geomhash":"bf8e81cdaa5d1c7c93bb7d0e9eafef3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ad5f0d1c75145188ca8f0943ef1e939",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523367,
+            "venue_id":673000835
+        }
+    ],
     "wof:id":673000835,
-    "wof:lastmodified":1472624940,
+    "wof:lastmodified":1492104422,
     "wof:name":"Jag Builders",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

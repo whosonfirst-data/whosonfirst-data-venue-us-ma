@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.824766,41.940988,-70.824766,41.940988",
     "geom:latitude":41.940988,
     "geom:longitude":-70.824766,
@@ -32,17 +33,26 @@
         "academy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HCtqOg8P3RAwWgwiNzNN4_41.940988_-70.824766@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719500,
-    "wof:geomhash":"5d918d022b585791fcf5f55b9cb7d05a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"323c8fd5b1329e872670f3243d09ed79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":672462687
+        }
+    ],
     "wof:id":672462687,
-    "wof:lastmodified":1472625732,
+    "wof:lastmodified":1492110168,
     "wof:name":"Avalon Farm",
     "wof:parent_id":420523949,
     "wof:placetype":"venue",

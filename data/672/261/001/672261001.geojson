@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.892975,41.644507,-70.892975,41.644507",
     "geom:latitude":41.644507,
     "geom:longitude":-70.892975,
@@ -31,17 +32,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iyVmD63q7IC9GyrDpP85s_41.644507_-70.892975@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714829,
-    "wof:geomhash":"ecc397dc622541d582827a5089f8832d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77a18e2bdb014863c169477bfca1314d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672261001
+        }
+    ],
     "wof:id":672261001,
-    "wof:lastmodified":1472625335,
+    "wof:lastmodified":1492112957,
     "wof:name":"Fairhaven Gas & Coffee Shoppe",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.928944,42.696054,-70.928944,42.696054",
     "geom:latitude":42.696054,
     "geom:longitude":-70.928944,
@@ -31,19 +32,38 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85828121,
+        102084463,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jxz6a4zxebDlaUO0GG6dJ_42.696054_-70.928944@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724873,
-    "wof:geomhash":"0f9d9d6b613c1017af2052c57543b2a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2027b80e30a3bf9c5b975af5fb2de737",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85828121,
+            "region_id":85688645,
+            "venue_id":672700467
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672700467
+        }
+    ],
     "wof:id":672700467,
-    "wof:lastmodified":1472625942,
+    "wof:lastmodified":1492109157,
     "wof:name":"Portland Group Inc",
-    "wof:parent_id":420523475,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

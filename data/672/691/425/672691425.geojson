@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.559576,42.14573,-72.559576,42.14573",
     "geom:latitude":42.14573,
     "geom:longitude":-72.559576,
@@ -32,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816813,
+        85810839,
         102191575,
-        404476369,
+        404476347,
         85633793,
-        85950393,
+        85950397,
         102084627,
-        85688645
+        85688645,
+        85816813,
+        404476369,
+        85950393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,18 @@
     },
     "wof:country":"US",
     "wof:created":1461724673,
-    "wof:geomhash":"d62cd4b04265d3a276a4aac7a7bda1db",
+    "wof:geomhash":"bcab7c5480b476892bddb29c51c7ecb7",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "neighbourhood_id":85810839,
+            "region_id":85688645,
+            "venue_id":672691425
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +74,9 @@
         }
     ],
     "wof:id":672691425,
-    "wof:lastmodified":1472625931,
+    "wof:lastmodified":1492114634,
     "wof:name":"East Springfield Fences",
-    "wof:parent_id":85816813,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

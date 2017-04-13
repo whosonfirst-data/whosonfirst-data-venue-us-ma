@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101509,42.124191,-71.101509,42.124191",
     "geom:latitude":42.124191,
     "geom:longitude":-71.101509,
@@ -38,17 +39,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MQYXpspEhTW28Q4UDRzrF_42.124191_-71.101509@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736341,
-    "wof:geomhash":"ae0707b5b6488d9c7f8ca48bc955bdd6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"441a69ba97459f32f2b2cbfd919427d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688954885
+        }
+    ],
     "wof:id":688954885,
-    "wof:lastmodified":1472625181,
+    "wof:lastmodified":1492120870,
     "wof:name":"J M Overton Sales & Marketing Co",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

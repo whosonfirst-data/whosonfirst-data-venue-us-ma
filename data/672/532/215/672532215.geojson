@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.390157,42.645496,-71.390157,42.645496",
     "geom:latitude":42.645496,
     "geom:longitude":-71.390157,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zjy22QyBJ3wsZs8YC1BSJ_42.645496_-71.390157@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721108,
-    "wof:geomhash":"75d5320bf27317cf8cd3a0660ed966d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a766459b83782d1339c927c3af595f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672532215
+        }
+    ],
     "wof:id":672532215,
-    "wof:lastmodified":1472625783,
+    "wof:lastmodified":1492114246,
     "wof:name":"Nesset L",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

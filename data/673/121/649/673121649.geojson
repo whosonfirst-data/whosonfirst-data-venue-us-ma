@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.817833,42.345831,-71.817833,42.345831",
     "geom:latitude":42.345831,
     "geom:longitude":-71.817833,
@@ -32,17 +33,26 @@
         "garbage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lyQKbuYmWr56ieN9Kr0gE_42.345831_-71.817833@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734230,
-    "wof:geomhash":"f49a492d1557d995d2c0aa90f3134e5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d280d869dceca0f493a2e1c3728e8520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":673121649
+        }
+    ],
     "wof:id":673121649,
-    "wof:lastmodified":1472625368,
+    "wof:lastmodified":1492104164,
     "wof:name":"Up Running",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

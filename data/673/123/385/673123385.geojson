@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.671249,42.157391,-71.671249,42.157391",
     "geom:latitude":42.157391,
     "geom:longitude":-71.671249,
@@ -32,17 +33,26 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cAmYqYtcRY39k2Nl2ZS2d_42.157391_-71.671249@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734259,
-    "wof:geomhash":"127f5bf9bb8809f150e8f659bfcd021a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4663cbd526262c5303da9cd621914816",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524115,
+            "venue_id":673123385
+        }
+    ],
     "wof:id":673123385,
-    "wof:lastmodified":1472625360,
+    "wof:lastmodified":1492102920,
     "wof:name":"Apartment Pro Mortgage Company",
     "wof:parent_id":420524115,
     "wof:placetype":"venue",

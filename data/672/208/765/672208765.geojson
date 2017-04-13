@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.086869,41.598693,-71.086869,41.598693",
     "geom:latitude":41.598693,
     "geom:longitude":-71.086869,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x5FcxN4zAuO8zoKe4nXi5_41.598693_-71.086869@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713744,
-    "wof:geomhash":"d19c01aadb22d1dfba485b8572788e31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0d1415193a8446268fbadaa281e6850",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672208765
+        }
+    ],
     "wof:id":672208765,
-    "wof:lastmodified":1472625238,
+    "wof:lastmodified":1492109228,
     "wof:name":"Hart Auto Body",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

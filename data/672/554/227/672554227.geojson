@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.021247,42.664835,-71.021247,42.664835",
     "geom:latitude":42.664835,
     "geom:longitude":-71.021247,
@@ -31,17 +32,26 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523465
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XkBTR07GzIKScyLxQf67z_42.664835_-71.021247@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721556,
-    "wof:geomhash":"7fdb6b774a0c4030ebf202263943b4b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a13686148f2cd60245202a7bf388d706",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523465,
+            "venue_id":672554227
+        }
+    ],
     "wof:id":672554227,
-    "wof:lastmodified":1472625817,
+    "wof:lastmodified":1492117155,
     "wof:name":"On Location Studio-Photography",
     "wof:parent_id":420523465,
     "wof:placetype":"venue",

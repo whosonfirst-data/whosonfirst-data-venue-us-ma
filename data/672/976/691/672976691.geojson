@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.942871,42.770219,-70.942871,42.770219",
     "geom:latitude":42.770219,
     "geom:longitude":-70.942871,
@@ -31,17 +32,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11Nuhljx3yWiXdxMAPchjM_42.770219_-70.942871@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730956,
-    "wof:geomhash":"886cfe3283a845a4fe139e2a75f12fe4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d558751be315644cbbe4163813f254e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672976691
+        }
+    ],
     "wof:id":672976691,
-    "wof:lastmodified":1472626190,
+    "wof:lastmodified":1492112855,
     "wof:name":"Dewitt Ronald D Mfrs Rep",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

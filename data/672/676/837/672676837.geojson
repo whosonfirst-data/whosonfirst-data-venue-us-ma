@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.571179,42.578606,-71.571179,42.578606",
     "geom:latitude":42.578606,
     "geom:longitude":-71.571179,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476491,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BSP10OuloCSvyDRE4mpFe_42.578606_-71.571179@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724313,
-    "wof:geomhash":"5f0edce314acd763899d9846ecfeeb31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7a5e7d6b3573d9eca17476a086bff6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476491,
+            "region_id":85688645,
+            "venue_id":672676837
+        }
+    ],
     "wof:id":672676837,
-    "wof:lastmodified":1472625929,
+    "wof:lastmodified":1492117641,
     "wof:name":"CCMU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

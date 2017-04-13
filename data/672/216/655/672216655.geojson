@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.556115,42.298174,-71.556115,42.298174",
     "geom:latitude":42.298174,
     "geom:longitude":-71.556115,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476613,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qAXWv0KwWXXRsBjq4mBiw_42.298174_-71.556115@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713903,
-    "wof:geomhash":"d32335b5025cc0eaefe11a104f0775de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff4d0e5581adb72bfeb101339269263d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476613,
+            "region_id":85688645,
+            "venue_id":672216655
+        }
+    ],
     "wof:id":672216655,
-    "wof:lastmodified":1472625212,
+    "wof:lastmodified":1492107547,
     "wof:name":"Intl Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.904296,42.05393,-70.904296,42.05393",
     "geom:latitude":42.05393,
     "geom:longitude":-70.904296,
@@ -32,17 +33,26 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nxFjoDUQZvrrQuSkpW77C_42.053930_-70.904296@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722480,
-    "wof:geomhash":"d8365afcb40ce0d8d38459647079b067",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5dc58642700da17553af7693b1bfcfc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":672595431
+        }
+    ],
     "wof:id":672595431,
-    "wof:lastmodified":1472625847,
+    "wof:lastmodified":1492115319,
     "wof:name":"Amerty Graphics",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.99765,41.640218,-70.99765,41.640218",
     "geom:latitude":41.640218,
     "geom:longitude":-70.99765,
@@ -28,19 +29,49 @@
     "sg:postcode":"02747",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85849077,
+        102191575,
+        404476169,
+        85633793,
+        85950685,
+        102084407,
+        85688645,
+        420558919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6h2QNF4mwQ41XPZGaKMoKP_41.640218_-70.997650@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715628,
-    "wof:geomhash":"fa973f72fbf40120007033e8c15335bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69cb9923890c4e1c25a6ac1ddfbf1622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476169,
+            "locality_id":85950685,
+            "neighbourhood_id":85849077,
+            "region_id":85688645,
+            "venue_id":672300813
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476169,
+            "locality_id":85950685,
+            "neighbourhood_id":420558919,
+            "region_id":85688645,
+            "venue_id":672300813
+        }
+    ],
     "wof:id":672300813,
-    "wof:lastmodified":1472625508,
+    "wof:lastmodified":1492114946,
     "wof:name":"Gumbo Restaurant",
-    "wof:parent_id":420558919,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

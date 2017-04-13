@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.277137,41.948963,-71.277137,41.948963",
     "geom:latitude":41.948963,
     "geom:longitude":-71.277137,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807495,
+        85814695,
         102191575,
         404476165,
         85633793,
         85950363,
         102084407,
-        85688645
+        85688645,
+        85807495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461729014,
-    "wof:geomhash":"5b8a3519089998f0954f31ce45758e36",
+    "wof:geomhash":"11eac7e92ca96e11e5d0e6f6f5f97858",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476165,
+            "locality_id":85950363,
+            "neighbourhood_id":85814695,
+            "region_id":85688645,
+            "venue_id":672899435
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":672899435,
-    "wof:lastmodified":1472626117,
+    "wof:lastmodified":1492105606,
     "wof:name":"Pleasant Street Rest Home Inc",
-    "wof:parent_id":85807495,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

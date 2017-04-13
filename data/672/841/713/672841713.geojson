@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.072966,42.034514,-71.072966,42.034514",
     "geom:latitude":42.034514,
     "geom:longitude":-71.072966,
@@ -32,19 +33,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_104nRCz7WK8H3lNJKRpFzO_42.034514_-71.072966@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727832,
-    "wof:geomhash":"8df6306aa0b901e1e8d8deaee5ec20a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1bc18a794dcfedcc98c7166efc78330",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":672841713
+        }
+    ],
     "wof:id":672841713,
-    "wof:lastmodified":1472626075,
+    "wof:lastmodified":1492112659,
     "wof:name":"RJM Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.998912,42.656064,-70.998912,42.656064",
     "geom:latitude":42.656064,
     "geom:longitude":-70.998912,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TBc47hCOXX4ZEJyf4i0UA_42.656064_-70.998912@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723842,
-    "wof:geomhash":"95c4f4df32b53229637ca3dd57857993",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4b8276943ae52462543bdb7bf556b42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672655841
+        }
+    ],
     "wof:id":672655841,
-    "wof:lastmodified":1472625901,
+    "wof:lastmodified":1492119868,
     "wof:name":"Four-Mile Village",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

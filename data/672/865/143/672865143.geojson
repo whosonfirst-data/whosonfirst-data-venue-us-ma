@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.06576,42.541536,-71.06576,42.541536",
     "geom:latitude":42.541536,
     "geom:longitude":-71.06576,
@@ -32,17 +33,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475945,
+        85633793,
+        85950795,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_262HGiRALtf9U9BGY8R0kD_42.541536_-71.065760@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728276,
-    "wof:geomhash":"b713958b872e6e95dcad291f1f23f483",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d76bdb5cdc5ddba832e07d4729388b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404475945,
+            "locality_id":85950795,
+            "region_id":85688645,
+            "venue_id":672865143
+        }
+    ],
     "wof:id":672865143,
-    "wof:lastmodified":1472626091,
+    "wof:lastmodified":1492112024,
     "wof:name":"Champion Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

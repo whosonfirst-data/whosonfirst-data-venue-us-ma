@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.937125,42.370456,-71.937125,42.370456",
     "geom:latitude":42.370456,
     "geom:longitude":-71.937125,
@@ -31,19 +32,28 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41IkX9hOP7Z5pjD6HRUJol_42.370456_-71.937125@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727105,
-    "wof:geomhash":"dca6efef1b91f02784f4ea4814bbcb30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa513cbff3f7b9bc206a2f27ccd99772",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524223,
+            "venue_id":672806045
+        }
+    ],
     "wof:id":672806045,
-    "wof:lastmodified":1472626031,
+    "wof:lastmodified":1492108147,
     "wof:name":"Amy E Bragg",
-    "wof:parent_id":420524131,
+    "wof:parent_id":420524223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

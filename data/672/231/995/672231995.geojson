@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.558455,42.353983,-72.558455,42.353983",
     "geom:latitude":42.353983,
     "geom:longitude":-72.558455,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85842147,
+        102084459,
         85834283,
         102191575,
         404476381,
-        85633793,
-        85950863,
-        102084459,
-        85688645
+        85950863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,15 @@
     },
     "wof:country":"US",
     "wof:created":1461714223,
-    "wof:geomhash":"6bad2156e76da6492a6d78cd099f8ea4",
+    "wof:geomhash":"c2bb7a57e5957c5448bddacde0b4b30f",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084459,
+            "neighbourhood_id":85842147,
+            "region_id":85688645,
+            "venue_id":672231995
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +69,9 @@
         }
     ],
     "wof:id":672231995,
-    "wof:lastmodified":1472625313,
+    "wof:lastmodified":1492117689,
     "wof:name":"Taylor Rental Of Hadley",
-    "wof:parent_id":85834283,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

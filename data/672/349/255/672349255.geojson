@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.922375,42.645168,-71.922375,42.645168",
     "geom:latitude":42.645168,
     "geom:longitude":-71.922375,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524211
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ok1ZOMMesINZ8JvMGPbJg_42.645168_-71.922375@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716734,
-    "wof:geomhash":"6b7afda8388d40fd3839e4d60cb291a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d83e5fac4e6b44712d2ca9e2b31efb81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524211,
+            "venue_id":672349255
+        }
+    ],
     "wof:id":672349255,
-    "wof:lastmodified":1472625594,
+    "wof:lastmodified":1492115944,
     "wof:name":"Barletta Engineering",
     "wof:parent_id":420524211,
     "wof:placetype":"venue",

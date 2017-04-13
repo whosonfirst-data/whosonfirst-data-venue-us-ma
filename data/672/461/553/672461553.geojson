@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.656511,41.925196,-70.656511,41.925196",
     "geom:latitude":41.925196,
     "geom:longitude":-70.656511,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85827215,
+        102191575,
+        404476561,
         85633793,
-        85810861,
-        102084367
+        85950483,
+        102084367,
+        85688645,
+        85810861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461719475,
-    "wof:geomhash":"f35b1778f6aeb28b549e7c1c8b244b29",
+    "wof:geomhash":"4664df040d1a515155c2360ee4bee532",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476561,
+            "locality_id":85950483,
+            "neighbourhood_id":85827215,
+            "region_id":85688645,
+            "venue_id":672461553
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -55,9 +70,9 @@
         }
     ],
     "wof:id":672461553,
-    "wof:lastmodified":1472625729,
+    "wof:lastmodified":1492115510,
     "wof:name":"Morrison's Power Equipment",
-    "wof:parent_id":85810861,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

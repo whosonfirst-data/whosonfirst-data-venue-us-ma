@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.801631,41.911986,-70.801631,41.911986",
     "geom:latitude":41.911986,
     "geom:longitude":-70.801631,
@@ -31,17 +32,26 @@
         "wholesaler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71wgWcjfREroWDoynDfQ9C_41.911986_-70.801631@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729784,
-    "wof:geomhash":"cbeda40eb4f3163ac1bd2b11ec0fffda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4951febe00bcf23f171d031cb8c303d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672936437
+        }
+    ],
     "wof:id":672936437,
-    "wof:lastmodified":1472626153,
+    "wof:lastmodified":1492106818,
     "wof:name":"Auto Wholesalers",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

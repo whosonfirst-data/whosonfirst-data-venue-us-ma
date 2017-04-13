@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.421073,42.239091,-72.421073,42.239091",
     "geom:latitude":42.239091,
     "geom:longitude":-72.421073,
@@ -32,17 +33,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qgarJZjQctGWfAGCE1s87_42.239091_-72.421073@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733739,
-    "wof:geomhash":"51ed6b5310536d6359b2b14339585558",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11c3b63b09d6e7b36ef0dccc69fb69eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":673099109
+        }
+    ],
     "wof:id":673099109,
-    "wof:lastmodified":1472625267,
+    "wof:lastmodified":1492105474,
     "wof:name":"Medical Gas Eqp Sls & Svc",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.090522,41.577133,-71.090522,41.577133",
     "geom:latitude":41.577133,
     "geom:longitude":-71.090522,
@@ -40,17 +41,26 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32HHupQeWs3YIguY8FkgUL_41.577133_-71.090522@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742572,
-    "wof:geomhash":"413d4d087dbcbcb0da642d4bc788b5f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a06fd31b39ce5d4a76783fd757edc93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":689224063
+        }
+    ],
     "wof:id":689224063,
-    "wof:lastmodified":1472625612,
+    "wof:lastmodified":1492097827,
     "wof:name":"Westport Family Medicine Center",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

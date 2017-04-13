@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.920512,42.248689,-71.920512,42.248689",
     "geom:latitude":42.248689,
     "geom:longitude":-71.920512,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sqai0CtoKPTjVgtBmXYB3_42.248689_-71.920512@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719362,
-    "wof:geomhash":"a6ce5cec309ed01132fb98d862b10287",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab128add5073b3e3325d597cba3c8d21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672456959
+        }
+    ],
     "wof:id":672456959,
-    "wof:lastmodified":1472625728,
+    "wof:lastmodified":1492109666,
     "wof:name":"Jim Chartier Siding",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

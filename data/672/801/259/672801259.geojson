@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.073565,41.667965,-70.073565,41.667965",
     "geom:latitude":41.667965,
     "geom:longitude":-70.073565,
@@ -34,17 +35,34 @@
         "rooms"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476183,
+        85633793,
+        85950559,
+        102084379
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70rdREkZwIeE7T50iuvLak_41.667965_-70.073565@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726998,
-    "wof:geomhash":"707de5333fea992fc0b126dd5ccf07ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92c6370a1b40e8895c29e1039ae43635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404476183,
+            "locality_id":85950559,
+            "region_id":85688645,
+            "venue_id":672801259
+        }
+    ],
     "wof:id":672801259,
-    "wof:lastmodified":1472626029,
+    "wof:lastmodified":1492114573,
     "wof:name":"Christian Science Reading Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

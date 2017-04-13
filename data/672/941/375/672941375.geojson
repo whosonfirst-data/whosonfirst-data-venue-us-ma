@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.567561,42.710655,-72.567561,42.710655",
     "geom:latitude":42.710655,
     "geom:longitude":-72.567561,
@@ -32,17 +33,26 @@
         "weaving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SxQafTxLxt55zvUvV3y4v_42.710655_-72.567561@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729896,
-    "wof:geomhash":"30bcc79e36ba06a8bb02bd61cbc9653f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e6736417ad2ab411465a774e0d3d068",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672941375
+        }
+    ],
     "wof:id":672941375,
-    "wof:lastmodified":1472626151,
+    "wof:lastmodified":1492115975,
     "wof:name":"Cider Mill Weaving",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

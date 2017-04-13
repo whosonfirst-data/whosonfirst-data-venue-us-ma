@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.919223,42.236098,-71.919223,42.236098",
     "geom:latitude":42.236098,
     "geom:longitude":-71.919223,
@@ -32,17 +33,26 @@
         "sewage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5H0AQsQY4ZLqHZrmYo4PPR_42.236098_-71.919223@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712442,
-    "wof:geomhash":"5fa1b54cf7bea794f2a6d9fa2156ddda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"190689f394121b3a546976363c3492a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":672149467
+        }
+    ],
     "wof:id":672149467,
-    "wof:lastmodified":1472624952,
+    "wof:lastmodified":1492118714,
     "wof:name":"Leicester Water Supply Dist",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

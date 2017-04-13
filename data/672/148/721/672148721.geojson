@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.094289,42.494444,-71.094289,42.494444",
     "geom:latitude":42.494444,
     "geom:longitude":-71.094289,
@@ -38,7 +39,8 @@
         85633793,
         85950653,
         102084643,
-        85688645
+        85688645,
+        420523701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461712430,
-    "wof:geomhash":"f81f46f48c8905bdbb64d79b27536993",
+    "wof:geomhash":"1c1efaf54c488412154c07d2f4eb185e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85818929,
             "region_id":85688645,
             "venue_id":672148721
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476015,
+            "locality_id":85950653,
+            "neighbourhood_id":420523701,
+            "region_id":85688645,
+            "venue_id":672148721
         }
     ],
     "wof:id":672148721,
-    "wof:lastmodified":1472624964,
+    "wof:lastmodified":1492111612,
     "wof:name":"Thomas A Burr & Son",
-    "wof:parent_id":85818929,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

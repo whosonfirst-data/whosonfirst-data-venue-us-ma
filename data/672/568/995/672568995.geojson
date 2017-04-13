@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.046926,42.684897,-72.046926,42.684897",
     "geom:latitude":42.684897,
     "geom:longitude":-72.046926,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UTE4l833EH6KZudvn1VE4_42.684897_-72.046926@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721893,
-    "wof:geomhash":"ca172c0d08a44ac1245266b1b99a9388",
-    "wof:hierarchy":[],
+    "wof:geomhash":"727702c5569bad456cbc391f0229be83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":672568995
+        }
+    ],
     "wof:id":672568995,
-    "wof:lastmodified":1472625829,
+    "wof:lastmodified":1492116605,
     "wof:name":"Brooks Auto Svc",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

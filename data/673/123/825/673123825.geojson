@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.866638,42.137691,-71.866638,42.137691",
     "geom:latitude":42.137691,
     "geom:longitude":-71.866638,
@@ -31,17 +32,26 @@
         "beach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45Jn0y53SJk6iiAtJdVElg_42.137691_-71.866638@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734267,
-    "wof:geomhash":"01d7008d00322e4419992e26cb7d32c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c1f3118283959a55f56a91906fc6a13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":673123825
+        }
+    ],
     "wof:id":673123825,
-    "wof:lastmodified":1472625381,
+    "wof:lastmodified":1492102923,
     "wof:name":"Carbuncle Beach",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

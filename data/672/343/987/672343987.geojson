@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.539594,42.227649,-71.539594,42.227649",
     "geom:latitude":42.227649,
     "geom:longitude":-71.539594,
@@ -32,19 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85850333,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z7rAGu02b3QfoMXAE8f0W_42.227649_-71.539594@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716585,
-    "wof:geomhash":"244fa232ece7a6a0282fbfd4f23e99d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f958a60499b64cdb0ef139944d7ba06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85850333,
+            "region_id":85688645,
+            "venue_id":672343987
+        }
+    ],
     "wof:id":672343987,
-    "wof:lastmodified":1472625588,
+    "wof:lastmodified":1492108735,
     "wof:name":"Browne Drilling & Blasting Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85850333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

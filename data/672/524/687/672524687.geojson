@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.905612,41.895535,-70.905612,41.895535",
     "geom:latitude":41.895535,
     "geom:longitude":-70.905612,
@@ -31,17 +32,26 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XFVDJwYLyZdkWqMBYwb5C_41.895535_-70.905612@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720939,
-    "wof:geomhash":"8d3263d70a5d4139ca22720563e67d01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edfd40beef75e059cf0b1fb61b906431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672524687
+        }
+    ],
     "wof:id":672524687,
-    "wof:lastmodified":1472625789,
+    "wof:lastmodified":1492112442,
     "wof:name":"John White Antiques",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

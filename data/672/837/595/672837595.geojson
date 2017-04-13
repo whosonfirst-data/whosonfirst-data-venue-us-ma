@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.602959,41.456167,-70.602959,41.456167",
     "geom:latitude":41.456167,
     "geom:longitude":-70.602959,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85817121,
+        102191575,
+        404475937,
         85633793,
-        85839269,
-        102084629
+        85950437,
+        102084629,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,20 +44,23 @@
     },
     "wof:country":"US",
     "wof:created":1461727745,
-    "wof:geomhash":"eb8bd30e77cd893e1834ba758ab110b7",
+    "wof:geomhash":"b3fe98db398d7a3e763ed0bf51c3dcb8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084629,
-            "neighbourhood_id":85839269,
+            "localadmin_id":404475937,
+            "locality_id":85950437,
+            "neighbourhood_id":85817121,
             "region_id":85688645,
             "venue_id":672837595
         }
     ],
     "wof:id":672837595,
-    "wof:lastmodified":1472626071,
+    "wof:lastmodified":1492112261,
     "wof:name":"Cronig's Real Estate",
-    "wof:parent_id":85839269,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

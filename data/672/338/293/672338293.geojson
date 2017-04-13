@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.876443,41.960431,-70.876443,41.960431",
     "geom:latitude":41.960431,
     "geom:longitude":-70.876443,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ItpGVzRQwU5fda1deELkF_41.960431_-70.876443@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716450,
-    "wof:geomhash":"0f26d79eb2041d6301c0474aaaea8c75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef9e1bd59903ef37352a6ec7a9102633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523907,
+            "venue_id":672338293
+        }
+    ],
     "wof:id":672338293,
-    "wof:lastmodified":1472625567,
+    "wof:lastmodified":1492110363,
     "wof:name":"Brook Raven Farm",
     "wof:parent_id":420523907,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.854956,42.345825,-71.854956,42.345825",
     "geom:latitude":42.345825,
     "geom:longitude":-71.854956,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xT9ePNxEw4eGxLGKiP3xg_42.345825_-71.854956@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734219,
-    "wof:geomhash":"c4ba5b8a0652377fa35735f76494ae35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"acb427db59a5717dad1c83ed560e7ecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":673121095
+        }
+    ],
     "wof:id":673121095,
-    "wof:lastmodified":1472625339,
+    "wof:lastmodified":1492104168,
     "wof:name":"Umass Memorial Healthcare",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

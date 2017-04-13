@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.036615,41.879684,-71.036615,41.879684",
     "geom:latitude":41.879684,
     "geom:longitude":-71.036615,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476147,
+        85633793,
+        85950365,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30A3lzMDKht0KVr0HccI0x_41.879684_-71.036615@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725803,
-    "wof:geomhash":"8f65a727570bebdb8daa8cff6ab82034",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbb0071ec892dd57b5214310b36a5d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476147,
+            "locality_id":85950365,
+            "region_id":85688645,
+            "venue_id":672743165
+        }
+    ],
     "wof:id":672743165,
-    "wof:lastmodified":1472625973,
+    "wof:lastmodified":1492110973,
     "wof:name":"Seawood Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

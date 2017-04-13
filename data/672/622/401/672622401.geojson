@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.791896,42.265505,-71.791896,42.265505",
     "geom:latitude":42.265505,
     "geom:longitude":-71.791896,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848623,
+        85881863,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85848623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461723117,
-    "wof:geomhash":"184fcea8de12997add16b48dd74fb6b4",
+    "wof:geomhash":"8b030bb0a274eb823a232bc9a0786aa2",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85881863,
+            "region_id":85688645,
+            "venue_id":672622401
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":672622401,
-    "wof:lastmodified":1472625872,
+    "wof:lastmodified":1492113705,
     "wof:name":"William T Lee Real Estate",
-    "wof:parent_id":85848623,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

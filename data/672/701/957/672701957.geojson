@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.554319,41.577619,-70.554319,41.577619",
     "geom:latitude":41.577619,
     "geom:longitude":-70.554319,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828363,
+        85849039,
         102191575,
         404476181,
         85633793,
         85950545,
         102084379,
         85688645,
-        85849039
+        85828363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461724904,
-    "wof:geomhash":"f0c5f24fea6f10b01475ed5efc1b1f4e",
+    "wof:geomhash":"595485f49bbd322b59e29a8930f11237",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404476181,
-            "locality_id":85950545,
-            "neighbourhood_id":85828363,
-            "region_id":85688645,
-            "venue_id":672701957
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -68,12 +59,22 @@
             "neighbourhood_id":85849039,
             "region_id":85688645,
             "venue_id":672701957
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404476181,
+            "locality_id":85950545,
+            "neighbourhood_id":85828363,
+            "region_id":85688645,
+            "venue_id":672701957
         }
     ],
     "wof:id":672701957,
-    "wof:lastmodified":1472625953,
+    "wof:lastmodified":1492118279,
     "wof:name":"First Student Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

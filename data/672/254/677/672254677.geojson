@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.907061,42.245189,-71.907061,42.245189",
     "geom:latitude":42.245189,
     "geom:longitude":-71.907061,
@@ -32,17 +33,26 @@
         "restoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DTNtM3DaSCXSbAL5DCtT3_42.245189_-71.907061@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714700,
-    "wof:geomhash":"9358291c3480b9116f4034be05e88cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f6549433b818fdf316a49440791029f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672254677
+        }
+    ],
     "wof:id":672254677,
-    "wof:lastmodified":1472625373,
+    "wof:lastmodified":1492118429,
     "wof:name":"Decor Aldo Inc",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

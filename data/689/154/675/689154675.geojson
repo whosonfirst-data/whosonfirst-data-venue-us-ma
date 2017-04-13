@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.853906,42.087861,-70.853906,42.087861",
     "geom:latitude":42.087861,
     "geom:longitude":-70.853906,
@@ -33,17 +34,26 @@
         "unloading"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5e8du7zo8iJa5AQTw94Ze5_42.087861_-70.853906@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741047,
-    "wof:geomhash":"c76170cfc34d0d0f564805f43092773f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b97691d484a1333509fc698568dc2727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523915,
+            "venue_id":689154675
+        }
+    ],
     "wof:id":689154675,
-    "wof:lastmodified":1472625506,
+    "wof:lastmodified":1492098557,
     "wof:name":"Ma Movers",
     "wof:parent_id":420523915,
     "wof:placetype":"venue",

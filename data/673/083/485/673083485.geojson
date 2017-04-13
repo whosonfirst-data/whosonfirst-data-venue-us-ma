@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.822676,42.257844,-71.822676,42.257844",
     "geom:latitude":42.257844,
     "geom:longitude":-71.822676,
@@ -35,14 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805121,
+        85881855,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
         85688645,
-        85881855
+        85805121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,18 +51,8 @@
     },
     "wof:country":"US",
     "wof:created":1461733423,
-    "wof:geomhash":"9c27ade32653bc34e4ed5dec4d97a057",
+    "wof:geomhash":"5d8db7206b6916c8912e1f217c6300d5",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476639,
-            "locality_id":85950375,
-            "neighbourhood_id":85805121,
-            "region_id":85688645,
-            "venue_id":673083485
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -71,12 +62,22 @@
             "neighbourhood_id":85881855,
             "region_id":85688645,
             "venue_id":673083485
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85805121,
+            "region_id":85688645,
+            "venue_id":673083485
         }
     ],
     "wof:id":673083485,
-    "wof:lastmodified":1472625251,
+    "wof:lastmodified":1492103343,
     "wof:name":"Quiznos Sub",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

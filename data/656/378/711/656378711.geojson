@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.715087,42.209606,-72.715087,42.209606",
     "geom:latitude":42.209606,
     "geom:longitude":-72.715087,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JUPlenqLPj3DHuQEZ72wF_42.209606_-72.715087@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711558,
-    "wof:geomhash":"7a81c0245c20ce76959010e8b5e0148f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f139e36790a75f96eb291e7fc3a78093",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523633,
+            "venue_id":656378711
+        }
+    ],
     "wof:id":656378711,
-    "wof:lastmodified":1472625009,
+    "wof:lastmodified":1492101688,
     "wof:name":"Dan Gipperich Heating",
     "wof:parent_id":420523633,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.685276,42.037998,-72.685276,42.037998",
     "geom:latitude":42.037998,
     "geom:longitude":-72.685276,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476341,
+        85633793,
+        85950399,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SGkjVONg3Dy3f1M6pqcES_42.037998_-72.685276@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713011,
-    "wof:geomhash":"806db0cde2bfffe1e08d8e2817137c16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c40e3681085168d68fc5b63111812d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476341,
+            "locality_id":85950399,
+            "region_id":85688645,
+            "venue_id":672175119
+        }
+    ],
     "wof:id":672175119,
-    "wof:lastmodified":1472625052,
+    "wof:lastmodified":1492113124,
     "wof:name":"Grace Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

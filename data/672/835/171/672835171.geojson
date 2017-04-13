@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.178748,42.630238,-71.178748,42.630238",
     "geom:latitude":42.630238,
     "geom:longitude":-71.178748,
@@ -31,19 +32,32 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85855177,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13pCEyeQGQUwKzYxA7DcQl_42.630238_-71.178748@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727698,
-    "wof:geomhash":"7c20cb72fb51a613fca7ee412f2041c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c88a5807a7324b9ccfd152bd05ff9e6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85855177,
+            "region_id":85688645,
+            "venue_id":672835171
+        }
+    ],
     "wof:id":672835171,
-    "wof:lastmodified":1472626053,
+    "wof:lastmodified":1492107960,
     "wof:name":"William H Shaughnessy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

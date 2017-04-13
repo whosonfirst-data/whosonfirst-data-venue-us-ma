@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.731051,41.91439,-70.731051,41.91439",
     "geom:latitude":41.91439,
     "geom:longitude":-70.731051,
@@ -31,17 +32,26 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74tpbM4UZFp21dOM3uP5Ls_41.914390_-70.731051@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717667,
-    "wof:geomhash":"6cff0a152a0f19972b6217c4466258fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93f945c72779a2db981e539f6567ae97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672390613
+        }
+    ],
     "wof:id":672390613,
-    "wof:lastmodified":1472625661,
+    "wof:lastmodified":1492112706,
     "wof:name":"Village Links Golf Club",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

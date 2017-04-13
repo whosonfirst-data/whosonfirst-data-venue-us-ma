@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.420145,42.431664,-72.420145,42.431664",
     "geom:latitude":42.431664,
     "geom:longitude":-72.420145,
@@ -31,17 +32,32 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475967,
+        85633793,
+        102084457
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L8LpuNmL1N8ZsKXCRsWT9_42.431664_-72.420145@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732108,
-    "wof:geomhash":"de576e98cb1be4c96cfb2e246a027b96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edc8248d91aa94f639fe7824875bf7fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084457,
+            "localadmin_id":404475967,
+            "region_id":85688645,
+            "venue_id":673022049
+        }
+    ],
     "wof:id":673022049,
-    "wof:lastmodified":1472624986,
+    "wof:lastmodified":1492104678,
     "wof:name":"Murphy Sedan Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

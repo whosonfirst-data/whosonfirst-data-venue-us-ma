@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.03587,41.939356,-71.03587,41.939356",
     "geom:latitude":41.939356,
     "geom:longitude":-71.03587,
@@ -31,19 +32,28 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W9iCFkY7SxGBqRld7ppCY_41.939356_-71.035870@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729739,
-    "wof:geomhash":"f1064d97a27b686ec3b63bf62ac72836",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bcca63fc63a45f26caf5547fbfdea98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523903,
+            "venue_id":672934361
+        }
+    ],
     "wof:id":672934361,
-    "wof:lastmodified":1472626146,
+    "wof:lastmodified":1492113090,
     "wof:name":"Decisionone",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

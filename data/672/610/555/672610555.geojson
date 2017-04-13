@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.229574,41.665195,-70.229574,41.665195",
     "geom:latitude":41.665195,
     "geom:longitude":-70.229574,
@@ -33,10 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420523229,
         85818121,
         102191575,
         404476089,
-        85633793,
         85950523,
         102084379,
         85688645
@@ -47,8 +49,13 @@
     },
     "wof:country":"US",
     "wof:created":1461722839,
-    "wof:geomhash":"56532956b95aa4704cd5e8b1bc117065",
+    "wof:geomhash":"b8683a1ef5f5dbaf48b667c2248f0a85",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672610555
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +68,9 @@
         }
     ],
     "wof:id":672610555,
-    "wof:lastmodified":1472625860,
+    "wof:lastmodified":1492116825,
     "wof:name":"Physiotherapy Assoc-Yarmouth",
-    "wof:parent_id":85818121,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

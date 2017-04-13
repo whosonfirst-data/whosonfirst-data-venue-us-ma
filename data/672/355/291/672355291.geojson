@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.877067,42.108584,-70.877067,42.108584",
     "geom:latitude":42.108584,
     "geom:longitude":-70.877067,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17dD7Hhr509uFXF8fZ9eR7_42.108584_-70.877067@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716862,
-    "wof:geomhash":"4cb7f97203306e29ee35dacf2c03418a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fa70b736fabd40f256461df08170c3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672355291
+        }
+    ],
     "wof:id":672355291,
-    "wof:lastmodified":1472625615,
+    "wof:lastmodified":1492108912,
     "wof:name":"Humarock Realty Trust",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

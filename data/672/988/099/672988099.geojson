@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.90336,41.664591,-70.90336,41.664591",
     "geom:latitude":41.664591,
     "geom:longitude":-70.90336,
@@ -31,17 +32,26 @@
         "adult"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6usOPxmNxJYe8uTj80PhQH_41.664591_-70.903360@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731263,
-    "wof:geomhash":"1ee7a6893d264081147ba033668f138f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6292ec50698a10d55e00825b06c0421c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672988099
+        }
+    ],
     "wof:id":672988099,
-    "wof:lastmodified":1472626187,
+    "wof:lastmodified":1492114505,
     "wof:name":"Alden Place",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

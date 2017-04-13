@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.184323,42.265178,-71.184323,42.265178",
     "geom:latitude":42.265178,
     "geom:longitude":-71.184323,
@@ -31,17 +32,34 @@
         "shelter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476435,
+        85633793,
+        85950821,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SJistIzPCE2ATDY7Y1Lm6_42.265178_-71.184323@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461710985,
-    "wof:geomhash":"9b40087cb1da233ddac398e0e961353a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a12afe98f5f0e72e512f15cc677bf8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476435,
+            "locality_id":85950821,
+            "region_id":85688645,
+            "venue_id":656351323
+        }
+    ],
     "wof:id":656351323,
-    "wof:lastmodified":1472624905,
+    "wof:lastmodified":1492102027,
     "wof:name":"Animal Rescue League Of Boston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

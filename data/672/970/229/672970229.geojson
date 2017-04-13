@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.622782,42.422812,-71.622782,42.422812",
     "geom:latitude":42.422812,
     "geom:longitude":-71.622782,
@@ -35,17 +36,26 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lbBOjyxuNl6HHqMCNT6sM_42.422812_-71.622782@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730757,
-    "wof:geomhash":"400f4575d012a0a29cb368b9e7952110",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5292bf054e8a556ea6128350b39e65b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672970229
+        }
+    ],
     "wof:id":672970229,
-    "wof:lastmodified":1472626179,
+    "wof:lastmodified":1492106383,
     "wof:name":"Digital Solutions",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.994009,41.963521,-70.994009,41.963521",
     "geom:latitude":41.963521,
     "geom:longitude":-70.994009,
@@ -28,17 +29,26 @@
     "sg:postcode":"02324",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2N92sDIXaQ871k35rVS3YV_41.963521_-70.994009@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715632,
-    "wof:geomhash":"5c8ddcff825c1d1e2c359eae5cc4ff3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"912a99b87ab4438920cc58591a6f48d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672300947
+        }
+    ],
     "wof:id":672300947,
-    "wof:lastmodified":1472625515,
+    "wof:lastmodified":1492114945,
     "wof:name":"PLM Graphics",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

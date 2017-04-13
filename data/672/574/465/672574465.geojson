@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.920048,41.711033,-70.920048,41.711033",
     "geom:latitude":41.711033,
     "geom:longitude":-70.920048,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54BEmVdlJn5VjgZWobw38J_41.711033_-70.920048@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722005,
-    "wof:geomhash":"05186ce6dc75a67dd89d413c0156e21c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"599a970a5af5cb9573fed60df921cf84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":672574465
+        }
+    ],
     "wof:id":672574465,
-    "wof:lastmodified":1472625823,
+    "wof:lastmodified":1492118372,
     "wof:name":"Coutos Drywall Inc",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

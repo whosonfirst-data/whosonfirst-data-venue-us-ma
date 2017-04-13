@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.010767,41.970688,-71.010767,41.970688",
     "geom:latitude":41.970688,
     "geom:longitude":-71.010767,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4v8ZgwYahvQqBXNFGrtfXG_41.970688_-71.010767@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725658,
-    "wof:geomhash":"f1f83dc8c6a545102d48fd059714817f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16f7612356c1643ffbb9316d64ff39fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672736805
+        }
+    ],
     "wof:id":672736805,
-    "wof:lastmodified":1472625987,
+    "wof:lastmodified":1492108825,
     "wof:name":"Scotland Congregational Church",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

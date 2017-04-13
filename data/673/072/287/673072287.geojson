@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.988312,41.972279,-70.988312,41.972279",
     "geom:latitude":41.972279,
     "geom:longitude":-70.988312,
@@ -33,17 +34,26 @@
     ],
     "sg:website":"http://www.primaryvisionco.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KNjLc7tJziD4fw8mg8cTx_41.972457_-70.988355@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733181,
-    "wof:geomhash":"561ffc6875208cfb26648fad4352fe51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c754bfce1a963a57c796047493a507e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":673072287
+        }
+    ],
     "wof:id":673072287,
-    "wof:lastmodified":1472625158,
+    "wof:lastmodified":1492103481,
     "wof:name":"Primary Vision Co",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.384521,42.60062,-71.384521,42.60062",
     "geom:latitude":42.60062,
     "geom:longitude":-71.384521,
@@ -36,17 +37,26 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3phzzEKFSiqKZhbhLUW8Fh_42.600620_-71.384521@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735175,
-    "wof:geomhash":"a41eed5ac8a7dc2c111ce7b6fc34f3fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"336501119e481b81f3376aebe2f8edfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":673167871
+        }
+    ],
     "wof:id":673167871,
-    "wof:lastmodified":1472625479,
+    "wof:lastmodified":1492102549,
     "wof:name":"Kenneth L Terminini",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

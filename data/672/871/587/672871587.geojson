@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.405353,42.59939,-71.405353,42.59939",
     "geom:latitude":42.59939,
     "geom:longitude":-71.405353,
@@ -32,17 +33,32 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476019,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HSNRbhtWoNyhoI4STwiho_42.599390_-71.405353@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728471,
-    "wof:geomhash":"a9cbd7a5567963ca54c324faa1b68f96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1d2a20862f620201f56f0e5344cbebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476019,
+            "region_id":85688645,
+            "venue_id":672871587
+        }
+    ],
     "wof:id":672871587,
-    "wof:lastmodified":1472626096,
+    "wof:lastmodified":1492111329,
     "wof:name":"Winn Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

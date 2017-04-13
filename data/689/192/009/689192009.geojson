@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.606598,41.614601,-70.606598,41.614601",
     "geom:latitude":41.614601,
     "geom:longitude":-70.606598,
@@ -32,17 +33,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2t8SZaDG64pqLZ0Ystrl4L_41.614601_-70.606598@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741882,
-    "wof:geomhash":"2d0392f41381a2c424141d68dc600226",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38357f67d1c18ea42104c0dbabeab1f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":689192009
+        }
+    ],
     "wof:id":689192009,
-    "wof:lastmodified":1472625587,
+    "wof:lastmodified":1492098057,
     "wof:name":"Hamilton Auto Body",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.858871,41.914828,-70.858871,41.914828",
     "geom:latitude":41.914828,
     "geom:longitude":-70.858871,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"www.vikingfloor.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hXXY0NRsgHnZWO37deFPn_41.914828_-70.858871@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741057,
-    "wof:geomhash":"d847f2444c209aedf6197f3157c000a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dda1925231724807a0df8f97cb38e57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689155201
+        }
+    ],
     "wof:id":689155201,
-    "wof:lastmodified":1472625495,
+    "wof:lastmodified":1492100394,
     "wof:name":"Viking Floors",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

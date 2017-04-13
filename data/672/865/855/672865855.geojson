@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.175191,42.248697,-71.175191,42.248697",
     "geom:latitude":42.248697,
     "geom:longitude":-71.175191,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891309,
+        85891307,
         102191575,
         404476435,
         85633793,
         85950821,
         102084403,
-        85688645
+        85688645,
+        85891309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461728288,
-    "wof:geomhash":"b2cc953e78bb60cef241fce92c79bb5b",
+    "wof:geomhash":"189d37fdfbba6ba602e681a84816d8e4",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476435,
+            "locality_id":85950821,
+            "neighbourhood_id":85891307,
+            "region_id":85688645,
+            "venue_id":672865855
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672865855,
-    "wof:lastmodified":1472626092,
+    "wof:lastmodified":1492112027,
     "wof:name":"Thomas J Freedman",
-    "wof:parent_id":85891309,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

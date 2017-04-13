@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.172863,42.012149,-71.172863,42.012149",
     "geom:latitude":42.012149,
     "geom:longitude":-71.172863,
@@ -33,17 +34,26 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XDwGGqpRM8Zz3PpA7j1sS_42.012149_-71.172863@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722089,
-    "wof:geomhash":"35056aa31eb55c3431d0e8ca30b4ea15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b8b86abee8655c6198922f5872c7397",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523367,
+            "venue_id":672578529
+        }
+    ],
     "wof:id":672578529,
-    "wof:lastmodified":1472625830,
+    "wof:lastmodified":1492114017,
     "wof:name":"New England Financial",
     "wof:parent_id":420523367,
     "wof:placetype":"venue",

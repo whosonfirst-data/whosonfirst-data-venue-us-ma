@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.194972,42.329577,-71.194972,42.329577",
     "geom:latitude":42.329577,
     "geom:longitude":-71.194972,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852191,
+        85891465,
         102191575,
         404476411,
         85633793,
         85950341,
         102084643,
         85688645,
-        85891465
+        85852191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461714966,
-    "wof:geomhash":"fd8fa10c93d6f54662b7710056fc6449",
+    "wof:geomhash":"5d651b7db70f6beb98a635e6b74c5795",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476411,
-            "locality_id":85950341,
-            "neighbourhood_id":85852191,
-            "region_id":85688645,
-            "venue_id":672268151
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -68,12 +59,22 @@
             "neighbourhood_id":85891465,
             "region_id":85688645,
             "venue_id":672268151
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "neighbourhood_id":85852191,
+            "region_id":85688645,
+            "venue_id":672268151
         }
     ],
     "wof:id":672268151,
-    "wof:lastmodified":1472625397,
+    "wof:lastmodified":1492113172,
     "wof:name":"Newton Education Team Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

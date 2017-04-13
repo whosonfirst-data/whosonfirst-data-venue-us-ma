@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.224407,42.052254,-73.224407,42.052254",
     "geom:latitude":42.052254,
     "geom:longitude":-73.224407,
@@ -31,17 +32,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476115,
+        85633793,
+        102084369
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yadSgYY3lMfL25f5Iza44_42.052254_-73.224407@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713403,
-    "wof:geomhash":"fe1831b78b96f5f0f22cc0bccfe1177b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbd10d7545ed21b2f4acb3b1cc15127e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084369,
+            "localadmin_id":404476115,
+            "region_id":85688645,
+            "venue_id":672193159
+        }
+    ],
     "wof:id":672193159,
-    "wof:lastmodified":1472625131,
+    "wof:lastmodified":1492109835,
     "wof:name":"Burlington Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

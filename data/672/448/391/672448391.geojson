@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.975257,42.589211,-70.975257,42.589211",
     "geom:latitude":42.589211,
     "geom:longitude":-70.975257,
@@ -39,7 +40,8 @@
         85633793,
         85950789,
         102084463,
-        85688645
+        85688645,
+        85834005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461719131,
-    "wof:geomhash":"5c5d4bb17d74430be3a4c5122f00efa5",
+    "wof:geomhash":"46e494011e21dc19145455c654549f3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,19 @@
             "neighbourhood_id":85808503,
             "region_id":85688645,
             "venue_id":672448391
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85834005,
+            "region_id":85688645,
+            "venue_id":672448391
         }
     ],
     "wof:id":672448391,
-    "wof:lastmodified":1472625710,
+    "wof:lastmodified":1492111079,
     "wof:name":"Stuttgart Northeast",
-    "wof:parent_id":85808503,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

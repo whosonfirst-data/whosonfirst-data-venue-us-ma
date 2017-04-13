@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.876734,42.071107,-70.876734,42.071107",
     "geom:latitude":42.071107,
     "geom:longitude":-70.876734,
@@ -31,17 +32,26 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VRrrgIVN6dNdk760mM3KD_42.071107_-70.876734@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716246,
-    "wof:geomhash":"28a2579aa1ca6e984d366cc4e96ff571",
-    "wof:hierarchy":[],
+    "wof:geomhash":"569f58c4dabaf9ef2b6c348268f23f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523995,
+            "venue_id":672330527
+        }
+    ],
     "wof:id":672330527,
-    "wof:lastmodified":1472625565,
+    "wof:lastmodified":1492118124,
     "wof:name":"Holiday Cleaners & Launderers",
     "wof:parent_id":420523995,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.947777,41.721869,-70.947777,41.721869",
     "geom:latitude":41.721869,
     "geom:longitude":-70.947777,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811363,
+        420559117,
         102191575,
         404476131,
         85633793,
         85950367,
         102084407,
         85688645,
+        85811363,
         85868445
     ],
     "wof:breaches":[],
@@ -44,8 +46,18 @@
     },
     "wof:country":"US",
     "wof:created":1461723950,
-    "wof:geomhash":"4010f9d02eee667873b6892963416762",
+    "wof:geomhash":"32f038bb817615da800459086f7f5f4b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476131,
+            "locality_id":85950367,
+            "neighbourhood_id":420559117,
+            "region_id":85688645,
+            "venue_id":672660399
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -68,9 +80,9 @@
         }
     ],
     "wof:id":672660399,
-    "wof:lastmodified":1472625905,
+    "wof:lastmodified":1492119515,
     "wof:name":"Natalie's Beauty Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

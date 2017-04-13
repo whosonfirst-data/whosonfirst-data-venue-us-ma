@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.59852,42.447301,-71.59852,42.447301",
     "geom:latitude":42.447301,
     "geom:longitude":-71.59852,
@@ -44,17 +45,26 @@
         "equipment-testing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xGUN3LV49ydvZ6URL5h67_42.447301_-71.598520@1303262188"
     },
     "wof:country":"US",
     "wof:created":1461734607,
-    "wof:geomhash":"1a5c1640e0cc4ba43938abbc1abf61ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05c917e8aaf1d307e16008f9a75ccca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":673140745
+        }
+    ],
     "wof:id":673140745,
-    "wof:lastmodified":1472625396,
+    "wof:lastmodified":1492104697,
     "wof:name":"United Electric Co Inc",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

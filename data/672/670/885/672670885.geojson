@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.071978,41.654592,-71.071978,41.654592",
     "geom:latitude":41.654592,
     "geom:longitude":-71.071978,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Mn2J8kLmeQaoe2D0wcNzv_41.654592_-71.071978@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724181,
-    "wof:geomhash":"d4837dae257d021018094608ec79f8cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c467b9941cdbd3f0fd6cc13a2295cd12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672670885
+        }
+    ],
     "wof:id":672670885,
-    "wof:lastmodified":1472625924,
+    "wof:lastmodified":1492118687,
     "wof:name":"Ram Drywall",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

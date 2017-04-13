@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.586037,42.16288,-71.586037,42.16288",
     "geom:latitude":42.16288,
     "geom:longitude":-71.586037,
@@ -36,17 +37,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476081,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZxeRsod19TEtnCLVJY5sm_42.162880_-71.586037@1303262187"
     },
     "wof:country":"US",
     "wof:created":1461734366,
-    "wof:geomhash":"4ed2aac4fac55738128d7d994fc1b013",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f523f74303c00b7a9679350ae747558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476081,
+            "region_id":85688645,
+            "venue_id":673128653
+        }
+    ],
     "wof:id":673128653,
-    "wof:lastmodified":1472625376,
+    "wof:lastmodified":1492104298,
     "wof:name":"R&T Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

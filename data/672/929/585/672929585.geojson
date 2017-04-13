@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.284183,42.120084,-71.284183,42.120084",
     "geom:latitude":42.120084,
     "geom:longitude":-71.284183,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cNNH3wrwVb672fTAydo5Y_42.120084_-71.284183@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729621,
-    "wof:geomhash":"5237dd08440b12b7f20c0f0d6e1a00f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2c52889d41706716b2bc7586f53efa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672929585
+        }
+    ],
     "wof:id":672929585,
-    "wof:lastmodified":1472626147,
+    "wof:lastmodified":1492114906,
     "wof:name":"D Quality Builders",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

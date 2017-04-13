@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.1011,42.1341,-71.1011,42.1341",
     "geom:latitude":42.1341,
     "geom:longitude":-71.1011,
@@ -32,17 +33,26 @@
         "yogurt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IsQkctUiIOBjNvQ3hP1UV_42.134100_-71.101100@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736300,
-    "wof:geomhash":"fe7975f2e38629664d459adbd260bda4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88c3135abed6db0a85a2fb8f3eb350b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688952537
+        }
+    ],
     "wof:id":688952537,
-    "wof:lastmodified":1472625144,
+    "wof:lastmodified":1492120334,
     "wof:name":"Baskin Robbins",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

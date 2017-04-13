@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.1913,41.676612,-71.1913,41.676612",
     "geom:latitude":41.676612,
     "geom:longitude":-71.1913,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476177,
+        85633793,
+        85950371,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CvwS5aH2BXWYaXY5S07tD_41.676612_-71.191300@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711770,
-    "wof:geomhash":"c4f9ea9e015ac6a038f91a02d1dedd5c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"401d26b182e3d1a231f6666767a29c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476177,
+            "locality_id":85950371,
+            "region_id":85688645,
+            "venue_id":656388385
+        }
+    ],
     "wof:id":656388385,
-    "wof:lastmodified":1472625022,
+    "wof:lastmodified":1492102260,
     "wof:name":"Bay Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

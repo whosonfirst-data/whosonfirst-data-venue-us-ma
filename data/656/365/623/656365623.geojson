@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.873089,41.865523,-70.873089,41.865523",
     "geom:latitude":41.865523,
     "geom:longitude":-70.873089,
@@ -31,17 +32,26 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xwbgdiqOeqTMjHVLMj8r5_41.865523_-70.873089@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711284,
-    "wof:geomhash":"42ce97ffeaef71b2e812f7ee3a466523",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46cf77e63a10a93554bc7b7083bcff6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":656365623
+        }
+    ],
     "wof:id":656365623,
-    "wof:lastmodified":1472624959,
+    "wof:lastmodified":1492101760,
     "wof:name":"Plymouth Pine Corp",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

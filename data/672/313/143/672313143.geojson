@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.679102,42.077509,-70.679102,42.077509",
     "geom:latitude":42.077509,
     "geom:longitude":-70.679102,
@@ -33,17 +34,26 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42sIBjLs0MLzCxaRM55MFJ_42.077509_-70.679102@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715874,
-    "wof:geomhash":"8c15b249e01eee35cd39b3571008331d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8cc561839fee9f224ae91b611350b5b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":672313143
+        }
+    ],
     "wof:id":672313143,
-    "wof:lastmodified":1472625510,
+    "wof:lastmodified":1492115201,
     "wof:name":"Ocean State Job Lot",
     "wof:parent_id":420523971,
     "wof:placetype":"venue",

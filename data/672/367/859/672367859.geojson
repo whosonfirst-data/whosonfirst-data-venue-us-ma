@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.907008,41.894052,-70.907008,41.894052",
     "geom:latitude":41.894052,
     "geom:longitude":-70.907008,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ofesr15f4PXfqWSMhTxzH_41.894052_-70.907008@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717155,
-    "wof:geomhash":"03e9e92fcfc2b6c3b25bab9272ac6af0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c440ac3c8faa1bcc602bf8d53612183",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672367859
+        }
+    ],
     "wof:id":672367859,
-    "wof:lastmodified":1472625640,
+    "wof:lastmodified":1492114297,
     "wof:name":"Middleboro Police Dept",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

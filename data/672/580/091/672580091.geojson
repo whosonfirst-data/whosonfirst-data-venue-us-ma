@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.786467,42.084503,-70.786467,42.084503",
     "geom:latitude":42.084503,
     "geom:longitude":-70.786467,
@@ -31,17 +32,26 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AjbY5Ms4oyvPy7P0ozJZc_42.084503_-70.786467@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722125,
-    "wof:geomhash":"662aedcc45030a03baf54d7e74fb7805",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fdd984c884d80a4844359a2bed1f7d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":672580091
+        }
+    ],
     "wof:id":672580091,
-    "wof:lastmodified":1472625806,
+    "wof:lastmodified":1492107970,
     "wof:name":"Animal Clinic-On-Wheels",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

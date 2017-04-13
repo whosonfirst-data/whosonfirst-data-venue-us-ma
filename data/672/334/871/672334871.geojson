@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.826118,42.188174,-71.826118,42.188174",
     "geom:latitude":42.188174,
     "geom:longitude":-71.826118,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Et009zoz3XFO3fEYXpk1K_42.188174_-71.826118@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716334,
-    "wof:geomhash":"2773a883a2771d2cdbc5f4ad579722c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"769b1738177529289f1b620be54604f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672334871
+        }
+    ],
     "wof:id":672334871,
-    "wof:lastmodified":1472625581,
+    "wof:lastmodified":1492115843,
     "wof:name":"LA Fleur Electrical Co Inc",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

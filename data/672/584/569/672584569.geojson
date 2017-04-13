@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.802474,42.241013,-70.802474,42.241013",
     "geom:latitude":42.241013,
     "geom:longitude":-70.802474,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uRFyy1jZCb5MEMjPahfbp_42.241013_-70.802474@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722239,
-    "wof:geomhash":"93a9882198712e4327a01b710e92d8b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e192a283c4fe92abb9467df86a94791a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672584569
+        }
+    ],
     "wof:id":672584569,
-    "wof:lastmodified":1472625835,
+    "wof:lastmodified":1492113538,
     "wof:name":"Silver Spoon Cafe",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

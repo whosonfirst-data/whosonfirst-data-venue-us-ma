@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.796656,41.908504,-70.796656,41.908504",
     "geom:latitude":41.908504,
     "geom:longitude":-70.796656,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5h8lc4pwGhNS7h9F65TeP2_41.908504_-70.796656@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721661,
-    "wof:geomhash":"c69b44b4ca645de035a9178c91ee90ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0cc99027214a7842c528d6c61c30ff50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672558331
+        }
+    ],
     "wof:id":672558331,
-    "wof:lastmodified":1472625811,
+    "wof:lastmodified":1492107713,
     "wof:name":"Fernandes Domingo",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

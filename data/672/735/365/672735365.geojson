@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.115073,42.626557,-73.115073,42.626557",
     "geom:latitude":42.626557,
     "geom:longitude":-73.115073,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZwQFessYybqH2Q25tJ3kh_42.626557_-73.115073@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725629,
-    "wof:geomhash":"5657b873e2154f2644ef03278a1c229b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cea94df48b38b628d46d0714887e63ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672735365
+        }
+    ],
     "wof:id":672735365,
-    "wof:lastmodified":1472625974,
+    "wof:lastmodified":1492108625,
     "wof:name":"Lisee Electric",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

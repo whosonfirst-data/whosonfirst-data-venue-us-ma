@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.264995,42.139099,-71.264995,42.139099",
     "geom:latitude":42.139099,
     "geom:longitude":-71.264995,
@@ -32,17 +33,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dCTpewZIinPKsNKWN6cGh_42.139099_-71.264995@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736363,
-    "wof:geomhash":"35551d2d166bc36d544debbdde93a258",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0682af3589060210d6270544e0fabcda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523755,
+            "venue_id":688955975
+        }
+    ],
     "wof:id":688955975,
-    "wof:lastmodified":1472625197,
+    "wof:lastmodified":1492120357,
     "wof:name":"Abode Paris",
     "wof:parent_id":420523755,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.608712,41.659825,-70.608712,41.659825",
     "geom:latitude":41.659825,
     "geom:longitude":-70.608712,
@@ -31,17 +32,26 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xUmaCXU6gwSu1KBYb9ICj_41.659825_-70.608712@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724170,
-    "wof:geomhash":"b99d04b496cb609f00d6c10eab574644",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f887a03e8fdb413d719e967f2f915180",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523215,
+            "venue_id":672670275
+        }
+    ],
     "wof:id":672670275,
-    "wof:lastmodified":1472625915,
+    "wof:lastmodified":1492118685,
     "wof:name":"Cataumet Garden Ctr",
     "wof:parent_id":420523215,
     "wof:placetype":"venue",

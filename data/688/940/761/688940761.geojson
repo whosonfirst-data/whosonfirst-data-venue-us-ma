@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.396141,42.064529,-71.396141,42.064529",
     "geom:latitude":42.064529,
     "geom:longitude":-71.396141,
@@ -46,17 +47,34 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476439,
+        85633793,
+        85950431,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33Y1SV0EbkTMm54tQiiqjL_42.064529_-71.396141@1303262198"
     },
     "wof:country":"US",
     "wof:created":1461736061,
-    "wof:geomhash":"ffb79fcad36f26d4c10831af9adf16ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6feb05212c70f9cb2716151a2f37c2f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476439,
+            "locality_id":85950431,
+            "region_id":85688645,
+            "venue_id":688940761
+        }
+    ],
     "wof:id":688940761,
-    "wof:lastmodified":1472625107,
+    "wof:lastmodified":1492120970,
     "wof:name":"Boston Sports Clubs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

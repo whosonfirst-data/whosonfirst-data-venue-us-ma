@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.624395,42.21099,-72.624395,42.21099",
     "geom:latitude":42.21099,
     "geom:longitude":-72.624395,
@@ -34,17 +35,34 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476357,
+        85633793,
+        85950395,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XsowYzxpgyrkiOPFha2Ks_42.210990_-72.624395@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720367,
-    "wof:geomhash":"bb47b0e3010f2ffec819896fefe42eee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18d83855a19002605454ee286f82ea09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476357,
+            "locality_id":85950395,
+            "region_id":85688645,
+            "venue_id":672498307
+        }
+    ],
     "wof:id":672498307,
-    "wof:lastmodified":1472625753,
+    "wof:lastmodified":1492110831,
     "wof:name":"Vance Chatel Interior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

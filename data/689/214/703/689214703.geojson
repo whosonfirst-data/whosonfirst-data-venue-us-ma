@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.89608,41.645069,-70.89608,41.645069",
     "geom:latitude":41.645069,
     "geom:longitude":-70.89608,
@@ -31,17 +32,26 @@
         "salon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y5KcaGQ8jg2YDyfs1oqYZ_41.645069_-70.896080@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742357,
-    "wof:geomhash":"2a43285b346f24c9b6cdef546ca9ac8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da5abd6458d7e073444434c36e064dfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":689214703
+        }
+    ],
     "wof:id":689214703,
-    "wof:lastmodified":1472625621,
+    "wof:lastmodified":1492097490,
     "wof:name":"Hot Bodeez Tanning Center",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

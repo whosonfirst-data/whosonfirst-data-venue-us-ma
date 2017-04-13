@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.66878,42.465738,-71.66878,42.465738",
     "geom:latitude":42.465738,
     "geom:longitude":-71.66878,
@@ -33,17 +34,26 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524185
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HvM1kt7FF90oLMhp4ErEC_42.465738_-71.668780@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723608,
-    "wof:geomhash":"633f1862168f693a736b5daa48da9320",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a32232eb2b4d82b6abfe32a08824411",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524185,
+            "venue_id":672645077
+        }
+    ],
     "wof:id":672645077,
-    "wof:lastmodified":1472625886,
+    "wof:lastmodified":1492110689,
     "wof:name":"Pampered Paws Pet Salon",
     "wof:parent_id":420524185,
     "wof:placetype":"venue",

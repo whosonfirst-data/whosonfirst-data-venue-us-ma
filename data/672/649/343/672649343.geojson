@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.519224,42.386163,-71.519224,42.386163",
     "geom:latitude":42.386163,
     "geom:longitude":-71.519224,
@@ -32,17 +33,26 @@
         "variety"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RscZmMjIDaPVCBMQZQFZ3_42.386163_-71.519224@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723699,
-    "wof:geomhash":"5ada4b8987a5f941748742c96dbed563",
-    "wof:hierarchy":[],
+    "wof:geomhash":"457793d11073acf53de659dc83d8c530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672649343
+        }
+    ],
     "wof:id":672649343,
-    "wof:lastmodified":1472625899,
+    "wof:lastmodified":1492107489,
     "wof:name":"Hudson Meat & Variety Store",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

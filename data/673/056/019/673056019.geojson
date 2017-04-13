@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.909088,41.892441,-70.909088,41.892441",
     "geom:latitude":41.892441,
     "geom:longitude":-70.909088,
@@ -31,17 +32,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Vr9JaPWTvieJP8CLoITaN_41.892429_-70.909089@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732877,
-    "wof:geomhash":"4a344f551a130d664356edccc82a45a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef19bfb73bd2ed6827a13dcaaa52c2a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":673056019
+        }
+    ],
     "wof:id":673056019,
-    "wof:lastmodified":1472625121,
+    "wof:lastmodified":1492105009,
     "wof:name":"Lindos Pizza",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

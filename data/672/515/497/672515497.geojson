@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.823758,42.02373,-70.823758,42.02373",
     "geom:latitude":42.02373,
     "geom:longitude":-70.823758,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RF2J3WicFMa8J8IVQoLWP_42.023730_-70.823758@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720735,
-    "wof:geomhash":"11b77148dbcbd50414ca7f3c33da2fce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d53065c8c0f451fc80d06570cf9fab4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672515497
+        }
+    ],
     "wof:id":672515497,
-    "wof:lastmodified":1472625779,
+    "wof:lastmodified":1492113931,
     "wof:name":"Reading Peter",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

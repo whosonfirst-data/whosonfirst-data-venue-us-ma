@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.916579,42.120781,-71.916579,42.120781",
     "geom:latitude":42.120781,
     "geom:longitude":-71.916579,
@@ -31,17 +32,26 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1c89FjJ8qLYzoTVOVcCjWW_42.120781_-71.916579@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730094,
-    "wof:geomhash":"733dc5b3fd25a1724ea13043b4a27724",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13788dcd7282976f3e962ec251990763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":672949351
+        }
+    ],
     "wof:id":672949351,
-    "wof:lastmodified":1472626161,
+    "wof:lastmodified":1492110214,
     "wof:name":"Vanguard Industries",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

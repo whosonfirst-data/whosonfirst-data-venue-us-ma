@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.863632,42.127516,-70.863632,42.127516",
     "geom:latitude":42.127516,
     "geom:longitude":-70.863632,
@@ -32,17 +33,26 @@
         "cad"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uOlr1O7IslGAXAwY1ZEYL_42.127516_-70.863632@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741032,
-    "wof:geomhash":"5e721cd6233b01f60bfe5e9598ce2f22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6030a16a1283b449a64b4dfafbfa02d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":689153951
+        }
+    ],
     "wof:id":689153951,
-    "wof:lastmodified":1472625526,
+    "wof:lastmodified":1492097475,
     "wof:name":"Meridian Gis & Cadd Services",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

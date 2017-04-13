@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.805173,41.912155,-70.805173,41.912155",
     "geom:latitude":41.912155,
     "geom:longitude":-70.805173,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bHwJnzNeC149IHmIs8at4_41.912155_-70.805173@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721819,
-    "wof:geomhash":"efc4107f24fadc3897ffbfd2c529eae6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19b4f23c1d3e390d40e264caee95200a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672565137
+        }
+    ],
     "wof:id":672565137,
-    "wof:lastmodified":1472625807,
+    "wof:lastmodified":1492109335,
     "wof:name":"FCP Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

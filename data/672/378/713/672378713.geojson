@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.444338,42.241015,-71.444338,42.241015",
     "geom:latitude":42.241015,
     "geom:longitude":-71.444338,
@@ -32,17 +33,26 @@
         "waste"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QXHRcT16nRC61zbpkRBhY_42.241015_-71.444338@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717394,
-    "wof:geomhash":"053feebefcc386ec9ec2a5343b0aae99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0980372df298b892ab0fde6f7d7af0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672378713
+        }
+    ],
     "wof:id":672378713,
-    "wof:lastmodified":1472625651,
+    "wof:lastmodified":1492111982,
     "wof:name":"Waste Transport Svc Inc",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

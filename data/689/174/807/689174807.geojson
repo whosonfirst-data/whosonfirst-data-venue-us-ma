@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.129556,42.348552,-71.129556,42.348552",
     "geom:latitude":42.348552,
     "geom:longitude":-71.129556,
@@ -40,17 +41,34 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TgDvk5bVvUCf5REYEljvZ_42.348552_-71.129556@1303262229"
     },
     "wof:country":"US",
     "wof:created":1461741516,
-    "wof:geomhash":"ae2ec9f556f51b40bc6d7a631a188b16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f2fcf1179d8511f7db9e86f24fabe18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "region_id":85688645,
+            "venue_id":689174807
+        }
+    ],
     "wof:id":689174807,
-    "wof:lastmodified":1472625565,
+    "wof:lastmodified":1492101182,
     "wof:name":"Noritake Dental Customer Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

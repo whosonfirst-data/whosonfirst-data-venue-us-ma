@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.821584,41.900142,-70.821584,41.900142",
     "geom:latitude":41.900142,
     "geom:longitude":-70.821584,
@@ -31,17 +32,26 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09nFk008lzIUXb5aQcviII_41.900142_-70.821584@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714436,
-    "wof:geomhash":"2420091f163e7b101b68a45a3b42b3f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"271bb671247d212a22c9b26c943c19d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672241351
+        }
+    ],
     "wof:id":672241351,
-    "wof:lastmodified":1472625311,
+    "wof:lastmodified":1492108700,
     "wof:name":"Walter Carmichael",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

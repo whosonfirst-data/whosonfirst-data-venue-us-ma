@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.964905,41.932581,-70.964905,41.932581",
     "geom:latitude":41.932581,
     "geom:longitude":-70.964905,
@@ -41,8 +42,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85837823,
-        102084367
+        85849503,
+        102084367,
+        85837823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +52,15 @@
     },
     "wof:country":"US",
     "wof:created":1461725848,
-    "wof:geomhash":"137049225c7b28e41d3ec34511b1ec6a",
+    "wof:geomhash":"8df5c8cce2a87641a45039532c566632",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85849503,
+            "region_id":85688645,
+            "venue_id":672745343
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -61,9 +70,9 @@
         }
     ],
     "wof:id":672745343,
-    "wof:lastmodified":1472625978,
+    "wof:lastmodified":1492117070,
     "wof:name":"Plym Kraft Inc",
-    "wof:parent_id":85837823,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

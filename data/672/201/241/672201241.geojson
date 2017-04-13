@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.50792,41.678687,-70.50792,41.678687",
     "geom:latitude":41.678687,
     "geom:longitude":-70.50792,
@@ -31,17 +32,26 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50QbKXopMwu6E13aDzgb9d_41.678687_-70.507920@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713584,
-    "wof:geomhash":"7fb0194f14becba40532cc5c5b3e34ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c44a12990a8da374bd73e8fbc686a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672201241
+        }
+    ],
     "wof:id":672201241,
-    "wof:lastmodified":1472625156,
+    "wof:lastmodified":1492114797,
     "wof:name":"Tms Maintenance Inc",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.608348,41.661353,-70.608348,41.661353",
     "geom:latitude":41.661353,
     "geom:longitude":-70.608348,
@@ -39,17 +40,26 @@
         "hand"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36LI8RpXQRE0BkYs7SZbbd_41.661353_-70.608348@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741877,
-    "wof:geomhash":"0f8f2201c381c94e60c34ef054b92796",
-    "wof:hierarchy":[],
+    "wof:geomhash":"011d691a22f7d31b678ea811135ff16c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523215,
+            "venue_id":689191755
+        }
+    ],
     "wof:id":689191755,
-    "wof:lastmodified":1472625597,
+    "wof:lastmodified":1492100255,
     "wof:name":"Consignment Classics",
     "wof:parent_id":420523215,
     "wof:placetype":"venue",

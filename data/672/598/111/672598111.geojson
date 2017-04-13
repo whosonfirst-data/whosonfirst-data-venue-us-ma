@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.310988,42.685936,-71.310988,42.685936",
     "geom:latitude":42.685936,
     "geom:longitude":-71.310988,
@@ -34,19 +35,32 @@
     ],
     "sg:website":"www.evergreenmontessorihouse.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85810261,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65Kb2tGvNnKGhZtBRoaFHd_42.685936_-71.310988@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722552,
-    "wof:geomhash":"89c3552497532176682e36b81e690bf1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e8ebf09f45e8dfc7ba6d50e7475f49f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85810261,
+            "region_id":85688645,
+            "venue_id":672598111
+        }
+    ],
     "wof:id":672598111,
-    "wof:lastmodified":1472625848,
+    "wof:lastmodified":1492113214,
     "wof:name":"Evergreen Montessori House",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.727118,42.17472,-71.727118,42.17472",
     "geom:latitude":42.17472,
     "geom:longitude":-71.727118,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524081
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6C7CDjdNXJ1HMBRcQV4IcV_42.174720_-71.727118@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726016,
-    "wof:geomhash":"04c4f11a1071b71405b4c7a68495988c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d90fe2089b76500ac9f55b8f0e67aa5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524081,
+            "venue_id":672753931
+        }
+    ],
     "wof:id":672753931,
-    "wof:lastmodified":1472626000,
+    "wof:lastmodified":1492110762,
     "wof:name":"Scott Carr's Auto Shack",
     "wof:parent_id":420524081,
     "wof:placetype":"venue",

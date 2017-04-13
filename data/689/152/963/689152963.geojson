@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.78939,41.902402,-70.78939,41.902402",
     "geom:latitude":41.902402,
     "geom:longitude":-70.78939,
@@ -38,17 +39,26 @@
         "dog"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QA7IV8FDFKx0F3w3kUYly_41.902402_-70.789390@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741007,
-    "wof:geomhash":"b301e92fefb512523fcd6cf16673b1a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bf5a5bbb61ab2cf3ab0fa25144e38aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":689152963
+        }
+    ],
     "wof:id":689152963,
-    "wof:lastmodified":1472625523,
+    "wof:lastmodified":1492101004,
     "wof:name":"Moore Dogs",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

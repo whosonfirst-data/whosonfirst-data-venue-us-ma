@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.075478,42.024186,-71.075478,42.024186",
     "geom:latitude":42.024186,
     "geom:longitude":-71.075478,
@@ -31,19 +32,28 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6n6PtNC0BkateilHFR3a4R_42.024186_-71.075478@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713280,
-    "wof:geomhash":"8f1f71702a64bfbeda9e6be68c060db2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6649e47f85c573a610cae20c4e56648",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523987,
+            "venue_id":672187323
+        }
+    ],
     "wof:id":672187323,
-    "wof:lastmodified":1472625129,
+    "wof:lastmodified":1492114872,
     "wof:name":"Cats Eye Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

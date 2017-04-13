@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.273473,42.122014,-71.273473,42.122014",
     "geom:latitude":42.122014,
     "geom:longitude":-71.273473,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s70412kVGVVgwCdtcsury_42.122014_-71.273473@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730570,
-    "wof:geomhash":"20c5ce695042e5eeef2940c8fc2ae004",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3dfcf53e4b9fc1e33dce79751c17acba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672963909
+        }
+    ],
     "wof:id":672963909,
-    "wof:lastmodified":1472626177,
+    "wof:lastmodified":1492110316,
     "wof:name":"Walpole Auto Sales",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

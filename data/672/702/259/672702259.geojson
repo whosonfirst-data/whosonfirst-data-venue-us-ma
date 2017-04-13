@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.003886,41.973577,-71.003886,41.973577",
     "geom:latitude":41.973577,
     "geom:longitude":-71.003886,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zex1fFA4ZBUOyuI1CXcNd_41.973577_-71.003886@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724915,
-    "wof:geomhash":"31451e8b86b632d06b688c1728caa940",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db9d726f297f27c019de491039375299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672702259
+        }
+    ],
     "wof:id":672702259,
-    "wof:lastmodified":1472625940,
+    "wof:lastmodified":1492111659,
     "wof:name":"CLS",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.039935,41.580994,-71.039935,41.580994",
     "geom:latitude":41.580994,
     "geom:longitude":-71.039935,
@@ -31,17 +32,26 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523295
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TMbbEKGw2i2Hcb8rSpYiy_41.580994_-71.039935@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711888,
-    "wof:geomhash":"7c7588d00e928b7a382756228e0f3c64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aed3443d898f0b91ad93f0ec9f7f54ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523295,
+            "venue_id":656394213
+        }
+    ],
     "wof:id":656394213,
-    "wof:lastmodified":1472625013,
+    "wof:lastmodified":1492101494,
     "wof:name":"Organic Farmer's Market",
     "wof:parent_id":420523295,
     "wof:placetype":"venue",

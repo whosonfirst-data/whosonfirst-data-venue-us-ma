@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.185576,42.298495,-71.185576,42.298495",
     "geom:latitude":42.298495,
     "geom:longitude":-71.185576,
@@ -33,17 +34,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00WBlCJjUHwmt8YLRmty7v_42.298495_-71.185576@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725983,
-    "wof:geomhash":"3ad0bd37898e36ce11ed92871717677e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c8e95708b92e598e8d4e4412ba4405b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":672752265
+        }
+    ],
     "wof:id":672752265,
-    "wof:lastmodified":1472625985,
+    "wof:lastmodified":1492116912,
     "wof:name":"Orrick Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

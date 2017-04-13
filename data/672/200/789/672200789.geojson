@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.111784,42.628254,-73.111784,42.628254",
     "geom:latitude":42.628254,
     "geom:longitude":-73.111784,
@@ -32,17 +33,26 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hR4JZZQxqdSXMowUfHNtU_42.628254_-73.111784@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713575,
-    "wof:geomhash":"ba71d320e18cabc14a5e8df284793bd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93cd7d9370c2d9f4223d91690938e8d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672200789
+        }
+    ],
     "wof:id":672200789,
-    "wof:lastmodified":1472625170,
+    "wof:lastmodified":1492108654,
     "wof:name":"Rascal's Lounge",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

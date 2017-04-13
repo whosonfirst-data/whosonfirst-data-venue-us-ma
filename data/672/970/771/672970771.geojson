@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.24884,42.06314,-71.24884,42.06314",
     "geom:latitude":42.06314,
     "geom:longitude":-71.24884,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85820489,
+        102084403,
         85809067,
         102191575,
         404476025,
-        85633793,
-        85950825,
-        102084403,
-        85688645
+        85950825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,15 @@
     },
     "wof:country":"US",
     "wof:created":1461730774,
-    "wof:geomhash":"c185a828582a577a71c285e34764e9dd",
+    "wof:geomhash":"ff603513a6e3cc77d0fe3b389c57eae8",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85820489,
+            "region_id":85688645,
+            "venue_id":672970771
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +69,9 @@
         }
     ],
     "wof:id":672970771,
-    "wof:lastmodified":1472626179,
+    "wof:lastmodified":1492106381,
     "wof:name":"Liberty Street Assoc",
-    "wof:parent_id":85809067,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

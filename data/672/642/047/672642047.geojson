@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.987348,42.020478,-70.987348,42.020478",
     "geom:latitude":42.020478,
     "geom:longitude":-70.987348,
@@ -31,17 +32,26 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZiRH5kH8QenI0qKTm9yEg_42.020478_-70.987348@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723543,
-    "wof:geomhash":"195604fac1a8e45f0cfb890144b2a40c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8513e8beada11ea008006fe46f9d683f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523939,
+            "venue_id":672642047
+        }
+    ],
     "wof:id":672642047,
-    "wof:lastmodified":1472625880,
+    "wof:lastmodified":1492118081,
     "wof:name":"Wright's Garden Ctr",
     "wof:parent_id":420523939,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.348382,42.110532,-73.348382,42.110532",
     "geom:latitude":42.110532,
     "geom:longitude":-73.348382,
@@ -32,19 +33,44 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241,
+        85805357,
+        102191575,
+        404476103,
+        85950599,
+        102084369,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3G19HQXehbeY5TJj9kJGtp_42.110532_-73.348382@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719901,
-    "wof:geomhash":"0f46515384b5f357da09c3d06d797b9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0938292042076761be9afed6a3cfd6a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672478259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084369,
+            "localadmin_id":404476103,
+            "locality_id":85950599,
+            "neighbourhood_id":85805357,
+            "region_id":85688645,
+            "venue_id":672478259
+        }
+    ],
     "wof:id":672478259,
-    "wof:lastmodified":1472625737,
+    "wof:lastmodified":1492115353,
     "wof:name":"J W Woodworking",
-    "wof:parent_id":420523241,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

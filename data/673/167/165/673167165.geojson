@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.381972,42.602878,-71.381972,42.602878",
     "geom:latitude":42.602878,
     "geom:longitude":-71.381972,
@@ -40,17 +41,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PPfuiHiXdFNSZfoNh23Gl_42.602878_-71.381972@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735161,
-    "wof:geomhash":"2e919a77f8f3382e79650b417be4165e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68d3a04c26fa48a7420a9891ae071ee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":673167165
+        }
+    ],
     "wof:id":673167165,
-    "wof:lastmodified":1472625449,
+    "wof:lastmodified":1492102548,
     "wof:name":"Renhart Sales Co Inc",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

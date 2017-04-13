@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.639922,41.745839,-70.639922,41.745839",
     "geom:latitude":41.745839,
     "geom:longitude":-70.639922,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85842535,
-        102084367
+        85868735,
+        102084367,
+        85842535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461711438,
-    "wof:geomhash":"53be3561ab9829bb60261b06205f5b6e",
+    "wof:geomhash":"628d464b0b66c4ef4d18fef3a47d3a21",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85868735,
+            "region_id":85688645,
+            "venue_id":656372917
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -54,9 +63,9 @@
         }
     ],
     "wof:id":656372917,
-    "wof:lastmodified":1472625024,
+    "wof:lastmodified":1492101576,
     "wof:name":"Kenny's Salt Water Taffy",
-    "wof:parent_id":85842535,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.732538,41.932376,-70.732538,41.932376",
     "geom:latitude":41.932376,
     "geom:longitude":-70.732538,
@@ -31,17 +32,26 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Y19BcvkFV3iqKPzmdP48O_41.932376_-70.732538@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721625,
-    "wof:geomhash":"acb551734e61631b08f01bd03e836fae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"499d3e9256362f975421ae7eb108b4b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672557113
+        }
+    ],
     "wof:id":672557113,
-    "wof:lastmodified":1472625804,
+    "wof:lastmodified":1492116381,
     "wof:name":"Pristine Painting Svc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

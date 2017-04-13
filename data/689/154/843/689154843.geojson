@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.878059,42.042461,-70.878059,42.042461",
     "geom:latitude":42.042461,
     "geom:longitude":-70.878059,
@@ -39,17 +40,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03JUDgY5e4wxSH7g5fncnE_42.042461_-70.878059@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741050,
-    "wof:geomhash":"04103cd2c0b012fae89dd5a52effc6a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30e15470b85edb483b845963c80727a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523849,
+            "venue_id":689154843
+        }
+    ],
     "wof:id":689154843,
-    "wof:lastmodified":1472625517,
+    "wof:lastmodified":1492098555,
     "wof:name":"Whispers Of Yesterday And Today-Crafts",
     "wof:parent_id":420523849,
     "wof:placetype":"venue",

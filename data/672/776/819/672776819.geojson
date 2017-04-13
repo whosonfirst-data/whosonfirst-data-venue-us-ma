@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.894087,41.731467,-70.894087,41.731467",
     "geom:latitude":41.731467,
     "geom:longitude":-70.894087,
@@ -31,17 +32,26 @@
         "auctioneer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18XvMyQ3k6teJaK7s5G9aH_41.731467_-70.894087@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726517,
-    "wof:geomhash":"0aa68989b6fc362e3137ca12605ef547",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7704fbd71dfafb52c190f4989c56b26a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672776819
+        }
+    ],
     "wof:id":672776819,
-    "wof:lastmodified":1472626020,
+    "wof:lastmodified":1492114983,
     "wof:name":"Sullivan's Auction",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

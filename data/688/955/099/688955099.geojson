@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.269339,42.121222,-71.269339,42.121222",
     "geom:latitude":42.121222,
     "geom:longitude":-71.269339,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Gdi132iUOClPcVMZpzHPj_42.121222_-71.269339@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736347,
-    "wof:geomhash":"6156f58f3b8020d9dd7ed17cb624124d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef3d8634e273d03813e3393b10061dc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":688955099
+        }
+    ],
     "wof:id":688955099,
-    "wof:lastmodified":1472625144,
+    "wof:lastmodified":1492120360,
     "wof:name":"Gk Services",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

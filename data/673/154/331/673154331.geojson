@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.147753,42.510741,-71.147753,42.510741",
     "geom:latitude":42.510741,
     "geom:longitude":-71.147753,
@@ -32,16 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850215,
+        85838185,
         102191575,
-        404476021,
+        404476469,
         85633793,
-        85950663,
+        85950353,
         102084643,
         85688645,
-        85838185,
-        404476469,
-        85950353
+        85850215,
+        404476021,
+        85950663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,18 +50,8 @@
     },
     "wof:country":"US",
     "wof:created":1461734893,
-    "wof:geomhash":"523f0e2da22abd8b8ebd45e488fb14af",
+    "wof:geomhash":"54d75416d3a9690e2b5a91f6bec8a502",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476021,
-            "locality_id":85950663,
-            "neighbourhood_id":85850215,
-            "region_id":85688645,
-            "venue_id":673154331
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -70,12 +61,22 @@
             "neighbourhood_id":85838185,
             "region_id":85688645,
             "venue_id":673154331
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476021,
+            "locality_id":85950663,
+            "neighbourhood_id":85850215,
+            "region_id":85688645,
+            "venue_id":673154331
         }
     ],
     "wof:id":673154331,
-    "wof:lastmodified":1472625439,
+    "wof:lastmodified":1492103338,
     "wof:name":"Communities United Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

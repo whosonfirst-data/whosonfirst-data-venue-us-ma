@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.623644,41.556546,-70.623644,41.556546",
     "geom:latitude":41.556546,
     "geom:longitude":-70.623644,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85950553,
+        85848833,
         102084379,
+        85950553,
         85818889
     ],
     "wof:breaches":[],
@@ -45,8 +47,15 @@
     },
     "wof:country":"US",
     "wof:created":1461715186,
-    "wof:geomhash":"d26731c10cd1f7521b15a8a6aad1d043",
+    "wof:geomhash":"8c4b6a02df5dbaa11d6310af5368b0ca",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084379,
+            "neighbourhood_id":85848833,
+            "region_id":85688645,
+            "venue_id":672279445
+        },
         {
             "country_id":85633793,
             "county_id":102084379,
@@ -57,9 +66,9 @@
         }
     ],
     "wof:id":672279445,
-    "wof:lastmodified":1472625446,
+    "wof:lastmodified":1492113853,
     "wof:name":"On The Water",
-    "wof:parent_id":85818889,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

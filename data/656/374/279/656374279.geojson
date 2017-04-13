@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.348799,42.666806,-71.348799,42.666806",
     "geom:latitude":42.666806,
     "geom:longitude":-71.348799,
@@ -38,7 +39,8 @@
         85633793,
         85950327,
         102084643,
-        85688645
+        85688645,
+        85811869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461711467,
-    "wof:geomhash":"6670ac2a1859c0fdacc6a8a08e28e967",
+    "wof:geomhash":"973942d51c641d3683bdcefe524c53af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,19 @@
             "neighbourhood_id":85891405,
             "region_id":85688645,
             "venue_id":656374279
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85811869,
+            "region_id":85688645,
+            "venue_id":656374279
         }
     ],
     "wof:id":656374279,
-    "wof:lastmodified":1472624989,
+    "wof:lastmodified":1492101932,
     "wof:name":"Creative Images Phtgrphy",
-    "wof:parent_id":85891405,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

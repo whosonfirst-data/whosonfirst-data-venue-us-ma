@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.517049,42.246213,-71.517049,42.246213",
     "geom:latitude":42.246213,
     "geom:longitude":-71.517049,
@@ -35,7 +36,10 @@
         85688645,
         85633793,
         85850333,
-        102084643
+        102084643,
+        85950719,
+        102084655,
+        85812283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461714424,
-    "wof:geomhash":"1b38486e29b3240cf0671277606446e1",
+    "wof:geomhash":"953e1eefea87a23fe3c1e68b90cfd78b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +55,20 @@
             "neighbourhood_id":85850333,
             "region_id":85688645,
             "venue_id":672240655
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "locality_id":85950719,
+            "neighbourhood_id":85812283,
+            "region_id":85688645,
+            "venue_id":672240655
         }
     ],
     "wof:id":672240655,
-    "wof:lastmodified":1472625317,
+    "wof:lastmodified":1492117735,
     "wof:name":"Air Products & Chemicals Inc",
-    "wof:parent_id":85850333,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

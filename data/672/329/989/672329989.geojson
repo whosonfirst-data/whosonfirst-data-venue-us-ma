@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.540076,42.141078,-71.540076,42.141078",
     "geom:latitude":42.141078,
     "geom:longitude":-71.540076,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461716234,
-    "wof:geomhash":"ded1648420499b8965826eedbc3fcc34",
+    "wof:geomhash":"2222db42036833b9f56d9fc5847bd6e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672329989
         }
     ],
     "wof:id":672329989,
-    "wof:lastmodified":1472625562,
+    "wof:lastmodified":1492117538,
     "wof:name":"Rosa's Villa",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

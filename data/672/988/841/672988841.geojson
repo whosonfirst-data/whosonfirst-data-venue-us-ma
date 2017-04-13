@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.893385,41.729813,-70.893385,41.729813",
     "geom:latitude":41.729813,
     "geom:longitude":-70.893385,
@@ -31,17 +32,26 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ln2ZVKugpLESTaxLst4ad_41.729813_-70.893385@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731287,
-    "wof:geomhash":"0e69e629e4c7bdc6fa6d5e03f9ecd3f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee134f3ccc5ac0441f58b3f434ea7431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672988841
+        }
+    ],
     "wof:id":672988841,
-    "wof:lastmodified":1472626202,
+    "wof:lastmodified":1492114497,
     "wof:name":"Heritage Restoration",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

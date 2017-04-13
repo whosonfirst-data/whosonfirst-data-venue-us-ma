@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.476183,42.415054,-72.476183,42.415054",
     "geom:latitude":42.415054,
     "geom:longitude":-72.476183,
@@ -32,19 +33,28 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HUpUcE7uueLou3yPCUN7Q_42.415054_-72.476183@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723392,
-    "wof:geomhash":"25bfc5887159bb8d55bf0dd5ef8726f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7c99e9c990379ef73dabe5e420ecb9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523639,
+            "venue_id":672634891
+        }
+    ],
     "wof:id":672634891,
-    "wof:lastmodified":1472625890,
+    "wof:lastmodified":1492117140,
     "wof:name":"Birchwood Bird Works",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

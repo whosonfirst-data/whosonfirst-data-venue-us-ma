@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.855034,42.326248,-71.855034,42.326248",
     "geom:latitude":42.326248,
     "geom:longitude":-71.855034,
@@ -32,17 +33,26 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5B3igTGLWbgU3BMiqvd1xZ_42.326248_-71.855034@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716758,
-    "wof:geomhash":"116d03fda582b30aa775fe38a3b25a2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02af916ede962fd4f8694a23ce78b413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":672350267
+        }
+    ],
     "wof:id":672350267,
-    "wof:lastmodified":1472625598,
+    "wof:lastmodified":1492111226,
     "wof:name":"Mark Stanhope",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

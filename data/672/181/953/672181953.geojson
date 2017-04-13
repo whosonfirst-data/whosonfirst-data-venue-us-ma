@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.983971,42.689121,-70.983971,42.689121",
     "geom:latitude":42.689121,
     "geom:longitude":-70.983971,
@@ -31,17 +32,26 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14qkDUYi24khLkS2juohDE_42.689121_-70.983971@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713162,
-    "wof:geomhash":"0b6bffff2fae5b5e16461c6deb4eb10f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f0d97410916c88a78c59102aec8b4d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672181953
+        }
+    ],
     "wof:id":672181953,
-    "wof:lastmodified":1472625112,
+    "wof:lastmodified":1492115691,
     "wof:name":"Boxford Animal Hospital",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

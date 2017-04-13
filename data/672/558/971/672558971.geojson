@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.544758,42.142741,-71.544758,42.142741",
     "geom:latitude":42.142741,
     "geom:longitude":-71.544758,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"US",
     "wof:created":1461721682,
-    "wof:geomhash":"59b477ae6dd58ef8513a8147b905711d",
+    "wof:geomhash":"ddb16b2fdd7c534a1a228f0664a16764",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672558971
         }
     ],
     "wof:id":672558971,
-    "wof:lastmodified":1472625835,
+    "wof:lastmodified":1492107701,
     "wof:name":"Capertown Kitchens Inc",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

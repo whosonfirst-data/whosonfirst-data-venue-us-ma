@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101411,42.124093,-71.101411,42.124093",
     "geom:latitude":42.124093,
     "geom:longitude":-71.101411,
@@ -36,17 +37,26 @@
         "historical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UKJTrjiVJvtsa0k1yZJV7_42.124093_-71.101411@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736297,
-    "wof:geomhash":"8df7afc596638a58d28c62dee47b9609",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c461ebfdac7dcc1ae93c240f1d752edc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688952329
+        }
+    ],
     "wof:id":688952329,
-    "wof:lastmodified":1472625136,
+    "wof:lastmodified":1492120332,
     "wof:name":"Stoughton Historical Society",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

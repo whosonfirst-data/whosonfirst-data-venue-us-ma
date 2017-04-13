@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.997457,42.475504,-70.997457,42.475504",
     "geom:latitude":42.475504,
     "geom:longitude":-70.997457,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523481,
+        85838007,
         102191575,
         404476207,
         85633793,
         85950413,
         102084463,
-        85688645
+        85688645,
+        420523481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461716001,
-    "wof:geomhash":"2f7934fe216a4598a68e574c7a7ea94e",
+    "wof:geomhash":"7ab1f7fdb84933b47624776d314f04f3",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476207,
+            "locality_id":85950413,
+            "neighbourhood_id":85838007,
+            "region_id":85688645,
+            "venue_id":672319743
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672319743,
-    "wof:lastmodified":1472625549,
+    "wof:lastmodified":1492107673,
     "wof:name":"CDA Connor & Desmarais Court",
-    "wof:parent_id":420523481,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

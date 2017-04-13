@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.702832,42.50818,-72.702832,42.50818",
     "geom:latitude":42.50818,
     "geom:longitude":-72.702832,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UcbcT2anvUNiYHWAJxjbt_42.508180_-72.702832@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723446,
-    "wof:geomhash":"e88c809f31f1e0638900d444bd29141c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7035a39a0e3a66529fbc7da6dddf2d49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523511,
+            "venue_id":672637141
+        }
+    ],
     "wof:id":672637141,
-    "wof:lastmodified":1472625877,
+    "wof:lastmodified":1492115955,
     "wof:name":"Surgical & Medical Technologie",
     "wof:parent_id":420523511,
     "wof:placetype":"venue",

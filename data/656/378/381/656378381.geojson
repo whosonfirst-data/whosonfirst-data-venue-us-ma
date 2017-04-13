@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.888745,41.874247,-70.888745,41.874247",
     "geom:latitude":41.874247,
     "geom:longitude":-70.888745,
@@ -33,17 +34,26 @@
         "motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DDaCH3sXUvBFOxaM24YqS_41.874247_-70.888745@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711553,
-    "wof:geomhash":"287f6830ab105b3852a7f8b0354c774a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1d0381347386611880216d6fe636090",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":656378381
+        }
+    ],
     "wof:id":656378381,
-    "wof:lastmodified":1472624989,
+    "wof:lastmodified":1492101690,
     "wof:name":"XXX-Treme Cycles",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

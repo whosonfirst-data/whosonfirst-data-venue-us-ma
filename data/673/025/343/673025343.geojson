@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.29885,42.09106,-71.29885,42.09106",
     "geom:latitude":42.09106,
     "geom:longitude":-71.29885,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85855501,
-        102084403
+        102084403,
+        85825135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461732186,
-    "wof:geomhash":"0b0185c7d254f51f2a11dcd3d91dba15",
+    "wof:geomhash":"ba171ea02db31c971ea6ccdbc8af92e7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,19 @@
             "neighbourhood_id":85855501,
             "region_id":85688645,
             "venue_id":673025343
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85825135,
+            "region_id":85688645,
+            "venue_id":673025343
         }
     ],
     "wof:id":673025343,
-    "wof:lastmodified":1472624998,
+    "wof:lastmodified":1492104150,
     "wof:name":"Norfolk Storage Co Inc",
-    "wof:parent_id":85855501,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

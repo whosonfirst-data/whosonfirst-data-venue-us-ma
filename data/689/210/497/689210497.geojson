@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.2491,41.679901,-70.2491,41.679901",
     "geom:latitude":41.679901,
     "geom:longitude":-70.2491,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Yppn9DX4j5Kva7WB9ymKa_41.679901_-70.249100@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742266,
-    "wof:geomhash":"1807274efee59ef26ebce6a2fc2d2e9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"beae0e604d32cb210822c6d506cf451d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":689210497
+        }
+    ],
     "wof:id":689210497,
-    "wof:lastmodified":1472625608,
+    "wof:lastmodified":1492098271,
     "wof:name":"E W Drew Inc",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

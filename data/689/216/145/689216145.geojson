@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.887892,41.720146,-70.887892,41.720146",
     "geom:latitude":41.720146,
     "geom:longitude":-70.887892,
@@ -41,17 +42,26 @@
         "banquet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gHfsji3xUfwtTka2Cb3bW_41.720146_-70.887892@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742384,
-    "wof:geomhash":"c72f8edd457bc882918af752d50e9f11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"565454334157d3c7352c4214a9588680",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":689216145
+        }
+    ],
     "wof:id":689216145,
-    "wof:lastmodified":1472625608,
+    "wof:lastmodified":1492097712,
     "wof:name":"The Highlander",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

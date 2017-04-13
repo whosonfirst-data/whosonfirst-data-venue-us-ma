@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.378778,41.692536,-70.378778,41.692536",
     "geom:latitude":41.692536,
     "geom:longitude":-70.378778,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842649,
+        85812735,
         102191575,
         404475893,
         85633793,
         85950321,
         102084379,
-        85688645
+        85688645,
+        85842649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461711236,
-    "wof:geomhash":"bb28f2c053d6010284014b7f65facb4c",
+    "wof:geomhash":"a52a4d87b8393bd1301e25e29ab00687",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404475893,
+            "locality_id":85950321,
+            "neighbourhood_id":85812735,
+            "region_id":85688645,
+            "venue_id":656363643
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":656363643,
-    "wof:lastmodified":1472624956,
+    "wof:lastmodified":1492101613,
     "wof:name":"Kirsten L Tavano",
-    "wof:parent_id":85842649,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

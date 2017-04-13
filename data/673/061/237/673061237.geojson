@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.2537,41.6903,-70.2537,41.6903",
     "geom:latitude":41.6903,
     "geom:longitude":-70.2537,
@@ -34,17 +35,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qd7bSNPk6Wq8zfE3mIujP_41.690188_-70.253892@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732977,
-    "wof:geomhash":"5b3aefbeca66757fd3515e51a062edcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e6168c990e004f442e1f6b12f94faa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":673061237
+        }
+    ],
     "wof:id":673061237,
-    "wof:lastmodified":1472625161,
+    "wof:lastmodified":1492102390,
     "wof:name":"Enterprise Autobody",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

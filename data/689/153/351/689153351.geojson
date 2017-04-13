@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.723818,42.014127,-70.723818,42.014127",
     "geom:latitude":42.014127,
     "geom:longitude":-70.723818,
@@ -43,17 +44,26 @@
         "oral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7533pcOFmw44SnxWzF595g_42.014127_-70.723818@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741015,
-    "wof:geomhash":"4e44be1ce211c74d3254018c6a90f86b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b094df6a5c8bfa649e95a653ce4b6ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523959,
+            "venue_id":689153351
+        }
+    ],
     "wof:id":689153351,
-    "wof:lastmodified":1472625501,
+    "wof:lastmodified":1492097475,
     "wof:name":"Kyros Theodore S",
     "wof:parent_id":420523959,
     "wof:placetype":"venue",

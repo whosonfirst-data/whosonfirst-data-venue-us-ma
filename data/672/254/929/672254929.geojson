@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.906482,42.209368,-71.906482,42.209368",
     "geom:latitude":42.209368,
     "geom:longitude":-71.906482,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ulKUW2BT3qWx7PIOD8fqF_42.209368_-71.906482@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714704,
-    "wof:geomhash":"4f89a95b38cafc86738d168da7959daf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e32359516544fed247b83a8c2be3718",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":672254929
+        }
+    ],
     "wof:id":672254929,
-    "wof:lastmodified":1472625383,
+    "wof:lastmodified":1492118426,
     "wof:name":"Retnip",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

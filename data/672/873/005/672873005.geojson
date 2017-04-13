@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.011484,42.448765,-71.011484,42.448765",
     "geom:latitude":42.448765,
     "geom:longitude":-71.011484,
@@ -33,17 +34,34 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476265,
+        85633793,
+        85950809,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4w2nBcb0CkZ6z5uE5FoNf4_42.448765_-71.011484@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728497,
-    "wof:geomhash":"27f32a0dc411a5e27dd718133590eae9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2731b37fffb7fc801175eb354f182bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476265,
+            "locality_id":85950809,
+            "region_id":85688645,
+            "venue_id":672873005
+        }
+    ],
     "wof:id":672873005,
-    "wof:lastmodified":1472626093,
+    "wof:lastmodified":1492111058,
     "wof:name":"Saugus Civil Defense",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

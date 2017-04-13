@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.941208,42.854303,-70.941208,42.854303",
     "geom:latitude":42.854303,
     "geom:longitude":-70.941208,
@@ -28,19 +29,38 @@
     "sg:postcode":"01913",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85813287,
+        102191575,
+        404476283,
+        85633793,
+        85950401,
+        102084463,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bFnnqbAsM53N1UVwTglq2_42.854303_-70.941208@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714682,
-    "wof:geomhash":"0d56214773d69efe37c6b835e57c8acd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6927ba854d8da61e327de0be5ecb9646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476283,
+            "locality_id":85950401,
+            "neighbourhood_id":85813287,
+            "region_id":85688645,
+            "venue_id":672253699
+        }
+    ],
     "wof:id":672253699,
-    "wof:lastmodified":1472625369,
+    "wof:lastmodified":1492111830,
     "wof:name":"All Pest",
-    "wof:parent_id":-1,
+    "wof:parent_id":85813287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

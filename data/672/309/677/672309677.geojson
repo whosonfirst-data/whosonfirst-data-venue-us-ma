@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.799619,42.076617,-70.799619,42.076617",
     "geom:latitude":42.076617,
     "geom:longitude":-70.799619,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5C68Qrl9remIPzL3BkmEDO_42.076617_-70.799619@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715794,
-    "wof:geomhash":"b454957d87c32c56727589489b8c9166",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9635135cad4cd76f6031bf4e129bd5c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":672309677
+        }
+    ],
     "wof:id":672309677,
-    "wof:lastmodified":1472625529,
+    "wof:lastmodified":1492111315,
     "wof:name":"Arthur Lage MD",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

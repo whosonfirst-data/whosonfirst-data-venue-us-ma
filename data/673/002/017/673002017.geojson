@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.800376,42.049251,-70.800376,42.049251",
     "geom:latitude":42.049251,
     "geom:longitude":-70.800376,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5w6jizgap57AzidP5h2qAI_42.049251_-70.800376@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731617,
-    "wof:geomhash":"f6bb6b486f1234459a10fb39447ab61d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b42d8020de69ce84c1d1815e4293669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":673002017
+        }
+    ],
     "wof:id":673002017,
-    "wof:lastmodified":1472624905,
+    "wof:lastmodified":1492103315,
     "wof:name":"Pembroke Town Land Fill",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

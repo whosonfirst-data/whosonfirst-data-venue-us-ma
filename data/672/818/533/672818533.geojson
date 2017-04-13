@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.422408,42.267698,-72.422408,42.267698",
     "geom:latitude":42.267698,
     "geom:longitude":-72.422408,
@@ -33,17 +34,26 @@
         "kennel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZQ2hXessircy8wXZm439i_42.267698_-72.422408@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727367,
-    "wof:geomhash":"d34296818be8d8c950c35ec825b5dba4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35afc6419fdcb3dc9557debaa8f562d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672818533
+        }
+    ],
     "wof:id":672818533,
-    "wof:lastmodified":1472626051,
+    "wof:lastmodified":1492119773,
     "wof:name":"Raehurst Kennel & Stables",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.130841,41.611429,-71.130841,41.611429",
     "geom:latitude":41.611429,
     "geom:longitude":-71.130841,
@@ -35,19 +36,28 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27oCML7qmMEpY3bYNDeqjg_41.611429_-71.130841@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742575,
-    "wof:geomhash":"f6f7c2453c99076f5a8954be763bb259",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34b690772ef375ad39d662397af88600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":689224207
+        }
+    ],
     "wof:id":689224207,
-    "wof:lastmodified":1472625617,
+    "wof:lastmodified":1492097820,
     "wof:name":"Daignault Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

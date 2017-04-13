@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.535868,42.669963,-72.535868,42.669963",
     "geom:latitude":42.669963,
     "geom:longitude":-72.535868,
@@ -51,17 +52,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DHWZ4AdafeLaybp8xMAUR_42.669963_-72.535868@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734032,
-    "wof:geomhash":"0843c644fc3009b28c27a942aae578a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b1da79aaa43e463c6e7f57a0d2292e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":673112621
+        }
+    ],
     "wof:id":673112621,
-    "wof:lastmodified":1472625316,
+    "wof:lastmodified":1492103747,
     "wof:name":"Whitney Fence",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

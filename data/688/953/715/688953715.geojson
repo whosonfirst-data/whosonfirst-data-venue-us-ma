@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.094452,42.129089,-71.094452,42.129089",
     "geom:latitude":42.129089,
     "geom:longitude":-71.094452,
@@ -36,17 +37,26 @@
         "variety"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w6wuRLL5wVHkdlp5QwqL2_42.129089_-71.094452@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736321,
-    "wof:geomhash":"789a438e578f5c138e51af6d09ad8885",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbc6160e464b9e41c1adfc87cfaf5b00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688953715
+        }
+    ],
     "wof:id":688953715,
-    "wof:lastmodified":1472625166,
+    "wof:lastmodified":1492120224,
     "wof:name":"Jimmy's Market",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

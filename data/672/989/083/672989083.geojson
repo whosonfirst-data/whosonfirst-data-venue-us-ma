@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.422437,42.153715,-72.422437,42.153715",
     "geom:latitude":42.153715,
     "geom:longitude":-72.422437,
@@ -31,17 +32,36 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420523561,
+        102191575,
+        404476379,
+        85633793,
+        85950775,
+        102084627,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Nag5KoxsNNM5rDa5mEQD2_42.153715_-72.422437@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731292,
-    "wof:geomhash":"e9c6c935025135628f4569c518f1f0b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03ec386f591db983f70a63cb1315d468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476379,
+            "locality_id":85950775,
+            "neighbourhood_id":420523561,
+            "region_id":85688645,
+            "venue_id":672989083
+        }
+    ],
     "wof:id":672989083,
-    "wof:lastmodified":1472626191,
+    "wof:lastmodified":1492107604,
     "wof:name":"Grace Union Church",
     "wof:parent_id":420523561,
     "wof:placetype":"venue",

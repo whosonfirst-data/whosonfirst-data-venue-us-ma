@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.377564,42.22019,-72.377564,42.22019",
     "geom:latitude":42.22019,
     "geom:longitude":-72.377564,
@@ -31,17 +32,26 @@
         "fuel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7a6xFAmBjw88qt78GXM73d_42.220190_-72.377564@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722314,
-    "wof:geomhash":"80b0482680a0ee9b0575e4b060286144",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d285f4314aa74f212e1c8d7406f73e74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672587383
+        }
+    ],
     "wof:id":672587383,
-    "wof:lastmodified":1472625826,
+    "wof:lastmodified":1492117946,
     "wof:name":"Spectra Management Svc Group",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

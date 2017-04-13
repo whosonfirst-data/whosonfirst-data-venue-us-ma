@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.908703,41.892302,-70.908703,41.892302",
     "geom:latitude":41.892302,
     "geom:longitude":-70.908703,
@@ -31,17 +32,26 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JgA27WUcOqq9wRqKDZjGV_41.892302_-70.908703@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732015,
-    "wof:geomhash":"ef9307f8f1cf4eb92693ee9e64e56030",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f894e8ee94018251d4a293405631e51d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":673018397
+        }
+    ],
     "wof:id":673018397,
-    "wof:lastmodified":1472624993,
+    "wof:lastmodified":1492104031,
     "wof:name":"ICU Assoc Inc",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

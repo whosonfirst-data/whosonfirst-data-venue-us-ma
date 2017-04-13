@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.927387,42.314999,-71.927387,42.314999",
     "geom:latitude":42.314999,
     "geom:longitude":-71.927387,
@@ -32,17 +33,26 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ciUtTXXd4Zn8kxvd4U2U6_42.314999_-71.927387@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716266,
-    "wof:geomhash":"ef2896ab7cc8c027123eb6c8d92a96ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"881be945e223a849dc83b53ebb48dea0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672331289
+        }
+    ],
     "wof:id":672331289,
-    "wof:lastmodified":1472625554,
+    "wof:lastmodified":1492116287,
     "wof:name":"Lindmark International Inc",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

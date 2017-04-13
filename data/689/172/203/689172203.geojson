@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.130074,42.339815,-71.130074,42.339815",
     "geom:latitude":42.339815,
     "geom:longitude":-71.130074,
@@ -28,17 +29,34 @@
     "sg:postcode":"02446",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yrfLT1nmjfjKAXhPiQ6c4_42.339815_-71.130074@1303262228"
     },
     "wof:country":"US",
     "wof:created":1461741460,
-    "wof:geomhash":"f588d865027ffacee53edb10f633d071",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cc62f90b4f4c31d5b699a1f9539516f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "region_id":85688645,
+            "venue_id":689172203
+        }
+    ],
     "wof:id":689172203,
-    "wof:lastmodified":1472625545,
+    "wof:lastmodified":1492097305,
     "wof:name":"Temple Beth Zion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

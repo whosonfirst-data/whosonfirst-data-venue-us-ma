@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.354366,42.339159,-71.354366,42.339159",
     "geom:latitude":42.339159,
     "geom:longitude":-71.354366,
@@ -34,17 +35,34 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476463,
+        85633793,
+        85950623,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sQDVsmz4Oru98eAAs7gqm_42.339159_-71.354366@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713309,
-    "wof:geomhash":"850c8b023c358e6e146a7e66e26374bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed259e79fe9c346425f91bf05fd678ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476463,
+            "locality_id":85950623,
+            "region_id":85688645,
+            "venue_id":672188881
+        }
+    ],
     "wof:id":672188881,
-    "wof:lastmodified":1472625167,
+    "wof:lastmodified":1492105792,
     "wof:name":"Krowne Interior Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

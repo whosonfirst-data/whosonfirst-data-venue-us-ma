@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.836227,42.350639,-71.836227,42.350639",
     "geom:latitude":42.350639,
     "geom:longitude":-71.836227,
@@ -33,17 +34,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ol2bYhFvz88atJXyXaEb1_42.350639_-71.836227@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734231,
-    "wof:geomhash":"984291aa6abb29b05c9b3d77473e4c77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8303799f3227fde81ad891627294985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":673121653
+        }
+    ],
     "wof:id":673121653,
-    "wof:lastmodified":1472625362,
+    "wof:lastmodified":1492104170,
     "wof:name":"Woodworks Woodcrafts",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

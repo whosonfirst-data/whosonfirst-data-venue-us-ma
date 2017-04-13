@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.260317,42.13539,-71.260317,42.13539",
     "geom:latitude":42.13539,
     "geom:longitude":-71.260317,
@@ -31,17 +32,26 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MwMKrCnXlz8GdM4zT0X1F_42.135390_-71.260317@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729796,
-    "wof:geomhash":"b07158405f3c845f8b7de7c34aae0b24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bc8c2bec3bc262d7400bed1e6f566d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672936917
+        }
+    ],
     "wof:id":672936917,
-    "wof:lastmodified":1472626160,
+    "wof:lastmodified":1492106806,
     "wof:name":"Reliable Dry Cleaners",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

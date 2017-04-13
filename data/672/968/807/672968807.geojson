@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.060874,42.516749,-71.060874,42.516749",
     "geom:latitude":42.516749,
     "geom:longitude":-71.060874,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891537,
+        85835059,
         102191575,
         404476455,
         85633793,
         85950659,
         102084643,
         85688645,
-        85835059
+        85891537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461730721,
-    "wof:geomhash":"067bf486d26b53174b34d1b1befa5a7a",
+    "wof:geomhash":"394c3b7b422023e803677c98f942f7c3",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476455,
-            "locality_id":85950659,
-            "neighbourhood_id":85891537,
-            "region_id":85688645,
-            "venue_id":672968807
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -68,12 +59,22 @@
             "neighbourhood_id":85835059,
             "region_id":85688645,
             "venue_id":672968807
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476455,
+            "locality_id":85950659,
+            "neighbourhood_id":85891537,
+            "region_id":85688645,
+            "venue_id":672968807
         }
     ],
     "wof:id":672968807,
-    "wof:lastmodified":1472626180,
+    "wof:lastmodified":1492119696,
     "wof:name":"Forest Glade Cemetery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

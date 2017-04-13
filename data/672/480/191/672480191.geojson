@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.227855,41.679127,-70.227855,41.679127",
     "geom:latitude":41.679127,
     "geom:longitude":-70.227855,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0snv9v7Demz6XhkNzuWMfs_41.679127_-70.227855@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719945,
-    "wof:geomhash":"70f192617e7dc2edc6f284db002ce20d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29de65e860611816d90d54984f8e59fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672480191
+        }
+    ],
     "wof:id":672480191,
-    "wof:lastmodified":1472625740,
+    "wof:lastmodified":1492118967,
     "wof:name":"All Cape Heating Sheet Metal",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

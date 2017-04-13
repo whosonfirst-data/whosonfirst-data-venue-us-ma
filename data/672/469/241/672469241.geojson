@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.493093,42.679296,-72.493093,42.679296",
     "geom:latitude":42.679296,
     "geom:longitude":-72.493093,
@@ -32,17 +33,26 @@
         "warehouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523521
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vluDgyhQKgM0RcGBWcNY1_42.679296_-72.493093@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719675,
-    "wof:geomhash":"8557c3933adabed1a7607c184fe77f5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e34cecec8709266ba240d39dff443155",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523521,
+            "venue_id":672469241
+        }
+    ],
     "wof:id":672469241,
-    "wof:lastmodified":1472625728,
+    "wof:lastmodified":1492119721,
     "wof:name":"Arthur Cohen Surplus & Salvage",
     "wof:parent_id":420523521,
     "wof:placetype":"venue",

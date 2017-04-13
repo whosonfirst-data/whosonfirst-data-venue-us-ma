@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.327514,42.670572,-71.327514,42.670572",
     "geom:latitude":42.670572,
     "geom:longitude":-71.327514,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85840943,
-        102084643
+        102084643,
+        85811869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461725253,
-    "wof:geomhash":"6257595eeee98fc697060058eb15dfc4",
+    "wof:geomhash":"7a2b19f71e8cdde92f7c03f9c4eb2149",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,19 @@
             "neighbourhood_id":85840943,
             "region_id":85688645,
             "venue_id":672717881
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85811869,
+            "region_id":85688645,
+            "venue_id":672717881
         }
     ],
     "wof:id":672717881,
-    "wof:lastmodified":1472625969,
+    "wof:lastmodified":1492107899,
     "wof:name":"St Marguerite D'Youville",
-    "wof:parent_id":85840943,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

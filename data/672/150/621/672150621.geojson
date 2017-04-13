@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.131148,42.448141,-73.131148,42.448141",
     "geom:latitude":42.448141,
     "geom:longitude":-73.131148,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qLPTZy0cvq2UIXSOD5V6P_42.448141_-73.131148@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712462,
-    "wof:geomhash":"2dad41c5b4828f9a822b18bf39f8eda6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b09850e51282665dc125e592ef2bb3b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523267,
+            "venue_id":672150621
+        }
+    ],
     "wof:id":672150621,
-    "wof:lastmodified":1472624960,
+    "wof:lastmodified":1492116685,
     "wof:name":"Litchfield Electric",
     "wof:parent_id":420523267,
     "wof:placetype":"venue",

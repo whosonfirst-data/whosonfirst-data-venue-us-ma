@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.540679,41.842256,-70.540679,41.842256",
     "geom:latitude":41.842256,
     "geom:longitude":-70.540679,
@@ -32,17 +33,26 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vfthV7TArfUd9Ps9XWjTJ_41.842256_-70.540679@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720404,
-    "wof:geomhash":"3c6e96ab2f95a2e24ab87abd0a27f04e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c11c892e993e7ab35c37cb36161f23ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523843,
+            "venue_id":672499759
+        }
+    ],
     "wof:id":672499759,
-    "wof:lastmodified":1472625766,
+    "wof:lastmodified":1492115018,
     "wof:name":"Monument River Corp",
     "wof:parent_id":420523843,
     "wof:placetype":"venue",

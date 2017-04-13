@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.103187,42.130797,-71.103187,42.130797",
     "geom:latitude":42.130797,
     "geom:longitude":-71.103187,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AOHZMkNTwVlmOsofZzlEm_42.130797_-71.103187@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729140,
-    "wof:geomhash":"77d48f25633df52b6e3526bc9223db43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee1374cbf7ff3a115e23d47f0b108774",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672905665
+        }
+    ],
     "wof:id":672905665,
-    "wof:lastmodified":1472626126,
+    "wof:lastmodified":1492112891,
     "wof:name":"Mhc Patient Assistance Prgm",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

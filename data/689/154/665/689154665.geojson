@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.851135,42.078666,-70.851135,42.078666",
     "geom:latitude":42.078666,
     "geom:longitude":-70.851135,
@@ -31,17 +32,26 @@
         "merchandise-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fEGRVkrYmU9dpCKNXLU87_42.078666_-70.851135@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741047,
-    "wof:geomhash":"b12d0fb5dc273bfc603143b35d962176",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fe8a60f5906a9c65ae91d718cac2f73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523915,
+            "venue_id":689154665
+        }
+    ],
     "wof:id":689154665,
-    "wof:lastmodified":1472625511,
+    "wof:lastmodified":1492098564,
     "wof:name":"Bean Trading Company",
     "wof:parent_id":420523915,
     "wof:placetype":"venue",

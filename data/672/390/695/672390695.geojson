@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.498487,41.601959,-70.498487,41.601959",
     "geom:latitude":41.601959,
     "geom:longitude":-70.498487,
@@ -36,7 +37,11 @@
         85688645,
         85633793,
         85841877,
-        102084379
+        102084379,
+        420523221,
+        102191575,
+        404476185,
+        85950593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461717669,
-    "wof:geomhash":"203f7b7d9160ed6e451601eb48703122",
+    "wof:geomhash":"a9293c7baf1c3b78431bcdc2251a9122",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +57,22 @@
             "neighbourhood_id":85841877,
             "region_id":85688645,
             "venue_id":672390695
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404476185,
+            "locality_id":85950593,
+            "neighbourhood_id":420523221,
+            "region_id":85688645,
+            "venue_id":672390695
         }
     ],
     "wof:id":672390695,
-    "wof:lastmodified":1472625661,
+    "wof:lastmodified":1492112716,
     "wof:name":"Budget Blinds",
-    "wof:parent_id":85841877,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.858102,41.953202,-70.858102,41.953202",
     "geom:latitude":41.953202,
     "geom:longitude":-70.858102,
@@ -31,17 +32,26 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QMC76ZswXZva1axeg2r3d_41.953202_-70.858102@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723065,
-    "wof:geomhash":"84fd3557e3ea02310b0d0e31a0386e6f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7702f08ea4e86bf70ed8bf0d5455d9cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":672620119
+        }
+    ],
     "wof:id":672620119,
-    "wof:lastmodified":1472625865,
+    "wof:lastmodified":1492115402,
     "wof:name":"Classique Chamber Music",
     "wof:parent_id":420523949,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.899189,41.878635,-70.899189,41.878635",
     "geom:latitude":41.878635,
     "geom:longitude":-70.899189,
@@ -32,17 +33,26 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hOf1334dJOpyMXysUQale_41.878635_-70.899189@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714784,
-    "wof:geomhash":"c1b4a0862c8b5432914b345990778896",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d62b5dcadab75d56811102e5e10dd2cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672258955
+        }
+    ],
     "wof:id":672258955,
-    "wof:lastmodified":1472625368,
+    "wof:lastmodified":1492111190,
     "wof:name":"North East Refrigerated",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

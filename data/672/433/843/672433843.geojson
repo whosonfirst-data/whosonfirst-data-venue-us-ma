@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.715418,41.938581,-70.715418,41.938581",
     "geom:latitude":41.938581,
     "geom:longitude":-70.715418,
@@ -33,17 +34,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mXM81I30aS93KtUxx5ac8_41.938581_-70.715418@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718751,
-    "wof:geomhash":"e253e0daf56119168126ba0e1fc8f687",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a2ba273f5844389e1c605956946c580",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672433843
+        }
+    ],
     "wof:id":672433843,
-    "wof:lastmodified":1472625701,
+    "wof:lastmodified":1492106688,
     "wof:name":"Allied Art Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

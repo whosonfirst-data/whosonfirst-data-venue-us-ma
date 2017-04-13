@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.908781,41.892661,-70.908781,41.892661",
     "geom:latitude":41.892661,
     "geom:longitude":-70.908781,
@@ -35,17 +36,26 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ruEk3tiVQL8c7Tu8VaSR9_41.893057_-70.908288@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732982,
-    "wof:geomhash":"8a9df2f41f4125a7158dacd4c5483b05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7f063de5bf37404cb87b05e6832a902",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":673061573
+        }
+    ],
     "wof:id":673061573,
-    "wof:lastmodified":1472625186,
+    "wof:lastmodified":1492102386,
     "wof:name":"Auto Glass Ctr",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

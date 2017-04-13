@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.091078,41.573639,-71.091078,41.573639",
     "geom:latitude":41.573639,
     "geom:longitude":-71.091078,
@@ -32,17 +33,26 @@
         "massage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WDv5E3NRR15c5FbeDBsH1_41.573639_-71.091078@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724350,
-    "wof:geomhash":"b9592964543b3142b701cf24ae7fe47a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0cf012c763bffa11487bf4b1da69fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672678451
+        }
+    ],
     "wof:id":672678451,
-    "wof:lastmodified":1472625921,
+    "wof:lastmodified":1492112269,
     "wof:name":"Westport Massage",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

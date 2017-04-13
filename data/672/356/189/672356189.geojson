@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.170049,41.880198,-71.170049,41.880198",
     "geom:latitude":41.880198,
     "geom:longitude":-71.170049,
@@ -33,17 +34,34 @@
         "motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476147,
+        85633793,
+        85950365,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z4TjF6jbw9i5a4U3xxYs6_41.880198_-71.170049@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716886,
-    "wof:geomhash":"32495a5a6882eacd3fcae68c9bd6091e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e60734c60fed24ad4d9978f50325098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476147,
+            "locality_id":85950365,
+            "region_id":85688645,
+            "venue_id":672356189
+        }
+    ],
     "wof:id":672356189,
-    "wof:lastmodified":1472625605,
+    "wof:lastmodified":1492106729,
     "wof:name":"John's Motor Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.119005,41.520595,-71.119005,41.520595",
     "geom:latitude":41.520595,
     "geom:longitude":-71.119005,
@@ -31,19 +32,28 @@
         "inn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540493
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rEvEv7T8VPzeMzImutfwg_41.520595_-71.119005@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711220,
-    "wof:geomhash":"5054f53c4bba1556be61e3cfbd3d9683",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de2ecb73928f249007774039f84d296a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540493,
+            "venue_id":656362729
+        }
+    ],
     "wof:id":656362729,
-    "wof:lastmodified":1472624973,
+    "wof:lastmodified":1492102338,
     "wof:name":"Old Harbor House",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

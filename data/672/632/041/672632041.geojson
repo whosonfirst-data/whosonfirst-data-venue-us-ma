@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.823989,42.243314,-70.823989,42.243314",
     "geom:latitude":42.243314,
     "geom:longitude":-70.823989,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85806299,
-        102084403
+        102084403,
+        420523765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461723331,
-    "wof:geomhash":"1a7c00a3d524ffce67de46f06fbf2fb6",
+    "wof:geomhash":"b1acde2e772ce328bd22964289f422cf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,17 @@
             "neighbourhood_id":85806299,
             "region_id":85688645,
             "venue_id":672632041
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523765,
+            "venue_id":672632041
         }
     ],
     "wof:id":672632041,
-    "wof:lastmodified":1472625873,
+    "wof:lastmodified":1492114328,
     "wof:name":"Mc Kenna Equipment Leasing",
-    "wof:parent_id":85806299,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

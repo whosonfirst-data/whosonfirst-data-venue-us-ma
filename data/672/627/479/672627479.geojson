@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.384796,42.61711,-71.384796,42.61711",
     "geom:latitude":42.61711,
     "geom:longitude":-71.384796,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ASazVXsu6ZbNTPMMygfrn_42.617110_-71.384796@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723239,
-    "wof:geomhash":"594209b23350c5ac6796f422b1266fd7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbbfef3c7015fe5d142c0e549e9fa4ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672627479
+        }
+    ],
     "wof:id":672627479,
-    "wof:lastmodified":1472625876,
+    "wof:lastmodified":1492108668,
     "wof:name":"T J Shipko Consultants Inc",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.91065,41.893018,-70.91065,41.893018",
     "geom:latitude":41.893018,
     "geom:longitude":-70.91065,
@@ -32,17 +33,26 @@
         "coffee"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oWw4tpodx46OcnawcwdNV_41.893018_-70.910650@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713016,
-    "wof:geomhash":"c591166493223b314306cc8aeb676f06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96eccc49bdd2af27463335b0bad1487d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672175375
+        }
+    ],
     "wof:id":672175375,
-    "wof:lastmodified":1472625069,
+    "wof:lastmodified":1492113115,
     "wof:name":"Coffee Zone",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.622836,41.619054,-70.622836,41.619054",
     "geom:latitude":41.619054,
     "geom:longitude":-70.622836,
@@ -32,17 +33,26 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q5j7TgQEkPkQwvXY0GyTP_41.619054_-70.622836@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721776,
-    "wof:geomhash":"c45f3dc64f0bbbb0b3e5388a7f10aea2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6e507d40892db1896c9bbf862e7aafa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672563197
+        }
+    ],
     "wof:id":672563197,
-    "wof:lastmodified":1472625807,
+    "wof:lastmodified":1492116742,
     "wof:name":"Carefree Cape",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

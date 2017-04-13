@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.513355,42.510061,-71.513355,42.510061",
     "geom:latitude":42.510061,
     "geom:longitude":-71.513355,
@@ -32,17 +33,32 @@
         "peripheral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476001,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j2gX6TPDi7CNg6741MqqC_42.510061_-71.513355@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714903,
-    "wof:geomhash":"f5394c41d90a1116d0cb973bb9ab81ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5435745d653be14c74c1f229c78b96e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476001,
+            "region_id":85688645,
+            "venue_id":672264845
+        }
+    ],
     "wof:id":672264845,
-    "wof:lastmodified":1472625400,
+    "wof:lastmodified":1492116525,
     "wof:name":"International Computer Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.93055,41.778294,-70.93055,41.778294",
     "geom:latitude":41.778294,
     "geom:longitude":-70.93055,
@@ -31,17 +32,26 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4C20nQn9O1K8kgIiGEUtNH_41.778294_-70.930550@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711046,
-    "wof:geomhash":"5e624120e06939c989ad0705cc49c5b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc780bd7d88a884fa0cafcec84543b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":656354191
+        }
+    ],
     "wof:id":656354191,
-    "wof:lastmodified":1472624925,
+    "wof:lastmodified":1492102205,
     "wof:name":"Scb Installations",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

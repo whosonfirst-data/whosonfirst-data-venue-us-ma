@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.455791,42.612563,-71.455791,42.612563",
     "geom:latitude":42.612563,
     "geom:longitude":-71.455791,
@@ -31,17 +32,32 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476019,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sMGZkiAU3k7O9viDoFNcL_42.612563_-71.455791@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721395,
-    "wof:geomhash":"5910375b390ad50273c8e25d43d80ed2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a2dd8deb88f994db2eb326d5e41e53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476019,
+            "region_id":85688645,
+            "venue_id":672546667
+        }
+    ],
     "wof:id":672546667,
-    "wof:lastmodified":1472625828,
+    "wof:lastmodified":1492108060,
     "wof:name":"Day's Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

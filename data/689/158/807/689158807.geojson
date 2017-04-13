@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.711844,41.907038,-70.711844,41.907038",
     "geom:latitude":41.907038,
     "geom:longitude":-70.711844,
@@ -33,17 +34,26 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52cRqzLHKwUsrtbAsTPlJ5_41.907038_-70.711844@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741146,
-    "wof:geomhash":"f4581ac12ef434676959ffffbba82852",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a817852ebebd02107b6b33d32500bc60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689158807
+        }
+    ],
     "wof:id":689158807,
-    "wof:lastmodified":1472625531,
+    "wof:lastmodified":1492099873,
     "wof:name":"Doug's Plumbing & Heating Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

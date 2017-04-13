@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.871777,42.80722,-70.871777,42.80722",
     "geom:latitude":42.80722,
     "geom:longitude":-70.871777,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827619,
+        85891457,
         102191575,
         404476251,
         85633793,
         85950409,
         102084463,
-        85688645
+        85688645,
+        85827619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461726232,
-    "wof:geomhash":"18d0753652812f829a0ef4b2ec4fe7b6",
+    "wof:geomhash":"c618b20b099d8ca6e59cee372aad89bc",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476251,
+            "locality_id":85950409,
+            "neighbourhood_id":85891457,
+            "region_id":85688645,
+            "venue_id":672763891
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672763891,
-    "wof:lastmodified":1472626004,
+    "wof:lastmodified":1492114537,
     "wof:name":"Marc J Shepcaro",
-    "wof:parent_id":85827619,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

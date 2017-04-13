@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.42674,42.151554,-72.42674,42.151554",
     "geom:latitude":42.151554,
     "geom:longitude":-72.42674,
@@ -32,17 +33,36 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420523561,
+        102191575,
+        404476379,
+        85633793,
+        85950775,
+        102084627,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mGoLXMtyQLmE6q9fwANTD_42.151554_-72.426740@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729508,
-    "wof:geomhash":"85f6d5e869cc903272f31e8cb560ce46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40df282c61f28a02ddcc1d63bdb15672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476379,
+            "locality_id":85950775,
+            "neighbourhood_id":420523561,
+            "region_id":85688645,
+            "venue_id":672924179
+        }
+    ],
     "wof:id":672924179,
-    "wof:lastmodified":1472626136,
+    "wof:lastmodified":1492107360,
     "wof:name":"Spartan Brake & Muffler Shops",
     "wof:parent_id":420523561,
     "wof:placetype":"venue",

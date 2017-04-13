@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.375302,42.600937,-71.375302,42.600937",
     "geom:latitude":42.600937,
     "geom:longitude":-71.375302,
@@ -32,17 +33,26 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1E6g63VgqXWiHwDjN14iFA_42.600937_-71.375302@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727253,
-    "wof:geomhash":"fdbedeef616cc9dd58bff6b499b43a6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"162339f81a26bf1bc221e284c652e0ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672812593
+        }
+    ],
     "wof:id":672812593,
-    "wof:lastmodified":1472626045,
+    "wof:lastmodified":1492109102,
     "wof:name":"Anderson Consulting Inc",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

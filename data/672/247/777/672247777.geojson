@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.239013,42.267359,-72.239013,42.267359",
     "geom:latitude":42.267359,
     "geom:longitude":-72.239013,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476311,
+        85633793,
+        85950865,
+        102084459
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B5qhMfqIIwRbNAoq63s0y_42.267359_-72.239013@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714565,
-    "wof:geomhash":"ad456c01f8f80179aa96dee66dbdcc22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12639854e8ff9f84a6cfc03699e690f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084459,
+            "localadmin_id":404476311,
+            "locality_id":85950865,
+            "region_id":85688645,
+            "venue_id":672247777
+        }
+    ],
     "wof:id":672247777,
-    "wof:lastmodified":1472625371,
+    "wof:lastmodified":1492111511,
     "wof:name":"Hillside Village Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.175486,42.355258,-71.175486,42.355258",
     "geom:latitude":42.355258,
     "geom:longitude":-71.175486,
@@ -33,17 +34,34 @@
         "seminar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DKaAymEI3jUxQJ67y7cjD_42.355258_-71.175486@1303262229"
     },
     "wof:country":"US",
     "wof:created":1461741616,
-    "wof:geomhash":"0fcd880c88dadae245c64bc5794ece50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06aa8f6494c29a6167ff8ddef9236390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":689179735
+        }
+    ],
     "wof:id":689179735,
-    "wof:lastmodified":1472625569,
+    "wof:lastmodified":1492100435,
     "wof:name":"Judith A Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

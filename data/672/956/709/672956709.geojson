@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.7935,42.235893,-70.7935,42.235893",
     "geom:latitude":42.235893,
     "geom:longitude":-70.7935,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32N0lEV5wP7f8IUC7NUkBZ_42.235893_-70.793500@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730332,
-    "wof:geomhash":"3edc83551b6ddff81c4feb7d1b78d4f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3db06da8586a5a16a0aa4706279c8d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672956709
+        }
+    ],
     "wof:id":672956709,
-    "wof:lastmodified":1472626177,
+    "wof:lastmodified":1492110502,
     "wof:name":"Pilgrim Films Inc",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

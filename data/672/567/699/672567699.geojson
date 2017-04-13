@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.850135,42.575986,-70.850135,42.575986",
     "geom:latitude":42.575986,
     "geom:longitude":-70.850135,
@@ -38,7 +39,8 @@
         85633793,
         85950421,
         102084463,
-        85688645
+        85688645,
+        85855101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721865,
-    "wof:geomhash":"2a39d93f7083f289319a50f0f9064ac4",
+    "wof:geomhash":"edafeae84f63bb95eb9cd47ee5f361fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,19 @@
             "neighbourhood_id":85835081,
             "region_id":85688645,
             "venue_id":672567699
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85855101,
+            "region_id":85688645,
+            "venue_id":672567699
         }
     ],
     "wof:id":672567699,
-    "wof:lastmodified":1472625830,
+    "wof:lastmodified":1492118223,
     "wof:name":"Centerville Service Ctr",
-    "wof:parent_id":85835081,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

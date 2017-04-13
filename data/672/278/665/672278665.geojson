@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.026799,42.434377,-71.026799,42.434377",
     "geom:latitude":42.434377,
     "geom:longitude":-71.026799,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476399,
+        85633793,
+        85950349,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zUoKFCk7mtRciRLWcqZRo_42.434377_-71.026799@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715173,
-    "wof:geomhash":"59cdf7200069c5a2d7f24c31e056b105",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12a27a0dd717901551b71469135cd318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476399,
+            "locality_id":85950349,
+            "region_id":85688645,
+            "venue_id":672278665
+        }
+    ],
     "wof:id":672278665,
-    "wof:lastmodified":1472625464,
+    "wof:lastmodified":1492113294,
     "wof:name":"House General Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

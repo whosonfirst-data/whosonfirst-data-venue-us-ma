@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.336516,42.083995,-73.336516,42.083995",
     "geom:latitude":42.083995,
     "geom:longitude":-73.336516,
@@ -33,17 +34,26 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iDrzqbk4nddh7KiRhs2GM_42.083995_-73.336516@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714155,
-    "wof:geomhash":"248f54030436bc3438d9e17b5493cceb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d66c2bd1380012b3534d36b5e259d58d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672228703
+        }
+    ],
     "wof:id":672228703,
-    "wof:lastmodified":1472625266,
+    "wof:lastmodified":1492116166,
     "wof:name":"Sheffield Highway Dept",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.235187,41.744791,-71.235187,41.744791",
     "geom:latitude":41.744791,
     "geom:longitude":-71.235187,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rirZBrBxuYvJixe1hs6Sn_41.744791_-71.235187@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717235,
-    "wof:geomhash":"201cc87ced034da69eac54ec3d3ca434",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba460d0520f68cbb305ac97881b5bc52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":672371449
+        }
+    ],
     "wof:id":672371449,
-    "wof:lastmodified":1472625646,
+    "wof:lastmodified":1492108235,
     "wof:name":"C P Renovations",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

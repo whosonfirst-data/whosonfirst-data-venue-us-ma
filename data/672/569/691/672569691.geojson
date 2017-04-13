@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.871866,42.125505,-71.871866,42.125505",
     "geom:latitude":42.125505,
     "geom:longitude":-71.871866,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zjz9zI6fGrurdAbzSIlhy_42.125505_-71.871866@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721906,
-    "wof:geomhash":"c21779c9e37f8582383c8a6f8741d35d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b40048bf3db41e6932dd042ba73103ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":672569691
+        }
+    ],
     "wof:id":672569691,
-    "wof:lastmodified":1472625825,
+    "wof:lastmodified":1492107212,
     "wof:name":"R & D Roofing",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

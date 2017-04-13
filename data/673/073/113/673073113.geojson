@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.799175,41.905469,-70.799175,41.905469",
     "geom:latitude":41.905469,
     "geom:longitude":-70.799175,
@@ -32,17 +33,26 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oAJS7KpY5vYiWopyKDZnD_41.905817_-70.799386@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733201,
-    "wof:geomhash":"77f3cfe89dbe45393b83783d6276f571",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fe302f14bf8ff217cb69dd2d341198b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":673073113
+        }
+    ],
     "wof:id":673073113,
-    "wof:lastmodified":1472625147,
+    "wof:lastmodified":1492105057,
     "wof:name":"Tax Master Plus",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

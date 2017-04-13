@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.196812,42.32753,-71.196812,42.32753",
     "geom:latitude":42.32753,
     "geom:longitude":-71.196812,
@@ -29,14 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852191,
+        85891465,
         102191575,
         404476411,
         85633793,
         85950341,
         102084643,
         85688645,
-        85891465
+        85852191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +45,8 @@
     },
     "wof:country":"US",
     "wof:created":1461714758,
-    "wof:geomhash":"45133598d1dd57b472ce9759aa670607",
+    "wof:geomhash":"42cfc672e936b1dfc1078f6befb5b10b",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476411,
-            "locality_id":85950341,
-            "neighbourhood_id":85852191,
-            "region_id":85688645,
-            "venue_id":672257405
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +56,22 @@
             "neighbourhood_id":85891465,
             "region_id":85688645,
             "venue_id":672257405
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "neighbourhood_id":85852191,
+            "region_id":85688645,
+            "venue_id":672257405
         }
     ],
     "wof:id":672257405,
-    "wof:lastmodified":1472625350,
+    "wof:lastmodified":1492115124,
     "wof:name":"Hurricane Voices Breast Cancer",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

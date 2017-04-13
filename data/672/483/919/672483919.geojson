@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.960973,42.450941,-72.960973,42.450941",
     "geom:latitude":42.450941,
     "geom:longitude":-72.960973,
@@ -31,17 +32,26 @@
         "observatory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OkOrcGA4r2iYiPXgJPxEX_42.450941_-72.960973@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720053,
-    "wof:geomhash":"9b2aefd4c7137237873ca55826e272f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"729746339a0f9001fd86f41a42fedff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523653,
+            "venue_id":672483919
+        }
+    ],
     "wof:id":672483919,
-    "wof:lastmodified":1472625755,
+    "wof:lastmodified":1492117366,
     "wof:name":"Arunah Hill Natural Science",
     "wof:parent_id":420523653,
     "wof:placetype":"venue",

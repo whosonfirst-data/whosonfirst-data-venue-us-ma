@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.936549,42.246965,-71.936549,42.246965",
     "geom:latitude":42.246965,
     "geom:longitude":-71.936549,
@@ -32,17 +33,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gJwOWMFRCpPkT2uF3YSJ3_42.246965_-71.936549@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734241,
-    "wof:geomhash":"e9298974f81ad65bb40570f345dc0dcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53d4fcba0a410ad4f1ab5eaac1a8da6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":673122295
+        }
+    ],
     "wof:id":673122295,
-    "wof:lastmodified":1472625342,
+    "wof:lastmodified":1492104013,
     "wof:name":"Children's Services of Roxbury Day Care",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

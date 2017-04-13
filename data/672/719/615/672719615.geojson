@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.951295,41.837682,-70.951295,41.837682",
     "geom:latitude":41.837682,
     "geom:longitude":-70.951295,
@@ -33,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523969,
+        85688645,
         85824587,
         102084367
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461725286,
-    "wof:geomhash":"0f20de3b5ea73f6f0b64f37bf3b8bd0d",
+    "wof:geomhash":"d82e73c22c04f603cbad065b5141208f",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523969,
+            "venue_id":672719615
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":672719615,
-    "wof:lastmodified":1472625960,
+    "wof:lastmodified":1492117823,
     "wof:name":"R & J Buckley Family Trust",
-    "wof:parent_id":85824587,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

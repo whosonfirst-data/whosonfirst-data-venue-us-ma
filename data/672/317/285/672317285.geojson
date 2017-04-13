@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.938349,42.371062,-71.938349,42.371062",
     "geom:latitude":42.371062,
     "geom:longitude":-71.938349,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oXYzMZofKQAJBisf2AAfP_42.371062_-71.938349@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715951,
-    "wof:geomhash":"c1cc40d5e5271bc6b056da976f6f926e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"315b165dc403da0717580d94e5515836",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672317285
+        }
+    ],
     "wof:id":672317285,
-    "wof:lastmodified":1472625540,
+    "wof:lastmodified":1492115769,
     "wof:name":"Mike Lund Contracting",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

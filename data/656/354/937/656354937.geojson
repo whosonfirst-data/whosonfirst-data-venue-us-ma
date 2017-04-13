@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.808719,42.033972,-70.808719,42.033972",
     "geom:latitude":42.033972,
     "geom:longitude":-70.808719,
@@ -31,17 +32,26 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03JivDa4gVwx7ITLEj1BNC_42.033972_-70.808719@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711061,
-    "wof:geomhash":"2da8303ded48acfd46108dd4eb90f107",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1893d107b6cdfe49c22c66d0d2995d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":656354937
+        }
+    ],
     "wof:id":656354937,
-    "wof:lastmodified":1472624966,
+    "wof:lastmodified":1492102195,
     "wof:name":"Webdivots Marketing",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

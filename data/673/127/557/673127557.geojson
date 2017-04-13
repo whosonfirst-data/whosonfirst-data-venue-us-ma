@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.76185,42.428188,-71.76185,42.428188",
     "geom:latitude":42.428188,
     "geom:longitude":-71.76185,
@@ -37,17 +38,26 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CYlXW6Se4aOX4027DMyPU_42.428188_-71.761850@1303262187"
     },
     "wof:country":"US",
     "wof:created":1461734342,
-    "wof:geomhash":"2646c184c7369e0e5b338e0a29c80e93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a66e63b0600823e42096792521ade1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":673127557
+        }
+    ],
     "wof:id":673127557,
-    "wof:lastmodified":1472625357,
+    "wof:lastmodified":1492104750,
     "wof:name":"Back Roads Real Estate",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

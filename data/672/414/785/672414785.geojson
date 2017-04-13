@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.712318,42.229988,-71.712318,42.229988",
     "geom:latitude":42.229988,
     "geom:longitude":-71.712318,
@@ -35,17 +36,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02lVXk2PstWMel7zjVb4pf_42.229988_-71.712318@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718287,
-    "wof:geomhash":"87133bc1f8d6860e27edaba668ea7fd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a227d8f24709fff7dc3f945159c5c95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524183,
+            "venue_id":672414785
+        }
+    ],
     "wof:id":672414785,
-    "wof:lastmodified":1472625684,
+    "wof:lastmodified":1492108948,
     "wof:name":"Ray S Auto Body Inc",
     "wof:parent_id":420524183,
     "wof:placetype":"venue",

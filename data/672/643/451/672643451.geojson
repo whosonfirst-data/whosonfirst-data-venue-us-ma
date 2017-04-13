@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.133417,42.765507,-71.133417,42.765507",
     "geom:latitude":42.765507,
     "geom:longitude":-71.133417,
@@ -31,19 +32,38 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85856083,
+        102191575,
+        404476201,
+        85633793,
+        85950417,
+        102084463,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FhtQnQv5OSvbXnYhiFU0B_42.765507_-71.133417@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723572,
-    "wof:geomhash":"fdbf08829b3d42e834fe8c9a369334d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8d27a2a6ff824f76baa8bdf67969af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476201,
+            "locality_id":85950417,
+            "neighbourhood_id":85856083,
+            "region_id":85688645,
+            "venue_id":672643451
+        }
+    ],
     "wof:id":672643451,
-    "wof:lastmodified":1472625887,
+    "wof:lastmodified":1492112075,
     "wof:name":"Churchill Court Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":85856083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

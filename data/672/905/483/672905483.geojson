@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.097643,41.627657,-71.097643,41.627657",
     "geom:latitude":41.627657,
     "geom:longitude":-71.097643,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78rIkElhuEcWQXhLXZ4CML_41.627657_-71.097643@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729137,
-    "wof:geomhash":"7717d49ae20e16b398681ab5e3a1094c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26522142539bd7114df0cbd0e4c3f51c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523343,
+            "venue_id":672905483
+        }
+    ],
     "wof:id":672905483,
-    "wof:lastmodified":1472626124,
+    "wof:lastmodified":1492112895,
     "wof:name":"Westport United Congregational",
     "wof:parent_id":420523343,
     "wof:placetype":"venue",

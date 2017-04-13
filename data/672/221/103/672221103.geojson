@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.893305,41.729697,-70.893305,41.729697",
     "geom:latitude":41.729697,
     "geom:longitude":-70.893305,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WzshfITmJOfX0UZduU5pR_41.729697_-70.893305@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713995,
-    "wof:geomhash":"fd661df21e95e27dcb97854828558b70",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bf3b7b19b9c4e545d1e59e8cfe5bc7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672221103
+        }
+    ],
     "wof:id":672221103,
-    "wof:lastmodified":1472625218,
+    "wof:lastmodified":1492113613,
     "wof:name":"Trader Paul's Country Barn",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

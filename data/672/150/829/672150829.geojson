@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.013269,42.015474,-71.013269,42.015474",
     "geom:latitude":42.015474,
     "geom:longitude":-71.013269,
@@ -32,19 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85805735,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pdEKjGmLEFzrEycUbHkQX_42.015474_-71.013269@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712466,
-    "wof:geomhash":"a202089fdaa55c169a2a2a6a1dcc9aec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8c5158a6c22c4ac4a760a2673bb8dbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85805735,
+            "region_id":85688645,
+            "venue_id":672150829
+        }
+    ],
     "wof:id":672150829,
-    "wof:lastmodified":1472624975,
+    "wof:lastmodified":1492116678,
     "wof:name":"Midurski Brothers Contracting",
-    "wof:parent_id":420523865,
+    "wof:parent_id":85805735,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

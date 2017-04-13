@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.740268,42.033587,-70.740268,42.033587",
     "geom:latitude":42.033587,
     "geom:longitude":-70.740268,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Dxx39J9RDfdy4SnxNt2Sr_42.033587_-70.740268@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719388,
-    "wof:geomhash":"0a7180ee2b0887e66603920fa6d72b3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ac5596a4c1414cc6498cc17e5fba92c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":672458083
+        }
+    ],
     "wof:id":672458083,
-    "wof:lastmodified":1472625719,
+    "wof:lastmodified":1492106247,
     "wof:name":"Duxbury Periodontics",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

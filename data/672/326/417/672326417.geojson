@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.860373,42.497912,-70.860373,42.497912",
     "geom:latitude":42.497912,
     "geom:longitude":-70.860373,
@@ -37,7 +38,8 @@
         85633793,
         85950797,
         102084463,
-        85832399
+        85832399,
+        85856519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461716159,
-    "wof:geomhash":"151f81f2ff2e50141375fe5014036d55",
+    "wof:geomhash":"bd7e05bdc06b9c77a7e9147351f3767b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":85832399,
             "region_id":85688645,
             "venue_id":672326417
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950797,
+            "neighbourhood_id":85856519,
+            "region_id":85688645,
+            "venue_id":672326417
         }
     ],
     "wof:id":672326417,
-    "wof:lastmodified":1472625554,
+    "wof:lastmodified":1492119814,
     "wof:name":"Rockett & Rockett",
-    "wof:parent_id":85832399,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

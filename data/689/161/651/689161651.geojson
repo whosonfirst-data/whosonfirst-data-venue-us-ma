@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.814486,41.953806,-70.814486,41.953806",
     "geom:latitude":41.953806,
     "geom:longitude":-70.814486,
@@ -31,17 +32,26 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eXdY6WzP6C3pytyy7RGR1_41.953806_-70.814486@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741216,
-    "wof:geomhash":"fa1771c987a647cf5cd0281c1f51e6e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd605624b5bbaea7867231da513cc68c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":689161651
+        }
+    ],
     "wof:id":689161651,
-    "wof:lastmodified":1472625522,
+    "wof:lastmodified":1492099155,
     "wof:name":"Plympton Service Center",
     "wof:parent_id":420523949,
     "wof:placetype":"venue",

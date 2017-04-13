@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.067884,42.02612,-71.067884,42.02612",
     "geom:latitude":42.02612,
     "geom:longitude":-71.067884,
@@ -35,19 +36,28 @@
     ],
     "sg:website":"www.aracoinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40tMecKO9M488s6PC8OTXU_42.026120_-71.067884@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728173,
-    "wof:geomhash":"0141358ab9b50d1e406f2f8cc85f4aaf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22ccf516228800a6a43b930696e809c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":672859789
+        }
+    ],
     "wof:id":672859789,
-    "wof:lastmodified":1472626085,
+    "wof:lastmodified":1492119121,
     "wof:name":"Araco Sewer & Drain Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

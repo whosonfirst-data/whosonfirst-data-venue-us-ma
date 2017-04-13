@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.048488,42.687795,-72.048488,42.687795",
     "geom:latitude":42.687795,
     "geom:longitude":-72.048488,
@@ -38,17 +39,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_710yANFclNbIdYbE5HYW2e_42.687795_-72.048488@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734148,
-    "wof:geomhash":"1602c37b53f61a1b441b3821c3ca0be3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c9d926c109c0fb605bb89138b57d632",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":673117973
+        }
+    ],
     "wof:id":673117973,
-    "wof:lastmodified":1472625384,
+    "wof:lastmodified":1492104383,
     "wof:name":"Image Source Inc",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

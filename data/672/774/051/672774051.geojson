@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.069202,42.033388,-71.069202,42.033388",
     "geom:latitude":42.033388,
     "geom:longitude":-71.069202,
@@ -32,19 +33,28 @@
         "rug"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MHa1eO0NGJvajnYWVUiQo_42.033388_-71.069202@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726459,
-    "wof:geomhash":"0fa97ea12cc8ba4c71f209918b4c1848",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05c869614c58647dcb81206f3c78aa77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":672774051
+        }
+    ],
     "wof:id":672774051,
-    "wof:lastmodified":1472626004,
+    "wof:lastmodified":1492115608,
     "wof:name":"Center Street Carpet",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

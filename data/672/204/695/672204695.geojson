@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.291556,42.399512,-71.291556,42.399512",
     "geom:latitude":42.399512,
     "geom:longitude":-71.291556,
@@ -38,7 +39,8 @@
         85633793,
         85950337,
         102084643,
-        85688645
+        85688645,
+        85857063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461713671,
-    "wof:geomhash":"724cb611aa8e7a2ac96c3690e622cc1c",
+    "wof:geomhash":"3034f1986db73203e52e05b1f4070a45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,19 @@
             "neighbourhood_id":85843221,
             "region_id":85688645,
             "venue_id":672204695
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85857063,
+            "region_id":85688645,
+            "venue_id":672204695
         }
     ],
     "wof:id":672204695,
-    "wof:lastmodified":1472625211,
+    "wof:lastmodified":1492108780,
     "wof:name":"Valley Pond Corp",
-    "wof:parent_id":85843221,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

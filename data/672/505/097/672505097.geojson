@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.239707,41.746102,-71.239707,41.746102",
     "geom:latitude":41.746102,
     "geom:longitude":-71.239707,
@@ -33,17 +34,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fTStkmgMsDViuP4tmK4po_41.746102_-71.239707@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720514,
-    "wof:geomhash":"3028c0b0497129a4c32ae2f19ce3cf35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4457de20c9a8df2165cae869d7e17620",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":672505097
+        }
+    ],
     "wof:id":672505097,
-    "wof:lastmodified":1472625759,
+    "wof:lastmodified":1492108820,
     "wof:name":"Southeastern Cash Register",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

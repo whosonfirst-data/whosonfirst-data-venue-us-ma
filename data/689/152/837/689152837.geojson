@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.802589,41.914291,-70.802589,41.914291",
     "geom:latitude":41.914291,
     "geom:longitude":-70.802589,
@@ -36,17 +37,26 @@
         "take"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71PqBxuO5orukPwbI9nfmL_41.914291_-70.802589@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741000,
-    "wof:geomhash":"e097efad5676d31e23ee41187645bf43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b12f41b7cfcd5837961d05dd2a2d6578",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152837
+        }
+    ],
     "wof:id":689152837,
-    "wof:lastmodified":1472625523,
+    "wof:lastmodified":1492101006,
     "wof:name":"Quickeez Food Court",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

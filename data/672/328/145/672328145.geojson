@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.737535,42.237935,-71.737535,42.237935",
     "geom:latitude":42.237935,
     "geom:longitude":-71.737535,
@@ -33,17 +34,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39KDrhARvI0yC2tittjjFC_42.237935_-71.737535@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716191,
-    "wof:geomhash":"109b303e74f3de256026ae3e3fb2a390",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1232c51d47dbf5a56dcd57de28524f20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":672328145
+        }
+    ],
     "wof:id":672328145,
-    "wof:lastmodified":1472625546,
+    "wof:lastmodified":1492114013,
     "wof:name":"Etre Builders Inc",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

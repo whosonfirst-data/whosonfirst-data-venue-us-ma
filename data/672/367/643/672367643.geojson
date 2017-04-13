@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.062485,41.621327,-71.062485,41.621327",
     "geom:latitude":41.621327,
     "geom:longitude":-71.062485,
@@ -28,19 +29,38 @@
     "sg:postcode":"02790",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285,
+        85688645,
+        85857139,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UYQMeWiJXPek6ps5RHlMS_41.621327_-71.062485@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717149,
-    "wof:geomhash":"0a5990babadb6e55792c9665051a8904",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce9522ccff64bb6366ce4436268470e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672367643
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85857139,
+            "region_id":85688645,
+            "venue_id":672367643
+        }
+    ],
     "wof:id":672367643,
-    "wof:lastmodified":1472625640,
+    "wof:lastmodified":1492114290,
     "wof:name":"Westport Middle School",
-    "wof:parent_id":420523285,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

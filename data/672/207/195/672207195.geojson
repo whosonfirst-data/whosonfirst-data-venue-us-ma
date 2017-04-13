@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.852927,42.278224,-71.852927,42.278224",
     "geom:latitude":42.278224,
     "geom:longitude":-71.852927,
@@ -32,19 +33,49 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851859,
+        102191575,
+        404476639,
+        85633793,
+        85950375,
+        102084655,
+        85688645,
+        420558267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02mOouWLD6nhi0BZUxObIO_42.278224_-71.852927@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713716,
-    "wof:geomhash":"79253bc7abc1cce50d673b5cc4aafde3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49717313f73b737262ee2ab156fef748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85851859,
+            "region_id":85688645,
+            "venue_id":672207195
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":420558267,
+            "region_id":85688645,
+            "venue_id":672207195
+        }
+    ],
     "wof:id":672207195,
-    "wof:lastmodified":1472625207,
+    "wof:lastmodified":1492114407,
     "wof:name":"Gerardi's Service Ctr",
-    "wof:parent_id":420558267,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

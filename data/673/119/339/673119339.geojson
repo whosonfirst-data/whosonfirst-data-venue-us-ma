@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.9226,42.1092,-71.9226,42.1092",
     "geom:latitude":42.1092,
     "geom:longitude":-71.9226,
@@ -31,17 +32,26 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b3HE04xbggyzpjJdZchGl_42.109200_-71.922600@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734181,
-    "wof:geomhash":"a58723ceba49919f8999760115143869",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb5cd45bcee530e88c004a2d775059fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":673119339
+        }
+    ],
     "wof:id":673119339,
-    "wof:lastmodified":1472625341,
+    "wof:lastmodified":1492104076,
     "wof:name":"A Ride",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

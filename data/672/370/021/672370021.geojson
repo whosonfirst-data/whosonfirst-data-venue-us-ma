@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.013513,42.691822,-71.013513,42.691822",
     "geom:latitude":42.691822,
     "geom:longitude":-71.013513,
@@ -33,17 +34,26 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UtZIvssVLQYLFCdOXZzmv_42.691822_-71.013513@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717205,
-    "wof:geomhash":"bb3d94141a6949b73825895be4be9342",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8b57be8b6a4c8c5d78fb10c54bef3ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672370021
+        }
+    ],
     "wof:id":672370021,
-    "wof:lastmodified":1472625638,
+    "wof:lastmodified":1492107326,
     "wof:name":"Civil Defense",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

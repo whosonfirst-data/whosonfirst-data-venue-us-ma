@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.889743,41.649991,-70.889743,41.649991",
     "geom:latitude":41.649991,
     "geom:longitude":-70.889743,
@@ -34,17 +35,26 @@
         "household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jHhEMPsal9cqGZPWYbdPa_41.649991_-70.889743@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742360,
-    "wof:geomhash":"77c4511762104fe335c30a0da0a6c665",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c2a864c6072eb4728750ef5a3f320bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":689214859
+        }
+    ],
     "wof:id":689214859,
-    "wof:lastmodified":1472625625,
+    "wof:lastmodified":1492097505,
     "wof:name":"Sovran Storage - Fairhaven",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

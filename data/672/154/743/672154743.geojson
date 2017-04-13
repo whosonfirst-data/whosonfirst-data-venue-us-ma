@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.008428,42.027673,-71.008428,42.027673",
     "geom:latitude":42.027673,
     "geom:longitude":-71.008428,
@@ -34,8 +35,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523977,
+        85688645,
         85805735,
         102084367
     ],
@@ -45,8 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1461712549,
-    "wof:geomhash":"01d249a25f8d30be1a445a6705a9615e",
+    "wof:geomhash":"927c763cb636419df1d345e5039af92a",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523977,
+            "venue_id":672154743
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -56,9 +63,9 @@
         }
     ],
     "wof:id":672154743,
-    "wof:lastmodified":1472624965,
+    "wof:lastmodified":1492110029,
     "wof:name":"Book Store-West Bridgewater",
-    "wof:parent_id":85805735,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

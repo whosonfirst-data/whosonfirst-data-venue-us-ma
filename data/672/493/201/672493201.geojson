@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.205992,42.382332,-71.205992,42.382332",
     "geom:latitude":42.382332,
     "geom:longitude":-71.205992,
@@ -43,7 +44,8 @@
         85688645,
         85891551,
         404476459,
-        85950335
+        85950335,
+        85805697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461720248,
-    "wof:geomhash":"803b9c6f47d93a0aca0b7d72cddd4fad",
+    "wof:geomhash":"578a6fd2ba5a4ed9e39c11ba07c7329b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,12 +74,22 @@
             "neighbourhood_id":85891551,
             "region_id":85688645,
             "venue_id":672493201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476459,
+            "locality_id":85950335,
+            "neighbourhood_id":85805697,
+            "region_id":85688645,
+            "venue_id":672493201
         }
     ],
     "wof:id":672493201,
-    "wof:lastmodified":1472625752,
+    "wof:lastmodified":1492106202,
     "wof:name":"Clymer Technologies",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.721819,42.174986,-71.721819,42.174986",
     "geom:latitude":42.174986,
     "geom:longitude":-71.721819,
@@ -32,17 +33,26 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524081
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z9qp7Q1oxWlII838HO6jO_42.174986_-71.721819@1303262187"
     },
     "wof:country":"US",
     "wof:created":1461734415,
-    "wof:geomhash":"4119cc48d9a27f1815a5dc7d06651d83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39d25d3e9e8c11836e33dd38999e39ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524081,
+            "venue_id":673130953
+        }
+    ],
     "wof:id":673130953,
-    "wof:lastmodified":1472625387,
+    "wof:lastmodified":1492102879,
     "wof:name":"Sutton Housing Authority",
     "wof:parent_id":420524081,
     "wof:placetype":"venue",

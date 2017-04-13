@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.125971,42.131917,-71.125971,42.131917",
     "geom:latitude":42.131917,
     "geom:longitude":-71.125971,
@@ -34,17 +35,26 @@
     ],
     "sg:website":"www.useglass.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_174nB7FpNUAKLe3Ghgy4r3_42.131917_-71.125971@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716533,
-    "wof:geomhash":"c03ee1c02416377cf78174db15a8cd04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0ff247aed32e78dc58f0597abe0084a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672341381
+        }
+    ],
     "wof:id":672341381,
-    "wof:lastmodified":1472625576,
+    "wof:lastmodified":1492109077,
     "wof:name":"United States Emergency Glass",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.538871,41.895695,-70.538871,41.895695",
     "geom:latitude":41.895695,
     "geom:longitude":-70.538871,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85832137,
-        102084367
+        102084367,
+        420523997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461719736,
-    "wof:geomhash":"2e010576af3145334238e4d2f076a14d",
+    "wof:geomhash":"4b9c8f5c34093fb30a3c4caaeed638b8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,17 @@
             "neighbourhood_id":85832137,
             "region_id":85688645,
             "venue_id":672471897
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523997,
+            "venue_id":672471897
         }
     ],
     "wof:id":672471897,
-    "wof:lastmodified":1472625739,
+    "wof:lastmodified":1492107506,
     "wof:name":"Business Brokers Intl",
-    "wof:parent_id":85832137,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

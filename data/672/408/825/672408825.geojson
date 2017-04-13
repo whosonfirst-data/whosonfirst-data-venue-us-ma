@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.889215,41.856602,-70.889215,41.856602",
     "geom:latitude":41.856602,
     "geom:longitude":-70.889215,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WhRPgVNycIs6UwdBY93Ui_41.856602_-70.889215@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718119,
-    "wof:geomhash":"9febd359b700ffc68f29896e574ad212",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f1c8940a3ae18d0e05d8eaebca599d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672408825
+        }
+    ],
     "wof:id":672408825,
-    "wof:lastmodified":1472625679,
+    "wof:lastmodified":1492106155,
     "wof:name":"Knowlton Contracting",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

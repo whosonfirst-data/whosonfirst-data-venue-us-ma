@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.114602,42.129581,-71.114602,42.129581",
     "geom:latitude":42.129581,
     "geom:longitude":-71.114602,
@@ -31,17 +32,26 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FJFjj8CeH9Qc0G6WxnWPo_42.129581_-71.114602@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711523,
-    "wof:geomhash":"a3f91f4343a0ac83c54d3f76373eec79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55555a7d7f96893348e519020c1a249d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":656376847
+        }
+    ],
     "wof:id":656376847,
-    "wof:lastmodified":1472625017,
+    "wof:lastmodified":1492102184,
     "wof:name":"All Seasons Septic Svc",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

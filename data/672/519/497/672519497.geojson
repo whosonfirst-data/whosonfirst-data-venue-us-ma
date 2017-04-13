@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.795187,41.907444,-70.795187,41.907444",
     "geom:latitude":41.907444,
     "geom:longitude":-70.795187,
@@ -32,17 +33,26 @@
         "engine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VCYB5qdd3090MWonH1kG9_41.907444_-70.795187@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720823,
-    "wof:geomhash":"a122509bf999a7dc43dd9a0633ee66fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84ba5965188cc3a5e5702581ebe41e19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672519497
+        }
+    ],
     "wof:id":672519497,
-    "wof:lastmodified":1472625786,
+    "wof:lastmodified":1492116589,
     "wof:name":"Aims Automotive Machine Shop",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

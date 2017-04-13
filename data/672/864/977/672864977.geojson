@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.792146,41.987134,-70.792146,41.987134",
     "geom:latitude":41.987134,
     "geom:longitude":-70.792146,
@@ -31,17 +32,26 @@
         "surveyor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cap8b9paPAYo80jiCcwuq_41.987134_-70.792146@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728271,
-    "wof:geomhash":"71f3f7892ecf76f8d9d31a533a0083ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c00d6c4386ef90f4510bd2acadad16bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672864977
+        }
+    ],
     "wof:id":672864977,
-    "wof:lastmodified":1472626091,
+    "wof:lastmodified":1492117815,
     "wof:name":"Webby Engineering Assoc Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

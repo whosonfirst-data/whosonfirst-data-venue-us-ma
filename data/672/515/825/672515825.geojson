@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.968263,42.66525,-70.968263,42.66525",
     "geom:latitude":42.66525,
     "geom:longitude":-70.968263,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7d57QcM63oep8XPLsHSjGo_42.665250_-70.968263@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720741,
-    "wof:geomhash":"fa15ab6d04451d2ecaa59ae8169c1c19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dfc5cea0171b94af224babe015f4e084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672515825
+        }
+    ],
     "wof:id":672515825,
-    "wof:lastmodified":1472625784,
+    "wof:lastmodified":1492113946,
     "wof:name":"Accurate Concrete Cutting Inc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

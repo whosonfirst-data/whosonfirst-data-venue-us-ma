@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.42577,42.10648,-71.42577,42.10648",
     "geom:latitude":42.10648,
     "geom:longitude":-71.42577,
@@ -39,7 +40,8 @@
         85633793,
         85950431,
         102084403,
-        85688645
+        85688645,
+        85857157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461729242,
-    "wof:geomhash":"d8e37aa925053fa0e11084f9e44bf519",
+    "wof:geomhash":"5bc836d3c2c8c3ce6d4af9cd84393d00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,22 @@
             "neighbourhood_id":420523783,
             "region_id":85688645,
             "venue_id":672909873
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476439,
+            "locality_id":85950431,
+            "neighbourhood_id":85857157,
+            "region_id":85688645,
+            "venue_id":672909873
         }
     ],
     "wof:id":672909873,
-    "wof:lastmodified":1472626134,
+    "wof:lastmodified":1492114351,
     "wof:name":"Mitchell Plastering",
-    "wof:parent_id":420523783,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

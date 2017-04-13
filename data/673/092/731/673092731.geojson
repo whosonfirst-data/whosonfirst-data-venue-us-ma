@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.053155,41.905685,-71.053155,41.905685",
     "geom:latitude":41.905685,
     "geom:longitude":-71.053155,
@@ -33,17 +34,32 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476139,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jCtj1UHfP1ttz469qNS3Y_41.905685_-71.053155@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461733620,
-    "wof:geomhash":"3f0993b76ea4c96a11eb7a161e30b31e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"586d0f58dbc554b3149f5691fe48273f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476139,
+            "region_id":85688645,
+            "venue_id":673092731
+        }
+    ],
     "wof:id":673092731,
-    "wof:lastmodified":1472625259,
+    "wof:lastmodified":1492103022,
     "wof:name":"Jersey Mike's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

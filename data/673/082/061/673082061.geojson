@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.261253,42.165028,-73.261253,42.165028",
     "geom:latitude":42.165028,
     "geom:longitude":-73.261253,
@@ -29,17 +30,26 @@
     "sg:postcode":"01230",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1273wFfDW6GEuyARNqKIcO_42.165028_-73.261253@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461733393,
-    "wof:geomhash":"e4e4aa0760f3957ed48f1457c17fefea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"034809e5c104ffd14661d4c85128063b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":673082061
+        }
+    ],
     "wof:id":673082061,
-    "wof:lastmodified":1472625212,
+    "wof:lastmodified":1492102589,
     "wof:name":"The Old Inn On The Green",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

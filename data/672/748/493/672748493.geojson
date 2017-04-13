@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.425382,42.506229,-72.425382,42.506229",
     "geom:latitude":42.506229,
     "geom:longitude":-72.425382,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85850187,
-        102084457
+        85815355,
+        102084457,
+        85850187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461725909,
-    "wof:geomhash":"233992e82468f4e280fc8936c09a2c3e",
+    "wof:geomhash":"40c03ac7ce569d6cad8d96f53ecd3d9f",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084457,
+            "neighbourhood_id":85815355,
+            "region_id":85688645,
+            "venue_id":672748493
+        },
         {
             "country_id":85633793,
             "county_id":102084457,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":672748493,
-    "wof:lastmodified":1472625984,
+    "wof:lastmodified":1492116766,
     "wof:name":"Wild Orchid Studio",
-    "wof:parent_id":85850187,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

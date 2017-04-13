@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.960075,41.906268,-70.960075,41.906268",
     "geom:latitude":41.906268,
     "geom:longitude":-70.960075,
@@ -32,19 +33,40 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85854565,
+        102084367,
+        85837823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LoOp2c0gz3DYRluOalck9_41.906268_-70.960075@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714982,
-    "wof:geomhash":"c76364f04c03b8b04b54a163e8010df1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb8a3885cbcfa6c2e64f7fdd6332ef05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85854565,
+            "region_id":85688645,
+            "venue_id":672268897
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85837823,
+            "region_id":85688645,
+            "venue_id":672268897
+        }
+    ],
     "wof:id":672268897,
-    "wof:lastmodified":1472625420,
+    "wof:lastmodified":1492113175,
     "wof:name":"BSM Engineering Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.866331,42.172039,-72.866331,42.172039",
     "geom:latitude":42.172039,
     "geom:longitude":-72.866331,
@@ -32,17 +33,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475979,
+        85633793,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20FyiBrhg1stSCwJdixJzU_42.172039_-72.866331@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728827,
-    "wof:geomhash":"245b4408320e2118e99d31fe72db1a47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04a4d2755b86277a648a919c00ab2325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404475979,
+            "region_id":85688645,
+            "venue_id":672889763
+        }
+    ],
     "wof:id":672889763,
-    "wof:lastmodified":1472626116,
+    "wof:lastmodified":1492119395,
     "wof:name":"Data Vision Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

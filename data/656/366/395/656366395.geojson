@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.730318,41.930255,-70.730318,41.930255",
     "geom:latitude":41.930255,
     "geom:longitude":-70.730318,
@@ -31,17 +32,26 @@
         "photography"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11yPOT5AQBYoEisBAbjhm3_41.930255_-70.730318@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711297,
-    "wof:geomhash":"51361125ed55df7843696fece7b16b1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"471bed6bc8ebc91458aba6441b25a1cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":656366395
+        }
+    ],
     "wof:id":656366395,
-    "wof:lastmodified":1472624952,
+    "wof:lastmodified":1492101864,
     "wof:name":"Stillight Photogrphy",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

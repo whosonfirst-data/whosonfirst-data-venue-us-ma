@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.549312,41.906586,-70.549312,41.906586",
     "geom:latitude":41.906586,
     "geom:longitude":-70.549312,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wk9QfhTZ6tc7dzP9WHLAk_41.906586_-70.549312@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714051,
-    "wof:geomhash":"6a8953c039c24a07f437b3487e82502d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0cc9a59d639edede5015d8c8a7f7b3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523823,
+            "venue_id":672224117
+        }
+    ],
     "wof:id":672224117,
-    "wof:lastmodified":1472625218,
+    "wof:lastmodified":1492107853,
     "wof:name":"ISE Corp",
     "wof:parent_id":420523823,
     "wof:placetype":"venue",

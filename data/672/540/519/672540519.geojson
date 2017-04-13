@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.261067,42.134629,-71.261067,42.134629",
     "geom:latitude":42.134629,
     "geom:longitude":-71.261067,
@@ -31,17 +32,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ND48NVLCGjn1B6qoU3TGQ_42.134629_-71.261067@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721269,
-    "wof:geomhash":"ec97bb0d97d371cd8c5d5cdcd5f720d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71eb1ce9be5fc7f100a7cb3568e1f2ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672540519
+        }
+    ],
     "wof:id":672540519,
-    "wof:lastmodified":1472625797,
+    "wof:lastmodified":1492109186,
     "wof:name":"Leo's Pizzaria",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

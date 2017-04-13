@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.489237,41.715626,-70.489237,41.715626",
     "geom:latitude":41.715626,
     "geom:longitude":-70.489237,
@@ -29,10 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85852115,
+        102191575,
+        404476193,
         85633793,
-        85809011,
-        102084379
+        85950591,
+        102084379,
+        85688645,
+        85809011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461714781,
-    "wof:geomhash":"8805b17c1be60d09704cd0648ce6bcd4",
+    "wof:geomhash":"959c4f2818e448d63602aaadbc13f72d",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404476193,
+            "locality_id":85950591,
+            "neighbourhood_id":85852115,
+            "region_id":85688645,
+            "venue_id":672258765
+        },
         {
             "country_id":85633793,
             "county_id":102084379,
@@ -51,9 +66,9 @@
         }
     ],
     "wof:id":672258765,
-    "wof:lastmodified":1472625366,
+    "wof:lastmodified":1492111186,
     "wof:name":"Institches",
-    "wof:parent_id":85809011,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

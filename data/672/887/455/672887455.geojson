@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.207851,41.747817,-71.207851,41.747817",
     "geom:latitude":41.747817,
     "geom:longitude":-71.207851,
@@ -33,17 +34,26 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65jkXelkJrfa0pQxx06YSd_41.747817_-71.207851@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728774,
-    "wof:geomhash":"08dce897681067fc6c29f7323722b807",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7f2e72402b05f68ca8bed835b6af2df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":672887455
+        }
+    ],
     "wof:id":672887455,
-    "wof:lastmodified":1472626109,
+    "wof:lastmodified":1492113685,
     "wof:name":"Dunnewright Pool Service",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

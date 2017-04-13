@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.971311,41.582169,-70.971311,41.582169",
     "geom:latitude":41.582169,
     "geom:longitude":-70.971311,
@@ -31,17 +32,26 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523319
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_616dcf3FryYV7WjXzhnS3k_41.582169_-70.971311@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729887,
-    "wof:geomhash":"44fcfd205f5c13a8e70d25b411d62d80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b9832599d347a2fe9f2bdde3633df24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523319,
+            "venue_id":672940931
+        }
+    ],
     "wof:id":672940931,
-    "wof:lastmodified":1472626164,
+    "wof:lastmodified":1492117958,
     "wof:name":"YMCA",
     "wof:parent_id":420523319,
     "wof:placetype":"venue",

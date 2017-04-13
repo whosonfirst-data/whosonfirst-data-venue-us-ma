@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.828634,42.333698,-71.828634,42.333698",
     "geom:latitude":42.333698,
     "geom:longitude":-71.828634,
@@ -32,17 +33,26 @@
         "removal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aX2VZK1ZChZchG7QpnMbx_42.333698_-71.828634@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715893,
-    "wof:geomhash":"06055d90ae81699f3612da9081c9636c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ee2cb486cb197137af9307f030c9f1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":672313931
+        }
+    ],
     "wof:id":672313931,
-    "wof:lastmodified":1472625535,
+    "wof:lastmodified":1492115197,
     "wof:name":"Baystate Home Guard Environmnt",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

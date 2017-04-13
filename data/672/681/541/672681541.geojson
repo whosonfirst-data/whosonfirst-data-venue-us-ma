@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.842676,42.185205,-71.842676,42.185205",
     "geom:latitude":42.185205,
     "geom:longitude":-71.842676,
@@ -33,19 +34,38 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071,
+        85688645,
+        85815289,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Vajnrj7H5i4ZEvirQLEwq_42.185205_-71.842676@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724427,
-    "wof:geomhash":"7fb406796ad37dbf8266c13bef60690f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef3d9f5a3b09b8d60d25a04cb5194b87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672681541
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85815289,
+            "region_id":85688645,
+            "venue_id":672681541
+        }
+    ],
     "wof:id":672681541,
-    "wof:lastmodified":1472625928,
+    "wof:lastmodified":1492117847,
     "wof:name":"Lodge At Eddy Pond",
-    "wof:parent_id":420524071,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

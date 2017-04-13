@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.698387,42.048191,-70.698387,42.048191",
     "geom:latitude":42.048191,
     "geom:longitude":-70.698387,
@@ -31,17 +32,26 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4B4BYKg6jzS4SoJoLnaLqf_42.048191_-70.698387@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741025,
-    "wof:geomhash":"3f2e77b550fd51db5acc2d66cb224c23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09152217273ad2404dfd765dbd856f7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523827,
+            "venue_id":689153651
+        }
+    ],
     "wof:id":689153651,
-    "wof:lastmodified":1472625516,
+    "wof:lastmodified":1492097469,
     "wof:name":"North Hill Golf Course",
     "wof:parent_id":420523827,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.271784,42.712508,-72.271784,42.712508",
     "geom:latitude":42.712508,
     "geom:longitude":-72.271784,
@@ -31,19 +32,28 @@
         "refrigerating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523489
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6U2A5F6IKp8Yh4NLeF3MCB_42.712508_-72.271784@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720319,
-    "wof:geomhash":"9262367a054a1403ae040a744b366919",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d18e7a40571f1979cbe65e48327bf71a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523489,
+            "venue_id":672495973
+        }
+    ],
     "wof:id":672495973,
-    "wof:lastmodified":1472625766,
+    "wof:lastmodified":1492111279,
     "wof:name":"Rosie's Refrigeration",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

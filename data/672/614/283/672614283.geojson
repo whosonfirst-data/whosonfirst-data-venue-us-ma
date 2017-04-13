@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.274248,42.582011,-71.274248,42.582011",
     "geom:latitude":42.582011,
     "geom:longitude":-71.274248,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85844755,
-        102084643
+        85815967,
+        102084643,
+        85844755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461722932,
-    "wof:geomhash":"0e6e79701d236be1e966013c45ae3fbc",
+    "wof:geomhash":"d771cbca11a3fa04c30908e1d9c22e49",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85815967,
+            "region_id":85688645,
+            "venue_id":672614283
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":672614283,
-    "wof:lastmodified":1472625862,
+    "wof:lastmodified":1492107944,
     "wof:name":"Lowe Roofing Co",
-    "wof:parent_id":85844755,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

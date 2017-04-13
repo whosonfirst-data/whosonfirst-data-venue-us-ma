@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.235748,42.597257,-71.235748,42.597257",
     "geom:latitude":42.597257,
     "geom:longitude":-71.235748,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85851973,
-        102084643
+        85815967,
+        102084643,
+        85851973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461716493,
-    "wof:geomhash":"c95494aefc0bebc34b1ef1e444ae6a29",
+    "wof:geomhash":"43dfbac76300b0d8703549a6383928f7",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85815967,
+            "region_id":85688645,
+            "venue_id":672340021
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -54,9 +63,9 @@
         }
     ],
     "wof:id":672340021,
-    "wof:lastmodified":1472625563,
+    "wof:lastmodified":1492112638,
     "wof:name":"Monbleau Painting & Paper Hang",
-    "wof:parent_id":85851973,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

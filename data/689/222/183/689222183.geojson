@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.21496,41.749348,-71.21496,41.749348",
     "geom:latitude":41.749348,
     "geom:longitude":-71.21496,
@@ -39,17 +40,26 @@
         "paint"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DNFmGahaeDOtmmMnOY2mP_41.749348_-71.214960@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742530,
-    "wof:geomhash":"9b09440638a399e10cfc6f3a2eabe01a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3edfc697968b679f2d5527217a28547f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":689222183
+        }
+    ],
     "wof:id":689222183,
-    "wof:lastmodified":1472625616,
+    "wof:lastmodified":1492100205,
     "wof:name":"Nitro Paintball Supply",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.715722,42.132553,-70.715722,42.132553",
     "geom:latitude":42.132553,
     "geom:longitude":-70.715722,
@@ -32,17 +33,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6v9hiBy38HfEw08GCWDV7c_42.132553_-70.715722@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713997,
-    "wof:geomhash":"e5d798affceb25b591320160fe4e0c16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c526ebf249d74b9886c2959b1f3e63cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523925,
+            "venue_id":672221211
+        }
+    ],
     "wof:id":672221211,
-    "wof:lastmodified":1472625219,
+    "wof:lastmodified":1492113601,
     "wof:name":"Quailty 2",
     "wof:parent_id":420523925,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.020818,41.970729,-71.020818,41.970729",
     "geom:latitude":41.970729,
     "geom:longitude":-71.020818,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EE02EScbXIzn2dzgBHXF5_41.970729_-71.020818@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712577,
-    "wof:geomhash":"14554d1dd11669a9d8936530ef34c6b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"327f62e640ca83d4e1ea7d5182582a30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672156277
+        }
+    ],
     "wof:id":672156277,
-    "wof:lastmodified":1472624948,
+    "wof:lastmodified":1492112492,
     "wof:name":"Graziano Redi Mix",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

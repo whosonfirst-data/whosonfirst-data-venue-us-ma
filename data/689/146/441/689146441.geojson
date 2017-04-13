@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.113526,42.350584,-71.113526,42.350584",
     "geom:latitude":42.350584,
     "geom:longitude":-71.113526,
@@ -48,17 +49,34 @@
     ],
     "sg:website":"www.commonwealthsunoco.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u9Wz6XgIP87kSjEHsCqw1_42.350584_-71.113526@1303262225"
     },
     "wof:country":"US",
     "wof:created":1461740564,
-    "wof:geomhash":"3dd780a570cb5d1bdd35e2b131bb4fbe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58cc02bfcb35ccf23a1050ec1516d914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "region_id":85688645,
+            "venue_id":689146441
+        }
+    ],
     "wof:id":689146441,
-    "wof:lastmodified":1472625493,
+    "wof:lastmodified":1492097071,
     "wof:name":"Commonwealth Sunoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

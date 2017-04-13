@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.828142,42.276369,-71.828142,42.276369",
     "geom:latitude":42.276369,
     "geom:longitude":-71.828142,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805121,
+        85857275,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
         85688645,
-        85857275
+        85805121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461715835,
-    "wof:geomhash":"92093f6a086f330d06be7f637a59cc94",
+    "wof:geomhash":"6f2850701fa0d0c6a39ead2f28a22723",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476639,
-            "locality_id":85950375,
-            "neighbourhood_id":85805121,
-            "region_id":85688645,
-            "venue_id":672311515
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -68,12 +59,22 @@
             "neighbourhood_id":85857275,
             "region_id":85688645,
             "venue_id":672311515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85805121,
+            "region_id":85688645,
+            "venue_id":672311515
         }
     ],
     "wof:id":672311515,
-    "wof:lastmodified":1472625528,
+    "wof:lastmodified":1492106601,
     "wof:name":"Pearl Dental Laboratories",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

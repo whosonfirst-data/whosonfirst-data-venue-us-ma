@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.408447,42.24115,-72.408447,42.24115",
     "geom:latitude":42.24115,
     "geom:longitude":-72.408447,
@@ -31,17 +32,26 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CD3qlvW1G7bQqhFN9J4vT_42.241150_-72.408447@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733742,
-    "wof:geomhash":"e0d4eb6d4dd90a0f69659a8a7b5fa3ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c10125824edd23636468dec4b303446",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":673099297
+        }
+    ],
     "wof:id":673099297,
-    "wof:lastmodified":1472625275,
+    "wof:lastmodified":1492105476,
     "wof:name":"Cold Spring Golf Course",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

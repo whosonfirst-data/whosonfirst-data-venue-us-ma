@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.910114,41.892799,-70.910114,41.892799",
     "geom:latitude":41.892799,
     "geom:longitude":-70.910114,
@@ -32,10 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420523819,
         85853233,
         102191575,
         404476041,
-        85633793,
         85950469,
         102084367,
         85688645
@@ -46,8 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1461714923,
-    "wof:geomhash":"183fdaa819ee7a89ca3afd9adfce5a3a",
+    "wof:geomhash":"1da9e360a25e663a2f496cbb73cda841",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672265871
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +67,9 @@
         }
     ],
     "wof:id":672265871,
-    "wof:lastmodified":1472625426,
+    "wof:lastmodified":1492115228,
     "wof:name":"Access To Jobs",
-    "wof:parent_id":85853233,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

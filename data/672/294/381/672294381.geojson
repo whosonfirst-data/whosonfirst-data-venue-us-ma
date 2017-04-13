@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.275145,41.94629,-71.275145,41.94629",
     "geom:latitude":41.94629,
     "geom:longitude":-71.275145,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807495,
+        85814695,
         102191575,
         404476165,
         85633793,
         85950363,
         102084407,
-        85688645
+        85688645,
+        85807495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461715498,
-    "wof:geomhash":"08a7337f024715d53a1f2b26b31fa73f",
+    "wof:geomhash":"ea111af95c3eb22e1e458288b4d7c066",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476165,
+            "locality_id":85950363,
+            "neighbourhood_id":85814695,
+            "region_id":85688645,
+            "venue_id":672294381
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672294381,
-    "wof:lastmodified":1472625468,
+    "wof:lastmodified":1492119240,
     "wof:name":"Fallon Ambulance Svc",
-    "wof:parent_id":85807495,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

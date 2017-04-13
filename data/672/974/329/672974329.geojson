@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.792206,41.949638,-70.792206,41.949638",
     "geom:latitude":41.949638,
     "geom:longitude":-70.792206,
@@ -31,17 +32,26 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7I5M5V1KB8okJbnDI6O7FD_41.949638_-70.792206@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730892,
-    "wof:geomhash":"b12fdcdcbb7cfbff27291b086737c9b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0d640a52fb3230f04c15faac7c34d2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":672974329
+        }
+    ],
     "wof:id":672974329,
-    "wof:lastmodified":1472626185,
+    "wof:lastmodified":1492107019,
     "wof:name":"J Boucher Transportation",
     "wof:parent_id":420523949,
     "wof:placetype":"venue",

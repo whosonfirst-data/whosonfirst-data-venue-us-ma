@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.402912,42.633797,-71.402912,42.633797",
     "geom:latitude":42.633797,
     "geom:longitude":-71.402912,
@@ -31,17 +32,26 @@
         "camping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XFNCXDO5LXKrbrIkQCXgm_42.633797_-71.402912@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723844,
-    "wof:geomhash":"240a8ab5a58497b59bcaee85ebd5eeb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4871610612f613a972058c5309ea771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672655899
+        }
+    ],
     "wof:id":672655899,
-    "wof:lastmodified":1472625902,
+    "wof:lastmodified":1492119861,
     "wof:name":"Homerun Tent & Party Rental",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

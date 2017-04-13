@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.211592,41.687154,-70.211592,41.687154",
     "geom:latitude":41.687154,
     "geom:longitude":-70.211592,
@@ -33,17 +34,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jitlLbTry2ouMONiv14Op_41.687154_-70.211592@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731237,
-    "wof:geomhash":"3a7c284097c305c1f53e0f72e01728fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecdb216d1bfc07f266f6d9b0f4594f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672987331
+        }
+    ],
     "wof:id":672987331,
-    "wof:lastmodified":1472626193,
+    "wof:lastmodified":1492117047,
     "wof:name":"Yarmouth-Barnstable Transfer",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

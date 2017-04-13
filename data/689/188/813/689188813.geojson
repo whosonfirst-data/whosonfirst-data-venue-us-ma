@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.160815,42.391601,-71.160815,42.391601",
     "geom:latitude":42.391601,
     "geom:longitude":-71.160815,
@@ -28,17 +29,34 @@
     "sg:postcode":"02478",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475999,
+        85633793,
+        85950617,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08I3P3fhQvcYLFjL1Kk1F3_42.391601_-71.160815@1303262230"
     },
     "wof:country":"US",
     "wof:created":1461741813,
-    "wof:geomhash":"3ae8ddb28cbfd22db96286e6115cf691",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf78a575f9b7e0b96293eaa831529558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404475999,
+            "locality_id":85950617,
+            "region_id":85688645,
+            "venue_id":689188813
+        }
+    ],
     "wof:id":689188813,
-    "wof:lastmodified":1472625584,
+    "wof:lastmodified":1492097014,
     "wof:name":"P & M Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

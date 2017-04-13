@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.99598,41.30377,-69.99598,41.30377",
     "geom:latitude":41.30377,
     "geom:longitude":-69.99598,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85842591,
-        102084641
+        102084641,
+        85854815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461727380,
-    "wof:geomhash":"c9e2af7cd0b2e8ef8c69ebbb95e9378f",
+    "wof:geomhash":"acc693e11b28a9bdef733e1a77b853b4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,19 @@
             "neighbourhood_id":85842591,
             "region_id":85688645,
             "venue_id":672819279
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084641,
+            "neighbourhood_id":85854815,
+            "region_id":85688645,
+            "venue_id":672819279
         }
     ],
     "wof:id":672819279,
-    "wof:lastmodified":1472626043,
+    "wof:lastmodified":1492105902,
     "wof:name":"Darrens Foreign Auto Repair",
-    "wof:parent_id":85842591,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

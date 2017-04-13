@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.090971,41.57251,-71.090971,41.57251",
     "geom:latitude":41.57251,
     "geom:longitude":-71.090971,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RoFYqI0j52DDsJxkk6MFa_41.572510_-71.090971@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726124,
-    "wof:geomhash":"3404394d8852c01e04fa5ea030ba4b9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4608fe0af2f189c16ffd60aec6a5a3b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672759089
+        }
+    ],
     "wof:id":672759089,
-    "wof:lastmodified":1472625990,
+    "wof:lastmodified":1492110195,
     "wof:name":"Quaker Meetings",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

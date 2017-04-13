@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.203166,41.765392,-71.203166,41.765392",
     "geom:latitude":41.765392,
     "geom:longitude":-71.203166,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476145,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71R6v3IOmYloE3ydgbgD9K_41.765392_-71.203166@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712028,
-    "wof:geomhash":"a2b973aa29e8f987d590474fc7850e3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"036032a0aae95e4d10a289157516237c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476145,
+            "region_id":85688645,
+            "venue_id":656400703
+        }
+    ],
     "wof:id":656400703,
-    "wof:lastmodified":1472625090,
+    "wof:lastmodified":1492101473,
     "wof:name":"Charles Ashley Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

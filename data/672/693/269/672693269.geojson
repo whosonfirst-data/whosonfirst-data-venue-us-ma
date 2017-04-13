@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.87131,42.243026,-71.87131,42.243026",
     "geom:latitude":42.243026,
     "geom:longitude":-71.87131,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85950375,
+        85881859,
         102084655,
+        85950375,
         85827341
     ],
     "wof:breaches":[],
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461724713,
-    "wof:geomhash":"2cfb38091040b96bb9ce65d23206e6fa",
+    "wof:geomhash":"0695dd376b84a98dea1151d98e2e6a7a",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85881859,
+            "region_id":85688645,
+            "venue_id":672693269
+        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -56,9 +65,9 @@
         }
     ],
     "wof:id":672693269,
-    "wof:lastmodified":1472625936,
+    "wof:lastmodified":1492107802,
     "wof:name":"American Legion",
-    "wof:parent_id":85827341,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

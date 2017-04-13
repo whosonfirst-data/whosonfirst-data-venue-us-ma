@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.799688,41.910027,-70.799688,41.910027",
     "geom:latitude":41.910027,
     "geom:longitude":-70.799688,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bL71mxe6U3pQDTVfO04fA_41.910027_-70.799688@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741009,
-    "wof:geomhash":"6bbcd561662a35e79fcba4ecacc7dc30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aaadd875ec46380ce7078bed2e626ec0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689153069
+        }
+    ],
     "wof:id":689153069,
-    "wof:lastmodified":1472625489,
+    "wof:lastmodified":1492097473,
     "wof:name":"Bobbie's Cleaning Services",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

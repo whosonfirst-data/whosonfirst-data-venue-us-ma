@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.610752,41.648675,-70.610752,41.648675",
     "geom:latitude":41.648675,
     "geom:longitude":-70.610752,
@@ -31,17 +32,26 @@
         "counselor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BrB30Gh5EKcSc0UJnPk0H_41.648675_-70.610752@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725302,
-    "wof:geomhash":"9025af535b1fdf22b2a728e0d2a9a3fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e104fcb951a49e2961bf22d249d6a8b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672720251
+        }
+    ],
     "wof:id":672720251,
-    "wof:lastmodified":1472625954,
+    "wof:lastmodified":1492112967,
     "wof:name":"Promotional Planning Svc",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

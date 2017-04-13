@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.579509,41.615146,-70.579509,41.615146",
     "geom:latitude":41.615146,
     "geom:longitude":-70.579509,
@@ -31,17 +32,26 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61o3pJrxbbNWMRog20lJSh_41.615146_-70.579509@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721879,
-    "wof:geomhash":"e1b9fee062bc31a4a38b73c2659a2847",
-    "wof:hierarchy":[],
+    "wof:geomhash":"505d3e13dae5875358c07bb7a5520552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672568265
+        }
+    ],
     "wof:id":672568265,
-    "wof:lastmodified":1472625803,
+    "wof:lastmodified":1492116613,
     "wof:name":"Susan Shepherd",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

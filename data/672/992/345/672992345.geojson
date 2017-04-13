@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.969592,42.132695,-71.969592,42.132695",
     "geom:latitude":42.132695,
     "geom:longitude":-71.969592,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5K1P5TkEULdbQNrpbltpQo_42.132695_-71.969592@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731392,
-    "wof:geomhash":"2ab81db2a245872dc281dbdc7a4e1fce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3a6aca50e65f417e061b72a5cbfccea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":672992345
+        }
+    ],
     "wof:id":672992345,
-    "wof:lastmodified":1472626196,
+    "wof:lastmodified":1492119001,
     "wof:name":"Charlton Police Dept",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

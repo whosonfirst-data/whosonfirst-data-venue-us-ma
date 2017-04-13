@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.838154,42.458058,-71.838154,42.458058",
     "geom:latitude":42.458058,
     "geom:longitude":-71.838154,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524139
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43FRxaOLo4pcxNKwB3F2JZ_42.458058_-71.838154@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718523,
-    "wof:geomhash":"5ae2fa22368061d4d7ac39f2c8d5d559",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20dc6846b1cf83605bcdc27d02649b6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524139,
+            "venue_id":672424589
+        }
+    ],
     "wof:id":672424589,
-    "wof:lastmodified":1472625695,
+    "wof:lastmodified":1492109307,
     "wof:name":"Advanced Process Systems",
     "wof:parent_id":420524139,
     "wof:placetype":"venue",

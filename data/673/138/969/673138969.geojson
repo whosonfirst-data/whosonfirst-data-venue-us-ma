@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.464015,42.259523,-71.464015,42.259523",
     "geom:latitude":42.259523,
     "geom:longitude":-71.464015,
@@ -47,17 +48,32 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476321,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ypHFN46obko4ZYUDaEnb0_42.259523_-71.464015@1303262188"
     },
     "wof:country":"US",
     "wof:created":1461734567,
-    "wof:geomhash":"67ab4e31a193267f2ffd59733379a3f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"144856593f17f8bad57f17ad5bff0f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476321,
+            "region_id":85688645,
+            "venue_id":673138969
+        }
+    ],
     "wof:id":673138969,
-    "wof:lastmodified":1472625415,
+    "wof:lastmodified":1492103271,
     "wof:name":"Main Street Wine & Spirits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

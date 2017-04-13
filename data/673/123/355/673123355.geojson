@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.653408,42.135526,-71.653408,42.135526",
     "geom:latitude":42.135526,
     "geom:longitude":-71.653408,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FTv8bU4gtzxucDUiZpfT6_42.135526_-71.653408@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734259,
-    "wof:geomhash":"bc1ff58258d2b4bc6d33f6b4726b9086",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a13be005701342ba1c29da62561aa7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524115,
+            "venue_id":673123355
+        }
+    ],
     "wof:id":673123355,
-    "wof:lastmodified":1472625359,
+    "wof:lastmodified":1492102915,
     "wof:name":"Proto Trak Svc",
     "wof:parent_id":420524115,
     "wof:placetype":"venue",

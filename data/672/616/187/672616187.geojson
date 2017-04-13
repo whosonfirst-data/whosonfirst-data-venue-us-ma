@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.421202,42.450695,-72.421202,42.450695",
     "geom:latitude":42.450695,
     "geom:longitude":-72.421202,
@@ -33,17 +34,26 @@
         "writing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10YQ9kItZznkQtJTLIJx8Q_42.450695_-72.421202@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722976,
-    "wof:geomhash":"cd92b428b2f927d0d4ef78fd53117e6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecefaac5bf6004f2239bcf2e86d203d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523485,
+            "venue_id":672616187
+        }
+    ],
     "wof:id":672616187,
-    "wof:lastmodified":1472625862,
+    "wof:lastmodified":1492105824,
     "wof:name":"Amy Mayer",
     "wof:parent_id":420523485,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.497608,41.686288,-70.497608,41.686288",
     "geom:latitude":41.686288,
     "geom:longitude":-70.497608,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wVGsjqYS6frXpTLRxSA6w_41.686288_-70.497608@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728429,
-    "wof:geomhash":"982d9c03c186ad90f68ab023027257b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e03637cd98e240f1c19301e7ebf2ab9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672869263
+        }
+    ],
     "wof:id":672869263,
-    "wof:lastmodified":1472626093,
+    "wof:lastmodified":1492106585,
     "wof:name":"Cape Cod Gas Heat & Hot Water",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.091054,41.573797,-71.091054,41.573797",
     "geom:latitude":41.573797,
     "geom:longitude":-71.091054,
@@ -33,17 +34,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78haHj3g1wcpVkggwCOr5C_41.573797_-71.091054@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725386,
-    "wof:geomhash":"66ed596a8ee30ee334c677297a511ad0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cc0c729dac56604d1d11e49e7da42e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672724397
+        }
+    ],
     "wof:id":672724397,
-    "wof:lastmodified":1472625963,
+    "wof:lastmodified":1492107261,
     "wof:name":"NAC Security Systems Inc",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.260761,42.135032,-71.260761,42.135032",
     "geom:latitude":42.135032,
     "geom:longitude":-71.260761,
@@ -31,17 +32,26 @@
         "yard"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Cm6NHZjvgCG5sbfL5dAd9_42.135032_-71.260761@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718078,
-    "wof:geomhash":"c9c485f3d90e4c91663c25f218f52615",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0522c41fd2b8cd5a9cf81eb25ccaa0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672407265
+        }
+    ],
     "wof:id":672407265,
-    "wof:lastmodified":1472625669,
+    "wof:lastmodified":1492112994,
     "wof:name":"Walpole Rental",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

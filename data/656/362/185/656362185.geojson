@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.123447,42.640003,-73.123447,42.640003",
     "geom:latitude":42.640003,
     "geom:longitude":-73.123447,
@@ -34,8 +35,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85844285,
-        102084369
+        85950597,
+        102084369,
+        85832257,
+        85844285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,16 @@
     },
     "wof:country":"US",
     "wof:created":1461711208,
-    "wof:geomhash":"052072faa5708265e273d212a0ac095d",
+    "wof:geomhash":"304222d7aed80d6d3615ae71e3d43300",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084369,
+            "locality_id":85950597,
+            "neighbourhood_id":85832257,
+            "region_id":85688645,
+            "venue_id":656362185
+        },
         {
             "country_id":85633793,
             "county_id":102084369,
@@ -54,9 +65,9 @@
         }
     ],
     "wof:id":656362185,
-    "wof:lastmodified":1472624920,
+    "wof:lastmodified":1492102342,
     "wof:name":"Trimarchi Nurseries",
-    "wof:parent_id":85844285,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

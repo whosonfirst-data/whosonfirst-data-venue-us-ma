@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.124397,42.1381,-71.124397,42.1381",
     "geom:latitude":42.1381,
     "geom:longitude":-71.124397,
@@ -31,17 +32,26 @@
         "carpeting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67mKcg51O8Lko06Iw68o7y_42.138100_-71.124397@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736314,
-    "wof:geomhash":"306c2434d0655b3e6002f85a6b79f17a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f02ded6a5faa1a087d542a0dfdec1b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688953351
+        }
+    ],
     "wof:id":688953351,
-    "wof:lastmodified":1472625139,
+    "wof:lastmodified":1492120232,
     "wof:name":"J & W Carpet Distributors",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.332498,42.247032,-73.332498,42.247032",
     "geom:latitude":42.247032,
     "geom:longitude":-73.332498,
@@ -36,7 +37,8 @@
         85633793,
         85950599,
         102084369,
-        85688645
+        85688645,
+        85857891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722297,
-    "wof:geomhash":"f7fffd09098f8f324eafc518216e8ee8",
+    "wof:geomhash":"1c4c81ddc75595e31a64dd909c6d1bd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,19 @@
             "neighbourhood_id":85805357,
             "region_id":85688645,
             "venue_id":672586423
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084369,
+            "neighbourhood_id":85857891,
+            "region_id":85688645,
+            "venue_id":672586423
         }
     ],
     "wof:id":672586423,
-    "wof:lastmodified":1472625833,
+    "wof:lastmodified":1492108403,
     "wof:name":"Monument Mountain Rgnl High",
-    "wof:parent_id":85805357,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

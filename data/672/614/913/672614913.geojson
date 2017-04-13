@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.9665,42.717374,-70.9665,42.717374",
     "geom:latitude":42.717374,
     "geom:longitude":-70.9665,
@@ -33,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523475,
+        85688645,
         85845839,
         102084463
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461722948,
-    "wof:geomhash":"b8e1cdd5361a368d289b63e85731f849",
+    "wof:geomhash":"0cfd2aee918deec37336f0254a4d18af",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672614913
+        },
         {
             "country_id":85633793,
             "county_id":102084463,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":672614913,
-    "wof:lastmodified":1472625870,
+    "wof:lastmodified":1492107950,
     "wof:name":"Dow Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

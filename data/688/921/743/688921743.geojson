@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.006462,42.68803,-71.006462,42.68803",
     "geom:latitude":42.68803,
     "geom:longitude":-71.006462,
@@ -32,17 +33,26 @@
         "companies-bottled"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49ZGi0hdiXDybmR7k6mxzm_42.688030_-71.006462@1303262195"
     },
     "wof:country":"US",
     "wof:created":1461735689,
-    "wof:geomhash":"f40a861ebc37363ec3369609b21c2027",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f28a558d2ecd64f14666a7a3028e1f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":688921743
+        }
+    ],
     "wof:id":688921743,
-    "wof:lastmodified":1472624963,
+    "wof:lastmodified":1492120641,
     "wof:name":"David Waters",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

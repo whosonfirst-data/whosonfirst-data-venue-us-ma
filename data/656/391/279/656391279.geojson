@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.590439,42.507138,-71.590439,42.507138",
     "geom:latitude":42.507138,
     "geom:longitude":-71.590439,
@@ -31,10 +32,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85809037,
-        102084655,
         85950627,
-        85824179
+        102084655,
+        85824179,
+        85809037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +43,8 @@
     },
     "wof:country":"US",
     "wof:created":1461711827,
-    "wof:geomhash":"aff3f12dd6b46831a2fb3cacf518ae33",
+    "wof:geomhash":"5bb2e2976d25e649adb2342f68d55a60",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85809037,
-            "region_id":85688645,
-            "venue_id":656391279
-        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -58,12 +52,19 @@
             "neighbourhood_id":85824179,
             "region_id":85688645,
             "venue_id":656391279
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85809037,
+            "region_id":85688645,
+            "venue_id":656391279
         }
     ],
     "wof:id":656391279,
-    "wof:lastmodified":1472625024,
+    "wof:lastmodified":1492102071,
     "wof:name":"Claudia J Jarratt",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

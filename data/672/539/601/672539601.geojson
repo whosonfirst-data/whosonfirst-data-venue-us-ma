@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.55872,42.49787,-71.55872,42.49787",
     "geom:latitude":42.49787,
     "geom:longitude":-71.55872,
@@ -33,9 +34,7 @@
         85688645,
         85633793,
         85809037,
-        102084655,
-        85950627,
-        85824179
+        102084655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721250,
-    "wof:geomhash":"45cbd984c59a2e207f5d2f8640e2f127",
+    "wof:geomhash":"408b01d8e656460371504d567ccb63ef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,20 +50,12 @@
             "neighbourhood_id":85809037,
             "region_id":85688645,
             "venue_id":672539601
-        },
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "locality_id":85950627,
-            "neighbourhood_id":85824179,
-            "region_id":85688645,
-            "venue_id":672539601
         }
     ],
     "wof:id":672539601,
-    "wof:lastmodified":1472625803,
+    "wof:lastmodified":1492114745,
     "wof:name":"Harvard Art",
-    "wof:parent_id":-1,
+    "wof:parent_id":85809037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

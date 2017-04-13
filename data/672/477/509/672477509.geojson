@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.274655,42.661914,-71.274655,42.661914",
     "geom:latitude":42.661914,
     "geom:longitude":-71.274655,
@@ -32,17 +33,32 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476483,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MfVEkRx7sEkVs9lJRYF9E_42.661914_-71.274655@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719877,
-    "wof:geomhash":"35431bff2a32d3356cbca91177a360bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ce1e137c15d8a1030920708b5b913ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476483,
+            "region_id":85688645,
+            "venue_id":672477509
+        }
+    ],
     "wof:id":672477509,
-    "wof:lastmodified":1472625742,
+    "wof:lastmodified":1492115672,
     "wof:name":"Dracut Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

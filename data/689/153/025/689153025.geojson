@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.796565,41.887868,-70.796565,41.887868",
     "geom:latitude":41.887868,
     "geom:longitude":-70.796565,
@@ -32,17 +33,26 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7O8yKxXRXAL75qsal5VPhI_41.887868_-70.796565@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741008,
-    "wof:geomhash":"70f203e1b9e7f83cedb2ab1c738a026b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bfe9a4b58853240da9530e31c9f2c2d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":689153025
+        }
+    ],
     "wof:id":689153025,
-    "wof:lastmodified":1472625488,
+    "wof:lastmodified":1492097473,
     "wof:name":"Krystal's Karriage Limousine Service",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

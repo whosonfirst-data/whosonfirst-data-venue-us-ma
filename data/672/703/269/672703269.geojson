@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.1167,41.850322,-71.1167,41.850322",
     "geom:latitude":41.850322,
     "geom:longitude":-71.1167,
@@ -31,17 +32,26 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iaUTOHP8CCNhuN5g2LMs3_41.850322_-71.116700@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724936,
-    "wof:geomhash":"114b0ec2f19fd58d91bd5c7a8e55086f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da832639be114b5e8d4dcaa9edf2ead1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523323,
+            "venue_id":672703269
+        }
+    ],
     "wof:id":672703269,
-    "wof:lastmodified":1472625938,
+    "wof:lastmodified":1492110055,
     "wof:name":"Dighton Veterinary Hospital",
     "wof:parent_id":420523323,
     "wof:placetype":"venue",

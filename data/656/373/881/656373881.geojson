@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.629778,42.233536,-72.629778,42.233536",
     "geom:latitude":42.233536,
     "geom:longitude":-72.629778,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476357,
+        85633793,
+        85950395,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pfmBnquzWUjnkvbyw4gJ5_42.233536_-72.629778@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711459,
-    "wof:geomhash":"8dae394b3aae39b677112faf8d67250e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd208f1dcdabbffa35f01030a2eafbcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476357,
+            "locality_id":85950395,
+            "region_id":85688645,
+            "venue_id":656373881
+        }
+    ],
     "wof:id":656373881,
-    "wof:lastmodified":1472625013,
+    "wof:lastmodified":1492102310,
     "wof:name":"Castle Hill Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

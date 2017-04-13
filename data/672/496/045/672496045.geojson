@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.792253,42.247643,-71.792253,42.247643",
     "geom:latitude":42.247643,
     "geom:longitude":-71.792253,
@@ -35,7 +36,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85853089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461720321,
-    "wof:geomhash":"60177f82c67e74753c1fe68edff11056",
+    "wof:geomhash":"20effcbdd82f8dc4076a94112e218ad2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,22 @@
             "neighbourhood_id":420524213,
             "region_id":85688645,
             "venue_id":672496045
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85853089,
+            "region_id":85688645,
+            "venue_id":672496045
         }
     ],
     "wof:id":672496045,
-    "wof:lastmodified":1472625747,
+    "wof:lastmodified":1492109595,
     "wof:name":"Head Start",
-    "wof:parent_id":420524213,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

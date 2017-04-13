@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.465996,41.668943,-70.465996,41.668943",
     "geom:latitude":41.668943,
     "geom:longitude":-70.465996,
@@ -32,17 +33,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zYfl1fxv2QUeC6DzDH5zS_41.668943_-70.465996@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741962,
-    "wof:geomhash":"949ba991256f2aa002cd6ca6d6bc19ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f66ea1df33075426b74a374c10a7c69e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":689196009
+        }
+    ],
     "wof:id":689196009,
-    "wof:lastmodified":1472625588,
+    "wof:lastmodified":1492097242,
     "wof:name":"International Plastics Inc",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

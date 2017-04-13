@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.448303,42.180229,-71.448303,42.180229",
     "geom:latitude":42.180229,
     "geom:longitude":-71.448303,
@@ -33,19 +34,32 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85833901,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SHKXiIFgsLR5tc8XkcHu0_42.180229_-71.448303@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718794,
-    "wof:geomhash":"b562fb748f54a6bc0ad84ef08f828e95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87c5fd47a8218e674f2ebc6c5356dbca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85833901,
+            "region_id":85688645,
+            "venue_id":672435393
+        }
+    ],
     "wof:id":672435393,
-    "wof:lastmodified":1472625700,
+    "wof:lastmodified":1492105600,
     "wof:name":"John I Murphy & Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85833901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.102446,42.138514,-71.102446,42.138514",
     "geom:latitude":42.138514,
     "geom:longitude":-71.102446,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l7B7J9lcb7Sl0AfL1QYyC_42.138514_-71.102446@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715410,
-    "wof:geomhash":"6c97193091bccb6de26d18ae59bb3f17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ffa94adfd8c4fae1866915a4ecfede0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672290459
+        }
+    ],
     "wof:id":672290459,
-    "wof:lastmodified":1472625467,
+    "wof:lastmodified":1492109362,
     "wof:name":"Allgreen",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

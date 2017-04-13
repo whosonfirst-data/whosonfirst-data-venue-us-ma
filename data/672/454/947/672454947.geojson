@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.407369,42.252585,-72.407369,42.252585",
     "geom:latitude":42.252585,
     "geom:longitude":-72.407369,
@@ -31,17 +32,26 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kkowzD0DU42zFeD3BWadu_42.252585_-72.407369@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719314,
-    "wof:geomhash":"5d029533067854c4a46cd1c5dc04d903",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc34a7420521f8e72a765819887686f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672454947
+        }
+    ],
     "wof:id":672454947,
-    "wof:lastmodified":1472625724,
+    "wof:lastmodified":1492115682,
     "wof:name":"R & R Associated Svc",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

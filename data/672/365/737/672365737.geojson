@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.121344,41.560716,-71.121344,41.560716",
     "geom:latitude":41.560716,
     "geom:longitude":-71.121344,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3s229i4lCGsAilqKbcCYX8_41.560716_-71.121344@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717111,
-    "wof:geomhash":"f3dc0bd251f7dc7031a97fa4c8a89c30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59c91a0e95b97cc3c75dfcaed84f9d15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672365737
+        }
+    ],
     "wof:id":672365737,
-    "wof:lastmodified":1472625639,
+    "wof:lastmodified":1492112873,
     "wof:name":"Joals Garage Inc",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

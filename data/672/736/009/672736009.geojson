@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.402152,42.608225,-71.402152,42.608225",
     "geom:latitude":42.608225,
     "geom:longitude":-71.402152,
@@ -37,17 +38,26 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SJzJgnJQbbC1g3N4679Ab_42.608225_-71.402152@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725640,
-    "wof:geomhash":"1ba465747af41d577eec0a259e2ecec4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"399593f7ae4e43feb74aa2e8930b2fe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672736009
+        }
+    ],
     "wof:id":672736009,
-    "wof:lastmodified":1472625967,
+    "wof:lastmodified":1492108828,
     "wof:name":"McNurland Associates",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

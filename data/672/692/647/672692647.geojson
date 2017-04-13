@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.59868,42.406592,-71.59868,42.406592",
     "geom:latitude":42.406592,
     "geom:longitude":-71.59868,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ygqmcOpF0LryylqG7rngO_42.406592_-71.598680@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724696,
-    "wof:geomhash":"db905e85b887cbe3e3552b2b264e1cda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ca5090396080b2b1bc4500bfa21e118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672692647
+        }
+    ],
     "wof:id":672692647,
-    "wof:lastmodified":1472625943,
+    "wof:lastmodified":1492110239,
     "wof:name":"Mitchell Motors",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

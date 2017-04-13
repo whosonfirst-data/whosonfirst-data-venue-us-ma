@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.871196,41.845144,-70.871196,41.845144",
     "geom:latitude":41.845144,
     "geom:longitude":-70.871196,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lK0gFoyqh3UfnLuL4pHIQ_41.845144_-70.871196@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731891,
-    "wof:geomhash":"91db84085fc066a99915d67a5938925f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8499b56d221336f075d8cc256ef5d618",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":673013859
+        }
+    ],
     "wof:id":673013859,
-    "wof:lastmodified":1472624967,
+    "wof:lastmodified":1492103766,
     "wof:name":"Lucas Masonry Inc",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.185792,42.343127,-71.185792,42.343127",
     "geom:latitude":42.343127,
     "geom:longitude":-71.185792,
@@ -31,17 +32,34 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Z1h2m2nKHAf5aEXoIiq6U_42.343127_-71.185792@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731332,
-    "wof:geomhash":"c470db5ed0069015a046c9b61649e0a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"663a986fc823291547d1ef21cfa24fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":672990257
+        }
+    ],
     "wof:id":672990257,
-    "wof:lastmodified":1472626196,
+    "wof:lastmodified":1492106237,
     "wof:name":"David A Berkowitz MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

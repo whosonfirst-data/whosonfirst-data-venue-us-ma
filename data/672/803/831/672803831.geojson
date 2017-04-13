@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.84849,41.863852,-70.84849,41.863852",
     "geom:latitude":41.863852,
     "geom:longitude":-70.84849,
@@ -31,17 +32,26 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66QWQM23HwIjMj3jgZP8h3_41.863852_-70.848490@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727062,
-    "wof:geomhash":"4d1f885f9bc520db94351be4b9d5196b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f90b8865828be155be6cba18830ac143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672803831
+        }
+    ],
     "wof:id":672803831,
-    "wof:lastmodified":1472626045,
+    "wof:lastmodified":1492118809,
     "wof:name":"Precision Appraisals",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

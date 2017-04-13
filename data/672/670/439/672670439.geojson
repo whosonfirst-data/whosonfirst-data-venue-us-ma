@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.573275,42.198402,-72.573275,42.198402",
     "geom:latitude":42.198402,
     "geom:longitude":-72.573275,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476347,
+        85633793,
+        85950397,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QaJGueE2T9dOc4doXz10d_42.198402_-72.573275@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724173,
-    "wof:geomhash":"e6b7029cc1f34b6395534d8b634c3950",
-    "wof:hierarchy":[],
+    "wof:geomhash":"560b90d8e425f6371e30ce1960c856ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "region_id":85688645,
+            "venue_id":672670439
+        }
+    ],
     "wof:id":672670439,
-    "wof:lastmodified":1472625915,
+    "wof:lastmodified":1492118698,
     "wof:name":"Louis & Clark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

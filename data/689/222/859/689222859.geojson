@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.148725,41.93453,-71.148725,41.93453",
     "geom:latitude":41.93453,
     "geom:longitude":-71.148725,
@@ -32,17 +33,34 @@
         "private"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476147,
+        85633793,
+        85950365,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qm0DvnNkudKeInUZa3X8T_41.934530_-71.148725@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742546,
-    "wof:geomhash":"e686096f3448e187c7f994946bc10c2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"147e8410e4011d195ae2295bcb0f3c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476147,
+            "locality_id":85950365,
+            "region_id":85688645,
+            "venue_id":689222859
+        }
+    ],
     "wof:id":689222859,
-    "wof:lastmodified":1472625631,
+    "wof:lastmodified":1492100207,
     "wof:name":"School News",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

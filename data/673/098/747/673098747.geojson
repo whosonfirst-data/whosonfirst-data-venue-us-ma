@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.496486,42.420886,-72.496486,42.420886",
     "geom:latitude":42.420886,
     "geom:longitude":-72.496486,
@@ -40,17 +41,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Sn1JYApLsR8n7oxyZIfVo_42.420886_-72.496486@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733733,
-    "wof:geomhash":"877b8791c5f1f73ca270521570de5707",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a60cb5b97d4b97f3d184cf316e6726e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523639,
+            "venue_id":673098747
+        }
+    ],
     "wof:id":673098747,
-    "wof:lastmodified":1472625290,
+    "wof:lastmodified":1492105080,
     "wof:name":"Cwg",
     "wof:parent_id":420523639,
     "wof:placetype":"venue",

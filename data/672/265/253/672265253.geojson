@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.259141,42.062507,-71.259141,42.062507",
     "geom:latitude":42.062507,
     "geom:longitude":-71.259141,
@@ -31,8 +32,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85849689,
-        102084403
+        85855501,
+        102084403,
+        85849689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +42,15 @@
     },
     "wof:country":"US",
     "wof:created":1461714911,
-    "wof:geomhash":"af0d7a93bb73a88152b51695098e4005",
+    "wof:geomhash":"f89760847ba84f5534e6e2abeca8d165",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85855501,
+            "region_id":85688645,
+            "venue_id":672265253
+        },
         {
             "country_id":85633793,
             "county_id":102084403,
@@ -51,9 +60,9 @@
         }
     ],
     "wof:id":672265253,
-    "wof:lastmodified":1472625398,
+    "wof:lastmodified":1492115229,
     "wof:name":"Joel D Altman OD",
-    "wof:parent_id":85849689,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

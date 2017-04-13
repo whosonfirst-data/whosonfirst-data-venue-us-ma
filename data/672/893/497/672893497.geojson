@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.212231,42.313239,-71.212231,42.313239",
     "geom:latitude":42.313239,
     "geom:longitude":-71.212231,
@@ -32,17 +33,34 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AyuQcjO34H52jwcbPFg9f_42.313239_-71.212231@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728897,
-    "wof:geomhash":"1c32101b3c2c7f8c286ce21e4c700271",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03849d8631620c749fa99d8f885983ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":672893497
+        }
+    ],
     "wof:id":672893497,
-    "wof:lastmodified":1472626113,
+    "wof:lastmodified":1492108110,
     "wof:name":"Newton Technology Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.400444,42.617642,-71.400444,42.617642",
     "geom:latitude":42.617642,
     "geom:longitude":-71.400444,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SXxSM9gxYi4rBoIjoYmb7_42.617642_-71.400444@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715991,
-    "wof:geomhash":"7f66b792e2d7b360031b8bbbee55ec7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ac970c6cda0f39417171a83965e6222",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672319261
+        }
+    ],
     "wof:id":672319261,
-    "wof:lastmodified":1472625540,
+    "wof:lastmodified":1492107676,
     "wof:name":"Currie Landscape",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

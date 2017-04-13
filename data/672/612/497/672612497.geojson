@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.629732,41.633895,-70.629732,41.633895",
     "geom:latitude":41.633895,
     "geom:longitude":-70.629732,
@@ -31,17 +32,26 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_494rutGYeiijBsv61obUBJ_41.633895_-70.629732@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722887,
-    "wof:geomhash":"8aa79f518f8e9f9a040fd0f542bf8ccc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"676878887ade3d8c43685a07a0b19ad5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672612497
+        }
+    ],
     "wof:id":672612497,
-    "wof:lastmodified":1472625864,
+    "wof:lastmodified":1492106443,
     "wof:name":"Caspersen Overhead Garage Door",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

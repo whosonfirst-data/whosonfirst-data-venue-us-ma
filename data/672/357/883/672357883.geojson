@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.408544,42.624761,-71.408544,42.624761",
     "geom:latitude":42.624761,
     "geom:longitude":-71.408544,
@@ -31,17 +32,26 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oCRTsDueb6lyOsT1HqoSG_42.624761_-71.408544@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716928,
-    "wof:geomhash":"c8e567c6b9bab05b9ab829c16fb38f8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0cb8d2342573a1e623dec1542a6e7d09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672357883
+        }
+    ],
     "wof:id":672357883,
-    "wof:lastmodified":1472625626,
+    "wof:lastmodified":1492119566,
     "wof:name":"John Boisvert",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

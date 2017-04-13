@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.118896,42.334499,-71.118896,42.334499",
     "geom:latitude":42.334499,
     "geom:longitude":-71.118896,
@@ -39,17 +40,34 @@
     ],
     "sg:website":"www.martinscoffeeshop.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WJ21cl603fSfY7nlW9oIS_42.334499_-71.118896@1303262228"
     },
     "wof:country":"US",
     "wof:created":1461741393,
-    "wof:geomhash":"dc6ba3df9313f89e2f16947d056f42d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45b02c90cb00154981f446ca0ea67bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "region_id":85688645,
+            "venue_id":689168869
+        }
+    ],
     "wof:id":689168869,
-    "wof:lastmodified":1472625548,
+    "wof:lastmodified":1492100549,
     "wof:name":"Martin's Coffee Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

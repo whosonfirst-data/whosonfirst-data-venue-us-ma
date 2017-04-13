@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.531322,42.393053,-71.531322,42.393053",
     "geom:latitude":42.393053,
     "geom:longitude":-71.531322,
@@ -32,17 +33,26 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SREvNPasghDsw3QIyMK0T_42.393053_-71.531322@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723664,
-    "wof:geomhash":"4e15d8909d78fcc347e4bcb550f0cec7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e37663bc65366ea449659179aef1236f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672647709
+        }
+    ],
     "wof:id":672647709,
-    "wof:lastmodified":1472625897,
+    "wof:lastmodified":1492111889,
     "wof:name":"Metropolitan Building Conslnt",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

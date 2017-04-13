@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.801617,42.239503,-70.801617,42.239503",
     "geom:latitude":42.239503,
     "geom:longitude":-70.801617,
@@ -33,17 +34,26 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T0qXeJQKXelvbMstzUe3m_42.239503_-70.801617@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721764,
-    "wof:geomhash":"13e87cebdc8429140bf4d97b18c34678",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa6c71523158d59d4babc5564a7ffe86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672562723
+        }
+    ],
     "wof:id":672562723,
-    "wof:lastmodified":1472625831,
+    "wof:lastmodified":1492113968,
     "wof:name":"Globe Union Ind",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

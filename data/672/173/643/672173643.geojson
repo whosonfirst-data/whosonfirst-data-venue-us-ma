@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.929096,41.707005,-70.929096,41.707005",
     "geom:latitude":41.707005,
     "geom:longitude":-70.929096,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yaRrsal8TEROezApwscbB_41.707005_-70.929096@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712977,
-    "wof:geomhash":"500dbffdf9e9ae716982b70c04b28fa2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef80f1e0711d1c4b301d7972bcfbd635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":672173643
+        }
+    ],
     "wof:id":672173643,
-    "wof:lastmodified":1472625080,
+    "wof:lastmodified":1492115080,
     "wof:name":"Petes Plumbing Etc",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

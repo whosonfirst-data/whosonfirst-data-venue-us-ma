@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.659477,42.112283,-71.659477,42.112283",
     "geom:latitude":42.112283,
     "geom:longitude":-71.659477,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85842425,
+        102084655,
         85826459,
         102191575,
         404476673,
-        85633793,
-        85950701,
-        102084655,
-        85688645
+        85950701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461725592,
-    "wof:geomhash":"b37d396c9136959e7995b29b47d2976b",
+    "wof:geomhash":"fee9c7343075b79a164a58f20df3f854",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85842425,
+            "region_id":85688645,
+            "venue_id":672733435
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +66,9 @@
         }
     ],
     "wof:id":672733435,
-    "wof:lastmodified":1472625972,
+    "wof:lastmodified":1492112375,
     "wof:name":"Eye Associates",
-    "wof:parent_id":85826459,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

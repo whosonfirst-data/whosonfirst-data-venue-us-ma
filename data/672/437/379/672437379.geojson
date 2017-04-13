@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.268176,42.298227,-73.268176,42.298227",
     "geom:latitude":42.298227,
     "geom:longitude":-73.268176,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85816525,
-        102084369
+        85830287,
+        102084369,
+        85816525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461718843,
-    "wof:geomhash":"f601844cab2f7388dc3115fd6b7e77cc",
+    "wof:geomhash":"6f9b982e4c87c7ec66beb02ae7ea037f",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084369,
+            "neighbourhood_id":85830287,
+            "region_id":85688645,
+            "venue_id":672437379
+        },
         {
             "country_id":85633793,
             "county_id":102084369,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":672437379,
-    "wof:lastmodified":1472625699,
+    "wof:lastmodified":1492116718,
     "wof:name":"Cottage Care",
-    "wof:parent_id":85816525,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

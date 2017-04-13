@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.228676,41.683524,-70.228676,41.683524",
     "geom:latitude":41.683524,
     "geom:longitude":-70.228676,
@@ -31,17 +32,26 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Hfa1BOmW3tY5rAU7MfZ3Y_41.683524_-70.228676@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715859,
-    "wof:geomhash":"3611cd5d915913ff3100dfd604bb67b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a536e662ed0028121b57675b128fef55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672312685
+        }
+    ],
     "wof:id":672312685,
-    "wof:lastmodified":1472625535,
+    "wof:lastmodified":1492116392,
     "wof:name":"Cape Cod Cakes",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

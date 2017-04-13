@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.344914,41.951847,-71.344914,41.951847",
     "geom:latitude":41.951847,
     "geom:longitude":-71.344914,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85803891,
+        102191575,
+        404476165,
         85633793,
         85950363,
         102084407,
-        85803891
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1461710955,
-    "wof:geomhash":"67fd69a4f4b9a1465af1f19663ff8a58",
+    "wof:geomhash":"eb79e37eb6264d24aceca108c5df2cbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084407,
+            "localadmin_id":404476165,
             "locality_id":85950363,
             "neighbourhood_id":85803891,
             "region_id":85688645,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":656349825,
-    "wof:lastmodified":1472624917,
+    "wof:lastmodified":1492102055,
     "wof:name":"North Attleborough Medical Ctr",
     "wof:parent_id":85803891,
     "wof:placetype":"venue",

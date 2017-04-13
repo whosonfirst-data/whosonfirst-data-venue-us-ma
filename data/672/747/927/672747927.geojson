@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.563063,42.649961,-72.563063,42.649961",
     "geom:latitude":42.649961,
     "geom:longitude":-72.563063,
@@ -31,17 +32,26 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M0WStbRrJB8qhNHs4p0ES_42.649961_-72.563063@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725898,
-    "wof:geomhash":"0fd33b9919d47129cbe27c5dd3482217",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3cf3f0364ae744d2c016d2a7cbf4c39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672747927
+        }
+    ],
     "wof:id":672747927,
-    "wof:lastmodified":1472625992,
+    "wof:lastmodified":1492107907,
     "wof:name":"Daves Auto Body",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

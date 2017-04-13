@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.123595,41.269373,-70.123595,41.269373",
     "geom:latitude":41.269373,
     "geom:longitude":-70.123595,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85834175,
+        102191575,
+        404476421,
         85633793,
-        85811063,
-        102084641
+        85950503,
+        102084641,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,20 +48,23 @@
     },
     "wof:country":"US",
     "wof:created":1461724839,
-    "wof:geomhash":"c7ca96f3f92207f7640bb4884bb35c82",
+    "wof:geomhash":"82e11d294632ec69f0e22ce3ac24f7ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084641,
-            "neighbourhood_id":85811063,
+            "localadmin_id":404476421,
+            "locality_id":85950503,
+            "neighbourhood_id":85834175,
             "region_id":85688645,
             "venue_id":672698917
         }
     ],
     "wof:id":672698917,
-    "wof:lastmodified":1472625947,
+    "wof:lastmodified":1492105726,
     "wof:name":"Coastal Design",
-    "wof:parent_id":85811063,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

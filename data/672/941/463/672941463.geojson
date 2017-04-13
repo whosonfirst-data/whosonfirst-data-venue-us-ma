@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.718659,42.014832,-70.718659,42.014832",
     "geom:latitude":42.014832,
     "geom:longitude":-70.718659,
@@ -31,17 +32,26 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tw42CHejy1riRaNvmnKNQ_42.014832_-70.718659@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729898,
-    "wof:geomhash":"cd70c0f0fbc69aba14b6d9b66b7419ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4e79def5ebfaae22bf72228b74f5fdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523959,
+            "venue_id":672941463
+        }
+    ],
     "wof:id":672941463,
-    "wof:lastmodified":1472626152,
+    "wof:lastmodified":1492115981,
     "wof:name":"Jack Conway & Company Inc",
     "wof:parent_id":420523959,
     "wof:placetype":"venue",

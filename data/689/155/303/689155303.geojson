@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.8789,41.899439,-70.8789,41.899439",
     "geom:latitude":41.899439,
     "geom:longitude":-70.8789,
@@ -46,17 +47,26 @@
         "paving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tpCZX3KAd2n4gMTxtqS7m_41.899439_-70.878900@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741059,
-    "wof:geomhash":"51c100449bbdda646418620e31140a1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b52291f05ec067a466e1c215055b969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":689155303
+        }
+    ],
     "wof:id":689155303,
-    "wof:lastmodified":1472625498,
+    "wof:lastmodified":1492100383,
     "wof:name":"Robt & Colleen Mosley",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

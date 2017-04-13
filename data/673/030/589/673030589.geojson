@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.907657,42.240289,-71.907657,42.240289",
     "geom:latitude":42.240289,
     "geom:longitude":-71.907657,
@@ -31,17 +32,26 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PCrStKOhdSqAVUYg3tM0K_42.240289_-71.907657@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732342,
-    "wof:geomhash":"0e63761902ffcd7c8c385c2274c633b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3af69213d6c3046a67e67cd34712c364",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":673030589
+        }
+    ],
     "wof:id":673030589,
-    "wof:lastmodified":1472625024,
+    "wof:lastmodified":1492104546,
     "wof:name":"Political Data Services",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

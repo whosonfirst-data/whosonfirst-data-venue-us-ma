@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.611397,41.655499,-70.611397,41.655499",
     "geom:latitude":41.655499,
     "geom:longitude":-70.611397,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1P8BRM4CcmrZuiWEbP9Ghm_41.655499_-70.611397@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741937,
-    "wof:geomhash":"b3e4f99fc389b6a7d63cdc60639410d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64b09d54568da38047e7edcad04d519b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":689194729
+        }
+    ],
     "wof:id":689194729,
-    "wof:lastmodified":1472625596,
+    "wof:lastmodified":1492099898,
     "wof:name":"Stone Stephen Electrn",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

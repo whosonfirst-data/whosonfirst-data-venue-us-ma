@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.730629,42.246764,-71.730629,42.246764",
     "geom:latitude":42.246764,
     "geom:longitude":-71.730629,
@@ -37,17 +38,26 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WEoxObOtdAZ1RFsbrp4xH_42.246764_-71.730629@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734278,
-    "wof:geomhash":"18f2ca97127953fdc778a6fe4f11ee26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0f30ce45407f8c240a711123e47904c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":673124507
+        }
+    ],
     "wof:id":673124507,
-    "wof:lastmodified":1472625358,
+    "wof:lastmodified":1492104001,
     "wof:name":"Emener Chimney Maintenance",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

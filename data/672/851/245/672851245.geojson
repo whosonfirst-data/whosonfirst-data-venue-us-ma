@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.712296,42.582527,-71.712296,42.582527",
     "geom:latitude":42.582527,
     "geom:longitude":-71.712296,
@@ -31,19 +32,38 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85822261,
+        102191575,
+        404476067,
+        85633793,
+        85950731,
+        102084655,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CB4GkbyPUg6jjwlaeCpcZ_42.582527_-71.712296@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728017,
-    "wof:geomhash":"1bac331e10ad2f60708f7eed2c13bf95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c56026933f3897aa46f4d20f7777e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476067,
+            "locality_id":85950731,
+            "neighbourhood_id":85822261,
+            "region_id":85688645,
+            "venue_id":672851245
+        }
+    ],
     "wof:id":672851245,
-    "wof:lastmodified":1472626073,
+    "wof:lastmodified":1492119092,
     "wof:name":"ASAP Courier Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85822261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.87247,41.8651,-70.87247,41.8651",
     "geom:latitude":41.8651,
     "geom:longitude":-70.87247,
@@ -31,17 +32,26 @@
         "military"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QZsUAjiy0YNvLPWMFWpyL_41.865100_-70.872470@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715409,
-    "wof:geomhash":"18634987838b0dad68fa9621f623b9e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dfc69d3cb73f2261892a4288b6a97d0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672290349
+        }
+    ],
     "wof:id":672290349,
-    "wof:lastmodified":1472625464,
+    "wof:lastmodified":1492109359,
     "wof:name":"Disabled American Veterans",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

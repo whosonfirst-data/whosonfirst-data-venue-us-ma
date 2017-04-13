@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.710641,42.246672,-71.710641,42.246672",
     "geom:latitude":42.246672,
     "geom:longitude":-71.710641,
@@ -31,17 +32,26 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pYBZ2TnibVSyC9MUdK1nL_42.246672_-71.710641@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726355,
-    "wof:geomhash":"1f5cfdbfbf2b8e11afea247062f6e9f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce242deeb733ba7e2c8a03934b3850fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":672769217
+        }
+    ],
     "wof:id":672769217,
-    "wof:lastmodified":1472626006,
+    "wof:lastmodified":1492108763,
     "wof:name":"Robert S Brennen & Assoc",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

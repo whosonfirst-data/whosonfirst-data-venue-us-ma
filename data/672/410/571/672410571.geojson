@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.44834,42.149348,-72.44834,42.149348",
     "geom:latitude":42.149348,
     "geom:longitude":-72.44834,
@@ -32,17 +33,36 @@
         "concrete"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420523561,
+        102191575,
+        404476379,
+        85633793,
+        85950775,
+        102084627,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tKyD4G74Z5SFAb5BuMRo7_42.149348_-72.448340@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718179,
-    "wof:geomhash":"389759b2671906cd556b787ee5fe4fb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8f8ae675eabeccd496ab5119fb9ec92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476379,
+            "locality_id":85950775,
+            "neighbourhood_id":420523561,
+            "region_id":85688645,
+            "venue_id":672410571
+        }
+    ],
     "wof:id":672410571,
-    "wof:lastmodified":1472625684,
+    "wof:lastmodified":1492108856,
     "wof:name":"Construction Service",
     "wof:parent_id":420523561,
     "wof:placetype":"venue",

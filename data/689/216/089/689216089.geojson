@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.879233,41.692417,-70.879233,41.692417",
     "geom:latitude":41.692417,
     "geom:longitude":-70.879233,
@@ -36,17 +37,26 @@
         "alignment-frame"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1953x9iwB7AslhUqvaRIwK_41.692417_-70.879233@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742383,
-    "wof:geomhash":"bf63ebb9904af520f9c710375c0e6bd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e28077784f38a0ff068853d9e505cd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":689216089
+        }
+    ],
     "wof:id":689216089,
-    "wof:lastmodified":1472625605,
+    "wof:lastmodified":1492097683,
     "wof:name":"On Money Frame Specia",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.716113,42.658245,-72.716113,42.658245",
     "geom:latitude":42.658245,
     "geom:longitude":-72.716113,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523531
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cudRJUOBtu5mPnCNDcMsy_42.658245_-72.716113@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728755,
-    "wof:geomhash":"f3407fd6b1b3a01584b1a472c9eca3cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b0b38cdacc8856d9fcf612a914403fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523531,
+            "venue_id":672886507
+        }
+    ],
     "wof:id":672886507,
-    "wof:lastmodified":1472626106,
+    "wof:lastmodified":1492117360,
     "wof:name":"Slowinski Concrete",
     "wof:parent_id":420523531,
     "wof:placetype":"venue",

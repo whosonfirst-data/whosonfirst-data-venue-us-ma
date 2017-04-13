@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.907182,41.893767,-70.907182,41.893767",
     "geom:latitude":41.893767,
     "geom:longitude":-70.907182,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0T4jmjUDVUqkErb4edpVXq_41.893767_-70.907182@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727068,
-    "wof:geomhash":"950fbbd5a68d50aa8df8c0948cb4b3d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"663f26bac8db7f08269666ae2ae80c95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672804145
+        }
+    ],
     "wof:id":672804145,
-    "wof:lastmodified":1472626030,
+    "wof:lastmodified":1492118743,
     "wof:name":"Middleboro Fire Dept",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

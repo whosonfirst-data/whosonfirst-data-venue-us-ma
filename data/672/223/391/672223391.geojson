@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.692195,42.082172,-70.692195,42.082172",
     "geom:latitude":42.082172,
     "geom:longitude":-70.692195,
@@ -31,19 +32,40 @@
         "sewing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950461,
+        102084367,
+        85819249,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iOrrZ3PTTbh9S8Q864pHp_42.082172_-70.692195@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714038,
-    "wof:geomhash":"9ca01cb4b86212c204e6ca72302def23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d83441830a8da4e6a0f0707f2882525",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950461,
+            "neighbourhood_id":85819249,
+            "region_id":85688645,
+            "venue_id":672223391
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":672223391
+        }
+    ],
     "wof:id":672223391,
-    "wof:lastmodified":1472625241,
+    "wof:lastmodified":1492118255,
     "wof:name":"16 Stitches",
-    "wof:parent_id":420523971,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

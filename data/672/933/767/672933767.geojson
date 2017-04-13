@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.768411,42.027444,-70.768411,42.027444",
     "geom:latitude":42.027444,
     "geom:longitude":-70.768411,
@@ -31,17 +32,26 @@
         "assistant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BhoWWCA4lD2CWQPs1ETTa_42.027444_-70.768411@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729724,
-    "wof:geomhash":"383625f43c79546fb66b7788a093e77e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c996429baec8b954f1a74c8a99791753",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672933767
+        }
+    ],
     "wof:id":672933767,
-    "wof:lastmodified":1472626157,
+    "wof:lastmodified":1492109515,
     "wof:name":"Shawn E Diotte",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

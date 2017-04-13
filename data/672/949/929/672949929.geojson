@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.911338,41.649842,-70.911338,41.649842",
     "geom:latitude":41.649842,
     "geom:longitude":-70.911338,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85840071,
+        102191575,
+        404476131,
         85633793,
-        85823881,
-        102084407
+        85950367,
+        102084407,
+        85688645,
+        85823881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461730116,
-    "wof:geomhash":"636d0f6482d55e94736c511088a94cca",
+    "wof:geomhash":"eaca4e5c104efa4ce8cc3d2be4b96131",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476131,
+            "locality_id":85950367,
+            "neighbourhood_id":85840071,
+            "region_id":85688645,
+            "venue_id":672949929
+        },
         {
             "country_id":85633793,
             "county_id":102084407,
@@ -54,9 +69,9 @@
         }
     ],
     "wof:id":672949929,
-    "wof:lastmodified":1472626171,
+    "wof:lastmodified":1492110213,
     "wof:name":"Bristol Brightworks",
-    "wof:parent_id":85823881,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

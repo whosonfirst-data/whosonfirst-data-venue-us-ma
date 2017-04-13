@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.499052,42.218445,-72.499052,42.218445",
     "geom:latitude":42.218445,
     "geom:longitude":-72.499052,
@@ -33,17 +34,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mjNYf0Io2PU4Jc41TfJnq_42.218445_-72.499052@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733820,
-    "wof:geomhash":"97a0dede575da6e8f618dae43079591a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae33b28bd049e776215879a133bd12d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":673102619
+        }
+    ],
     "wof:id":673102619,
-    "wof:lastmodified":1472625283,
+    "wof:lastmodified":1492104757,
     "wof:name":"P.R. Remodeling",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

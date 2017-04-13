@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.998822,42.656819,-70.998822,42.656819",
     "geom:latitude":42.656819,
     "geom:longitude":-70.998822,
@@ -32,17 +33,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ziyg8eZGTlOz1xkc43FeG_42.656819_-70.998822@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716227,
-    "wof:geomhash":"9f3543f9f798ce2f7fe7194e95e49ed3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"100c5313152cee92c9d756a372c235ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672329639
+        }
+    ],
     "wof:id":672329639,
-    "wof:lastmodified":1472625556,
+    "wof:lastmodified":1492117549,
     "wof:name":"Bring Care Home",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

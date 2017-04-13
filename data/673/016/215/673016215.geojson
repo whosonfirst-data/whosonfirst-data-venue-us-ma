@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.2743,42.31895,-71.2743,42.31895",
     "geom:latitude":42.31895,
     "geom:longitude":-71.2743,
@@ -38,7 +39,8 @@
         85633793,
         85950847,
         102084403,
-        85688645
+        85688645,
+        420523781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461731958,
-    "wof:geomhash":"de68479ecf4fa456269c7729b5aaa849",
+    "wof:geomhash":"14ce9ecae03f1d9d7a099e2d37d1a462",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85822575,
             "region_id":85688645,
             "venue_id":673016215
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476601,
+            "locality_id":85950847,
+            "neighbourhood_id":420523781,
+            "region_id":85688645,
+            "venue_id":673016215
         }
     ],
     "wof:id":673016215,
-    "wof:lastmodified":1472624989,
+    "wof:lastmodified":1492103125,
     "wof:name":"Blackwood Associates",
-    "wof:parent_id":85822575,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

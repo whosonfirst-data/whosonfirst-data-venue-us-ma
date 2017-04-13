@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.707458,42.25146,-71.707458,42.25146",
     "geom:latitude":42.25146,
     "geom:longitude":-71.707458,
@@ -35,8 +36,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
+        85850089,
+        102084655,
         85804089,
-        102084655
+        420524151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,20 +47,32 @@
     },
     "wof:country":"US",
     "wof:created":1461719953,
-    "wof:geomhash":"1b37665c7e4b71c6cf8e178df9fffab5",
+    "wof:geomhash":"b7a5f41140b4bf26be88dbe058d54160",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85850089,
+            "region_id":85688645,
+            "venue_id":672480473
+        },
         {
             "country_id":85633793,
             "county_id":102084655,
             "neighbourhood_id":85804089,
             "region_id":85688645,
             "venue_id":672480473
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":672480473
         }
     ],
     "wof:id":672480473,
-    "wof:lastmodified":1472625742,
+    "wof:lastmodified":1492118958,
     "wof:name":"Mitchell Drivetrain Svc Inc",
-    "wof:parent_id":85804089,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

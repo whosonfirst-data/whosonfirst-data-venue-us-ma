@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.819229,41.92065,-70.819229,41.92065",
     "geom:latitude":41.92065,
     "geom:longitude":-70.819229,
@@ -43,7 +44,8 @@
         85688645,
         85633793,
         85811691,
-        102084367
+        102084367,
+        420523817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461741000,
-    "wof:geomhash":"a4655e81d18c66b3ff01043b2615f21e",
+    "wof:geomhash":"0078c86c9a4446fa37cbe02b05d62f93",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,12 +61,17 @@
             "neighbourhood_id":85811691,
             "region_id":85688645,
             "venue_id":689152827
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152827
         }
     ],
     "wof:id":689152827,
-    "wof:lastmodified":1472625522,
+    "wof:lastmodified":1492101014,
     "wof:name":"Servpro of Plymouth Wareham",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

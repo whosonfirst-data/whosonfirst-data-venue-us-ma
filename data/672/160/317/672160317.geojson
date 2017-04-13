@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.824683,42.269866,-71.824683,42.269866",
     "geom:latitude":42.269866,
     "geom:longitude":-71.824683,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805121,
+        85857275,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
         85688645,
+        85805121,
         420558779
     ],
     "wof:breaches":[],
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461712660,
-    "wof:geomhash":"62bec93fb077089aa3f61c8b1766e116",
+    "wof:geomhash":"6d51c1ade379176007a45be9a89d9550",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85857275,
+            "region_id":85688645,
+            "venue_id":672160317
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -71,9 +83,9 @@
         }
     ],
     "wof:id":672160317,
-    "wof:lastmodified":1472624997,
+    "wof:lastmodified":1492119479,
     "wof:name":"Decision Institute Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

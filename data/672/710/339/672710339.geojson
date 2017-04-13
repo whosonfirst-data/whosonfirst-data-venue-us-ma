@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.454271,42.256706,-71.454271,42.256706",
     "geom:latitude":42.256706,
     "geom:longitude":-71.454271,
@@ -32,17 +33,26 @@
         "gravel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZYttkbogszJ50Tv45R9ua_42.256706_-71.454271@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725086,
-    "wof:geomhash":"a06bf6057b1c66666c2bae94393205e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8be6a8ae9a875d70846224312f23e594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672710339
+        }
+    ],
     "wof:id":672710339,
-    "wof:lastmodified":1472625948,
+    "wof:lastmodified":1492118539,
     "wof:name":"Ashland Sand & Stone",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

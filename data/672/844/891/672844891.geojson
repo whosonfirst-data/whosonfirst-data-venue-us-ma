@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.071344,42.024445,-71.071344,42.024445",
     "geom:latitude":42.024445,
     "geom:longitude":-71.071344,
@@ -32,19 +33,28 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OfTd0ttU2Jnv0sO8VZHU1_42.024445_-71.071344@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727893,
-    "wof:geomhash":"2ed32494ebf23af8f91d45fed53733dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d7bdd800a7213099a265e24df059e45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523987,
+            "venue_id":672844891
+        }
+    ],
     "wof:id":672844891,
-    "wof:lastmodified":1472626081,
+    "wof:lastmodified":1492108030,
     "wof:name":"John G Rusilko",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

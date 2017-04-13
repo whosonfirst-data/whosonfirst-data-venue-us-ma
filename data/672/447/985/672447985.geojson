@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.102848,42.123047,-71.102848,42.123047",
     "geom:latitude":42.123047,
     "geom:longitude":-71.102848,
@@ -31,17 +32,26 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iQwYvmdahrVkPJtyBJthR_42.123047_-71.102848@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719120,
-    "wof:geomhash":"3e9ab73ff5adb4e16f58e6e96dd91b15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65ed629061afd5d60c55cf67e696f443",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672447985
+        }
+    ],
     "wof:id":672447985,
-    "wof:lastmodified":1472625717,
+    "wof:lastmodified":1492116244,
     "wof:name":"M & M Truck & Auto Repair",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

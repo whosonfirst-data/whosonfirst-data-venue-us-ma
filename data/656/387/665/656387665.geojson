@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.383496,42.345006,-72.383496,42.345006",
     "geom:latitude":42.345006,
     "geom:longitude":-72.383496,
@@ -31,19 +32,28 @@
         "candle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34YQotcN6I6el4c9h3YAyL_42.345006_-72.383496@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711752,
-    "wof:geomhash":"353be32dab29fe7e0c966aaab49a3c72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fe214ef362b6c22761d1ef3bf1e683b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523631,
+            "venue_id":656387665
+        }
+    ],
     "wof:id":656387665,
-    "wof:lastmodified":1472625021,
+    "wof:lastmodified":1492101536,
     "wof:name":"Swift River Candle Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.617919,41.745734,-70.617919,41.745734",
     "geom:latitude":41.745734,
     "geom:longitude":-70.617919,
@@ -37,17 +38,34 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475895,
+        85633793,
+        85950533,
+        102084379
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0o8CfjerWgpn4uJ7LGHztf_41.745734_-70.617919@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741845,
-    "wof:geomhash":"fe8023e664ba07649291f0dd62eff16f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"040296aa7e2d89ab4778241293c97d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404475895,
+            "locality_id":85950533,
+            "region_id":85688645,
+            "venue_id":689190329
+        }
+    ],
     "wof:id":689190329,
-    "wof:lastmodified":1472625566,
+    "wof:lastmodified":1492099442,
     "wof:name":"East Wind Lobster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

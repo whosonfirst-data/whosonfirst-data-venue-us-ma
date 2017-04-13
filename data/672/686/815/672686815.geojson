@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.364452,42.321348,-71.364452,42.321348",
     "geom:latitude":42.321348,
     "geom:longitude":-71.364452,
@@ -32,19 +33,32 @@
     ],
     "sg:website":"www.pareskyflitt.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85852407,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Wb1gHNi8kEeTxtZIXVcVw_42.321348_-71.364452@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724562,
-    "wof:geomhash":"c42b59373ba924058b79e298dcb5b534",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebe5c74c9961350ca698bf7af530d15b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85852407,
+            "region_id":85688645,
+            "venue_id":672686815
+        }
+    ],
     "wof:id":672686815,
-    "wof:lastmodified":1472625936,
+    "wof:lastmodified":1492106285,
     "wof:name":"Paresky Flitt & Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85852407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

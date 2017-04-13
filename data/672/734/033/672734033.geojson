@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.225572,42.315548,-71.225572,42.315548",
     "geom:latitude":42.315548,
     "geom:longitude":-71.225572,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0biZht927iR8IbIqtwY72V_42.315548_-71.225572@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725603,
-    "wof:geomhash":"df30ef5d1c35d5214b1b8779019b4974",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37c50607132ebe1b0e9aa60206b945a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":672734033
+        }
+    ],
     "wof:id":672734033,
-    "wof:lastmodified":1472625963,
+    "wof:lastmodified":1492116477,
     "wof:name":"Echo Bridge Svc Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

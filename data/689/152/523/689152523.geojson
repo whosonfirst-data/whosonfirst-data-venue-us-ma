@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.006742,41.971956,-71.006742,41.971956",
     "geom:latitude":41.971956,
     "geom:longitude":-71.006742,
@@ -31,17 +32,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cNQHfMAkEpq5xIs0qDiMW_41.971956_-71.006742@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740994,
-    "wof:geomhash":"0d8399cef87d48442f42d28137ec00ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"939383d25596ce7c3dcb491a8ad87ff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":689152523
+        }
+    ],
     "wof:id":689152523,
-    "wof:lastmodified":1472625503,
+    "wof:lastmodified":1492101011,
     "wof:name":"Emma's Pub & Pizza",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

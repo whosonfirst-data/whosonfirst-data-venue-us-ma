@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.583538,42.417982,-71.583538,42.417982",
     "geom:latitude":42.417982,
     "geom:longitude":-71.583538,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AwNffbYBF4RJtli4N9X7q_42.417982_-71.583538@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727056,
-    "wof:geomhash":"36102947917c86b317cee3cbff72de7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"252ee18d8cd0381e2d51ad371b70e30e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672803603
+        }
+    ],
     "wof:id":672803603,
-    "wof:lastmodified":1472626040,
+    "wof:lastmodified":1492118823,
     "wof:name":"John Sargent PE",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

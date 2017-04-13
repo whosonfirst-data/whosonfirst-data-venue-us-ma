@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.304497,41.831799,-71.304497,41.831799",
     "geom:latitude":41.831799,
     "geom:longitude":-71.304497,
@@ -36,17 +37,26 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23Kn29iL7VMN5IhPKLDSYp_41.831799_-71.304497@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742521,
-    "wof:geomhash":"440f2d50891f0f57faea6535331b5f71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90ea35db0967412f3bd22d0c3236c3bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523341,
+            "venue_id":689221821
+        }
+    ],
     "wof:id":689221821,
-    "wof:lastmodified":1472625632,
+    "wof:lastmodified":1492099587,
     "wof:name":"Briarwood Child Academy",
     "wof:parent_id":420523341,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.790613,41.904857,-70.790613,41.904857",
     "geom:latitude":41.904857,
     "geom:longitude":-70.790613,
@@ -31,17 +32,26 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ad6gcZErN3kU6xBW0cMLT_41.904857_-70.790613@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730337,
-    "wof:geomhash":"968bda776897f13c3814ae8df8068bbb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e629a154e76575c43353ecafe943e4d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672956915
+        }
+    ],
     "wof:id":672956915,
-    "wof:lastmodified":1472626178,
+    "wof:lastmodified":1492110499,
     "wof:name":"Mann Built Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

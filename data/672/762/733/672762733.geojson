@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.074272,42.036403,-71.074272,42.036403",
     "geom:latitude":42.036403,
     "geom:longitude":-71.074272,
@@ -31,19 +32,34 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523987,
+        420523935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1i3fLCprTwf93iqPl8bRe1_42.036403_-71.074272@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726211,
-    "wof:geomhash":"a0c1437efb5e7ea79565eb5bda8cc31e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b467c537a2244882885da3d2a1b99625",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523987,
+            "venue_id":672762733
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":672762733
+        }
+    ],
     "wof:id":672762733,
-    "wof:lastmodified":1472625999,
+    "wof:lastmodified":1492108390,
     "wof:name":"A-1 Chauffeur Connection",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

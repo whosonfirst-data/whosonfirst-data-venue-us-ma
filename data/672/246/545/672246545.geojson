@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.85898,42.349407,-71.85898,42.349407",
     "geom:latitude":42.349407,
     "geom:longitude":-71.85898,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6imfRyuJvRXSW141F6hNuS_42.349407_-71.858980@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714537,
-    "wof:geomhash":"de4e20d940c51915905d32b85a46d5da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2bd38d72f82b6cfd699a52a2a1a693f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":672246545
+        }
+    ],
     "wof:id":672246545,
-    "wof:lastmodified":1472625361,
+    "wof:lastmodified":1492111392,
     "wof:name":"John P Gusha DDS",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

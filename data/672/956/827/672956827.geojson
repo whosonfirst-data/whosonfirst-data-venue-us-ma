@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.749441,42.019917,-70.749441,42.019917",
     "geom:latitude":42.019917,
     "geom:longitude":-70.749441,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29ZU1XgrNcvGLIHpmc1635_42.019917_-70.749441@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730335,
-    "wof:geomhash":"274bc9a378d67a7c73a16165a792f26d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10bb63b78f8581163a666c399080fe0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672956827
+        }
+    ],
     "wof:id":672956827,
-    "wof:lastmodified":1472626177,
+    "wof:lastmodified":1492110500,
     "wof:name":"David H Gould Building Contrs",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

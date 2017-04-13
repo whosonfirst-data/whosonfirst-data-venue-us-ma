@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.831957,42.355646,-71.831957,42.355646",
     "geom:latitude":42.355646,
     "geom:longitude":-71.831957,
@@ -31,17 +32,26 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5L7iXe6AjPKxcvU3zcXZWq_42.355646_-71.831957@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715069,
-    "wof:geomhash":"e245d53a22ceb008288a4e5da8fad5f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1425bd074e3618545b4a028ec881612e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":672273775
+        }
+    ],
     "wof:id":672273775,
-    "wof:lastmodified":1472625427,
+    "wof:lastmodified":1492111473,
     "wof:name":"H Stark",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

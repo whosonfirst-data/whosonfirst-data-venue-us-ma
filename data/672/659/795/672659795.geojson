@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.477687,41.740476,-70.477687,41.740476",
     "geom:latitude":41.740476,
     "geom:longitude":-70.477687,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85852115,
+        102191575,
+        404476193,
         85633793,
         85950591,
         102084379,
-        85852115
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1461723938,
-    "wof:geomhash":"cb8af904b1e305be928deedfa58b742c",
+    "wof:geomhash":"06ce7b8ef7fffab70624db4876001a95",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084379,
+            "localadmin_id":404476193,
             "locality_id":85950591,
             "neighbourhood_id":85852115,
             "region_id":85688645,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":672659795,
-    "wof:lastmodified":1472625912,
+    "wof:lastmodified":1492108262,
     "wof:name":"Building Diagnostics",
     "wof:parent_id":85852115,
     "wof:placetype":"venue",

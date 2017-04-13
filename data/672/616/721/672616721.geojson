@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.361225,42.318898,-71.361225,42.318898",
     "geom:latitude":42.318898,
     "geom:longitude":-71.361225,
@@ -32,17 +33,34 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476463,
+        85633793,
+        85950623,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pgbZXRq3SmDdFzkZKHQpw_42.318898_-71.361225@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722988,
-    "wof:geomhash":"e0e5499931072993258164d641a6ebaf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c350598474ae35c97f53de5659b4e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476463,
+            "locality_id":85950623,
+            "region_id":85688645,
+            "venue_id":672616721
+        }
+    ],
     "wof:id":672616721,
-    "wof:lastmodified":1472625871,
+    "wof:lastmodified":1492105821,
     "wof:name":"Wayland Nursing & Rehab Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

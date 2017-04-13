@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.525766,42.451226,-72.525766,42.451226",
     "geom:latitude":42.451226,
     "geom:longitude":-72.525766,
@@ -31,19 +32,28 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZmD7x5FiTbstz7Xh1imRW_42.451226_-72.525766@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711535,
-    "wof:geomhash":"f9b7d445652396d857e4f0501d3fd731",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd7c54ae5d7cb8c515c6b05ffa71c682",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523639,
+            "venue_id":656377399
+        }
+    ],
     "wof:id":656377399,
-    "wof:lastmodified":1472625008,
+    "wof:lastmodified":1492101352,
     "wof:name":"Berkshire County Network",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

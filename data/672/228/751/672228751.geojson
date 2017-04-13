@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.335594,42.056758,-73.335594,42.056758",
     "geom:latitude":42.056758,
     "geom:longitude":-73.335594,
@@ -28,19 +29,28 @@
     "sg:postcode":"01257",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HHYeb1oiRwmQMPnQv49eN_42.056758_-73.335594@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714155,
-    "wof:geomhash":"b7cd9604002b8118f30f1ed88da835bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26255606f5258133b44d7aa746cbc309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555577,
+            "venue_id":672228751
+        }
+    ],
     "wof:id":672228751,
-    "wof:lastmodified":1472625266,
+    "wof:lastmodified":1492116161,
     "wof:name":"Trinity United Methdst Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555577,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

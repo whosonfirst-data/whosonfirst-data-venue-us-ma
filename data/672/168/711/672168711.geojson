@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.80698,41.87883,-70.80698,41.87883",
     "geom:latitude":41.87883,
     "geom:longitude":-70.80698,
@@ -31,17 +32,26 @@
         "cranberry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5x73UZt20euRmigUTEQ3a8_41.878830_-70.806980@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712878,
-    "wof:geomhash":"df996f15aeb72d312292ec50f92068a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bad80f0e812cf7c69923443dd328d3e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672168711
+        }
+    ],
     "wof:id":672168711,
-    "wof:lastmodified":1472625043,
+    "wof:lastmodified":1492117617,
     "wof:name":"Gilmore Cranberry Co",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

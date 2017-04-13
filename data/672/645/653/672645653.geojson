@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.802758,42.258061,-70.802758,42.258061",
     "geom:latitude":42.258061,
     "geom:longitude":-70.802758,
@@ -34,17 +35,26 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74S63jfqWWCesNePg31s1N_42.258061_-70.802758@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723621,
-    "wof:geomhash":"b7ff4f8cd29c21e8b7c28c8db7f42807",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50f3a47619523b5535fe3ea41e7ccdc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523765,
+            "venue_id":672645653
+        }
+    ],
     "wof:id":672645653,
-    "wof:lastmodified":1472625892,
+    "wof:lastmodified":1492110686,
     "wof:name":"Susan B Acton Interiors",
     "wof:parent_id":420523765,
     "wof:placetype":"venue",

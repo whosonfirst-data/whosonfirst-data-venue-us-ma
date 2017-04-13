@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.085635,42.043884,-71.085635,42.043884",
     "geom:latitude":42.043884,
     "geom:longitude":-71.085635,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85835343,
-        102084407
+        102084407,
+        85813383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461726810,
-    "wof:geomhash":"e6b93dc8be4ecc9e82729c1b3b2df347",
+    "wof:geomhash":"a6750c885c747bfd3adba4982cbc311e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,19 @@
             "neighbourhood_id":85835343,
             "region_id":85688645,
             "venue_id":672791077
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85813383,
+            "region_id":85688645,
+            "venue_id":672791077
         }
     ],
     "wof:id":672791077,
-    "wof:lastmodified":1472626013,
+    "wof:lastmodified":1492113754,
     "wof:name":"Em Pires Painting & Remodeling",
-    "wof:parent_id":85835343,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

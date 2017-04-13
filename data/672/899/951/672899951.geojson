@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.908619,41.898297,-70.908619,41.898297",
     "geom:latitude":41.898297,
     "geom:longitude":-70.908619,
@@ -31,19 +32,38 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85854565,
+        102084367,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KWI39Bni5sKizN7Md5Uet_41.898297_-70.908619@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729023,
-    "wof:geomhash":"c6e470a57579ec8ca21aadc4417899d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55063b64c3d8855cc3c2df4b698d087b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85854565,
+            "region_id":85688645,
+            "venue_id":672899951
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672899951
+        }
+    ],
     "wof:id":672899951,
-    "wof:lastmodified":1472626126,
+    "wof:lastmodified":1492105616,
     "wof:name":"South Shore Chimney Sweep",
-    "wof:parent_id":420523819,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

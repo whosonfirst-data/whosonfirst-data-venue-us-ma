@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.115669,42.331744,-71.115669,42.331744",
     "geom:latitude":42.331744,
     "geom:longitude":-71.115669,
@@ -42,17 +43,34 @@
         "aid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0S4A3ggANEKyU76KDTLeRA_42.331744_-71.115669@1303262228"
     },
     "wof:country":"US",
     "wof:created":1461741445,
-    "wof:geomhash":"3fbbb6aadb526c9b369e3b2a2e4f98a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9810a9a8df94675b193cc9e284ae4878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "region_id":85688645,
+            "venue_id":689171717
+        }
+    ],
     "wof:id":689171717,
-    "wof:lastmodified":1472625566,
+    "wof:lastmodified":1492099037,
     "wof:name":"Sonus-Usa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

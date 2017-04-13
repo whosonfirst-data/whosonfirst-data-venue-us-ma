@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.472327,41.647677,-70.472327,41.647677",
     "geom:latitude":41.647677,
     "geom:longitude":-70.472327,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_615cl6mfAwbKHLEy8yS9ls_41.647677_-70.472327@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712768,
-    "wof:geomhash":"f9b2a5c8db5dc948e24d4525978e5b62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb46ddc37723f43a942a68e1f8599e2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672163981
+        }
+    ],
     "wof:id":672163981,
-    "wof:lastmodified":1472625041,
+    "wof:lastmodified":1492110950,
     "wof:name":"Linhares & Son Landscape",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

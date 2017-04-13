@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.585244,42.429236,-71.585244,42.429236",
     "geom:latitude":42.429236,
     "geom:longitude":-71.585244,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nCOCqv44bBukXOa2ui0w7_42.429236_-71.585244@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725638,
-    "wof:geomhash":"15684d14d69d427f2b88977cdbd4c87b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bff856d7151fbc284b60752e7cce0b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672735863
+        }
+    ],
     "wof:id":672735863,
-    "wof:lastmodified":1472625986,
+    "wof:lastmodified":1492108629,
     "wof:name":"Mayocraft Inc",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

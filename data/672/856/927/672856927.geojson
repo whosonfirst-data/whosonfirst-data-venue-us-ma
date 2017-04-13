@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.744118,42.615753,-71.744118,42.615753",
     "geom:latitude":42.615753,
     "geom:longitude":-71.744118,
@@ -32,19 +33,28 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Rb3uXKN6bbZsnjb88u9Dx_42.615753_-71.744118@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728122,
-    "wof:geomhash":"9e67b467fbf5dbe69561233f0e054293",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12536cb0444c27b70bf0fc2be0076a08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523737,
+            "venue_id":672856927
+        }
+    ],
     "wof:id":672856927,
-    "wof:lastmodified":1472626084,
+    "wof:lastmodified":1492115529,
     "wof:name":"North-End Subaru-Mazda",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

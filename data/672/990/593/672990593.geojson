@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.42639,42.256248,-72.42639,42.256248",
     "geom:latitude":42.256248,
     "geom:longitude":-72.42639,
@@ -35,17 +36,26 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BljiXFMUvAuMlhNZeg6g8_42.256248_-72.426390@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731341,
-    "wof:geomhash":"9af840aaf677f0545791fcc51464f153",
-    "wof:hierarchy":[],
+    "wof:geomhash":"079a2294136c4c2a79333864ae7619c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672990593
+        }
+    ],
     "wof:id":672990593,
-    "wof:lastmodified":1472626199,
+    "wof:lastmodified":1492106234,
     "wof:name":"Pioneer Pool Svc Co",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.019926,41.971037,-71.019926,41.971037",
     "geom:latitude":41.971037,
     "geom:longitude":-71.019926,
@@ -32,17 +33,26 @@
         "rug"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JO2u4WtrV4AvGzQIqKWMr_41.971037_-71.019926@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725440,
-    "wof:geomhash":"702a0737c39b5abfdf1c6b122d219c05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c9c55481db27b8da0368df004f72cff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672726871
+        }
+    ],
     "wof:id":672726871,
-    "wof:lastmodified":1472625973,
+    "wof:lastmodified":1492111738,
     "wof:name":"Carpet Warehouse",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

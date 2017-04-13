@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.875557,41.86684,-70.875557,41.86684",
     "geom:latitude":41.86684,
     "geom:longitude":-70.875557,
@@ -32,17 +33,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7e0LT5uw6qz0J5dXvfdOAH_41.866840_-70.875557@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741065,
-    "wof:geomhash":"6040add159ac42f7e772968035f1f982",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbb0c7e46820a13481a165fff089a28e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":689155593
+        }
+    ],
     "wof:id":689155593,
-    "wof:lastmodified":1472625510,
+    "wof:lastmodified":1492100392,
     "wof:name":"Darcy Development",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

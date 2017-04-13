@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.993175,41.97754,-70.993175,41.97754",
     "geom:latitude":41.97754,
     "geom:longitude":-70.993175,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TWi8IRvy57Tm9P8KI1rYt_41.977540_-70.993175@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719463,
-    "wof:geomhash":"422be6c43cf452d63ccc5fd00108949d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e712aa34ff5fd2cec68b4d97842b0139",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672461035
+        }
+    ],
     "wof:id":672461035,
-    "wof:lastmodified":1472625721,
+    "wof:lastmodified":1492115503,
     "wof:name":"B J Heating & Air Conditioning",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

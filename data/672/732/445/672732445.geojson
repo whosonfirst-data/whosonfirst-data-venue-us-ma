@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.813423,42.185392,-71.813423,42.185392",
     "geom:latitude":42.185392,
     "geom:longitude":-71.813423,
@@ -33,17 +34,26 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YeELC7hldvi5N7vJbcwnk_42.185392_-71.813423@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725570,
-    "wof:geomhash":"118f7b46154ea98ee56b1505fc7184b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f1e25abd6a58416d408b292465151f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672732445
+        }
+    ],
     "wof:id":672732445,
-    "wof:lastmodified":1472625966,
+    "wof:lastmodified":1492118002,
     "wof:name":"Apple Acres Boarding Kennel",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

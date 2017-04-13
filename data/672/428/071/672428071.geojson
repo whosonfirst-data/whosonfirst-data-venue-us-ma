@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.60823,42.433157,-71.60823,42.433157",
     "geom:latitude":42.433157,
     "geom:longitude":-71.60823,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73U8j6RpTilb5rOUMzApIx_42.433157_-71.608230@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718596,
-    "wof:geomhash":"9e5eacfa213f86e2001de95a1eaef852",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d9241321d48edc6cf09cb146f2af106",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672428071
+        }
+    ],
     "wof:id":672428071,
-    "wof:lastmodified":1472625691,
+    "wof:lastmodified":1492107312,
     "wof:name":"Bolton Strategic Assoc",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

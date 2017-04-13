@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.858685,42.450541,-71.858685,42.450541",
     "geom:latitude":42.450541,
     "geom:longitude":-71.858685,
@@ -31,17 +32,26 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZTMzn5v6ebhmgojRc77NB_42.450541_-71.858685@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734269,
-    "wof:geomhash":"f81b1b1dc7517e7a20b4cedaa1f149a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d3bbdae1b86440bced61426fecb8489",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524219,
+            "venue_id":673123981
+        }
+    ],
     "wof:id":673123981,
-    "wof:lastmodified":1472625385,
+    "wof:lastmodified":1492102928,
     "wof:name":"Kirk Contracting",
     "wof:parent_id":420524219,
     "wof:placetype":"venue",

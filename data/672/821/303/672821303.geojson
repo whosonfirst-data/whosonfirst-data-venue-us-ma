@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.061085,42.695722,-72.061085,42.695722",
     "geom:latitude":42.695722,
     "geom:longitude":-72.061085,
@@ -31,19 +32,28 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526083
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kjDFRDhM7VjZOxKgMHU9Y_42.695722_-72.061085@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727420,
-    "wof:geomhash":"65fcaae215d58a354ec390aa768f92c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1f639034e01ae42491e6521974224c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526083,
+            "venue_id":672821303
+        }
+    ],
     "wof:id":672821303,
-    "wof:lastmodified":1472626047,
+    "wof:lastmodified":1492116038,
     "wof:name":"Papa Jims Exotic Hot Dogs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

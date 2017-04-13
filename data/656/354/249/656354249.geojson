@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.816774,42.197073,-71.816774,42.197073",
     "geom:latitude":42.197073,
     "geom:longitude":-71.816774,
@@ -31,17 +32,26 @@
         "produce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6m8zBEOYJy8oK0b2yymDDw_42.197073_-71.816774@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711048,
-    "wof:geomhash":"34f2e7f673acbb8c2e771c889dd3ec07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0775d6c139854c87d851e2768b59af9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":656354249
+        }
+    ],
     "wof:id":656354249,
-    "wof:lastmodified":1472624921,
+    "wof:lastmodified":1492102189,
     "wof:name":"Farmer's Daughter Hillcrest",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.984963,41.793414,-69.984963,41.793414",
     "geom:latitude":41.793414,
     "geom:longitude":-69.984963,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85845359,
+        102191575,
+        404476187,
         85633793,
-        85852345,
-        102084379
+        85950577,
+        102084379,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,20 +49,23 @@
     },
     "wof:country":"US",
     "wof:created":1461723337,
-    "wof:geomhash":"f7f968abe4a0bb1c0f82ee85fab3e6ed",
+    "wof:geomhash":"7ec6df8fc4cced906fffa6ec159bac4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084379,
-            "neighbourhood_id":85852345,
+            "localadmin_id":404476187,
+            "locality_id":85950577,
+            "neighbourhood_id":85845359,
             "region_id":85688645,
             "venue_id":672632353
         }
     ],
     "wof:id":672632353,
-    "wof:lastmodified":1472625881,
+    "wof:lastmodified":1492114314,
     "wof:name":"Bird Watchers' General Store",
-    "wof:parent_id":85852345,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

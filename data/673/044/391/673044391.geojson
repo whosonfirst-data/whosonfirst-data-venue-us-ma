@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.897339,41.72472,-70.897339,41.72472",
     "geom:latitude":41.72472,
     "geom:longitude":-70.897339,
@@ -33,17 +34,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Yi27LOma8chmJqoM4hpHa_41.724201_-70.897991@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732634,
-    "wof:geomhash":"dd774792ccac6b079bb1218de3c63ec2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d07aa0c8f974fd5dc658be6edba4f782",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":673044391
+        }
+    ],
     "wof:id":673044391,
-    "wof:lastmodified":1472625083,
+    "wof:lastmodified":1492104272,
     "wof:name":"Acushnet Family Daycare",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

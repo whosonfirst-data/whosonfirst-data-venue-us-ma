@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.494282,41.768225,-70.494282,41.768225",
     "geom:latitude":41.768225,
     "geom:longitude":-70.494282,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85852115,
+        102191575,
+        404476193,
         85633793,
         85950591,
         102084379,
-        85852115
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1461713074,
-    "wof:geomhash":"813f0a627c298e0a1d9bf65b3e1362f4",
+    "wof:geomhash":"d42b39d2ee52ddc4fd3d618baba94979",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084379,
+            "localadmin_id":404476193,
             "locality_id":85950591,
             "neighbourhood_id":85852115,
             "region_id":85688645,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":672178007,
-    "wof:lastmodified":1472625056,
+    "wof:lastmodified":1492108920,
     "wof:name":"VCDC",
     "wof:parent_id":85852115,
     "wof:placetype":"venue",

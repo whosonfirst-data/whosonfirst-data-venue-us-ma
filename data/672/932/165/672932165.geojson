@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.811358,41.964165,-70.811358,41.964165",
     "geom:latitude":41.964165,
     "geom:longitude":-70.811358,
@@ -32,19 +33,34 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dMLQGV3O5d5xSifNRqbIN_41.964165_-70.811358@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729687,
-    "wof:geomhash":"fe460d4b6117689b05db7f532bb3418e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d81e3cfd2cfe131a72b061c632ad8a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":672932165
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672932165
+        }
+    ],
     "wof:id":672932165,
-    "wof:lastmodified":1472626143,
+    "wof:lastmodified":1492113433,
     "wof:name":"Loanstar",
-    "wof:parent_id":420523949,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

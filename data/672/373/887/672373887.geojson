@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.88388,42.292367,-70.88388,42.292367",
     "geom:latitude":42.292367,
     "geom:longitude":-70.88388,
@@ -37,8 +38,8 @@
         85633793,
         85950453,
         102084367,
-        85854819,
-        85804923
+        85804923,
+        85854819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461717293,
-    "wof:geomhash":"e2fe8c797d5193248a6874e7ef1a427f",
+    "wof:geomhash":"75c06605e692f77ca924ab7e9e5cc351",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "locality_id":85950453,
-            "neighbourhood_id":85854819,
-            "region_id":85688645,
-            "venue_id":672373887
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +57,21 @@
             "neighbourhood_id":85804923,
             "region_id":85688645,
             "venue_id":672373887
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950453,
+            "neighbourhood_id":85854819,
+            "region_id":85688645,
+            "venue_id":672373887
         }
     ],
     "wof:id":672373887,
-    "wof:lastmodified":1472625651,
+    "wof:lastmodified":1492119537,
     "wof:name":"Bayside Communications Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

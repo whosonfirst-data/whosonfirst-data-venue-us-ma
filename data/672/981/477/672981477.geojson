@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.062378,42.517094,-71.062378,42.517094",
     "geom:latitude":42.517094,
     "geom:longitude":-71.062378,
@@ -33,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891537,
+        85835059,
         102191575,
         404476455,
         85633793,
         85950659,
         102084643,
         85688645,
-        85835059
+        85891537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +49,8 @@
     },
     "wof:country":"US",
     "wof:created":1461731076,
-    "wof:geomhash":"bc24ea750a82d396782d13b844d1b3e6",
+    "wof:geomhash":"19a71575cd32666ae20ba50436455208",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476455,
-            "locality_id":85950659,
-            "neighbourhood_id":85891537,
-            "region_id":85688645,
-            "venue_id":672981477
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -69,12 +60,22 @@
             "neighbourhood_id":85835059,
             "region_id":85688645,
             "venue_id":672981477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476455,
+            "locality_id":85950659,
+            "neighbourhood_id":85891537,
+            "region_id":85688645,
+            "venue_id":672981477
         }
     ],
     "wof:id":672981477,
-    "wof:lastmodified":1472626192,
+    "wof:lastmodified":1492118317,
     "wof:name":"Wakefield Physical Therapy",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

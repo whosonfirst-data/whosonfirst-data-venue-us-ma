@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.854941,42.32702,-71.854941,42.32702",
     "geom:latitude":42.32702,
     "geom:longitude":-71.854941,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oSQR9djBwolEv5gghYeF3_42.327020_-71.854941@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734228,
-    "wof:geomhash":"8941403c2de7c86cd5c5c96f15cee40a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21488fc86ba509d5371a1b2876894cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":673121485
+        }
+    ],
     "wof:id":673121485,
-    "wof:lastmodified":1472625355,
+    "wof:lastmodified":1492104164,
     "wof:name":"Dion, Derryl",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

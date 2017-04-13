@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.858319,42.038182,-71.858319,42.038182",
     "geom:latitude":42.038182,
     "geom:longitude":-71.858319,
@@ -31,19 +32,38 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851473,
+        102191575,
+        404476631,
+        85633793,
+        85950695,
+        102084655,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7loptqintW6vn7ujB7cuVd_42.038182_-71.858319@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719143,
-    "wof:geomhash":"a4231585f3f5e779698b641eb2620c41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa42b2d848bc7182e0682339626f2baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476631,
+            "locality_id":85950695,
+            "neighbourhood_id":85851473,
+            "region_id":85688645,
+            "venue_id":672448697
+        }
+    ],
     "wof:id":672448697,
-    "wof:lastmodified":1472625716,
+    "wof:lastmodified":1492111079,
     "wof:name":"Mier & Mier",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.974903,42.796799,-70.974903,42.796799",
     "geom:latitude":42.796799,
     "geom:longitude":-70.974903,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kAamMrJQEJ819SvmBx8r1_42.796799_-70.974903@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728019,
-    "wof:geomhash":"244913442707b0255b28415340afc1cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72fbfd1a00b98f5c6caf09cc82a158af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672851341
+        }
+    ],
     "wof:id":672851341,
-    "wof:lastmodified":1472626076,
+    "wof:lastmodified":1492119089,
     "wof:name":"Dembowski Bros Const",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

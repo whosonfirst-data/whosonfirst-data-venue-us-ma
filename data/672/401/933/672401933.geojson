@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.118275,41.833556,-71.118275,41.833556",
     "geom:latitude":41.833556,
     "geom:longitude":-71.118275,
@@ -34,19 +35,28 @@
     ],
     "sg:website":"www.binder.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6h3UxyM9mzUNrvLxVavz9V_41.833556_-71.118275@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717920,
-    "wof:geomhash":"3089969746ceeff623d12f51735e2855",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3b221848ea2b43b3b7e4b853d8e8ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523323,
+            "venue_id":672401933
+        }
+    ],
     "wof:id":672401933,
-    "wof:lastmodified":1472625681,
+    "wof:lastmodified":1492109264,
     "wof:name":"Advanced Looseleaf Tech",
-    "wof:parent_id":420523323,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

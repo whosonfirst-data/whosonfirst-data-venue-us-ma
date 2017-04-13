@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.445522,42.451437,-71.445522,42.451437",
     "geom:latitude":42.451437,
     "geom:longitude":-71.445522,
@@ -38,7 +39,9 @@
         85633793,
         85950643,
         102084643,
-        85688645
+        85688645,
+        85837157,
+        85849357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461717307,
-    "wof:geomhash":"8116667d0895ef2220410c1c170c6bda",
+    "wof:geomhash":"a7f6dd71c2df88df5f773d3aa766f47b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,26 @@
             "neighbourhood_id":85891441,
             "region_id":85688645,
             "venue_id":672374435
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85837157,
+            "region_id":85688645,
+            "venue_id":672374435
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85849357,
+            "region_id":85688645,
+            "venue_id":672374435
         }
     ],
     "wof:id":672374435,
-    "wof:lastmodified":1472625645,
+    "wof:lastmodified":1492114604,
     "wof:name":"Michael J Berry Consulting",
-    "wof:parent_id":85891441,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

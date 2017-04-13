@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.718049,42.140984,-70.718049,42.140984",
     "geom:latitude":42.140984,
     "geom:longitude":-70.718049,
@@ -31,17 +32,26 @@
         "cruise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39uXkibDM7Q5bI2r4J6YwI_42.140984_-70.718049@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718666,
-    "wof:geomhash":"6725610333a9ce4d48170c80731b0518",
-    "wof:hierarchy":[],
+    "wof:geomhash":"728b07402184ed56c67ac90602a6cd36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523925,
+            "venue_id":672430865
+        }
+    ],
     "wof:id":672430865,
-    "wof:lastmodified":1472625706,
+    "wof:lastmodified":1492114702,
     "wof:name":"Pilgrim Belle Cruises LLC",
     "wof:parent_id":420523925,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.90448,41.890332,-70.90448,41.890332",
     "geom:latitude":41.890332,
     "geom:longitude":-70.90448,
@@ -33,17 +34,26 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VsQWmnNBywIlaCVB7lZ58_41.890332_-70.904480@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720733,
-    "wof:geomhash":"205f0545812ea320036971ad1b510e34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"758423a742bf653d6515cac72274378b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672515429
+        }
+    ],
     "wof:id":672515429,
-    "wof:lastmodified":1472625777,
+    "wof:lastmodified":1492113950,
     "wof:name":"Middleboro Public Works Hwy",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

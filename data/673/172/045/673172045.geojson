@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.994119,42.726417,-70.994119,42.726417",
     "geom:latitude":42.726417,
     "geom:longitude":-70.994119,
@@ -38,17 +39,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AoX1v89nZ4Af4KzSOpWDg_42.726417_-70.994119@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735268,
-    "wof:geomhash":"8f5ee2b2e2515041f7d80c2c6cef46b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5835e8f87d80a30014f3d37509f08108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673172045
+        }
+    ],
     "wof:id":673172045,
-    "wof:lastmodified":1472625458,
+    "wof:lastmodified":1492102563,
     "wof:name":"Dina's Roast Beef",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

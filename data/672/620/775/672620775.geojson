@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.384561,42.639732,-71.384561,42.639732",
     "geom:latitude":42.639732,
     "geom:longitude":-71.384561,
@@ -31,17 +32,26 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rRjcdmzo17Ge1Im7tFY0W_42.639732_-71.384561@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723081,
-    "wof:geomhash":"f52ea66b394398195fef7535ac95fe2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93d0f7856e17f6a52daf65ea4e9e6b02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672620775
+        }
+    ],
     "wof:id":672620775,
-    "wof:lastmodified":1472625875,
+    "wof:lastmodified":1492115400,
     "wof:name":"A Used Furniture Store",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

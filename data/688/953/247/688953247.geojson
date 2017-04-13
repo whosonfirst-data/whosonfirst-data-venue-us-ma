@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.113642,42.137792,-71.113642,42.137792",
     "geom:latitude":42.137792,
     "geom:longitude":-71.113642,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26ZK1D4s6uQpLK5bl0BHuD_42.137792_-71.113642@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736312,
-    "wof:geomhash":"745e7f0d5fb745a8bb6fd68e67766f5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad8d94f84bbea6ebb5164c601b2d74d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688953247
+        }
+    ],
     "wof:id":688953247,
-    "wof:lastmodified":1472625134,
+    "wof:lastmodified":1492120228,
     "wof:name":"Moon Light Electric",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

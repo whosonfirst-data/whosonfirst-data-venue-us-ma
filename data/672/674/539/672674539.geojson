@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.073545,42.722145,-73.073545,42.722145",
     "geom:latitude":42.722145,
     "geom:longitude":-73.073545,
@@ -36,7 +37,9 @@
         85688645,
         85633793,
         85807509,
-        102084369
+        102084369,
+        85950323,
+        85856443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461724259,
-    "wof:geomhash":"7b00c580a9f99b310ed39639260884aa",
+    "wof:geomhash":"88d49b258202066a253ed59ade04bf0a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +55,20 @@
             "neighbourhood_id":85807509,
             "region_id":85688645,
             "venue_id":672674539
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084369,
+            "locality_id":85950323,
+            "neighbourhood_id":85856443,
+            "region_id":85688645,
+            "venue_id":672674539
         }
     ],
     "wof:id":672674539,
-    "wof:lastmodified":1472625920,
+    "wof:lastmodified":1492108349,
     "wof:name":"Best-Way Car Wash",
-    "wof:parent_id":85807509,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

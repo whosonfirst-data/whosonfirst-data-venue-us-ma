@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.065218,42.456295,-71.065218,42.456295",
     "geom:latitude":42.456295,
     "geom:longitude":-71.065218,
@@ -38,7 +39,10 @@
         85633793,
         85950653,
         102084643,
-        85688645
+        85688645,
+        420523689,
+        404476405,
+        85950345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461718073,
-    "wof:geomhash":"56e0fadb5bac4f05e8459daf057f7e32",
+    "wof:geomhash":"e758547a79c7b5ba1fb7812a4df218f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +61,22 @@
             "neighbourhood_id":85859261,
             "region_id":85688645,
             "venue_id":672406979
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476405,
+            "locality_id":85950345,
+            "neighbourhood_id":420523689,
+            "region_id":85688645,
+            "venue_id":672406979
         }
     ],
     "wof:id":672406979,
-    "wof:lastmodified":1472625683,
+    "wof:lastmodified":1492109874,
     "wof:name":"George J McGovern Tax Service",
-    "wof:parent_id":85859261,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

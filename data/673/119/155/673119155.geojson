@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.978279,42.173119,-71.978279,42.173119",
     "geom:latitude":42.173119,
     "geom:longitude":-71.978279,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71VTq6CGRfBNEGVp2JLfda_42.173119_-71.978279@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734178,
-    "wof:geomhash":"03c59ae46a4d23635a030f8378d0d2c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea37dcbe08d989c8f5241b0182b38493",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524155,
+            "venue_id":673119155
+        }
+    ],
     "wof:id":673119155,
-    "wof:lastmodified":1472625333,
+    "wof:lastmodified":1492104081,
     "wof:name":"Brian Mitchell Excavating",
     "wof:parent_id":420524155,
     "wof:placetype":"venue",

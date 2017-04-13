@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.707167,41.925705,-70.707167,41.925705",
     "geom:latitude":41.925705,
     "geom:longitude":-70.707167,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47RATYRhtF0YJrnMmwBqA7_41.925705_-70.707167@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741167,
-    "wof:geomhash":"c8220d1dfd1f191e6c0efe03542dc0d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a94287e24e9804e3738ac8123052ea64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689159913
+        }
+    ],
     "wof:id":689159913,
-    "wof:lastmodified":1472625531,
+    "wof:lastmodified":1492097583,
     "wof:name":"Interiors",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

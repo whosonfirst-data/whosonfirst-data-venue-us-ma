@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.204915,42.447953,-71.204915,42.447953",
     "geom:latitude":42.447953,
     "geom:longitude":-71.204915,
@@ -39,7 +40,8 @@
         85633793,
         85950637,
         102084643,
-        85688645
+        85688645,
+        85812569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461726526,
-    "wof:geomhash":"7592cfacc873eac2b7d011dd62d8b010",
+    "wof:geomhash":"72267c8ae0aea5e94750edbf58c2f47e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,22 @@
             "neighbourhood_id":85836041,
             "region_id":85688645,
             "venue_id":672777311
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476393,
+            "locality_id":85950637,
+            "neighbourhood_id":85812569,
+            "region_id":85688645,
+            "venue_id":672777311
         }
     ],
     "wof:id":672777311,
-    "wof:lastmodified":1472626011,
+    "wof:lastmodified":1492113346,
     "wof:name":"Clervaux Group",
-    "wof:parent_id":85836041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

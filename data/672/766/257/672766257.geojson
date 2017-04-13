@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.557156,41.825231,-70.557156,41.825231",
     "geom:latitude":41.825231,
     "geom:longitude":-70.557156,
@@ -31,17 +32,26 @@
         "sprinkler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Cf0koWz3kzt4QP9OkXpih_41.825231_-70.557156@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726287,
-    "wof:geomhash":"ff67bf56bd6a606c817a7e923039eea8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81bb830996b95aee04fc2351799e9eed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":672766257
+        }
+    ],
     "wof:id":672766257,
-    "wof:lastmodified":1472625993,
+    "wof:lastmodified":1492115036,
     "wof:name":"Mulligan Homes",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

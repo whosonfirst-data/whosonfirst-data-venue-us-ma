@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.622499,41.621559,-70.622499,41.621559",
     "geom:latitude":41.621559,
     "geom:longitude":-70.622499,
@@ -32,17 +33,26 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43WoUpYwl4SHPRn4CYfT9w_41.621559_-70.622499@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712952,
-    "wof:geomhash":"8d4452aa968e9cf1837f6ecd98482232",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf195db482c2d471e8d612c1aa89f439",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672172297
+        }
+    ],
     "wof:id":672172297,
-    "wof:lastmodified":1472625063,
+    "wof:lastmodified":1492106492,
     "wof:name":"Carlson Audio Visual Inc",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

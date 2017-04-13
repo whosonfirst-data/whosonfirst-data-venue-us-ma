@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.432264,42.24508,-71.432264,42.24508",
     "geom:latitude":42.24508,
     "geom:longitude":-71.432264,
@@ -32,17 +33,26 @@
         "primary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53kLqCC1ofmW5JvQ7RvkhP_42.245080_-71.432264@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724749,
-    "wof:geomhash":"feb84a3920cd39569d71e3c45aac43e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7bda1089612ecd83bb8e0af51b4f02b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672695139
+        }
+    ],
     "wof:id":672695139,
-    "wof:lastmodified":1472625933,
+    "wof:lastmodified":1492118289,
     "wof:name":"MD-Both Industries",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

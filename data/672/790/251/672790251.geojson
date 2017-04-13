@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.892789,41.703546,-70.892789,41.703546",
     "geom:latitude":41.703546,
     "geom:longitude":-70.892789,
@@ -32,17 +33,26 @@
         "oceanographic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WouPznGPQVtFjPjX3i5NO_41.703546_-70.892789@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726793,
-    "wof:geomhash":"922190c79342f54d57aec92dce5609f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e395ba76aa372c25d563f14f88ba244",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672790251
+        }
+    ],
     "wof:id":672790251,
-    "wof:lastmodified":1472626017,
+    "wof:lastmodified":1492119672,
     "wof:name":"Apple Machine & Tool Co",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

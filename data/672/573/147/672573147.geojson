@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.557076,42.663947,-72.557076,42.663947",
     "geom:latitude":42.663947,
     "geom:longitude":-72.557076,
@@ -33,17 +34,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qotweHfVjHk1R1Mp7rshV_42.663947_-72.557076@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721976,
-    "wof:geomhash":"e25f400f7cb0481b1fd3abe72f2e5d16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"034c830c86e6b173fda6cc23f1c4c04a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672573147
+        }
+    ],
     "wof:id":672573147,
-    "wof:lastmodified":1472625808,
+    "wof:lastmodified":1492116958,
     "wof:name":"11 South Street Gallery",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

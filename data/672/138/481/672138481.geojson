@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.876224,42.107078,-70.876224,42.107078",
     "geom:latitude":42.107078,
     "geom:longitude":-70.876224,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IXJ1ppsKtAnpUGL05NALg_42.107078_-70.876224@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712214,
-    "wof:geomhash":"49494d73faa4b870a239b3cae2661bf0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a161d0d928156ad2b285228318493818",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672138481
+        }
+    ],
     "wof:id":672138481,
-    "wof:lastmodified":1472624911,
+    "wof:lastmodified":1492109814,
     "wof:name":"Bell Plumbing & Heating",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.932083,42.230569,-71.932083,42.230569",
     "geom:latitude":42.230569,
     "geom:longitude":-71.932083,
@@ -31,17 +32,26 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JmeW1nFO9RsW1GjAJq4GT_42.230569_-71.932083@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724863,
-    "wof:geomhash":"fb00097a70d68205eda5acd91f935f97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"833205dc0d28de56b00afa9cd49bb73a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":672699971
+        }
+    ],
     "wof:id":672699971,
-    "wof:lastmodified":1472625947,
+    "wof:lastmodified":1492113623,
     "wof:name":"Mine",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

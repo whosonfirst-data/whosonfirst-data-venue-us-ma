@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.907716,41.897935,-70.907716,41.897935",
     "geom:latitude":41.897935,
     "geom:longitude":-70.907716,
@@ -32,17 +33,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29V1gVU4txKIlcqroapVnl_41.897935_-70.907716@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712917,
-    "wof:geomhash":"a707feb16006aabb2bf0340edab90315",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10f4656ef683874594e7fcd96b2a0956",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672170623
+        }
+    ],
     "wof:id":672170623,
-    "wof:lastmodified":1472625081,
+    "wof:lastmodified":1492107583,
     "wof:name":"Northeast Marketing Assoc",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

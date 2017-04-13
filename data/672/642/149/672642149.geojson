@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.819315,42.200855,-71.819315,42.200855",
     "geom:latitude":42.200855,
     "geom:longitude":-71.819315,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"www.wescorparking.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eXiyCdZPyTFj49hg0bLjZ_42.200855_-71.819315@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723546,
-    "wof:geomhash":"9be94a64724d70afe22f08f5d7e8c16e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09d472b9e6aeb5d52847428ad5b119f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672642149
+        }
+    ],
     "wof:id":672642149,
-    "wof:lastmodified":1472625883,
+    "wof:lastmodified":1492118088,
     "wof:name":"Wescor Parking Controls",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

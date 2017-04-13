@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.557325,42.104396,-71.557325,42.104396",
     "geom:latitude":42.104396,
     "geom:longitude":-71.557325,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"US",
     "wof:created":1461726010,
-    "wof:geomhash":"3a6c99a6475e693578a1fc645d55ce96",
+    "wof:geomhash":"4d1795441ccfaaad57eac16557b4731a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672753629
         }
     ],
     "wof:id":672753629,
-    "wof:lastmodified":1472625999,
+    "wof:lastmodified":1492110762,
     "wof:name":"Bark Ark & Meow Too",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

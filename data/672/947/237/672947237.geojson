@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.081268,42.716296,-72.081268,42.716296",
     "geom:latitude":42.716296,
     "geom:longitude":-72.081268,
@@ -31,19 +32,28 @@
         "auctioneer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420526083
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FsT4u0B2LBCNHg8Bht8Nd_42.716296_-72.081268@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730045,
-    "wof:geomhash":"4198d4d64ec8600b40c4d1e23d0694dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2bf24c8ea2d80c7e81852ff259bd5b39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420526083,
+            "venue_id":672947237
+        }
+    ],
     "wof:id":672947237,
-    "wof:lastmodified":1472626154,
+    "wof:lastmodified":1492115153,
     "wof:name":"Johnnys",
-    "wof:parent_id":-1,
+    "wof:parent_id":420526083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

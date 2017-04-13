@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.987258,42.789017,-70.987258,42.789017",
     "geom:latitude":42.789017,
     "geom:longitude":-70.987258,
@@ -32,17 +33,26 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BFRtrW30zIK6JUlLmnyyD_42.789017_-70.987258@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723276,
-    "wof:geomhash":"41af508406ae24a17684468045251053",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e4e319f00ed575e5a0d7448493482c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672629269
+        }
+    ],
     "wof:id":672629269,
-    "wof:lastmodified":1472625874,
+    "wof:lastmodified":1492109990,
     "wof:name":"Travers Excavating",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

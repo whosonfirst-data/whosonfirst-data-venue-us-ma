@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.826476,42.255689,-70.826476,42.255689",
     "geom:latitude":42.255689,
     "geom:longitude":-70.826476,
@@ -31,19 +32,38 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523765,
+        85688645,
+        85806299,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TBX6nxqPmWN7Yxz2wZBTD_42.255689_-70.826476@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720123,
-    "wof:geomhash":"d991d056ad50115aa7bf1ab69ad7397e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"840a6c118735569ca56f564c403670d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523765,
+            "venue_id":672487523
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85806299,
+            "region_id":85688645,
+            "venue_id":672487523
+        }
+    ],
     "wof:id":672487523,
-    "wof:lastmodified":1472625751,
+    "wof:lastmodified":1492112210,
     "wof:name":"Dynamic Solutions",
-    "wof:parent_id":420523765,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

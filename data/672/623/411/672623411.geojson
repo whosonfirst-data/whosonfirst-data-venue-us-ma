@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.528111,42.149809,-72.528111,42.149809",
     "geom:latitude":42.149809,
     "geom:longitude":-72.528111,
@@ -32,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819233,
+        85816813,
         102191575,
-        404476347,
+        404476369,
         85633793,
-        85950397,
+        85950393,
         102084627,
-        85688645
+        85688645,
+        85819233,
+        404476347,
+        85950397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,18 @@
     },
     "wof:country":"US",
     "wof:created":1461723140,
-    "wof:geomhash":"bfc881afcaffd892acf10711b1fcbc38",
+    "wof:geomhash":"503bc07d73b3f7662c6b3142970186b7",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476369,
+            "locality_id":85950393,
+            "neighbourhood_id":85816813,
+            "region_id":85688645,
+            "venue_id":672623411
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +74,9 @@
         }
     ],
     "wof:id":672623411,
-    "wof:lastmodified":1472625873,
+    "wof:lastmodified":1492107794,
     "wof:name":"Cjs Towing",
-    "wof:parent_id":85819233,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

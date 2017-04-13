@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.947808,41.896398,-70.947808,41.896398",
     "geom:latitude":41.896398,
     "geom:longitude":-70.947808,
@@ -28,19 +29,32 @@
     "sg:postcode":"02346",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85854565,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52Ddg8FHCdgKveDSnpwnp8_41.896398_-70.947808@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728556,
-    "wof:geomhash":"3e9f7a268d994e72df2cff65f0e1422a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0c586987d484b7e8280e3d3cb17a5f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85854565,
+            "region_id":85688645,
+            "venue_id":672875935
+        }
+    ],
     "wof:id":672875935,
-    "wof:lastmodified":1472626103,
+    "wof:lastmodified":1492110581,
     "wof:name":"Dave's Diner",
-    "wof:parent_id":-1,
+    "wof:parent_id":85854565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

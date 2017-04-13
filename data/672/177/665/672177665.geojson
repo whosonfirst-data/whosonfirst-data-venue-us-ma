@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.582431,42.507797,-71.582431,42.507797",
     "geom:latitude":42.507797,
     "geom:longitude":-71.582431,
@@ -35,10 +36,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85809037,
-        102084655,
         85950627,
-        85824179
+        102084655,
+        85824179,
+        85809037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461713068,
-    "wof:geomhash":"8a6da109a7c38c9ff7d67e853c862021",
+    "wof:geomhash":"3aa7adbdb0f577c1e82a4ef3abdf0ce1",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85809037,
-            "region_id":85688645,
-            "venue_id":672177665
-        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -62,12 +56,19 @@
             "neighbourhood_id":85824179,
             "region_id":85688645,
             "venue_id":672177665
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85809037,
+            "region_id":85688645,
+            "venue_id":672177665
         }
     ],
     "wof:id":672177665,
-    "wof:lastmodified":1472625100,
+    "wof:lastmodified":1492111360,
     "wof:name":"Active Software",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

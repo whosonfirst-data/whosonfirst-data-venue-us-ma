@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.541133,42.142463,-71.541133,42.142463",
     "geom:latitude":42.142463,
     "geom:longitude":-71.541133,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"US",
     "wof:created":1461728817,
-    "wof:geomhash":"870946a2f335f6150aaa6d5d18581c12",
+    "wof:geomhash":"a42b5f2cdad230f7e17968611e385a05",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672889165
         }
     ],
     "wof:id":672889165,
-    "wof:lastmodified":1472626105,
+    "wof:lastmodified":1492119391,
     "wof:name":"Mass Portering Svc Inc",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

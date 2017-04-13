@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.989221,42.570609,-70.989221,42.570609",
     "geom:latitude":42.570609,
     "geom:longitude":-70.989221,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813495,
+        85808503,
         102191575,
         404476291,
         85633793,
         85950789,
         102084463,
-        85688645
+        85688645,
+        85813495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461725253,
-    "wof:geomhash":"93afba35913a8c9406727f10b2fd721b",
+    "wof:geomhash":"fba3375df030d9627b04386386c1162c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476291,
+            "locality_id":85950789,
+            "neighbourhood_id":85808503,
+            "region_id":85688645,
+            "venue_id":672717885
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672717885,
-    "wof:lastmodified":1472625969,
+    "wof:lastmodified":1492107893,
     "wof:name":"Mayer Horticultural Svc",
-    "wof:parent_id":85813495,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

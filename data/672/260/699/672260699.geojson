@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.951769,41.777852,-70.951769,41.777852",
     "geom:latitude":41.777852,
     "geom:longitude":-70.951769,
@@ -32,17 +33,26 @@
         "weight"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vtero8RNHbUVp9fS6eJlf_41.777852_-70.951769@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714823,
-    "wof:geomhash":"f8c73525dd8596d76f73018238ccd745",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1b13ba572357eddde92e31b08f81ab9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":672260699
+        }
+    ],
     "wof:id":672260699,
-    "wof:lastmodified":1472625354,
+    "wof:lastmodified":1492107160,
     "wof:name":"Herbalife Distributor",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

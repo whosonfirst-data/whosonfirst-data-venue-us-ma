@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.552932,41.821633,-70.552932,41.821633",
     "geom:latitude":41.821633,
     "geom:longitude":-70.552932,
@@ -33,17 +34,26 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mubG1h7GM3eHXFkvXQQOY_41.821633_-70.552932@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713572,
-    "wof:geomhash":"4b6d0488a5a34677d8c556b40e323d1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac9956f2f46c29b12ddf2939254f61ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":672200607
+        }
+    ],
     "wof:id":672200607,
-    "wof:lastmodified":1472625168,
+    "wof:lastmodified":1492108666,
     "wof:name":"Rybar Inc",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

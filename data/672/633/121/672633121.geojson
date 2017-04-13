@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.447993,42.172713,-72.447993,42.172713",
     "geom:latitude":42.172713,
     "geom:longitude":-72.447993,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OQjD6MwEZRjUOQrMI4gF1_42.172713_-72.447993@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723353,
-    "wof:geomhash":"0983365053e14c3a0278118ba100c428",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54dcbf3c0aa12427c103f5c48093bc17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":672633121
+        }
+    ],
     "wof:id":672633121,
-    "wof:lastmodified":1472625874,
+    "wof:lastmodified":1492112478,
     "wof:name":"Robert's Auto Body",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.864907,42.346699,-71.864907,42.346699",
     "geom:latitude":42.346699,
     "geom:longitude":-71.864907,
@@ -32,17 +33,26 @@
         "diet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rcEBx4OSTU5XY6p4n1gs9_42.346699_-71.864907@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728895,
-    "wof:geomhash":"94e4ecd427101929802d787f2dd3549d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3792951b3441f5f17e122f7a9b9db456",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":672893389
+        }
+    ],
     "wof:id":672893389,
-    "wof:lastmodified":1472626111,
+    "wof:lastmodified":1492108122,
     "wof:name":"General Nutrition Ctr",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

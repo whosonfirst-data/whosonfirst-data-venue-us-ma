@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.755508,41.749196,-70.755508,41.749196",
     "geom:latitude":41.749196,
     "geom:longitude":-70.755508,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lE5f8xz8WMUJBiC98D4O0_41.749196_-70.755508@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727483,
-    "wof:geomhash":"3c548080a83abc4ebf7cd75354e98682",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21af6694d9e059a258c1537d52f842d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523897,
+            "venue_id":672824303
+        }
+    ],
     "wof:id":672824303,
-    "wof:lastmodified":1472626055,
+    "wof:lastmodified":1492114361,
     "wof:name":"Blackmore Cranberry Bogs",
     "wof:parent_id":420523897,
     "wof:placetype":"venue",

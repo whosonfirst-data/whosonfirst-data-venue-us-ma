@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.124572,41.854583,-71.124572,41.854583",
     "geom:latitude":41.854583,
     "geom:longitude":-71.124572,
@@ -33,10 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420523323,
         85857191,
         102191575,
         404476147,
-        85633793,
         85950365,
         102084407,
         85688645
@@ -47,8 +49,13 @@
     },
     "wof:country":"US",
     "wof:created":1461725903,
-    "wof:geomhash":"464c2befa96263fae16504b63c772334",
+    "wof:geomhash":"2e1697903169fa2fd13a43e2a10b227c",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523323,
+            "venue_id":672748207
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +68,9 @@
         }
     ],
     "wof:id":672748207,
-    "wof:lastmodified":1472625980,
+    "wof:lastmodified":1492116776,
     "wof:name":"Pets First",
-    "wof:parent_id":85857191,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

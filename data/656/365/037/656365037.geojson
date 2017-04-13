@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.860703,41.908767,-70.860703,41.908767",
     "geom:latitude":41.908767,
     "geom:longitude":-70.860703,
@@ -32,17 +33,26 @@
         "consignment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uFZ2H1nUQXHOxmnfNu1vu_41.908767_-70.860703@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711267,
-    "wof:geomhash":"5b137fa1a37b3c3ff968063c7b2d02cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ac84a6aeefea6bfb3c38ffd213eda0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":656365037
+        }
+    ],
     "wof:id":656365037,
-    "wof:lastmodified":1472624925,
+    "wof:lastmodified":1492101771,
     "wof:name":"Nana's Closet",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

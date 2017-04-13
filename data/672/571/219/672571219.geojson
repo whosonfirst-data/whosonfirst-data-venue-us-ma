@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.814446,42.185534,-71.814446,42.185534",
     "geom:latitude":42.185534,
     "geom:longitude":-71.814446,
@@ -33,17 +34,26 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4v1FYed3aT4mtikRQ3rkVA_42.185534_-71.814446@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721938,
-    "wof:geomhash":"57527e091224bf634a1c3365454a5c02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"107d243b2e593a6c8fe106601ff96fd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672571219
+        }
+    ],
     "wof:id":672571219,
-    "wof:lastmodified":1472625806,
+    "wof:lastmodified":1492116941,
     "wof:name":"National Manufacturing Supply",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

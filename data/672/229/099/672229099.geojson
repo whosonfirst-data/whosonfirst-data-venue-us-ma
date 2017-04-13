@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.99759,42.24681,-70.99759,42.24681",
     "geom:latitude":42.24681,
     "geom:longitude":-70.99759,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843511,
+        85833881,
         102191575,
         404476591,
         85633793,
         85950429,
         102084403,
-        85688645
+        85688645,
+        85843511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461714161,
-    "wof:geomhash":"4f6edfc3d62a8790b71888870627fc82",
+    "wof:geomhash":"e0fb90becc91ef970c01c7607379e6dc",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476591,
+            "locality_id":85950429,
+            "neighbourhood_id":85833881,
+            "region_id":85688645,
+            "venue_id":672229099
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672229099,
-    "wof:lastmodified":1472625263,
+    "wof:lastmodified":1492110306,
     "wof:name":"Domenic N Angelini DDS",
-    "wof:parent_id":85843511,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.622773,41.618539,-70.622773,41.618539",
     "geom:latitude":41.618539,
     "geom:longitude":-70.622773,
@@ -31,17 +32,26 @@
         "project"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fqVDPlQojXYr13MUl5vhF_41.618539_-70.622773@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717505,
-    "wof:geomhash":"abe4bccbd39e5e6dff16c27080b4efcf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33d03b83f0441d51000d8765c29ffef7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672383857
+        }
+    ],
     "wof:id":672383857,
-    "wof:lastmodified":1472625660,
+    "wof:lastmodified":1492112241,
     "wof:name":"K Konstruction",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

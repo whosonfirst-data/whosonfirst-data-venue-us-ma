@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.892394,42.220504,-71.892394,42.220504",
     "geom:latitude":42.220504,
     "geom:longitude":-71.892394,
@@ -46,17 +47,26 @@
         "kitchen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vDTV6AbsttakL4THwSyBs_42.220504_-71.892394@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734236,
-    "wof:geomhash":"4dd9a40131f15e56424f545169d3d383",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8ca54532eac3571935a729149762a0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":673121953
+        }
+    ],
     "wof:id":673121953,
-    "wof:lastmodified":1472625381,
+    "wof:lastmodified":1492104167,
     "wof:name":"A B Aloia Kitchens",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

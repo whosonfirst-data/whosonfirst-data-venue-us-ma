@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.941644,41.600172,-70.941644,41.600172",
     "geom:latitude":41.600172,
     "geom:longitude":-70.941644,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85844119,
+        102084407,
         85806427,
         102191575,
         404476131,
-        85633793,
-        85950367,
-        102084407,
-        85688645
+        85950367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461715431,
-    "wof:geomhash":"a1de28cda503aa47f5c8dca0d5dfc19b",
+    "wof:geomhash":"af732b1b9f83af2b9bb896496df1e2e2",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85844119,
+            "region_id":85688645,
+            "venue_id":672291389
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +66,9 @@
         }
     ],
     "wof:id":672291389,
-    "wof:lastmodified":1472625480,
+    "wof:lastmodified":1492112910,
     "wof:name":"Tangles Hairdesign",
-    "wof:parent_id":85806427,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

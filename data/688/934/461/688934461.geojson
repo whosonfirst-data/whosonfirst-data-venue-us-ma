@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.475963,42.097693,-71.475963,42.097693",
     "geom:latitude":42.097693,
     "geom:longitude":-71.475963,
@@ -31,17 +32,34 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476423,
+        85633793,
+        85950815,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SfFHj7THlnJJ9wUWhwCso_42.097693_-71.475963@1303262197"
     },
     "wof:country":"US",
     "wof:created":1461735935,
-    "wof:geomhash":"ab1a90bbab00c84d7ec32c0bbdcf4493",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a00128fe806f379f216582bff47080f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476423,
+            "locality_id":85950815,
+            "region_id":85688645,
+            "venue_id":688934461
+        }
+    ],
     "wof:id":688934461,
-    "wof:lastmodified":1472625024,
+    "wof:lastmodified":1492120529,
     "wof:name":"Harbinger Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

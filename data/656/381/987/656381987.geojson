@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.283238,42.113665,-71.283238,42.113665",
     "geom:latitude":42.113665,
     "geom:longitude":-71.283238,
@@ -32,17 +33,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AyUh7wrwa0SgpP1YEH3tr_42.113665_-71.283238@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711624,
-    "wof:geomhash":"db77b4cafb76a72f7f930f45aba5102c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"573ae5c2e7f086b362469700cac42e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":656381987
+        }
+    ],
     "wof:id":656381987,
-    "wof:lastmodified":1472625023,
+    "wof:lastmodified":1492102301,
     "wof:name":"Applied Resources",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

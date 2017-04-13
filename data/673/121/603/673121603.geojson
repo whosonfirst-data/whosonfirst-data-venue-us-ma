@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.855011,42.34581,-71.855011,42.34581",
     "geom:latitude":42.34581,
     "geom:longitude":-71.855011,
@@ -43,17 +44,26 @@
         "contact"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DQv4qH7utPsyD52UUsiXV_42.345810_-71.855011@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734229,
-    "wof:geomhash":"740e174144e0abbcba396f58c88ab9e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e65d1ad45a9090696f2e59228d620843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":673121603
+        }
+    ],
     "wof:id":673121603,
-    "wof:lastmodified":1472625364,
+    "wof:lastmodified":1492104174,
     "wof:name":"Lawton's Optical World",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

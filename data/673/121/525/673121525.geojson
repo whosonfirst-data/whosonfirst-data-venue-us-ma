@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.867455,42.339607,-71.867455,42.339607",
     "geom:latitude":42.339607,
     "geom:longitude":-71.867455,
@@ -41,17 +42,26 @@
     ],
     "sg:website":"http://www.holdenchapel.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72LWne7O8qII821eOm17M5_42.339607_-71.867455@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734228,
-    "wof:geomhash":"9e49c4182e76de5fa1a5a09bc39f1e77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91fd7b88d1b5029bafd8be870aa9b823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":673121525
+        }
+    ],
     "wof:id":673121525,
-    "wof:lastmodified":1472625357,
+    "wof:lastmodified":1492104166,
     "wof:name":"Holden Christian Academy",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

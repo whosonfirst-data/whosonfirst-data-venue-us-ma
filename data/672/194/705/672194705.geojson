@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.467644,42.259696,-71.467644,42.259696",
     "geom:latitude":42.259696,
     "geom:longitude":-71.467644,
@@ -32,19 +33,38 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85811595,
+        102191575,
+        404476489,
+        85633793,
+        85950629,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4w1DG9iS9EckM2t6bMwGQj_42.259696_-71.467644@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713437,
-    "wof:geomhash":"a4dd8026ba6628d4b036ad59c2ee8b01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c302e2e1f05789634f89ddca7be02c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476489,
+            "locality_id":85950629,
+            "neighbourhood_id":85811595,
+            "region_id":85688645,
+            "venue_id":672194705
+        }
+    ],
     "wof:id":672194705,
-    "wof:lastmodified":1472625161,
+    "wof:lastmodified":1492114841,
     "wof:name":"Rick Brown Automotive",
-    "wof:parent_id":-1,
+    "wof:parent_id":85811595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

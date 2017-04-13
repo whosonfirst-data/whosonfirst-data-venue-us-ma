@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.337903,42.061061,-73.337903,42.061061",
     "geom:latitude":42.061061,
     "geom:longitude":-73.337903,
@@ -31,19 +32,28 @@
         "hardwood"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gT2Mf47suqAW8a7wIXile_42.061061_-73.337903@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724875,
-    "wof:geomhash":"c195673af7a788fe749d21250b4b5569",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6e204224ba4d76269a8f5be64ed0e9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555577,
+            "venue_id":672700539
+        }
+    ],
     "wof:id":672700539,
-    "wof:lastmodified":1472625944,
+    "wof:lastmodified":1492109167,
     "wof:name":"Berkshire Products",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555577,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

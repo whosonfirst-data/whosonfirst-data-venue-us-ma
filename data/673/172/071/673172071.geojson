@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.957298,42.7188,-70.957298,42.7188",
     "geom:latitude":42.7188,
     "geom:longitude":-70.957298,
@@ -33,8 +34,9 @@
     "sg:website":"www.stilian.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523475,
+        85688645,
         85845839,
         102084463
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461735269,
-    "wof:geomhash":"51d2d70d00525339129bbf45f51be0b3",
+    "wof:geomhash":"ee66edcd06b3bbc9e9b3f1527a13aa6f",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673172071
+        },
         {
             "country_id":85633793,
             "county_id":102084463,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":673172071,
-    "wof:lastmodified":1472625459,
+    "wof:lastmodified":1492102569,
     "wof:name":"Stilian Electric Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

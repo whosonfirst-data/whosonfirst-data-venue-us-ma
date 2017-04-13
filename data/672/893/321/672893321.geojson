@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.907894,42.079232,-71.907894,42.079232",
     "geom:latitude":42.079232,
     "geom:longitude":-71.907894,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Km82Usaie87Y6FMhGYIdL_42.079232_-71.907894@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728894,
-    "wof:geomhash":"795ad2262c4f6cf606671a5b9e20df1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4baa6653cbc55941cd338b75faa513f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":672893321
+        }
+    ],
     "wof:id":672893321,
-    "wof:lastmodified":1472626111,
+    "wof:lastmodified":1492108111,
     "wof:name":"Pierpond Meadow Cottage",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

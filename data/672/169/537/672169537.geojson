@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.270281,42.136362,-71.270281,42.136362",
     "geom:latitude":42.136362,
     "geom:longitude":-71.270281,
@@ -32,17 +33,26 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7K1LlETE4uGql8lX3UOBtl_42.136362_-71.270281@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712894,
-    "wof:geomhash":"5986b2c0ad3ed7ef62b867166eb00aed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0913886276cd5be67939e7c55ed45bea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672169537
+        }
+    ],
     "wof:id":672169537,
-    "wof:lastmodified":1472625056,
+    "wof:lastmodified":1492107408,
     "wof:name":"Independent Pool Svc Inc",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

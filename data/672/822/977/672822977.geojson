@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.628666,42.361456,-72.628666,42.361456",
     "geom:latitude":42.361456,
     "geom:longitude":-72.628666,
@@ -39,7 +40,8 @@
         85633793,
         85950433,
         102084459,
-        85688645
+        85688645,
+        85807007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461727455,
-    "wof:geomhash":"d854c3ae8fdaac909e872915f98b3a5b",
+    "wof:geomhash":"04f357dabe7fe3aba92c430a817f8a4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,19 @@
             "neighbourhood_id":85837609,
             "region_id":85688645,
             "venue_id":672822977
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084459,
+            "neighbourhood_id":85807007,
+            "region_id":85688645,
+            "venue_id":672822977
         }
     ],
     "wof:id":672822977,
-    "wof:lastmodified":1472626064,
+    "wof:lastmodified":1492105968,
     "wof:name":"Brock's Electric Svc",
-    "wof:parent_id":85837609,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

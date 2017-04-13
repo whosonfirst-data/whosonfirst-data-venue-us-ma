@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.50729,42.421298,-72.50729,42.421298",
     "geom:latitude":42.421298,
     "geom:longitude":-72.50729,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NgpqdlyMMFECqG3k3fXwY_42.421298_-72.507290@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718214,
-    "wof:geomhash":"6ab186fde3f33cd48cd7911cec689ec3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4be85faec107f8e52f33efcc702b821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523639,
+            "venue_id":672411929
+        }
+    ],
     "wof:id":672411929,
-    "wof:lastmodified":1472625686,
+    "wof:lastmodified":1492117466,
     "wof:name":"Clark Painting Nat",
     "wof:parent_id":420523639,
     "wof:placetype":"venue",

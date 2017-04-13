@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.444632,42.264508,-72.444632,42.264508",
     "geom:latitude":42.264508,
     "geom:longitude":-72.444632,
@@ -31,17 +32,26 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38UVH88wyZ535O4kFssat7_42.264508_-72.444632@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719659,
-    "wof:geomhash":"08ab40a5a87ccf95fbcf60d27d43ab91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62c186b46aafa6bfec8ac6cd0636c2fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672468535
+        }
+    ],
     "wof:id":672468535,
-    "wof:lastmodified":1472625732,
+    "wof:lastmodified":1492116072,
     "wof:name":"Willow Creek Software",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.997601,42.726619,-70.997601,42.726619",
     "geom:latitude":42.726619,
     "geom:longitude":-70.997601,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Lj6GCINLeQHdt6FYC1F1j_42.726619_-70.997601@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721200,
-    "wof:geomhash":"31cc91e924b940c5539b4291c6a5a60a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51c8b6edb1f0a11f8e8063682920604a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672536931
+        }
+    ],
     "wof:id":672536931,
-    "wof:lastmodified":1472625795,
+    "wof:lastmodified":1492118848,
     "wof:name":"Glenview Studios",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

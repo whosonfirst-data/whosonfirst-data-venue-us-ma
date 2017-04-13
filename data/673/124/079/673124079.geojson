@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.898717,42.199848,-71.898717,42.199848",
     "geom:latitude":42.199848,
     "geom:longitude":-71.898717,
@@ -33,17 +34,26 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cnpkc6Iqb70I2I1FpYCL5_42.199848_-71.898717@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734271,
-    "wof:geomhash":"245b8cfd135d7466626b6cba2c385c56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55bd1ae99ebc162ac2bef5a5424e1a2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":673124079
+        }
+    ],
     "wof:id":673124079,
-    "wof:lastmodified":1472625334,
+    "wof:lastmodified":1492103992,
     "wof:name":"Leicester Nursing",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

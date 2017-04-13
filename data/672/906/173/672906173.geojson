@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.795971,41.907967,-70.795971,41.907967",
     "geom:latitude":41.907967,
     "geom:longitude":-70.795971,
@@ -31,17 +32,26 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dMEzTAySLAFpnhhIxaZj9_41.907967_-70.795971@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729152,
-    "wof:geomhash":"a85fc3b265fff50be917efca9ab94e38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9f01d90907e6521fb0a42b68cdb94ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672906173
+        }
+    ],
     "wof:id":672906173,
-    "wof:lastmodified":1472626120,
+    "wof:lastmodified":1492108104,
     "wof:name":"Steven W Mac Donald",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.747198,41.927725,-70.747198,41.927725",
     "geom:latitude":41.927725,
     "geom:longitude":-70.747198,
@@ -31,17 +32,26 @@
         "ready"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uymf9vw1T4KD1qxRl6sET_41.927725_-70.747198@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712943,
-    "wof:geomhash":"92a90176daa4cdf87d6461da3e64e12b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ce4e766d1d6f5d8c5086d5ce00a5d84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523889,
+            "venue_id":672171855
+        }
+    ],
     "wof:id":672171855,
-    "wof:lastmodified":1472625096,
+    "wof:lastmodified":1492111866,
     "wof:name":"Lakeville Redi-Mix Inc",
     "wof:parent_id":420523889,
     "wof:placetype":"venue",

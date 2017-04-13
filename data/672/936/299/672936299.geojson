@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.747855,41.927536,-70.747855,41.927536",
     "geom:latitude":41.927536,
     "geom:longitude":-70.747855,
@@ -31,19 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523889,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04lmZ3VAFMmk7hTdGCdmHF_41.927536_-70.747855@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729781,
-    "wof:geomhash":"2c0d39a5792f0ec4b905c5480467b8f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2815aee8bbfa15c23a74f5cf053c142f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523889,
+            "venue_id":672936299
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672936299
+        }
+    ],
     "wof:id":672936299,
-    "wof:lastmodified":1472626149,
+    "wof:lastmodified":1492106808,
     "wof:name":"Temple Christ Messiah",
-    "wof:parent_id":420523889,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.853043,41.651718,-70.853043,41.651718",
     "geom:latitude":41.651718,
     "geom:longitude":-70.853043,
@@ -33,17 +34,26 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1S2Q4cAABBx5obRHq9Q8OP_41.651718_-70.853043@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742359,
-    "wof:geomhash":"981ca8d2b99d414828115ba0eb5252df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46e58906c3adf133423651e26293bb04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":689214767
+        }
+    ],
     "wof:id":689214767,
-    "wof:lastmodified":1472625624,
+    "wof:lastmodified":1492097492,
     "wof:name":"Southcoast Carpet Cleaning",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

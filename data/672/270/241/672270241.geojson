@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.871676,42.166599,-70.871676,42.166599",
     "geom:latitude":42.166599,
     "geom:longitude":-70.871676,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85830437,
-        102084367
+        102084367,
+        85868753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461715007,
-    "wof:geomhash":"cc8ffce38b58017bda796e13f5cfe7dc",
+    "wof:geomhash":"cfafc18f32e4a872666ab92152c66df3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,19 @@
             "neighbourhood_id":85830437,
             "region_id":85688645,
             "venue_id":672270241
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85868753,
+            "region_id":85688645,
+            "venue_id":672270241
         }
     ],
     "wof:id":672270241,
-    "wof:lastmodified":1472625408,
+    "wof:lastmodified":1492112504,
     "wof:name":"Walk-In Closet Self Storage",
-    "wof:parent_id":85830437,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

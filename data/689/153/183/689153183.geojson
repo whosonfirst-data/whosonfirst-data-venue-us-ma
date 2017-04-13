@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.8022,41.916599,-70.8022,41.916599",
     "geom:latitude":41.916599,
     "geom:longitude":-70.8022,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JWTcpuFjLJX3VHhF2eyRC_41.916599_-70.802200@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741011,
-    "wof:geomhash":"60f2e14e3f3f92f5dacd13e6a5cf98c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f329b9933ed1ded0812188f08a5db26c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689153183
+        }
+    ],
     "wof:id":689153183,
-    "wof:lastmodified":1472625493,
+    "wof:lastmodified":1492097478,
     "wof:name":"Cranberry Crossing Nursery School",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

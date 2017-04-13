@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.933694,41.679947,-70.933694,41.679947",
     "geom:latitude":41.679947,
     "geom:longitude":-70.933694,
@@ -29,14 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885319,
+        85835615,
         102191575,
         404476131,
         85633793,
         85950367,
         102084407,
         85688645,
-        85835615
+        85885319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +45,8 @@
     },
     "wof:country":"US",
     "wof:created":1461711128,
-    "wof:geomhash":"f56baeb2b264260676022c096c7ef8fb",
+    "wof:geomhash":"b7cd785b9a1dae2350318684fa42f20f",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476131,
-            "locality_id":85950367,
-            "neighbourhood_id":85885319,
-            "region_id":85688645,
-            "venue_id":656358299
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +56,22 @@
             "neighbourhood_id":85835615,
             "region_id":85688645,
             "venue_id":656358299
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476131,
+            "locality_id":85950367,
+            "neighbourhood_id":85885319,
+            "region_id":85688645,
+            "venue_id":656358299
         }
     ],
     "wof:id":656358299,
-    "wof:lastmodified":1472624929,
+    "wof:lastmodified":1492101794,
     "wof:name":"Cumberland Farms",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

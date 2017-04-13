@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.715202,41.924198,-70.715202,41.924198",
     "geom:latitude":41.924198,
     "geom:longitude":-70.715202,
@@ -36,17 +37,26 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5829nIOeEIcZDWH9B2VsSZ_41.924198_-70.715202@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741137,
-    "wof:geomhash":"a1af06604e65e5f75b5a268de3b2ae9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7fc74eb66caed631676b3497c6cf5bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689158353
+        }
+    ],
     "wof:id":689158353,
-    "wof:lastmodified":1472625507,
+    "wof:lastmodified":1492099863,
     "wof:name":"Kidsport Learning Center",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

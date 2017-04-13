@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.704867,41.924695,-70.704867,41.924695",
     "geom:latitude":41.924695,
     "geom:longitude":-70.704867,
@@ -32,17 +33,26 @@
         "fabricating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gzsmao1S8UImXWJlqUBXw_41.924695_-70.704867@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718273,
-    "wof:geomhash":"1fe9486f23c00dcd9af43c9509f65780",
-    "wof:hierarchy":[],
+    "wof:geomhash":"409feb91edeaa12a62a976c3e1403b5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672414007
+        }
+    ],
     "wof:id":672414007,
-    "wof:lastmodified":1472625674,
+    "wof:lastmodified":1492108936,
     "wof:name":"Assembly Required",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

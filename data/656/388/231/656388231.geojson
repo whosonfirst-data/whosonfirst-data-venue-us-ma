@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.843889,42.341769,-71.843889,42.341769",
     "geom:latitude":42.341769,
     "geom:longitude":-71.843889,
@@ -31,17 +32,26 @@
         "yarn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V2h8jd8jej6xPIjSXSnGh_42.341769_-71.843889@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711767,
-    "wof:geomhash":"d837f55fe444e7bfdfc2791daddbdffd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9c34e654b50d503722331641367c2da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":656388231
+        }
+    ],
     "wof:id":656388231,
-    "wof:lastmodified":1472625016,
+    "wof:lastmodified":1492102267,
     "wof:name":"Sheep Shack",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

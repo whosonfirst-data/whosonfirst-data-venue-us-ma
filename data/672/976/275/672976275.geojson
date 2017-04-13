@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.929152,42.098395,-71.929152,42.098395",
     "geom:latitude":42.098395,
     "geom:longitude":-71.929152,
@@ -32,17 +33,26 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524095
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PoFPq2VEsK1L65BrwkyAt_42.098395_-71.929152@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730947,
-    "wof:geomhash":"b2676c02f0af9b777451134fa3d82c21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0ac10bb95b6fdffe39d2fc47906a06f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524095,
+            "venue_id":672976275
+        }
+    ],
     "wof:id":672976275,
-    "wof:lastmodified":1472626183,
+    "wof:lastmodified":1492112847,
     "wof:name":"Native Landscaping",
     "wof:parent_id":420524095,
     "wof:placetype":"venue",

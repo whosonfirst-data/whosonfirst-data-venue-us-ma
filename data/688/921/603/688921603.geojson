@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.988547,42.696449,-70.988547,42.696449",
     "geom:latitude":42.696449,
     "geom:longitude":-70.988547,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2p4f4UIb7fByrzgYs5fMhh_42.696449_-70.988547@1303262195"
     },
     "wof:country":"US",
     "wof:created":1461735686,
-    "wof:geomhash":"cb52e0da87f883b6ad19287cb85fa20e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"839b285733ca1f0f0d73cdd8aa8a5077",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":688921603
+        }
+    ],
     "wof:id":688921603,
-    "wof:lastmodified":1472624955,
+    "wof:lastmodified":1492120648,
     "wof:name":"Georgetown Family Medicine",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.822799,42.249918,-71.822799,42.249918",
     "geom:latitude":42.249918,
     "geom:longitude":-71.822799,
@@ -28,19 +29,49 @@
     "sg:postcode":"01610",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85881855,
+        102191575,
+        404476639,
+        85633793,
+        85950375,
+        102084655,
+        85688645,
+        85850233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PrjPb2TOI4gibsCJcgygS_42.249918_-71.822799@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720705,
-    "wof:geomhash":"3b8b673c19bb12f909234d1d32ebd266",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0fd9041e8a69e1fcbeb93ed8a916888b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85881855,
+            "region_id":85688645,
+            "venue_id":672513971
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85850233,
+            "region_id":85688645,
+            "venue_id":672513971
+        }
+    ],
     "wof:id":672513971,
-    "wof:lastmodified":1472625790,
+    "wof:lastmodified":1492115854,
     "wof:name":"Mac Shawson Insurance Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

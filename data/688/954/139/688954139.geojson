@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.11641,42.134012,-71.11641,42.134012",
     "geom:latitude":42.134012,
     "geom:longitude":-71.11641,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DAndnCax8MkmaURwoAez4_42.134012_-71.116410@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736329,
-    "wof:geomhash":"d19228edcd02741b3410e6335f5639f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ed1fbe45d784c4163e5efe1cb721ab9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688954139
+        }
+    ],
     "wof:id":688954139,
-    "wof:lastmodified":1472625130,
+    "wof:lastmodified":1492120868,
     "wof:name":"Scott Laforge Professional Painting",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

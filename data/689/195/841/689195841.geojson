@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.433386,41.717044,-70.433386,41.717044",
     "geom:latitude":41.717044,
     "geom:longitude":-70.433386,
@@ -29,17 +30,26 @@
     "sg:province":"MA",
     "sg:website":"www.leedsarchitects.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gDvGmhX8S842vxgoOHJRX_41.717044_-70.433386@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741959,
-    "wof:geomhash":"1453732e98a79b42aa51684875f34c7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89180b08c04d1a997cbbd380e739704e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523225,
+            "venue_id":689195841
+        }
+    ],
     "wof:id":689195841,
-    "wof:lastmodified":1472625607,
+    "wof:lastmodified":1492100295,
     "wof:name":"Leeds Architects",
     "wof:parent_id":420523225,
     "wof:placetype":"venue",

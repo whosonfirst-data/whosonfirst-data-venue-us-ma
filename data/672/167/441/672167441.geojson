@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.304143,42.066712,-73.304143,42.066712",
     "geom:latitude":42.066712,
     "geom:longitude":-73.304143,
@@ -31,17 +32,26 @@
         "feed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wHpENAeVygXStcVNLwTee_42.066712_-73.304143@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712849,
-    "wof:geomhash":"d4ee6bd51a255590f69b14fd428e7915",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8106764b19046b5d0f48e215168ff638",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672167441
+        }
+    ],
     "wof:id":672167441,
-    "wof:lastmodified":1472625020,
+    "wof:lastmodified":1492106425,
     "wof:name":"J E Hotaling Feed & Svc",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

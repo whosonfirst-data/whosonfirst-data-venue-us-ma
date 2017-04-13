@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.987439,42.112815,-71.987439,42.112815",
     "geom:latitude":42.112815,
     "geom:longitude":-71.987439,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wRH1YR6oToBdggHEIyJHW_42.112815_-71.987439@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713295,
-    "wof:geomhash":"801af7780dc738263fb2194a8011a4b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db841f351e08efa66cf3fa0f4da45983",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":672188155
+        }
+    ],
     "wof:id":672188155,
-    "wof:lastmodified":1472625124,
+    "wof:lastmodified":1492105795,
     "wof:name":"Fine Line Paint Systems",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

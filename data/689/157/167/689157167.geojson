@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.778855,42.071285,-70.778855,42.071285",
     "geom:latitude":42.071285,
     "geom:longitude":-70.778855,
@@ -33,17 +34,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4R7TVtxj2UI7PGglxPuwTh_42.071285_-70.778855@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741115,
-    "wof:geomhash":"ee2bed6b1a4187e16f8db07c73dc87db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bfa361690a081792f9955df69d5ab4ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":689157167
+        }
+    ],
     "wof:id":689157167,
-    "wof:lastmodified":1472625505,
+    "wof:lastmodified":1492099691,
     "wof:name":"New England Shorelines Companies Inc",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

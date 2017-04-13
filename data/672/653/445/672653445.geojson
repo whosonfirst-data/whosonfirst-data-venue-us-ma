@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.610064,42.312286,-71.610064,42.312286",
     "geom:latitude":42.312286,
     "geom:longitude":-71.610064,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476671,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Kbu0ds0QfcecFVBTLOQ4M_42.312286_-71.610064@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723788,
-    "wof:geomhash":"7d76498a64eab8da2438ec8c8f020079",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4b8046ee5f052eada33b1f6a22b5822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476671,
+            "region_id":85688645,
+            "venue_id":672653445
+        }
+    ],
     "wof:id":672653445,
-    "wof:lastmodified":1472625901,
+    "wof:lastmodified":1492113519,
     "wof:name":"Parcel Direct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

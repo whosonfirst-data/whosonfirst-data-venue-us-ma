@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.045511,42.685011,-72.045511,42.685011",
     "geom:latitude":42.685011,
     "geom:longitude":-72.045511,
@@ -33,17 +34,26 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jNz68Y419gwsCwHG8BpeT_42.685011_-72.045511@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720977,
-    "wof:geomhash":"cd1082f02ae0dea2ea18e10f423ceeae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0d11f589da3e1305f36982817d6137d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":672526617
+        }
+    ],
     "wof:id":672526617,
-    "wof:lastmodified":1472625789,
+    "wof:lastmodified":1492116850,
     "wof:name":"Shen Dragon Karate",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

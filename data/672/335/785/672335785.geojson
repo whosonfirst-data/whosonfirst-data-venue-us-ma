@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.884636,42.21499,-70.884636,42.21499",
     "geom:latitude":42.21499,
     "geom:longitude":-70.884636,
@@ -32,17 +33,26 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Orbqg51Zw9d3eh32oodXb_42.214990_-70.884636@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716359,
-    "wof:geomhash":"2724f71524ac7ab442ca4dae0ee6fd2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a68c6c1d1f96343b9c73bd41705e83e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523905,
+            "venue_id":672335785
+        }
+    ],
     "wof:id":672335785,
-    "wof:lastmodified":1472625582,
+    "wof:lastmodified":1492110567,
     "wof:name":"Quest Software Inc",
     "wof:parent_id":420523905,
     "wof:placetype":"venue",

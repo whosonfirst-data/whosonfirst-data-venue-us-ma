@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.910562,41.892985,-70.910562,41.892985",
     "geom:latitude":41.892985,
     "geom:longitude":-70.910562,
@@ -31,17 +32,26 @@
         "doughnut"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gDY6nYbww5SAFy7TpcApj_41.892985_-70.910562@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711105,
-    "wof:geomhash":"aca6f3d925e3b76e45e1577d833853b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4092c660d48cdc22540b61a1a312d1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":656357293
+        }
+    ],
     "wof:id":656357293,
-    "wof:lastmodified":1472624916,
+    "wof:lastmodified":1492102328,
     "wof:name":"Honey Dew Middleboro",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

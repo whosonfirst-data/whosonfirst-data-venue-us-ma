@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.39132,42.035493,-73.39132,42.035493",
     "geom:latitude":42.035493,
     "geom:longitude":-73.39132,
@@ -31,17 +32,26 @@
         "motion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cJVMidHgxOZfsnGIfKVy0_42.035493_-73.391320@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719044,
-    "wof:geomhash":"32b18b13138ca8a4ea9b1654a42327fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa5de5432058493d5240ae5f12549174",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555577,
+            "venue_id":672444867
+        }
+    ],
     "wof:id":672444867,
-    "wof:lastmodified":1472625714,
+    "wof:lastmodified":1492108580,
     "wof:name":"HMS Productions",
     "wof:parent_id":420555577,
     "wof:placetype":"venue",

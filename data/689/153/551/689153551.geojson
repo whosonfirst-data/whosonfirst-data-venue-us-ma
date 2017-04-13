@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.698608,42.029282,-70.698608,42.029282",
     "geom:latitude":42.029282,
     "geom:longitude":-70.698608,
@@ -35,17 +36,26 @@
         "supplies-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7P7Dk1agRueyPZtnROLMO1_42.029282_-70.698608@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741024,
-    "wof:geomhash":"305ead84e26a75c791e3b7ec2f0270af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cf68fc5646ebc7e606957ca824cbce3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523827,
+            "venue_id":689153551
+        }
+    ],
     "wof:id":689153551,
-    "wof:lastmodified":1472625509,
+    "wof:lastmodified":1492097482,
     "wof:name":"Klm Logistics",
     "wof:parent_id":420523827,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.790185,41.903099,-70.790185,41.903099",
     "geom:latitude":41.903099,
     "geom:longitude":-70.790185,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KKN7Y4GpDd84TGepr5VKN_41.903099_-70.790185@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717463,
-    "wof:geomhash":"6bd4b9c1a52888b391772b3b3f5072c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88ca1eeb709f5bdb7251bfa56e735f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672381991
+        }
+    ],
     "wof:id":672381991,
-    "wof:lastmodified":1472625660,
+    "wof:lastmodified":1492119183,
     "wof:name":"West Light Development Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

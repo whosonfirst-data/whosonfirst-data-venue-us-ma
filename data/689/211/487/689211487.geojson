@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.354341,41.888691,-71.354341,41.888691",
     "geom:latitude":41.888691,
     "geom:longitude":-71.354341,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"www.homedepot.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688509,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xmTsh0zGtqXH8aMvjenaB_41.888691_-71.354341@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742286,
-    "wof:geomhash":"b8522da2ca3d3ddc71ac97800f3ea985",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11c5d8d8c71f3474ddf07011c087c08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "region_id":85688509,
+            "venue_id":689211487
+        }
+    ],
     "wof:id":689211487,
-    "wof:lastmodified":1472625605,
+    "wof:lastmodified":1492097102,
     "wof:name":"Home Depot Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

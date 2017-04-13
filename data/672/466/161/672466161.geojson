@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.347357,42.093067,-73.347357,42.093067",
     "geom:latitude":42.093067,
     "geom:longitude":-73.347357,
@@ -31,17 +32,26 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6adxyMu5jchZJrZz0zb6dX_42.093067_-73.347357@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719590,
-    "wof:geomhash":"a48d353fbaeca1889788aaa1bb44d862",
-    "wof:hierarchy":[],
+    "wof:geomhash":"148a83e51cd21ac6d018460f36202364",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672466161
+        }
+    ],
     "wof:id":672466161,
-    "wof:lastmodified":1472625727,
+    "wof:lastmodified":1492113917,
     "wof:name":"Ole T J's Antique Barn",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

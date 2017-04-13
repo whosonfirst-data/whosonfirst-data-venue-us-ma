@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.12932,41.632723,-71.12932,41.632723",
     "geom:latitude":41.632723,
     "geom:longitude":-71.12932,
@@ -32,19 +33,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SSrBGw5kC8xSs1sEsEuY8_41.632723_-71.129320@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728702,
-    "wof:geomhash":"fd35144a775be0e9d2b7538296f49548",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e44df4d83ac4d5175fa7862b4384df0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":672883679
+        }
+    ],
     "wof:id":672883679,
-    "wof:lastmodified":1472626107,
+    "wof:lastmodified":1492110341,
     "wof:name":"Hampl Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.957633,42.500775,-70.957633,42.500775",
     "geom:latitude":42.500775,
     "geom:longitude":-70.957633,
@@ -39,7 +40,10 @@
         85633793,
         85950413,
         102084463,
-        85688645
+        85688645,
+        85849939,
+        404476253,
+        85950407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461719033,
-    "wof:geomhash":"6706891e789da232c94e083e83a58fe9",
+    "wof:geomhash":"411cf184d25594199252247d8b591346",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +62,22 @@
             "neighbourhood_id":85859245,
             "region_id":85688645,
             "venue_id":672444545
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476253,
+            "locality_id":85950407,
+            "neighbourhood_id":85849939,
+            "region_id":85688645,
+            "venue_id":672444545
         }
     ],
     "wof:id":672444545,
-    "wof:lastmodified":1472625712,
+    "wof:lastmodified":1492108579,
     "wof:name":"Royal Construction Inc",
-    "wof:parent_id":85859245,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

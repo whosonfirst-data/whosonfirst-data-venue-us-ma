@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.084122,41.66082,-71.084122,41.66082",
     "geom:latitude":41.66082,
     "geom:longitude":-71.084122,
@@ -34,17 +35,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69qexYPeKYVXlKIJ6nv5wn_41.660773_-71.084680@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733147,
-    "wof:geomhash":"d307e48fd2281e0270c561205bbc042a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"362f15f3a45d4780cde0d8f32420b588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":673070225
+        }
+    ],
     "wof:id":673070225,
-    "wof:lastmodified":1472625158,
+    "wof:lastmodified":1492105035,
     "wof:name":"Southcoast Modular Homes",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

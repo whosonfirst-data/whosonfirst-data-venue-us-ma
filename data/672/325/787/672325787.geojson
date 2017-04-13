@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.778789,41.894791,-70.778789,41.894791",
     "geom:latitude":41.894791,
     "geom:longitude":-70.778789,
@@ -31,17 +32,26 @@
         "arbitration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HV8ylkk63lA7Z1daG01f4_41.894791_-70.778789@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716145,
-    "wof:geomhash":"c6ae1150a2cf983ae067e6991442afed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59d1c5ff44cff45a22b14e891b11f9b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":672325787
+        }
+    ],
     "wof:id":672325787,
-    "wof:lastmodified":1472625572,
+    "wof:lastmodified":1492112673,
     "wof:name":"Neutral Grounds Visitation",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

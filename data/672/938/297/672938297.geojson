@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.22811,41.681667,-70.22811,41.681667",
     "geom:latitude":41.681667,
     "geom:longitude":-70.22811,
@@ -33,17 +34,26 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pleE7Fh6Dg1JbBU27EvYW_41.681667_-70.228110@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729823,
-    "wof:geomhash":"a1473b6b0a198803486bee00f58638ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fefafe4e274a8445a499524f2943df0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672938297
+        }
+    ],
     "wof:id":672938297,
-    "wof:lastmodified":1472626148,
+    "wof:lastmodified":1492106177,
     "wof:name":"Yarmouth Highway Dept",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

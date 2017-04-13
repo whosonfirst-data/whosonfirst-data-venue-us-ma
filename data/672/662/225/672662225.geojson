@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.138392,42.137991,-71.138392,42.137991",
     "geom:latitude":42.137991,
     "geom:longitude":-71.138392,
@@ -32,17 +33,26 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nfH2rfjDYu1bft7TQSdcG_42.137991_-71.138392@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723998,
-    "wof:geomhash":"a05c8e764abd70da43c69c3bf20de164",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0de86289cdaa7ef7cd01da8983c1920",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672662225
+        }
+    ],
     "wof:id":672662225,
-    "wof:lastmodified":1472625901,
+    "wof:lastmodified":1492114585,
     "wof:name":"Wag On Wheels",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

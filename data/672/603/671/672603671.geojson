@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.394063,42.599353,-72.394063,42.599353",
     "geom:latitude":42.599353,
     "geom:longitude":-72.394063,
@@ -31,17 +32,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j3T5vpWKy4HH85tZj4uVH_42.599353_-72.394063@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722685,
-    "wof:geomhash":"253dad2edefccc29a7c2fd2794335453",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81e5db82cc9b2eea17b38db319afb0b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523501,
+            "venue_id":672603671
+        }
+    ],
     "wof:id":672603671,
-    "wof:lastmodified":1472625859,
+    "wof:lastmodified":1492117883,
     "wof:name":"Erving Industries Inc",
     "wof:parent_id":420523501,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.640603,42.341341,-72.640603,42.341341",
     "geom:latitude":42.341341,
     "geom:longitude":-72.640603,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841755,
+        85837609,
         102191575,
         404476303,
         85633793,
         85950433,
         102084459,
-        85688645
+        85688645,
+        85841755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461732031,
-    "wof:geomhash":"08055727fd32ea7d8ad9bf852e1eceb4",
+    "wof:geomhash":"ca61626af414060558faa0f02766dd61",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084459,
+            "localadmin_id":404476303,
+            "locality_id":85950433,
+            "neighbourhood_id":85837609,
+            "region_id":85688645,
+            "venue_id":673019049
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":673019049,
-    "wof:lastmodified":1472624983,
+    "wof:lastmodified":1492102980,
     "wof:name":"Fashion Bug",
-    "wof:parent_id":85841755,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

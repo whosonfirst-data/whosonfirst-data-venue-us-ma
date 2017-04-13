@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.066274,42.022347,-71.066274,42.022347",
     "geom:latitude":42.022347,
     "geom:longitude":-71.066274,
@@ -28,19 +29,28 @@
     "sg:postcode":"02375",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HRoCfWo1eoxvDFUukGXbh_42.022347_-71.066274@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728859,
-    "wof:geomhash":"006fe362232aa34b39fe201259f4f76b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"472f9d865d9393ba61048c12a2102d5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523987,
+            "venue_id":672891659
+        }
+    ],
     "wof:id":672891659,
-    "wof:lastmodified":1472626115,
+    "wof:lastmodified":1492107428,
     "wof:name":"T & M Realty & Development",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

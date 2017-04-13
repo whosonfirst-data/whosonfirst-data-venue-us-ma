@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.431438,42.245094,-71.431438,42.245094",
     "geom:latitude":42.245094,
     "geom:longitude":-71.431438,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gzQufhrhURHWOPZ27ReW2_42.245094_-71.431438@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723473,
-    "wof:geomhash":"2af4f7c9d73e03cebdb8d19bb66b62c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78292fa5e4aac8164ed30e04d844f2be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672638565
+        }
+    ],
     "wof:id":672638565,
-    "wof:lastmodified":1472625889,
+    "wof:lastmodified":1492114556,
     "wof:name":"Alberini BR",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

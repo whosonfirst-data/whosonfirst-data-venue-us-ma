@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.913519,42.216285,-71.913519,42.216285",
     "geom:latitude":42.216285,
     "geom:longitude":-71.913519,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zf316rXzQ6p0SIcnuu7UQ_42.216285_-71.913519@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726781,
-    "wof:geomhash":"0a8bc5033a02427b5aaef9518c44705b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b4da5c444a9a8fab6deef15fca3aff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":672789643
+        }
+    ],
     "wof:id":672789643,
-    "wof:lastmodified":1472626026,
+    "wof:lastmodified":1492108002,
     "wof:name":"St Judes Hall",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

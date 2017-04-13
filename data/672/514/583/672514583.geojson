@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.919692,41.625038,-70.919692,41.625038",
     "geom:latitude":41.625038,
     "geom:longitude":-70.919692,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85823881,
+        102084407,
         85806427,
         102191575,
         404476131,
-        85633793,
-        85950367,
-        102084407,
-        85688645
+        85950367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,15 @@
     },
     "wof:country":"US",
     "wof:created":1461720717,
-    "wof:geomhash":"309a7fb2e493fd01a9e99404d633484e",
+    "wof:geomhash":"7ecc6b1fdb16988e5d33e1ac873ef093",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85823881,
+            "region_id":85688645,
+            "venue_id":672514583
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +70,9 @@
         }
     ],
     "wof:id":672514583,
-    "wof:lastmodified":1472625768,
+    "wof:lastmodified":1492116542,
     "wof:name":"Marine Enterprises",
-    "wof:parent_id":85806427,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

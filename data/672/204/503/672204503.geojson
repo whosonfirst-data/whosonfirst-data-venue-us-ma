@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.938966,42.059432,-70.938966,42.059432",
     "geom:latitude":42.059432,
     "geom:longitude":-70.938966,
@@ -31,17 +32,26 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vo4RYp50zDkJ4Soq4SaIh_42.059432_-70.938966@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713668,
-    "wof:geomhash":"88b10fcc936fd35c620b897b575deea0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"985f184c5faf07ee0e392860275a57dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523881,
+            "venue_id":672204503
+        }
+    ],
     "wof:id":672204503,
-    "wof:lastmodified":1472625202,
+    "wof:lastmodified":1492108770,
     "wof:name":"Affordable Limousine Svc",
     "wof:parent_id":420523881,
     "wof:placetype":"venue",

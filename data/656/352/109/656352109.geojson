@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.859499,42.349553,-71.859499,42.349553",
     "geom:latitude":42.349553,
     "geom:longitude":-71.859499,
@@ -31,17 +32,26 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Etll4M0G3Ir1FIXYQFAGm_42.349553_-71.859499@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711005,
-    "wof:geomhash":"be915ab35c20baa06ff42cb7a300772a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d37a131e17fd57d809c41d0efa7eea6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":656352109
+        }
+    ],
     "wof:id":656352109,
-    "wof:lastmodified":1472624903,
+    "wof:lastmodified":1492102245,
     "wof:name":"White & Brite Cleaners & Shoe",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

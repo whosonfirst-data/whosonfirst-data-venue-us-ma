@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.114602,42.129581,-71.114602,42.129581",
     "geom:latitude":42.129581,
     "geom:longitude":-71.114602,
@@ -33,17 +34,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WZENipkUfKw7Tcpag4ZMW_42.129581_-71.114602@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721856,
-    "wof:geomhash":"a3f91f4343a0ac83c54d3f76373eec79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55555a7d7f96893348e519020c1a249d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672567175
+        }
+    ],
     "wof:id":672567175,
-    "wof:lastmodified":1472625810,
+    "wof:lastmodified":1492118222,
     "wof:name":"Mass Irrigation Inc",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

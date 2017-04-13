@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.801712,41.880535,-70.801712,41.880535",
     "geom:latitude":41.880535,
     "geom:longitude":-70.801712,
@@ -31,17 +32,26 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xp9klSpcU8F7Z9ndMF3pf_41.880535_-70.801712@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721500,
-    "wof:geomhash":"691c39b2a4045a79d2d6babe3e6ac268",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99a55b91a101410904214e974af6780a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672552059
+        }
+    ],
     "wof:id":672552059,
-    "wof:lastmodified":1472625800,
+    "wof:lastmodified":1492114429,
     "wof:name":"Quality Carpentry",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

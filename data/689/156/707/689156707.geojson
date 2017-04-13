@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.969636,42.090063,-70.969636,42.090063",
     "geom:latitude":42.090063,
     "geom:longitude":-70.969636,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85855157,
+        102191575,
+        404476503,
         85633793,
-        85950439,
+        85950319,
         102084367,
-        85855157
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461741104,
-    "wof:geomhash":"2df1912acfe1d48d3006e17aaae38e1f",
+    "wof:geomhash":"ff9bf816ff3616ce43073fc36be80a57",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084367,
-            "locality_id":85950439,
+            "localadmin_id":404476503,
+            "locality_id":85950319,
             "neighbourhood_id":85855157,
             "region_id":85688645,
             "venue_id":689156707
         }
     ],
     "wof:id":689156707,
-    "wof:lastmodified":1472625514,
+    "wof:lastmodified":1492099219,
     "wof:name":"Twin Delivery",
     "wof:parent_id":85855157,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.609299,41.646,-70.609299,41.646",
     "geom:latitude":41.646,
     "geom:longitude":-70.609299,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dqgFhad2RyeSjXVGWaBS9_41.646000_-70.609299@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741938,
-    "wof:geomhash":"7fd25f32ae184b2d7c36ff510df488bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5793c20d55a58d147edb3552ada36c90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":689194799
+        }
+    ],
     "wof:id":689194799,
-    "wof:lastmodified":1472625599,
+    "wof:lastmodified":1492099897,
     "wof:name":"Nahigian Robt Electrn",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.774684,42.056771,-70.774684,42.056771",
     "geom:latitude":42.056771,
     "geom:longitude":-70.774684,
@@ -32,17 +33,26 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wnMv5w1mMiHTo4LJlPNdS_42.056771_-70.774684@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729420,
-    "wof:geomhash":"6b0d7c4bcc653cb941ac9b5963ff1814",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80fce9a141e86501456b830fb2fc6350",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523963,
+            "venue_id":672919465
+        }
+    ],
     "wof:id":672919465,
-    "wof:lastmodified":1472626133,
+    "wof:lastmodified":1492108163,
     "wof:name":"Hobby Knoll Stable Inc",
     "wof:parent_id":420523963,
     "wof:placetype":"venue",

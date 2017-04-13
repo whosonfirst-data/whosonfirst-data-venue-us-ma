@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.850188,41.940312,-70.850188,41.940312",
     "geom:latitude":41.940312,
     "geom:longitude":-70.850188,
@@ -32,17 +33,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HhV1kWb523gNO5nLEXqHw_41.940312_-70.850188@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741058,
-    "wof:geomhash":"1a77923da1dd157a4bf18399888775b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edeb1a9368a0e0d49317e2e97b06c529",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523907,
+            "venue_id":689155231
+        }
+    ],
     "wof:id":689155231,
-    "wof:lastmodified":1472625496,
+    "wof:lastmodified":1492100398,
     "wof:name":"David Fitch",
     "wof:parent_id":420523907,
     "wof:placetype":"venue",

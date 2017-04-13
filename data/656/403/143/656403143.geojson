@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.005313,42.723589,-71.005313,42.723589",
     "geom:latitude":42.723589,
     "geom:longitude":-71.005313,
@@ -31,17 +32,26 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g1dB74Pzue2z7mfDpVTqG_42.723589_-71.005313@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712071,
-    "wof:geomhash":"3b29910a4e01e77f8c0afa7cf828c331",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5867b3432aa028984a11aa9c536e31b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":656403143
+        }
+    ],
     "wof:id":656403143,
-    "wof:lastmodified":1472625059,
+    "wof:lastmodified":1492101665,
     "wof:name":"Coldworkscom LLC",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

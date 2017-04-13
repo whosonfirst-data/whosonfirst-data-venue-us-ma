@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.657139,42.16841,-71.657139,42.16841",
     "geom:latitude":42.16841,
     "geom:longitude":-71.657139,
@@ -32,19 +33,38 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524115,
+        85688645,
+        85819001,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yIXOGFJ5waAlLsOlfOXA5_42.168410_-71.657139@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729328,
-    "wof:geomhash":"91efe1b12fbe2926b7ed7b239431b66a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9dca762dbecbc38304df8b93a3b24f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524115,
+            "venue_id":672914361
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85819001,
+            "region_id":85688645,
+            "venue_id":672914361
+        }
+    ],
     "wof:id":672914361,
-    "wof:lastmodified":1472626126,
+    "wof:lastmodified":1492114787,
     "wof:name":"Laurel Hill Landscaping Inc",
-    "wof:parent_id":420524115,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

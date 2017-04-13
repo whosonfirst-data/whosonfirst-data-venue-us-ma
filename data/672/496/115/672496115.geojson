@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.871125,42.468942,-72.871125,42.468942",
     "geom:latitude":42.468942,
     "geom:longitude":-72.871125,
@@ -31,17 +32,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o5hAuQrBsjpcfEKf9hkS4_42.468942_-72.871125@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720322,
-    "wof:geomhash":"a4c5c82df882318832d0c27dc9e234ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c16dafd405d1eec7e094954efa0f248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523653,
+            "venue_id":672496115
+        }
+    ],
     "wof:id":672496115,
-    "wof:lastmodified":1472625750,
+    "wof:lastmodified":1492109594,
     "wof:name":"Riverside Auto Slvge",
     "wof:parent_id":420523653,
     "wof:placetype":"venue",

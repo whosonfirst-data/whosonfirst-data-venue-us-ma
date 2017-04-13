@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.378297,42.232623,-72.378297,42.232623",
     "geom:latitude":42.232623,
     "geom:longitude":-72.378297,
@@ -25,17 +26,26 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_701d0WytY3y2eueUAq53tn_42.232623_-72.378297@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461733257,
-    "wof:geomhash":"d36e6cb560f6365eb4e3f5df3cec2d78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c52d7703ca631c83e5a778d99c0df1ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":673075775
+        }
+    ],
     "wof:id":673075775,
-    "wof:lastmodified":1472625194,
+    "wof:lastmodified":1492104202,
     "wof:name":"Bay State-Arrow Gas",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

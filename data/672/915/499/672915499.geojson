@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.535472,41.892846,-70.535472,41.892846",
     "geom:latitude":41.892846,
     "geom:longitude":-70.535472,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85832137,
-        102084367
+        102084367,
+        420523997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461729347,
-    "wof:geomhash":"3c1a87102fc632490e4968b877cc2f5e",
+    "wof:geomhash":"de5a727382ca5b2fa71e87323b652e1d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,17 @@
             "neighbourhood_id":85832137,
             "region_id":85688645,
             "venue_id":672915499
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523997,
+            "venue_id":672915499
         }
     ],
     "wof:id":672915499,
-    "wof:lastmodified":1472626126,
+    "wof:lastmodified":1492117206,
     "wof:name":"Netsys Connect",
-    "wof:parent_id":85832137,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

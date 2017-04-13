@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.012614,42.589863,-71.012614,42.589863",
     "geom:latitude":42.589863,
     "geom:longitude":-71.012614,
@@ -28,19 +29,32 @@
     "sg:postcode":"01949",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85826363,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1me4skYNMNfgvC84WAOeM6_42.589863_-71.012614@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722653,
-    "wof:geomhash":"704e18fc35a7d8fe99067bb3bef9939e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84d81f5f07266ea0a919289359372ae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85826363,
+            "region_id":85688645,
+            "venue_id":672602341
+        }
+    ],
     "wof:id":672602341,
-    "wof:lastmodified":1472625852,
+    "wof:lastmodified":1492119707,
     "wof:name":"Middleton Chiropractic & Injry",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826363,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

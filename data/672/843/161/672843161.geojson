@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.374752,42.337903,-71.374752,42.337903",
     "geom:latitude":42.337903,
     "geom:longitude":-71.374752,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85852407,
-        102084643
+        85816825,
+        102084643,
+        85852407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461727858,
-    "wof:geomhash":"5d34b29aa3240485929a290f7f93dba2",
+    "wof:geomhash":"d6429cf753d278852f8b7edc32c8f510",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85816825,
+            "region_id":85688645,
+            "venue_id":672843161
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":672843161,
-    "wof:lastmodified":1472626065,
+    "wof:lastmodified":1492106646,
     "wof:name":"Creator Learning Environments",
-    "wof:parent_id":85852407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

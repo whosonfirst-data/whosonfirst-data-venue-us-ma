@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.024422,42.46207,-71.024422,42.46207",
     "geom:latitude":42.46207,
     "geom:longitude":-71.024422,
@@ -29,17 +30,34 @@
     "sg:province":"MA",
     "sg:website":"http://www.autohouseusa.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476265,
+        85633793,
+        85950809,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12OTjBosgeLqYEMtgMiYrb_42.462070_-71.024422@1303262195"
     },
     "wof:country":"US",
     "wof:created":1461735615,
-    "wof:geomhash":"60ff8f3c26b71782239f7cb238e02436",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc1265466b86f43ace54de0c1a8dd2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476265,
+            "locality_id":85950809,
+            "region_id":85688645,
+            "venue_id":688917883
+        }
+    ],
     "wof:id":688917883,
-    "wof:lastmodified":1472624971,
+    "wof:lastmodified":1492120088,
     "wof:name":"Auto House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

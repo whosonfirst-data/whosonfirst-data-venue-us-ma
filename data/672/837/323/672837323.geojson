@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.160845,42.034594,-71.160845,42.034594",
     "geom:latitude":42.034594,
     "geom:longitude":-71.160845,
@@ -32,17 +33,26 @@
         "court"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0j9TPx5oGKqgMs1aJGozEF_42.034594_-71.160845@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727740,
-    "wof:geomhash":"111447daa14b8beb9de0fa5c2667fc8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"108484901f605c152cf09b7d70667341",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523367,
+            "venue_id":672837323
+        }
+    ],
     "wof:id":672837323,
-    "wof:lastmodified":1472626062,
+    "wof:lastmodified":1492112264,
     "wof:name":"Easton Swim & Tennis Club",
     "wof:parent_id":420523367,
     "wof:placetype":"venue",

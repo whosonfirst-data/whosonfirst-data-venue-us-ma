@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.719835,41.928544,-70.719835,41.928544",
     "geom:latitude":41.928544,
     "geom:longitude":-70.719835,
@@ -32,17 +33,26 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iFtPMMzP9J2XEHxOq6PsZ_41.928544_-70.719835@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725641,
-    "wof:geomhash":"448d71aa6ab28bca478f868a3482b5ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efc087973e22842f3acdbdc7c6c4aff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672736045
+        }
+    ],
     "wof:id":672736045,
-    "wof:lastmodified":1472625967,
+    "wof:lastmodified":1492108827,
     "wof:name":"Phoenix Realty Management Tr",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

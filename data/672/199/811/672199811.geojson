@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.585363,41.580051,-70.585363,41.580051",
     "geom:latitude":41.580051,
     "geom:longitude":-70.585363,
@@ -34,13 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85950553,
+        102084379,
+        85818889,
         85802351,
         102191575,
         404476181,
-        85633793,
-        85950545,
-        102084379,
-        85688645
+        85950545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +51,16 @@
     },
     "wof:country":"US",
     "wof:created":1461713558,
-    "wof:geomhash":"c53210cf24c6c70c28021e6a2b7d501c",
+    "wof:geomhash":"e6787e8aa4d62dcd045a8997c39791fc",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084379,
+            "locality_id":85950553,
+            "neighbourhood_id":85818889,
+            "region_id":85688645,
+            "venue_id":672199811
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,9 +73,9 @@
         }
     ],
     "wof:id":672199811,
-    "wof:lastmodified":1472625196,
+    "wof:lastmodified":1492119326,
     "wof:name":"Heaven's Best Carpet Cleaning",
-    "wof:parent_id":85802351,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

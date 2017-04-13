@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.585533,42.162576,-71.585533,42.162576",
     "geom:latitude":42.162576,
     "geom:longitude":-71.585533,
@@ -31,17 +32,32 @@
         "classic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476081,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ezi3Pcx9rURkGMeLpdMzn_42.162576_-71.585533@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713734,
-    "wof:geomhash":"76789d7ce59d1eac7e92daf85e852c98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9fcf087f9007ab212f56903530fae94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476081,
+            "region_id":85688645,
+            "venue_id":672208287
+        }
+    ],
     "wof:id":672208287,
-    "wof:lastmodified":1472625206,
+    "wof:lastmodified":1492109240,
     "wof:name":"New England Classic Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

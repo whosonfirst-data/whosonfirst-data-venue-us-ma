@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.957279,42.717544,-70.957279,42.717544",
     "geom:latitude":42.717544,
     "geom:longitude":-70.957279,
@@ -33,8 +34,9 @@
     "sg:website":"www.longviewapartments.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523475,
+        85688645,
         85845839,
         102084463
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461735264,
-    "wof:geomhash":"bc4d7b4ca6baddc233e2dd2cdbdbd31e",
+    "wof:geomhash":"d46c89c1fa966ac5d5955dbab9db32ef",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673171835
+        },
         {
             "country_id":85633793,
             "county_id":102084463,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":673171835,
-    "wof:lastmodified":1472625478,
+    "wof:lastmodified":1492103721,
     "wof:name":"Longview At Georgetown",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.083607,41.653402,-71.083607,41.653402",
     "geom:latitude":41.653402,
     "geom:longitude":-71.083607,
@@ -28,19 +29,44 @@
     "sg:postcode":"02790",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285,
+        420523305,
+        102191575,
+        404476149,
+        85950677,
+        102084407,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22YTC0z9xiADcHaOaJmAI4_41.653402_-71.083607@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721948,
-    "wof:geomhash":"f56c4677138ce005d88ebf75c0a286bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27827be21b36f6132c577d7dd8254a14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672571769
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476149,
+            "locality_id":85950677,
+            "neighbourhood_id":420523305,
+            "region_id":85688645,
+            "venue_id":672571769
+        }
+    ],
     "wof:id":672571769,
-    "wof:lastmodified":1472625836,
+    "wof:lastmodified":1492116935,
     "wof:name":"Alice A Macomber Elementary",
-    "wof:parent_id":420523285,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

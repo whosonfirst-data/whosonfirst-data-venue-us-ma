@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.380607,42.636423,-71.380607,42.636423",
     "geom:latitude":42.636423,
     "geom:longitude":-71.380607,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CadJJgs2K4nmN4QDdVCFw_42.636423_-71.380607@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719383,
-    "wof:geomhash":"40aba4951ebf0322ffc9b7f795c6e47a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1c112501cbc02c93204bbea938faaea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672457773
+        }
+    ],
     "wof:id":672457773,
-    "wof:lastmodified":1472625725,
+    "wof:lastmodified":1492108354,
     "wof:name":"Crafters Shop",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.886981,41.940086,-70.886981,41.940086",
     "geom:latitude":41.940086,
     "geom:longitude":-70.886981,
@@ -34,17 +35,26 @@
         "grower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09DvPbj6HMkglkYq26io9C_41.940086_-70.886981@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741063,
-    "wof:geomhash":"255e18d66608d8232df5b6f6da8f7ef6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8725fa7e94b76a127020535b145c27c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523895,
+            "venue_id":689155499
+        }
+    ],
     "wof:id":689155499,
-    "wof:lastmodified":1472625505,
+    "wof:lastmodified":1492100395,
     "wof:name":"Gates Cranberry Co",
     "wof:parent_id":420523895,
     "wof:placetype":"venue",

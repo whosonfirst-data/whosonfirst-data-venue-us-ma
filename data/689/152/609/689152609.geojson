@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.998716,41.987276,-70.998716,41.987276",
     "geom:latitude":41.987276,
     "geom:longitude":-70.998716,
@@ -34,17 +35,26 @@
         "damage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AQwVOYFyKxTT2XKpskLBE_41.987276_-70.998716@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740995,
-    "wof:geomhash":"7be880de61d032cd6773fac25d241c20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d001ee21fece15949dcd58703a3526a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":689152609
+        }
+    ],
     "wof:id":689152609,
-    "wof:lastmodified":1472625508,
+    "wof:lastmodified":1492101004,
     "wof:name":"Highlander Restoration And Developing",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

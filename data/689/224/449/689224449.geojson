@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.084618,41.66544,-71.084618,41.66544",
     "geom:latitude":41.66544,
     "geom:longitude":-71.084618,
@@ -32,17 +33,26 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52qGmjMJzmaaqxb1inIjow_41.665440_-71.084618@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742582,
-    "wof:geomhash":"5614be707c716111eddf1d9c8abf0d94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b58c0e3857d1d0dffd3c6e4cc3f103a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":689224449
+        }
+    ],
     "wof:id":689224449,
-    "wof:lastmodified":1472625623,
+    "wof:lastmodified":1492097824,
     "wof:name":"Steves Lawn Service",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.01123,42.492109,-72.01123,42.492109",
     "geom:latitude":42.492109,
     "geom:longitude":-72.01123,
@@ -32,17 +33,26 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524165
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p82MV825XJK1vc2IDyBue_42.492109_-72.011230@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725053,
-    "wof:geomhash":"443d694dd7047d50d82f44e4d26c4054",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dca1c8e036bb79eb908c1f9bbf002706",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524165,
+            "venue_id":672708675
+        }
+    ],
     "wof:id":672708675,
-    "wof:lastmodified":1472625955,
+    "wof:lastmodified":1492107069,
     "wof:name":"Tack Box",
     "wof:parent_id":420524165,
     "wof:placetype":"venue",

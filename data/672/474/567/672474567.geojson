@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.879262,42.042789,-70.879262,42.042789",
     "geom:latitude":42.042789,
     "geom:longitude":-70.879262,
@@ -32,17 +33,26 @@
         "gunsmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0osDlwuKURiMLp3tqDpkd1_42.042789_-70.879262@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719802,
-    "wof:geomhash":"d793ab4082582590c9f2687462b93314",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58ed20423e43260e3ce45c873a340c0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523849,
+            "venue_id":672474567
+        }
+    ],
     "wof:id":672474567,
-    "wof:lastmodified":1472625736,
+    "wof:lastmodified":1492117685,
     "wof:name":"MASSFIREARMS.COM",
     "wof:parent_id":420523849,
     "wof:placetype":"venue",

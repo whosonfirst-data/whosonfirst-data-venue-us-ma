@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.9636,42.7659,-70.9636,42.7659",
     "geom:latitude":42.7659,
     "geom:longitude":-70.9636,
@@ -31,17 +32,26 @@
         "pet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sGeKjXKH2IjOCQqyPn9Us_42.765900_-70.963600@1303262197"
     },
     "wof:country":"US",
     "wof:created":1461735929,
-    "wof:geomhash":"054eef76b13d70bda32b1d6446a2d2ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6716fb49512291d7ccfa350e2142628",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":688934131
+        }
+    ],
     "wof:id":688934131,
-    "wof:lastmodified":1472625005,
+    "wof:lastmodified":1492120525,
     "wof:name":"Orcutt Chip Horse Shoeing",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

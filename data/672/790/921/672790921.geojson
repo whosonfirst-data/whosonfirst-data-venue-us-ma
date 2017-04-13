@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.804217,41.988182,-70.804217,41.988182",
     "geom:latitude":41.988182,
     "geom:longitude":-70.804217,
@@ -31,17 +32,26 @@
         "sharpening"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5S7xRICqnxqz5yagwkhMQ8_41.988182_-70.804217@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726807,
-    "wof:geomhash":"0d745a29bacf8ee106a65187a6b7bd6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"166e3db3b13ef5fb9b9a9c9fe36b905a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672790921
+        }
+    ],
     "wof:id":672790921,
-    "wof:lastmodified":1472626033,
+    "wof:lastmodified":1492119683,
     "wof:name":"Re Sharp Svc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

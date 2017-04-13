@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.009736,41.958881,-71.009736,41.958881",
     "geom:latitude":41.958881,
     "geom:longitude":-71.009736,
@@ -32,17 +33,26 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Nm65LkSBQVUNdtnUUFmqJ_41.958881_-71.009736@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717752,
-    "wof:geomhash":"f2630b7b2ddfdd7592f7afb67a28a74a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5f0e78cc26eaf2910b1ed725b70dcf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672394601
+        }
+    ],
     "wof:id":672394601,
-    "wof:lastmodified":1472625662,
+    "wof:lastmodified":1492109548,
     "wof:name":"Dundee Printing",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

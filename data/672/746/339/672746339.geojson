@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.771463,41.890632,-70.771463,41.890632",
     "geom:latitude":41.890632,
     "geom:longitude":-70.771463,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MW5nzuYMFabTvNRyQwjxf_41.890632_-70.771463@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725865,
-    "wof:geomhash":"822fc3a2e14a0f21fc59a7466656322c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"486e848c71bcf21f20457e7d725f1590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":672746339
+        }
+    ],
     "wof:id":672746339,
-    "wof:lastmodified":1472625984,
+    "wof:lastmodified":1492109641,
     "wof:name":"D & E Auto Repair",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

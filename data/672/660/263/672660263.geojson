@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.768286,41.991017,-70.768286,41.991017",
     "geom:latitude":41.991017,
     "geom:longitude":-70.768286,
@@ -31,17 +32,26 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YeU8k009BIbpwGUBi6Ljv_41.991017_-70.768286@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723946,
-    "wof:geomhash":"c434a2915d2e46545405397180e28385",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a36bc69c21b9b3a9d2575def8347c5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672660263
+        }
+    ],
     "wof:id":672660263,
-    "wof:lastmodified":1472625901,
+    "wof:lastmodified":1492119515,
     "wof:name":"Roger Correira",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

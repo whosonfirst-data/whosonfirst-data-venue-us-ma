@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.757364,42.075502,-70.757364,42.075502",
     "geom:latitude":42.075502,
     "geom:longitude":-70.757364,
@@ -32,17 +33,26 @@
         "financing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SrNtlSFbTZTchISJgj4p2_42.075502_-70.757364@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741025,
-    "wof:geomhash":"bbdf19363f0221fac429de8ecd563432",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e0952a3c5b816146dc95fa3b57152b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523933,
+            "venue_id":689153627
+        }
+    ],
     "wof:id":689153627,
-    "wof:lastmodified":1472625508,
+    "wof:lastmodified":1492097469,
     "wof:name":"Vps Dbs",
     "wof:parent_id":420523933,
     "wof:placetype":"venue",

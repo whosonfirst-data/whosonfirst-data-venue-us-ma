@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.538743,42.219389,-71.538743,42.219389",
     "geom:latitude":42.219389,
     "geom:longitude":-71.538743,
@@ -32,17 +33,34 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476493,
+        85633793,
+        85950633,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43vBY8h0saCrhuxj6cwrqo_42.219389_-71.538743@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720475,
-    "wof:geomhash":"fa48af8fa36c1b78f92a02083af3d912",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aae7180cc6bfcfc90ccc688def7abe6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476493,
+            "locality_id":85950633,
+            "region_id":85688645,
+            "venue_id":672503461
+        }
+    ],
     "wof:id":672503461,
-    "wof:lastmodified":1472625765,
+    "wof:lastmodified":1492108885,
     "wof:name":"MASH Mobile Animal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

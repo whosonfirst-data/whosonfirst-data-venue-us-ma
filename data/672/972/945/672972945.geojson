@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.098221,42.13469,-71.098221,42.13469",
     "geom:latitude":42.13469,
     "geom:longitude":-71.098221,
@@ -33,17 +34,26 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_487Ae3ofXZgjHgOslmx09B_42.134690_-71.098221@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730845,
-    "wof:geomhash":"09b9f18f074d6a65dfac7e81c04a4755",
-    "wof:hierarchy":[],
+    "wof:geomhash":"531dbe995a01d34ec5820b8c55525ff6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672972945
+        }
+    ],
     "wof:id":672972945,
-    "wof:lastmodified":1472626186,
+    "wof:lastmodified":1492112928,
     "wof:name":"Stoughton Public Works Dept",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

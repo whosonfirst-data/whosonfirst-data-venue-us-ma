@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.124444,42.137834,-71.124444,42.137834",
     "geom:latitude":42.137834,
     "geom:longitude":-71.124444,
@@ -31,17 +32,26 @@
         "dental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2H5Ve9fS5D0uxOLN4cRjPM_42.137834_-71.124444@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711235,
-    "wof:geomhash":"f965154a917cf48ce2b164ee042c9f09",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2fa1356f2807752a08e90ab30aa7e05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":656363613
+        }
+    ],
     "wof:id":656363613,
-    "wof:lastmodified":1472624962,
+    "wof:lastmodified":1492101610,
     "wof:name":"CEC Svc",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

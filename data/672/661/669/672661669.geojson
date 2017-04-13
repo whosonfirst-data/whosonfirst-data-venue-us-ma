@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.79057,42.238331,-70.79057,42.238331",
     "geom:latitude":42.238331,
     "geom:longitude":-70.79057,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08nzAR5GvXnC9QLrIrbz5p_42.238331_-70.790570@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723984,
-    "wof:geomhash":"3f575661337b3cc1fc3aece9a7b1838b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7e6eccf40001bda61c9857c93130f68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672661669
+        }
+    ],
     "wof:id":672661669,
-    "wof:lastmodified":1472625909,
+    "wof:lastmodified":1492106793,
     "wof:name":"High Tide Researd",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

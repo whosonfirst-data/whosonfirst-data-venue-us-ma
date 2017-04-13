@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.067865,41.278926,-70.067865,41.278926",
     "geom:latitude":41.278926,
     "geom:longitude":-70.067865,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85848411,
-        102084641
+        102191575,
+        404476421,
+        85633793,
+        85950503,
+        102084641,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"US",
     "wof:created":1461725625,
-    "wof:geomhash":"9700d3ea5726faae2616890ec4cd5d86",
+    "wof:geomhash":"e3b5c7e391ee7a632ebb1fb3f2e6b4d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084641,
+            "localadmin_id":404476421,
+            "locality_id":85950503,
             "neighbourhood_id":85848411,
             "region_id":85688645,
             "venue_id":672735147
         }
     ],
     "wof:id":672735147,
-    "wof:lastmodified":1472625967,
+    "wof:lastmodified":1492108628,
     "wof:name":"Pencil ME In Bookkeeping",
     "wof:parent_id":85848411,
     "wof:placetype":"venue",

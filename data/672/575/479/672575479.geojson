@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.906208,42.108778,-71.906208,42.108778",
     "geom:latitude":42.108778,
     "geom:longitude":-71.906208,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PvuNed3nJPStD2npM4UJ9_42.108778_-71.906208@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722024,
-    "wof:geomhash":"7ed2fd4393543c902a492bfadf03a1a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac48385b39277797c2c1323f1dc9dbbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":672575479
+        }
+    ],
     "wof:id":672575479,
-    "wof:lastmodified":1472625824,
+    "wof:lastmodified":1492106021,
     "wof:name":"J & E Electric Co",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

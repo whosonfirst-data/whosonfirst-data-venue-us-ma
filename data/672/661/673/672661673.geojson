@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.735175,41.915423,-70.735175,41.915423",
     "geom:latitude":41.915423,
     "geom:longitude":-70.735175,
@@ -31,17 +32,26 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4whqQ2iGadIW3VTCTphQGO_41.915423_-70.735175@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723984,
-    "wof:geomhash":"c8753e4ac74dd2a8b1910cebcab5edf8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ba30379b77987af21605a26dc0cff51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672661673
+        }
+    ],
     "wof:id":672661673,
-    "wof:lastmodified":1472625909,
+    "wof:lastmodified":1492106794,
     "wof:name":"U-Haul",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.866052,41.672935,-70.866052,41.672935",
     "geom:latitude":41.672935,
     "geom:longitude":-70.866052,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52OJ6qXWzeWN8axuwm706a_41.672935_-70.866052@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717062,
-    "wof:geomhash":"9e6402823f4b2643b88416cb438c3b26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf1fdcf4876cd969df687d7f72c0070b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672363667
+        }
+    ],
     "wof:id":672363667,
-    "wof:lastmodified":1472625631,
+    "wof:lastmodified":1492110535,
     "wof:name":"Cyber Systems Inc",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

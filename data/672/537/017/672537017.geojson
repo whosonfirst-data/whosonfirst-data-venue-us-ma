@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.985432,42.121084,-71.985432,42.121084",
     "geom:latitude":42.121084,
     "geom:longitude":-71.985432,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0B9gy2cMxMJA2sZXxQ2RBo_42.121084_-71.985432@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721202,
-    "wof:geomhash":"49a46e7fa226d348332f13a65b9ebc23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42c78e2a55cfa06fa6b52610c45cd550",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":672537017
+        }
+    ],
     "wof:id":672537017,
-    "wof:lastmodified":1472625772,
+    "wof:lastmodified":1492118975,
     "wof:name":"Advanced Sensor Tech Inc",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.115657,42.620772,-73.115657,42.620772",
     "geom:latitude":42.620772,
     "geom:longitude":-73.115657,
@@ -32,17 +33,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4v1CYNRsmL2TZmwHOi7Lay_42.620772_-73.115657@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721208,
-    "wof:geomhash":"c37fe5133efca6e520b0b947eaf4feaf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd9b725d1c7091d53110a427b14aa569",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672537341
+        }
+    ],
     "wof:id":672537341,
-    "wof:lastmodified":1472625784,
+    "wof:lastmodified":1492118976,
     "wof:name":"Racquet Web Design",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

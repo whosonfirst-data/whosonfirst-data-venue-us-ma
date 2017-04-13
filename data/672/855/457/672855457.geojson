@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.663881,42.073498,-70.663881,42.073498",
     "geom:latitude":42.073498,
     "geom:longitude":-70.663881,
@@ -33,17 +34,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4b901SAJHQcHnSMT4aeexx_42.073498_-70.663881@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728096,
-    "wof:geomhash":"7952b3da20ac1d33b2cf70886ce941ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3421a709d48360ab13d5f3c565569c97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":672855457
+        }
+    ],
     "wof:id":672855457,
-    "wof:lastmodified":1472626083,
+    "wof:lastmodified":1492114381,
     "wof:name":"International Paper",
     "wof:parent_id":420523971,
     "wof:placetype":"venue",

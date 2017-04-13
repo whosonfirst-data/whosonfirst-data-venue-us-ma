@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.620766,41.643285,-70.620766,41.643285",
     "geom:latitude":41.643285,
     "geom:longitude":-70.620766,
@@ -32,17 +33,26 @@
         "greeting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7flAnPIQudOwozLfwyKuvk_41.643285_-70.620766@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711807,
-    "wof:geomhash":"c2717c751f02c731e71c898f96c5ebe7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fc26fc656fc54444be6689857b95c85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":656390333
+        }
+    ],
     "wof:id":656390333,
-    "wof:lastmodified":1472625014,
+    "wof:lastmodified":1492101738,
     "wof:name":"Peggys Cards",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

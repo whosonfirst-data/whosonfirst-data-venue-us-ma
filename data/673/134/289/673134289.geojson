@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.820702,42.261471,-71.820702,42.261471",
     "geom:latitude":42.261471,
     "geom:longitude":-71.820702,
@@ -94,14 +95,14 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805121,
+        85881855,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
         85688645,
-        85881855
+        85805121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,18 +110,8 @@
     },
     "wof:country":"US",
     "wof:created":1461734478,
-    "wof:geomhash":"67da28fcd8e17bda0f2172504075f696",
+    "wof:geomhash":"9d9acba22634e08bb2e4d328e723d54a",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476639,
-            "locality_id":85950375,
-            "neighbourhood_id":85805121,
-            "region_id":85688645,
-            "venue_id":673134289
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -130,12 +121,22 @@
             "neighbourhood_id":85881855,
             "region_id":85688645,
             "venue_id":673134289
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85805121,
+            "region_id":85688645,
+            "venue_id":673134289
         }
     ],
     "wof:id":673134289,
-    "wof:lastmodified":1472625358,
+    "wof:lastmodified":1492103048,
     "wof:name":"Walgreens Pharmacies",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

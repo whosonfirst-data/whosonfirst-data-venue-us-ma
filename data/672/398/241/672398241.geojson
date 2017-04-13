@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.541383,42.099698,-71.541383,42.099698",
     "geom:latitude":42.099698,
     "geom:longitude":-71.541383,
@@ -35,10 +36,13 @@
     "sg:website":"www.customalarm.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"US",
     "wof:created":1461717826,
-    "wof:geomhash":"401f7d25869e2200e3deab2cdf809337",
+    "wof:geomhash":"b061a4a64aa8daa7a245bc831c7024fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672398241
         }
     ],
     "wof:id":672398241,
-    "wof:lastmodified":1472625665,
+    "wof:lastmodified":1492116409,
     "wof:name":"Custom Alarm Svc",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.093532,42.138206,-71.093532,42.138206",
     "geom:latitude":42.138206,
     "geom:longitude":-71.093532,
@@ -33,17 +34,26 @@
         "apparatus"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VoTAxYSWrvQu7Vsyg6T4f_42.138206_-71.093532@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736318,
-    "wof:geomhash":"80a0f676e979bc2b191bc0aedf0c70f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"788f8b489e01d6b97ec28bdc056a2c6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688953547
+        }
+    ],
     "wof:id":688953547,
-    "wof:lastmodified":1472625154,
+    "wof:lastmodified":1492120222,
     "wof:name":"Eml Associates",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

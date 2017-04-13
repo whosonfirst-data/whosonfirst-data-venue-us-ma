@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.037608,42.430584,-71.037608,42.430584",
     "geom:latitude":42.430584,
     "geom:longitude":-71.037608,
@@ -28,17 +29,34 @@
     "sg:postcode":"02148",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476399,
+        85633793,
+        85950349,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uYC3xskk6qM0KDXx8bGDd_42.430584_-71.037608@1303262219"
     },
     "wof:country":"US",
     "wof:created":1461739450,
-    "wof:geomhash":"0595e72ce1119288c28d388612e86f8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cefce00ad1617135228f18e4e598a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476399,
+            "locality_id":85950349,
+            "region_id":85688645,
+            "venue_id":689103455
+        }
+    ],
     "wof:id":689103455,
-    "wof:lastmodified":1472625363,
+    "wof:lastmodified":1492099536,
     "wof:name":"Bway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

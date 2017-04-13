@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.002711,41.971785,-71.002711,41.971785",
     "geom:latitude":41.971785,
     "geom:longitude":-71.002711,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Sc94rZTdytYQjlu2dONHp_41.971785_-71.002711@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711350,
-    "wof:geomhash":"55d65c7132778394f4b0f0b2e3c5a5a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10eaf7942f56e778e4d3dd9a90dfd047",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":656368865
+        }
+    ],
     "wof:id":656368865,
-    "wof:lastmodified":1472624972,
+    "wof:lastmodified":1492101964,
     "wof:name":"Universal Pump Co",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

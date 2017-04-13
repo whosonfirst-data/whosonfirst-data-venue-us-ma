@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.075575,41.569924,-71.075575,41.569924",
     "geom:latitude":41.569924,
     "geom:longitude":-71.075575,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85823799,
-        102084407
+        102084407,
+        420523293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461716902,
-    "wof:geomhash":"55577a47baeeac5429084ef126699670",
+    "wof:geomhash":"09ca253b985cc4578ff3177dad607a88",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,17 @@
             "neighbourhood_id":85823799,
             "region_id":85688645,
             "venue_id":672356855
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672356855
         }
     ],
     "wof:id":672356855,
-    "wof:lastmodified":1472625626,
+    "wof:lastmodified":1492106729,
     "wof:name":"WPFFL",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

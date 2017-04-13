@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.678316,42.409526,-71.678316,42.409526",
     "geom:latitude":42.409526,
     "geom:longitude":-71.678316,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85855233,
-        102084655
+        85817199,
+        102084655,
+        85855233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461718196,
-    "wof:geomhash":"efb0c9001e2a664adbd0843c3fa8d213",
+    "wof:geomhash":"03fc53b3cf160509a65d80c154f33aa6",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85817199,
+            "region_id":85688645,
+            "venue_id":672411235
+        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":672411235,
-    "wof:lastmodified":1472625675,
+    "wof:lastmodified":1492117471,
     "wof:name":"Weetabix Co",
-    "wof:parent_id":85855233,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

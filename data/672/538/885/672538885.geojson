@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.856991,41.644591,-70.856991,41.644591",
     "geom:latitude":41.644591,
     "geom:longitude":-70.856991,
@@ -32,17 +33,26 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Mw4Bc7YO5YHArHec8aqxL_41.644591_-70.856991@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721238,
-    "wof:geomhash":"e21320eea1fcfef6937e8d71081d69b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25eb0176b68d01dd844e28136b2b4ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672538885
+        }
+    ],
     "wof:id":672538885,
-    "wof:lastmodified":1472625816,
+    "wof:lastmodified":1492106067,
     "wof:name":"Southcoast Lock",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

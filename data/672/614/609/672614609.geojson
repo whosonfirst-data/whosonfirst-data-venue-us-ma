@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.773333,41.989007,-70.773333,41.989007",
     "geom:latitude":41.989007,
     "geom:longitude":-70.773333,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LC1kYEex2eujKK9w6lz8i_41.989007_-70.773333@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722941,
-    "wof:geomhash":"415e03f85d7d2d2a4d67caf293795159",
-    "wof:hierarchy":[],
+    "wof:geomhash":"417c17ebacd87e8a1807d37ac837c40a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672614609
+        }
+    ],
     "wof:id":672614609,
-    "wof:lastmodified":1472625866,
+    "wof:lastmodified":1492107942,
     "wof:name":"Pine Grove Farm Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

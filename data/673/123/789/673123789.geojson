@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.87671,42.11063,-71.87671,42.11063",
     "geom:latitude":42.11063,
     "geom:longitude":-71.87671,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1t9aRVD5QSob6jZi0P7h5w_42.110630_-71.876710@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734266,
-    "wof:geomhash":"8c594e70b00aa20999de27f50fc122ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d28cb052c852c88c73a7af69dd976f85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":673123789
+        }
+    ],
     "wof:id":673123789,
-    "wof:lastmodified":1472625380,
+    "wof:lastmodified":1492102913,
     "wof:name":"Holistic Business Creation",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

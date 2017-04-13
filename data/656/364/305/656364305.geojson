@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.889388,42.526544,-70.889388,42.526544",
     "geom:latitude":42.526544,
     "geom:longitude":-70.889388,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837989,
+        420523449,
         102191575,
         404476213,
         85633793,
         85950403,
         102084463,
-        85688645
+        85688645,
+        85837989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461711253,
-    "wof:geomhash":"e486e680f977d17713ec8d14a928749e",
+    "wof:geomhash":"712e2533149243afd3910ac30fdac9e4",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476213,
+            "locality_id":85950403,
+            "neighbourhood_id":420523449,
+            "region_id":85688645,
+            "venue_id":656364305
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":656364305,
-    "wof:lastmodified":1472624942,
+    "wof:lastmodified":1492101431,
     "wof:name":"Rapid Roofing",
-    "wof:parent_id":85837989,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

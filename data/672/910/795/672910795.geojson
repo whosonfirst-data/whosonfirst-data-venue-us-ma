@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.464495,42.197434,-72.464495,42.197434",
     "geom:latitude":42.197434,
     "geom:longitude":-72.464495,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YWgULy3UVWcg1v1O6X9CU_42.197434_-72.464495@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729260,
-    "wof:geomhash":"477c16a8edc17d9912e2d73e457ac1f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8fb083a507983ae60139e5bd59c5c2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":672910795
+        }
+    ],
     "wof:id":672910795,
-    "wof:lastmodified":1472626132,
+    "wof:lastmodified":1492106499,
     "wof:name":"Matlasz Construction",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.023451,41.972139,-71.023451,41.972139",
     "geom:latitude":41.972139,
     "geom:longitude":-71.023451,
@@ -32,17 +33,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SorUycTtXcCs3qDW4MI9x_41.972139_-71.023451@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712809,
-    "wof:geomhash":"65d787fe30c5a270b4c0ce81d7356c92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b149293b54d0b70617846e168a8b56a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672165879
+        }
+    ],
     "wof:id":672165879,
-    "wof:lastmodified":1472625043,
+    "wof:lastmodified":1492110920,
     "wof:name":"M J Machines",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

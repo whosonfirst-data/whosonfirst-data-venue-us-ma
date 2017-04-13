@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.801586,41.911705,-70.801586,41.911705",
     "geom:latitude":41.911705,
     "geom:longitude":-70.801586,
@@ -32,17 +33,26 @@
         "order"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RFBBYgOfSXyZ8zfo2RGCz_41.911705_-70.801586@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732064,
-    "wof:geomhash":"d864fb893c49e76a716fd7dbfc6a1985",
-    "wof:hierarchy":[],
+    "wof:geomhash":"916c472d5861d6ee2e0f5464eb6de9a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":673020067
+        }
+    ],
     "wof:id":673020067,
-    "wof:lastmodified":1472624991,
+    "wof:lastmodified":1492102611,
     "wof:name":"Wandering Bull",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

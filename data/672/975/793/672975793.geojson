@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.586289,42.698297,-71.586289,42.698297",
     "geom:latitude":42.698297,
     "geom:longitude":-71.586289,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vGsQOXnarFKo0zsOISqVV_42.698297_-71.586289@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730938,
-    "wof:geomhash":"cdb752fcc865648d1da7fa25b191fc43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"456251f9690fcf874ba88a61845d18ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523693,
+            "venue_id":672975793
+        }
+    ],
     "wof:id":672975793,
-    "wof:lastmodified":1472626191,
+    "wof:lastmodified":1492117095,
     "wof:name":"Powers & Powers",
     "wof:parent_id":420523693,
     "wof:placetype":"venue",

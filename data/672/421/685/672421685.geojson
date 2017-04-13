@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.80212,42.257076,-70.80212,42.257076",
     "geom:latitude":42.257076,
     "geom:longitude":-70.80212,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6omTb2UXYcJGSomjJnxGou_42.257076_-70.802120@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718450,
-    "wof:geomhash":"ef6c91611b2e27dfba7bad1d329f5f53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c3ecd7fc31b92341a9816434257858d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523765,
+            "venue_id":672421685
+        }
+    ],
     "wof:id":672421685,
-    "wof:lastmodified":1472625690,
+    "wof:lastmodified":1492114968,
     "wof:name":"Sandy Beach Assoc",
     "wof:parent_id":420523765,
     "wof:placetype":"venue",

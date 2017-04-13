@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.559225,41.819608,-70.559225,41.819608",
     "geom:latitude":41.819608,
     "geom:longitude":-70.559225,
@@ -31,17 +32,26 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_038HaDr4DrTwvjerDVFVxJ_41.819608_-70.559225@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718116,
-    "wof:geomhash":"4066e3d2c1541a98828dd05e1367f6cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29c07946e5625de17fe5e50c7f4acf73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":672408661
+        }
+    ],
     "wof:id":672408661,
-    "wof:lastmodified":1472625676,
+    "wof:lastmodified":1492106148,
     "wof:name":"Room By Room Painting",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

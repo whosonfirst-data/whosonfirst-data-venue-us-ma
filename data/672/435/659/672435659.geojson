@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.257798,42.532086,-71.257798,42.532086",
     "geom:latitude":42.532086,
     "geom:longitude":-71.257798,
@@ -37,7 +38,8 @@
         85688645,
         85633793,
         85805215,
-        102084643
+        102084643,
+        85849469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461718798,
-    "wof:geomhash":"abcf14eac1fb1a07ecd0006ced748dbd",
+    "wof:geomhash":"f4b9c0308eefab3c2c9b7aeb992cbaa9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,19 @@
             "neighbourhood_id":85805215,
             "region_id":85688645,
             "venue_id":672435659
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85849469,
+            "region_id":85688645,
+            "venue_id":672435659
         }
     ],
     "wof:id":672435659,
-    "wof:lastmodified":1472625702,
+    "wof:lastmodified":1492105594,
     "wof:name":"Billerica Little League",
-    "wof:parent_id":85805215,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.310222,41.830583,-71.310222,41.830583",
     "geom:latitude":41.830583,
     "geom:longitude":-71.310222,
@@ -33,17 +34,26 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fzXLu4HWAULpeFHWEbUsE_41.830583_-71.310222@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720099,
-    "wof:geomhash":"fba72647d7065ff4136d33234af947ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55e16d4a366acfa554b6808789808dd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523341,
+            "venue_id":672486207
+        }
+    ],
     "wof:id":672486207,
-    "wof:lastmodified":1472625744,
+    "wof:lastmodified":1492111145,
     "wof:name":"Fox Kitchens",
     "wof:parent_id":420523341,
     "wof:placetype":"venue",

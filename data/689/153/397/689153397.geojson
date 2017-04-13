@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.730342,42.065985,-70.730342,42.065985",
     "geom:latitude":42.065985,
     "geom:longitude":-70.730342,
@@ -34,17 +35,26 @@
         "locksmiths-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6w4SQv2ueqsX1c6hIR1nL0_42.065985_-70.730342@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741016,
-    "wof:geomhash":"0545af3195bc2e9a5832998862731aa5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db736856ee5f23823541ff3123ec8dd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523943,
+            "venue_id":689153397
+        }
+    ],
     "wof:id":689153397,
-    "wof:lastmodified":1472625496,
+    "wof:lastmodified":1492097475,
     "wof:name":"Dial Lock",
     "wof:parent_id":420523943,
     "wof:placetype":"venue",

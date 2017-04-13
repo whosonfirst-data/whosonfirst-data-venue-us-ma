@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.666496,41.957699,-70.666496,41.957699",
     "geom:latitude":41.957699,
     "geom:longitude":-70.666496,
@@ -34,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837907,
+        85827215,
         102191575,
         404476561,
         85633793,
         85950483,
         102084367,
         85688645,
-        85827215
+        85837907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,18 +50,8 @@
     },
     "wof:country":"US",
     "wof:created":1461732661,
-    "wof:geomhash":"f94be50a50576e53009f7c36d34d68d7",
+    "wof:geomhash":"15d0084d0c3475bfc6ee906e0faaaad9",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476561,
-            "locality_id":85950483,
-            "neighbourhood_id":85837907,
-            "region_id":85688645,
-            "venue_id":673045521
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -70,12 +61,22 @@
             "neighbourhood_id":85827215,
             "region_id":85688645,
             "venue_id":673045521
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476561,
+            "locality_id":85950483,
+            "neighbourhood_id":85837907,
+            "region_id":85688645,
+            "venue_id":673045521
         }
     ],
     "wof:id":673045521,
-    "wof:lastmodified":1472625089,
+    "wof:lastmodified":1492103289,
     "wof:name":"Associated Key & Lock",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

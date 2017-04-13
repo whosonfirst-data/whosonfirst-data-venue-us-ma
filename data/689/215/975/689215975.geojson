@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.914191,41.714296,-70.914191,41.714296",
     "geom:latitude":41.714296,
     "geom:longitude":-70.914191,
@@ -36,17 +37,26 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gk54MmfZ0tUfhmfPLG6Fj_41.714296_-70.914191@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742381,
-    "wof:geomhash":"b7b853e6216c56e6a2ae7c986af45179",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f36b3b58b41c176476ef9d1b84f556d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":689215975
+        }
+    ],
     "wof:id":689215975,
-    "wof:lastmodified":1472625624,
+    "wof:lastmodified":1492100512,
     "wof:name":"Aml Childrens Medical Assoc I",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.790243,41.904947,-70.790243,41.904947",
     "geom:latitude":41.904947,
     "geom:longitude":-70.790243,
@@ -34,17 +35,26 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wef2QtRDutM3wouoyct7s_41.904947_-70.790243@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725954,
-    "wof:geomhash":"b7afe8decc4d88906700ec895892c99f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"298d15b17be38c010ce7116d660efd6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672750755
+        }
+    ],
     "wof:id":672750755,
-    "wof:lastmodified":1472625996,
+    "wof:lastmodified":1492107692,
     "wof:name":"Lovstad Floors Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

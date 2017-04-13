@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.114249,42.624975,-73.114249,42.624975",
     "geom:latitude":42.624975,
     "geom:longitude":-73.114249,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kv7AjrP978YJAmVxjbjjV_42.624975_-73.114249@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714177,
-    "wof:geomhash":"df268543908ec7d995b6bb3e66f167c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e094e54d3edf10b07d96d7c8c9650dfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672229843
+        }
+    ],
     "wof:id":672229843,
-    "wof:lastmodified":1472625271,
+    "wof:lastmodified":1492110288,
     "wof:name":"St Stanislaus Catholic Church",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

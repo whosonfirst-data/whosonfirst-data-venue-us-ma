@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.724129,41.91843,-70.724129,41.91843",
     "geom:latitude":41.91843,
     "geom:longitude":-70.724129,
@@ -31,17 +32,26 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uM4wOZHjYfgnNJNfpwHdD_41.918430_-70.724129@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741144,
-    "wof:geomhash":"3353aeb4cb516943da4b496c7d62a787",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28bc0b78f396ece1e873f9a78ff527c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689158691
+        }
+    ],
     "wof:id":689158691,
-    "wof:lastmodified":1472625527,
+    "wof:lastmodified":1492099875,
     "wof:name":"Plymouth County Cemetery Corp",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

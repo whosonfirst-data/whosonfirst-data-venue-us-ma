@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.09118,41.57296,-71.09118,41.57296",
     "geom:latitude":41.57296,
     "geom:longitude":-71.09118,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BMYrWhz6PJ08AzKupLBX9_41.572960_-71.091180@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711289,
-    "wof:geomhash":"9465cb2003c4079e1e99968e82a1f402",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4337457cea725c4913d3c1648c367d99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":656365899
+        }
+    ],
     "wof:id":656365899,
-    "wof:lastmodified":1472624972,
+    "wof:lastmodified":1492101758,
     "wof:name":"Westport Cemetery Dept",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

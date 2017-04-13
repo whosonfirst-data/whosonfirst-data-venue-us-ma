@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101898,42.1245,-71.101898,42.1245",
     "geom:latitude":42.1245,
     "geom:longitude":-71.101898,
@@ -33,17 +34,26 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38ymC0AGeyrqYybnFdIFhS_42.124500_-71.101898@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736319,
-    "wof:geomhash":"d350d91dfe492c78716f003a6cd1c68f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb7607bd40726eab8773479d75bb2828",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688953605
+        }
+    ],
     "wof:id":688953605,
-    "wof:lastmodified":1472625160,
+    "wof:lastmodified":1492120229,
     "wof:name":"Central Liquor Mart",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

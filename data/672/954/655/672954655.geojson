@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.254489,42.06875,-71.254489,42.06875",
     "geom:latitude":42.06875,
     "geom:longitude":-71.254489,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85809067,
+        102191575,
+        404476025,
         85633793,
-        85855501,
-        102084403
+        85950825,
+        102084403,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,20 +47,23 @@
     },
     "wof:country":"US",
     "wof:created":1461730256,
-    "wof:geomhash":"45bcaa97454830b171216b2f9399d114",
+    "wof:geomhash":"44e6357f6ab3c5c941ab5c72a56833ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084403,
-            "neighbourhood_id":85855501,
+            "localadmin_id":404476025,
+            "locality_id":85950825,
+            "neighbourhood_id":85809067,
             "region_id":85688645,
             "venue_id":672954655
         }
     ],
     "wof:id":672954655,
-    "wof:lastmodified":1472626170,
+    "wof:lastmodified":1492117231,
     "wof:name":"Church Of Jesus Christ Of Lds",
-    "wof:parent_id":85855501,
+    "wof:parent_id":85809067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

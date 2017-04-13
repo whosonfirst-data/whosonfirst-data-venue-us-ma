@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.903956,42.249235,-70.903956,42.249235",
     "geom:latitude":42.249235,
     "geom:longitude":-70.903956,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85950451,
+        85813057,
         102084367,
+        85950451,
         85855681
     ],
     "wof:breaches":[],
@@ -45,8 +47,15 @@
     },
     "wof:country":"US",
     "wof:created":1461716811,
-    "wof:geomhash":"dcb47d5065ff9978aaf53cb63f4d3954",
+    "wof:geomhash":"37bab2090ce1aa04dae2c310264c9cd0",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85813057,
+            "region_id":85688645,
+            "venue_id":672352751
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -57,9 +66,9 @@
         }
     ],
     "wof:id":672352751,
-    "wof:lastmodified":1472625620,
+    "wof:lastmodified":1492118760,
     "wof:name":"Stevens Financial Svc",
-    "wof:parent_id":85855681,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

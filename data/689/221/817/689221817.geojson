@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.328282,41.827183,-71.328282,41.827183",
     "geom:latitude":41.827183,
     "geom:longitude":-71.328282,
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85816693,
-        102084407
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,18 +54,21 @@
     },
     "wof:country":"US",
     "wof:created":1461742521,
-    "wof:geomhash":"398b4bb5dcdba250468c4519ca09ae2f",
+    "wof:geomhash":"31157c7121e0e979cd68d7c4be862ad5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084407,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
             "neighbourhood_id":85816693,
-            "region_id":85688645,
+            "region_id":85688509,
             "venue_id":689221817
         }
     ],
     "wof:id":689221817,
-    "wof:lastmodified":1472625634,
+    "wof:lastmodified":1492099588,
     "wof:name":"The Invitation Depot",
     "wof:parent_id":85816693,
     "wof:placetype":"venue",

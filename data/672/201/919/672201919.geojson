@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.009782,42.694463,-71.009782,42.694463",
     "geom:latitude":42.694463,
     "geom:longitude":-71.009782,
@@ -35,17 +36,26 @@
         "subdivider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pGZmGQnHUSXncyD58LZYv_42.694463_-71.009782@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713610,
-    "wof:geomhash":"c5009e85bbb573422d45e1270d137bf5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c05152c18c269d274bc82ec18020d42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672201919
+        }
+    ],
     "wof:id":672201919,
-    "wof:lastmodified":1472625189,
+    "wof:lastmodified":1492114797,
     "wof:name":"Edmond R Le Clair Builders",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

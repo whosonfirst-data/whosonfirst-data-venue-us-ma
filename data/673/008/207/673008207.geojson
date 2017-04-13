@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.79248,42.388374,-71.79248,42.388374",
     "geom:latitude":42.388374,
     "geom:longitude":-71.79248,
@@ -38,7 +39,8 @@
         85688645,
         85633793,
         85842321,
-        102084655
+        102084655,
+        420524087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461731759,
-    "wof:geomhash":"4c783b4a7745e4b5619b276bd45faab2",
+    "wof:geomhash":"d24169adf3b3cc1683256400eb24f86f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,17 @@
             "neighbourhood_id":85842321,
             "region_id":85688645,
             "venue_id":673008207
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":673008207
         }
     ],
     "wof:id":673008207,
-    "wof:lastmodified":1472624925,
+    "wof:lastmodified":1492103523,
     "wof:name":"Public Health Dept",
-    "wof:parent_id":85842321,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

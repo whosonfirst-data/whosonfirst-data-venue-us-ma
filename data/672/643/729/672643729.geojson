@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.749863,42.046537,-70.749863,42.046537",
     "geom:latitude":42.046537,
     "geom:longitude":-70.749863,
@@ -33,17 +34,26 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O9JeaFCmmPH2xd74yM4rz_42.046537_-70.749863@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723579,
-    "wof:geomhash":"b7c60353738a3935745bbd0aeca797fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d536d7ce7f3bece9273d79eb2bb3eec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":672643729
+        }
+    ],
     "wof:id":672643729,
-    "wof:lastmodified":1472625892,
+    "wof:lastmodified":1492112076,
     "wof:name":"Mountain Hire",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

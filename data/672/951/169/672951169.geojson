@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.468685,42.190301,-72.468685,42.190301",
     "geom:latitude":42.190301,
     "geom:longitude":-72.468685,
@@ -36,17 +37,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Z2e9e2zVqQQNCZnsOpAZ7_42.190301_-72.468685@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730157,
-    "wof:geomhash":"56b85ccb9f76e7df801618153b9a1541",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf4c164ed0e36dea9725bd03d1060cbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":672951169
+        }
+    ],
     "wof:id":672951169,
-    "wof:lastmodified":1472626157,
+    "wof:lastmodified":1492115183,
     "wof:name":"Construction Consultants Neng",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

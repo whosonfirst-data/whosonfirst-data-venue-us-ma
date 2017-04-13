@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.984281,42.727085,-70.984281,42.727085",
     "geom:latitude":42.727085,
     "geom:longitude":-70.984281,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nylhlQpX1pe1mHuwSuEY3_42.727085_-70.984281@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720489,
-    "wof:geomhash":"6913d190fd5de770f4acf19200b9e643",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51cf4ae4cfa5a6e990643a637d8db929",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672503887
+        }
+    ],
     "wof:id":672503887,
-    "wof:lastmodified":1472625780,
+    "wof:lastmodified":1492108882,
     "wof:name":"Hard Rock Construction Inc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

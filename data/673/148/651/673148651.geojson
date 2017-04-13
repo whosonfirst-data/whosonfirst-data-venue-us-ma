@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.532311,42.291175,-71.532311,42.291175",
     "geom:latitude":42.291175,
     "geom:longitude":-71.532311,
@@ -37,17 +38,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476613,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06ipgWxGdkRCLOdBBXF74K_42.291175_-71.532311@1303262189"
     },
     "wof:country":"US",
     "wof:created":1461734771,
-    "wof:geomhash":"6e3ae228278750e65dd2186601cb6ec0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb153b159527aa238e6947146a0bbf14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476613,
+            "region_id":85688645,
+            "venue_id":673148651
+        }
+    ],
     "wof:id":673148651,
-    "wof:lastmodified":1472625423,
+    "wof:lastmodified":1492103649,
     "wof:name":"Realty Executives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

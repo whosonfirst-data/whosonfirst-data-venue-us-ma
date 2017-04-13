@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.541494,41.814334,-70.541494,41.814334",
     "geom:latitude":41.814334,
     "geom:longitude":-70.541494,
@@ -33,17 +34,26 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Sekujk9QZlTSaZ0mqZw4A_41.814334_-70.541494@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741143,
-    "wof:geomhash":"cebf81e09b7f06a9f05432fd720d34ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e5c0b9b097e3b8f69da8e6df766d037",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":689158681
+        }
+    ],
     "wof:id":689158681,
-    "wof:lastmodified":1472625527,
+    "wof:lastmodified":1492099879,
     "wof:name":"Sierra Development & Exploration Corporation",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

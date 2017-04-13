@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.845289,42.154703,-71.845289,42.154703",
     "geom:latitude":42.154703,
     "geom:longitude":-71.845289,
@@ -32,17 +33,32 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476675,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1N2sN6kU4pJQppHWPiyLHe_42.154703_-71.845289@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717706,
-    "wof:geomhash":"12e984f824ec2a853a7dd2d04b0a2979",
-    "wof:hierarchy":[],
+    "wof:geomhash":"399751fadcc7d98654cd6883a89c81f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476675,
+            "region_id":85688645,
+            "venue_id":672392233
+        }
+    ],
     "wof:id":672392233,
-    "wof:lastmodified":1472625657,
+    "wof:lastmodified":1492108063,
     "wof:name":"South County Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

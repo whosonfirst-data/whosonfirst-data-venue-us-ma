@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.658296,42.133367,-71.658296,42.133367",
     "geom:latitude":42.133367,
     "geom:longitude":-71.658296,
@@ -32,17 +33,26 @@
         "sale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fBILkIayiNfBuOfbToQyw_42.133367_-71.658296@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734258,
-    "wof:geomhash":"79d69acdfcb7bb54f98199dd32a566c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6ea97497aab600aaa4ff57796afdd60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524115,
+            "venue_id":673123321
+        }
+    ],
     "wof:id":673123321,
-    "wof:lastmodified":1472625355,
+    "wof:lastmodified":1492102912,
     "wof:name":"Signal Promotions",
     "wof:parent_id":420524115,
     "wof:placetype":"venue",

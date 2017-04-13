@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.067292,42.576925,-73.067292,42.576925",
     "geom:latitude":42.576925,
     "geom:longitude":-73.067292,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Fj2K9ir7v0i3iOZafGKcO_42.576925_-73.067292@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725888,
-    "wof:geomhash":"6c1251bd183d5d2e67eaa1779611c8dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe16560137f577514d603db5bcea3843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523243,
+            "venue_id":672747349
+        }
+    ],
     "wof:id":672747349,
-    "wof:lastmodified":1472625979,
+    "wof:lastmodified":1492107919,
     "wof:name":"Corgi Electric",
     "wof:parent_id":420523243,
     "wof:placetype":"venue",

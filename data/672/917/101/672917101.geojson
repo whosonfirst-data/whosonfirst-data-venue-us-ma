@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.764001,42.573096,-70.764001,42.573096",
     "geom:latitude":42.573096,
     "geom:longitude":-70.764001,
@@ -29,14 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
-        85855899,
-        102084463,
         85831917,
         102191575,
         404476197,
-        85950419
+        85633793,
+        85950419,
+        102084463,
+        85688645,
+        85855899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +45,8 @@
     },
     "wof:country":"US",
     "wof:created":1461729380,
-    "wof:geomhash":"9d83f020881d2d8449e4ee5d40a8342b",
+    "wof:geomhash":"1e17eed7463563beebba58efc3fb2d6c",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85855899,
-            "region_id":85688645,
-            "venue_id":672917101
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,12 +56,19 @@
             "neighbourhood_id":85831917,
             "region_id":85688645,
             "venue_id":672917101
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85855899,
+            "region_id":85688645,
+            "venue_id":672917101
         }
     ],
     "wof:id":672917101,
-    "wof:lastmodified":1472626122,
+    "wof:lastmodified":1492107729,
     "wof:name":"Campbell RG",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

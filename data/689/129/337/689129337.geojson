@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.008208,42.294077,-71.008208,42.294077",
     "geom:latitude":42.294077,
     "geom:longitude":-71.008208,
@@ -37,17 +38,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476591,
+        85633793,
+        85950429,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BHD1bi6CkYcuG4oIIn4LA_42.294077_-71.008208@1303262223"
     },
     "wof:country":"US",
     "wof:created":1461740078,
-    "wof:geomhash":"88394fc21bd8d43673c14b7a3a4ba4bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9be3333f71fdb890e9c4114859a3ba9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476591,
+            "locality_id":85950429,
+            "region_id":85688645,
+            "venue_id":689129337
+        }
+    ],
     "wof:id":689129337,
-    "wof:lastmodified":1472625422,
+    "wof:lastmodified":1492100167,
     "wof:name":"M&C Demarkles Realty Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.79445,41.895857,-70.79445,41.895857",
     "geom:latitude":41.895857,
     "geom:longitude":-70.79445,
@@ -32,17 +33,26 @@
         "safety"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VOEGEwprrqy3qb4lWtSKZ_41.895857_-70.794450@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714645,
-    "wof:geomhash":"95860582127fb3daa2f201596a5da079",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecb0d928841d5c949bab2a11edb18d8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":672251469
+        }
+    ],
     "wof:id":672251469,
-    "wof:lastmodified":1472625351,
+    "wof:lastmodified":1492106019,
     "wof:name":"Child ID Program",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

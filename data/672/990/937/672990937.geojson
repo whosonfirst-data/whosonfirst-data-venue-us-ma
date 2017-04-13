@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.945039,42.700294,-70.945039,42.700294",
     "geom:latitude":42.700294,
     "geom:longitude":-70.945039,
@@ -32,7 +33,8 @@
         85688645,
         85633793,
         85845839,
-        102084463
+        102084463,
+        420523475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461731353,
-    "wof:geomhash":"e313fd75fbd3c75e29b644971bb79162",
+    "wof:geomhash":"c4ecf64f38aaaecae4fe1ae07336d1d6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +50,17 @@
             "neighbourhood_id":85845839,
             "region_id":85688645,
             "venue_id":672990937
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672990937
         }
     ],
     "wof:id":672990937,
-    "wof:lastmodified":1472626204,
+    "wof:lastmodified":1492106231,
     "wof:name":"Goldstar Polarity",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

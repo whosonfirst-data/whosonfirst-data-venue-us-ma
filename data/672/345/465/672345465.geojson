@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.265253,41.99588,-71.265253,41.99588",
     "geom:latitude":41.99588,
     "geom:longitude":-71.265253,
@@ -31,17 +32,32 @@
         "publisher"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475931,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4znW595tosHMCXn8zG3AJf_41.995880_-71.265253@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716616,
-    "wof:geomhash":"962c97c12384179ca7d08bf6917711d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"101a966f672887ce7886cbef2e60d147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404475931,
+            "region_id":85688645,
+            "venue_id":672345465
+        }
+    ],
     "wof:id":672345465,
-    "wof:lastmodified":1472625583,
+    "wof:lastmodified":1492116920,
     "wof:name":"CMP Publications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

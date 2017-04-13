@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.840341,42.185724,-71.840341,42.185724",
     "geom:latitude":42.185724,
     "geom:longitude":-71.840341,
@@ -31,17 +32,26 @@
         "dealership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24vRqGOXfaIASRctlM9BeX_42.185724_-71.840341@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729351,
-    "wof:geomhash":"2bf52f4eb5a63509f7dc9e366d91c260",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca9dbe4c68ede132579d5751daca49e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672915719
+        }
+    ],
     "wof:id":672915719,
-    "wof:lastmodified":1472626134,
+    "wof:lastmodified":1492117209,
     "wof:name":"Patricks Motor Mart",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

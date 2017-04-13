@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.022327,41.961845,-71.022327,41.961845",
     "geom:latitude":41.961845,
     "geom:longitude":-71.022327,
@@ -33,17 +34,26 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LjO6LV0BnmvWybmmZoxJk_41.961845_-71.022327@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740994,
-    "wof:geomhash":"6a029213a947310c35b4196232f4d924",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7eb4debc35828e8d7b115cc933fdc1a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":689152561
+        }
+    ],
     "wof:id":689152561,
-    "wof:lastmodified":1472625507,
+    "wof:lastmodified":1492101013,
     "wof:name":"Watson Plumbing Heating",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

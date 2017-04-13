@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.00148,41.956779,-71.00148,41.956779",
     "geom:latitude":41.956779,
     "geom:longitude":-71.00148,
@@ -37,17 +38,26 @@
     ],
     "sg:website":"http://www.plassemasonry.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ELwhDSmZ85VC55qe929Nn_41.956779_-71.001480@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740995,
-    "wof:geomhash":"d834691c22c15a3fdd5569231b87dd38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7db678bb4e0bc34573a39a1e24abbf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":689152587
+        }
+    ],
     "wof:id":689152587,
-    "wof:lastmodified":1472625509,
+    "wof:lastmodified":1492101013,
     "wof:name":"Plasse Masonry",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.63337,41.748931,-70.63337,41.748931",
     "geom:latitude":41.748931,
     "geom:longitude":-70.63337,
@@ -32,7 +33,8 @@
         85688645,
         85633793,
         85868735,
-        102084367
+        102084367,
+        85842535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461720230,
-    "wof:geomhash":"b9470ad40607bb5db0e4037d26a301ec",
+    "wof:geomhash":"d9f16f7321d9d368261a515677c91f45",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +50,19 @@
             "neighbourhood_id":85868735,
             "region_id":85688645,
             "venue_id":672492299
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85842535,
+            "region_id":85688645,
+            "venue_id":672492299
         }
     ],
     "wof:id":672492299,
-    "wof:lastmodified":1472625751,
+    "wof:lastmodified":1492118748,
     "wof:name":"Starvish Chiropractic",
-    "wof:parent_id":85868735,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

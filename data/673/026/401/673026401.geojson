@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.447195,42.239166,-71.447195,42.239166",
     "geom:latitude":42.239166,
     "geom:longitude":-71.447195,
@@ -33,19 +34,32 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85822219,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sjnVU7VreHPQ5rgBKChu1_42.239166_-71.447195@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732218,
-    "wof:geomhash":"2ba622669c76abb4a04e3d21cff0904a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0d1a41f9d5eebbfa3c9b931a265537a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85822219,
+            "region_id":85688645,
+            "venue_id":673026401
+        }
+    ],
     "wof:id":673026401,
-    "wof:lastmodified":1472625023,
+    "wof:lastmodified":1492102514,
     "wof:name":"Little Folk Farm Nrsy School",
-    "wof:parent_id":420523707,
+    "wof:parent_id":85822219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

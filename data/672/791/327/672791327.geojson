@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.928636,41.763475,-70.928636,41.763475",
     "geom:latitude":41.763475,
     "geom:longitude":-70.928636,
@@ -31,17 +32,26 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xirrjGOgG64BsbAUsNZtT_41.763475_-70.928636@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726814,
-    "wof:geomhash":"bb9625acb288b0457499396d93efa9c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3ef91c827e6ad065a30e59de580a2f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":672791327
+        }
+    ],
     "wof:id":672791327,
-    "wof:lastmodified":1472626020,
+    "wof:lastmodified":1492113754,
     "wof:name":"Rich Hill Cranberry Farm",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.479126,42.644881,-71.479126,42.644881",
     "geom:latitude":42.644881,
     "geom:longitude":-71.479126,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13cgV900P7GbWXOp7hrBdW_42.644881_-71.479126@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728044,
-    "wof:geomhash":"8eac9953ec9285932c4088fd076c1296",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c1b20b7e0ab26ce7ad22711460efa7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523719,
+            "venue_id":672852507
+        }
+    ],
     "wof:id":672852507,
-    "wof:lastmodified":1472626078,
+    "wof:lastmodified":1492118413,
     "wof:name":"MCL Contracting Corp",
     "wof:parent_id":420523719,
     "wof:placetype":"venue",

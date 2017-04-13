@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.861481,41.621703,-70.861481,41.621703",
     "geom:latitude":41.621703,
     "geom:longitude":-70.861481,
@@ -33,17 +34,26 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523311
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2h8aoou9XGxcbtUbrJ6R6I_41.621703_-70.861481@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730453,
-    "wof:geomhash":"9d26c62c12aa1c0619edea711aed390e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9eb34f50d4999c5b76ca7d8a74309106",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523311,
+            "venue_id":672960813
+        }
+    ],
     "wof:id":672960813,
-    "wof:lastmodified":1472626174,
+    "wof:lastmodified":1492110109,
     "wof:name":"Mathieu Water Svc Inc",
     "wof:parent_id":420523311,
     "wof:placetype":"venue",

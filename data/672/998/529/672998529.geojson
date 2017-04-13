@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.094844,42.13274,-71.094844,42.13274",
     "geom:latitude":42.13274,
     "geom:longitude":-71.094844,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2onbk2VM6dz6R2AUcWcU4W_42.132740_-71.094844@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731546,
-    "wof:geomhash":"c40799a02a5ffb6eef778fbeed3ae9fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"483baa769360c132db58e23618c4487a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672998529
+        }
+    ],
     "wof:id":672998529,
-    "wof:lastmodified":1472626205,
+    "wof:lastmodified":1492119197,
     "wof:name":"Chops Trucking",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

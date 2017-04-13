@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.777062,42.182932,-70.777062,42.182932",
     "geom:latitude":42.182932,
     "geom:longitude":-70.777062,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85848267,
-        102084367
+        102084367,
+        85828399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461711577,
-    "wof:geomhash":"9ad58b3ebf426762f8a99296387b578f",
+    "wof:geomhash":"0c99a4efba5a1d393b8c71f8b796abb1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,19 @@
             "neighbourhood_id":85848267,
             "region_id":85688645,
             "venue_id":656379793
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85828399,
+            "region_id":85688645,
+            "venue_id":656379793
         }
     ],
     "wof:id":656379793,
-    "wof:lastmodified":1472625022,
+    "wof:lastmodified":1492102143,
     "wof:name":"Neves Dental Laboratory",
-    "wof:parent_id":85848267,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

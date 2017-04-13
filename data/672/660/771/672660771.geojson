@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.539073,42.381581,-71.539073,42.381581",
     "geom:latitude":42.381581,
     "geom:longitude":-71.539073,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58vBSIp4kc7QxzfWIsnAfW_42.381581_-71.539073@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723958,
-    "wof:geomhash":"96fe5bb66352f357415abd6ef57d2e47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd321d0b436d49136c795e03e27c82ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672660771
+        }
+    ],
     "wof:id":672660771,
-    "wof:lastmodified":1472625910,
+    "wof:lastmodified":1492119509,
     "wof:name":"Sudbury Painting Inc",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

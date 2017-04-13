@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.938566,41.99331,-70.938566,41.99331",
     "geom:latitude":41.99331,
     "geom:longitude":-70.938566,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85849503,
-        102084367
+        85817953,
+        102084367,
+        85849503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461719297,
-    "wof:geomhash":"138f98cf998b26af55539162fe378c22",
+    "wof:geomhash":"df94f49aaeeb419d80056c6e9fda87eb",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85817953,
+            "region_id":85688645,
+            "venue_id":672454247
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":672454247,
-    "wof:lastmodified":1472625721,
+    "wof:lastmodified":1492115679,
     "wof:name":"Bridgewater Farm Supply Co",
-    "wof:parent_id":85849503,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

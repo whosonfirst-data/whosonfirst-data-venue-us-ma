@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.936589,42.255722,-70.936589,42.255722",
     "geom:latitude":42.255722,
     "geom:longitude":-70.936589,
@@ -32,17 +33,34 @@
         "concrete"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476603,
+        85633793,
+        85950427,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UmZLkk0n4g59IAEjPZfUV_42.255722_-70.936589@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724111,
-    "wof:geomhash":"f797ea7f31f199da74987c39ee168b74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07bb27c34cb51019975fb137ab7e2cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476603,
+            "locality_id":85950427,
+            "region_id":85688645,
+            "venue_id":672667413
+        }
+    ],
     "wof:id":672667413,
-    "wof:lastmodified":1472625913,
+    "wof:lastmodified":1492118903,
     "wof:name":"Bay State Ready Mix Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

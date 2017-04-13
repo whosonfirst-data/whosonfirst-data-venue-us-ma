@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.100104,42.125784,-71.100104,42.125784",
     "geom:latitude":42.125784,
     "geom:longitude":-71.100104,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rk3O41d3bRUeOrJLV8Iet_42.125784_-71.100104@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712960,
-    "wof:geomhash":"a3228877b4c465ca1f81ee0dfd9932b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58a0f31cd07a26921763b9dfd60ec955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672172693
+        }
+    ],
     "wof:id":672172693,
-    "wof:lastmodified":1472625089,
+    "wof:lastmodified":1492106478,
     "wof:name":"Stoughton Fire Dept",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

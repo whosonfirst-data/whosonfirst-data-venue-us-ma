@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.827063,42.042683,-70.827063,42.042683",
     "geom:latitude":42.042683,
     "geom:longitude":-70.827063,
@@ -36,17 +37,26 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FYeix7KGxY6OleP2U7x5d_42.042683_-70.827063@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741118,
-    "wof:geomhash":"1ffd18892dfa6603a8f6e451a9987bbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18623806283bff1675df7e6868ce49db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689157329
+        }
+    ],
     "wof:id":689157329,
-    "wof:lastmodified":1472625506,
+    "wof:lastmodified":1492099705,
     "wof:name":"Dish By Dan",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.719464,41.927313,-70.719464,41.927313",
     "geom:latitude":41.927313,
     "geom:longitude":-70.719464,
@@ -31,17 +32,26 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yTnVPwkloULu2FB4NQzgr_41.927313_-70.719464@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718996,
-    "wof:geomhash":"305854f5c4ae226f10309f3b362fcfc8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0cd1abf63af01ed42fef93a32aad972",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672443377
+        }
+    ],
     "wof:id":672443377,
-    "wof:lastmodified":1472625708,
+    "wof:lastmodified":1492111772,
     "wof:name":"Top To Bottom Cleaning Svcs",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

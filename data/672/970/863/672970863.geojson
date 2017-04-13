@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.832564,42.182158,-71.832564,42.182158",
     "geom:latitude":42.182158,
     "geom:longitude":-71.832564,
@@ -33,17 +34,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26SBjoAWfKHTjYsgvdYuVS_42.182158_-71.832564@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730776,
-    "wof:geomhash":"5e4c27939a6d9f107b0ce0defa0cfc51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e35118be632671afb61daee816697435",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672970863
+        }
+    ],
     "wof:id":672970863,
-    "wof:lastmodified":1472626180,
+    "wof:lastmodified":1492106389,
     "wof:name":"General Data Graphics Inc",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

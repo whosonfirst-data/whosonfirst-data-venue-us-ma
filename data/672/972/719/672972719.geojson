@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.63433,42.38138,-71.63433,42.38138",
     "geom:latitude":42.38138,
     "geom:longitude":-71.63433,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524077
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5unQpo5ZBUcq8Jkn0r8lGv_42.381380_-71.634330@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730840,
-    "wof:geomhash":"88fe564607387c85f44b791e50778cf5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92b562bfd4deed28a72390039957ac46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524077,
+            "venue_id":672972719
+        }
+    ],
     "wof:id":672972719,
-    "wof:lastmodified":1472626186,
+    "wof:lastmodified":1492112929,
     "wof:name":"Atlantic Contracting Svc",
     "wof:parent_id":420524077,
     "wof:placetype":"venue",

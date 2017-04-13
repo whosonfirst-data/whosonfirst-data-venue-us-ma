@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.308056,42.268814,-71.308056,42.268814",
     "geom:latitude":42.268814,
     "geom:longitude":-71.308056,
@@ -32,19 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85835347,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4U7unH9cGH2a8DfaTc21y4_42.268814_-71.308056@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727082,
-    "wof:geomhash":"193902fd3b53ae9ed2feec3511f7d247",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6237f739faf7483efe28da924fba9cea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85835347,
+            "region_id":85688645,
+            "venue_id":672804929
+        }
+    ],
     "wof:id":672804929,
-    "wof:lastmodified":1472626042,
+    "wof:lastmodified":1492118739,
     "wof:name":"Harry E Palmer & Sons Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85835347,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

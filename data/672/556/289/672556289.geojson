@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.774693,42.445923,-71.774693,42.445923",
     "geom:latitude":42.445923,
     "geom:longitude":-71.774693,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KC8aeZ7TIO0AOX3SKH6KD_42.445923_-71.774693@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721604,
-    "wof:geomhash":"326828d878a46c03b135c5d4ddd5ff8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73772d9d8b36ea63f599fe402fe20096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":672556289
+        }
+    ],
     "wof:id":672556289,
-    "wof:lastmodified":1472625803,
+    "wof:lastmodified":1492119467,
     "wof:name":"Colorworks",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

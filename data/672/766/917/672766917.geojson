@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.62576,42.308941,-72.62576,42.308941",
     "geom:latitude":42.308941,
     "geom:longitude":-72.62576,
@@ -39,7 +40,8 @@
         85633793,
         85950433,
         102084459,
-        85688645
+        85688645,
+        85841755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461726302,
-    "wof:geomhash":"c96e206005049e22883c64e4170cecca",
+    "wof:geomhash":"af2fb1b2963850f57158b543505228fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,22 @@
             "neighbourhood_id":85825821,
             "region_id":85688645,
             "venue_id":672766917
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084459,
+            "localadmin_id":404476303,
+            "locality_id":85950433,
+            "neighbourhood_id":85841755,
+            "region_id":85688645,
+            "venue_id":672766917
         }
     ],
     "wof:id":672766917,
-    "wof:lastmodified":1472626002,
+    "wof:lastmodified":1492115030,
     "wof:name":"Hill NDale Mall",
-    "wof:parent_id":85825821,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

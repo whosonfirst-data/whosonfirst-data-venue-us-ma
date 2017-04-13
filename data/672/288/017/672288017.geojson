@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.215744,41.755844,-71.215744,41.755844",
     "geom:latitude":41.755844,
     "geom:longitude":-71.215744,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0euvOyDqlQ4z8JhMXxtO3K_41.755844_-71.215744@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715361,
-    "wof:geomhash":"6c6212075b4349206867fae7de201dda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d735d086926946f6f6b09b558968065e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":672288017
+        }
+    ],
     "wof:id":672288017,
-    "wof:lastmodified":1472625448,
+    "wof:lastmodified":1492111105,
     "wof:name":"Oakwood Senior Estates",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

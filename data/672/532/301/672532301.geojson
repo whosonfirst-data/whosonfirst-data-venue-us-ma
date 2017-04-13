@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.228753,41.686297,-70.228753,41.686297",
     "geom:latitude":41.686297,
     "geom:longitude":-70.228753,
@@ -32,17 +33,26 @@
         "billiard"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_078Xf6V1uOZUl4aiKkz1Yg_41.686297_-70.228753@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721111,
-    "wof:geomhash":"5830ee3fef192b398ae89720877af90e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17d92cc7c05956c06ab3ef013aef639f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672532301
+        }
+    ],
     "wof:id":672532301,
-    "wof:lastmodified":1472625789,
+    "wof:lastmodified":1492114248,
     "wof:name":"Classical Billiards",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

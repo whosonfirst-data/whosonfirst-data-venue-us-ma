@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.125242,42.133606,-71.125242,42.133606",
     "geom:latitude":42.133606,
     "geom:longitude":-71.125242,
@@ -31,17 +32,26 @@
         "shoes"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Py0Y1GkEBN48tCJrCk9mc_42.133606_-71.125242@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716539,
-    "wof:geomhash":"1a12697b88e31bd8d75f0233fccba52b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d8e4b26649915688268e89418b5bd5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672341725
+        }
+    ],
     "wof:id":672341725,
-    "wof:lastmodified":1472625582,
+    "wof:lastmodified":1492109070,
     "wof:name":"East Coast Athletics",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

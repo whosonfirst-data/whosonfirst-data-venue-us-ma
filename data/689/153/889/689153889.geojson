@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.888029,42.021799,-70.888029,42.021799",
     "geom:latitude":42.021799,
     "geom:longitude":-70.888029,
@@ -32,17 +33,26 @@
         "maker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54daoDFwAbx1IJCH26CsMr_42.021799_-70.888029@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741031,
-    "wof:geomhash":"b8031d9032b7ccdd0551eeaef571b687",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddfacb4933c239294c5388b9832e72f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523849,
+            "venue_id":689153889
+        }
+    ],
     "wof:id":689153889,
-    "wof:lastmodified":1472625519,
+    "wof:lastmodified":1492097482,
     "wof:name":"Industial Patterns Inc",
     "wof:parent_id":420523849,
     "wof:placetype":"venue",

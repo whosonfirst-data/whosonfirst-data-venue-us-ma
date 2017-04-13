@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.599443,42.192366,-72.599443,42.192366",
     "geom:latitude":42.192366,
     "geom:longitude":-72.599443,
@@ -33,17 +34,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476347,
+        85633793,
+        85950397,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EddBT7JFaiDrFoI6ms6uQ_42.192500_-72.599531@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732420,
-    "wof:geomhash":"4bc9121ea499770195a32638ee92669a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13ffd83d078acc620065f039c21ffa96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "region_id":85688645,
+            "venue_id":673034731
+        }
+    ],
     "wof:id":673034731,
-    "wof:lastmodified":1472625085,
+    "wof:lastmodified":1492103942,
     "wof:name":"Laboratory Notebook Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

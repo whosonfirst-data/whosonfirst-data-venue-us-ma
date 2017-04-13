@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.343571,41.973769,-71.343571,41.973769",
     "geom:latitude":41.973769,
     "geom:longitude":-71.343571,
@@ -31,17 +32,32 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476133,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_160wqEvZ978eqfqZcjQk3e_41.973769_-71.343571@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726288,
-    "wof:geomhash":"a1cb09e928e864b15918010a00396ca0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c3a739d56b81474443d85ac8bfb7862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476133,
+            "region_id":85688645,
+            "venue_id":672766331
+        }
+    ],
     "wof:id":672766331,
-    "wof:lastmodified":1472625995,
+    "wof:lastmodified":1492115037,
     "wof:name":"Springbrook Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

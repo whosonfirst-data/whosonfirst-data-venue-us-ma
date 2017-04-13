@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.802101,41.917198,-70.802101,41.917198",
     "geom:latitude":41.917198,
     "geom:longitude":-70.802101,
@@ -32,17 +33,26 @@
         "video"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DETeUaPOkDHsUHWD6f5FD_41.917198_-70.802101@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740995,
-    "wof:geomhash":"40b273745e9f17e58f126fd76ffd624f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de7bf9ec095fd4c50c4e43f349584fd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152621
+        }
+    ],
     "wof:id":689152621,
-    "wof:lastmodified":1472625510,
+    "wof:lastmodified":1492101011,
     "wof:name":"Quickeez",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

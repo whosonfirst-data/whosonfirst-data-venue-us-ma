@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.779529,41.666716,-70.779529,41.666716",
     "geom:latitude":41.666716,
     "geom:longitude":-70.779529,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        420523985,
+        102191575,
+        404476521,
         85633793,
-        85825981,
-        102084367
+        85950465,
+        102084367,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,20 +44,23 @@
     },
     "wof:country":"US",
     "wof:created":1461730952,
-    "wof:geomhash":"68558adb10f6e8536462e131ec6ac46c",
+    "wof:geomhash":"7f8d6232165e944046aebe303b565e57",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084367,
-            "neighbourhood_id":85825981,
+            "localadmin_id":404476521,
+            "locality_id":85950465,
+            "neighbourhood_id":420523985,
             "region_id":85688645,
             "venue_id":672976525
         }
     ],
     "wof:id":672976525,
-    "wof:lastmodified":1472626186,
+    "wof:lastmodified":1492112849,
     "wof:name":"Hillside Motel",
-    "wof:parent_id":85825981,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

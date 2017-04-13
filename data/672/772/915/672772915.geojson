@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.621346,42.482344,-71.621346,42.482344",
     "geom:latitude":42.482344,
     "geom:longitude":-71.621346,
@@ -34,10 +35,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85809037,
-        102084655,
         85950627,
-        85824179
+        102084655,
+        85824179,
+        85809037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +46,8 @@
     },
     "wof:country":"US",
     "wof:created":1461726435,
-    "wof:geomhash":"ba4d003e60f8b9ce32c4bef4b7216cf0",
+    "wof:geomhash":"b0ce4ea1a21d102c2dc9390876d5b01b",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85809037,
-            "region_id":85688645,
-            "venue_id":672772915
-        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -61,12 +55,19 @@
             "neighbourhood_id":85824179,
             "region_id":85688645,
             "venue_id":672772915
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85809037,
+            "region_id":85688645,
+            "venue_id":672772915
         }
     ],
     "wof:id":672772915,
-    "wof:lastmodified":1472626014,
+    "wof:lastmodified":1492116189,
     "wof:name":"St Pius X House",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

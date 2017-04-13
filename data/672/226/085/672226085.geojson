@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.877197,42.448202,-71.877197,42.448202",
     "geom:latitude":42.448202,
     "geom:longitude":-71.877197,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pzScRVeoiLlnuIX0Wwerf_42.448202_-71.877197@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714090,
-    "wof:geomhash":"bd63d996112c1c881f393dac9820068f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92f4dd08043c9687f6f8b3dd20deaeae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524219,
+            "venue_id":672226085
+        }
+    ],
     "wof:id":672226085,
-    "wof:lastmodified":1472625227,
+    "wof:lastmodified":1492118232,
     "wof:name":"Wachusett House",
     "wof:parent_id":420524219,
     "wof:placetype":"venue",

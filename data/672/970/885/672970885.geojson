@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.991145,42.030958,-70.991145,42.030958",
     "geom:latitude":42.030958,
     "geom:longitude":-70.991145,
@@ -32,17 +33,26 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ofqg5URE60nuqrdOSVFW4_42.030958_-70.991145@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730776,
-    "wof:geomhash":"f115b18eef8f864e8cf25fb5863863df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"600d4eabc33d9abc0d3c5e75d709f93b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523979,
+            "venue_id":672970885
+        }
+    ],
     "wof:id":672970885,
-    "wof:lastmodified":1472626180,
+    "wof:lastmodified":1492106381,
     "wof:name":"Sandra L Churchill",
     "wof:parent_id":420523979,
     "wof:placetype":"venue",

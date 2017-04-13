@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.804109,41.922072,-70.804109,41.922072",
     "geom:latitude":41.922072,
     "geom:longitude":-70.804109,
@@ -31,17 +32,26 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ybu4glUlUXCKoFZx4qLGv_41.922072_-70.804109@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740999,
-    "wof:geomhash":"b2c096d316630d3171d2ce814ac7f240",
-    "wof:hierarchy":[],
+    "wof:geomhash":"208758e8c23b1f71d8842d4cb480dd96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152803
+        }
+    ],
     "wof:id":689152803,
-    "wof:lastmodified":1472625521,
+    "wof:lastmodified":1492101014,
     "wof:name":"Super Sports Family Golf Park",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

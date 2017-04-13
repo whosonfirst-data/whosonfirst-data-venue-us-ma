@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.850702,42.345935,-71.850702,42.345935",
     "geom:latitude":42.345935,
     "geom:longitude":-71.850702,
@@ -32,17 +33,26 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79jNlAdybPYzJ31g50eBEP_42.345935_-71.850702@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721811,
-    "wof:geomhash":"a73b097b8e60e0bb0dd8b0b33ca486fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ddd40250b22eb6d65c5d85ce1c9c972",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":672564685
+        }
+    ],
     "wof:id":672564685,
-    "wof:lastmodified":1472625827,
+    "wof:lastmodified":1492114462,
     "wof:name":"King Fish Tech",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.104823,42.046944,-71.104823,42.046944",
     "geom:latitude":42.046944,
     "geom:longitude":-71.104823,
@@ -37,8 +38,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85817073,
-        102084407
+        85813383,
+        102084407,
+        85817073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,15 @@
     },
     "wof:country":"US",
     "wof:created":1461731178,
-    "wof:geomhash":"5277c04f6ee8947f20079c23fc0f6c83",
+    "wof:geomhash":"aeb7720b4ddba147c7fc9e6612a2922f",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85813383,
+            "region_id":85688645,
+            "venue_id":672985561
+        },
         {
             "country_id":85633793,
             "county_id":102084407,
@@ -57,9 +66,9 @@
         }
     ],
     "wof:id":672985561,
-    "wof:lastmodified":1472626193,
+    "wof:lastmodified":1492111712,
     "wof:name":"Decorating Den Interiors",
-    "wof:parent_id":85817073,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.902986,41.73099,-70.902986,41.73099",
     "geom:latitude":41.73099,
     "geom:longitude":-70.902986,
@@ -31,17 +32,26 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tmEvFOZcFjsC4LD9JbKq4_41.730990_-70.902986@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729562,
-    "wof:geomhash":"51321e15e8c227fd17229c694f8f801e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d375b1ed64449c05c287ce713d3a970d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672927243
+        }
+    ],
     "wof:id":672927243,
-    "wof:lastmodified":1472626139,
+    "wof:lastmodified":1492105516,
     "wof:name":"G M White Construction Inc",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

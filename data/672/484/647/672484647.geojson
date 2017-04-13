@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.794935,42.257546,-71.794935,42.257546",
     "geom:latitude":42.257546,
     "geom:longitude":-71.794935,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838749,
+        85881871,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85838749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461720067,
-    "wof:geomhash":"29d8a6bf17b746416efd6337f3bc10e7",
+    "wof:geomhash":"5f0c1e17b235881899d69d24ebd42f58",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85881871,
+            "region_id":85688645,
+            "venue_id":672484647
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672484647,
-    "wof:lastmodified":1472625749,
+    "wof:lastmodified":1492110379,
     "wof:name":"Williams Dental Supply Co",
-    "wof:parent_id":85838749,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

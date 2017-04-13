@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.740749,42.21523,-70.740749,42.21523",
     "geom:latitude":42.21523,
     "geom:longitude":-70.740749,
@@ -28,19 +29,32 @@
     "sg:postcode":"02066",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85824231,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dL2Y9B8S8teb7cCT1LsSW_42.215230_-70.740749@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726034,
-    "wof:geomhash":"12c864ebeb33cb8607928cac819ce07e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24d377ebee492d546c8af55ac03c2ee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85824231,
+            "region_id":85688645,
+            "venue_id":672754965
+        }
+    ],
     "wof:id":672754965,
-    "wof:lastmodified":1472626000,
+    "wof:lastmodified":1492107295,
     "wof:name":"Dad's Place",
-    "wof:parent_id":420558503,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

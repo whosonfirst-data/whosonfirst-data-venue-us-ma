@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.921818,42.039421,-70.921818,42.039421",
     "geom:latitude":42.039421,
     "geom:longitude":-70.921818,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85817125,
-        102084367
+        102084367,
+        420523881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461717527,
-    "wof:geomhash":"eb5d625dc2ee198cdd2a0784ff48db65",
+    "wof:geomhash":"0a4e8ad2eb5245d8217f348eee84d41a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,17 @@
             "neighbourhood_id":85817125,
             "region_id":85688645,
             "venue_id":672384841
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523881,
+            "venue_id":672384841
         }
     ],
     "wof:id":672384841,
-    "wof:lastmodified":1472625657,
+    "wof:lastmodified":1492116648,
     "wof:name":"Cumberland Farms",
-    "wof:parent_id":85817125,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

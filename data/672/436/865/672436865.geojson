@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.085047,41.661638,-71.085047,41.661638",
     "geom:latitude":41.661638,
     "geom:longitude":-71.085047,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74phBdUoPZgfbvwAJuUkgr_41.661638_-71.085047@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718831,
-    "wof:geomhash":"111e99c6fdaa980539050124a0585779",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa81923052f11d85cf184daee825ad07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672436865
+        }
+    ],
     "wof:id":672436865,
-    "wof:lastmodified":1472625706,
+    "wof:lastmodified":1492118018,
     "wof:name":"Towne Beauty Salon",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

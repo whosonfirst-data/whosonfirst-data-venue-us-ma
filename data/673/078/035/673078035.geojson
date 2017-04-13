@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.992289,42.723288,-70.992289,42.723288",
     "geom:latitude":42.723288,
     "geom:longitude":-70.992289,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7I8sElgTOP4So59bRJpBjo_42.723279_-70.992204@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733309,
-    "wof:geomhash":"463377dd4381ffaafdaff55e820c17bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dac94512b4f32d8eb05a4a73eadf89f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673078035
+        }
+    ],
     "wof:id":673078035,
-    "wof:lastmodified":1472625201,
+    "wof:lastmodified":1492104500,
     "wof:name":"Lewis Skeirik Dmd Inc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

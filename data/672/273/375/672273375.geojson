@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.780771,42.079321,-70.780771,42.079321",
     "geom:latitude":42.079321,
     "geom:longitude":-70.780771,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7j0iNgOb3fKG7WT6sPB8U4_42.079321_-70.780771@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715062,
-    "wof:geomhash":"96c4d140f62f94784b422de61324ae74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17220d684b81d662df32d1d4e7bb07ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":672273375
+        }
+    ],
     "wof:id":672273375,
-    "wof:lastmodified":1472625419,
+    "wof:lastmodified":1492111470,
     "wof:name":"Fox Run Landscape Construction",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

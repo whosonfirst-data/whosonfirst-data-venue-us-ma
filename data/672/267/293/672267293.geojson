@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.996022,42.033747,-70.996022,42.033747",
     "geom:latitude":42.033747,
     "geom:longitude":-70.996022,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_496mjc2egHw5lHZep5KBRu_42.033747_-70.996022@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714951,
-    "wof:geomhash":"291b2394ba378597ad9e87f24ddafb18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5f4d48cf084d1b7e4b19d0b21107605",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523979,
+            "venue_id":672267293
+        }
+    ],
     "wof:id":672267293,
-    "wof:lastmodified":1472625399,
+    "wof:lastmodified":1492112727,
     "wof:name":"Corner Market",
     "wof:parent_id":420523979,
     "wof:placetype":"venue",

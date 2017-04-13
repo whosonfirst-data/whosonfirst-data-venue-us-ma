@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.054434,41.909683,-71.054434,41.909683",
     "geom:latitude":41.909683,
     "geom:longitude":-71.054434,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476139,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uNry3luK525rgG2EPMa0t_41.909683_-71.054434@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713291,
-    "wof:geomhash":"eadaea577ed0dd379d781f5e8f022718",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc365e9e851ecd8ff66aa4eaac10e72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476139,
+            "region_id":85688645,
+            "venue_id":672187927
+        }
+    ],
     "wof:id":672187927,
-    "wof:lastmodified":1472625159,
+    "wof:lastmodified":1492114858,
     "wof:name":"Current Components",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

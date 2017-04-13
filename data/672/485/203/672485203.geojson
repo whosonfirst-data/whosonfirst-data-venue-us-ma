@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.864184,41.746151,-70.864184,41.746151",
     "geom:latitude":41.746151,
     "geom:longitude":-70.864184,
@@ -31,17 +32,32 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476563,
+        85633793,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zKZB5iQE2RQkw46xUDdL6_41.746151_-70.864184@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720080,
-    "wof:geomhash":"eb88518f2289a94e07a36d4f643270ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b334b7a945a88772f33fd7f51bab9bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476563,
+            "region_id":85688645,
+            "venue_id":672485203
+        }
+    ],
     "wof:id":672485203,
-    "wof:lastmodified":1472625744,
+    "wof:lastmodified":1492106997,
     "wof:name":"Rochester Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

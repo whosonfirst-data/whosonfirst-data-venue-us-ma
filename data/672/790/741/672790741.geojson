@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.912461,41.733919,-70.912461,41.733919",
     "geom:latitude":41.733919,
     "geom:longitude":-70.912461,
@@ -33,19 +34,28 @@
         "reporter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5M3mPuKZCaIGz6sHfvVrOm_41.733919_-70.912461@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726804,
-    "wof:geomhash":"17c4100c3c440836f8d7c5044c593252",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c20c2aefb5330526849f0f9ba8041fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672790741
+        }
+    ],
     "wof:id":672790741,
-    "wof:lastmodified":1472626029,
+    "wof:lastmodified":1492119685,
     "wof:name":"De Terra Reporting Svc",
-    "wof:parent_id":420523313,
+    "wof:parent_id":420523359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

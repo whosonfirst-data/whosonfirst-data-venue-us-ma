@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.068287,41.995084,-71.068287,41.995084",
     "geom:latitude":41.995084,
     "geom:longitude":-71.068287,
@@ -34,17 +35,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523373
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EiP1QEClhssJ8X2LJPuXK_41.995084_-71.068287@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731743,
-    "wof:geomhash":"8eea13b037b6d428727921e4646b3155",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cec442a28deeb9aef7db7070821f43cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523373,
+            "venue_id":673007543
+        }
+    ],
     "wof:id":673007543,
-    "wof:lastmodified":1472624953,
+    "wof:lastmodified":1492102659,
     "wof:name":"Core Studios",
     "wof:parent_id":420523373,
     "wof:placetype":"venue",

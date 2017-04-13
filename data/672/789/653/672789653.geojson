@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.885397,42.546265,-70.885397,42.546265",
     "geom:latitude":42.546265,
     "geom:longitude":-70.885397,
@@ -35,7 +36,9 @@
         85633793,
         85950421,
         102084463,
-        85688645
+        85688645,
+        85891247,
+        85844369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461726781,
-    "wof:geomhash":"b81a0c2d07d3259858e5105b496cacaa",
+    "wof:geomhash":"ea0702e851f4ddb4b057c5d35aba30a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,32 @@
             "neighbourhood_id":420523401,
             "region_id":85688645,
             "venue_id":672789653
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476287,
+            "locality_id":85950421,
+            "neighbourhood_id":85891247,
+            "region_id":85688645,
+            "venue_id":672789653
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476287,
+            "locality_id":85950421,
+            "neighbourhood_id":85844369,
+            "region_id":85688645,
+            "venue_id":672789653
         }
     ],
     "wof:id":672789653,
-    "wof:lastmodified":1472626025,
+    "wof:lastmodified":1492108004,
     "wof:name":"1886 House Inc",
-    "wof:parent_id":420523401,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

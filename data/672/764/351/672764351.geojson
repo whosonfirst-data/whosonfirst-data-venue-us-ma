@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.70854,42.160413,-71.70854,42.160413",
     "geom:latitude":42.160413,
     "geom:longitude":-71.70854,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524081
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1j2ebELKFWBtURKZFfEEzy_42.160413_-71.708540@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726242,
-    "wof:geomhash":"affec29e0bb15dc8dc4762dcb9be6f1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6014db18a0c16c0c55e36e9e03aa010",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524081,
+            "venue_id":672764351
+        }
+    ],
     "wof:id":672764351,
-    "wof:lastmodified":1472625997,
+    "wof:lastmodified":1492106558,
     "wof:name":"Colonial Capital Corp",
     "wof:parent_id":420524081,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.019686,41.766055,-71.019686,41.766055",
     "geom:latitude":41.766055,
     "geom:longitude":-71.019686,
@@ -32,19 +33,32 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85803811,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ucw0UtLLuA75DtiqKVczd_41.766055_-71.019686@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717098,
-    "wof:geomhash":"8c20806364325c5d7541705f5ed145f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ec5dd89b751f728b7bc7410bea6351a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85803811,
+            "region_id":85688645,
+            "venue_id":672365341
+        }
+    ],
     "wof:id":672365341,
-    "wof:lastmodified":1472625636,
+    "wof:lastmodified":1492112866,
     "wof:name":"Bs Rentals Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

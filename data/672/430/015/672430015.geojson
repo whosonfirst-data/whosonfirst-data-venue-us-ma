@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.884944,42.001933,-70.884944,42.001933",
     "geom:latitude":42.001933,
     "geom:longitude":-70.884944,
@@ -28,17 +29,26 @@
     "sg:postcode":"02338",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5h34c5xLNHyMd0x96jmuic_42.001933_-70.884944@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718647,
-    "wof:geomhash":"c9f37a685de625c8bb45d8bd1a04d991",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e145698369a9df21d32fcbe149db5313",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523849,
+            "venue_id":672430015
+        }
+    ],
     "wof:id":672430015,
-    "wof:lastmodified":1472625691,
+    "wof:lastmodified":1492114693,
     "wof:name":"Dick Maul's Bike Shop",
     "wof:parent_id":420523849,
     "wof:placetype":"venue",

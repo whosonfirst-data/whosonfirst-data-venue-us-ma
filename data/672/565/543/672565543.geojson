@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.423262,42.237478,-72.423262,42.237478",
     "geom:latitude":42.237478,
     "geom:longitude":-72.423262,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27vF6eOwZTOkZMpodLDT1A_42.237478_-72.423262@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721826,
-    "wof:geomhash":"4581d4aa8d412b5915338311f9481701",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d91a823a9efa62062b154d376bb8ee2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672565543
+        }
+    ],
     "wof:id":672565543,
-    "wof:lastmodified":1472625823,
+    "wof:lastmodified":1492109333,
     "wof:name":"Ray Goulet Carpentry",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

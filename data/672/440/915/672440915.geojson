@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.981209,42.799788,-70.981209,42.799788",
     "geom:latitude":42.799788,
     "geom:longitude":-70.981209,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WVJcrdqPFDlranKiOMG3u_42.799788_-70.981209@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718923,
-    "wof:geomhash":"159c33fb589af38a97926bdaf109adbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a045b869d05a0bee5a310ea0149a5ccb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672440915
+        }
+    ],
     "wof:id":672440915,
-    "wof:lastmodified":1472625712,
+    "wof:lastmodified":1492114424,
     "wof:name":"Traincroft Associates",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

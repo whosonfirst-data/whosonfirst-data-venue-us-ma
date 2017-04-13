@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.589502,42.509093,-71.589502,42.509093",
     "geom:latitude":42.509093,
     "geom:longitude":-71.589502,
@@ -36,10 +37,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85809037,
-        102084655,
         85950627,
-        85824179
+        102084655,
+        85824179,
+        85809037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461726519,
-    "wof:geomhash":"b357e4d4567fc749b8a6ba5a0e84b846",
+    "wof:geomhash":"02e8a112af29ce4d4448f68e8de3c75e",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85809037,
-            "region_id":85688645,
-            "venue_id":672776949
-        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -63,12 +57,19 @@
             "neighbourhood_id":85824179,
             "region_id":85688645,
             "venue_id":672776949
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85809037,
+            "region_id":85688645,
+            "venue_id":672776949
         }
     ],
     "wof:id":672776949,
-    "wof:lastmodified":1472626021,
+    "wof:lastmodified":1492114987,
     "wof:name":"Highway Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

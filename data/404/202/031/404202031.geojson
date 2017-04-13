@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.556979,42.11382,-72.556979,42.11382",
     "geom:latitude":42.11382,
     "geom:longitude":-72.556979,
@@ -34,32 +35,47 @@
     "sg:website":"www.aic.edu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        420523583,
+        102191575,
+        404476369,
         85633793,
         85950393,
-        102084627
+        102084627,
+        85688645,
+        85833291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NX0bIW5uDYviOvnbK4GMX_42.113820_-72.556979@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b801260890677351f239b18bd305af1",
+    "wof:geomhash":"175e2ef2e017990edc856930fa3a0eb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084627,
+            "localadmin_id":404476369,
             "locality_id":85950393,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420523583,
+            "region_id":85688645,
+            "venue_id":404202031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476369,
+            "locality_id":85950393,
+            "neighbourhood_id":85833291,
             "region_id":85688645,
             "venue_id":404202031
         }
     ],
     "wof:id":404202031,
-    "wof:lastmodified":1472624900,
+    "wof:lastmodified":1492102364,
     "wof:name":"American International College",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

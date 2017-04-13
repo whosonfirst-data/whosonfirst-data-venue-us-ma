@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.905436,41.891014,-70.905436,41.891014",
     "geom:latitude":41.891014,
     "geom:longitude":-70.905436,
@@ -31,17 +32,26 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XWXeeSj3lstFPc6Y2EaKf_41.891014_-70.905436@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722304,
-    "wof:geomhash":"7abfa1bb2b1143a3d539555e99bba222",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f7620d2ce19c6e135a00e9f31b0f40e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672586867
+        }
+    ],
     "wof:id":672586867,
-    "wof:lastmodified":1472625841,
+    "wof:lastmodified":1492108412,
     "wof:name":"Middleboro Electric Station",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

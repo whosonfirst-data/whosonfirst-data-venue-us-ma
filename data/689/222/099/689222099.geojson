@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.214085,41.751965,-71.214085,41.751965",
     "geom:latitude":41.751965,
     "geom:longitude":-71.214085,
@@ -32,17 +33,26 @@
         "uniform"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7K5tWesAdyOw7wpvDY0WV6_41.751965_-71.214085@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742529,
-    "wof:geomhash":"49b518606126407b3315368201ceb329",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58217d2f4428539ccd5579ec3b498a1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":689222099
+        }
+    ],
     "wof:id":689222099,
-    "wof:lastmodified":1472625609,
+    "wof:lastmodified":1492100207,
     "wof:name":"Scout Shop",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

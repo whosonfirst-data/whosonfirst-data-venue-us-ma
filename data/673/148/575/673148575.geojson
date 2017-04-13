@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.488496,42.310058,-71.488496,42.310058",
     "geom:latitude":42.310058,
     "geom:longitude":-71.488496,
@@ -31,17 +32,32 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476613,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77SkwgZP9UUcxsgSrSxJLE_42.310058_-71.488496@1303262189"
     },
     "wof:country":"US",
     "wof:created":1461734770,
-    "wof:geomhash":"a0b39b5490261c2f7872bbd25bce8f04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d2343463a88e655429116b98411bc86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476613,
+            "region_id":85688645,
+            "venue_id":673148575
+        }
+    ],
     "wof:id":673148575,
-    "wof:lastmodified":1472625420,
+    "wof:lastmodified":1492103646,
     "wof:name":"Beede Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

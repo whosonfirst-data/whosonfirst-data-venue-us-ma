@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.622684,41.622837,-70.622684,41.622837",
     "geom:latitude":41.622837,
     "geom:longitude":-70.622684,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HOpVpJ7YAyefVAEZ4dn3L_41.622837_-70.622684@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711180,
-    "wof:geomhash":"be4a6ec4853197c0f973ed3ff9c15747",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74d0208933a6edec629df175ae550768",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":656360575
+        }
+    ],
     "wof:id":656360575,
-    "wof:lastmodified":1472624950,
+    "wof:lastmodified":1492101640,
     "wof:name":"Michael Leahy MD",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.021381,41.970801,-71.021381,41.970801",
     "geom:latitude":41.970801,
     "geom:longitude":-71.021381,
@@ -46,17 +47,26 @@
         "equipment-repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gRcJsvW3ZFwDYXXOU69dU_41.970801_-71.021381@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740986,
-    "wof:geomhash":"7da65effcf29effaba8d00a65e52eb5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"556ad0ad1236d8b13728761e41238cfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":689152107
+        }
+    ],
     "wof:id":689152107,
-    "wof:lastmodified":1472625488,
+    "wof:lastmodified":1492101005,
     "wof:name":"High Tech Controls",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

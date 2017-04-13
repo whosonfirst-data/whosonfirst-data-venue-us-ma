@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.721351,42.192301,-70.721351,42.192301",
     "geom:latitude":42.192301,
     "geom:longitude":-70.721351,
@@ -39,7 +40,8 @@
         85633793,
         85950485,
         102084367,
-        85688645
+        85688645,
+        85819339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461720400,
-    "wof:geomhash":"09b754d1baa6533a9b9c91c1fc78dfe4",
+    "wof:geomhash":"e4c231b824fc661c0259308ff3b82829",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,19 @@
             "neighbourhood_id":85847665,
             "region_id":85688645,
             "venue_id":672499551
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85819339,
+            "region_id":85688645,
+            "venue_id":672499551
         }
     ],
     "wof:id":672499551,
-    "wof:lastmodified":1472625764,
+    "wof:lastmodified":1492115026,
     "wof:name":"William & Mary Studios",
-    "wof:parent_id":85847665,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

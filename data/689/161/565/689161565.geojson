@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.851065,41.948591,-70.851065,41.948591",
     "geom:latitude":41.948591,
     "geom:longitude":-70.851065,
@@ -31,17 +32,26 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4J1q8eR9tMpXCozssGmpnm_41.948591_-70.851065@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741213,
-    "wof:geomhash":"d597776044ecc544a985ff83883a1b66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b75e70d4a8a4ee5b62bdf1cbb11854d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":689161565
+        }
+    ],
     "wof:id":689161565,
-    "wof:lastmodified":1472625524,
+    "wof:lastmodified":1492099157,
     "wof:name":"Paul Coulombe",
     "wof:parent_id":420523949,
     "wof:placetype":"venue",

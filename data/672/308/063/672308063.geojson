@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.933019,41.704952,-70.933019,41.704952",
     "geom:latitude":41.704952,
     "geom:longitude":-70.933019,
@@ -31,17 +32,26 @@
         "photography"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LJRMVD7emUHDzn0vNkWqa_41.704952_-70.933019@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715761,
-    "wof:geomhash":"2425a97ceb1d9c1398e092adcafe4449",
-    "wof:hierarchy":[],
+    "wof:geomhash":"178be38ac018ceb1140da9fdf323e77d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":672308063
+        }
+    ],
     "wof:id":672308063,
-    "wof:lastmodified":1472625501,
+    "wof:lastmodified":1492109379,
     "wof:name":"Captured Memories",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

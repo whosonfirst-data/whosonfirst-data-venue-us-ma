@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.88546,41.71553,-70.88546,41.71553",
     "geom:latitude":41.71553,
     "geom:longitude":-70.88546,
@@ -32,17 +33,26 @@
         "tune"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wsYjxmuPHYaD8TPctcrmu_41.715530_-70.885460@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742383,
-    "wof:geomhash":"029d03b134427f1d9132a9add4d06502",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3963213a9c589511826c4aaf2271ead",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":689216079
+        }
+    ],
     "wof:id":689216079,
-    "wof:lastmodified":1472625604,
+    "wof:lastmodified":1492097673,
     "wof:name":"Mass Auto Tune",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

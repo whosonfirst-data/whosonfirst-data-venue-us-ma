@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.008838,42.034174,-71.008838,42.034174",
     "geom:latitude":42.034174,
     "geom:longitude":-71.008838,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SGl9UeAj0WPTnK5hrDP7R_42.034174_-71.008838@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721466,
-    "wof:geomhash":"e434ba9a195b7c0dc7556de6fbfe85cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a63ebb659abdc020e22a98d7b00cc20c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523977,
+            "venue_id":672550175
+        }
+    ],
     "wof:id":672550175,
-    "wof:lastmodified":1472625805,
+    "wof:lastmodified":1492111811,
     "wof:name":"D & M Auto Body",
     "wof:parent_id":420523977,
     "wof:placetype":"venue",

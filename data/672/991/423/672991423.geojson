@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.692931,41.916592,-70.692931,41.916592",
     "geom:latitude":41.916592,
     "geom:longitude":-70.692931,
@@ -32,17 +33,26 @@
         "academy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QE8a5KFJwqE6DYylIx73a_41.916592_-70.692931@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731365,
-    "wof:geomhash":"b23149aeb17ba84416a79e14080e3417",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19239a8df47ebcd43e1f1cea246fc8ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672991423
+        }
+    ],
     "wof:id":672991423,
-    "wof:lastmodified":1472626198,
+    "wof:lastmodified":1492107186,
     "wof:name":"Rocking Horse Farm",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

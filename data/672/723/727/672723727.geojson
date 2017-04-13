@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.800251,42.240547,-70.800251,42.240547",
     "geom:latitude":42.240547,
     "geom:longitude":-70.800251,
@@ -31,17 +32,26 @@
         "packaging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jKwJhSJPnU4KDCG5FtlxJ_42.240547_-70.800251@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725373,
-    "wof:geomhash":"c1dbf0ee0624a42891c8b2a9920bf8df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34a70f56e085d2a97e57bda4ee159555",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672723727
+        }
+    ],
     "wof:id":672723727,
-    "wof:lastmodified":1472625966,
+    "wof:lastmodified":1492114726,
     "wof:name":"Hub Shipping",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

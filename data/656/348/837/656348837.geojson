@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.557355,42.592931,-72.557355,42.592931",
     "geom:latitude":42.592931,
     "geom:longitude":-72.557355,
@@ -35,7 +36,8 @@
         85633793,
         85950763,
         102084457,
-        85688645
+        85688645,
+        85844959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461710931,
-    "wof:geomhash":"d1fa92b681de9b9fac68b5486d6f79b6",
+    "wof:geomhash":"cf8d6ea897bb1fa71144d60986574697",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,19 @@
             "neighbourhood_id":85834871,
             "region_id":85688645,
             "venue_id":656348837
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084457,
+            "neighbourhood_id":85844959,
+            "region_id":85688645,
+            "venue_id":656348837
         }
     ],
     "wof:id":656348837,
-    "wof:lastmodified":1472624925,
+    "wof:lastmodified":1492101716,
     "wof:name":"Semaski General Contracting",
-    "wof:parent_id":85834871,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

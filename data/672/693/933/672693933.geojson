@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.890209,41.64306,-70.890209,41.64306",
     "geom:latitude":41.64306,
     "geom:longitude":-70.890209,
@@ -31,17 +32,26 @@
         "fence"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zgQO17XI5iy6cCFtm0tz3_41.643060_-70.890209@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724726,
-    "wof:geomhash":"b7b2c5e4765eedf8df037fbd302e1d21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcdc802f3c61ae76f1526c7e6e0a48df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672693933
+        }
+    ],
     "wof:id":672693933,
-    "wof:lastmodified":1472625944,
+    "wof:lastmodified":1492107800,
     "wof:name":"New England Fence Wrights",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

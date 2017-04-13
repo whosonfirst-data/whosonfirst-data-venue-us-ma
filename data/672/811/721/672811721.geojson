@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.828637,42.267621,-71.828637,42.267621",
     "geom:latitude":42.267621,
     "geom:longitude":-71.828637,
@@ -29,14 +30,15 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420558779,
+        85857275,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
         85688645,
-        85805121
+        85805121,
+        420558779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461727228,
-    "wof:geomhash":"73db79d140eee4d04e554e56fa135570",
+    "wof:geomhash":"35b78572c3b1c38e334f7429e099170a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +54,7 @@
             "county_id":102084655,
             "localadmin_id":404476639,
             "locality_id":85950375,
-            "neighbourhood_id":420558779,
+            "neighbourhood_id":85857275,
             "region_id":85688645,
             "venue_id":672811721
         },
@@ -65,12 +67,22 @@
             "neighbourhood_id":85805121,
             "region_id":85688645,
             "venue_id":672811721
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":420558779,
+            "region_id":85688645,
+            "venue_id":672811721
         }
     ],
     "wof:id":672811721,
-    "wof:lastmodified":1472626045,
+    "wof:lastmodified":1492111723,
     "wof:name":"Cedar Real Estate",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

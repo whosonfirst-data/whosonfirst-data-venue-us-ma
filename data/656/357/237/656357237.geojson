@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.767934,41.911373,-70.767934,41.911373",
     "geom:latitude":41.911373,
     "geom:longitude":-70.767934,
@@ -31,17 +32,26 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ki3V3lTTDQ3vPR63bCUVu_41.911373_-70.767934@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711104,
-    "wof:geomhash":"aee687a2d6c3020e9eb23a4bac45fcea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"496c5ff3b1324321a39deb866e00381e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":656357237
+        }
+    ],
     "wof:id":656357237,
-    "wof:lastmodified":1472624914,
+    "wof:lastmodified":1492102334,
     "wof:name":"Bolduc Sanitation & Excavation",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

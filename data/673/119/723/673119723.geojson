@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.963518,42.144304,-71.963518,42.144304",
     "geom:latitude":42.144304,
     "geom:longitude":-71.963518,
@@ -52,17 +53,26 @@
     ],
     "sg:website":"http://www.curves.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ce2QvD6bx1mkjImz6tWEF_42.144304_-71.963518@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734192,
-    "wof:geomhash":"eba6e4acdb03654a99093d4c70a78a68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"017251b2c6659d1bb46c437ef133b632",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":673119723
+        }
+    ],
     "wof:id":673119723,
-    "wof:lastmodified":1472625350,
+    "wof:lastmodified":1492104077,
     "wof:name":"Curves",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

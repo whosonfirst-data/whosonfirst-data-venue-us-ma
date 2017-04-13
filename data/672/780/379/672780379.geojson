@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.880734,42.124695,-70.880734,42.124695",
     "geom:latitude":42.124695,
     "geom:longitude":-70.880734,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bfrI6NWpcd5edBnzda0YH_42.124695_-70.880734@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726591,
-    "wof:geomhash":"b206c4492e3e37098688290517582801",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fb5be07bc95a9a01f04c321a3df6b6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672780379
+        }
+    ],
     "wof:id":672780379,
-    "wof:lastmodified":1472626011,
+    "wof:lastmodified":1492108647,
     "wof:name":"South Shore Habitat For Hmnty",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

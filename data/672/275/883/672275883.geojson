@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.031127,42.430859,-71.031127,42.430859",
     "geom:latitude":42.430859,
     "geom:longitude":-71.031127,
@@ -33,17 +34,34 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476399,
+        85633793,
+        85950349,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25iVTvkLxLEuL4n3RbF6oT_42.430859_-71.031127@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715110,
-    "wof:geomhash":"dc2bde9b861563408660b87e12ec32bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12fee93395367a911fb6b0674fac0375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476399,
+            "locality_id":85950349,
+            "region_id":85688645,
+            "venue_id":672275883
+        }
+    ],
     "wof:id":672275883,
-    "wof:lastmodified":1472625435,
+    "wof:lastmodified":1492107458,
     "wof:name":"Cat Happiness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

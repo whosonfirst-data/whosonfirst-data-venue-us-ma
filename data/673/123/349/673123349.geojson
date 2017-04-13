@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.645096,42.151314,-71.645096,42.151314",
     "geom:latitude":42.151314,
     "geom:longitude":-71.645096,
@@ -22,17 +23,26 @@
     "sg:postcode":"01534",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524169
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7l28ptQk1n47DtHCCMZiKp_42.151314_-71.645096@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734258,
-    "wof:geomhash":"cfb56681c898fe0cea61c43a7ab5188a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"328a96b7d46dd327b58ccf3556dcd171",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524169,
+            "venue_id":673123349
+        }
+    ],
     "wof:id":673123349,
-    "wof:lastmodified":1472625355,
+    "wof:lastmodified":1492102925,
     "wof:name":"Hair Studio",
     "wof:parent_id":420524169,
     "wof:placetype":"venue",

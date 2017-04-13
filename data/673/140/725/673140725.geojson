@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.612236,42.441427,-71.612236,42.441427",
     "geom:latitude":42.441427,
     "geom:longitude":-71.612236,
@@ -31,17 +32,26 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DgQGol4VMI9qDlOGyUrsr_42.441427_-71.612236@1303262188"
     },
     "wof:country":"US",
     "wof:created":1461734606,
-    "wof:geomhash":"a246d7c858c22d5d62fc753b17641091",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7662ec494e16e5b7011627cf029e6770",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":673140725
+        }
+    ],
     "wof:id":673140725,
-    "wof:lastmodified":1472625400,
+    "wof:lastmodified":1492104692,
     "wof:name":"Babbit Property Management Inc",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

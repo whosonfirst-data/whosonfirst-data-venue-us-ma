@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.8834,42.043283,-70.8834,42.043283",
     "geom:latitude":42.043283,
     "geom:longitude":-70.8834,
@@ -33,17 +34,26 @@
     ],
     "sg:website":"http://www.landplanninginc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58N3pw4sV3NlIVX16EannE_42.043220_-70.882769@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733023,
-    "wof:geomhash":"c65cb6d4c359565d725a30aba3cb4725",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d829d86933e2d421943b4bf93a38426",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523849,
+            "venue_id":673063819
+        }
+    ],
     "wof:id":673063819,
-    "wof:lastmodified":1472625187,
+    "wof:lastmodified":1492105386,
     "wof:name":"Land Planning Inc",
     "wof:parent_id":420523849,
     "wof:placetype":"venue",

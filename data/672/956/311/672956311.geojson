@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.111849,42.13787,-71.111849,42.13787",
     "geom:latitude":42.13787,
     "geom:longitude":-71.111849,
@@ -32,17 +33,26 @@
         "telecommunication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kUUHK27pKJnXJWo21WdWs_42.137870_-71.111849@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730322,
-    "wof:geomhash":"d072e1387a6da209ecd37eee3915eb7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70e5bdce4b03accc94cff0f5a7ad6e79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672956311
+        }
+    ],
     "wof:id":672956311,
-    "wof:lastmodified":1472626166,
+    "wof:lastmodified":1492110484,
     "wof:name":"Blackwell Consulting Services",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

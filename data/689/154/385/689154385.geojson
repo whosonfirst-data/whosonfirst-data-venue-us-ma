@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.888507,42.119761,-70.888507,42.119761",
     "geom:latitude":42.119761,
     "geom:longitude":-70.888507,
@@ -32,17 +33,26 @@
         "landscaping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KeOcwadl88I5yfODDIt5h_42.119761_-70.888507@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741042,
-    "wof:geomhash":"2cc8fbf4feddd6cb3612f6267f12642f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50564195b2f3250b913a5e98126c9f01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":689154385
+        }
+    ],
     "wof:id":689154385,
-    "wof:lastmodified":1472625501,
+    "wof:lastmodified":1492098561,
     "wof:name":"Green Connection",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

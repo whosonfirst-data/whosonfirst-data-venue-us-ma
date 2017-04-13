@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.848792,42.090133,-70.848792,42.090133",
     "geom:latitude":42.090133,
     "geom:longitude":-70.848792,
@@ -37,17 +38,26 @@
         "spice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78N87AFX6vAtGKictreKzr_42.090133_-70.848792@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741046,
-    "wof:geomhash":"6a9764b736a64d0bff002a3b29898209",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea5e73fa328380b01b850e0d7c360b4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523915,
+            "venue_id":689154621
+        }
+    ],
     "wof:id":689154621,
-    "wof:lastmodified":1472625511,
+    "wof:lastmodified":1492098567,
     "wof:name":"Herb Society America Neng Unit",
     "wof:parent_id":420523915,
     "wof:placetype":"venue",

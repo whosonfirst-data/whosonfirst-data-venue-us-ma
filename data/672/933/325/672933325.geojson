@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.112971,42.127133,-71.112971,42.127133",
     "geom:latitude":42.127133,
     "geom:longitude":-71.112971,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6w9HCrUmXqCsftUc3Epob0_42.127133_-71.112971@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729714,
-    "wof:geomhash":"a8062336d3ee1ccd6becb1560cddf2b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e50f86ed1997b06632941fc7bedd8c30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672933325
+        }
+    ],
     "wof:id":672933325,
-    "wof:lastmodified":1472626145,
+    "wof:lastmodified":1492109518,
     "wof:name":"Comeau & Kelly Constr Inc",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

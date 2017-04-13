@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.990409,41.986093,-70.990409,41.986093",
     "geom:latitude":41.986093,
     "geom:longitude":-70.990409,
@@ -32,10 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420523831,
         85850909,
         102191575,
         404476501,
-        85633793,
         85950443,
         102084367,
         85688645
@@ -46,8 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1461725747,
-    "wof:geomhash":"1c0a40543c3a0e34f74479f9f2727144",
+    "wof:geomhash":"af2e87931d7bc5e62f3c94810d08fd65",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672740551
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +67,9 @@
         }
     ],
     "wof:id":672740551,
-    "wof:lastmodified":1472625986,
+    "wof:lastmodified":1492113494,
     "wof:name":"Bridgewater Domestic Violence",
-    "wof:parent_id":85850909,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

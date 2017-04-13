@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.893619,42.041882,-70.893619,42.041882",
     "geom:latitude":42.041882,
     "geom:longitude":-70.893619,
@@ -32,17 +33,26 @@
         "rooms"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mraljVGGzPpxCvJZVDtg8_42.041882_-70.893619@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728943,
-    "wof:geomhash":"5531266afc8bc67ec629e04e6b63f1a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ad19218a194d327b45b9b2740e78173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":672895839
+        }
+    ],
     "wof:id":672895839,
-    "wof:lastmodified":1472626116,
+    "wof:lastmodified":1492105993,
     "wof:name":"Cataldi's Restaurant",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.02403,42.28103,-71.02403,42.28103",
     "geom:latitude":42.28103,
     "geom:longitude":-71.02403,
@@ -38,7 +39,8 @@
         85633793,
         85950429,
         102084403,
-        85688645
+        85688645,
+        85803859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461726011,
-    "wof:geomhash":"1a7acf1864720b3d275e8d3282c50fa1",
+    "wof:geomhash":"e4d67574b441b86486c553b8fc84789d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85837951,
             "region_id":85688645,
             "venue_id":672753683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476591,
+            "locality_id":85950429,
+            "neighbourhood_id":85803859,
+            "region_id":85688645,
+            "venue_id":672753683
         }
     ],
     "wof:id":672753683,
-    "wof:lastmodified":1472625998,
+    "wof:lastmodified":1492110759,
     "wof:name":"Charles Colby",
-    "wof:parent_id":85837951,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

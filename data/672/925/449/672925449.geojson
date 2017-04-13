@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.011115,41.949288,-71.011115,41.949288",
     "geom:latitude":41.949288,
     "geom:longitude":-71.011115,
@@ -31,17 +32,26 @@
         "graphite"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uVHuI0MH8Apq2ZcqMQhn5_41.949288_-71.011115@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729530,
-    "wof:geomhash":"efd19868752a837a5e7c38ea3ec703a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05905163879f9c63da1666ccd1651048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672925449
+        }
+    ],
     "wof:id":672925449,
-    "wof:lastmodified":1472626140,
+    "wof:lastmodified":1492118073,
     "wof:name":"Union Graphite Specialty",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.518213,42.072471,-72.518213,42.072471",
     "geom:latitude":42.072471,
     "geom:longitude":-72.518213,
@@ -31,17 +32,32 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475973,
+        85633793,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0phCqxenyYmfwFI4WZ7RN0_42.072471_-72.518213@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720155,
-    "wof:geomhash":"643e08374fb7c191aefb4931b94fee01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f75699f04ccfb6fabb90914df1359955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404475973,
+            "region_id":85688645,
+            "venue_id":672488741
+        }
+    ],
     "wof:id":672488741,
-    "wof:lastmodified":1472625752,
+    "wof:lastmodified":1492114117,
     "wof:name":"Richard Bachard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

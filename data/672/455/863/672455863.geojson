@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.590977,42.018462,-71.590977,42.018462",
     "geom:latitude":42.018462,
     "geom:longitude":-71.590977,
@@ -31,19 +32,32 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85810765,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45xP22Qnd40dwljQzRSeuj_42.018462_-71.590977@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719335,
-    "wof:geomhash":"faabff90dfb117695d467cff253a32c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd9d114869e7623d9242792821ef6bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85810765,
+            "region_id":85688645,
+            "venue_id":672455863
+        }
+    ],
     "wof:id":672455863,
-    "wof:lastmodified":1472625726,
+    "wof:lastmodified":1492109503,
     "wof:name":"Creative Automotive",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

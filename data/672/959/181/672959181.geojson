@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.537393,42.140096,-71.537393,42.140096",
     "geom:latitude":42.140096,
     "geom:longitude":-71.537393,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"US",
     "wof:created":1461730404,
-    "wof:geomhash":"0acaebfe4426e22e0e3dd3f651287439",
+    "wof:geomhash":"cfbd88b5ce05e565a8b98fd8412051e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672959181
         }
     ],
     "wof:id":672959181,
-    "wof:lastmodified":1472626163,
+    "wof:lastmodified":1492115474,
     "wof:name":"Juvenile Probation Dept",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

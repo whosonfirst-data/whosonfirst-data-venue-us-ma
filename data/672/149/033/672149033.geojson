@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.013076,42.480714,-71.013076,42.480714",
     "geom:latitude":42.480714,
     "geom:longitude":-71.013076,
@@ -35,13 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523459,
+        420523463,
         102191575,
         404476265,
         85633793,
         85950809,
         102084463,
-        85688645
+        85688645,
+        420523459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +51,18 @@
     },
     "wof:country":"US",
     "wof:created":1461712435,
-    "wof:geomhash":"285f2a90ac2759bee9a4e4c1914ee7a2",
+    "wof:geomhash":"1278fbb9e01c224be84b47a8ee9e5fdc",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476265,
+            "locality_id":85950809,
+            "neighbourhood_id":420523463,
+            "region_id":85688645,
+            "venue_id":672149033
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -63,9 +75,9 @@
         }
     ],
     "wof:id":672149033,
-    "wof:lastmodified":1472624925,
+    "wof:lastmodified":1492118728,
     "wof:name":"J W Millar Co",
-    "wof:parent_id":420523459,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

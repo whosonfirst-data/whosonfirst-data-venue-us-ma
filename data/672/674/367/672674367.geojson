@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.225145,42.314385,-71.225145,42.314385",
     "geom:latitude":42.314385,
     "geom:longitude":-71.225145,
@@ -33,17 +34,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1O6la5R1rNnBIYNJSAi6Jo_42.314385_-71.225145@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724256,
-    "wof:geomhash":"a20367e4357501ef272c1c9ce11875bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5885ce77b74eaa1a6f27937f92fc23a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":672674367
+        }
+    ],
     "wof:id":672674367,
-    "wof:lastmodified":1472625919,
+    "wof:lastmodified":1492108349,
     "wof:name":"Massachusetts Business Forms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

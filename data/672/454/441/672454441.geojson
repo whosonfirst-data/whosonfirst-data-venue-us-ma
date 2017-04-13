@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.467046,42.062693,-71.467046,42.062693",
     "geom:latitude":42.062693,
     "geom:longitude":-71.467046,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eCHcXOaAzUCG0ZLIAhFac_42.062693_-71.467046@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719302,
-    "wof:geomhash":"df982eb84a05c2f670af9367bc5823ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9301edbae586b60f536dd96f2b2bebe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523777,
+            "venue_id":672454441
+        }
+    ],
     "wof:id":672454441,
-    "wof:lastmodified":1472625723,
+    "wof:lastmodified":1492115685,
     "wof:name":"Concord Group",
     "wof:parent_id":420523777,
     "wof:placetype":"venue",

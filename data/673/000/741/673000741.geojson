@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.958865,42.414842,-71.958865,42.414842",
     "geom:latitude":42.414842,
     "geom:longitude":-71.958865,
@@ -32,17 +33,26 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27MLTCA55NE1s5gsecOMOf_42.414842_-71.958865@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731593,
-    "wof:geomhash":"4442c842feac7ee79d92d5312eb8b967",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c29db7c15e7e4ff918d6b10c10b8db1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524223,
+            "venue_id":673000741
+        }
+    ],
     "wof:id":673000741,
-    "wof:lastmodified":1472624935,
+    "wof:lastmodified":1492104439,
     "wof:name":"Pool Service By Ron",
     "wof:parent_id":420524223,
     "wof:placetype":"venue",

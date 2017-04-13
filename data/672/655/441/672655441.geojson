@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.375147,42.461369,-72.375147,42.461369",
     "geom:latitude":42.461369,
     "geom:longitude":-72.375147,
@@ -32,17 +33,26 @@
         "coffee"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523499
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D8loOaSYeQFkjax65N0ty_42.461369_-72.375147@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723832,
-    "wof:geomhash":"4d5dbe0682ff0a2f071ee9f8e417d1b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff9d9a961fa1fa702812f11dcc491937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523499,
+            "venue_id":672655441
+        }
+    ],
     "wof:id":672655441,
-    "wof:lastmodified":1472625895,
+    "wof:lastmodified":1492119877,
     "wof:name":"Swift River Coffee Co",
     "wof:parent_id":420523499,
     "wof:placetype":"venue",

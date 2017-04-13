@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.068775,42.444745,-73.068775,42.444745",
     "geom:latitude":42.444745,
     "geom:longitude":-73.068775,
@@ -32,17 +33,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07sNp3YI0OmoNtHX862OXF_42.444745_-73.068775@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712689,
-    "wof:geomhash":"62482939086052e06d4bf225d1af6ae4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da7c41a65b8b3a303eeec3a282c86cc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523253,
+            "venue_id":672161417
+        }
+    ],
     "wof:id":672161417,
-    "wof:lastmodified":1472625018,
+    "wof:lastmodified":1492112287,
     "wof:name":"Powers Industries Inc",
     "wof:parent_id":420523253,
     "wof:placetype":"venue",

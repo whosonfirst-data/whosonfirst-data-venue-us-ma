@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.030695,42.55946,-71.030695,42.55946",
     "geom:latitude":42.55946,
     "geom:longitude":-71.030695,
@@ -31,17 +32,34 @@
         "opportunity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476253,
+        85633793,
+        85950407,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ITpnx1fTko5glYEEjKskQ_42.559460_-71.030695@1303262196"
     },
     "wof:country":"US",
     "wof:created":1461735873,
-    "wof:geomhash":"c6f4087e4746161c4b0d493d630a4b62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc8ea7afdf61536f5f2e075c33cabc03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476253,
+            "locality_id":85950407,
+            "region_id":85688645,
+            "venue_id":688931175
+        }
+    ],
     "wof:id":688931175,
-    "wof:lastmodified":1472625007,
+    "wof:lastmodified":1492120203,
     "wof:name":"The Write Exchange Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

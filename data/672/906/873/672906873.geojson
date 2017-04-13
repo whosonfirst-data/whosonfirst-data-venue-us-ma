@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.674359,42.074885,-70.674359,42.074885",
     "geom:latitude":42.074885,
     "geom:longitude":-70.674359,
@@ -33,17 +34,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N2nC3jED4nDTwy7WKxT3O_42.074885_-70.674359@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729167,
-    "wof:geomhash":"714242eebbe9d317370f4c369149dcb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccbc9a72df2bea5b915f60eddc86bf95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":672906873
+        }
+    ],
     "wof:id":672906873,
-    "wof:lastmodified":1472626132,
+    "wof:lastmodified":1492108097,
     "wof:name":"Mechanical Insulation Sys",
     "wof:parent_id":420523971,
     "wof:placetype":"venue",

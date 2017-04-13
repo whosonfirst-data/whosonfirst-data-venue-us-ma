@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.92596,41.705915,-70.92596,41.705915",
     "geom:latitude":41.705915,
     "geom:longitude":-70.92596,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XSuQY5cJjh08BrVTHuskZ_41.705915_-70.925960@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714827,
-    "wof:geomhash":"0867efadbe99193412ab88d4f4dbc521",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cccd1bf614068bf33f6d75a458a2cd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":672260919
+        }
+    ],
     "wof:id":672260919,
-    "wof:lastmodified":1472625369,
+    "wof:lastmodified":1492107155,
     "wof:name":"J & H Masonry",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.847735,41.843924,-70.847735,41.843924",
     "geom:latitude":41.843924,
     "geom:longitude":-70.847735,
@@ -31,19 +32,38 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85826411,
+        102084367,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Jx4vMMcEK4ve3Q0clNpsT_41.843924_-70.847735@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721815,
-    "wof:geomhash":"6b8bde7f3319bc842ca082d49bfed2dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e111d26eea27912ee6080dcc59253f4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85826411,
+            "region_id":85688645,
+            "venue_id":672564913
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672564913
+        }
+    ],
     "wof:id":672564913,
-    "wof:lastmodified":1472625831,
+    "wof:lastmodified":1492114471,
     "wof:name":"Jon Libby Construction Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

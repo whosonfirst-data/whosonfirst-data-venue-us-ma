@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.420442,42.625771,-71.420442,42.625771",
     "geom:latitude":42.625771,
     "geom:longitude":-71.420442,
@@ -31,19 +32,32 @@
         "doughnut"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85857371,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xSpp6OfJSmoGDU1w95cRr_42.625771_-71.420442@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715014,
-    "wof:geomhash":"57a96f510625eaa53d089d1ddf5ca249",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f479c5e2d8ee83afa5144e5de8661da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85857371,
+            "region_id":85688645,
+            "venue_id":672270647
+        }
+    ],
     "wof:id":672270647,
-    "wof:lastmodified":1472625421,
+    "wof:lastmodified":1492112507,
     "wof:name":"Dunkin Donuts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85857371,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

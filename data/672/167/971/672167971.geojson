@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.437939,42.36032,-71.437939,42.36032",
     "geom:latitude":42.36032,
     "geom:longitude":-71.437939,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85841853,
+        102084643,
         85837033,
         102191575,
         404476489,
-        85633793,
-        85950629,
-        102084643,
-        85688645
+        85950629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461712859,
-    "wof:geomhash":"74fcb51adf811338f03dfd44f98803de",
+    "wof:geomhash":"adc06f8f7148cfcdaff8894c75c6fade",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85841853,
+            "region_id":85688645,
+            "venue_id":672167971
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +66,9 @@
         }
     ],
     "wof:id":672167971,
-    "wof:lastmodified":1472625042,
+    "wof:lastmodified":1492106408,
     "wof:name":"Noon Lawn & Landscape Co",
-    "wof:parent_id":85837033,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

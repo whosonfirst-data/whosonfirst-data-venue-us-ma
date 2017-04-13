@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.065981,41.612046,-71.065981,41.612046",
     "geom:latitude":41.612046,
     "geom:longitude":-71.065981,
@@ -26,17 +27,26 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jf4gUlrQKtGDwotBf0oVK_41.612046_-71.065981@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461733058,
-    "wof:geomhash":"f122a9b76312de44a34efc1fddd6b06a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e7333bf3675a31eee2ed5cab39cc7c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":673065753
+        }
+    ],
     "wof:id":673065753,
-    "wof:lastmodified":1472625176,
+    "wof:lastmodified":1492103244,
     "wof:name":"Diamond Scale Co",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

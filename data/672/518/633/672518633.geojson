@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.519925,41.587245,-70.519925,41.587245",
     "geom:latitude":41.587245,
     "geom:longitude":-70.519925,
@@ -34,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85865263,
+        102084379,
         85828363,
         102191575,
         404476181,
-        85633793,
-        85950545,
-        102084379,
-        85688645,
-        85865263
+        85950545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +50,15 @@
     },
     "wof:country":"US",
     "wof:created":1461720802,
-    "wof:geomhash":"9a738f5a6beeb5e02a797734380a94cf",
+    "wof:geomhash":"26941fe742a71ec862726a14bb7ff799",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084379,
+            "neighbourhood_id":85865263,
+            "region_id":85688645,
+            "venue_id":672518633
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,19 +68,12 @@
             "neighbourhood_id":85828363,
             "region_id":85688645,
             "venue_id":672518633
-        },
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "neighbourhood_id":85865263,
-            "region_id":85688645,
-            "venue_id":672518633
         }
     ],
     "wof:id":672518633,
-    "wof:lastmodified":1472625778,
+    "wof:lastmodified":1492114651,
     "wof:name":"Waquoit Feed & Garden Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

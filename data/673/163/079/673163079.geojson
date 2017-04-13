@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.205963,42.6772,-71.205963,42.6772",
     "geom:latitude":42.6772,
     "geom:longitude":-71.205963,
@@ -32,17 +33,26 @@
         "educational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523395
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mib7YToWJiSscZhdaYl3w_42.677200_-71.205963@1303262191"
     },
     "wof:country":"US",
     "wof:created":1461735080,
-    "wof:geomhash":"843686f2d4d2881d352c41527952794a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b734847876725b36bced2cb9c5f5b4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523395,
+            "venue_id":673163079
+        }
+    ],
     "wof:id":673163079,
-    "wof:lastmodified":1472625445,
+    "wof:lastmodified":1492103499,
     "wof:name":"A Plus Services",
     "wof:parent_id":420523395,
     "wof:placetype":"venue",

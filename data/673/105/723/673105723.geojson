@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.735909,42.149872,-72.735909,42.149872",
     "geom:latitude":42.149872,
     "geom:longitude":-72.735909,
@@ -34,17 +35,34 @@
         "dvds-rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476375,
+        85633793,
+        85950391,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bKI4I4yY4OYAjbPoiBuDA_42.149872_-72.735909@1303262184"
     },
     "wof:country":"US",
     "wof:created":1461733894,
-    "wof:geomhash":"a5baa5ef39691d8101dc3b0e7adb4f9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11e4bd9f488eab54e5ac8857218e5f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476375,
+            "locality_id":85950391,
+            "region_id":85688645,
+            "venue_id":673105723
+        }
+    ],
     "wof:id":673105723,
-    "wof:lastmodified":1472625291,
+    "wof:lastmodified":1492102419,
     "wof:name":"Video To Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

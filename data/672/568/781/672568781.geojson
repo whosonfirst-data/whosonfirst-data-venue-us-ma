@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.989554,42.61331,-70.989554,42.61331",
     "geom:latitude":42.61331,
     "geom:longitude":-70.989554,
@@ -31,19 +32,32 @@
         "camp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85834005,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EwuNpZvs2euNwg1mgUzUI_42.613310_-70.989554@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721889,
-    "wof:geomhash":"79940b7ef8727ed5de2aba69a55143c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb882b4716c1e239365b4a5c1ae3dc3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85834005,
+            "region_id":85688645,
+            "venue_id":672568781
+        }
+    ],
     "wof:id":672568781,
-    "wof:lastmodified":1472625825,
+    "wof:lastmodified":1492116606,
     "wof:name":"Camp Simchah",
-    "wof:parent_id":-1,
+    "wof:parent_id":85834005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

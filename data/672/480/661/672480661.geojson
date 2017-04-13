@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.369277,42.632093,-71.369277,42.632093",
     "geom:latitude":42.632093,
     "geom:longitude":-71.369277,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38vOvZqXFO0hngrbWd3gze_42.632093_-71.369277@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719958,
-    "wof:geomhash":"fd41c4b65a01208688a7057d4ac42db5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c36a5ad7fc37a9a6a1baf28865aa7db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672480661
+        }
+    ],
     "wof:id":672480661,
-    "wof:lastmodified":1472625743,
+    "wof:lastmodified":1492118954,
     "wof:name":"SGN Assoc",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

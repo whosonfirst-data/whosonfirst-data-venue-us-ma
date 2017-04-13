@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.006409,41.903759,-71.006409,41.903759",
     "geom:latitude":41.903759,
     "geom:longitude":-71.006409,
@@ -48,17 +49,32 @@
     ],
     "sg:website":"http://www.ryder.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476139,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lqA3ldQ4YowlQCECCEdbs_41.903759_-71.006409@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742480,
-    "wof:geomhash":"5230446c36ad9228a183192c74d4116e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ec83cf19bbb0c2f45530b5fdbb61da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476139,
+            "region_id":85688645,
+            "venue_id":689220105
+        }
+    ],
     "wof:id":689220105,
-    "wof:lastmodified":1472625610,
+    "wof:lastmodified":1492098349,
     "wof:name":"Ryder Truck Rental and Leasing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

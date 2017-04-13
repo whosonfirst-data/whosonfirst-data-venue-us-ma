@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.5338,42.137221,-71.5338,42.137221",
     "geom:latitude":42.137221,
     "geom:longitude":-71.5338,
@@ -35,7 +36,10 @@
         85633793,
         85950733,
         102084655,
-        85688645
+        85688645,
+        85857429,
+        404476653,
+        85950727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721611,
-    "wof:geomhash":"3c988bd8bf54626a2b8f575aea40eb89",
+    "wof:geomhash":"479fbad3348d2387f015c7c475a4b7c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +58,22 @@
             "neighbourhood_id":85849895,
             "region_id":85688645,
             "venue_id":672556597
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
+            "neighbourhood_id":85857429,
+            "region_id":85688645,
+            "venue_id":672556597
         }
     ],
     "wof:id":672556597,
-    "wof:lastmodified":1472625821,
+    "wof:lastmodified":1492119450,
     "wof:name":"Spin City",
-    "wof:parent_id":85849895,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.900587,42.526232,-70.900587,42.526232",
     "geom:latitude":42.526232,
     "geom:longitude":-70.900587,
@@ -31,19 +32,49 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85837989,
+        102191575,
+        404476213,
+        85633793,
+        85950403,
+        102084463,
+        85688645,
+        420523451
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FaV91F6nQxuYa4wguvrwl_42.526232_-70.900587@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716254,
-    "wof:geomhash":"27c4e6304086daf1a3b87c325fd3abbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43398f5eb7aa057c0ea5a59e80720e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476213,
+            "locality_id":85950403,
+            "neighbourhood_id":85837989,
+            "region_id":85688645,
+            "venue_id":672330925
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476213,
+            "locality_id":85950403,
+            "neighbourhood_id":420523451,
+            "region_id":85688645,
+            "venue_id":672330925
+        }
+    ],
     "wof:id":672330925,
-    "wof:lastmodified":1472625571,
+    "wof:lastmodified":1492118133,
     "wof:name":"Route 114 Citgo",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

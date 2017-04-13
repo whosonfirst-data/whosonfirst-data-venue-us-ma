@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.060226,42.049164,-71.060226,42.049164",
     "geom:latitude":42.049164,
     "geom:longitude":-71.060226,
@@ -32,17 +33,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73oHbShzVw7amxMhbZBtxb_42.049164_-71.060226@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721490,
-    "wof:geomhash":"ac5b245703cc9bb100f5832ac09aa863",
-    "wof:hierarchy":[],
+    "wof:geomhash":"603ecf0c5d62771d708a65e2612f1a94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523999,
+            "venue_id":672551517
+        }
+    ],
     "wof:id":672551517,
-    "wof:lastmodified":1472625827,
+    "wof:lastmodified":1492119063,
     "wof:name":"Jordan Engineering Co",
     "wof:parent_id":420523999,
     "wof:placetype":"venue",

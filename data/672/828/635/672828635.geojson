@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.568882,42.640743,-72.568882,42.640743",
     "geom:latitude":42.640743,
     "geom:longitude":-72.568882,
@@ -33,17 +34,26 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WzaDLfcr2gEPNzGSC8sps_42.640743_-72.568882@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727576,
-    "wof:geomhash":"9e7947985d66373f45f9b6022cefdb04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97bbe64697b1335f075cd099b594b5a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672828635
+        }
+    ],
     "wof:id":672828635,
-    "wof:lastmodified":1472626060,
+    "wof:lastmodified":1492109320,
     "wof:name":"Moonlight Auto Reconditioning",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

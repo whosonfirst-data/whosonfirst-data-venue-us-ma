@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.340707,42.168094,-72.340707,42.168094",
     "geom:latitude":42.168094,
     "geom:longitude":-72.340707,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85851933,
+        102191575,
+        404476365,
         85633793,
         85950385,
         102084627,
-        85851933
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1461732609,
-    "wof:geomhash":"50ecc9d254fd00cc172296e19699210f",
+    "wof:geomhash":"ce0e77faa53417ca8d78a0158d55114a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084627,
+            "localadmin_id":404476365,
             "locality_id":85950385,
             "neighbourhood_id":85851933,
             "region_id":85688645,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":673042975,
-    "wof:lastmodified":1472625117,
+    "wof:lastmodified":1492103080,
     "wof:name":"Office Care Of New England",
     "wof:parent_id":85851933,
     "wof:placetype":"venue",

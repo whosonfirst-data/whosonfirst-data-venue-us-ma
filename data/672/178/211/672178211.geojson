@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.81392,42.24395,-70.81392,42.24395",
     "geom:latitude":42.24395,
     "geom:longitude":-70.81392,
@@ -37,7 +38,8 @@
         85688645,
         85633793,
         85806299,
-        102084403
+        102084403,
+        420523765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461713078,
-    "wof:geomhash":"e83bd8e0cc9d6bf7cd45d149d6de24a0",
+    "wof:geomhash":"ed8ae9060aec46c26cf7f7856789ad86",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,17 @@
             "neighbourhood_id":85806299,
             "region_id":85688645,
             "venue_id":672178211
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523765,
+            "venue_id":672178211
         }
     ],
     "wof:id":672178211,
-    "wof:lastmodified":1472625070,
+    "wof:lastmodified":1492108919,
     "wof:name":"Cohasset Youth Baseball Assoc",
-    "wof:parent_id":85806299,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

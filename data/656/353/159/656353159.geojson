@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.71199,41.950452,-70.71199,41.950452",
     "geom:latitude":41.950452,
     "geom:longitude":-70.71199,
@@ -32,19 +33,32 @@
     ],
     "sg:website":"www.rogersprint.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85809093,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bzm5i3LgFkO1bZvEeUWnL_41.950452_-70.711990@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711024,
-    "wof:geomhash":"7501ea6e56a4c2ac1c4d3b5d4eddf056",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e83b2af73bf26d33928ea4b4b00eaff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85809093,
+            "region_id":85688645,
+            "venue_id":656353159
+        }
+    ],
     "wof:id":656353159,
-    "wof:lastmodified":1472624906,
+    "wof:lastmodified":1492101271,
     "wof:name":"Rogers Print & Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85809093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

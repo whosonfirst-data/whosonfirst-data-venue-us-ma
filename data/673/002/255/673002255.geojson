@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.893692,42.245127,-71.893692,42.245127",
     "geom:latitude":42.245127,
     "geom:longitude":-71.893692,
@@ -37,7 +38,9 @@
         85688645,
         85633793,
         85881859,
-        102084655
+        102084655,
+        85950375,
+        85827341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461731621,
-    "wof:geomhash":"9de70a92d174153533ac01c7fe210d51",
+    "wof:geomhash":"a47ffef6d037c1a82573e85302140d70",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,20 @@
             "neighbourhood_id":85881859,
             "region_id":85688645,
             "venue_id":673002255
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "locality_id":85950375,
+            "neighbourhood_id":85827341,
+            "region_id":85688645,
+            "venue_id":673002255
         }
     ],
     "wof:id":673002255,
-    "wof:lastmodified":1472624908,
+    "wof:lastmodified":1492103327,
     "wof:name":"Upstairs Gallery",
-    "wof:parent_id":85881859,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.961745,41.72014,-70.961745,41.72014",
     "geom:latitude":41.72014,
     "geom:longitude":-70.961745,
@@ -30,13 +31,14 @@
     "sg:website":"www.poyantsigns.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523375,
+        85868445,
         102191575,
         404476131,
         85633793,
         85950367,
         102084407,
-        85688645
+        85688645,
+        420523375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,18 @@
     },
     "wof:country":"US",
     "wof:created":1461716360,
-    "wof:geomhash":"f36d2ee9b0d2e4cf704449f0940be615",
+    "wof:geomhash":"79a8537b9c824fc5ba856526aab0e9d1",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476131,
+            "locality_id":85950367,
+            "neighbourhood_id":85868445,
+            "region_id":85688645,
+            "venue_id":672335835
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":672335835,
-    "wof:lastmodified":1472625582,
+    "wof:lastmodified":1492110556,
     "wof:name":"Poyant Signs Inc",
-    "wof:parent_id":420523375,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

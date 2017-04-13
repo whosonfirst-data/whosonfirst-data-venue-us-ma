@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.734705,41.931395,-70.734705,41.931395",
     "geom:latitude":41.931395,
     "geom:longitude":-70.734705,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZozNsBaeUxnARzcATNLBu_41.931395_-70.734705@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729697,
-    "wof:geomhash":"3cc1b838b427b6968da5361bde3643ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a47ec74bfaa49c10fbc597b924c8ff6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672932531
+        }
+    ],
     "wof:id":672932531,
-    "wof:lastmodified":1472626150,
+    "wof:lastmodified":1492113433,
     "wof:name":"Plymouth Rock Bible Church",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

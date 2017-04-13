@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.515769,42.376396,-71.515769,42.376396",
     "geom:latitude":42.376396,
     "geom:longitude":-71.515769,
@@ -32,17 +33,26 @@
         "disc"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nPysqMogCs4fSxU66CNcx_42.376396_-71.515769@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727326,
-    "wof:geomhash":"13f119bf72cf490bc14437d9e32f2ed5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34edf04562ff1b36d0299c11eda0e3db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672816143
+        }
+    ],
     "wof:id":672816143,
-    "wof:lastmodified":1472626043,
+    "wof:lastmodified":1492119554,
     "wof:name":"S T Media Inc",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

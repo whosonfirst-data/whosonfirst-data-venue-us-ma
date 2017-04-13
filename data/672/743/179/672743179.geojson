@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.29901,42.29595,-71.29901,42.29595",
     "geom:latitude":42.29595,
     "geom:longitude":-71.29901,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891553,
+        85891555,
         102191575,
         404476601,
         85633793,
         85950847,
         102084403,
-        85688645
+        85688645,
+        85891553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461725803,
-    "wof:geomhash":"556c36dfdb67c9858358c2987473820c",
+    "wof:geomhash":"ec3ac1af641e18384b46008c0b798e88",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476601,
+            "locality_id":85950847,
+            "neighbourhood_id":85891555,
+            "region_id":85688645,
+            "venue_id":672743179
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":672743179,
-    "wof:lastmodified":1472625973,
+    "wof:lastmodified":1492110980,
     "wof:name":"Ann Taylor",
-    "wof:parent_id":85891553,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

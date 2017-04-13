@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.797855,41.920659,-70.797855,41.920659",
     "geom:latitude":41.920659,
     "geom:longitude":-70.797855,
@@ -32,17 +33,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BajqBeAmBCmxhoPe6ZNhg_41.920659_-70.797855@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728780,
-    "wof:geomhash":"7f02d044ec1ee5299ce9cc1a8a871c6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30c837bc2f6b231df40239b33f2c2788",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672887785
+        }
+    ],
     "wof:id":672887785,
-    "wof:lastmodified":1472626113,
+    "wof:lastmodified":1492113695,
     "wof:name":"Retta Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

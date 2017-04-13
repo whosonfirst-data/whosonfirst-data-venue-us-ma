@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.033901,42.443241,-71.033901,42.443241",
     "geom:latitude":42.443241,
     "geom:longitude":-71.033901,
@@ -28,17 +29,34 @@
     "sg:postcode":"02148",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476399,
+        85633793,
+        85950349,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hLZSUvjtAh34BxTIbuL83_42.443241_-71.033901@1303262219"
     },
     "wof:country":"US",
     "wof:created":1461739454,
-    "wof:geomhash":"c4a76d2a5ebd10436517c3dadcdef807",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02251c873b7dfee3e8c698ae5dbde6f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476399,
+            "locality_id":85950349,
+            "region_id":85688645,
+            "venue_id":689103673
+        }
+    ],
     "wof:id":689103673,
-    "wof:lastmodified":1472625373,
+    "wof:lastmodified":1492099541,
     "wof:name":"Stoneham Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

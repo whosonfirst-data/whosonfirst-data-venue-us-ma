@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.895184,41.736165,-70.895184,41.736165",
     "geom:latitude":41.736165,
     "geom:longitude":-70.895184,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24Y2P72xbNTaef2lmuwEaK_41.736165_-70.895184@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714347,
-    "wof:geomhash":"10507b387d52d05bf8bf2f753b881101",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bb91c404c4b21c244a1bd99723f841b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672237635
+        }
+    ],
     "wof:id":672237635,
-    "wof:lastmodified":1472625315,
+    "wof:lastmodified":1492119375,
     "wof:name":"Thomas Roofing",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

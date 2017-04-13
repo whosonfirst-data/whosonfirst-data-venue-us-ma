@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.522697,42.375301,-71.522697,42.375301",
     "geom:latitude":42.375301,
     "geom:longitude":-71.522697,
@@ -47,17 +48,26 @@
     ],
     "sg:website":"http://www.classicevents.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4J1VKoSdCU4QmJ8jHhTqf4_42.375301_-71.522697@1303262189"
     },
     "wof:country":"US",
     "wof:created":1461734692,
-    "wof:geomhash":"50b6c3936d2d929123a738a07b57e844",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a64370818b625f065e28f788b77f4f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":673144799
+        }
+    ],
     "wof:id":673144799,
-    "wof:lastmodified":1472625415,
+    "wof:lastmodified":1492104915,
     "wof:name":"Classic Events",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.833469,42.336254,-71.833469,42.336254",
     "geom:latitude":42.336254,
     "geom:longitude":-71.833469,
@@ -32,17 +33,26 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BJYOOSJfEMM2H1uiiftfS_42.336254_-71.833469@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726734,
-    "wof:geomhash":"15af1c51167a0aa6cafd5dffb6e1e934",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3673bf2a6c8193d72852bbfd07eb8ed7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":672787397
+        }
+    ],
     "wof:id":672787397,
-    "wof:lastmodified":1472626020,
+    "wof:lastmodified":1492107526,
     "wof:name":"Alden Research Laboratory Inc",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

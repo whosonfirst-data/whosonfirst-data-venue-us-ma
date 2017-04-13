@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.79491,42.23204,-70.79491,42.23204",
     "geom:latitude":42.23204,
     "geom:longitude":-70.79491,
@@ -31,17 +32,26 @@
         "investment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56dhxidE9cN8guEHCgRGpA_42.232040_-70.794910@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727241,
-    "wof:geomhash":"f2f2187b7d143292c2d854d5d42f8888",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0c1b68cb1d878a4a80d59f476822d74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672812155
+        }
+    ],
     "wof:id":672812155,
-    "wof:lastmodified":1472626039,
+    "wof:lastmodified":1492109105,
     "wof:name":"O'Connor Group",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

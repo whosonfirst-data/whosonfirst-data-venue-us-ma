@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.246806,41.69295,-70.246806,41.69295",
     "geom:latitude":41.69295,
     "geom:longitude":-70.246806,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Fra2U2Mh7eVjxQ1OpZadd_41.692950_-70.246806@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727942,
-    "wof:geomhash":"cd6ef485133f5ae2031c88cef9cef843",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f84e5e636d1516c1266b631df6f0896e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672847449
+        }
+    ],
     "wof:id":672847449,
-    "wof:lastmodified":1472626078,
+    "wof:lastmodified":1492115835,
     "wof:name":"All Cape Spring Co",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

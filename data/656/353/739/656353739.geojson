@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.549469,41.82425,-70.549469,41.82425",
     "geom:latitude":41.82425,
     "geom:longitude":-70.549469,
@@ -31,17 +32,26 @@
         "shelter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2roViLXkwn61Pu2PQBElPS_41.824250_-70.549469@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711036,
-    "wof:geomhash":"5c68446afce80ebe372b10c51ebc2981",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10cbbab87fc2551bed6dcb8741430eb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523843,
+            "venue_id":656353739
+        }
+    ],
     "wof:id":656353739,
-    "wof:lastmodified":1472624925,
+    "wof:lastmodified":1492101277,
     "wof:name":"Plymouth Town Animal Shelter",
     "wof:parent_id":420523843,
     "wof:placetype":"venue",

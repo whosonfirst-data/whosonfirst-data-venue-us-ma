@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.79083,42.011962,-70.79083,42.011962",
     "geom:latitude":42.011962,
     "geom:longitude":-70.79083,
@@ -31,17 +32,26 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x05OWdUHnrZnWoM0G6J7C_42.011962_-70.790830@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721807,
-    "wof:geomhash":"27f21b4df69a21d2ab2746cc2746ee1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edf8fc125a12aeb45f290630a13a94ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672564471
+        }
+    ],
     "wof:id":672564471,
-    "wof:lastmodified":1472625816,
+    "wof:lastmodified":1492114462,
     "wof:name":"Weaver Clinic",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

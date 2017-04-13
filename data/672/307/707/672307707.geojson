@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.984779,42.020557,-70.984779,42.020557",
     "geom:latitude":42.020557,
     "geom:longitude":-70.984779,
@@ -31,17 +32,26 @@
         "carwash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Xelgzv130grwcPDjgOBYj_42.020557_-70.984779@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715750,
-    "wof:geomhash":"3aac3775dd3bf88348b973be209a6705",
-    "wof:hierarchy":[],
+    "wof:geomhash":"460a095ec64f78301fe5297e51478733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523939,
+            "venue_id":672307707
+        }
+    ],
     "wof:id":672307707,
-    "wof:lastmodified":1472625525,
+    "wof:lastmodified":1492106213,
     "wof:name":"Attention To Detail",
     "wof:parent_id":420523939,
     "wof:placetype":"venue",

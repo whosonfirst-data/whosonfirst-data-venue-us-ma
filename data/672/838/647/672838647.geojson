@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.57279,42.199583,-72.57279,42.199583",
     "geom:latitude":42.199583,
     "geom:longitude":-72.57279,
@@ -32,17 +33,34 @@
         "rooms"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476347,
+        85633793,
+        85950397,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0l08i4J7oQO4BgyHtgdeV8_42.199583_-72.572790@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727767,
-    "wof:geomhash":"1de1f679e2456d1c6a72d039f45dc454",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa295b4db05d28d3a3fca3bf5178dcd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "region_id":85688645,
+            "venue_id":672838647
+        }
+    ],
     "wof:id":672838647,
-    "wof:lastmodified":1472626070,
+    "wof:lastmodified":1492116990,
     "wof:name":"Castle Of Knights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

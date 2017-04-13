@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.729408,42.181523,-71.729408,42.181523",
     "geom:latitude":42.181523,
     "geom:longitude":-71.729408,
@@ -31,19 +32,32 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85807067,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XIgJnUcUKoEUN40M4HCSR_42.181523_-71.729408@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720818,
-    "wof:geomhash":"25a11b27643cbdcedb70ce94555380f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a4394eb5431ca2e1481dc8c8106db24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85807067,
+            "region_id":85688645,
+            "venue_id":672519257
+        }
+    ],
     "wof:id":672519257,
-    "wof:lastmodified":1472625777,
+    "wof:lastmodified":1492116599,
     "wof:name":"Alternative Truck & Auto",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.951107,42.464315,-70.951107,42.464315",
     "geom:latitude":42.464315,
     "geom:longitude":-70.951107,
@@ -34,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891411,
+        85891409,
         102191575,
         404476207,
         85633793,
         85950413,
         102084463,
-        85688645
+        85688645,
+        85891411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +50,18 @@
     },
     "wof:country":"US",
     "wof:created":1461727928,
-    "wof:geomhash":"907e4d2ee4720ce9f67de157a753581f",
+    "wof:geomhash":"494fc005fc48de3e6a87db577c5564c5",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476207,
+            "locality_id":85950413,
+            "neighbourhood_id":85891409,
+            "region_id":85688645,
+            "venue_id":672846677
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,9 +74,9 @@
         }
     ],
     "wof:id":672846677,
-    "wof:lastmodified":1472626076,
+    "wof:lastmodified":1492106047,
     "wof:name":"Juvenile Court",
-    "wof:parent_id":85891411,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

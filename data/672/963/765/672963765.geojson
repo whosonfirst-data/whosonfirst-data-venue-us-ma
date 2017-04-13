@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.611625,42.43502,-71.611625,42.43502",
     "geom:latitude":42.43502,
     "geom:longitude":-71.611625,
@@ -29,17 +30,26 @@
     "sg:province":"MA",
     "sg:website":"www.townofbolton.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kzAOtV5OyIif1u8AM1A3W_42.435020_-71.611625@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730567,
-    "wof:geomhash":"f3cb41eb6c2ef2b23082e5c6cff20730",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b86a4db4f77ce9d0b45709a9c1abbf70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672963765
+        }
+    ],
     "wof:id":672963765,
-    "wof:lastmodified":1472626176,
+    "wof:lastmodified":1492110310,
     "wof:name":"Bolton Public Library",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

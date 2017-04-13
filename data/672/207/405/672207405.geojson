@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.713902,42.139796,-70.713902,42.139796",
     "geom:latitude":42.139796,
     "geom:longitude":-70.713902,
@@ -32,17 +33,26 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SRRyrtq7E07UvRNTdMsgi_42.139796_-70.713902@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713719,
-    "wof:geomhash":"5ea52757a991d211c248f9f62083d0fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52312cf2c706b3e330ca4fefb291925a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523925,
+            "venue_id":672207405
+        }
+    ],
     "wof:id":672207405,
-    "wof:lastmodified":1472625213,
+    "wof:lastmodified":1492114398,
     "wof:name":"Dave's Lock & Key Svc",
     "wof:parent_id":420523925,
     "wof:placetype":"venue",

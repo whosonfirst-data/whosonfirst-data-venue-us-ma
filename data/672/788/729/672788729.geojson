@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.792941,42.281061,-71.792941,42.281061",
     "geom:latitude":42.281061,
     "geom:longitude":-71.792941,
@@ -38,7 +39,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85807633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461726762,
-    "wof:geomhash":"8c71120f4265b65d0891a43f46a22c80",
+    "wof:geomhash":"557c38f60bb04a84604063d358cb7f9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85810369,
             "region_id":85688645,
             "venue_id":672788729
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85807633,
+            "region_id":85688645,
+            "venue_id":672788729
         }
     ],
     "wof:id":672788729,
-    "wof:lastmodified":1472626027,
+    "wof:lastmodified":1492107412,
     "wof:name":"Joseph M Cahill Carpentry",
-    "wof:parent_id":85810369,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

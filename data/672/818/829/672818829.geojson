@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.014086,42.679326,-71.014086,42.679326",
     "geom:latitude":42.679326,
     "geom:longitude":-71.014086,
@@ -31,17 +32,26 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523465
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AbNHE2s3fWdqJcb2mMTqb_42.679326_-71.014086@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727372,
-    "wof:geomhash":"7a6bd8434348605e7c733f6080a16c01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e03efec38d7235bd79ee8edebcdb423",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523465,
+            "venue_id":672818829
+        }
+    ],
     "wof:id":672818829,
-    "wof:lastmodified":1472626060,
+    "wof:lastmodified":1492119773,
     "wof:name":"Hull Enterprises Inc",
     "wof:parent_id":420523465,
     "wof:placetype":"venue",

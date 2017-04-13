@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.47736,41.682311,-70.47736,41.682311",
     "geom:latitude":41.682311,
     "geom:longitude":-70.47736,
@@ -33,17 +34,26 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6J6DjQL1LONgSaa2VOrDn1_41.682311_-70.477360@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742216,
-    "wof:geomhash":"7b76b494ed29bd595521b1f4fa980244",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4a6a6cf5c06cb5542cc958cd90599f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":689207881
+        }
+    ],
     "wof:id":689207881,
-    "wof:lastmodified":1472625616,
+    "wof:lastmodified":1492099835,
     "wof:name":"Red Fren Message Thearpy",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

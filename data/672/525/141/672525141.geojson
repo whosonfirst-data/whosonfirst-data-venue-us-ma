@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.913232,42.81829,-70.913232,42.81829",
     "geom:latitude":42.81829,
     "geom:longitude":-70.913232,
@@ -34,16 +35,16 @@
     "sg:website":"www.cjtrailways.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891463,
+        85813287,
         102191575,
-        404476251,
+        404476283,
         85633793,
-        85950409,
+        85950401,
         102084463,
         85688645,
-        85813287,
-        404476283,
-        85950401
+        85891463,
+        404476251,
+        85950409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,18 +52,8 @@
     },
     "wof:country":"US",
     "wof:created":1461720950,
-    "wof:geomhash":"e2ea77e2c9de18165cd393b8f3d906c9",
+    "wof:geomhash":"76114efebc29b6fcbc2ca2af37e1c9ca",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476251,
-            "locality_id":85950409,
-            "neighbourhood_id":85891463,
-            "region_id":85688645,
-            "venue_id":672525141
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -72,12 +63,22 @@
             "neighbourhood_id":85813287,
             "region_id":85688645,
             "venue_id":672525141
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476251,
+            "locality_id":85950409,
+            "neighbourhood_id":85891463,
+            "region_id":85688645,
+            "venue_id":672525141
         }
     ],
     "wof:id":672525141,
-    "wof:lastmodified":1472625774,
+    "wof:lastmodified":1492109216,
     "wof:name":"Greyhound Bus Lines",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

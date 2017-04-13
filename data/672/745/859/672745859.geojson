@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.430926,42.243521,-71.430926,42.243521",
     "geom:latitude":42.243521,
     "geom:longitude":-71.430926,
@@ -33,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523707,
+        85688645,
         85822219,
         102084643
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461725857,
-    "wof:geomhash":"c46a2b1a0a093a70ff69159882f52f50",
+    "wof:geomhash":"7796bdd1daffcea206fda8ab5c0e670e",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672745859
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":672745859,
-    "wof:lastmodified":1472625992,
+    "wof:lastmodified":1492117081,
     "wof:name":"CBC Landscapinig Constr",
-    "wof:parent_id":85822219,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

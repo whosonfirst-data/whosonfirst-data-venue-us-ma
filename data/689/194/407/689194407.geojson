@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.613597,41.640737,-70.613597,41.640737",
     "geom:latitude":41.640737,
     "geom:longitude":-70.613597,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"www.localstdtesting.com/15",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53p7cnGofjee0L00iYYE4B_41.640737_-70.613597@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741931,
-    "wof:geomhash":"eab5179f5ae8fd185ec4647651d37540",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f889d85c11f9dff43a1a9d0da4e412a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":689194407
+        }
+    ],
     "wof:id":689194407,
-    "wof:lastmodified":1472625591,
+    "wof:lastmodified":1492099904,
     "wof:name":"Local HIV / STD Testing",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

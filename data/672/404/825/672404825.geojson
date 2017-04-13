@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.17893,42.627554,-71.17893,42.627554",
     "geom:latitude":42.627554,
     "geom:longitude":-71.17893,
@@ -34,19 +35,32 @@
     ],
     "sg:website":"www.vicorexpress.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85855177,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EG2ls3oNjkxr96lFNya6h_42.627554_-71.178930@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718030,
-    "wof:geomhash":"9f6a2cb76dcd921c58fa8a8ae3c9cdb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"007512912e4df9dddc605da35d916487",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85855177,
+            "region_id":85688645,
+            "venue_id":672404825
+        }
+    ],
     "wof:id":672404825,
-    "wof:lastmodified":1472625678,
+    "wof:lastmodified":1492110399,
     "wof:name":"Vicor Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

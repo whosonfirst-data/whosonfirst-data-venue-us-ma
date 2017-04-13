@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.003388,42.617292,-71.003388,42.617292",
     "geom:latitude":42.617292,
     "geom:longitude":-71.003388,
@@ -28,19 +29,32 @@
     "sg:postcode":"01949",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85826363,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iIKv6xGRVzKNnrlB5hV5c_42.617292_-71.003388@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711782,
-    "wof:geomhash":"c9f4d4da9b3166a8f230b535c07efe03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14ac51936ffab222d00b7926760dfac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85826363,
+            "region_id":85688645,
+            "venue_id":656388919
+        }
+    ],
     "wof:id":656388919,
-    "wof:lastmodified":1472625044,
+    "wof:lastmodified":1492102253,
     "wof:name":"TJB Appliance Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826363,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

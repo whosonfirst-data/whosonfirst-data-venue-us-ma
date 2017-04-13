@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.967319,42.440624,-71.967319,42.440624",
     "geom:latitude":42.440624,
     "geom:longitude":-71.967319,
@@ -31,19 +32,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524179
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_171mv7XCmFYSJg3ETa2ipc_42.440624_-71.967319@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726232,
-    "wof:geomhash":"2f41fd8d68c61adec514524b088d76c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4813dd80f6d7966c00bb27bc55fa051",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524179,
+            "venue_id":672763919
+        }
+    ],
     "wof:id":672763919,
-    "wof:lastmodified":1472626003,
+    "wof:lastmodified":1492114538,
     "wof:name":"JG Plastering",
-    "wof:parent_id":420524179,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

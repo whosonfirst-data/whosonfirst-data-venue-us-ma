@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.7241,42.173427,-72.7241,42.173427",
     "geom:latitude":42.173427,
     "geom:longitude":-72.7241,
@@ -32,17 +33,34 @@
         "motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476375,
+        85633793,
+        85950391,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KDVQJXa3MVruy4A8rTAFs_42.173427_-72.724100@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730837,
-    "wof:geomhash":"cdcbfc5e1491878bf49cd8bcb52ce17c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3bc4e704ff888ecbf5fa680e27232f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476375,
+            "locality_id":85950391,
+            "region_id":85688645,
+            "venue_id":672972559
+        }
+    ],
     "wof:id":672972559,
-    "wof:lastmodified":1472626185,
+    "wof:lastmodified":1492112931,
     "wof:name":"Electric Motor Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

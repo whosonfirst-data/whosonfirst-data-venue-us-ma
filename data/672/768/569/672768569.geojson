@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.83113,42.275337,-71.83113,42.275337",
     "geom:latitude":42.275337,
     "geom:longitude":-71.83113,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805121,
+        85857275,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
         85688645,
+        85805121,
         85827691
     ],
     "wof:breaches":[],
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461726344,
-    "wof:geomhash":"f168b4a49f949582a375858ae10cfccf",
+    "wof:geomhash":"ffea840ed4a5972a712e97d14ebe5305",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85857275,
+            "region_id":85688645,
+            "venue_id":672768569
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -71,9 +83,9 @@
         }
     ],
     "wof:id":672768569,
-    "wof:lastmodified":1472626009,
+    "wof:lastmodified":1492116289,
     "wof:name":"A Moveable Feast",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

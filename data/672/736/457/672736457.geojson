@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.272225,42.121438,-71.272225,42.121438",
     "geom:latitude":42.121438,
     "geom:longitude":-71.272225,
@@ -31,17 +32,26 @@
         "fuel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69x0tl5BwDJ4j8yJuc8B72_42.121438_-71.272225@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725649,
-    "wof:geomhash":"041c93d83d83874086b20d3c75591896",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d0ca720e093407b5f1bf56d48bd3cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672736457
+        }
+    ],
     "wof:id":672736457,
-    "wof:lastmodified":1472625975,
+    "wof:lastmodified":1492108825,
     "wof:name":"Asset Management Group",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

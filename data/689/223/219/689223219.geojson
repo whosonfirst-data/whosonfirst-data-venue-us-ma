@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.157402,41.883598,-71.157402,41.883598",
     "geom:latitude":41.883598,
     "geom:longitude":-71.157402,
@@ -31,17 +32,34 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476147,
+        85633793,
+        85950365,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_540CqGLQuwjUvpXsD8Fm0q_41.883598_-71.157402@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742554,
-    "wof:geomhash":"ad1f94f0006f10cef0702a7c94486d13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5724917868b7bff17ea67d92856cd613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476147,
+            "locality_id":85950365,
+            "region_id":85688645,
+            "venue_id":689223219
+        }
+    ],
     "wof:id":689223219,
-    "wof:lastmodified":1472625614,
+    "wof:lastmodified":1492100784,
     "wof:name":"Taunton Jaycees - CLOSED",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

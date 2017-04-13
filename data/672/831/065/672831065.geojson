@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.392835,42.664733,-71.392835,42.664733",
     "geom:latitude":42.664733,
     "geom:longitude":-71.392835,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mFnEQQ84xSEdgflJqe7s5_42.664733_-71.392835@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727619,
-    "wof:geomhash":"e3ee4fb7c5df909f1f2efe1aacca73cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aeef982a2ddc8acbcdf1884dc400b542",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523675,
+            "venue_id":672831065
+        }
+    ],
     "wof:id":672831065,
-    "wof:lastmodified":1472626053,
+    "wof:lastmodified":1492106755,
     "wof:name":"Greylock Homes Inc",
     "wof:parent_id":420523675,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.707979,41.904616,-70.707979,41.904616",
     "geom:latitude":41.904616,
     "geom:longitude":-70.707979,
@@ -31,17 +32,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TBdjWvekdq3C3lW2Yalag_41.904616_-70.707979@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720297,
-    "wof:geomhash":"79e9de533ee700cc95a215bd6d44ab82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"674e6527d81298b2ade9b96ba1484631",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672495133
+        }
+    ],
     "wof:id":672495133,
-    "wof:lastmodified":1472625751,
+    "wof:lastmodified":1492111273,
     "wof:name":"Fletcher Services Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

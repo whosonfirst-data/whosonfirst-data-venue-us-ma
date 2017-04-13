@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.943768,42.756133,-70.943768,42.756133",
     "geom:latitude":42.756133,
     "geom:longitude":-70.943768,
@@ -32,17 +33,26 @@
         "promoter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ASVaAOWyFQCSMbtiuRagE_42.756133_-70.943768@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729174,
-    "wof:geomhash":"78ba970d6eeb9b94884ad8c8ca9a7a31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94fcc92bf140c048da45337b34daa5ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672907281
+        }
+    ],
     "wof:id":672907281,
-    "wof:lastmodified":1472626121,
+    "wof:lastmodified":1492118472,
     "wof:name":"New England Sports Tours",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

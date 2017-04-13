@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.818767,42.198449,-71.818767,42.198449",
     "geom:latitude":42.198449,
     "geom:longitude":-71.818767,
@@ -31,17 +32,26 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IcG6zdgt7sf7CVzeQ6VrB_42.198449_-71.818767@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721014,
-    "wof:geomhash":"cb1d6c23d56d3059c36daf52e6dc2ea1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a37ff52105c00dcf2581b56b27edf62b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672528021
+        }
+    ],
     "wof:id":672528021,
-    "wof:lastmodified":1472625768,
+    "wof:lastmodified":1492109055,
     "wof:name":"New England Medical Management",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

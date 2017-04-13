@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.548299,41.577452,-70.548299,41.577452",
     "geom:latitude":41.577452,
     "geom:longitude":-70.548299,
@@ -29,14 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828363,
+        85849039,
         102191575,
         404476181,
         85633793,
         85950545,
         102084379,
         85688645,
-        85849039
+        85828363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +45,8 @@
     },
     "wof:country":"US",
     "wof:created":1461714761,
-    "wof:geomhash":"ba6f8c65c0caba35487edc7ea575d621",
+    "wof:geomhash":"e72bf914856cd6238248ed2bf9f8b024",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404476181,
-            "locality_id":85950545,
-            "neighbourhood_id":85828363,
-            "region_id":85688645,
-            "venue_id":672257599
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +56,22 @@
             "neighbourhood_id":85849039,
             "region_id":85688645,
             "venue_id":672257599
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404476181,
+            "locality_id":85950545,
+            "neighbourhood_id":85828363,
+            "region_id":85688645,
+            "venue_id":672257599
         }
     ],
     "wof:id":672257599,
-    "wof:lastmodified":1472625369,
+    "wof:lastmodified":1492115124,
     "wof:name":"Nickelodeon Cinemas",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

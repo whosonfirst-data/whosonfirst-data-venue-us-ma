@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.118517,42.137203,-71.118517,42.137203",
     "geom:latitude":42.137203,
     "geom:longitude":-71.118517,
@@ -31,17 +32,26 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CMcO08heUQ5057tdOuRqP_42.137203_-71.118517@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714092,
-    "wof:geomhash":"e13f13161b644491f3e7fb34abce2378",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25f280197db5b6a78b5fff831eee74e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672226125
+        }
+    ],
     "wof:id":672226125,
-    "wof:lastmodified":1472625224,
+    "wof:lastmodified":1492118242,
     "wof:name":"Microdevices Worlwide Inc",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.996906,42.725401,-70.996906,42.725401",
     "geom:latitude":42.725401,
     "geom:longitude":-70.996906,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xkrnzJu2ZrkqBndhKH8JW_42.725401_-70.996906@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723246,
-    "wof:geomhash":"6001273ea32e6035f42a3930e5ddc3bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d75f8d570b326de183f08b998cf4601",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672627791
+        }
+    ],
     "wof:id":672627791,
-    "wof:lastmodified":1472625883,
+    "wof:lastmodified":1492108676,
     "wof:name":"Moretti & Sons Inc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

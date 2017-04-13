@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.836693,42.244405,-71.836693,42.244405",
     "geom:latitude":42.244405,
     "geom:longitude":-71.836693,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854949,
+        85850233,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85854949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461729445,
-    "wof:geomhash":"94889632e0aa62888ca0eba0b05eaa5c",
+    "wof:geomhash":"689fa919792f20eedcde7caed1259706",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85850233,
+            "region_id":85688645,
+            "venue_id":672920885
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672920885,
-    "wof:lastmodified":1472626141,
+    "wof:lastmodified":1492111843,
     "wof:name":"JRA Design",
-    "wof:parent_id":85854949,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

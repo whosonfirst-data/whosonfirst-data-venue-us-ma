@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.19897,42.16457,-71.19897,42.16457",
     "geom:latitude":42.16457,
     "geom:longitude":-71.19897,
@@ -32,7 +33,11 @@
         85688645,
         85633793,
         85891313,
-        102084403
+        102084403,
+        85858347,
+        102191575,
+        404476589,
+        85950839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461714917,
-    "wof:geomhash":"0248fcb86839c693f72eaa34b00947f0",
+    "wof:geomhash":"0038e0785141fb2793c69919211f6d09",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +53,22 @@
             "neighbourhood_id":85891313,
             "region_id":85688645,
             "venue_id":672265473
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476589,
+            "locality_id":85950839,
+            "neighbourhood_id":85858347,
+            "region_id":85688645,
+            "venue_id":672265473
         }
     ],
     "wof:id":672265473,
-    "wof:lastmodified":1472625406,
+    "wof:lastmodified":1492115226,
     "wof:name":"Furniture Warehouse",
-    "wof:parent_id":85891313,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.885372,41.715315,-70.885372,41.715315",
     "geom:latitude":41.715315,
     "geom:longitude":-70.885372,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hUPe11vLr3Z4CVGJjdaIh_41.715315_-70.885372@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723525,
-    "wof:geomhash":"f5f1c4086b14edc4d56dc581ce830498",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d34e35a6c67d344e2625c784d2df43f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672641233
+        }
+    ],
     "wof:id":672641233,
-    "wof:lastmodified":1472625879,
+    "wof:lastmodified":1492113320,
     "wof:name":"Rep/Weld Corp",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.069229,42.027806,-71.069229,42.027806",
     "geom:latitude":42.027806,
     "geom:longitude":-71.069229,
@@ -31,19 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523987,
+        420523935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7macRMDSO2FSebtCVrSg6a_42.027806_-71.069229@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723236,
-    "wof:geomhash":"93b8936df8d929cdfcdffb8a5c9e2f7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"952eea8bcedcb1c8fcc18d102546c637",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523987,
+            "venue_id":672627307
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":672627307
+        }
+    ],
     "wof:id":672627307,
-    "wof:lastmodified":1472625874,
+    "wof:lastmodified":1492108668,
     "wof:name":"Doyles Bar and Grill",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

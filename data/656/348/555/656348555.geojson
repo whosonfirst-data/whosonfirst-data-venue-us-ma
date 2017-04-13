@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.472756,42.176146,-72.472756,42.176146",
     "geom:latitude":42.176146,
     "geom:longitude":-72.472756,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lJQto6DNRIGCWEXfSxKb0_42.176146_-72.472756@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461710925,
-    "wof:geomhash":"8a54fa3ba53a2a4ea50be95365645997",
-    "wof:hierarchy":[],
+    "wof:geomhash":"763bc2a2bd07e4d98a08b81a6aed9d70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":656348555
+        }
+    ],
     "wof:id":656348555,
-    "wof:lastmodified":1472624909,
+    "wof:lastmodified":1492101723,
     "wof:name":"Innovative Physician Svc",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

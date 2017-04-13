@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.079538,42.480171,-71.079538,42.480171",
     "geom:latitude":42.480171,
     "geom:longitude":-71.079538,
@@ -36,7 +37,10 @@
         85633793,
         85950659,
         102084643,
-        85688645
+        85688645,
+        420523701,
+        404476015,
+        85950653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461727209,
-    "wof:geomhash":"274d69f1f797eaf2ec204a1568dd97bd",
+    "wof:geomhash":"1c196cad8143ae0631b3636aa6869ee0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +59,22 @@
             "neighbourhood_id":85833725,
             "region_id":85688645,
             "venue_id":672810811
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476015,
+            "locality_id":85950653,
+            "neighbourhood_id":420523701,
+            "region_id":85688645,
+            "venue_id":672810811
         }
     ],
     "wof:id":672810811,
-    "wof:lastmodified":1472626049,
+    "wof:lastmodified":1492119219,
     "wof:name":"Alexsys Corp",
-    "wof:parent_id":85833725,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

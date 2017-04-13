@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.110271,41.626468,-71.110271,41.626468",
     "geom:latitude":41.626468,
     "geom:longitude":-71.110271,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24OrhLhb07LywozjMjIc3V_41.626468_-71.110271@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711248,
-    "wof:geomhash":"898b15252b5798c0b83690f06a46f60d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1aa2f0e06b912671febb0b06b9c9ce95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":656364023
+        }
+    ],
     "wof:id":656364023,
-    "wof:lastmodified":1472624925,
+    "wof:lastmodified":1492101421,
     "wof:name":"Patriot Auto Ctr Inc",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

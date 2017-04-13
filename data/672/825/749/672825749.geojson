@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.562302,42.230173,-72.562302,42.230173",
     "geom:latitude":42.230173,
     "geom:longitude":-72.562302,
@@ -33,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523647,
+        85688645,
         85818719,
         102084459
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461727511,
-    "wof:geomhash":"340dd598b3b180eb3a524f670cb899c4",
+    "wof:geomhash":"fce5ca6e0867b341d747edf09810f82b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523647,
+            "venue_id":672825749
+        },
         {
             "country_id":85633793,
             "county_id":102084459,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":672825749,
-    "wof:lastmodified":1472626062,
+    "wof:lastmodified":1492114825,
     "wof:name":"Northern Lights Electric",
-    "wof:parent_id":85818719,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

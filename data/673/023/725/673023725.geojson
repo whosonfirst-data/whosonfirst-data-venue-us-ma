@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.652139,42.155308,-71.652139,42.155308",
     "geom:latitude":42.155308,
     "geom:longitude":-71.652139,
@@ -33,17 +34,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IanbahcQLCoie0x3J6lVg_42.155308_-71.652139@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732149,
-    "wof:geomhash":"cfd393fd27cc187dddff35dbb0d22c28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0df392deec4d94e33c4ce20cb8dc7faa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524115,
+            "venue_id":673023725
+        }
+    ],
     "wof:id":673023725,
-    "wof:lastmodified":1472625037,
+    "wof:lastmodified":1492103695,
     "wof:name":"Whitney Place Adult Day Health",
     "wof:parent_id":420524115,
     "wof:placetype":"venue",

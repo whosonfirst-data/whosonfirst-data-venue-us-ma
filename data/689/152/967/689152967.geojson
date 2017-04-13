@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.812698,41.9338,-70.812698,41.9338",
     "geom:latitude":41.9338,
     "geom:longitude":-70.812698,
@@ -38,17 +39,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e7qFjinlugKzCEuvW8njW_41.933800_-70.812698@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741007,
-    "wof:geomhash":"cba7b4dc62908d16501e54292401c9e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c14b4da196ac290b8ff00ec4e2a68bdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152967
+        }
+    ],
     "wof:id":689152967,
-    "wof:lastmodified":1472625523,
+    "wof:lastmodified":1492101006,
     "wof:name":"Aubuchon Hardware",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

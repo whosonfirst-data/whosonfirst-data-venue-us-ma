@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.948242,42.759423,-70.948242,42.759423",
     "geom:latitude":42.759423,
     "geom:longitude":-70.948242,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EcoCJEKXDL5x9PzSCLppP_42.759423_-70.948242@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724299,
-    "wof:geomhash":"334a71cfc45f5db346e0bc150c863050",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f770d92f717db21b9667a2f08d247588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672676113
+        }
+    ],
     "wof:id":672676113,
-    "wof:lastmodified":1472625917,
+    "wof:lastmodified":1492117643,
     "wof:name":"Protection Fire Co",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

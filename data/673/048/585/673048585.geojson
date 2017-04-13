@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.017125,42.296801,-71.017125,42.296801",
     "geom:latitude":42.296801,
     "geom:longitude":-71.017125,
@@ -28,17 +29,34 @@
     "sg:postcode":"02171",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476591,
+        85633793,
+        85950429,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2o4naXC9doS4VbAEpLkZzC_42.296302_-71.016433@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732731,
-    "wof:geomhash":"237da01c8fffe7d85594fd054e9329f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42bb6d092d7e051bce411cf85bd698eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476591,
+            "locality_id":85950429,
+            "region_id":85688645,
+            "venue_id":673048585
+        }
+    ],
     "wof:id":673048585,
-    "wof:lastmodified":1472625111,
+    "wof:lastmodified":1492104866,
     "wof:name":"Renaissance Cof & Tea Emporium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

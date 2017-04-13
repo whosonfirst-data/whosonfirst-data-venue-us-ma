@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.799915,42.320943,-71.799915,42.320943",
     "geom:latitude":42.320943,
     "geom:longitude":-71.799915,
@@ -33,13 +34,14 @@
     "sg:website":"www.ctonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85851389,
+        102084655,
         85822985,
         102191575,
         404476639,
-        85633793,
-        85950375,
-        102084655,
-        85688645
+        85950375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,15 @@
     },
     "wof:country":"US",
     "wof:created":1461728673,
-    "wof:geomhash":"b03a3e909f24c4a603f33644592a7f72",
+    "wof:geomhash":"0cb24012c2bae6dd63807ebe5a9da63b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85851389,
+            "region_id":85688645,
+            "venue_id":672882329
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +70,9 @@
         }
     ],
     "wof:id":672882329,
-    "wof:lastmodified":1472626102,
+    "wof:lastmodified":1492111346,
     "wof:name":"Carroll Tires",
-    "wof:parent_id":85822985,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

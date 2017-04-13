@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.566659,42.110768,-72.566659,42.110768",
     "geom:latitude":42.110768,
     "geom:longitude":-72.566659,
@@ -32,32 +33,47 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85839351,
+        102191575,
+        404476369,
         85633793,
         85950393,
-        102084627
+        102084627,
+        85688645,
+        85833291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cla2PjoB598ibJbstPQiT_42.110768_-72.566659@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce3805df55ff2888962257c738a9f77e",
+    "wof:geomhash":"d15821a613f66b8cf24f10634aab0157",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084627,
+            "localadmin_id":404476369,
             "locality_id":85950393,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85839351,
+            "region_id":85688645,
+            "venue_id":387677959
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476369,
+            "locality_id":85950393,
+            "neighbourhood_id":85833291,
             "region_id":85688645,
             "venue_id":387677959
         }
     ],
     "wof:id":387677959,
-    "wof:lastmodified":1472624900,
+    "wof:lastmodified":1492102362,
     "wof:name":"St Peter's Episcopal Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

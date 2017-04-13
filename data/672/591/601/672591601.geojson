@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.47523,42.068799,-71.47523,42.068799",
     "geom:latitude":42.068799,
     "geom:longitude":-71.47523,
@@ -31,17 +32,26 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mlfhBSXXmhxJSI0f35VM8_42.068799_-71.475230@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722398,
-    "wof:geomhash":"ebee5ed2814c60f8d0d20e047f82f32d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e5d0c231f559da680e0d1219a7a2a31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523777,
+            "venue_id":672591601
+        }
+    ],
     "wof:id":672591601,
-    "wof:lastmodified":1472625848,
+    "wof:lastmodified":1492116159,
     "wof:name":"Vendetti Buses",
     "wof:parent_id":420523777,
     "wof:placetype":"venue",

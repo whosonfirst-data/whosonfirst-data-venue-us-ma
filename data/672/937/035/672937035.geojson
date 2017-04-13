@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.885203,42.414711,-71.885203,42.414711",
     "geom:latitude":42.414711,
     "geom:longitude":-71.885203,
@@ -31,17 +32,26 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3d5BPFK2WmpHFUFOpPw9Xm_42.414711_-71.885203@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729798,
-    "wof:geomhash":"799c6d0c408402f11ef6ba656f1ffd5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86096411b1c202096c87ae5c05cc99ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524219,
+            "venue_id":672937035
+        }
+    ],
     "wof:id":672937035,
-    "wof:lastmodified":1472626144,
+    "wof:lastmodified":1492110664,
     "wof:name":"Princeton Limousine",
     "wof:parent_id":420524219,
     "wof:placetype":"venue",

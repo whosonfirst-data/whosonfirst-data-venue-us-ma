@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.741581,41.895025,-70.741581,41.895025",
     "geom:latitude":41.895025,
     "geom:longitude":-70.741581,
@@ -32,17 +33,26 @@
         "night"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07mPSykoSKkHGxFcUK1PWL_41.895025_-70.741581@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726771,
-    "wof:geomhash":"032769a4874f67be028cfc05a9c92c65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5520c1e580eabed2a6e886bc4c134826",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672789179
+        }
+    ],
     "wof:id":672789179,
-    "wof:lastmodified":1472626018,
+    "wof:lastmodified":1492108008,
     "wof:name":"Tekoah Jazz Club",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

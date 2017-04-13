@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.890689,41.655265,-70.890689,41.655265",
     "geom:latitude":41.655265,
     "geom:longitude":-70.890689,
@@ -38,17 +39,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IlDjj7gEUnWS5YCTLKTCs_41.655265_-70.890689@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742357,
-    "wof:geomhash":"514bd1e87be697a6ed28a6ee923cd2eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8416a39358841dce70eb1daeaba552e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":689214693
+        }
+    ],
     "wof:id":689214693,
-    "wof:lastmodified":1472625621,
+    "wof:lastmodified":1492097487,
     "wof:name":"South Shore Builders",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

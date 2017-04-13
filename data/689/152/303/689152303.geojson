@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.989502,41.974755,-70.989502,41.974755",
     "geom:latitude":41.974755,
     "geom:longitude":-70.989502,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ylwSdS9yZkgY5Bj3XhSir_41.974755_-70.989502@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740990,
-    "wof:geomhash":"c3133ddbcc8556e0aa5360c91efddda6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6740427a9ae8d2affaad8a3953e22e4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":689152303
+        }
+    ],
     "wof:id":689152303,
-    "wof:lastmodified":1472625490,
+    "wof:lastmodified":1492101000,
     "wof:name":"Z Painting Co.",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

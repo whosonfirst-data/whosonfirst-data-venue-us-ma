@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.507588,42.296479,-71.507588,42.296479",
     "geom:latitude":42.296479,
     "geom:longitude":-71.507588,
@@ -33,17 +34,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476613,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ojGLKfiMu7Hdln99NlD1G_42.296479_-71.507588@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714874,
-    "wof:geomhash":"e84f66ad168d63a0257bade2e6ecf09b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c296d4c4a9fe241801893f8aff83b872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476613,
+            "region_id":85688645,
+            "venue_id":672263383
+        }
+    ],
     "wof:id":672263383,
-    "wof:lastmodified":1472625370,
+    "wof:lastmodified":1492113241,
     "wof:name":"Farrar Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

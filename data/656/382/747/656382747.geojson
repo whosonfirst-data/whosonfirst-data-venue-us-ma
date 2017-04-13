@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.945579,42.115221,-71.945579,42.115221",
     "geom:latitude":42.115221,
     "geom:longitude":-71.945579,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524095
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IP6u80X8ByeM3rQt6OFOi_42.115221_-71.945579@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711638,
-    "wof:geomhash":"8599bba9c4adf42a4d429f1d4744f795",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f7082ad58632a7a3b1636994d32e21a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524095,
+            "venue_id":656382747
+        }
+    ],
     "wof:id":656382747,
-    "wof:lastmodified":1472625018,
+    "wof:lastmodified":1492101290,
     "wof:name":"Aronson Systems Consulting",
     "wof:parent_id":420524095,
     "wof:placetype":"venue",

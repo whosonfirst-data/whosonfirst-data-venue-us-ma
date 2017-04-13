@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.394678,42.23436,-71.394678,42.23436",
     "geom:latitude":42.23436,
     "geom:longitude":-71.394678,
@@ -32,17 +33,26 @@
         "analysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1w9oZB4Hs7iFAb0flacxbl_42.234360_-71.394678@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711786,
-    "wof:geomhash":"3f6d35bc4de4f190b396dd935e740db8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9321d003afc239cc13ad1e74aed54e45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523725,
+            "venue_id":656389193
+        }
+    ],
     "wof:id":656389193,
-    "wof:lastmodified":1472624996,
+    "wof:lastmodified":1492101944,
     "wof:name":"Delphi Group",
     "wof:parent_id":420523725,
     "wof:placetype":"venue",

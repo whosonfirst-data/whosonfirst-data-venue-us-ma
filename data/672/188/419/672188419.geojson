@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.791928,42.323508,-71.791928,42.323508",
     "geom:latitude":42.323508,
     "geom:longitude":-71.791928,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85851389,
+        102084655,
         85808535,
         102191575,
         404476639,
-        85633793,
-        85950375,
-        102084655,
-        85688645
+        85950375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,15 @@
     },
     "wof:country":"US",
     "wof:created":1461713300,
-    "wof:geomhash":"c7ac86afbdcefb08446d130ee91d6586",
+    "wof:geomhash":"f0df06a44838f06496d65f77cd1b3a10",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85851389,
+            "region_id":85688645,
+            "venue_id":672188419
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +69,9 @@
         }
     ],
     "wof:id":672188419,
-    "wof:lastmodified":1472625137,
+    "wof:lastmodified":1492105784,
     "wof:name":"Wayne P Tupper Esquire",
-    "wof:parent_id":85808535,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.782339,42.567049,-71.782339,42.567049",
     "geom:latitude":42.567049,
     "geom:longitude":-71.782339,
@@ -40,7 +41,8 @@
         85633793,
         85950381,
         102084655,
-        85688645
+        85688645,
+        85849665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461717208,
-    "wof:geomhash":"cfb6a70a8fb8f0b591d3cb51d6287b70",
+    "wof:geomhash":"0a2004f1eb794bd16f22ce135d32577c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,22 @@
             "neighbourhood_id":420559351,
             "region_id":85688645,
             "venue_id":672370203
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476549,
+            "locality_id":85950381,
+            "neighbourhood_id":85849665,
+            "region_id":85688645,
+            "venue_id":672370203
         }
     ],
     "wof:id":672370203,
-    "wof:lastmodified":1472625640,
+    "wof:lastmodified":1492107322,
     "wof:name":"Palm Auto Glass",
-    "wof:parent_id":420559351,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.384158,42.639817,-71.384158,42.639817",
     "geom:latitude":42.639817,
     "geom:longitude":-71.384158,
@@ -32,17 +33,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QjwaeOn0XlfG1aXqIqo3z_42.639817_-71.384158@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731502,
-    "wof:geomhash":"268eff88356d40da99fddfad02343d80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"179cff94d47aa715dba129890b9a6760",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672996327
+        }
+    ],
     "wof:id":672996327,
-    "wof:lastmodified":1472626199,
+    "wof:lastmodified":1492107278,
     "wof:name":"Shawcross Trucking",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

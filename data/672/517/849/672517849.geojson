@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.811632,41.935866,-70.811632,41.935866",
     "geom:latitude":41.935866,
     "geom:longitude":-70.811632,
@@ -31,19 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Tjy3xRQ0a6ygwxNK6iMkM_41.935866_-70.811632@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720788,
-    "wof:geomhash":"6f72892bbd1381dad83e62b4a0a6c22b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f00cf6cd47f07c4246fde76465fa17fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":672517849
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672517849
+        }
+    ],
     "wof:id":672517849,
-    "wof:lastmodified":1472625790,
+    "wof:lastmodified":1492116036,
     "wof:name":"Plympton Town Barn",
-    "wof:parent_id":420523817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

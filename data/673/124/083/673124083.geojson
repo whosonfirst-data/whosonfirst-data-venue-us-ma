@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.913803,42.201698,-71.913803,42.201698",
     "geom:latitude":42.201698,
     "geom:longitude":-71.913803,
@@ -31,17 +32,26 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zNB56cXNueoEn0rVhbgtv_42.201698_-71.913803@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734271,
-    "wof:geomhash":"8495601e63d4c27675777dbf610961c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"501f72022ecf949e4cb1b9f827aad77f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":673124083
+        }
+    ],
     "wof:id":673124083,
-    "wof:lastmodified":1472625334,
+    "wof:lastmodified":1492103994,
     "wof:name":"Walls Auto Sales & Statewide Towing",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

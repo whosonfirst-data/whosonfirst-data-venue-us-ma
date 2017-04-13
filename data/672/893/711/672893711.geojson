@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.615195,41.641349,-70.615195,41.641349",
     "geom:latitude":41.641349,
     "geom:longitude":-70.615195,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tvqPi8WAv19MMkwkwcpe7_41.641349_-70.615195@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728900,
-    "wof:geomhash":"9597d96c54ffa36af7108e3b2bd0b83a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f613e770652c990b5745fbc4b143bcc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672893711
+        }
+    ],
     "wof:id":672893711,
-    "wof:lastmodified":1472626118,
+    "wof:lastmodified":1492108126,
     "wof:name":"Trico Builders",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.051099,42.696576,-72.051099,42.696576",
     "geom:latitude":42.696576,
     "geom:longitude":-72.051099,
@@ -33,17 +34,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3V3NobWQTYfUrmCsWmN4gt_42.696576_-72.051099@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723149,
-    "wof:geomhash":"b22d5a4dde29378d35ea7989a65d9f03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a427d85fd19d79b05607f69a7777ea78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":672623941
+        }
+    ],
     "wof:id":672623941,
-    "wof:lastmodified":1472625882,
+    "wof:lastmodified":1492107792,
     "wof:name":"Smith Electronics",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.935294,42.370759,-71.935294,42.370759",
     "geom:latitude":42.370759,
     "geom:longitude":-71.935294,
@@ -32,17 +33,26 @@
         "treatment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OyvS4PixPLBP7RvRCufOT_42.370759_-71.935294@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714311,
-    "wof:geomhash":"d02e485d80fe20209c9c174f3bc9dc96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96a4be7d2fa59d1bfc5ea2f41f608eed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524223,
+            "venue_id":672235975
+        }
+    ],
     "wof:id":672235975,
-    "wof:lastmodified":1472625319,
+    "wof:lastmodified":1492119162,
     "wof:name":"Cliff Cummings Water Svc",
     "wof:parent_id":420524223,
     "wof:placetype":"venue",

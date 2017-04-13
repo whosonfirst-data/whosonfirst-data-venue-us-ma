@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.584285,42.42727,-71.584285,42.42727",
     "geom:latitude":42.42727,
     "geom:longitude":-71.584285,
@@ -32,17 +33,26 @@
         "picture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3D8rwAsGZrwx76pKx4SF7j_42.427270_-71.584285@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726103,
-    "wof:geomhash":"62ce9997e46097f75fa7424d69c49e9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"964b8cde0cb3af1f81485a27bf3b6a20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672758051
+        }
+    ],
     "wof:id":672758051,
-    "wof:lastmodified":1472625984,
+    "wof:lastmodified":1492117585,
     "wof:name":"Darleen Wilson",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.971535,42.357231,-70.971535,42.357231",
     "geom:latitude":42.357231,
     "geom:longitude":-70.971535,
@@ -39,9 +40,10 @@
         85688645,
         102191575,
         85633793,
-        85950355,
         102084423,
-        85820065
+        85820065,
+        85950355,
+        85842559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,22 +51,30 @@
     },
     "wof:country":"US",
     "wof:created":1461721394,
-    "wof:geomhash":"3df5091c87e041b37114dbde3553d522",
+    "wof:geomhash":"cda57cb4055da850ef54bbdd49aabdcf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084423,
-            "locality_id":85950355,
             "neighbourhood_id":85820065,
+            "region_id":85688645,
+            "venue_id":672546605
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "locality_id":85950355,
+            "neighbourhood_id":85842559,
             "region_id":85688645,
             "venue_id":672546605
         }
     ],
     "wof:id":672546605,
-    "wof:lastmodified":1472625828,
+    "wof:lastmodified":1492108051,
     "wof:name":"Oxford Consulting Group Inc",
-    "wof:parent_id":85820065,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.775803,41.9231,-70.775803,41.9231",
     "geom:latitude":41.9231,
     "geom:longitude":-70.775803,
@@ -42,17 +43,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6a3J7vXM1yuKaSN63CtJPa_41.923100_-70.775803@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741011,
-    "wof:geomhash":"3fc654f830a525ba366305ee11bd0769",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aad47496002d9a4814cc6e01eb62e58e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689153155
+        }
+    ],
     "wof:id":689153155,
-    "wof:lastmodified":1472625492,
+    "wof:lastmodified":1492097478,
     "wof:name":"Kids Count",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

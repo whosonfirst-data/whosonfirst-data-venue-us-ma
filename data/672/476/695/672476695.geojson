@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.225066,42.598951,-72.225066,42.598951",
     "geom:latitude":42.598951,
     "geom:longitude":-72.225066,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476527,
+        85633793,
+        85950709,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lC0Daq0KHiRBk1DEexn7K_42.598951_-72.225066@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719853,
-    "wof:geomhash":"6d999a5fefe3919b4a1133fb5b2844c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2362d2f00399f0e4a7923aead964ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476527,
+            "locality_id":85950709,
+            "region_id":85688645,
+            "venue_id":672476695
+        }
+    ],
     "wof:id":672476695,
-    "wof:lastmodified":1472625741,
+    "wof:lastmodified":1492119317,
     "wof:name":"Cemetery Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

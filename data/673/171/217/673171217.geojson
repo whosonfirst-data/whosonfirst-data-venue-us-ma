@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.008202,42.7202,-71.008202,42.7202",
     "geom:latitude":42.7202,
     "geom:longitude":-71.008202,
@@ -36,17 +37,26 @@
         "venue"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13WpExS6u8MBPSgkO8f7vD_42.720200_-71.008202@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735248,
-    "wof:geomhash":"24bff588cdcabb16cdc2b0e6f3e8d46b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bed5d448d7b32b6f3b05de8a3530bc4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673171217
+        }
+    ],
     "wof:id":673171217,
-    "wof:lastmodified":1472625462,
+    "wof:lastmodified":1492103727,
     "wof:name":"The Georgetown Country Club",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

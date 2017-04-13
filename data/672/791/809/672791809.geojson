@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.738092,42.117198,-70.738092,42.117198",
     "geom:latitude":42.117198,
     "geom:longitude":-70.738092,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4f1IpUAdHAog4w7De7n7fz_42.117198_-70.738092@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726822,
-    "wof:geomhash":"06ddb0dfde8aa90abeffc639c7e96757",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a5bf8dddec1a895a5951f5a2d9731ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523925,
+            "venue_id":672791809
+        }
+    ],
     "wof:id":672791809,
-    "wof:lastmodified":1472626032,
+    "wof:lastmodified":1492113753,
     "wof:name":"RCS",
     "wof:parent_id":420523925,
     "wof:placetype":"venue",

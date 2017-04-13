@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.024443,41.974659,-71.024443,41.974659",
     "geom:latitude":41.974659,
     "geom:longitude":-71.024443,
@@ -31,17 +32,26 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4apfy2s9uMZJ4UzyHpWncc_41.974659_-71.024443@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726132,
-    "wof:geomhash":"74c7dce202982f0d3c3f6f7ccae7c00a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21d13c5fe2378f193b2591e4e282a05e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672759505
+        }
+    ],
     "wof:id":672759505,
-    "wof:lastmodified":1472626001,
+    "wof:lastmodified":1492110191,
     "wof:name":"ABC Testing",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

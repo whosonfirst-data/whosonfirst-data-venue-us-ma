@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.496037,41.655795,-70.496037,41.655795",
     "geom:latitude":41.655795,
     "geom:longitude":-70.496037,
@@ -50,17 +51,26 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iVfoHAHQAIMHXIovDqAS1_41.655795_-70.496037@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742207,
-    "wof:geomhash":"cb887609d5963cbdb91c77ffdaca2691",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dff64f2c0e7f2c4db2151964db98c91c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":689207461
+        }
+    ],
     "wof:id":689207461,
-    "wof:lastmodified":1472625600,
+    "wof:lastmodified":1492099837,
     "wof:name":"Briggs Landscape Construction",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

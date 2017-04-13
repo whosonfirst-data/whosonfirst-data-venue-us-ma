@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.840723,42.04642,-70.840723,42.04642",
     "geom:latitude":42.04642,
     "geom:longitude":-70.840723,
@@ -33,17 +34,26 @@
         "refinishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19eFt7mJSX89NLo4LFI9rM_42.046420_-70.840723@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725279,
-    "wof:geomhash":"651f560af77dfcbda3bfdca75973cf0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b505c94cada3ac527423e657b76fc3ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672719171
+        }
+    ],
     "wof:id":672719171,
-    "wof:lastmodified":1472625951,
+    "wof:lastmodified":1492117823,
     "wof:name":"Perma Ceram Southeast",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

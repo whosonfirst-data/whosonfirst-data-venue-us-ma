@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.871377,42.115881,-70.871377,42.115881",
     "geom:latitude":42.115881,
     "geom:longitude":-70.871377,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36baFGvbcsrsLLuUF61zH0_42.115881_-70.871377@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725138,
-    "wof:geomhash":"775c19aa37d2c668599260ac2a928504",
-    "wof:hierarchy":[],
+    "wof:geomhash":"223a9c3fe9a6358186d48a901584958d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672712657
+        }
+    ],
     "wof:id":672712657,
-    "wof:lastmodified":1472625959,
+    "wof:lastmodified":1492112523,
     "wof:name":"Trade Winds Svc",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

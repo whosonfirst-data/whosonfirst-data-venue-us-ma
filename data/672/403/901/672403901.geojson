@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.73665,42.2275,-71.73665,42.2275",
     "geom:latitude":42.2275,
     "geom:longitude":-71.73665,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RIrXPyQMUbeGq6pZo3MHG_42.227500_-71.736650@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717996,
-    "wof:geomhash":"85875271130ceabea8514ba0f1aca4aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d9ff6cf9c9cfa7b9efe24548e85c72a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524183,
+            "venue_id":672403901
+        }
+    ],
     "wof:id":672403901,
-    "wof:lastmodified":1472625676,
+    "wof:lastmodified":1492111372,
     "wof:name":"Daedalus Inc",
     "wof:parent_id":420524183,
     "wof:placetype":"venue",

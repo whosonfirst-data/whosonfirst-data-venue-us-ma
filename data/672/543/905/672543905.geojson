@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.79862,42.405645,-71.79862,42.405645",
     "geom:latitude":42.405645,
     "geom:longitude":-71.79862,
@@ -32,17 +33,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AuQVufPFzUStj1FlAMPq6_42.405645_-71.798620@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721335,
-    "wof:geomhash":"1cc9cbc4a1353e03f199e9d974a8640b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cfb27aebcbecff1eb2e3b74649a8be1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":672543905
+        }
+    ],
     "wof:id":672543905,
-    "wof:lastmodified":1472625822,
+    "wof:lastmodified":1492108866,
     "wof:name":"Master Automations Inc",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

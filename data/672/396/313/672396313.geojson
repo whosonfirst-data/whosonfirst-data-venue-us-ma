@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.431778,42.197365,-71.431778,42.197365",
     "geom:latitude":42.197365,
     "geom:longitude":-71.431778,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85833901,
-        102084643
+        85816437,
+        102084643,
+        85833901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461717789,
-    "wof:geomhash":"b6c00bd40451a459eb30839aa46a2b4d",
+    "wof:geomhash":"238afd877f956c468cab0a599f504de6",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85816437,
+            "region_id":85688645,
+            "venue_id":672396313
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -54,9 +63,9 @@
         }
     ],
     "wof:id":672396313,
-    "wof:lastmodified":1472625661,
+    "wof:lastmodified":1492115390,
     "wof:name":"Alex & Alex Wallcovering & Pnt",
-    "wof:parent_id":85833901,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.781696,42.0846,-70.781696,42.0846",
     "geom:latitude":42.0846,
     "geom:longitude":-70.781696,
@@ -31,17 +32,26 @@
         "chiropractic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DgIgvl2IdpWiX5mYABjJh_42.084600_-70.781696@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741112,
-    "wof:geomhash":"a965d31a676e748258edc483510cfebc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d462d893adeb4224626b7e9bca161f4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":689157005
+        }
+    ],
     "wof:id":689157005,
-    "wof:lastmodified":1472625494,
+    "wof:lastmodified":1492099696,
     "wof:name":"Daly Chiropractic",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

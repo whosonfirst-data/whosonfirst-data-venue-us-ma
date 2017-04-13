@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.277451,42.627089,-71.277451,42.627089",
     "geom:latitude":42.627089,
     "geom:longitude":-71.277451,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        420523721,
+        102191575,
+        404476397,
         85633793,
-        85854427,
-        102084643
+        85950327,
+        102084643,
+        85688645,
+        85854427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461720125,
-    "wof:geomhash":"027d872b03c3c460771e84408870db78",
+    "wof:geomhash":"0f488a34c9ccb2b871a61aa85ad9c77e",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476397,
+            "locality_id":85950327,
+            "neighbourhood_id":420523721,
+            "region_id":85688645,
+            "venue_id":672487557
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -54,9 +69,9 @@
         }
     ],
     "wof:id":672487557,
-    "wof:lastmodified":1472625752,
+    "wof:lastmodified":1492112210,
     "wof:name":"Thermo Electron Corp",
-    "wof:parent_id":85854427,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

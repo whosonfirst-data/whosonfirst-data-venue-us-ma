@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.799097,42.407028,-71.799097,42.407028",
     "geom:latitude":42.407028,
     "geom:longitude":-71.799097,
@@ -32,17 +33,26 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GyA2ELnZPL2Vs2jhgSJ8B_42.407028_-71.799097@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713422,
-    "wof:geomhash":"ec115d532da170d0bfcca4d9e5ae16db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85432de2bed34a4bbb08bab90f5c6a83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":672193831
+        }
+    ],
     "wof:id":672193831,
-    "wof:lastmodified":1472625175,
+    "wof:lastmodified":1492109833,
     "wof:name":"Sterling Greenery",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

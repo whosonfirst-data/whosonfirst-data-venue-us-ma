@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.326563,42.250083,-71.326563,42.250083",
     "geom:latitude":42.250083,
     "geom:longitude":-71.326563,
@@ -32,19 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85835347,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KVuNhonqt84V30sZZiXxk_42.250083_-71.326563@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728732,
-    "wof:geomhash":"fc0db7df2fa1dcd2adc373aa5c949901",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5040fca859f92b0d1bb9cfff753876e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85835347,
+            "region_id":85688645,
+            "venue_id":672885241
+        }
+    ],
     "wof:id":672885241,
-    "wof:lastmodified":1472626100,
+    "wof:lastmodified":1492109143,
     "wof:name":"R J Olsen Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85835347,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

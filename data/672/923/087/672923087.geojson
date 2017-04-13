@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.729069,41.915538,-70.729069,41.915538",
     "geom:latitude":41.915538,
     "geom:longitude":-70.729069,
@@ -31,17 +32,26 @@
         "pump"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PhQ0lklIcviy7YlnZQBut_41.915538_-70.729069@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729486,
-    "wof:geomhash":"3c68c264eaca9fd9a8c1efa2c7163abc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0ee1370ec7091aa16dc44cc88daf7e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672923087
+        }
+    ],
     "wof:id":672923087,
-    "wof:lastmodified":1472626129,
+    "wof:lastmodified":1492117752,
     "wof:name":"L C Price & Co",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

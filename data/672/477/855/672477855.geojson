@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.799895,42.038925,-70.799895,42.038925",
     "geom:latitude":42.038925,
     "geom:longitude":-70.799895,
@@ -32,19 +33,28 @@
         "orchestra"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_250pkf7sRlWGYyi1x2RZnc_42.038925_-70.799895@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719890,
-    "wof:geomhash":"5ebfefe7e33e356e7c99489ed86c16ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"375d9450c0548de65a9cc4a4a5e3d993",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672477855
+        }
+    ],
     "wof:id":672477855,
-    "wof:lastmodified":1472625748,
+    "wof:lastmodified":1492115665,
     "wof:name":"Perry Rossi ORCHESTRAS",
-    "wof:parent_id":420523871,
+    "wof:parent_id":420523817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

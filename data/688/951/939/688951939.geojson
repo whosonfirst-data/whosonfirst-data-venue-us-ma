@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.100688,42.127368,-71.100688,42.127368",
     "geom:latitude":42.127368,
     "geom:longitude":-71.100688,
@@ -36,17 +37,26 @@
         "gentlemen's"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20sR35PQW9K1J6LgjJskkw_42.127368_-71.100688@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736291,
-    "wof:geomhash":"2ee2facf9ab20a58ccdf24489d3181ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"420e67adcb5501d55039d01af5b53c34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688951939
+        }
+    ],
     "wof:id":688951939,
-    "wof:lastmodified":1472625164,
+    "wof:lastmodified":1492120675,
     "wof:name":"Paris Cabaret",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

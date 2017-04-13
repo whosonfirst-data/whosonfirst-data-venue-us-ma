@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.874551,42.168367,-70.874551,42.168367",
     "geom:latitude":42.168367,
     "geom:longitude":-70.874551,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85830437,
-        102084367
+        102084367,
+        85868753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722121,
-    "wof:geomhash":"d906f00585e59d50df371bf116caf616",
+    "wof:geomhash":"7a390e9e81c00fae1c30934acd28492b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,19 @@
             "neighbourhood_id":85830437,
             "region_id":85688645,
             "venue_id":672579867
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85868753,
+            "region_id":85688645,
+            "venue_id":672579867
         }
     ],
     "wof:id":672579867,
-    "wof:lastmodified":1472625840,
+    "wof:lastmodified":1492112606,
     "wof:name":"James M Handley CPA",
-    "wof:parent_id":85830437,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

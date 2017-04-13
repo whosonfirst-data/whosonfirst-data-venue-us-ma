@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.717922,42.251298,-71.717922,42.251298",
     "geom:latitude":42.251298,
     "geom:longitude":-71.717922,
@@ -31,17 +32,26 @@
         "valve"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0T4MCpaVsmTVttcxTozvFF_42.251298_-71.717922@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729651,
-    "wof:geomhash":"eed7b88dc9402d5ac6cd7696e1f1a4b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e98b0f5bb3d8662a7c04ad7fae476e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":672930775
+        }
+    ],
     "wof:id":672930775,
-    "wof:lastmodified":1472626154,
+    "wof:lastmodified":1492111681,
     "wof:name":"North East Repair Ctr",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.262556,42.053575,-73.262556,42.053575",
     "geom:latitude":42.053575,
     "geom:longitude":-73.262556,
@@ -44,17 +45,26 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69b1z1ZUkKWigimHYgFTH8_42.053575_-73.262556@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734011,
-    "wof:geomhash":"e82d1eaa0ecf1a34f1e155e33362dd09",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a04f0fc79576fbf7835349b3c1cd499",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":673111489
+        }
+    ],
     "wof:id":673111489,
-    "wof:lastmodified":1472625308,
+    "wof:lastmodified":1492105204,
     "wof:name":"Oates Construction Inc",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

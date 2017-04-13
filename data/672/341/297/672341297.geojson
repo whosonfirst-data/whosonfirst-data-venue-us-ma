@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.570826,41.786682,-70.570826,41.786682",
     "geom:latitude":41.786682,
     "geom:longitude":-70.570826,
@@ -33,19 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85842659,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y7ehfI7p2Y3gwWD6bYR4t_41.786682_-70.570826@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716531,
-    "wof:geomhash":"6dfe0f775b0c28477c8caa2637f2c86c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3120a307a4786fefcd6c6dedb3a365e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85842659,
+            "region_id":85688645,
+            "venue_id":672341297
+        }
+    ],
     "wof:id":672341297,
-    "wof:lastmodified":1472625572,
+    "wof:lastmodified":1492109077,
     "wof:name":"Stephen Coughlin Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

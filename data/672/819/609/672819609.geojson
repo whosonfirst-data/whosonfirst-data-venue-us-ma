@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.708571,41.931523,-70.708571,41.931523",
     "geom:latitude":41.931523,
     "geom:longitude":-70.708571,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pWVhLLwQfgrjUbkDMc3mA_41.931523_-70.708571@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727386,
-    "wof:geomhash":"5d294c81a4a3ca7cf0715f91b8b8ae1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7dc59e942df2b4f425762ad3f93ac66d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672819609
+        }
+    ],
     "wof:id":672819609,
-    "wof:lastmodified":1472626052,
+    "wof:lastmodified":1492105896,
     "wof:name":"Pastore Concrete Forms",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

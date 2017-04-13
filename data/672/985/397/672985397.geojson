@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.225919,41.673587,-70.225919,41.673587",
     "geom:latitude":41.673587,
     "geom:longitude":-70.225919,
@@ -31,17 +32,26 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GCVMYXhs6S59BPSGCKN4x_41.673587_-70.225919@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731173,
-    "wof:geomhash":"908765035a25220231f4d3ff74f9b2fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4538525772be0aa2667fc13e8c50503e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672985397
+        }
+    ],
     "wof:id":672985397,
-    "wof:lastmodified":1472626190,
+    "wof:lastmodified":1492111708,
     "wof:name":"Martin E Manley Sons Tree",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

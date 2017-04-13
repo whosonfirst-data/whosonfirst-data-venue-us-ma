@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.228854,42.444893,-71.228854,42.444893",
     "geom:latitude":42.444893,
     "geom:longitude":-71.228854,
@@ -38,7 +39,8 @@
         85633793,
         85950637,
         102084643,
-        85688645
+        85688645,
+        85891389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461720927,
-    "wof:geomhash":"1fe95fc3bb7eb42ba6f35112c5e38d20",
+    "wof:geomhash":"bd9afd79c7b71821c3c2b87ed57f3f78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85836041,
             "region_id":85688645,
             "venue_id":672523979
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476393,
+            "locality_id":85950637,
+            "neighbourhood_id":85891389,
+            "region_id":85688645,
+            "venue_id":672523979
         }
     ],
     "wof:id":672523979,
-    "wof:lastmodified":1472625793,
+    "wof:lastmodified":1492116018,
     "wof:name":"Belesi Donovan & Conroy",
-    "wof:parent_id":85836041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

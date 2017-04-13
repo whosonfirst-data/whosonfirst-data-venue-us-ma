@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101881,42.128017,-71.101881,42.128017",
     "geom:latitude":42.128017,
     "geom:longitude":-71.101881,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2y3TiivuNbnfSehzuR6sqG_42.128017_-71.101881@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711066,
-    "wof:geomhash":"c30d4fb52c4f2d391d3a987e51e80a03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6822f8430062e8466dd304b6c53d8fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":656355199
+        }
+    ],
     "wof:id":656355199,
-    "wof:lastmodified":1472624904,
+    "wof:lastmodified":1492101450,
     "wof:name":"Brazil For You",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

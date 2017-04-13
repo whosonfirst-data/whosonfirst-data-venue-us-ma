@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.808883,42.391688,-71.808883,42.391688",
     "geom:latitude":42.391688,
     "geom:longitude":-71.808883,
@@ -32,17 +33,26 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RV4I5l2OEZuHP3K3adIxt_42.391688_-71.808883@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729362,
-    "wof:geomhash":"d9698e4bfaae65c55f7ddf5043c36ab0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e02871e419c980e09a7bc83ff3cccb48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":672916385
+        }
+    ],
     "wof:id":672916385,
-    "wof:lastmodified":1472626131,
+    "wof:lastmodified":1492111579,
     "wof:name":"Scales Well & Pump",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

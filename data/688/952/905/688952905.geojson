@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.111397,42.125599,-71.111397,42.125599",
     "geom:latitude":42.125599,
     "geom:longitude":-71.111397,
@@ -32,17 +33,26 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PXRD9Ucym2GtUY4uhUIJR_42.125599_-71.111397@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736306,
-    "wof:geomhash":"44a84f644010a7e57ea777f2cb19f57a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a71185649051b2b93be98a9dac6e0af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688952905
+        }
+    ],
     "wof:id":688952905,
-    "wof:lastmodified":1472625174,
+    "wof:lastmodified":1492120328,
     "wof:name":"Elite Sports & Physical Therapy",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

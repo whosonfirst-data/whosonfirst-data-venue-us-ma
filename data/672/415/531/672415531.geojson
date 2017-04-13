@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.837057,42.615321,-70.837057,42.615321",
     "geom:latitude":42.615321,
     "geom:longitude":-70.837057,
@@ -34,8 +35,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85855101,
-        102084463
+        85836261,
+        102084463,
+        85818237,
+        85855101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,22 @@
     },
     "wof:country":"US",
     "wof:created":1461718303,
-    "wof:geomhash":"86aabb81e370c6d54b86d7d2e4c876af",
+    "wof:geomhash":"20196961f3245a6098f552532ee09860",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85836261,
+            "region_id":85688645,
+            "venue_id":672415531
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85818237,
+            "region_id":85688645,
+            "venue_id":672415531
+        },
         {
             "country_id":85633793,
             "county_id":102084463,
@@ -54,9 +71,9 @@
         }
     ],
     "wof:id":672415531,
-    "wof:lastmodified":1472625684,
+    "wof:lastmodified":1492114956,
     "wof:name":"Gathering Farm",
-    "wof:parent_id":85855101,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

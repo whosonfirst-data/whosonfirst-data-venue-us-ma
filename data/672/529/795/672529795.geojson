@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.975449,42.119729,-71.975449,42.119729",
     "geom:latitude":42.119729,
     "geom:longitude":-71.975449,
@@ -32,17 +33,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nnlqbwPcEjVm1HCSyoYZx_42.119729_-71.975449@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721053,
-    "wof:geomhash":"a55e3334fd4973c0113b39e7620d8916",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65880350d10fa84c1a6b208d7531f8a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":672529795
+        }
+    ],
     "wof:id":672529795,
-    "wof:lastmodified":1472625794,
+    "wof:lastmodified":1492107104,
     "wof:name":"Machine Vision Consulting",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

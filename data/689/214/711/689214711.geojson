@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.853493,41.651669,-70.853493,41.651669",
     "geom:latitude":41.651669,
     "geom:longitude":-70.853493,
@@ -38,17 +39,26 @@
     ],
     "sg:website":"http://www.remax.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FhCUtKjVuDnuiz7e6FtBS_41.651669_-70.853493@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742358,
-    "wof:geomhash":"cab50e15ee012f9e63c68658bcee2881",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0867dc906a76f282698566a5d0e9b34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":689214711
+        }
+    ],
     "wof:id":689214711,
-    "wof:lastmodified":1472625622,
+    "wof:lastmodified":1492097503,
     "wof:name":"Re/Max",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

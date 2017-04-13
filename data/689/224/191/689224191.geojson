@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101607,41.627733,-71.101607,41.627733",
     "geom:latitude":41.627733,
     "geom:longitude":-71.101607,
@@ -34,17 +35,26 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ooijMW8fDngdoRwVvnw6s_41.627733_-71.101607@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742575,
-    "wof:geomhash":"49113f7801fcfe1a1d3a78826f64d28d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccf24cd6d517a9e795ad5e95d33fe070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523343,
+            "venue_id":689224191
+        }
+    ],
     "wof:id":689224191,
-    "wof:lastmodified":1472625616,
+    "wof:lastmodified":1492097823,
     "wof:name":"Acoaxet Veterinary Clinic",
     "wof:parent_id":420523343,
     "wof:placetype":"venue",

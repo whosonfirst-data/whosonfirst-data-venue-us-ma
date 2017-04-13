@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.902046,41.897712,-70.902046,41.897712",
     "geom:latitude":41.897712,
     "geom:longitude":-70.902046,
@@ -31,19 +32,38 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85854565,
+        102084367,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DrhUMOicNBlXO19bRIJWf_41.897712_-70.902046@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727295,
-    "wof:geomhash":"b29365de4689aa238c7fd41aca33fe8a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f73dc2c2c67de6be697c7356d621eed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85854565,
+            "region_id":85688645,
+            "venue_id":672814787
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672814787
+        }
+    ],
     "wof:id":672814787,
-    "wof:lastmodified":1472626053,
+    "wof:lastmodified":1492118432,
     "wof:name":"Ameri Spec Home Inspection Svc",
-    "wof:parent_id":420523819,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

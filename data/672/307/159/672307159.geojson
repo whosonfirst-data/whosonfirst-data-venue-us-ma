@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.035373,42.508786,-71.035373,42.508786",
     "geom:latitude":42.508786,
     "geom:longitude":-71.035373,
@@ -39,17 +40,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475945,
+        85633793,
+        85950795,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0p5nh6qFNPvUOwCorJERvH_42.508786_-71.035373@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715740,
-    "wof:geomhash":"1db4d2abce5fb9bb4683c53a92fa4efd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e443b10c5e6bc87b7060976b95702d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404475945,
+            "locality_id":85950795,
+            "region_id":85688645,
+            "venue_id":672307159
+        }
+    ],
     "wof:id":672307159,
-    "wof:lastmodified":1472625503,
+    "wof:lastmodified":1492106208,
     "wof:name":"Sophos Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

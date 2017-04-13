@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.735042,41.725032,-70.735042,41.725032",
     "geom:latitude":41.725032,
     "geom:longitude":-70.735042,
@@ -31,17 +32,26 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yfLy5vNCSbCGMUY5wm7Q7_41.725032_-70.735042@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722509,
-    "wof:geomhash":"351aab6a77d1f943a3551e0b59e4cadf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a995e0220d5de24d5e80a5a1c64d34f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523897,
+            "venue_id":672596817
+        }
+    ],
     "wof:id":672596817,
-    "wof:lastmodified":1472625852,
+    "wof:lastmodified":1492114777,
     "wof:name":"ESA Resources Service",
     "wof:parent_id":420523897,
     "wof:placetype":"venue",

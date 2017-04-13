@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.89842,42.117509,-71.89842,42.117509",
     "geom:latitude":42.117509,
     "geom:longitude":-71.89842,
@@ -31,17 +32,26 @@
         "chauffeur"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SMRQMHSw6MiLQnfel4d5h_42.117509_-71.898420@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727999,
-    "wof:geomhash":"cd7fcd573fd382cae926725643561b0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6442053c5ffeb89010ab2b0e1d3ddf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":672850235
+        }
+    ],
     "wof:id":672850235,
-    "wof:lastmodified":1472626075,
+    "wof:lastmodified":1492107757,
     "wof:name":"Eric's Limousine Svc",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

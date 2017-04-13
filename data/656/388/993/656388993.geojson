@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.003701,41.973188,-71.003701,41.973188",
     "geom:latitude":41.973188,
     "geom:longitude":-71.003701,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6g76CYqJbdxtmKU4PAcfLH_41.973188_-71.003701@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711783,
-    "wof:geomhash":"37df707edf2ee15137664e7123f305d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eed319c0bc1e892a0bfe4bee2959537a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":656388993
+        }
+    ],
     "wof:id":656388993,
-    "wof:lastmodified":1472625044,
+    "wof:lastmodified":1492102252,
     "wof:name":"Van Dyke Hair Styling",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

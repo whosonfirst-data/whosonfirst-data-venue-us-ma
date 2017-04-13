@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.537663,42.240612,-72.537663,42.240612",
     "geom:latitude":42.240612,
     "geom:longitude":-72.537663,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523647
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26uv42rtMVUBTjnOUpy7Pc_42.240612_-72.537663@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721924,
-    "wof:geomhash":"3f99ecd9eff0fef866a6d20eefed1e49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e5771a3e0440b139d350483b4e354d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523647,
+            "venue_id":672570527
+        }
+    ],
     "wof:id":672570527,
-    "wof:lastmodified":1472625825,
+    "wof:lastmodified":1492108243,
     "wof:name":"Lewis M Ingham Builder",
     "wof:parent_id":420523647,
     "wof:placetype":"venue",

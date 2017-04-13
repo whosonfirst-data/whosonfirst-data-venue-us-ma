@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.146339,42.125698,-71.146339,42.125698",
     "geom:latitude":42.125698,
     "geom:longitude":-71.146339,
@@ -31,17 +32,26 @@
         "window"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FAPviFON3zIEkwWJosWXM_42.125698_-71.146339@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711668,
-    "wof:geomhash":"24d853ae67eca7b55301476949a598b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c742d0f4d1098bec90f2979e94550eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":656384053
+        }
+    ],
     "wof:id":656384053,
-    "wof:lastmodified":1472624990,
+    "wof:lastmodified":1492102126,
     "wof:name":"Atlantic Window Cleaning Svc",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.815962,41.957533,-70.815962,41.957533",
     "geom:latitude":41.957533,
     "geom:longitude":-70.815962,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53z0wKdJYcdnJ6oOokzcXu_41.957533_-70.815962@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729329,
-    "wof:geomhash":"60d9db0d995e8e111c431a50bf058609",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2900165255a01f99b891752f09bb941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":672914407
+        }
+    ],
     "wof:id":672914407,
-    "wof:lastmodified":1472626129,
+    "wof:lastmodified":1492114786,
     "wof:name":"Plympton Collector",
     "wof:parent_id":420523949,
     "wof:placetype":"venue",

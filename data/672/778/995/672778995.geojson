@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.233334,42.099766,-73.233334,42.099766",
     "geom:latitude":42.099766,
     "geom:longitude":-73.233334,
@@ -31,17 +32,26 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oUZHjoNj4eYxmG33x8NSy_42.099766_-73.233334@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726562,
-    "wof:geomhash":"38be7edd07f07d6e432669d6868b61e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dfae4d3aac04bd539113a123aef036ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672778995
+        }
+    ],
     "wof:id":672778995,
-    "wof:lastmodified":1472626022,
+    "wof:lastmodified":1492113377,
     "wof:name":"John C Louw Painting",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

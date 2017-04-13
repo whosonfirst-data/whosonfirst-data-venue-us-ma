@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.272996,42.127296,-71.272996,42.127296",
     "geom:latitude":42.127296,
     "geom:longitude":-71.272996,
@@ -33,17 +34,26 @@
         "reporter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AsF8dVarZisSv5zkS0XXl_42.127296_-71.272996@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729145,
-    "wof:geomhash":"620d9f7fc7e7dc32e1823972de5b9d7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3231aa0135edd94ddaf0ada1f63442d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672905987
+        }
+    ],
     "wof:id":672905987,
-    "wof:lastmodified":1472626132,
+    "wof:lastmodified":1492112894,
     "wof:name":"Wilson Reporting & Assoc",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

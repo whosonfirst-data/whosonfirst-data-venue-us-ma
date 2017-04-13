@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.803018,41.988143,-70.803018,41.988143",
     "geom:latitude":41.988143,
     "geom:longitude":-70.803018,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60TPOnvE5mTUPVlSeZ9FNY_41.988143_-70.803018@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728101,
-    "wof:geomhash":"0403987ab4153b0dfd94c5cae6af159c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26bb1ab51a726772cd5d814c6a3403a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672855739
+        }
+    ],
     "wof:id":672855739,
-    "wof:lastmodified":1472626088,
+    "wof:lastmodified":1492114383,
     "wof:name":"Scott's Classic Imports LTD",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

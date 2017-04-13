@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.108317,41.761977,-71.108317,41.761977",
     "geom:latitude":41.761977,
     "geom:longitude":-71.108317,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
-        85809089,
-        102084407,
         85850987,
         102191575,
         404476177,
-        85950371
+        85633793,
+        85950371,
+        102084407,
+        85688645,
+        85809089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461725406,
-    "wof:geomhash":"bdaa53a23dc407b93dd6fb60ccf322aa",
+    "wof:geomhash":"2111179124bfe8006014c9b49afe088e",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084407,
-            "neighbourhood_id":85809089,
-            "region_id":85688645,
-            "venue_id":672725337
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +59,19 @@
             "neighbourhood_id":85850987,
             "region_id":85688645,
             "venue_id":672725337
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85809089,
+            "region_id":85688645,
+            "venue_id":672725337
         }
     ],
     "wof:id":672725337,
-    "wof:lastmodified":1472625960,
+    "wof:lastmodified":1492112825,
     "wof:name":"Four Winds",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

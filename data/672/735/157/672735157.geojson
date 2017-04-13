@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.104562,42.12372,-71.104562,42.12372",
     "geom:latitude":42.12372,
     "geom:longitude":-71.104562,
@@ -32,17 +33,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uGXWwDLuopoqyPeCT0NrP_42.123720_-71.104562@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725625,
-    "wof:geomhash":"53002755989d9038a7f5d78e5dfeb983",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3b17db9a233510ce21a3fbd9d6db497",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672735157
+        }
+    ],
     "wof:id":672735157,
-    "wof:lastmodified":1472625967,
+    "wof:lastmodified":1492108626,
     "wof:name":"Thomas Register-American Mfg",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

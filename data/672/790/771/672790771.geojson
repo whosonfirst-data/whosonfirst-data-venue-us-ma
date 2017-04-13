@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.865453,41.859437,-70.865453,41.859437",
     "geom:latitude":41.859437,
     "geom:longitude":-70.865453,
@@ -31,17 +32,26 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fL99rffGkV8Z8pkUS5WeJ_41.859437_-70.865453@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726805,
-    "wof:geomhash":"751d1f98cf75ac34cdef5a983c8d0ecf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c81ff270d5bbca33c957d65ff34caa7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672790771
+        }
+    ],
     "wof:id":672790771,
-    "wof:lastmodified":1472626028,
+    "wof:lastmodified":1492119676,
     "wof:name":"H & M Tire Svc",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

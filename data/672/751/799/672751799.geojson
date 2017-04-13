@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.679307,42.077528,-70.679307,42.077528",
     "geom:latitude":42.077528,
     "geom:longitude":-70.679307,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05FxGKButElRjmVRHS2fDd_42.077528_-70.679307@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725975,
-    "wof:geomhash":"0f97158436a92ccd785db8d4f015373d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d29392286e4604aabf483844de1f235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":672751799
+        }
+    ],
     "wof:id":672751799,
-    "wof:lastmodified":1472625995,
+    "wof:lastmodified":1492106099,
     "wof:name":"Kenco Construction",
     "wof:parent_id":420523971,
     "wof:placetype":"venue",

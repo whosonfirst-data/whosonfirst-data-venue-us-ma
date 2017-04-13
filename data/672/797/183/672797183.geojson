@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.586338,42.430119,-71.586338,42.430119",
     "geom:latitude":42.430119,
     "geom:longitude":-71.586338,
@@ -31,17 +32,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MTId3nHknBcrLEdaEB0uc_42.430119_-71.586338@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726926,
-    "wof:geomhash":"08a876d5df81ff5d26dd1a5da3fb799e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7c9f718b3d93b142df5c8d6ea085f5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672797183
+        }
+    ],
     "wof:id":672797183,
-    "wof:lastmodified":1472626026,
+    "wof:lastmodified":1492113794,
     "wof:name":"Bolton Mobil",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

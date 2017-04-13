@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.823408,41.920168,-70.823408,41.920168",
     "geom:latitude":41.920168,
     "geom:longitude":-70.823408,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85811691,
-        102084367
+        102084367,
+        420523817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461720958,
-    "wof:geomhash":"32c4549a3c036dafa2bf578b82c43e5b",
+    "wof:geomhash":"c11e5fa44c055f2c4e362b545e006ba9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,17 @@
             "neighbourhood_id":85811691,
             "region_id":85688645,
             "venue_id":672525611
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672525611
         }
     ],
     "wof:id":672525611,
-    "wof:lastmodified":1472625779,
+    "wof:lastmodified":1492109205,
     "wof:name":"Frazier Bros Asphalt Paving",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

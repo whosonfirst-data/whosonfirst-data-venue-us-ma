@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.3289,41.843474,-71.3289,41.843474",
     "geom:latitude":41.843474,
     "geom:longitude":-71.3289,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85816693,
-        102084407
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461725170,
-    "wof:geomhash":"d99c7324be26bd5f6c48581a51086fdb",
+    "wof:geomhash":"2447c4c5fc00b385fe50de2679c73619",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084407,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
             "neighbourhood_id":85816693,
-            "region_id":85688645,
+            "region_id":85688509,
             "venue_id":672714267
         }
     ],
     "wof:id":672714267,
-    "wof:lastmodified":1472625955,
+    "wof:lastmodified":1492118052,
     "wof:name":"Keith Correia Builder Inc",
     "wof:parent_id":85816693,
     "wof:placetype":"venue",

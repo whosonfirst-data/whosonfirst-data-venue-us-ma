@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.870418,41.923008,-70.870418,41.923008",
     "geom:latitude":41.923008,
     "geom:longitude":-70.870418,
@@ -31,17 +32,26 @@
         "shipper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xPtuyvpSjmX1eCcBsVt9M_41.923008_-70.870418@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720544,
-    "wof:geomhash":"54f62ecae0177810b52d2b52831cdaa8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60fba0f2efb27887577cb83060c64e1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523895,
+            "venue_id":672506155
+        }
+    ],
     "wof:id":672506155,
-    "wof:lastmodified":1472625765,
+    "wof:lastmodified":1492109445,
     "wof:name":"Cranberry Grower's Svc Inc",
     "wof:parent_id":420523895,
     "wof:placetype":"venue",

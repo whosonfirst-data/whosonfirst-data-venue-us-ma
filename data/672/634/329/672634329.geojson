@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.719117,41.925637,-70.719117,41.925637",
     "geom:latitude":41.925637,
     "geom:longitude":-70.719117,
@@ -31,17 +32,26 @@
         "printer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uwFsPiFE7A5FD1ibMKG90_41.925637_-70.719117@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723381,
-    "wof:geomhash":"4d846c1a82fdaf0943f44ecc6cd6f208",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a0d9e1bd978d214773abd397784f269",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672634329
+        }
+    ],
     "wof:id":672634329,
-    "wof:lastmodified":1472625881,
+    "wof:lastmodified":1492117152,
     "wof:name":"Harborlite",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

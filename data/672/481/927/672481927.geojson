@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.383601,42.683355,-71.383601,42.683355",
     "geom:latitude":42.683355,
     "geom:longitude":-71.383601,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5D0AbScuH6B6kDHYfhmHRF_42.683355_-71.383601@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719991,
-    "wof:geomhash":"66ec510b49d9c57cec987f0c5100081d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5307a781da9107642f1b0e4ad868462a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523675,
+            "venue_id":672481927
+        }
+    ],
     "wof:id":672481927,
-    "wof:lastmodified":1472625758,
+    "wof:lastmodified":1492110900,
     "wof:name":"Heritage Painting",
     "wof:parent_id":420523675,
     "wof:placetype":"venue",

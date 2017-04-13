@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.992767,41.643114,-70.992767,41.643114",
     "geom:latitude":41.643114,
     "geom:longitude":-70.992767,
@@ -32,17 +33,36 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420558919,
+        102191575,
+        404476169,
+        85633793,
+        85950685,
+        102084407,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zdYUeTLTu3nGxoEd2qY1D_41.643114_-70.992767@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715110,
-    "wof:geomhash":"d2087db18c6445b9caec71eef5bb5f56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8fb52955ff95833e54716dfc99fe082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476169,
+            "locality_id":85950685,
+            "neighbourhood_id":420558919,
+            "region_id":85688645,
+            "venue_id":672275887
+        }
+    ],
     "wof:id":672275887,
-    "wof:lastmodified":1472625435,
+    "wof:lastmodified":1492107463,
     "wof:name":"Hertz Rent A Car",
     "wof:parent_id":420558919,
     "wof:placetype":"venue",

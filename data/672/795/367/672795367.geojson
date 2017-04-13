@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.928995,41.421759,-70.928995,41.421759",
     "geom:latitude":41.421759,
     "geom:longitude":-70.928995,
@@ -31,17 +32,32 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476275,
+        85633793,
+        102084629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45CBfny5mbhQvMoiOFyIGf_41.421759_-70.928995@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726887,
-    "wof:geomhash":"e3a8caca2eed6739b63c9e2fd1905c59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c56db4e3d317ee7db228e684ef2860f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084629,
+            "localadmin_id":404476275,
+            "region_id":85688645,
+            "venue_id":672795367
+        }
+    ],
     "wof:id":672795367,
-    "wof:lastmodified":1472626024,
+    "wof:lastmodified":1492111046,
     "wof:name":"Island Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

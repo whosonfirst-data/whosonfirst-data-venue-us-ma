@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.23263,42.2982,-71.23263,42.2982",
     "geom:latitude":42.2982,
     "geom:longitude":-71.23263,
@@ -38,7 +39,8 @@
         85633793,
         85950835,
         102084403,
-        85688645
+        85688645,
+        85817765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461714687,
-    "wof:geomhash":"aa7015796c514c414578bc72d9b3732a",
+    "wof:geomhash":"827a46ebade73aa3a3bb126818922b58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85836459,
             "region_id":85688645,
             "venue_id":672253955
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476585,
+            "locality_id":85950835,
+            "neighbourhood_id":85817765,
+            "region_id":85688645,
+            "venue_id":672253955
         }
     ],
     "wof:id":672253955,
-    "wof:lastmodified":1472625383,
+    "wof:lastmodified":1492111827,
     "wof:name":"Insight Photographs",
-    "wof:parent_id":85836459,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

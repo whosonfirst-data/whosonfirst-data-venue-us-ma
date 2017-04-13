@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.100488,41.265357,-70.100488,41.265357",
     "geom:latitude":41.265357,
     "geom:longitude":-70.100488,
@@ -35,7 +36,8 @@
         85633793,
         85950503,
         102084641,
-        85688645
+        85688645,
+        85834819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461717939,
-    "wof:geomhash":"ab112c69c72996cd88fbdbae3c78a500",
+    "wof:geomhash":"ec15e5a526aa3a9ea827ddd612b3cafa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,22 @@
             "neighbourhood_id":85834175,
             "region_id":85688645,
             "venue_id":672402563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084641,
+            "localadmin_id":404476421,
+            "locality_id":85950503,
+            "neighbourhood_id":85834819,
+            "region_id":85688645,
+            "venue_id":672402563
         }
     ],
     "wof:id":672402563,
-    "wof:lastmodified":1472625674,
+    "wof:lastmodified":1492113261,
     "wof:name":"Historic Timbers Inc",
-    "wof:parent_id":85834175,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

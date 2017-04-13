@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.980612,41.823073,-70.980612,41.823073",
     "geom:latitude":41.823073,
     "geom:longitude":-70.980612,
@@ -31,19 +32,38 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523853,
+        85688645,
+        85824587,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gzFmKM2V1AOqneGFFbhzx_41.823073_-70.980612@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717433,
-    "wof:geomhash":"2b7f16bfc6aa9c67e03071322b2237d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"888029cb8666b9095281b4e7fc7eec53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523853,
+            "venue_id":672380633
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85824587,
+            "region_id":85688645,
+            "venue_id":672380633
+        }
+    ],
     "wof:id":672380633,
-    "wof:lastmodified":1472625653,
+    "wof:lastmodified":1492109683,
     "wof:name":"Expert Photo",
-    "wof:parent_id":420523853,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

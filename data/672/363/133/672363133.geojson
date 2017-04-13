@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.887939,42.775529,-70.887939,42.775529",
     "geom:latitude":42.775529,
     "geom:longitude":-70.887939,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85853243,
+        102084463,
         85891459,
         102191575,
         404476251,
-        85633793,
-        85950409,
-        102084463,
-        85688645
+        85950409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461717051,
-    "wof:geomhash":"df41a95bb0f957666712fa5faa7cac2a",
+    "wof:geomhash":"727e51c5d906b1779a1d0b70bac0fcef",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85853243,
+            "region_id":85688645,
+            "venue_id":672363133
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +66,9 @@
         }
     ],
     "wof:id":672363133,
-    "wof:lastmodified":1472625617,
+    "wof:lastmodified":1492110523,
     "wof:name":"Jen Wright Signs",
-    "wof:parent_id":85891459,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.715768,41.925495,-70.715768,41.925495",
     "geom:latitude":41.925495,
     "geom:longitude":-70.715768,
@@ -32,17 +33,26 @@
         "cable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AS8YwlBMZyJzcp6mhZvby_41.925495_-70.715768@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741123,
-    "wof:geomhash":"dbd06bf96cfe0c6c121be4a7080c6eed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1fe3c4a91dbf241d50f563c89dfa3c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689157599
+        }
+    ],
     "wof:id":689157599,
-    "wof:lastmodified":1472625525,
+    "wof:lastmodified":1492099693,
     "wof:name":"Ford Cable",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

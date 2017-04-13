@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.684754,42.073679,-70.684754,42.073679",
     "geom:latitude":42.073679,
     "geom:longitude":-70.684754,
@@ -31,17 +32,26 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eWtggaERJ2wzECHVUY7D8_42.073679_-70.684754@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728062,
-    "wof:geomhash":"d1873de74dedf5c549eb84a31fb0c490",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73bebd6ad3853aec3386afa5e9f4ddb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":672853531
+        }
+    ],
     "wof:id":672853531,
-    "wof:lastmodified":1472626087,
+    "wof:lastmodified":1492114815,
     "wof:name":"Campbell Door Co",
     "wof:parent_id":420523971,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.057643,42.039248,-71.057643,42.039248",
     "geom:latitude":42.039248,
     "geom:longitude":-71.057643,
@@ -28,19 +29,34 @@
     "sg:postcode":"02379",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523935,
+        420523999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49qcDx8NeCy3XqXCwENL7K_42.039248_-71.057643@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729062,
-    "wof:geomhash":"5665a1d71eec48c573399030c5f3afb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bf2c7dd40332a8722dae093eae0dbe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":672901939
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523999,
+            "venue_id":672901939
+        }
+    ],
     "wof:id":672901939,
-    "wof:lastmodified":1472626128,
+    "wof:lastmodified":1492111397,
     "wof:name":"Best Choice Real Estate Svc",
-    "wof:parent_id":420523935,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.418295,42.268238,-72.418295,42.268238",
     "geom:latitude":42.268238,
     "geom:longitude":-72.418295,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mc30guQWCWRwWDmUdBm9S_42.268238_-72.418295@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727144,
-    "wof:geomhash":"f1ab15e7f6d93acb323e1abd4fa4596a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39b46d7b09db519e02ba950ff576061f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672808035
+        }
+    ],
     "wof:id":672808035,
-    "wof:lastmodified":1472626032,
+    "wof:lastmodified":1492106570,
     "wof:name":"Berkshire Blacktop",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

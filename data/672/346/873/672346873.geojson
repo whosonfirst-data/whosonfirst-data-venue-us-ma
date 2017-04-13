@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.897074,41.740879,-70.897074,41.740879",
     "geom:latitude":41.740879,
     "geom:longitude":-70.897074,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aUDkwnBayPG3b0eb6yaka_41.740879_-70.897074@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716655,
-    "wof:geomhash":"ff1587dbd8abc2830cb542a8c05fc636",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d942c233cfc5dcb99392722abcd3abcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672346873
+        }
+    ],
     "wof:id":672346873,
-    "wof:lastmodified":1472625588,
+    "wof:lastmodified":1492115640,
     "wof:name":"Beaudoin Leo Carpenter Builder",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.025582,42.294924,-71.025582,42.294924",
     "geom:latitude":42.294924,
     "geom:longitude":-71.025582,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476591,
+        85633793,
+        85950429,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mjSg8uNRiZ5R2i807tSmL_42.294924_-71.025582@1303262223"
     },
     "wof:country":"US",
     "wof:created":1461740078,
-    "wof:geomhash":"7529009cf105cc7c9f53c6b85b174e66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"867308c116e74ea71d78d3677ceb47e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476591,
+            "locality_id":85950429,
+            "region_id":85688645,
+            "venue_id":689129321
+        }
+    ],
     "wof:id":689129321,
-    "wof:lastmodified":1472625422,
+    "wof:lastmodified":1492100151,
     "wof:name":"Seaport At Marina Bay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

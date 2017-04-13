@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.787241,42.256116,-71.787241,42.256116",
     "geom:latitude":42.256116,
     "geom:longitude":-71.787241,
@@ -41,7 +42,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85838749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722117,
-    "wof:geomhash":"f70d1745b9c8cfc08440bb9c2cdfb8e7",
+    "wof:geomhash":"8dc1efd8d8696107b90e67be1e272d0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,22 @@
             "neighbourhood_id":85853089,
             "region_id":85688645,
             "venue_id":672579737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85838749,
+            "region_id":85688645,
+            "venue_id":672579737
         }
     ],
     "wof:id":672579737,
-    "wof:lastmodified":1472625831,
+    "wof:lastmodified":1492112606,
     "wof:name":"Strike 3 Sport Cards",
-    "wof:parent_id":85853089,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

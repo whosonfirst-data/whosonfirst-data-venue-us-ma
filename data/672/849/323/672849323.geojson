@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.551113,42.161567,-71.551113,42.161567",
     "geom:latitude":42.161567,
     "geom:longitude":-71.551113,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461727980,
-    "wof:geomhash":"59b9c837e0887b127de04b53c0f73bec",
+    "wof:geomhash":"450095d3373b548351fde3abf125913c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672849323
         }
     ],
     "wof:id":672849323,
-    "wof:lastmodified":1472626076,
+    "wof:lastmodified":1492118786,
     "wof:name":"Claddagh Consulting Inc",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

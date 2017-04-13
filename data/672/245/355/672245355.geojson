@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.996697,41.640369,-70.996697,41.640369",
     "geom:latitude":41.640369,
     "geom:longitude":-70.996697,
@@ -32,17 +33,36 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420558919,
+        102191575,
+        404476169,
+        85633793,
+        85950685,
+        102084407,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oxhWKfuT4cwNWeBntEKKh_41.640369_-70.996697@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714518,
-    "wof:geomhash":"415033b9cebf7c7b2e97f48712b24fdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03c94d9e22750f5d553b6fa7c1baf4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476169,
+            "locality_id":85950685,
+            "neighbourhood_id":420558919,
+            "region_id":85688645,
+            "venue_id":672245355
+        }
+    ],
     "wof:id":672245355,
-    "wof:lastmodified":1472625342,
+    "wof:lastmodified":1492111087,
     "wof:name":"Conway Financial Svc",
     "wof:parent_id":420558919,
     "wof:placetype":"venue",

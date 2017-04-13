@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.10183,42.130862,-71.10183,42.130862",
     "geom:latitude":42.130862,
     "geom:longitude":-71.10183,
@@ -35,17 +36,26 @@
     ],
     "sg:website":"www.blockbuster.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2e76aifLfvOOvxw4WdK91h_42.130862_-71.101830@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731657,
-    "wof:geomhash":"0dbf48a7c9dd4c980be4d9210dc3452b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab03af2f56de66aebbff660d988d494f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":673004251
+        }
+    ],
     "wof:id":673004251,
-    "wof:lastmodified":1472624936,
+    "wof:lastmodified":1492104959,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.865624,41.619641,-70.865624,41.619641",
     "geom:latitude":41.619641,
     "geom:longitude":-70.865624,
@@ -32,17 +33,26 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523311
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uqr0VqOorVgptmLOS8ODf_41.619641_-70.865624@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721884,
-    "wof:geomhash":"048014b40bc3b5944572263087eca6af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce657341b96865652b1fab8640ef735d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523311,
+            "venue_id":672568509
+        }
+    ],
     "wof:id":672568509,
-    "wof:lastmodified":1472625808,
+    "wof:lastmodified":1492116617,
     "wof:name":"Locks Are Us",
     "wof:parent_id":420523311,
     "wof:placetype":"venue",

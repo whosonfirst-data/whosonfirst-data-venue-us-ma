@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.380423,42.636806,-71.380423,42.636806",
     "geom:latitude":42.636806,
     "geom:longitude":-71.380423,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4222RSk7e4XUhsezKFdgEq_42.636806_-71.380423@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713048,
-    "wof:geomhash":"66e86eaeb9ac7a43a0da5c7e63291384",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0d67cb0800cd806390829124a9ef730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672176675
+        }
+    ],
     "wof:id":672176675,
-    "wof:lastmodified":1472625078,
+    "wof:lastmodified":1492106869,
     "wof:name":"Paul T Murphy DDS",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

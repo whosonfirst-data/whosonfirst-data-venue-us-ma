@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.804948,42.170409,-71.804948,42.170409",
     "geom:latitude":42.170409,
     "geom:longitude":-71.804948,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VLQbpCWIdCE22Fz9hjXY2_42.170409_-71.804948@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715248,
-    "wof:geomhash":"947241c6242586ada2478d0143ad6259",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75e8eeb54e7386fb291b0e90787f4a68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672282489
+        }
+    ],
     "wof:id":672282489,
-    "wof:lastmodified":1472625464,
+    "wof:lastmodified":1492108428,
     "wof:name":"Cyr Electric",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

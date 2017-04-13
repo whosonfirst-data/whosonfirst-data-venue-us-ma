@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.941607,41.7043,-70.941607,41.7043",
     "geom:latitude":41.7043,
     "geom:longitude":-70.941607,
@@ -33,17 +34,26 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IPTDbUtwMOl3p3j2Yuc9o_41.704300_-70.941607@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729449,
-    "wof:geomhash":"05b3d2dec18177a4f416553d88400138",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be7ac37378bc26633f96cf245e15ab64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":672921071
+        }
+    ],
     "wof:id":672921071,
-    "wof:lastmodified":1472626130,
+    "wof:lastmodified":1492115006,
     "wof:name":"Center For Health & Human Svc",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

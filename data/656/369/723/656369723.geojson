@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.970852,41.80292,-70.970852,41.80292",
     "geom:latitude":41.80292,
     "geom:longitude":-70.970852,
@@ -32,17 +33,26 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VBWQ9gki7xFsT2Bm9x1oy_41.802920_-70.970852@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711373,
-    "wof:geomhash":"ab7eb205f939157f0eddb4f439c0526e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d70e2ab53fa976a555703efb301a0df2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523853,
+            "venue_id":656369723
+        }
+    ],
     "wof:id":656369723,
-    "wof:lastmodified":1472624963,
+    "wof:lastmodified":1492102224,
     "wof:name":"Arpin Inspection Svc",
     "wof:parent_id":420523853,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.908667,41.893564,-70.908667,41.893564",
     "geom:latitude":41.893564,
     "geom:longitude":-70.908667,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YULBAioUtq0myaYWB7Qfa_41.893564_-70.908667@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721747,
-    "wof:geomhash":"378db5469ede1c0330d61bad04c1b72c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"220056823a66eaacc6bd2636c98355b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672561993
+        }
+    ],
     "wof:id":672561993,
-    "wof:lastmodified":1472625841,
+    "wof:lastmodified":1492117902,
     "wof:name":"H Battle Construction Inc",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

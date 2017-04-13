@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.104545,42.621226,-73.104545,42.621226",
     "geom:latitude":42.621226,
     "geom:longitude":-73.104545,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rug0bmd8NA7rrpKOUQydK_42.621226_-73.104545@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715719,
-    "wof:geomhash":"81211cf2f6fb73daace1842f6c5a6a5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c0bc7137b31a3a71bb3509806f5a332",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672305981
+        }
+    ],
     "wof:id":672305981,
-    "wof:lastmodified":1472625527,
+    "wof:lastmodified":1492117303,
     "wof:name":"Kern's Plumbing & Heating",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

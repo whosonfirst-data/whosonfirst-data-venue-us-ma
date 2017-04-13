@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.400707,42.606165,-71.400707,42.606165",
     "geom:latitude":42.606165,
     "geom:longitude":-71.400707,
@@ -32,17 +33,26 @@
         "investment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rzmDByZJWsLeTudoDLhha_42.605873_-71.400388@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733094,
-    "wof:geomhash":"3158120adecd53d8351edf593eb3ab00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a25c940bd4087c5bde8855ed52f1c3fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":673067645
+        }
+    ],
     "wof:id":673067645,
-    "wof:lastmodified":1472625189,
+    "wof:lastmodified":1492103771,
     "wof:name":"Al Devita",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

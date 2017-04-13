@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.919601,42.235298,-71.919601,42.235298",
     "geom:latitude":42.235298,
     "geom:longitude":-71.919601,
@@ -34,17 +35,26 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6T5RgYttjoL0Uce6tlthvy_42.235298_-71.919601@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734242,
-    "wof:geomhash":"5a716f730f46b9ef3e67f6224492039e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6aadd9e626d1a07d3b0c3fb894f8d34f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":673122333
+        }
+    ],
     "wof:id":673122333,
-    "wof:lastmodified":1472625341,
+    "wof:lastmodified":1492104014,
     "wof:name":"Tom Cunningham's Electrical Services",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

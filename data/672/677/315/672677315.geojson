@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.896764,42.462703,-72.896764,42.462703",
     "geom:latitude":42.462703,
     "geom:longitude":-72.896764,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PSJAfMXg45dXeRddORgcP_42.462703_-72.896764@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724321,
-    "wof:geomhash":"e2c7e1695fdb04eda95e00d1b14e642f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a47340cb550620af174a34cde1848bd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523653,
+            "venue_id":672677315
+        }
+    ],
     "wof:id":672677315,
-    "wof:lastmodified":1472625923,
+    "wof:lastmodified":1492118205,
     "wof:name":"Cummington Garage",
     "wof:parent_id":420523653,
     "wof:placetype":"venue",

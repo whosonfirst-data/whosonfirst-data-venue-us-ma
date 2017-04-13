@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.99442,42.794764,-70.99442,42.794764",
     "geom:latitude":42.794764,
     "geom:longitude":-70.99442,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49BoHzvvK4w12wK9BIt7kQ_42.794764_-70.994420@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726064,
-    "wof:geomhash":"0b88626c7a738d005fbe51e86207a7e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94f95293d07680974b11c03dc159d9df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672756087
+        }
+    ],
     "wof:id":672756087,
-    "wof:lastmodified":1472625983,
+    "wof:lastmodified":1492115807,
     "wof:name":"Riverside Engineering Svc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

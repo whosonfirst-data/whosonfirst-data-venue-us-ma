@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.115625,42.622745,-73.115625,42.622745",
     "geom:latitude":42.622745,
     "geom:longitude":-73.115625,
@@ -32,17 +33,26 @@
         "removal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JbaABSreS7mN0cz8yblBp_42.622745_-73.115625@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723492,
-    "wof:geomhash":"ca5912f1168c2247dd511837c11beaa8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b1112d3b9be923a4cf910a44cc01379",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672639557
+        }
+    ],
     "wof:id":672639557,
-    "wof:lastmodified":1472625886,
+    "wof:lastmodified":1492117118,
     "wof:name":"Greylock Environmental",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

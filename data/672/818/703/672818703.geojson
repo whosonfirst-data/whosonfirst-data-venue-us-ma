@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.076355,42.040338,-71.076355,42.040338",
     "geom:latitude":42.040338,
     "geom:longitude":-71.076355,
@@ -33,19 +34,28 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5U5vQnB4MoVHLV1hAdjGR0_42.040338_-71.076355@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727370,
-    "wof:geomhash":"2b30004b3cf89a9613485be578dacc0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd9a090a8330a059399922cbcece0dc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":672818703
+        }
+    ],
     "wof:id":672818703,
-    "wof:lastmodified":1472626054,
+    "wof:lastmodified":1492119772,
     "wof:name":"Collision Doctors Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

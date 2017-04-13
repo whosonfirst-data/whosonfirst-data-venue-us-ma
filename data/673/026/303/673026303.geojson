@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.981124,42.721476,-70.981124,42.721476",
     "geom:latitude":42.721476,
     "geom:longitude":-70.981124,
@@ -33,17 +34,26 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0f4xcnPSSpwqVqiT6UL328_42.721476_-70.981124@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732215,
-    "wof:geomhash":"e1808212e8fc30f791a9a9e1996799ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"697291cbb8a2495ea749fb22498ddc2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673026303
+        }
+    ],
     "wof:id":673026303,
-    "wof:lastmodified":1472625005,
+    "wof:lastmodified":1492102510,
     "wof:name":"Belle's Blossoms",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.719803,41.929699,-70.719803,41.929699",
     "geom:latitude":41.929699,
     "geom:longitude":-70.719803,
@@ -32,17 +33,26 @@
         "property"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66ihibMtsh6Qtklfy8sWwD_41.929699_-70.719803@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741177,
-    "wof:geomhash":"314e5d52739b69a65eba2c9a0aa138eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bba7900d782fe3cb1fbf7bacdfc97ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689160449
+        }
+    ],
     "wof:id":689160449,
-    "wof:lastmodified":1472625513,
+    "wof:lastmodified":1492101093,
     "wof:name":"Heritage Investment Group - CLOSED",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

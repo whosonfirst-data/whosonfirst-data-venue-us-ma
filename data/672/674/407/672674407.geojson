@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.784013,42.586253,-71.784013,42.586253",
     "geom:latitude":42.586253,
     "geom:longitude":-71.784013,
@@ -38,7 +39,8 @@
         85633793,
         85950381,
         102084655,
-        85688645
+        85688645,
+        85891319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461724257,
-    "wof:geomhash":"b76bf5145097190cb0c0f633ae7bacdf",
+    "wof:geomhash":"51d8c51535e36f96e26b50c08958af83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,19 @@
             "neighbourhood_id":420524103,
             "region_id":85688645,
             "venue_id":672674407
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85891319,
+            "region_id":85688645,
+            "venue_id":672674407
         }
     ],
     "wof:id":672674407,
-    "wof:lastmodified":1472625920,
+    "wof:lastmodified":1492108347,
     "wof:name":"Skyline Engineers Inc",
-    "wof:parent_id":420524103,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

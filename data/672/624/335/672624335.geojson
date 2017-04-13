@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.067269,41.997965,-71.067269,41.997965",
     "geom:latitude":41.997965,
     "geom:longitude":-71.067269,
@@ -31,17 +32,26 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523373
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bD7TPa6GoFI8xutdsjuiJ_41.997965_-71.067269@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723162,
-    "wof:geomhash":"8cbe9c66e34d0fc5c41f6f8fc1385ffc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c04df9c25c4e129e6e076efa8198d92d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523373,
+            "venue_id":672624335
+        }
+    ],
     "wof:id":672624335,
-    "wof:lastmodified":1472625871,
+    "wof:lastmodified":1492109403,
     "wof:name":"Guaranteed Overnight Delivery",
     "wof:parent_id":420523373,
     "wof:placetype":"venue",

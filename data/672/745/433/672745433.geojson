@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.259047,42.695427,-71.259047,42.695427",
     "geom:latitude":42.695427,
     "geom:longitude":-71.259047,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476483,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5h86Mxqkm4GpSz5azNaVnx_42.695427_-71.259047@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725850,
-    "wof:geomhash":"515658629a862bdecad9632876284e17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35801f41b1193018e063551b2ae7d7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476483,
+            "region_id":85688645,
+            "venue_id":672745433
+        }
+    ],
     "wof:id":672745433,
-    "wof:lastmodified":1472625980,
+    "wof:lastmodified":1492117067,
     "wof:name":"Old Dominion Freight Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.907787,41.897286,-70.907787,41.897286",
     "geom:latitude":41.897286,
     "geom:longitude":-70.907787,
@@ -34,17 +35,26 @@
         "supplies-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fCwItAbQSadKPM01nugaV_41.897286_-70.907787@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741068,
-    "wof:geomhash":"7b2b69e91dabe536b1d5df65f30b6792",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e17d121df4f98e090e87741a911e766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":689155747
+        }
+    ],
     "wof:id":689155747,
-    "wof:lastmodified":1472625521,
+    "wof:lastmodified":1492100385,
     "wof:name":"Aqua Solutions Inc",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.908737,42.209625,-71.908737,42.209625",
     "geom:latitude":42.209625,
     "geom:longitude":-71.908737,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NgyZfVCgTcrhZUQF2H3DT_42.209625_-71.908737@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728061,
-    "wof:geomhash":"443c5a5723fb8511a1476f9408088093",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d336334444c605e2f7335ad34594ad5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":672853477
+        }
+    ],
     "wof:id":672853477,
-    "wof:lastmodified":1472626083,
+    "wof:lastmodified":1492114820,
     "wof:name":"Mid-State Air Systems",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

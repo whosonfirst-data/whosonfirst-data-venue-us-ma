@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.078778,41.644047,-71.078778,41.644047",
     "geom:latitude":41.644047,
     "geom:longitude":-71.078778,
@@ -32,17 +33,26 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KR5zcTQ2hQMWIxHzHYfHl_41.644047_-71.078778@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727677,
-    "wof:geomhash":"9fb9cf67bc4a8f0264938252c671ed22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"503e3538814ec8053923823448df913f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672834073
+        }
+    ],
     "wof:id":672834073,
-    "wof:lastmodified":1472626053,
+    "wof:lastmodified":1492114691,
     "wof:name":"Hillside Equipment Co Inc",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

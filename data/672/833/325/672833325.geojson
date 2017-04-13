@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.219188,41.702057,-70.219188,41.702057",
     "geom:latitude":41.702057,
     "geom:longitude":-70.219188,
@@ -29,13 +30,16 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836559,
+        85837555,
         102191575,
-        404475899,
+        404476089,
         85633793,
-        85950539,
+        85950535,
         102084379,
-        85688645
+        85688645,
+        85836559,
+        404475899,
+        85950539
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,18 @@
     },
     "wof:country":"US",
     "wof:created":1461727663,
-    "wof:geomhash":"b01261ff5190b459045b93753856a618",
+    "wof:geomhash":"536a28e35e32ba1496bd93347649c6f7",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404476089,
+            "locality_id":85950535,
+            "neighbourhood_id":85837555,
+            "region_id":85688645,
+            "venue_id":672833325
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +71,9 @@
         }
     ],
     "wof:id":672833325,
-    "wof:lastmodified":1472626059,
+    "wof:lastmodified":1492107931,
     "wof:name":"Matts Mowing & More",
-    "wof:parent_id":85836559,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.890888,42.118622,-70.890888,42.118622",
     "geom:latitude":42.118622,
     "geom:longitude":-70.890888,
@@ -33,17 +34,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z79Ypsq4KZAkDCLYDSXlb_42.118622_-70.890888@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721913,
-    "wof:geomhash":"d64b5abcb12e973caf11fe85b70121bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20c5f5bbea54d57051c612402e7543d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672570087
+        }
+    ],
     "wof:id":672570087,
-    "wof:lastmodified":1472625805,
+    "wof:lastmodified":1492108238,
     "wof:name":"Engine Specialties",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

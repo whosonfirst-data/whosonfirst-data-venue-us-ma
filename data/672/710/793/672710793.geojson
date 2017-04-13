@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.797338,42.029121,-72.797338,42.029121",
     "geom:latitude":42.029121,
     "geom:longitude":-72.797338,
@@ -31,17 +32,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4h0g2jRjNVPamVv0i2Q6SY_42.029121_-72.797338@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725094,
-    "wof:geomhash":"b6a0549abfa4affb76db9042ce400d4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cea8e0f2980a350df22cd405048025b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523599,
+            "venue_id":672710793
+        }
+    ],
     "wof:id":672710793,
-    "wof:lastmodified":1472625956,
+    "wof:lastmodified":1492118539,
     "wof:name":"Southwick Emergency Management",
     "wof:parent_id":420523599,
     "wof:placetype":"venue",

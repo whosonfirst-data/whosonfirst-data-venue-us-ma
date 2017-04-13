@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.889864,41.730163,-70.889864,41.730163",
     "geom:latitude":41.730163,
     "geom:longitude":-70.889864,
@@ -31,17 +32,26 @@
         "janitorial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sFWvQ47qrKTclPjEY26Eo_41.730163_-70.889864@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730236,
-    "wof:geomhash":"ff6f73d4d22dcaae7c40ba37f9ce95c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ccda080b8769e8ff479ce0961437ed9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672954051
+        }
+    ],
     "wof:id":672954051,
-    "wof:lastmodified":1472626158,
+    "wof:lastmodified":1492117229,
     "wof:name":"Charles Gardner",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

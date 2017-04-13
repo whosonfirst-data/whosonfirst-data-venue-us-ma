@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.715724,42.249387,-71.715724,42.249387",
     "geom:latitude":42.249387,
     "geom:longitude":-71.715724,
@@ -31,17 +32,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XmMSpalvRhHdI9XoVOUoZ_42.249387_-71.715724@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720179,
-    "wof:geomhash":"d8e5e8ae64068bc739d242b014ce93c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"343c1f05aa948859f60ee66c01c169ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":672489745
+        }
+    ],
     "wof:id":672489745,
-    "wof:lastmodified":1472625760,
+    "wof:lastmodified":1492113058,
     "wof:name":"Shrewsbury Mobil",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

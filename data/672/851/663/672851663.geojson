@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.705964,42.104697,-71.705964,42.104697",
     "geom:latitude":42.104697,
     "geom:longitude":-71.705964,
@@ -36,10 +37,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85850129,
-        102084655,
         85950701,
-        85843073
+        102084655,
+        85843073,
+        85850129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461728026,
-    "wof:geomhash":"5148b90e371bbc03c3021716282b07ec",
+    "wof:geomhash":"aa26ebb9bad5a6dcbf9b6bc397e88fd3",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85850129,
-            "region_id":85688645,
-            "venue_id":672851663
-        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -63,12 +57,19 @@
             "neighbourhood_id":85843073,
             "region_id":85688645,
             "venue_id":672851663
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85850129,
+            "region_id":85688645,
+            "venue_id":672851663
         }
     ],
     "wof:id":672851663,
-    "wof:lastmodified":1472626085,
+    "wof:lastmodified":1492119094,
     "wof:name":"Interstate Gasket Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

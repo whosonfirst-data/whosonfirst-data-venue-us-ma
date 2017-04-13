@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.658658,42.074662,-70.658658,42.074662",
     "geom:latitude":42.074662,
     "geom:longitude":-70.658658,
@@ -31,19 +32,38 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85809017,
+        102084367,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QWN35OJukKQ9tr3YN9DBx_42.074662_-70.658658@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730425,
-    "wof:geomhash":"31bde62085b06a16a734acad593db58c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e66ac08b1384f72d668b7b732819810",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85809017,
+            "region_id":85688645,
+            "venue_id":672959855
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":672959855
+        }
+    ],
     "wof:id":672959855,
-    "wof:lastmodified":1472626176,
+    "wof:lastmodified":1492115472,
     "wof:name":"Colonial Heritage Bl",
-    "wof:parent_id":420523971,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

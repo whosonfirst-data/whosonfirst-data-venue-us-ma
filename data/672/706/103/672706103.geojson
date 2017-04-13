@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.564642,42.153846,-71.564642,42.153846",
     "geom:latitude":42.153846,
     "geom:longitude":-71.564642,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"US",
     "wof:created":1461724997,
-    "wof:geomhash":"4593084b13283db3f585d33abf9ea0a9",
+    "wof:geomhash":"ccc19caa13fdbfa4dcc5de1e9d7b0695",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672706103
         }
     ],
     "wof:id":672706103,
-    "wof:lastmodified":1472625940,
+    "wof:lastmodified":1492118507,
     "wof:name":"USAA",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

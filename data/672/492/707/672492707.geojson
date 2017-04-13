@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.211469,42.48526,-71.211469,42.48526",
     "geom:latitude":42.48526,
     "geom:longitude":-71.211469,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858943,
+        85824255,
         102191575,
         404476473,
         85633793,
         85950619,
         102084643,
-        85688645
+        85688645,
+        85858943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461720239,
-    "wof:geomhash":"2b7bfe2fc1e6eb106189e1e330c884db",
+    "wof:geomhash":"bd08fd2b6e2dd6490ece5e3dd20cf545",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476473,
+            "locality_id":85950619,
+            "neighbourhood_id":85824255,
+            "region_id":85688645,
+            "venue_id":672492707
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":672492707,
-    "wof:lastmodified":1472625758,
+    "wof:lastmodified":1492118751,
     "wof:name":"Cheesecake Factory",
-    "wof:parent_id":85858943,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

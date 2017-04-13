@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.862357,42.275801,-70.862357,42.275801",
     "geom:latitude":42.275801,
     "geom:longitude":-70.862357,
@@ -35,7 +36,8 @@
         85633793,
         85950453,
         102084367,
-        420523973
+        420523973,
+        85836269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461728745,
-    "wof:geomhash":"ae60cec8589b4c2b0ae695f244207a68",
+    "wof:geomhash":"df9b793b438e250d346794870d88b24a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +55,21 @@
             "neighbourhood_id":420523973,
             "region_id":85688645,
             "venue_id":672885941
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950453,
+            "neighbourhood_id":85836269,
+            "region_id":85688645,
+            "venue_id":672885941
         }
     ],
     "wof:id":672885941,
-    "wof:lastmodified":1472626108,
+    "wof:lastmodified":1492109151,
     "wof:name":"Red Parrot Restaurant",
-    "wof:parent_id":420523973,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

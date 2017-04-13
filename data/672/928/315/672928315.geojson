@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.20689,42.443241,-71.20689,42.443241",
     "geom:latitude":42.443241,
     "geom:longitude":-71.20689,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812569,
+        85836041,
         102191575,
         404476393,
         85633793,
         85950637,
         102084643,
-        85688645
+        85688645,
+        85812569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461729581,
-    "wof:geomhash":"f10cee389e5d01c4b314d24d3a22ecb9",
+    "wof:geomhash":"93bf7dd81bfa2c985936b43c3895bd57",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476393,
+            "locality_id":85950637,
+            "neighbourhood_id":85836041,
+            "region_id":85688645,
+            "venue_id":672928315
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672928315,
-    "wof:lastmodified":1472626143,
+    "wof:lastmodified":1492111416,
     "wof:name":"Heritage Homes",
-    "wof:parent_id":85812569,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

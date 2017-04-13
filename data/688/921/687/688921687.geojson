@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.011069,42.690909,-71.011069,42.690909",
     "geom:latitude":42.690909,
     "geom:longitude":-71.011069,
@@ -38,17 +39,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oj9W2h3o5ZkVEJHn0eJLz_42.690909_-71.011069@1303262195"
     },
     "wof:country":"US",
     "wof:created":1461735688,
-    "wof:geomhash":"0475bd0eb6d8a6daf3256e4ab42b4902",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50650fb990b4bf25c0a0b182b3065b85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":688921687
+        }
+    ],
     "wof:id":688921687,
-    "wof:lastmodified":1472624960,
+    "wof:lastmodified":1492120642,
     "wof:name":"Emarketing",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

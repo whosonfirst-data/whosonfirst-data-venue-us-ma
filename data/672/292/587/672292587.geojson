@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.410242,42.246334,-72.410242,42.246334",
     "geom:latitude":42.246334,
     "geom:longitude":-72.410242,
@@ -33,17 +34,26 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dx6k4YNl9XjCEYCG8ODmv_42.246334_-72.410242@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715455,
-    "wof:geomhash":"5ebc1e39ec00038e623411f8788c0fda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eea2fd0449da69e00506ed89c8b10288",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672292587
+        }
+    ],
     "wof:id":672292587,
-    "wof:lastmodified":1472625476,
+    "wof:lastmodified":1492109898,
     "wof:name":"Pine Valley Plantation",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

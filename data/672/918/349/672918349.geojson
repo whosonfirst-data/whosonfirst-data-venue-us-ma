@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.603753,42.181145,-71.603753,42.181145",
     "geom:latitude":42.181145,
     "geom:longitude":-71.603753,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476081,
+        85633793,
+        85950689,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SNrNB6Z1qlQPmKO2oUGZy_42.181145_-71.603753@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729402,
-    "wof:geomhash":"0eb0b45928f9126711047d69be981ae2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"663cd3b79ebd4d0f19485112b997ced3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476081,
+            "locality_id":85950689,
+            "region_id":85688645,
+            "venue_id":672918349
+        }
+    ],
     "wof:id":672918349,
-    "wof:lastmodified":1472626129,
+    "wof:lastmodified":1492112100,
     "wof:name":"Studio C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

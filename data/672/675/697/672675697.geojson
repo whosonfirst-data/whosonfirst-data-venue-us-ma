@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.10722,42.12542,-71.10722,42.12542",
     "geom:latitude":42.12542,
     "geom:longitude":-71.10722,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GNd7iGFscg8NTP54bGaEl_42.125420_-71.107220@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724291,
-    "wof:geomhash":"b6e97b65add061b0bafa8391ecd90103",
-    "wof:hierarchy":[],
+    "wof:geomhash":"153406555718af9120f0ee4f353737d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672675697
+        }
+    ],
     "wof:id":672675697,
-    "wof:lastmodified":1472625925,
+    "wof:lastmodified":1492108747,
     "wof:name":"Canton Street Mini Storage",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

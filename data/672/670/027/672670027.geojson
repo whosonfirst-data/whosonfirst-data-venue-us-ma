@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.222714,41.74754,-71.222714,41.74754",
     "geom:latitude":41.74754,
     "geom:longitude":-71.222714,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JA94GAGUgOkEGa01hSNYz_41.747540_-71.222714@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724166,
-    "wof:geomhash":"419ba5bda15dfa1935f09c2435a3560a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a36438e86257eb09a8db9cbca310e3d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":672670027
+        }
+    ],
     "wof:id":672670027,
-    "wof:lastmodified":1472625913,
+    "wof:lastmodified":1492118696,
     "wof:name":"Heidi's Helping Hands",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

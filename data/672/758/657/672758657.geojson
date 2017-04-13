@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.100856,42.135463,-71.100856,42.135463",
     "geom:latitude":42.135463,
     "geom:longitude":-71.100856,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KkaY5hPJ1W98Zg8J5yGpT_42.135463_-71.100856@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726114,
-    "wof:geomhash":"d10f4611f31e8fe9c27cff0d1932eb8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6dec48be14b0956b35de97d44e5c46d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672758657
+        }
+    ],
     "wof:id":672758657,
-    "wof:lastmodified":1472626001,
+    "wof:lastmodified":1492117577,
     "wof:name":"Corporate Promotions",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

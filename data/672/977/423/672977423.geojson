@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.752563,42.021869,-70.752563,42.021869",
     "geom:latitude":42.021869,
     "geom:longitude":-70.752563,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IXtaDv6756W3porRZCD0f_42.021869_-70.752563@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730973,
-    "wof:geomhash":"841fc8fd7339b8366f85a49c77672680",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b437bca95b96d8186a40c4a5bb9e1e37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":672977423
+        }
+    ],
     "wof:id":672977423,
-    "wof:lastmodified":1472626186,
+    "wof:lastmodified":1492117126,
     "wof:name":"Boca Raton Co",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

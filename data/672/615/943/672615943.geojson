@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.619517,41.629829,-70.619517,41.629829",
     "geom:latitude":41.629829,
     "geom:longitude":-70.619517,
@@ -38,17 +39,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hYtRudyX7lcWZhzk8sFzq_41.629829_-70.619517@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722972,
-    "wof:geomhash":"000bab4da401b40f27008f927eb05c35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f842ec6ff3ef5168a64791d08e53911",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672615943
+        }
+    ],
     "wof:id":672615943,
-    "wof:lastmodified":1472625873,
+    "wof:lastmodified":1492111497,
     "wof:name":"Speech & Learning Center",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

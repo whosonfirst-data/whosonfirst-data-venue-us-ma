@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.013921,42.063599,-71.013921,42.063599",
     "geom:latitude":42.063599,
     "geom:longitude":-71.013921,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811415,
+        85891297,
         102191575,
         404476503,
         85633793,
         85950319,
         102084367,
-        85688645
+        85688645,
+        85811415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461720290,
-    "wof:geomhash":"5b204cbcb57c07997831d194aec97325",
+    "wof:geomhash":"e06498e866e90659837437edfef764ff",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476503,
+            "locality_id":85950319,
+            "neighbourhood_id":85891297,
+            "region_id":85688645,
+            "venue_id":672494801
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":672494801,
-    "wof:lastmodified":1472625761,
+    "wof:lastmodified":1492110453,
     "wof:name":"Brockton Acorn Housing Corp",
-    "wof:parent_id":85811415,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

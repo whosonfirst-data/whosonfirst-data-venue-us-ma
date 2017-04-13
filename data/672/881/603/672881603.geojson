@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.927649,41.707079,-70.927649,41.707079",
     "geom:latitude":41.707079,
     "geom:longitude":-70.927649,
@@ -31,17 +32,26 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JoJr40gx8DETRHnBJtoSw_41.707079_-70.927649@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728661,
-    "wof:geomhash":"7f60c3b27305e76a305b4b9d068c7051",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15264eb8c488516835165feb3fffa69a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":672881603
+        }
+    ],
     "wof:id":672881603,
-    "wof:lastmodified":1472626101,
+    "wof:lastmodified":1492113343,
     "wof:name":"Airport Transport Limo Svc",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

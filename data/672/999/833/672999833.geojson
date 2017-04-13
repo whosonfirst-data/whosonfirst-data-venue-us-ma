@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.995931,42.03511,-70.995931,42.03511",
     "geom:latitude":42.03511,
     "geom:longitude":-70.995931,
@@ -32,17 +33,26 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eUhZIH1kPCQxIH3lhZk6P_42.035110_-70.995931@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731577,
-    "wof:geomhash":"01c8ee9c2153185ee66fa326c12ebd71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"beb1d7cac2e8b0b47f146f130c24492f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523977,
+            "venue_id":672999833
+        }
+    ],
     "wof:id":672999833,
-    "wof:lastmodified":1472626207,
+    "wof:lastmodified":1492114172,
     "wof:name":"West Bridgewater Water Dept",
     "wof:parent_id":420523977,
     "wof:placetype":"venue",

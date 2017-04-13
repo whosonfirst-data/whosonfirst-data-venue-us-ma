@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.874313,42.137721,-72.874313,42.137721",
     "geom:latitude":42.137721,
     "geom:longitude":-72.874313,
@@ -38,17 +39,26 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523617
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XhAkp1pnowiWbxKJYWpPC_42.137721_-72.874313@1303262184"
     },
     "wof:country":"US",
     "wof:created":1461733863,
-    "wof:geomhash":"b40423566fdc5a5306c142edd958100b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"301e17b075a10d3a1507ddf1208c5d0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523617,
+            "venue_id":673104223
+        }
+    ],
     "wof:id":673104223,
-    "wof:lastmodified":1472625278,
+    "wof:lastmodified":1492102769,
     "wof:name":"International Productivity Center",
     "wof:parent_id":420523617,
     "wof:placetype":"venue",

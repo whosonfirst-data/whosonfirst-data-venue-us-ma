@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.850728,41.651742,-70.850728,41.651742",
     "geom:latitude":41.651742,
     "geom:longitude":-70.850728,
@@ -31,19 +32,28 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YszZ5gVd0Q0Q00L70iXXF_41.651742_-70.850728@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718520,
-    "wof:geomhash":"020ef30d2a243d32d70838b997a77994",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c336eb4e3c34c7266ea73c7a08f67617",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672424513
+        }
+    ],
     "wof:id":672424513,
-    "wof:lastmodified":1472625693,
+    "wof:lastmodified":1492109307,
     "wof:name":"Bulldoggers Antiques",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.332773,41.825811,-71.332773,41.825811",
     "geom:latitude":41.825811,
     "geom:longitude":-71.332773,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85816693,
-        102084407
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"US",
     "wof:created":1461742518,
-    "wof:geomhash":"8b9e6ab5feb8bad0913ef720c349ed77",
+    "wof:geomhash":"2fe3b990e4a8d0eb51af347fc94b04c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084407,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
             "neighbourhood_id":85816693,
-            "region_id":85688645,
+            "region_id":85688509,
             "venue_id":689221681
         }
     ],
     "wof:id":689221681,
-    "wof:lastmodified":1472625631,
+    "wof:lastmodified":1492099588,
     "wof:name":"Shear Innovations",
     "wof:parent_id":85816693,
     "wof:placetype":"venue",

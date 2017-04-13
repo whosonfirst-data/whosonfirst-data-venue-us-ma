@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.899766,41.745459,-70.899766,41.745459",
     "geom:latitude":41.745459,
     "geom:longitude":-70.899766,
@@ -31,17 +32,26 @@
         "lawn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DiRuUNVcpOr33P1QLYRuf_41.745459_-70.899766@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742383,
-    "wof:geomhash":"58826c48051474434672ca33d7136bff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7865586a99a2fd6c41ec645e46ea332a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":689216101
+        }
+    ],
     "wof:id":689216101,
-    "wof:lastmodified":1472625601,
+    "wof:lastmodified":1492097670,
     "wof:name":"Route 105 Landscape Supply Center",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

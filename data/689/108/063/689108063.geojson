@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.053913,42.419536,-71.053913,42.419536",
     "geom:latitude":42.419536,
     "geom:longitude":-71.053913,
@@ -28,17 +29,34 @@
     "sg:postcode":"02149",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476487,
+        85633793,
+        85950331,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OZkyP01GwzLTapcQ5F5NH_42.419536_-71.053913@1303262220"
     },
     "wof:country":"US",
     "wof:created":1461739562,
-    "wof:geomhash":"a89e3d687a606285acf462fe1c49c8b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c0b19f54e15a202c6959e7c3df03849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476487,
+            "locality_id":85950331,
+            "region_id":85688645,
+            "venue_id":689108063
+        }
+    ],
     "wof:id":689108063,
-    "wof:lastmodified":1472625348,
+    "wof:lastmodified":1492098633,
     "wof:name":"Cold-Cut Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

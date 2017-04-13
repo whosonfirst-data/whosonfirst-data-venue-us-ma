@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.724585,42.390813,-72.724585,42.390813",
     "geom:latitude":42.390813,
     "geom:longitude":-72.724585,
@@ -33,17 +34,26 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nGZlSvUa0WV3CdxhUASHz_42.390813_-72.724585@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726919,
-    "wof:geomhash":"8f7a91d680bcae89101ebfabca77880d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2c83156cccef16e8c24bd4a1defbfac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523635,
+            "venue_id":672797099
+        }
+    ],
     "wof:id":672797099,
-    "wof:lastmodified":1472626018,
+    "wof:lastmodified":1492113797,
     "wof:name":"Williamsburg Highway Dept",
     "wof:parent_id":420523635,
     "wof:placetype":"venue",

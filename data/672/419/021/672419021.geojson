@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.884413,41.643183,-70.884413,41.643183",
     "geom:latitude":41.643183,
     "geom:longitude":-70.884413,
@@ -32,17 +33,26 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aD7xxX8kEpKWXbLGLPKuv_41.643183_-70.884413@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718374,
-    "wof:geomhash":"e1d51150a85f6063aaf7ccaa5a947cde",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da2167ce2d1468967b620c0d2e2bafbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672419021
+        }
+    ],
     "wof:id":672419021,
-    "wof:lastmodified":1472625678,
+    "wof:lastmodified":1492105983,
     "wof:name":"Ted's Farm Equipment",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

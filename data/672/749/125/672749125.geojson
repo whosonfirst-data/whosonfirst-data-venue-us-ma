@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.110844,41.621386,-71.110844,41.621386",
     "geom:latitude":41.621386,
     "geom:longitude":-71.110844,
@@ -31,19 +32,28 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44MpNjhOCVF2Fgz4TO4hsQ_41.621386_-71.110844@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725923,
-    "wof:geomhash":"fcb053b2176abc998ac2e5c5ab22d8ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cf8b5a607925636bdcc09e2df4d3341",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":672749125
+        }
+    ],
     "wof:id":672749125,
-    "wof:lastmodified":1472625975,
+    "wof:lastmodified":1492105572,
     "wof:name":"Soares Snack Bar & Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

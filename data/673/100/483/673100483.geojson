@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.915654,42.48187,-72.915654,42.48187",
     "geom:latitude":42.48187,
     "geom:longitude":-72.915654,
@@ -39,17 +40,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oqXOnuacjmuVqcuQYP7L4_42.481870_-72.915654@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733769,
-    "wof:geomhash":"ad63ee9bf5f750659715d19c352ed874",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3c75ff7de5d41df1a1ae8c35de975cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523653,
+            "venue_id":673100483
+        }
+    ],
     "wof:id":673100483,
-    "wof:lastmodified":1472625274,
+    "wof:lastmodified":1492103418,
     "wof:name":"Cellco Partnership",
     "wof:parent_id":420523653,
     "wof:placetype":"venue",

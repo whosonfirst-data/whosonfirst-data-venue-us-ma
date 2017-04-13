@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.886587,41.639178,-70.886587,41.639178",
     "geom:latitude":41.639178,
     "geom:longitude":-70.886587,
@@ -36,17 +37,26 @@
         "salad"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1W0K985TsyIn4w2Q0KQMVO_41.639178_-70.886587@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461733610,
-    "wof:geomhash":"4140b41814fe28b371a6c03ec7c050a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3485bfd6e4d2da8435f14712bca73550",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":673092209
+        }
+    ],
     "wof:id":673092209,
-    "wof:lastmodified":1472625233,
+    "wof:lastmodified":1492103028,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

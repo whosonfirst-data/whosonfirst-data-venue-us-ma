@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.670186,42.07254,-70.670186,42.07254",
     "geom:latitude":42.07254,
     "geom:longitude":-70.670186,
@@ -28,17 +29,26 @@
     "sg:postcode":"02050",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5U2jHWUBqL1zO5I82K72Kq_42.072540_-70.670186@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727676,
-    "wof:geomhash":"62042ebd4e13aa267939c423340365b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"935c7e4c6048e552b306090aeff89eca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":672834007
+        }
+    ],
     "wof:id":672834007,
-    "wof:lastmodified":1472626051,
+    "wof:lastmodified":1492114677,
     "wof:name":"East Computing",
     "wof:parent_id":420523971,
     "wof:placetype":"venue",

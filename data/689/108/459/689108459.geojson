@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.047203,42.414501,-71.047203,42.414501",
     "geom:latitude":42.414501,
     "geom:longitude":-71.047203,
@@ -38,17 +39,34 @@
     ],
     "sg:website":"www.walgreens.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476487,
+        85633793,
+        85950331,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j0wvtHGhWDy4euCmK3jFw_42.414501_-71.047203@1303262220"
     },
     "wof:country":"US",
     "wof:created":1461739571,
-    "wof:geomhash":"3b73a3e5c430f46a4bb29e689ab30bca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3e209c487b7a6cd229cd7026e4fd7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476487,
+            "locality_id":85950331,
+            "region_id":85688645,
+            "venue_id":689108459
+        }
+    ],
     "wof:id":689108459,
-    "wof:lastmodified":1472625384,
+    "wof:lastmodified":1492098630,
     "wof:name":"Walgreens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

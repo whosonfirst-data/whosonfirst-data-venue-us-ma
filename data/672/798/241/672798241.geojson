@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.191035,42.726213,-71.191035,42.726213",
     "geom:latitude":42.726213,
     "geom:longitude":-71.191035,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475949,
+        85633793,
+        85950411,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fOV5OxptCwqM5mUKxvgso_42.726213_-71.191035@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726945,
-    "wof:geomhash":"a4e7e2a7f4e87f554d869d67e8bb28af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"855806b44ee9e09a0a54309b7c1425af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404475949,
+            "locality_id":85950411,
+            "region_id":85688645,
+            "venue_id":672798241
+        }
+    ],
     "wof:id":672798241,
-    "wof:lastmodified":1472626028,
+    "wof:lastmodified":1492108588,
     "wof:name":"Methuen Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

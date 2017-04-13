@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.770612,42.223879,-70.770612,42.223879",
     "geom:latitude":42.223879,
     "geom:longitude":-70.770612,
@@ -33,17 +34,26 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XCeCdF2WHSebvkL4PmWp2_42.223879_-70.770612@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715725,
-    "wof:geomhash":"2359c270f34af9f7d839398e84bfde4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d178679097193eae02e9701675b4373f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523833,
+            "venue_id":672306287
+        }
+    ],
     "wof:id":672306287,
-    "wof:lastmodified":1472625506,
+    "wof:lastmodified":1492106622,
     "wof:name":"Patricia Fair",
     "wof:parent_id":420523833,
     "wof:placetype":"venue",

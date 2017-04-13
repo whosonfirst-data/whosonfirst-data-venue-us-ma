@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.787517,42.013647,-70.787517,42.013647",
     "geom:latitude":42.013647,
     "geom:longitude":-70.787517,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VGnWPO1P7BMLmvbVAGSqc_42.013647_-70.787517@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741196,
-    "wof:geomhash":"e68ea4d481871b56eebb9208cdf08df2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49bad1741758ac0d64329821daa966e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689161181
+        }
+    ],
     "wof:id":689161181,
-    "wof:lastmodified":1472625506,
+    "wof:lastmodified":1492099162,
     "wof:name":"David Benzaquin Painting & Decorating",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

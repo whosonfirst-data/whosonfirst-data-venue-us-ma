@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.40386,42.658837,-71.40386,42.658837",
     "geom:latitude":42.658837,
     "geom:longitude":-71.40386,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pH4Z9a5Oh45aphTkDMHQ4_42.658837_-71.403860@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718808,
-    "wof:geomhash":"5b1d28179fc707dd0e6581dbb8ffea41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6499951819b8ad42a2adf2a3450046b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672436043
+        }
+    ],
     "wof:id":672436043,
-    "wof:lastmodified":1472625695,
+    "wof:lastmodified":1492118027,
     "wof:name":"Waveguide Inc",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

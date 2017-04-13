@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.545898,41.815857,-70.545898,41.815857",
     "geom:latitude":41.815857,
     "geom:longitude":-70.545898,
@@ -31,17 +32,26 @@
         "cd-rom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7enW4Gs1NevSqtuFI3v8GJ_41.815857_-70.545898@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741155,
-    "wof:geomhash":"7c7f32c67a7d7a5033b5be661e22f32e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"161d0519ae036ba7da535cddb67881e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":689159281
+        }
+    ],
     "wof:id":689159281,
-    "wof:lastmodified":1472625502,
+    "wof:lastmodified":1492097580,
     "wof:name":"Healthcare Technology Partners",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

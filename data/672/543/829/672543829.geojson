@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.387249,41.677109,-70.387249,41.677109",
     "geom:latitude":41.677109,
     "geom:longitude":-70.387249,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842649,
+        85812735,
         102191575,
         404475893,
         85633793,
         85950321,
         102084379,
-        85688645
+        85688645,
+        85842649
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461721334,
-    "wof:geomhash":"9162cf23899df35877f92ea2c8c39fb7",
+    "wof:geomhash":"7d45c79ef19e31cbb163cd4e7c695793",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404475893,
+            "locality_id":85950321,
+            "neighbourhood_id":85812735,
+            "region_id":85688645,
+            "venue_id":672543829
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":672543829,
-    "wof:lastmodified":1472625821,
+    "wof:lastmodified":1492108863,
     "wof:name":"Charles P Andrade",
-    "wof:parent_id":85842649,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

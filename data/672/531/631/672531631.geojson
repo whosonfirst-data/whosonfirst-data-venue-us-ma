@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.102056,42.125895,-71.102056,42.125895",
     "geom:latitude":42.125895,
     "geom:longitude":-71.102056,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LkmXdC8BAX894IhLGD8In_42.125895_-71.102056@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721095,
-    "wof:geomhash":"b58a4a823532d44543164bc5bde33695",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aca28f19c90f3cb485ca045e71323bc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672531631
+        }
+    ],
     "wof:id":672531631,
-    "wof:lastmodified":1472625791,
+    "wof:lastmodified":1492111287,
     "wof:name":"Brazil Stoughton Connection",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

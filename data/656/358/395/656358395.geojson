@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.4168,42.406563,-71.4168,42.406563",
     "geom:latitude":42.406563,
     "geom:longitude":-71.4168,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85841853,
-        102084643
+        85836993,
+        102084643,
+        85841853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461711129,
-    "wof:geomhash":"5e91e18e0c1bf2c12e8f4ab91136a1cb",
+    "wof:geomhash":"bd8cfd8a05dedfc3cfbce2b650644a7b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85836993,
+            "region_id":85688645,
+            "venue_id":656358395
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -54,9 +63,9 @@
         }
     ],
     "wof:id":656358395,
-    "wof:lastmodified":1472624928,
+    "wof:lastmodified":1492101803,
     "wof:name":"Hunsaker Andetta",
-    "wof:parent_id":85841853,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

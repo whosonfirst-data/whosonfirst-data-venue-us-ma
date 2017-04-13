@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.500744,41.66299,-70.500744,41.66299",
     "geom:latitude":41.66299,
     "geom:longitude":-70.500744,
@@ -31,17 +32,26 @@
         "camp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2es0yeXosxZHk2ocdypZGN_41.662990_-70.500744@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715792,
-    "wof:geomhash":"c9d353bc71dde0607e600c9c330879a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71d07f91f8116da0cbeead5735e52ffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672309535
+        }
+    ],
     "wof:id":672309535,
-    "wof:lastmodified":1472625526,
+    "wof:lastmodified":1492111316,
     "wof:name":"4-H Farley Outdoor Education",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

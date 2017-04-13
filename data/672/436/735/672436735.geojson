@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.125642,42.133391,-71.125642,42.133391",
     "geom:latitude":42.133391,
     "geom:longitude":-71.125642,
@@ -31,17 +32,26 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kXl4YH5xncj0DaqFM4XJT_42.133391_-71.125642@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718829,
-    "wof:geomhash":"055e9c4074526ce8284488a1d6b33f14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebea10a959d496898a6d16850491a458",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672436735
+        }
+    ],
     "wof:id":672436735,
-    "wof:lastmodified":1472625706,
+    "wof:lastmodified":1492118014,
     "wof:name":"Accu-Graphic",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.917833,42.217141,-71.917833,42.217141",
     "geom:latitude":42.217141,
     "geom:longitude":-71.917833,
@@ -31,17 +32,26 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XWhWlQ6D9Sz4bac0BmYjd_42.217141_-71.917833@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713948,
-    "wof:geomhash":"5dcab954e577d64f8c2fe99ea9693a2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b274eb34c31c29d8dda9043135d1a082",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":672218823
+        }
+    ],
     "wof:id":672218823,
-    "wof:lastmodified":1472625258,
+    "wof:lastmodified":1492107644,
     "wof:name":"Brookside Products",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

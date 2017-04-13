@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.915277,41.893319,-70.915277,41.893319",
     "geom:latitude":41.893319,
     "geom:longitude":-70.915277,
@@ -39,7 +40,8 @@
         85633793,
         85950469,
         102084367,
-        85688645
+        85688645,
+        85854565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461730229,
-    "wof:geomhash":"baae4871ba38a93473ebf5bfa706d0b9",
+    "wof:geomhash":"02721265b3b4194c3a0b75455b9804f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,19 @@
             "neighbourhood_id":85853233,
             "region_id":85688645,
             "venue_id":672953885
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85854565,
+            "region_id":85688645,
+            "venue_id":672953885
         }
     ],
     "wof:id":672953885,
-    "wof:lastmodified":1472626172,
+    "wof:lastmodified":1492109925,
     "wof:name":"Sacred Heart Catholic Church",
-    "wof:parent_id":85853233,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

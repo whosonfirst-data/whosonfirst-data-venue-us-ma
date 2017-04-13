@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.712701,41.92809,-70.712701,41.92809",
     "geom:latitude":41.92809,
     "geom:longitude":-70.712701,
@@ -31,17 +32,26 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51vJEyGlmFudbMXNXzrIaw_41.928090_-70.712701@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713779,
-    "wof:geomhash":"b95d3ad2081fa064e632ed7ad052691d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c77aa4e28610ff4a45059429fa4f7471",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672210525
+        }
+    ],
     "wof:id":672210525,
-    "wof:lastmodified":1472625207,
+    "wof:lastmodified":1492108893,
     "wof:name":"Full House Portables",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

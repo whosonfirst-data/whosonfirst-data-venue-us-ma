@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.590644,42.148015,-72.590644,42.148015",
     "geom:latitude":42.148015,
     "geom:longitude":-72.590644,
@@ -35,7 +36,8 @@
         85633793,
         85950397,
         102084627,
-        85688645
+        85688645,
+        85847063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461732088,
-    "wof:geomhash":"ccf96151353da107aa47e54ae4b43991",
+    "wof:geomhash":"0e0689cf917126ae7b5d218353cf844f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,22 @@
             "neighbourhood_id":85810839,
             "region_id":85688645,
             "venue_id":673021211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "neighbourhood_id":85847063,
+            "region_id":85688645,
+            "venue_id":673021211
         }
     ],
     "wof:id":673021211,
-    "wof:lastmodified":1472624996,
+    "wof:lastmodified":1492104312,
     "wof:name":"Dogs N Such Inc",
-    "wof:parent_id":85810839,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

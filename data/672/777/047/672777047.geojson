@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.974256,41.815225,-70.974256,41.815225",
     "geom:latitude":41.815225,
     "geom:longitude":-70.974256,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85824587,
-        102084367
+        102084367,
+        420523853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461726521,
-    "wof:geomhash":"897049a953b2212e9e674123ed9dd88a",
+    "wof:geomhash":"be574fa3393725c24b26010b70bad2a4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,17 @@
             "neighbourhood_id":85824587,
             "region_id":85688645,
             "venue_id":672777047
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523853,
+            "venue_id":672777047
         }
     ],
     "wof:id":672777047,
-    "wof:lastmodified":1472626006,
+    "wof:lastmodified":1492113352,
     "wof:name":"Cr Construction",
-    "wof:parent_id":85824587,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

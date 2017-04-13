@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.753606,42.02845,-70.753606,42.02845",
     "geom:latitude":42.02845,
     "geom:longitude":-70.753606,
@@ -31,17 +32,26 @@
         "fasteners-industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UnRXwSzzra8HZ203HqIrC_42.028450_-70.753606@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741022,
-    "wof:geomhash":"7496f429d7531edab51225c44442fe80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1460ed3f9f95fe4ec5df29931e60418a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":689153473
+        }
+    ],
     "wof:id":689153473,
-    "wof:lastmodified":1472625505,
+    "wof:lastmodified":1492097470,
     "wof:name":"Nova Machine & Design Inc",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

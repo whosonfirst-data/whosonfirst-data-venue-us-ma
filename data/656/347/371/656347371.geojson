@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.561363,42.352532,-72.561363,42.352532",
     "geom:latitude":42.352532,
     "geom:longitude":-72.561363,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85816379,
-        102084459
+        85842147,
+        102084459,
+        85816379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461710898,
-    "wof:geomhash":"f9c1a797eb7b261ab4a56a268f8a3266",
+    "wof:geomhash":"7af2fc69a124442003917206d9555364",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084459,
+            "neighbourhood_id":85842147,
+            "region_id":85688645,
+            "venue_id":656347371
+        },
         {
             "country_id":85633793,
             "county_id":102084459,
@@ -54,9 +63,9 @@
         }
     ],
     "wof:id":656347371,
-    "wof:lastmodified":1472624909,
+    "wof:lastmodified":1492102096,
     "wof:name":"Hadley Garden Ctr",
-    "wof:parent_id":85816379,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

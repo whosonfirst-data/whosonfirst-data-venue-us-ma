@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.96905,41.745054,-70.96905,41.745054",
     "geom:latitude":41.745054,
     "geom:longitude":-70.96905,
@@ -31,17 +32,26 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Nm4BD7Ow14X2htC99FDAB_41.745054_-70.969050@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722829,
-    "wof:geomhash":"ac0c3a5061a2e325759895a877d0809d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"919a43a253c464a4c9fb08a9ccb502b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":672610181
+        }
+    ],
     "wof:id":672610181,
-    "wof:lastmodified":1472625856,
+    "wof:lastmodified":1492116823,
     "wof:name":"KMAC Sales & Leasing Co Inc",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

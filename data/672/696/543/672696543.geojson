@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.779719,42.172231,-71.779719,42.172231",
     "geom:latitude":42.172231,
     "geom:longitude":-71.779719,
@@ -37,8 +38,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85807067,
-        102084655
+        85839303,
+        102084655,
+        85807067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,15 @@
     },
     "wof:country":"US",
     "wof:created":1461724783,
-    "wof:geomhash":"6c3fd04c6da77b0450e9c11669abec7a",
+    "wof:geomhash":"7fcad58837e5492270320859b63bbbd5",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85839303,
+            "region_id":85688645,
+            "venue_id":672696543
+        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -57,9 +66,9 @@
         }
     ],
     "wof:id":672696543,
-    "wof:lastmodified":1472625939,
+    "wof:lastmodified":1492117988,
     "wof:name":"Central Mass Power Washing",
-    "wof:parent_id":85807067,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

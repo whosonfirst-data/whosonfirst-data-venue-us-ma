@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.409343,42.290453,-71.409343,42.290453",
     "geom:latitude":42.290453,
     "geom:longitude":-71.409343,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85891333,
+        102191575,
+        404476489,
         85633793,
-        85831225,
-        102084643
+        85950629,
+        102084643,
+        85688645,
+        85831225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461724743,
-    "wof:geomhash":"1bc2d4b6dfe6a969254502006dbee4ef",
+    "wof:geomhash":"07c300db32226b1ccf9b1b2560e842ef",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476489,
+            "locality_id":85950629,
+            "neighbourhood_id":85891333,
+            "region_id":85688645,
+            "venue_id":672694831
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -55,9 +70,9 @@
         }
     ],
     "wof:id":672694831,
-    "wof:lastmodified":1472625946,
+    "wof:lastmodified":1492106512,
     "wof:name":"Army National Guard Recruiter",
-    "wof:parent_id":85831225,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

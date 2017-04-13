@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.928596,42.7523,-70.928596,42.7523",
     "geom:latitude":42.7523,
     "geom:longitude":-70.928596,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GOWSjihnha4F1BUUZ8cH8_42.752300_-70.928596@1303262195"
     },
     "wof:country":"US",
     "wof:created":1461735691,
-    "wof:geomhash":"4cbb27111f5c1d3b74971f9b62fdbeaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac1dbc35363db993895319ef14954d31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":688921861
+        }
+    ],
     "wof:id":688921861,
-    "wof:lastmodified":1472624970,
+    "wof:lastmodified":1492120644,
     "wof:name":"Signature Construction Inc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

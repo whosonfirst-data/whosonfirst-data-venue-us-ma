@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.862969,41.963768,-70.862969,41.963768",
     "geom:latitude":41.963768,
     "geom:longitude":-70.862969,
@@ -31,17 +32,26 @@
         "boat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12e7u3MgDS34EG52MH2Hkt_41.963768_-70.862969@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732269,
-    "wof:geomhash":"239a5741f64dc844383f9c33f6fc07fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e277fb35908f8a53d62d36e024ca428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523907,
+            "venue_id":673027981
+        }
+    ],
     "wof:id":673027981,
-    "wof:lastmodified":1472625043,
+    "wof:lastmodified":1492105003,
     "wof:name":"Seavey Marine Service",
     "wof:parent_id":420523907,
     "wof:placetype":"venue",

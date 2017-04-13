@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.687756,42.133015,-71.687756,42.133015",
     "geom:latitude":42.133015,
     "geom:longitude":-71.687756,
@@ -31,17 +32,26 @@
         "surveyor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rbJV8uJDay0V9gj7gUFtd_42.133015_-71.687756@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731175,
-    "wof:geomhash":"5e9554626d996028ab95ed71dcda4632",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb9863a2ac669cfe170b8dbf02be71e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524115,
+            "venue_id":672985433
+        }
+    ],
     "wof:id":672985433,
-    "wof:lastmodified":1472626191,
+    "wof:lastmodified":1492111695,
     "wof:name":"Tauper Land Survey",
     "wof:parent_id":420524115,
     "wof:placetype":"venue",

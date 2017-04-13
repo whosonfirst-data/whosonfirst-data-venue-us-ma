@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.829538,41.821563,-70.829538,41.821563",
     "geom:latitude":41.821563,
     "geom:longitude":-70.829538,
@@ -28,19 +29,32 @@
     "sg:postcode":"02346",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85826411,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6J7VzPMDCgvCRspQ7mzROa_41.821563_-70.829538@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724576,
-    "wof:geomhash":"7a6c0a85c9d564d4bdbb09fba13a8039",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45fe57399711ae836409d0a35d9cdb08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85826411,
+            "region_id":85688645,
+            "venue_id":672687505
+        }
+    ],
     "wof:id":672687505,
-    "wof:lastmodified":1472625930,
+    "wof:lastmodified":1492112393,
     "wof:name":"Autuamn Farm",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

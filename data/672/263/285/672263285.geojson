@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.0619,42.16196,-71.0619,42.16196",
     "geom:latitude":42.16196,
     "geom:longitude":-71.0619,
@@ -29,10 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85837953,
+        102191575,
+        404476593,
         85633793,
-        85838081,
-        102084403
+        85950841,
+        102084403,
+        85688645,
+        85838081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461714873,
-    "wof:geomhash":"31d2838611ce4c76fceff0b19d737245",
+    "wof:geomhash":"072af61c38e9b5cc3f58723e5135cb19",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476593,
+            "locality_id":85950841,
+            "neighbourhood_id":85837953,
+            "region_id":85688645,
+            "venue_id":672263285
+        },
         {
             "country_id":85633793,
             "county_id":102084403,
@@ -51,9 +66,9 @@
         }
     ],
     "wof:id":672263285,
-    "wof:lastmodified":1472625363,
+    "wof:lastmodified":1492113235,
     "wof:name":"Randolph Health Care Ctr",
-    "wof:parent_id":85838081,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

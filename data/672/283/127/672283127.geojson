@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.367867,42.679847,-71.367867,42.679847",
     "geom:latitude":42.679847,
     "geom:longitude":-71.367867,
@@ -31,17 +32,26 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31X6xyUyNugKKFkhsMqU15_42.679847_-71.367867@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715263,
-    "wof:geomhash":"622242d0e74cd6fed3a2afeb33650fd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63a97aded292b15525aff72e43427df5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523675,
+            "venue_id":672283127
+        }
+    ],
     "wof:id":672283127,
-    "wof:lastmodified":1472625445,
+    "wof:lastmodified":1492111031,
     "wof:name":"Middlesex Wallpapering Svc",
     "wof:parent_id":420523675,
     "wof:placetype":"venue",

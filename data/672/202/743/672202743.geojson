@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.844651,42.260273,-70.844651,42.260273",
     "geom:latitude":42.260273,
     "geom:longitude":-70.844651,
@@ -32,19 +33,36 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        85633793,
+        85950453,
+        102084367,
+        420523855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WoXcU0VWExtv0eIvPU34G_42.260273_-70.844651@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713633,
-    "wof:geomhash":"8e764b38ae1b6404f48c057d857bb043",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28be6f39018fb914fd8295cbe4101475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950453,
+            "neighbourhood_id":420523855,
+            "region_id":85688645,
+            "venue_id":672202743
+        }
+    ],
     "wof:id":672202743,
-    "wof:lastmodified":1472625188,
+    "wof:lastmodified":1492111933,
     "wof:name":"P & S Mechanical Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

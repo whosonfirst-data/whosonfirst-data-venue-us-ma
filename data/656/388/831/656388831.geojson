@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.998376,42.030618,-70.998376,42.030618",
     "geom:latitude":42.030618,
     "geom:longitude":-70.998376,
@@ -32,17 +33,26 @@
         "housing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7deZbp8HB7zpHxPBO09j87_42.030618_-70.998376@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711780,
-    "wof:geomhash":"f4f7b3d3f2628261dfe4b6c6d64b56f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d08f4af52876cdbb343c92942b40d5b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523977,
+            "venue_id":656388831
+        }
+    ],
     "wof:id":656388831,
-    "wof:lastmodified":1472625043,
+    "wof:lastmodified":1492102251,
     "wof:name":"Housing Authority",
     "wof:parent_id":420523977,
     "wof:placetype":"venue",

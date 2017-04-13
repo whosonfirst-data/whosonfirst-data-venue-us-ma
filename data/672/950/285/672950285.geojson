@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.887312,41.643975,-70.887312,41.643975",
     "geom:latitude":41.643975,
     "geom:longitude":-70.887312,
@@ -34,17 +35,26 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ayms6qu1Fvh9onDXjjIgk_41.643975_-70.887312@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730127,
-    "wof:geomhash":"6271159bdc8e99a0d96768a03950f226",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b836885e9ff817c28c8eb8530d072b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672950285
+        }
+    ],
     "wof:id":672950285,
-    "wof:lastmodified":1472626157,
+    "wof:lastmodified":1492116800,
     "wof:name":"Words & Music LTD",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

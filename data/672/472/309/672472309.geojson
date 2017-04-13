@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.898343,42.289821,-71.898343,42.289821",
     "geom:latitude":42.289821,
     "geom:longitude":-71.898343,
@@ -32,7 +33,11 @@
         85688645,
         85633793,
         85809055,
-        102084655
+        102084655,
+        420558267,
+        102191575,
+        404476639,
+        85950375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461719745,
-    "wof:geomhash":"d62b333886089471d7db601d1880ea5b",
+    "wof:geomhash":"e1abc64f208983248795a53947c00e34",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +53,22 @@
             "neighbourhood_id":85809055,
             "region_id":85688645,
             "venue_id":672472309
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":420558267,
+            "region_id":85688645,
+            "venue_id":672472309
         }
     ],
     "wof:id":672472309,
-    "wof:lastmodified":1472625733,
+    "wof:lastmodified":1492110820,
     "wof:name":"Muir's Inc",
-    "wof:parent_id":85809055,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

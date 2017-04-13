@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.607947,42.433081,-71.607947,42.433081",
     "geom:latitude":42.433081,
     "geom:longitude":-71.607947,
@@ -35,17 +36,26 @@
     ],
     "sg:website":"www.boltonfair.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RMeU1n4GENfNY4x4Xnc7i_42.433081_-71.607947@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726461,
-    "wof:geomhash":"6b2bdd97c5db71f49e0ca929f6f451e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edb24b6ece20251be663043322d9cf2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672774205
+        }
+    ],
     "wof:id":672774205,
-    "wof:lastmodified":1472626006,
+    "wof:lastmodified":1492115601,
     "wof:name":"Bolton Fair",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

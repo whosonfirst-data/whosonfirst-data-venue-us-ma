@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.887971,41.873853,-70.887971,41.873853",
     "geom:latitude":41.873853,
     "geom:longitude":-70.887971,
@@ -28,19 +29,34 @@
     "sg:postcode":"02346",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DRexFw3LNL6NhzKu09gQT_41.873853_-70.887971@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719766,
-    "wof:geomhash":"41d7e44f07790fa2a59d2ee8cb25b70e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"293764a3ac0f1501f1cb249d43daf6cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672473087
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672473087
+        }
+    ],
     "wof:id":672473087,
-    "wof:lastmodified":1472625730,
+    "wof:lastmodified":1492109463,
     "wof:name":"Cabin",
-    "wof:parent_id":420523885,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

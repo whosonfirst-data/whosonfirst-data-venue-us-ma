@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.813643,42.204253,-71.813643,42.204253",
     "geom:latitude":42.204253,
     "geom:longitude":-71.813643,
@@ -33,17 +34,26 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yS4gzkVAGkvRVJQfrtYky_42.204253_-71.813643@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723106,
-    "wof:geomhash":"697ae31c71a3e7dad9fd1cf55214a53d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c35602e65887e45ab79c6ee43aaa68e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672621869
+        }
+    ],
     "wof:id":672621869,
-    "wof:lastmodified":1472625873,
+    "wof:lastmodified":1492116495,
     "wof:name":"Exhibits/Plus",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

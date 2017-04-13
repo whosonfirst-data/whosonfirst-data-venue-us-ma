@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.228232,41.75144,-71.228232,41.75144",
     "geom:latitude":41.75144,
     "geom:longitude":-71.228232,
@@ -28,17 +29,26 @@
     "sg:postcode":"02777",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YP8zYn8w6vOufNXiPni5e_41.751440_-71.228232@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729801,
-    "wof:geomhash":"7c7446249e57e001e69761c584af70dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a139af69eaa90b8bb24ee3fefb2d2326",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":672937213
+        }
+    ],
     "wof:id":672937213,
-    "wof:lastmodified":1472626146,
+    "wof:lastmodified":1492110661,
     "wof:name":"Local Computer Store",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

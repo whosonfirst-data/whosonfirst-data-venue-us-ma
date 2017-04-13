@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.856169,42.347419,-71.856169,42.347419",
     "geom:latitude":42.347419,
     "geom:longitude":-71.856169,
@@ -33,17 +34,26 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oByE1aE4UvQeb7zrwdlOv_42.347419_-71.856169@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461733406,
-    "wof:geomhash":"093aa489aeb537f57ba35727934c28eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c94df5ff9b43c82fa8143a3e762b0c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":673082747
+        }
+    ],
     "wof:id":673082747,
-    "wof:lastmodified":1472625242,
+    "wof:lastmodified":1492102592,
     "wof:name":"Friendly's",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

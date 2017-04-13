@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.198815,42.323929,-71.198815,42.323929",
     "geom:latitude":42.323929,
     "geom:longitude":-71.198815,
@@ -30,14 +31,14 @@
     "sg:website":"www.productresources.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852191,
+        85891465,
         102191575,
         404476411,
         85633793,
         85950341,
         102084643,
         85688645,
-        85891465
+        85852191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +46,8 @@
     },
     "wof:country":"US",
     "wof:created":1461719907,
-    "wof:geomhash":"930b2dbe9eea3d6259e5199feb9b9897",
+    "wof:geomhash":"8f84c0c03e4a4a12f485b405350aea86",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476411,
-            "locality_id":85950341,
-            "neighbourhood_id":85852191,
-            "region_id":85688645,
-            "venue_id":672478545
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -66,12 +57,22 @@
             "neighbourhood_id":85891465,
             "region_id":85688645,
             "venue_id":672478545
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "neighbourhood_id":85852191,
+            "region_id":85688645,
+            "venue_id":672478545
         }
     ],
     "wof:id":672478545,
-    "wof:lastmodified":1472625741,
+    "wof:lastmodified":1492115359,
     "wof:name":"Production Resources",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

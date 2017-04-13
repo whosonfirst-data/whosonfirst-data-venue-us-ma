@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.335562,41.84694,-71.335562,41.84694",
     "geom:latitude":41.84694,
     "geom:longitude":-71.335562,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85816693,
-        102084407
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"US",
     "wof:created":1461719858,
-    "wof:geomhash":"6cd59f04f640b04cee388be3d9c00516",
+    "wof:geomhash":"62e234b43027a96d10d46e35f0b4a7fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084407,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
             "neighbourhood_id":85816693,
-            "region_id":85688645,
+            "region_id":85688509,
             "venue_id":672476927
         }
     ],
     "wof:id":672476927,
-    "wof:lastmodified":1472625742,
+    "wof:lastmodified":1492119305,
     "wof:name":"North Elementary School",
     "wof:parent_id":85816693,
     "wof:placetype":"venue",

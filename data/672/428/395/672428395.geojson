@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.075245,41.945239,-71.075245,41.945239",
     "geom:latitude":41.945239,
     "geom:longitude":-71.075245,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523333,
+        85857627,
         102191575,
-        404476139,
+        404476147,
         85633793,
-        85950683,
+        85950365,
         102084407,
-        85688645
+        85688645,
+        420523903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,23 +49,28 @@
     },
     "wof:country":"US",
     "wof:created":1461718605,
-    "wof:geomhash":"c54e3e4373d124141371bc12edd089e0",
+    "wof:geomhash":"09b6bf60279e7024c275bc3b6a527b7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084407,
-            "localadmin_id":404476139,
-            "locality_id":85950683,
-            "neighbourhood_id":420523333,
+            "localadmin_id":404476147,
+            "locality_id":85950365,
+            "neighbourhood_id":85857627,
             "region_id":85688645,
+            "venue_id":672428395
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523903,
             "venue_id":672428395
         }
     ],
     "wof:id":672428395,
-    "wof:lastmodified":1472625696,
+    "wof:lastmodified":1492107316,
     "wof:name":"New Bedford Welding Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

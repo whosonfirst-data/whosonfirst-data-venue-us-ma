@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.574876,42.208835,-72.574876,42.208835",
     "geom:latitude":42.208835,
     "geom:longitude":-72.574876,
@@ -31,17 +32,34 @@
         "sprinkler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476347,
+        85633793,
+        85950397,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pduREOoOm0v9HoQaihk2j_42.208835_-72.574876@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730754,
-    "wof:geomhash":"901c82bfb3078f1e331400309079aa57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f20d750917e3ed0989b3db4ef82ba82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "region_id":85688645,
+            "venue_id":672970001
+        }
+    ],
     "wof:id":672970001,
-    "wof:lastmodified":1472626177,
+    "wof:lastmodified":1492106384,
     "wof:name":"Warehouse Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

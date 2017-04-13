@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.345364,42.09077,-73.345364,42.09077",
     "geom:latitude":42.09077,
     "geom:longitude":-73.345364,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"www.bradfordauctions.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BXO0Dz0dRbweo3Rh3yq2G_42.090770_-73.345364@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717211,
-    "wof:geomhash":"acb7cf048d8ecade8d0b62bbcd496948",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a61df5602525e2bc66dc799f6a78585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672370361
+        }
+    ],
     "wof:id":672370361,
-    "wof:lastmodified":1472625642,
+    "wof:lastmodified":1492107327,
     "wof:name":"Bradford Auction Galleries",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

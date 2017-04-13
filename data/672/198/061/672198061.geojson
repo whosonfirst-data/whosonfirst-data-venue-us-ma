@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.789318,42.015496,-70.789318,42.015496",
     "geom:latitude":42.015496,
     "geom:longitude":-70.789318,
@@ -32,17 +33,26 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39kP1ihnWpnvVNCkBjn6xY_42.015496_-70.789318@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713522,
-    "wof:geomhash":"4886805e43e5d17608f9a7deaf544481",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ac42a1524792cacd300dbac55cb78a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672198061
+        }
+    ],
     "wof:id":672198061,
-    "wof:lastmodified":1472625126,
+    "wof:lastmodified":1492117471,
     "wof:name":"Always On Computer Svc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

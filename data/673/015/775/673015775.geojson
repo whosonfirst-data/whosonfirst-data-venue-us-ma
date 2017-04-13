@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.366992,42.312135,-71.366992,42.312135",
     "geom:latitude":42.312135,
     "geom:longitude":-71.366992,
@@ -28,17 +29,32 @@
     "sg:postcode":"01760",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476409,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5I9xiXbbA1erR9cJga0NYE_42.312135_-71.366992@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731950,
-    "wof:geomhash":"21d5a9e0daec816d555887343a019216",
-    "wof:hierarchy":[],
+    "wof:geomhash":"801e109772ed8e67063ace94c9536855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476409,
+            "region_id":85688645,
+            "venue_id":673015775
+        }
+    ],
     "wof:id":673015775,
-    "wof:lastmodified":1472625003,
+    "wof:lastmodified":1492102395,
     "wof:name":"Cell Center Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

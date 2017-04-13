@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.269716,42.119226,-71.269716,42.119226",
     "geom:latitude":42.119226,
     "geom:longitude":-71.269716,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FejP4WfoMEZjh9om8EjkZ_42.119226_-71.269716@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730515,
-    "wof:geomhash":"584887097219e5706af686562d8f2771",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b39ef9183f881975c0c78c76349fca89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672962541
+        }
+    ],
     "wof:id":672962541,
-    "wof:lastmodified":1472626171,
+    "wof:lastmodified":1492111652,
     "wof:name":"Webster Trucking Corp",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.881342,42.483551,-70.881342,42.483551",
     "geom:latitude":42.483551,
     "geom:longitude":-70.881342,
@@ -38,7 +39,9 @@
         85633793,
         85950811,
         102084463,
-        85688645
+        85688645,
+        85950797,
+        85811393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721280,
-    "wof:geomhash":"79140ced760e52753bc16bc66b104a23",
+    "wof:geomhash":"0a37b8a11708b0b02ef059710d7a8e61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,21 @@
             "neighbourhood_id":85804975,
             "region_id":85688645,
             "venue_id":672540979
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950797,
+            "neighbourhood_id":85811393,
+            "region_id":85688645,
+            "venue_id":672540979
         }
     ],
     "wof:id":672540979,
-    "wof:lastmodified":1472625801,
+    "wof:lastmodified":1492109186,
     "wof:name":"Marblehead Testing Laboratory",
-    "wof:parent_id":85804975,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

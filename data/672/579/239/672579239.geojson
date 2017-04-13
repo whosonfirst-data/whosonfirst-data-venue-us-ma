@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.53953,42.143972,-72.53953,42.143972",
     "geom:latitude":42.143972,
     "geom:longitude":-72.53953,
@@ -33,13 +34,16 @@
     "sg:website":"www.fmcna.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816813,
+        85819233,
         102191575,
-        404476369,
+        404476347,
         85633793,
-        85950393,
+        85950397,
         102084627,
-        85688645
+        85688645,
+        85816813,
+        404476369,
+        85950393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,18 @@
     },
     "wof:country":"US",
     "wof:created":1461722105,
-    "wof:geomhash":"2a0715aa67a1ed2d62c774d00b2657a6",
+    "wof:geomhash":"4543122d36a189b6416dad6bc1846309",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "neighbourhood_id":85819233,
+            "region_id":85688645,
+            "venue_id":672579239
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +75,9 @@
         }
     ],
     "wof:id":672579239,
-    "wof:lastmodified":1472625812,
+    "wof:lastmodified":1492112597,
     "wof:name":"East Springfield Dialysis Ctr",
-    "wof:parent_id":85816813,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

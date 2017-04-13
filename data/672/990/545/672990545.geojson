@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.975535,42.430173,-71.975535,42.430173",
     "geom:latitude":42.430173,
     "geom:longitude":-71.975535,
@@ -32,19 +33,28 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524179
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jgsCQlhWbGzZ33erbVqna_42.430173_-71.975535@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731340,
-    "wof:geomhash":"f0adb02ef00500b82826553fd235c19c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25264b9d74635b94c6725e8cb0cb2ba5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524179,
+            "venue_id":672990545
+        }
+    ],
     "wof:id":672990545,
-    "wof:lastmodified":1472626200,
+    "wof:lastmodified":1492106236,
     "wof:name":"Modern Classic Auto Sales",
-    "wof:parent_id":420524203,
+    "wof:parent_id":420524179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

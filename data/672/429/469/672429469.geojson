@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.326723,42.442384,-71.326723,42.442384",
     "geom:latitude":42.442384,
     "geom:longitude":-71.326723,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85804253,
-        102084643
+        85833807,
+        102084643,
+        85804253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461718631,
-    "wof:geomhash":"8ca0e500e8797f51e36fd71ecaa73198",
+    "wof:geomhash":"c22ef5e846c6426747ec2b03fbacbb9e",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85833807,
+            "region_id":85688645,
+            "venue_id":672429469
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -54,9 +63,9 @@
         }
     ],
     "wof:id":672429469,
-    "wof:lastmodified":1472625698,
+    "wof:lastmodified":1492118368,
     "wof:name":"XMX Corp",
-    "wof:parent_id":85804253,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

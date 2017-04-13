@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.602019,42.288083,-72.602019,42.288083",
     "geom:latitude":42.288083,
     "geom:longitude":-72.602019,
@@ -36,7 +37,9 @@
         85633793,
         85950395,
         102084627,
-        85849109
+        85849109,
+        85835103,
+        102084459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461719569,
-    "wof:geomhash":"4ee35fe8fd2adf2bb52bf324a9ce701d",
+    "wof:geomhash":"2158e6d65097a27b35a730a96735c6c3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,19 @@
             "neighbourhood_id":85849109,
             "region_id":85688645,
             "venue_id":672465137
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084459,
+            "neighbourhood_id":85835103,
+            "region_id":85688645,
+            "venue_id":672465137
         }
     ],
     "wof:id":672465137,
-    "wof:lastmodified":1472625724,
+    "wof:lastmodified":1492108443,
     "wof:name":"White Wing Svc",
-    "wof:parent_id":85849109,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

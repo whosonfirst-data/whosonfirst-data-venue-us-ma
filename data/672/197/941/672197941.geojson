@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.124578,42.135415,-71.124578,42.135415",
     "geom:latitude":42.135415,
     "geom:longitude":-71.124578,
@@ -31,17 +32,26 @@
         "woodworker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19CkgxNVq6UDfs2z1omQ5M_42.135415_-71.124578@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713518,
-    "wof:geomhash":"67350be2758ff38a68460f2a30b3b4f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcbd708387230ab608d800c11b21e058",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672197941
+        }
+    ],
     "wof:id":672197941,
-    "wof:lastmodified":1472625175,
+    "wof:lastmodified":1492110965,
     "wof:name":"American Woodworking Co",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

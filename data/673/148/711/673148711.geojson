@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.518548,42.317262,-71.518548,42.317262",
     "geom:latitude":42.317262,
     "geom:longitude":-71.518548,
@@ -37,17 +38,32 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476613,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30JJzkmzZ76MsgDngJgwqM_42.317262_-71.518548@1303262189"
     },
     "wof:country":"US",
     "wof:created":1461734772,
-    "wof:geomhash":"fc51b866efcd396b48c25552eec1dd01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d09228dff31b6f7d5cebcc0fa70f5a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476613,
+            "region_id":85688645,
+            "venue_id":673148711
+        }
+    ],
     "wof:id":673148711,
-    "wof:lastmodified":1472625426,
+    "wof:lastmodified":1492103668,
     "wof:name":"Clever Monk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

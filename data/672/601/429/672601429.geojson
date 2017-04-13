@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.693969,42.136362,-71.693969,42.136362",
     "geom:latitude":42.136362,
     "geom:longitude":-71.693969,
@@ -32,17 +33,26 @@
         "conservation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524081
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wNUkr57KmpyahlzKpfVOD_42.136362_-71.693969@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722634,
-    "wof:geomhash":"a86237a90f3ae44e7115d988eb499857",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0dcf286f2e9b002e3f03dffc6cc407cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524081,
+            "venue_id":672601429
+        }
+    ],
     "wof:id":672601429,
-    "wof:lastmodified":1472625853,
+    "wof:lastmodified":1492118575,
     "wof:name":"Gurney Engineering Corp",
     "wof:parent_id":420524081,
     "wof:placetype":"venue",

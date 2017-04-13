@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.773454,42.26739,-71.773454,42.26739",
     "geom:latitude":42.26739,
     "geom:longitude":-71.773454,
@@ -31,19 +32,49 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420524083,
+        102191575,
+        404476639,
+        85633793,
+        85950375,
+        102084655,
+        85688645,
+        85806455
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nNVU9XXpfLd9r2IA6rSz0_42.267390_-71.773454@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723044,
-    "wof:geomhash":"1f22cfb51e940d3dc071dc0385071549",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3eca4df57b19249e163cbf2fc8cd3e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":420524083,
+            "region_id":85688645,
+            "venue_id":672619259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85806455,
+            "region_id":85688645,
+            "venue_id":672619259
+        }
+    ],
     "wof:id":672619259,
-    "wof:lastmodified":1472625867,
+    "wof:lastmodified":1492108536,
     "wof:name":"Foley & Son Fish & Chips",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

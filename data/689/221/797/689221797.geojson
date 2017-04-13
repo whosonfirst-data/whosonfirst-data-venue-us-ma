@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.308443,41.830889,-71.308443,41.830889",
     "geom:latitude":41.830889,
     "geom:longitude":-71.308443,
@@ -37,17 +38,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QujJIP2tfR9bRqPZJGH9E_41.830889_-71.308443@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742520,
-    "wof:geomhash":"8422e7c7a3ccb7a9ea6a82c80a01b942",
-    "wof:hierarchy":[],
+    "wof:geomhash":"821eacc092c308875b32c8929007bbaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523341,
+            "venue_id":689221797
+        }
+    ],
     "wof:id":689221797,
-    "wof:lastmodified":1472625632,
+    "wof:lastmodified":1492099582,
     "wof:name":"Glynn Auto Upholstery",
     "wof:parent_id":420523341,
     "wof:placetype":"venue",

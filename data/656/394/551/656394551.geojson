@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.263661,42.408016,-73.263661,42.408016",
     "geom:latitude":42.408016,
     "geom:longitude":-73.263661,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829545,
+        420523279,
         102191575,
         404476123,
         85633793,
         85950325,
         102084369,
-        85688645
+        85688645,
+        85829545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461711898,
-    "wof:geomhash":"07b1df0772a21e6fd609aef98151961c",
+    "wof:geomhash":"c506135cd78003f0ac6b602f89a2e0b2",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084369,
+            "localadmin_id":404476123,
+            "locality_id":85950325,
+            "neighbourhood_id":420523279,
+            "region_id":85688645,
+            "venue_id":656394551
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":656394551,
-    "wof:lastmodified":1472625043,
+    "wof:lastmodified":1492101510,
     "wof:name":"Comfort Inn",
-    "wof:parent_id":85829545,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

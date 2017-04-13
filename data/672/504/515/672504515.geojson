@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.103192,42.134352,-71.103192,42.134352",
     "geom:latitude":42.134352,
     "geom:longitude":-71.103192,
@@ -32,17 +33,26 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IVo5rfhMIwbuwsbNZiDGZ_42.134352_-71.103192@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720501,
-    "wof:geomhash":"981c24410bf3f9e81ef27c1680e24b5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47b060b9fbcea30519ba6e113e172a7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672504515
+        }
+    ],
     "wof:id":672504515,
-    "wof:lastmodified":1472625768,
+    "wof:lastmodified":1492114928,
     "wof:name":"Highland Seating Co",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

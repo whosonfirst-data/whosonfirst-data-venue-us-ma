@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.424899,42.161035,-72.424899,42.161035",
     "geom:latitude":42.161035,
     "geom:longitude":-72.424899,
@@ -32,17 +33,26 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523549
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IknssV2wiFiK8ej1KRgM0_42.161035_-72.424899@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722879,
-    "wof:geomhash":"52377fa51eeed957bcc5529d768bd05a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a381a08fc02e2df6a38f005cdb380d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523549,
+            "venue_id":672612161
+        }
+    ],
     "wof:id":672612161,
-    "wof:lastmodified":1472625861,
+    "wof:lastmodified":1492106452,
     "wof:name":"North East Associated Tech",
     "wof:parent_id":420523549,
     "wof:placetype":"venue",

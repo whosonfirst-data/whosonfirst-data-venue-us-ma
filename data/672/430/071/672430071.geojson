@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.905943,42.246812,-71.905943,42.246812",
     "geom:latitude":42.246812,
     "geom:longitude":-71.905943,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3j4Zbcd630S5YXH99jD0nF_42.246812_-71.905943@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718648,
-    "wof:geomhash":"2b5c06402c5817cf7896729ea3d1116d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"833ae1f34e14fc2320080fab0a659904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672430071
+        }
+    ],
     "wof:id":672430071,
-    "wof:lastmodified":1472625692,
+    "wof:lastmodified":1492114707,
     "wof:name":"Leicester Federated Church",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

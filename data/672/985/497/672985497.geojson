@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.456143,42.149936,-72.456143,42.149936",
     "geom:latitude":42.149936,
     "geom:longitude":-72.456143,
@@ -28,19 +29,46 @@
     "sg:postcode":"01095",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85834199,
+        102084627,
+        420523561,
+        102191575,
+        404476379,
+        85950775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PLrspcNqKa47xfs0Lkhtn_42.149936_-72.456143@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731177,
-    "wof:geomhash":"47fddc07c7623814b24306e81042dbca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4002d3b3bf9999c3e4b43dffe938f95e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084627,
+            "neighbourhood_id":85834199,
+            "region_id":85688645,
+            "venue_id":672985497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476379,
+            "locality_id":85950775,
+            "neighbourhood_id":420523561,
+            "region_id":85688645,
+            "venue_id":672985497
+        }
+    ],
     "wof:id":672985497,
-    "wof:lastmodified":1472626193,
+    "wof:lastmodified":1492111694,
     "wof:name":"Lynns Alterations & Sew On",
-    "wof:parent_id":420523561,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

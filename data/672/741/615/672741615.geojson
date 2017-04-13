@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.552134,42.105982,-71.552134,42.105982",
     "geom:latitude":42.105982,
     "geom:longitude":-71.552134,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461725771,
-    "wof:geomhash":"3546aa30aaf3579c20d4e509d8b22754",
+    "wof:geomhash":"19711fd9bbfaa0d2fab8128d604bb1a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672741615
         }
     ],
     "wof:id":672741615,
-    "wof:lastmodified":1472625986,
+    "wof:lastmodified":1492117560,
     "wof:name":"Mendon Antique Ctr",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

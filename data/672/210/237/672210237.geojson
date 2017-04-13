@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.019133,42.661044,-71.019133,42.661044",
     "geom:latitude":42.661044,
     "geom:longitude":-71.019133,
@@ -31,17 +32,26 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3p2QQwfkrnwjsMijEe3a2F_42.661044_-71.019133@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713774,
-    "wof:geomhash":"f841ff3057c979db6ee19d1086290cae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"867f1807d30217c5fdd973e0f8572d09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672210237
+        }
+    ],
     "wof:id":672210237,
-    "wof:lastmodified":1472625204,
+    "wof:lastmodified":1492108904,
     "wof:name":"Robert Way",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

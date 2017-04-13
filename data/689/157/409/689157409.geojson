@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.734609,41.934142,-70.734609,41.934142",
     "geom:latitude":41.934142,
     "geom:longitude":-70.734609,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fxRLAOduB2ngJFjsyG1f2_41.934142_-70.734609@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741120,
-    "wof:geomhash":"b76022b2ed670d6ed27d2cfc0b0674f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9367211eac78b296b68584319b03adf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689157409
+        }
+    ],
     "wof:id":689157409,
-    "wof:lastmodified":1472625519,
+    "wof:lastmodified":1492099704,
     "wof:name":"Russell Construction",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

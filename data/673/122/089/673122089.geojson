@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.899835,42.245301,-71.899835,42.245301",
     "geom:latitude":42.245301,
     "geom:longitude":-71.899835,
@@ -41,17 +42,26 @@
     ],
     "sg:website":"ellersrestaurant.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dyWLtBNsRR2zuNSm0d7EH_42.245301_-71.899835@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734238,
-    "wof:geomhash":"a75076a9dc7124d2ad0fbd595b7dd134",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b93f81f07fa806162b7d527fb16fbf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":673122089
+        }
+    ],
     "wof:id":673122089,
-    "wof:lastmodified":1472625331,
+    "wof:lastmodified":1492104009,
     "wof:name":"Eller's Restaurant",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.116486,42.627989,-73.116486,42.627989",
     "geom:latitude":42.627989,
     "geom:longitude":-73.116486,
@@ -33,7 +34,8 @@
         85633793,
         85950597,
         102084369,
-        85832257
+        85832257,
+        85844285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461725691,
-    "wof:geomhash":"bd2df007e7acd80adcc56f4bdeeafb92",
+    "wof:geomhash":"edc38cced25de5b64c63916336d4683f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +52,19 @@
             "neighbourhood_id":85832257,
             "region_id":85688645,
             "venue_id":672738257
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084369,
+            "neighbourhood_id":85844285,
+            "region_id":85688645,
+            "venue_id":672738257
         }
     ],
     "wof:id":672738257,
-    "wof:lastmodified":1472625971,
+    "wof:lastmodified":1492116698,
     "wof:name":"Brooks Pharmacy",
-    "wof:parent_id":85832257,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

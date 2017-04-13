@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.26026,42.135493,-71.26026,42.135493",
     "geom:latitude":42.135493,
     "geom:longitude":-71.26026,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iCgBFtzbVp9E4bq9ONGiO_42.135493_-71.260260@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723945,
-    "wof:geomhash":"6b8de63724ae66293e5088082998adf6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7af2f06e95af4ce02066b010f550643c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672660177
+        }
+    ],
     "wof:id":672660177,
-    "wof:lastmodified":1472625898,
+    "wof:lastmodified":1492119511,
     "wof:name":"Monte's Auto Svc",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.617826,41.876733,-70.617826,41.876733",
     "geom:latitude":41.876733,
     "geom:longitude":-70.617826,
@@ -37,7 +38,8 @@
         85688645,
         85633793,
         85868737,
-        102084367
+        102084367,
+        85849967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461715770,
-    "wof:geomhash":"d89e99e5f8a082ebc8b3bdace3c47034",
+    "wof:geomhash":"9a3e7256ed2a3d4a2d9544d0293d02ed",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,19 @@
             "neighbourhood_id":85868737,
             "region_id":85688645,
             "venue_id":672308547
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85849967,
+            "region_id":85688645,
+            "venue_id":672308547
         }
     ],
     "wof:id":672308547,
-    "wof:lastmodified":1472625526,
+    "wof:lastmodified":1492109364,
     "wof:name":"Liddell Brothers Inc",
-    "wof:parent_id":85868737,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

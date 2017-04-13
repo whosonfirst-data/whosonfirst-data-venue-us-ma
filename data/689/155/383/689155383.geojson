@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.880164,41.928065,-70.880164,41.928065",
     "geom:latitude":41.928065,
     "geom:longitude":-70.880164,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OHuySxDTwO5DJaqgw7GFy_41.928065_-70.880164@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741060,
-    "wof:geomhash":"ec433d923a750fc22c60bd4752080142",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8afeb5bb772a8140c4c336a722afed30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523895,
+            "venue_id":689155383
+        }
+    ],
     "wof:id":689155383,
-    "wof:lastmodified":1472625502,
+    "wof:lastmodified":1492100391,
     "wof:name":"Crossman Engineering",
     "wof:parent_id":420523895,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.893217,41.644624,-70.893217,41.644624",
     "geom:latitude":41.644624,
     "geom:longitude":-70.893217,
@@ -32,17 +33,26 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y2MQaV3e3DHSBhWnv7g3C_41.644624_-70.893217@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727992,
-    "wof:geomhash":"bfa66057f42223a61bd6a65c7e3069eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b2d57cdf19d63bb657583fb0611c6b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672849841
+        }
+    ],
     "wof:id":672849841,
-    "wof:lastmodified":1472626085,
+    "wof:lastmodified":1492118779,
     "wof:name":"Harpooner Lounge",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.898637,42.521408,-70.898637,42.521408",
     "geom:latitude":42.521408,
     "geom:longitude":-70.898637,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523451,
+        85891497,
         102191575,
         404476213,
         85633793,
         85950403,
         102084463,
-        85688645
+        85688645,
+        420523451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461714095,
-    "wof:geomhash":"07f9ba2a1eb4b7f2a9d4a34ffed119b9",
+    "wof:geomhash":"087a6705bf476b9d247f49639bee2826",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476213,
+            "locality_id":85950403,
+            "neighbourhood_id":85891497,
+            "region_id":85688645,
+            "venue_id":672226251
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":672226251,
-    "wof:lastmodified":1472625237,
+    "wof:lastmodified":1492118230,
     "wof:name":"Grace Nigel Decorative Artist",
-    "wof:parent_id":420523451,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

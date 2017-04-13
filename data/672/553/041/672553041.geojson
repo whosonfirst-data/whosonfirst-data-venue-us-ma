@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.736023,42.627989,-71.736023,42.627989",
     "geom:latitude":42.627989,
     "geom:longitude":-71.736023,
@@ -31,19 +32,28 @@
         "laser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LrbGK3tlH5kyYkLgCGqOA_42.627989_-71.736023@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721525,
-    "wof:geomhash":"7023c9c1adb72b44673d63ecc660e919",
-    "wof:hierarchy":[],
+    "wof:geomhash":"231ea5b979de9b71b0dfa6438e68f759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523737,
+            "venue_id":672553041
+        }
+    ],
     "wof:id":672553041,
-    "wof:lastmodified":1472625801,
+    "wof:lastmodified":1492118350,
     "wof:name":"Industrial Laser Optics",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

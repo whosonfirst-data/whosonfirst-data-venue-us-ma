@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.26993,42.02674,-71.26993,42.02674",
     "geom:latitude":42.02674,
     "geom:longitude":-71.26993,
@@ -34,6 +35,8 @@
     "wof:belongsto":[
         85688645,
         85633793,
+        85849689,
+        102084403,
         85845287,
         102084407
     ],
@@ -43,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461716289,
-    "wof:geomhash":"b0af2ef16a26c71afd9469c0af9d27e2",
+    "wof:geomhash":"b23dbfb8fbf1d227dfcb5e4a42df5a8b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85849689,
+            "region_id":85688645,
+            "venue_id":672332523
+        },
         {
             "country_id":85633793,
             "county_id":102084407,
@@ -54,9 +64,9 @@
         }
     ],
     "wof:id":672332523,
-    "wof:lastmodified":1472625566,
+    "wof:lastmodified":1492107095,
     "wof:name":"S D Painting",
-    "wof:parent_id":85845287,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

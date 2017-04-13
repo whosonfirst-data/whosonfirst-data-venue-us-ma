@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.970467,41.784332,-70.970467,41.784332",
     "geom:latitude":41.784332,
     "geom:longitude":-70.970467,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73LosZ35lT5GOWwRDgFf2G_41.784332_-70.970467@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720637,
-    "wof:geomhash":"592cba64af154f382b5d8793c59a3840",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b672d2fe43e436c82d1099cf2430795",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":672510747
+        }
+    ],
     "wof:id":672510747,
-    "wof:lastmodified":1472625774,
+    "wof:lastmodified":1492116480,
     "wof:name":"Electromechanica",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

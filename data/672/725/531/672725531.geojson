@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.427561,42.243064,-71.427561,42.243064",
     "geom:latitude":42.243064,
     "geom:longitude":-71.427561,
@@ -31,17 +32,26 @@
         "glass"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bM2Xj0YjpLWFrU4cpKlD4_42.243064_-71.427561@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725410,
-    "wof:geomhash":"4d1e7cd4fedf097dbc6e0fcd96d2ff36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d5dc70037337df22637c228eaafbb6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672725531
+        }
+    ],
     "wof:id":672725531,
-    "wof:lastmodified":1472625968,
+    "wof:lastmodified":1492112819,
     "wof:name":"Ashland Glass Co",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

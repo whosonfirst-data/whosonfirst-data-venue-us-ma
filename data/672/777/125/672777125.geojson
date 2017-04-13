@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.970354,41.780327,-70.970354,41.780327",
     "geom:latitude":41.780327,
     "geom:longitude":-70.970354,
@@ -31,17 +32,26 @@
         "mill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UR9dJqs45pBL8jYsEkirO_41.780327_-70.970354@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726523,
-    "wof:geomhash":"295b880f59e06116376d843c79acc96d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"588f57917505f42808e8b7912490922a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":672777125
+        }
+    ],
     "wof:id":672777125,
-    "wof:lastmodified":1472626008,
+    "wof:lastmodified":1492113358,
     "wof:name":"Muskrat Saw Mill",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

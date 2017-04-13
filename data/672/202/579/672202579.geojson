@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.546854,42.140116,-71.546854,42.140116",
     "geom:latitude":42.140116,
     "geom:longitude":-71.546854,
@@ -34,10 +35,13 @@
     "sg:website":"www.twm-systems.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"US",
     "wof:created":1461713630,
-    "wof:geomhash":"a8fc193f446ef909dfc2477a27d30bbe",
+    "wof:geomhash":"45761b4c74a113b65d9f8839acd7f73e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672202579
         }
     ],
     "wof:id":672202579,
-    "wof:lastmodified":1472625181,
+    "wof:lastmodified":1492111936,
     "wof:name":"TWM Computer Systems",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

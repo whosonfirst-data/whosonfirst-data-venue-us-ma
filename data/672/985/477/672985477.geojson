@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.831767,41.761809,-70.831767,41.761809",
     "geom:latitude":41.761809,
     "geom:longitude":-70.831767,
@@ -37,17 +38,32 @@
         "boat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476563,
+        85633793,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yAr6rX5Bw47FAxBkdnjCy_41.761809_-70.831767@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731176,
-    "wof:geomhash":"ec1e50b76ec90593f38f8f960066f8b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38188ccf1c64f94502c42302d835920e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476563,
+            "region_id":85688645,
+            "venue_id":672985477
+        }
+    ],
     "wof:id":672985477,
-    "wof:lastmodified":1472626192,
+    "wof:lastmodified":1492111709,
     "wof:name":"New England Marine Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

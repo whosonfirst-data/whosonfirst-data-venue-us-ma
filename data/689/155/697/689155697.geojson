@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.848558,41.863968,-70.848558,41.863968",
     "geom:latitude":41.863968,
     "geom:longitude":-70.848558,
@@ -41,17 +42,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02lZ1AyOiDtjHw4836k983_41.863968_-70.848558@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741066,
-    "wof:geomhash":"832ce0de0deb52a07796ff998c7ae21c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31ae2bc2e231917f000fa9231a59a424",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":689155697
+        }
+    ],
     "wof:id":689155697,
-    "wof:lastmodified":1472625518,
+    "wof:lastmodified":1492100398,
     "wof:name":"Satellite Connections Inc",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

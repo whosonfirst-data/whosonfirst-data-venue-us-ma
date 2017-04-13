@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.063536,41.264364,-70.063536,41.264364",
     "geom:latitude":41.264364,
     "geom:longitude":-70.063536,
@@ -31,19 +32,38 @@
         "seafood"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85848411,
+        102191575,
+        404476421,
+        85633793,
+        85950503,
+        102084641,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sorKm1U4wNxno3MAuW5hx_41.264364_-70.063536@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731035,
-    "wof:geomhash":"44cf169007d053f0890217cf1de75727",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4d394e37eb8e5a5f0d6009439f70da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084641,
+            "localadmin_id":404476421,
+            "locality_id":85950503,
+            "neighbourhood_id":85848411,
+            "region_id":85688645,
+            "venue_id":672980105
+        }
+    ],
     "wof:id":672980105,
-    "wof:lastmodified":1472626183,
+    "wof:lastmodified":1492116511,
     "wof:name":"Stoney's Shrimp Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85848411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

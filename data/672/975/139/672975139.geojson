@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.785236,41.941544,-70.785236,41.941544",
     "geom:latitude":41.941544,
     "geom:longitude":-70.785236,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wVZ0a0onAO5TC6zbgoCVt_41.941544_-70.785236@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730915,
-    "wof:geomhash":"4c827c58cc5029d4986f35b945ecd374",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e1fba8213719fcf8da4d5625a782960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672975139
+        }
+    ],
     "wof:id":672975139,
-    "wof:lastmodified":1472626182,
+    "wof:lastmodified":1492117084,
     "wof:name":"Camera Turret",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

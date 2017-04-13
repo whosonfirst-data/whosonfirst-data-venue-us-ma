@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.79992,42.24049,-70.79992,42.24049",
     "geom:latitude":42.24049,
     "geom:longitude":-70.79992,
@@ -32,17 +33,26 @@
         "invitation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MRMOO7hbKt1rcuJLeeIRi_42.240490_-70.799920@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721872,
-    "wof:geomhash":"4d863cd5a6bd1f40222194263de7f7c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9a3bbb50efe3174910b13e63b0e078e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672567959
+        }
+    ],
     "wof:id":672567959,
-    "wof:lastmodified":1472625831,
+    "wof:lastmodified":1492118225,
     "wof:name":"Paperscapes",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

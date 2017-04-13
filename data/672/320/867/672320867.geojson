@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.969175,42.521941,-70.969175,42.521941",
     "geom:latitude":42.521941,
     "geom:longitude":-70.969175,
@@ -39,7 +40,8 @@
         85633793,
         85950407,
         102084463,
-        85688645
+        85688645,
+        420523391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461716041,
-    "wof:geomhash":"83a91da77f8c162b02b059d7f2b1f9c9",
+    "wof:geomhash":"fc82f25301a12b7dd0159e77be9c0341",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,22 @@
             "neighbourhood_id":85849939,
             "region_id":85688645,
             "venue_id":672320867
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476253,
+            "locality_id":85950407,
+            "neighbourhood_id":420523391,
+            "region_id":85688645,
+            "venue_id":672320867
         }
     ],
     "wof:id":672320867,
-    "wof:lastmodified":1472625555,
+    "wof:lastmodified":1492111127,
     "wof:name":"Medical Oncology",
-    "wof:parent_id":85849939,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

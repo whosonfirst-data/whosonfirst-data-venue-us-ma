@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.710701,41.942402,-70.710701,41.942402",
     "geom:latitude":41.942402,
     "geom:longitude":-70.710701,
@@ -32,17 +33,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476561,
+        85633793,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uGWP0RMittJ0QiWBgYow2_41.942402_-70.710701@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741127,
-    "wof:geomhash":"a2ec7a6febbb17a0e47d234ee4b639d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19f5ab0db616d15db97d8f09df0838cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476561,
+            "region_id":85688645,
+            "venue_id":689157793
+        }
+    ],
     "wof:id":689157793,
-    "wof:lastmodified":1472625532,
+    "wof:lastmodified":1492099699,
     "wof:name":"Plymouth Mortgage Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

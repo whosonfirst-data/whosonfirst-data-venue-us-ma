@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.87622,42.078991,-70.87622,42.078991",
     "geom:latitude":42.078991,
     "geom:longitude":-70.87622,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13EitlXLM8bj5oBJLOH7zt_42.078991_-70.876220@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723609,
-    "wof:geomhash":"30f9946a1f1e0e66b2ca352017339e8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf0f53a080b5da57f2fe3f84aafa8b00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523995,
+            "venue_id":672645103
+        }
+    ],
     "wof:id":672645103,
-    "wof:lastmodified":1472625888,
+    "wof:lastmodified":1492110686,
     "wof:name":"New Hope Chapel",
     "wof:parent_id":420523995,
     "wof:placetype":"venue",

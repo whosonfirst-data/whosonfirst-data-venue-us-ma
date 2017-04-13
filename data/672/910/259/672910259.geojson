@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.567275,42.349593,-72.567275,42.349593",
     "geom:latitude":42.349593,
     "geom:longitude":-72.567275,
@@ -32,8 +33,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85816379,
-        102084459
+        85842147,
+        102084459,
+        85816379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +43,15 @@
     },
     "wof:country":"US",
     "wof:created":1461729249,
-    "wof:geomhash":"612d283f6de6852783831aaea93aa4ca",
+    "wof:geomhash":"dd86843422da6023e013252a73ce7623",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084459,
+            "neighbourhood_id":85842147,
+            "region_id":85688645,
+            "venue_id":672910259
+        },
         {
             "country_id":85633793,
             "county_id":102084459,
@@ -52,9 +61,9 @@
         }
     ],
     "wof:id":672910259,
-    "wof:lastmodified":1472626121,
+    "wof:lastmodified":1492106498,
     "wof:name":"Long Hollow Bison Farm",
-    "wof:parent_id":85816379,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

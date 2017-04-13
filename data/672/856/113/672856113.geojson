@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.307656,41.838131,-71.307656,41.838131",
     "geom:latitude":41.838131,
     "geom:longitude":-71.307656,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kMC400A0CJZmfo3T94zrw_41.838131_-71.307656@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728108,
-    "wof:geomhash":"00ef20e59fa2cf81c11852af1a90cf5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30d0b68679cda4805d411de4abb3deba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523341,
+            "venue_id":672856113
+        }
+    ],
     "wof:id":672856113,
-    "wof:lastmodified":1472626074,
+    "wof:lastmodified":1492115538,
     "wof:name":"Acme Vs Art",
     "wof:parent_id":420523341,
     "wof:placetype":"venue",

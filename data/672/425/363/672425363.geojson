@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.491332,42.418599,-72.491332,42.418599",
     "geom:latitude":42.418599,
     "geom:longitude":-72.491332,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ojoAuwqgmap9B1rK3RqJi_42.418599_-72.491332@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718539,
-    "wof:geomhash":"b23544b23cc2aa9bb0565871fd79c065",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b85414fb32bc1170c9b722cfe4f8c77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523639,
+            "venue_id":672425363
+        }
+    ],
     "wof:id":672425363,
-    "wof:lastmodified":1472625693,
+    "wof:lastmodified":1492113364,
     "wof:name":"Crouse Painters",
     "wof:parent_id":420523639,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.051005,42.806817,-71.051005,42.806817",
     "geom:latitude":42.806817,
     "geom:longitude":-71.051005,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476201,
+        85633793,
+        85950417,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3amCJ1QqU87tRVmODgyhLt_42.806817_-71.051005@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714904,
-    "wof:geomhash":"bc4a85f50a72f9acc9f120e08062216a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c60a37644a537218763e5775a072beb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476201,
+            "locality_id":85950417,
+            "region_id":85688645,
+            "venue_id":672264895
+        }
+    ],
     "wof:id":672264895,
-    "wof:lastmodified":1472625400,
+    "wof:lastmodified":1492116525,
     "wof:name":"Mather Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

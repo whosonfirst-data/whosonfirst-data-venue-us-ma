@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.808098,41.9272,-70.808098,41.9272",
     "geom:latitude":41.9272,
     "geom:longitude":-70.808098,
@@ -28,17 +29,26 @@
     "sg:postcode":"02330",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mLkyfWoAlWn9N3oBrERng_41.927200_-70.808098@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741013,
-    "wof:geomhash":"c67beccca9e92cda4eb131d1dcc8ee9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0558039cc8f87d3a293056d66d10dbfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689153275
+        }
+    ],
     "wof:id":689153275,
-    "wof:lastmodified":1472625497,
+    "wof:lastmodified":1492097468,
     "wof:name":"Compass Bank",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

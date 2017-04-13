@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.731574,42.246517,-71.731574,42.246517",
     "geom:latitude":42.246517,
     "geom:longitude":-71.731574,
@@ -32,17 +33,26 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Tbrco0DrQaUi7t3ZKXeDU_42.246517_-71.731574@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724216,
-    "wof:geomhash":"ae60d383e9a9a2d552b2c654a642f057",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14f9f770dd02bf08f094ff4713f8ca00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":672672709
+        }
+    ],
     "wof:id":672672709,
-    "wof:lastmodified":1472625920,
+    "wof:lastmodified":1492116322,
     "wof:name":"Guaranty Mortgage Corp",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

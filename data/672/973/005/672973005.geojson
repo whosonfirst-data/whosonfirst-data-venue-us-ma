@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.950381,42.094241,-70.950381,42.094241",
     "geom:latitude":42.094241,
     "geom:longitude":-70.950381,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85855157,
+        102191575,
+        404476503,
         85633793,
-        85950439,
+        85950319,
         102084367,
-        85855157
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,21 @@
     },
     "wof:country":"US",
     "wof:created":1461730847,
-    "wof:geomhash":"773a3d8e04e55c747722ebe8cb987c14",
+    "wof:geomhash":"0ffcc1d21242954d10951069d8edb37c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084367,
-            "locality_id":85950439,
+            "localadmin_id":404476503,
+            "locality_id":85950319,
             "neighbourhood_id":85855157,
             "region_id":85688645,
             "venue_id":672973005
         }
     ],
     "wof:id":672973005,
-    "wof:lastmodified":1472626182,
+    "wof:lastmodified":1492114527,
     "wof:name":"All About Pets",
     "wof:parent_id":85855157,
     "wof:placetype":"venue",

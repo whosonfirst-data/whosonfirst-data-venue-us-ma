@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.442842,42.171316,-72.442842,42.171316",
     "geom:latitude":42.171316,
     "geom:longitude":-72.442842,
@@ -28,17 +29,26 @@
     "sg:postcode":"01056",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PviUXtWViqsiiuWlK4JMs_42.171316_-72.442842@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712734,
-    "wof:geomhash":"b4d06a008cff6a95d11b81125317d5f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"692c8ce379b09c85ecf090539c63db37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":672163207
+        }
+    ],
     "wof:id":672163207,
-    "wof:lastmodified":1472625004,
+    "wof:lastmodified":1492110945,
     "wof:name":"Oscar's Pizza Restaurant",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

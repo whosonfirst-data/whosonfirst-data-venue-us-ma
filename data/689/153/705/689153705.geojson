@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.758769,42.061972,-70.758769,42.061972",
     "geom:latitude":42.061972,
     "geom:longitude":-70.758769,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xcFPAHWFYGqBCzXzTlmIf_42.061972_-70.758769@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741026,
-    "wof:geomhash":"ac06a9b81d94cf8458799ad7a3ef5315",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24db9be8b54e4abd5e9300fad60a2179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523943,
+            "venue_id":689153705
+        }
+    ],
     "wof:id":689153705,
-    "wof:lastmodified":1472625517,
+    "wof:lastmodified":1492097467,
     "wof:name":"Johnny Appleseed's Landscaping",
     "wof:parent_id":420523943,
     "wof:placetype":"venue",

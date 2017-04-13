@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.10403,42.124543,-71.10403,42.124543",
     "geom:latitude":42.124543,
     "geom:longitude":-71.10403,
@@ -32,17 +33,26 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hXwfTwPr0s92G1aoQbwH7_42.124543_-71.104030@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461733499,
-    "wof:geomhash":"35931311c66594fd0031a589ffaec7af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"959943fe7af2a84def3973754227d272",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":673087073
+        }
+    ],
     "wof:id":673087073,
-    "wof:lastmodified":1472625227,
+    "wof:lastmodified":1492102475,
     "wof:name":"Baskin-Robbins",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

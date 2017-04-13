@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.612602,41.654999,-70.612602,41.654999",
     "geom:latitude":41.654999,
     "geom:longitude":-70.612602,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BoMIxu1kQbwRXIBPO68G7_41.654999_-70.612602@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741937,
-    "wof:geomhash":"143f5763a65dbc60537f34d96992c2ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07a812bd678a66da62e6c1bcc2bcf4bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":689194743
+        }
+    ],
     "wof:id":689194743,
-    "wof:lastmodified":1472625596,
+    "wof:lastmodified":1492099901,
     "wof:name":"Early Intervention Program Falmouth - CLOSED",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

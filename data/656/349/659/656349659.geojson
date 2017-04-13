@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.916128,42.202189,-71.916128,42.202189",
     "geom:latitude":42.202189,
     "geom:longitude":-71.916128,
@@ -32,17 +33,26 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BIrMxrua4B5lFKZXaUiTK_42.202189_-71.916128@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461710952,
-    "wof:geomhash":"0b7512c574c1eb26abbbd35a4b5c4625",
-    "wof:hierarchy":[],
+    "wof:geomhash":"556f9c149b27af1948732bd9f9ff7bd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":656349659
+        }
+    ],
     "wof:id":656349659,
-    "wof:lastmodified":1472624910,
+    "wof:lastmodified":1492102050,
     "wof:name":"Bond-Tite Tank Svc",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

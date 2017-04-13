@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.405399,42.628107,-71.405399,42.628107",
     "geom:latitude":42.628107,
     "geom:longitude":-71.405399,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HRHEnAH4Ey5jgkIHc26eo_42.628107_-71.405399@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724964,
-    "wof:geomhash":"4fad754037972e0c039414a54414aa9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd44babeaecf53a80aaa343da6883223",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672704441
+        }
+    ],
     "wof:id":672704441,
-    "wof:lastmodified":1472625945,
+    "wof:lastmodified":1492115634,
     "wof:name":"Bruder Real Estate",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

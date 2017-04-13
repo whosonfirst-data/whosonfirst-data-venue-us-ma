@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.545752,42.143046,-71.545752,42.143046",
     "geom:latitude":42.143046,
     "geom:longitude":-71.545752,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461723326,
-    "wof:geomhash":"f14ba0a335361e237fa8ed370337807d",
+    "wof:geomhash":"8eaf616357061ef3a14bc996f4e8c44a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672631801
         }
     ],
     "wof:id":672631801,
-    "wof:lastmodified":1472625888,
+    "wof:lastmodified":1492106908,
     "wof:name":"Bio Lab",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

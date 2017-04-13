@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.447044,42.257193,-72.447044,42.257193",
     "geom:latitude":42.257193,
     "geom:longitude":-72.447044,
@@ -33,17 +34,26 @@
     ],
     "sg:website":"http://www.criticalaudio.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UrxqhKDzDPdsYwXXvKnP5_42.257193_-72.447044@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733739,
-    "wof:geomhash":"afb893bfb34b746ace2453c663861dc8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c9a8a58c6aacadc9eabf9fd094836e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":673099149
+        }
+    ],
     "wof:id":673099149,
-    "wof:lastmodified":1472625269,
+    "wof:lastmodified":1492105476,
     "wof:name":"Critical Audio",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.220687,41.761021,-71.220687,41.761021",
     "geom:latitude":41.761021,
     "geom:longitude":-71.220687,
@@ -31,17 +32,26 @@
         "engraver"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ckKD6mXcGieD81cLRving_41.761021_-71.220687@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715457,
-    "wof:geomhash":"4cd1c5aaae8636755a2d761b1ec5acf7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73a123309ac7d4b32fd761e6c4f1f35c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":672292625
+        }
+    ],
     "wof:id":672292625,
-    "wof:lastmodified":1472625477,
+    "wof:lastmodified":1492109889,
     "wof:name":"Things Remembered",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

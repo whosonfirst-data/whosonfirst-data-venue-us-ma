@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.899973,41.664033,-70.899973,41.664033",
     "geom:latitude":41.664033,
     "geom:longitude":-70.899973,
@@ -31,17 +32,26 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cu1nBC9lgKTb9dbXC6sy4_41.664033_-70.899973@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727532,
-    "wof:geomhash":"d978082eb6625e9df02188d5bbc4e746",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32c8b43d7a634f112c2e53851879f11c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672826693
+        }
+    ],
     "wof:id":672826693,
-    "wof:lastmodified":1472626061,
+    "wof:lastmodified":1492115919,
     "wof:name":"Elite Transportation",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

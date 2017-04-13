@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.583897,42.098748,-72.583897,42.098748",
     "geom:latitude":42.098748,
     "geom:longitude":-72.583897,
@@ -39,7 +40,10 @@
         85633793,
         85950399,
         102084627,
-        85688645
+        85688645,
+        85881117,
+        404476369,
+        85950393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461715836,
-    "wof:geomhash":"8ae606191a7503f1d7cb3f5f35363fd3",
+    "wof:geomhash":"cb2bd8fa6245d83ccf34b52cbaf833d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +62,22 @@
             "neighbourhood_id":85849631,
             "region_id":85688645,
             "venue_id":672311579
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476369,
+            "locality_id":85950393,
+            "neighbourhood_id":85881117,
+            "region_id":85688645,
+            "venue_id":672311579
         }
     ],
     "wof:id":672311579,
-    "wof:lastmodified":1472625529,
+    "wof:lastmodified":1492106598,
     "wof:name":"City Vacuum",
-    "wof:parent_id":85849631,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

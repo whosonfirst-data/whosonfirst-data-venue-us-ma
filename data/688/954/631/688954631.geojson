@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.134907,42.135714,-71.134907,42.135714",
     "geom:latitude":42.135714,
     "geom:longitude":-71.134907,
@@ -32,17 +33,26 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23zkDdiw5oOlf6LLD8krUy_42.135714_-71.134907@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736337,
-    "wof:geomhash":"4dc3e874e1ccdf18fb34520e67e46f12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bae701262e15e84b48199fdfe7b8cbf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688954631
+        }
+    ],
     "wof:id":688954631,
-    "wof:lastmodified":1472625158,
+    "wof:lastmodified":1492120868,
     "wof:name":"Esg Consulting",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

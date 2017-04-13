@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.982078,42.804381,-70.982078,42.804381",
     "geom:latitude":42.804381,
     "geom:longitude":-70.982078,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4x66h5ZRcwGCujN752Jnd7_42.804381_-70.982078@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721019,
-    "wof:geomhash":"3431c28dc3acaaec20f12a9fefdd0197",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d47730239a346902a5bb547abc0b12a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672528229
+        }
+    ],
     "wof:id":672528229,
-    "wof:lastmodified":1472625780,
+    "wof:lastmodified":1492109051,
     "wof:name":"Tasks Unlimited",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

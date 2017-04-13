@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.424324,41.726156,-70.424324,41.726156",
     "geom:latitude":41.726156,
     "geom:longitude":-70.424324,
@@ -32,17 +33,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qp89zPvD3VRHfgHMM983N_41.726156_-70.424324@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728548,
-    "wof:geomhash":"62f94a4b477000500a751875ae12c57b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51a855bf3369fd2eb655b563a24b7b98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523225,
+            "venue_id":672875761
+        }
+    ],
     "wof:id":672875761,
-    "wof:lastmodified":1472626101,
+    "wof:lastmodified":1492110585,
     "wof:name":"Atlantic Agri Tech",
     "wof:parent_id":420523225,
     "wof:placetype":"venue",

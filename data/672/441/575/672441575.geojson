@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.178665,41.689326,-71.178665,41.689326",
     "geom:latitude":41.689326,
     "geom:longitude":-71.178665,
@@ -33,19 +34,38 @@
         "clothing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85818859,
+        102191575,
+        404476177,
+        85633793,
+        85950371,
+        102084407,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fwd1wtOzQd2y5LpCyC7dY_41.689326_-71.178665@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718942,
-    "wof:geomhash":"2e6c20c7c95aa89a3529974d90a6ca28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88851a8ea38453a96b114393a44fb3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476177,
+            "locality_id":85950371,
+            "neighbourhood_id":85818859,
+            "region_id":85688645,
+            "venue_id":672441575
+        }
+    ],
     "wof:id":672441575,
-    "wof:lastmodified":1472625707,
+    "wof:lastmodified":1492119844,
     "wof:name":"B A Tech Us LTD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85818859,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

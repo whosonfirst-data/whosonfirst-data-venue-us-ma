@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.074438,42.307891,-73.074438,42.307891",
     "geom:latitude":42.307891,
     "geom:longitude":-73.074438,
@@ -28,17 +29,26 @@
     "sg:postcode":"01223",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523247
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PkZLE1OksGvk8icYTeLmC_42.307891_-73.074438@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725739,
-    "wof:geomhash":"19578780c5ed95aa354dea37938fdc65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0ae6fd3975a72075cfe103947c1c6db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523247,
+            "venue_id":672740297
+        }
+    ],
     "wof:id":672740297,
-    "wof:lastmodified":1472625977,
+    "wof:lastmodified":1492113493,
     "wof:name":"US Post Office",
     "wof:parent_id":420523247,
     "wof:placetype":"venue",

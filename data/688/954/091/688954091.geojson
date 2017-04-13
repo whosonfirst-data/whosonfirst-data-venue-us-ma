@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.117,42.1385,-71.117,42.1385",
     "geom:latitude":42.1385,
     "geom:longitude":-71.117,
@@ -32,17 +33,26 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NaHuUQ2P3XiQjKsaRKJ6W_42.138500_-71.117000@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736328,
-    "wof:geomhash":"c93bfd106d549991d1bc89b88b134855",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95896051c6971f4fb5811007b83e921f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688954091
+        }
+    ],
     "wof:id":688954091,
-    "wof:lastmodified":1472625128,
+    "wof:lastmodified":1492120867,
     "wof:name":"Gracie Lou Events",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

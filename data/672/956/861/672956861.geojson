@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.936966,41.675719,-70.936966,41.675719",
     "geom:latitude":41.675719,
     "geom:longitude":-70.936966,
@@ -33,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885319,
+        85835615,
         102191575,
         404476131,
         85633793,
         85950367,
         102084407,
         85688645,
-        85835615
+        85885319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +49,8 @@
     },
     "wof:country":"US",
     "wof:created":1461730335,
-    "wof:geomhash":"d3e0d13e6479deb5fcef05691f0f4dc0",
+    "wof:geomhash":"3dd91be9b05877dac51a02696d28083c",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476131,
-            "locality_id":85950367,
-            "neighbourhood_id":85885319,
-            "region_id":85688645,
-            "venue_id":672956861
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -69,12 +60,22 @@
             "neighbourhood_id":85835615,
             "region_id":85688645,
             "venue_id":672956861
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476131,
+            "locality_id":85950367,
+            "neighbourhood_id":85885319,
+            "region_id":85688645,
+            "venue_id":672956861
         }
     ],
     "wof:id":672956861,
-    "wof:lastmodified":1472626177,
+    "wof:lastmodified":1492110495,
     "wof:name":"Lawrence & Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

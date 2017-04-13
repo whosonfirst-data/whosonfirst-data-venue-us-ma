@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.810543,41.988399,-70.810543,41.988399",
     "geom:latitude":41.988399,
     "geom:longitude":-70.810543,
@@ -34,17 +35,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PxWGHY7NQuH4y0PCfgBZh_41.988399_-70.810543@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741215,
-    "wof:geomhash":"3fc573643f15d45b4d60210a168499eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8cc746cc3ef35c4a41beff91b03d4cf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689161609
+        }
+    ],
     "wof:id":689161609,
-    "wof:lastmodified":1472625525,
+    "wof:lastmodified":1492099157,
     "wof:name":"New England Carriage Shop Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

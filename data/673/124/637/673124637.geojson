@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.725616,42.247837,-71.725616,42.247837",
     "geom:latitude":42.247837,
     "geom:longitude":-71.725616,
@@ -40,17 +41,26 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eOydvjeijTQrBl6FFpSn5_42.247837_-71.725616@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734280,
-    "wof:geomhash":"43b83d58f5f8dc29a4f5ef7a5f2ec14b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15f91ab9eab0e792dd8a94f515f557cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":673124637
+        }
+    ],
     "wof:id":673124637,
-    "wof:lastmodified":1472625364,
+    "wof:lastmodified":1492103999,
     "wof:name":"Saulenos Auto Body",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

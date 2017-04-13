@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.99589,42.795821,-70.99589,42.795821",
     "geom:latitude":42.795821,
     "geom:longitude":-70.99589,
@@ -33,17 +34,26 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YEi2DbUSj2pwCiZe1IACp_42.795821_-70.995890@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720889,
-    "wof:geomhash":"ae4d647458daac179afe2f003028a5fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddb8c4409fc16ae6a5dd872ad398460c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672522571
+        }
+    ],
     "wof:id":672522571,
-    "wof:lastmodified":1472625787,
+    "wof:lastmodified":1492113774,
     "wof:name":"Learning Tree Preschool",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

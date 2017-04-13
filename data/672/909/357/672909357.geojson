@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.530699,42.409226,-72.530699,42.409226",
     "geom:latitude":42.409226,
     "geom:longitude":-72.530699,
@@ -33,10 +34,14 @@
     "sg:website":"www.north-church.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85818413,
+        102191575,
+        404476381,
         85633793,
-        85842147,
-        102084459
+        85950861,
+        102084459,
+        85688645,
+        85842147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461729226,
-    "wof:geomhash":"4b06662bf5fcd8a11c05db5ec641f9e9",
+    "wof:geomhash":"e93a40dfd30650d1102e6d0fdddd6bfb",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084459,
+            "localadmin_id":404476381,
+            "locality_id":85950861,
+            "neighbourhood_id":85818413,
+            "region_id":85688645,
+            "venue_id":672909357
+        },
         {
             "country_id":85633793,
             "county_id":102084459,
@@ -55,9 +70,9 @@
         }
     ],
     "wof:id":672909357,
-    "wof:lastmodified":1472626125,
+    "wof:lastmodified":1492114360,
     "wof:name":"North Congregational Church",
-    "wof:parent_id":85842147,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.777132,42.068768,-70.777132,42.068768",
     "geom:latitude":42.068768,
     "geom:longitude":-70.777132,
@@ -39,17 +40,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kGMP6J22zhfiqAsLHBDYh_42.068768_-70.777132@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730148,
-    "wof:geomhash":"9c0488e804726b2daf77f358c0e2823d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32d0f68b950539d5d91e2b9645d6da63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":672950967
+        }
+    ],
     "wof:id":672950967,
-    "wof:lastmodified":1472626167,
+    "wof:lastmodified":1492116806,
     "wof:name":"Carl Rhein Motors",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

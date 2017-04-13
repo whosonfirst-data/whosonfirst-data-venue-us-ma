@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.98997,42.24782,-70.98997,42.24782",
     "geom:latitude":42.24782,
     "geom:longitude":-70.98997,
@@ -35,7 +36,8 @@
         85633793,
         85950429,
         102084403,
-        85688645
+        85688645,
+        85843515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461730389,
-    "wof:geomhash":"ab8ec06e415a5ff61f85b7b76009cdd1",
+    "wof:geomhash":"1913c7d39b932adf7b7ca3ed09004ce6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,22 @@
             "neighbourhood_id":85833881,
             "region_id":85688645,
             "venue_id":672958571
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476591,
+            "locality_id":85950429,
+            "neighbourhood_id":85843515,
+            "region_id":85688645,
+            "venue_id":672958571
         }
     ],
     "wof:id":672958571,
-    "wof:lastmodified":1472626174,
+    "wof:lastmodified":1492115749,
     "wof:name":"Point Webster Middle School",
-    "wof:parent_id":85833881,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.102252,42.125432,-71.102252,42.125432",
     "geom:latitude":42.125432,
     "geom:longitude":-71.102252,
@@ -31,17 +32,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HC2h0ZifKXrTLeJd6pBVw_42.125432_-71.102252@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725884,
-    "wof:geomhash":"68fc179ec76c17f6d10108f08e96d157",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27c33770955a6d6f0adf8c3c1c7fdf72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672747123
+        }
+    ],
     "wof:id":672747123,
-    "wof:lastmodified":1472625973,
+    "wof:lastmodified":1492107910,
     "wof:name":"SOS Brazil",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

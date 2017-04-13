@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.897556,41.879079,-70.897556,41.879079",
     "geom:latitude":41.879079,
     "geom:longitude":-70.897556,
@@ -31,17 +32,26 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cx68hYNAMtPkmGjPD4356_41.879079_-70.897556@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722776,
-    "wof:geomhash":"bf6b2070546f9e3602abb54cf63a4edd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a91884402552e55091ce60679bf35f12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672607783
+        }
+    ],
     "wof:id":672607783,
-    "wof:lastmodified":1472625862,
+    "wof:lastmodified":1492119347,
     "wof:name":"PAUL'S Tire Svc",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

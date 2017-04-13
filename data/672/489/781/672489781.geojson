@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.859366,41.648945,-70.859366,41.648945",
     "geom:latitude":41.648945,
     "geom:longitude":-70.859366,
@@ -32,17 +33,26 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QjCYEuviIylcjOBKNhQCk_41.648945_-70.859366@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720179,
-    "wof:geomhash":"061dac39e39d60bbf5ac157e7db7fd1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c40a64ca6889d5b0d7f0d0c2769a50d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672489781
+        }
+    ],
     "wof:id":672489781,
-    "wof:lastmodified":1472625760,
+    "wof:lastmodified":1492113048,
     "wof:name":"Completely Wireless Comm",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

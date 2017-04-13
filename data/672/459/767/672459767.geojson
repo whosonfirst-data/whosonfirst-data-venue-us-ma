@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.816857,42.200826,-71.816857,42.200826",
     "geom:latitude":42.200826,
     "geom:longitude":-71.816857,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"www.northeastbattery.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14Wcj4v3u21uzaD53y2jjx_42.200826_-71.816857@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719432,
-    "wof:geomhash":"562c35e11255cdc6ba75d61145725b10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5560512ec22986b67acbf72e1124ddb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672459767
+        }
+    ],
     "wof:id":672459767,
-    "wof:lastmodified":1472625722,
+    "wof:lastmodified":1492118832,
     "wof:name":"Northeast Battery",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

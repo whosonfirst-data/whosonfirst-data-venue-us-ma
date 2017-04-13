@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.920786,41.706467,-70.920786,41.706467",
     "geom:latitude":41.706467,
     "geom:longitude":-70.920786,
@@ -32,17 +33,26 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cQZ2Wo0VflljmHwm8epvJ_41.706467_-70.920786@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719650,
-    "wof:geomhash":"92c7f718ad8b28c265bf6142e77bf55f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b881da7faf28bd046cc8a49081fe02dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":672468317
+        }
+    ],
     "wof:id":672468317,
-    "wof:lastmodified":1472625728,
+    "wof:lastmodified":1492116068,
     "wof:name":"Mark's Home Improvements",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

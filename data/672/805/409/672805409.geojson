@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.713795,41.936396,-70.713795,41.936396",
     "geom:latitude":41.936396,
     "geom:longitude":-70.713795,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rQFkPZ4ArL1IOeNYse8wa_41.936396_-70.713795@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727091,
-    "wof:geomhash":"5cadf530e30a4f169e301b759b1e0d82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e758b612bb76ca29dc3eefce0c1aa46b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672805409
+        }
+    ],
     "wof:id":672805409,
-    "wof:lastmodified":1472626038,
+    "wof:lastmodified":1492108612,
     "wof:name":"Downing & Co",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

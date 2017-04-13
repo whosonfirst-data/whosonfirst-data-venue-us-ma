@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.469131,42.203234,-72.469131,42.203234",
     "geom:latitude":42.203234,
     "geom:longitude":-72.469131,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10b2DC1LYzqid24rUI0RXV_42.203234_-72.469131@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724392,
-    "wof:geomhash":"cb643e11ce83e850ec5001c8e3d600ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5603587f34707aff0ad1b880fefc28db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":672680089
+        }
+    ],
     "wof:id":672680089,
-    "wof:lastmodified":1472625918,
+    "wof:lastmodified":1492115305,
     "wof:name":"CJ Carpentry Constructio",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

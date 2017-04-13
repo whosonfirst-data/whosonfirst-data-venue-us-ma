@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.404769,42.625206,-71.404769,42.625206",
     "geom:latitude":42.625206,
     "geom:longitude":-71.404769,
@@ -32,17 +33,26 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ulwhXDCENa9HfZwx1Ima0_42.625206_-71.404769@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728061,
-    "wof:geomhash":"76d4a1314a39cc2bee80019808c6b462",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18c024a9b075f085349dc33c0b927cd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672853471
+        }
+    ],
     "wof:id":672853471,
-    "wof:lastmodified":1472626084,
+    "wof:lastmodified":1492114811,
     "wof:name":"Burke GP Carpentry",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

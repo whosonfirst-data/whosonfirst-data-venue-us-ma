@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.45534,42.612624,-71.45534,42.612624",
     "geom:latitude":42.612624,
     "geom:longitude":-71.45534,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GJUOpNVtokGT1KbJIRc3A_42.612624_-71.455340@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726089,
-    "wof:geomhash":"755549829f76d38f35fe068914344589",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e57022ba9b575d86185c50ee2fad7c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523727,
+            "venue_id":672757351
+        }
+    ],
     "wof:id":672757351,
-    "wof:lastmodified":1472625990,
+    "wof:lastmodified":1492116219,
     "wof:name":"Mop N Go",
     "wof:parent_id":420523727,
     "wof:placetype":"venue",

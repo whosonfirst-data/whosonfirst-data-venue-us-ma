@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.108514,42.566961,-71.108514,42.566961",
     "geom:latitude":42.566961,
     "geom:longitude":-71.108514,
@@ -31,17 +32,32 @@
         "battery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476013,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DsA4g8H7fcQGG7YZoZKOK_42.566961_-71.108514@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715368,
-    "wof:geomhash":"ae3ed23fe38c1ab915c4bb9ce229447b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2a71b31106e2b751be65cf21e1a48e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476013,
+            "region_id":85688645,
+            "venue_id":672288409
+        }
+    ],
     "wof:id":672288409,
-    "wof:lastmodified":1472625464,
+    "wof:lastmodified":1492111114,
     "wof:name":"Autozone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

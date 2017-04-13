@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.764045,42.228665,-70.764045,42.228665",
     "geom:latitude":42.228665,
     "geom:longitude":-70.764045,
@@ -39,17 +40,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LHsEahmM1nGoFepzO08uJ_42.228665_-70.764045@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736259,
-    "wof:geomhash":"4024388c041859f0986b02e00a71678e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f5efaac9b3c50d863cbe999599b24d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523833,
+            "venue_id":688950287
+        }
+    ],
     "wof:id":688950287,
-    "wof:lastmodified":1472625120,
+    "wof:lastmodified":1492120799,
     "wof:name":"P & E Associates",
     "wof:parent_id":420523833,
     "wof:placetype":"venue",

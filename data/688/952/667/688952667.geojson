@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.1241,42.137501,-71.1241,42.137501",
     "geom:latitude":42.137501,
     "geom:longitude":-71.1241,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iQnuviFxaMTjdsxoOIJ4W_42.137501_-71.124100@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736303,
-    "wof:geomhash":"803841d4413b98182cc158d60affb226",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0bc888f259a042fe9767e7684d12b9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688952667
+        }
+    ],
     "wof:id":688952667,
-    "wof:lastmodified":1472625164,
+    "wof:lastmodified":1492120334,
     "wof:name":"Southampton Brokerage Co",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

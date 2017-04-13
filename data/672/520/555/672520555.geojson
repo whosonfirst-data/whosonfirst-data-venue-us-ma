@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.465402,42.079073,-71.465402,42.079073",
     "geom:latitude":42.079073,
     "geom:longitude":-71.465402,
@@ -33,17 +34,26 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Nr064t77KMOb36xKibYOd_42.079073_-71.465402@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720843,
-    "wof:geomhash":"e1ddaa9c0d1c1b3838f2247f39605c55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ec330fd2fafb286647916637c15a052",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523777,
+            "venue_id":672520555
+        }
+    ],
     "wof:id":672520555,
-    "wof:lastmodified":1472625791,
+    "wof:lastmodified":1492119302,
     "wof:name":"Bellingham Highway Dept",
     "wof:parent_id":420523777,
     "wof:placetype":"venue",

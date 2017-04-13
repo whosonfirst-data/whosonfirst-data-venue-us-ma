@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.621492,42.442517,-71.621492,42.442517",
     "geom:latitude":42.442517,
     "geom:longitude":-71.621492,
@@ -28,17 +29,26 @@
     "sg:postcode":"01740",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Wo04P7PYLkYddlUIfRwHp_42.442517_-71.621492@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716364,
-    "wof:geomhash":"a973e893d998a5c2396c70496778ccd7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abc728d1758447ff0a753fa98b010dd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672335951
+        }
+    ],
     "wof:id":672335951,
-    "wof:lastmodified":1472625582,
+    "wof:lastmodified":1492110565,
     "wof:name":"Crystal Springs Park",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

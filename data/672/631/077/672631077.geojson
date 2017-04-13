@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.04126,42.12357,-71.04126,42.12357",
     "geom:latitude":42.12357,
     "geom:longitude":-71.04126,
@@ -33,17 +34,32 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476023,
+        85633793,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zYafeaeVIl15532gtEqaT_42.123570_-71.041260@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723311,
-    "wof:geomhash":"73fce8f4f8227fd1bb62f3ef289296f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11234998a3f34a0ca1083e76db436e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476023,
+            "region_id":85688645,
+            "venue_id":672631077
+        }
+    ],
     "wof:id":672631077,
-    "wof:lastmodified":1472625874,
+    "wof:lastmodified":1492106909,
     "wof:name":"Highway Dept Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

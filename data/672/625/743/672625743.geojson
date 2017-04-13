@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.879393,41.738753,-70.879393,41.738753",
     "geom:latitude":41.738753,
     "geom:longitude":-70.879393,
@@ -32,17 +33,26 @@
         "diet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uZuWFjmQDZlOmhsfR8A7B_41.738753_-70.879393@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723197,
-    "wof:geomhash":"4115a6e7f81a51147732844f4fd98de2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9f4a3988f1876ef6cd7e3ef530869d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672625743
+        }
+    ],
     "wof:id":672625743,
-    "wof:lastmodified":1472625882,
+    "wof:lastmodified":1492112221,
     "wof:name":"Earth's Partner",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

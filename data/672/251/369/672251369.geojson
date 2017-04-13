@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.710255,41.769845,-70.710255,41.769845",
     "geom:latitude":41.769845,
     "geom:longitude":-70.710255,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85838881,
+        102084367,
         85854495,
         102191575,
         404476567,
-        85633793,
-        85950489,
-        102084367,
-        85688645
+        85950489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,15 @@
     },
     "wof:country":"US",
     "wof:created":1461714644,
-    "wof:geomhash":"096666d4f138eb1028188224aa528618",
+    "wof:geomhash":"4fabb5a149ad099cf69f2ae7ea7825d7",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85838881,
+            "region_id":85688645,
+            "venue_id":672251369
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +69,9 @@
         }
     ],
     "wof:id":672251369,
-    "wof:lastmodified":1472625343,
+    "wof:lastmodified":1492106018,
     "wof:name":"Genuine Sounds",
-    "wof:parent_id":85854495,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

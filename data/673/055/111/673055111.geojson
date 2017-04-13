@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.536003,42.379117,-71.536003,42.379117",
     "geom:latitude":42.379117,
     "geom:longitude":-71.536003,
@@ -34,17 +35,26 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qV98OTCFgYHgkFPRde2RC_42.378802_-71.535705@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732861,
-    "wof:geomhash":"33b3a34cd1df01ab69005ddae7e626bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7f405c608149823741f1a0a30ab0025",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":673055111
+        }
+    ],
     "wof:id":673055111,
-    "wof:lastmodified":1472625122,
+    "wof:lastmodified":1492104725,
     "wof:name":"Black Eagle Silkscreening",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

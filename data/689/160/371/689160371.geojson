@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.721703,41.920601,-70.721703,41.920601",
     "geom:latitude":41.920601,
     "geom:longitude":-70.721703,
@@ -31,17 +32,26 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XU4sfpA0h2BHUcEJRrrgm_41.920601_-70.721703@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741175,
-    "wof:geomhash":"d6cc6f4c1aeeda7265a6194338edad1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5dfbba26a0ddf4c56b7bb90a3bef533a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689160371
+        }
+    ],
     "wof:id":689160371,
-    "wof:lastmodified":1472625515,
+    "wof:lastmodified":1492101081,
     "wof:name":"Billow Clean Air Systems",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

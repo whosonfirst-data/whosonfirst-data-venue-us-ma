@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.014058,42.449255,-71.014058,42.449255",
     "geom:latitude":42.449255,
     "geom:longitude":-71.014058,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476265,
+        85633793,
+        85950809,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ghScgMpQO5tvGhoBaZ5iA_42.449255_-71.014058@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718337,
-    "wof:geomhash":"014e82f4bf5ef48797092abc6de8aa9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35c594491a52876356c2f8ff39e84cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476265,
+            "locality_id":85950809,
+            "region_id":85688645,
+            "venue_id":672417181
+        }
+    ],
     "wof:id":672417181,
-    "wof:lastmodified":1472625681,
+    "wof:lastmodified":1492107869,
     "wof:name":"Diamond Heating Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.501401,42.175674,-72.501401,42.175674",
     "geom:latitude":42.175674,
     "geom:longitude":-72.501401,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85950393,
+        85808779,
         102084627,
+        85950393,
         85826887
     ],
     "wof:breaches":[],
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461726408,
-    "wof:geomhash":"d2aa549e756faab7c6c0a2a7664dfbaa",
+    "wof:geomhash":"8107e69f79a5e6e71e99b12530b2197a",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084627,
+            "neighbourhood_id":85808779,
+            "region_id":85688645,
+            "venue_id":672771827
+        },
         {
             "country_id":85633793,
             "county_id":102084627,
@@ -56,9 +65,9 @@
         }
     ],
     "wof:id":672771827,
-    "wof:lastmodified":1472626019,
+    "wof:lastmodified":1492109094,
     "wof:name":"Clean Solutions",
-    "wof:parent_id":85826887,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

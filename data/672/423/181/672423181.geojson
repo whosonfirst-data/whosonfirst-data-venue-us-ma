@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.541089,42.217566,-71.541089,42.217566",
     "geom:latitude":42.217566,
     "geom:longitude":-71.541089,
@@ -31,19 +32,41 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85824331,
+        102084643,
+        85837827,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eWeVMi2J7tUvwPqxxvBt6_42.217566_-71.541089@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718485,
-    "wof:geomhash":"f059e729620eb21e00b46b969dbdc812",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f89df4eaf3ad29a696b32d32fc75b01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85824331,
+            "region_id":85688645,
+            "venue_id":672423181
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85837827,
+            "region_id":85688645,
+            "venue_id":672423181
+        }
+    ],
     "wof:id":672423181,
-    "wof:lastmodified":1472625687,
+    "wof:lastmodified":1492108715,
     "wof:name":"Dibbern Overhead Doors",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

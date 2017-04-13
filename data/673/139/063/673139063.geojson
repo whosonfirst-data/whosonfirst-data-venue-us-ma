@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.420953,42.243403,-71.420953,42.243403",
     "geom:latitude":42.243403,
     "geom:longitude":-71.420953,
@@ -31,17 +32,26 @@
         "oven"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yEx6NtnQsp18dFPauNpBn_42.243403_-71.420953@1303262188"
     },
     "wof:country":"US",
     "wof:created":1461734569,
-    "wof:geomhash":"9c93b53ec430d51c3e2455e0510baf1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2addb94587e3066a7aaf8f1c0ab86d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":673139063
+        }
+    ],
     "wof:id":673139063,
-    "wof:lastmodified":1472625389,
+    "wof:lastmodified":1492102634,
     "wof:name":"Nightlife Oil Burner Service",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

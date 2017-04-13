@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.618232,42.222258,-72.618232,42.222258",
     "geom:latitude":42.222258,
     "geom:longitude":-72.618232,
@@ -31,17 +32,34 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476357,
+        85633793,
+        85950395,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u7VaVHk0Bn31pJmSfQxs7_42.222258_-72.618232@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733804,
-    "wof:geomhash":"1b1541fda1abe74221cefc5143b73400",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc0e4d725f7a9f44eba3e69315bcf9df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476357,
+            "locality_id":85950395,
+            "region_id":85688645,
+            "venue_id":673102155
+        }
+    ],
     "wof:id":673102155,
-    "wof:lastmodified":1472625268,
+    "wof:lastmodified":1492104768,
     "wof:name":"S&S Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

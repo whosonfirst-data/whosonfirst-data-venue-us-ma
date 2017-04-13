@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.864769,42.126425,-70.864769,42.126425",
     "geom:latitude":42.126425,
     "geom:longitude":-70.864769,
@@ -32,17 +33,26 @@
         "publication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OzMp32LAe55wZmZEj7k9y_42.126425_-70.864769@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714375,
-    "wof:geomhash":"af40f23eda48e2f88413c323fcf72657",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e8abd805947a926875b7924f3c0a4b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672238463
+        }
+    ],
     "wof:id":672238463,
-    "wof:lastmodified":1472625307,
+    "wof:lastmodified":1492117265,
     "wof:name":"Times Square Media",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

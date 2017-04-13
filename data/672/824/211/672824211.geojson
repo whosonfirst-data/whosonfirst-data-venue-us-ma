@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.995508,42.796614,-70.995508,42.796614",
     "geom:latitude":42.796614,
     "geom:longitude":-70.995508,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yA18wDGyyuuIrALT6Ktkg_42.796614_-70.995508@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727479,
-    "wof:geomhash":"fdc2ac73b2da0e1502539ceef8da1615",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d9bf4ad4371f62d825fdfb86e4055c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672824211
+        }
+    ],
     "wof:id":672824211,
-    "wof:lastmodified":1472626052,
+    "wof:lastmodified":1492114361,
     "wof:name":"West Newbury Congregational",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

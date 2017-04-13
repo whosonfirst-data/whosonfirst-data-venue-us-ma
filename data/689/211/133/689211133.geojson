@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.253425,41.690119,-70.253425,41.690119",
     "geom:latitude":41.690119,
     "geom:longitude":-70.253425,
@@ -37,17 +38,26 @@
         "hobby"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iuTwpaRVWtGV4ZILsrews_41.690119_-70.253425@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742279,
-    "wof:geomhash":"127c401f41bc31496c755a667d484e20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6bde389126f95437a4967041fbff4a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":689211133
+        }
+    ],
     "wof:id":689211133,
-    "wof:lastmodified":1472625596,
+    "wof:lastmodified":1492097099,
     "wof:name":"Pioneer Vending Co",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

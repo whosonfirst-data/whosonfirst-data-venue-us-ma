@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.83274,42.18434,-71.83274,42.18434",
     "geom:latitude":42.18434,
     "geom:longitude":-71.83274,
@@ -31,17 +32,26 @@
         "plastic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sWGxi6UFyKRXW4pommzpd_42.184340_-71.832740@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718068,
-    "wof:geomhash":"d6d53e4ee9239c58505214311be59fd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"419e07357f44fbdd8f24193855b773c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672406657
+        }
+    ],
     "wof:id":672406657,
-    "wof:lastmodified":1472625678,
+    "wof:lastmodified":1492109866,
     "wof:name":"Recycling Group",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

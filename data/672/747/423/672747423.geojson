@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.104924,41.641386,-71.104924,41.641386",
     "geom:latitude":41.641386,
     "geom:longitude":-71.104924,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kvJIQugaUngao9DLvuPpu_41.641386_-71.104924@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725890,
-    "wof:geomhash":"32d8662e281d9ca9c6d6bfa568dbc65b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"711f230851f5f963fa9fab8a5f7d8dfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672747423
+        }
+    ],
     "wof:id":672747423,
-    "wof:lastmodified":1472625981,
+    "wof:lastmodified":1492107911,
     "wof:name":"Westport Dental Assoc",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

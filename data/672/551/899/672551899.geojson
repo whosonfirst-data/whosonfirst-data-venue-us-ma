@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.890993,42.211622,-70.890993,42.211622",
     "geom:latitude":42.211622,
     "geom:longitude":-70.890993,
@@ -32,17 +33,26 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wLszzlSn842GI7VAgGrH4_42.211622_-70.890993@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721497,
-    "wof:geomhash":"4808f3233dc4fa91407168c680f1b675",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b40d8b2581199e38fc9f61cf4c6bd97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523905,
+            "venue_id":672551899
+        }
+    ],
     "wof:id":672551899,
-    "wof:lastmodified":1472625839,
+    "wof:lastmodified":1492119053,
     "wof:name":"UNI",
     "wof:parent_id":420523905,
     "wof:placetype":"venue",

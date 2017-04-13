@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.817284,42.199989,-71.817284,42.199989",
     "geom:latitude":42.199989,
     "geom:longitude":-71.817284,
@@ -39,17 +40,26 @@
         "tractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7a0Asphxx6icfTWUMXXSNm_42.199989_-71.817284@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734154,
-    "wof:geomhash":"a91741d7d6a7b19b55cb74d918b827a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d27c9f39fc3d6d80d08fdee66e51796a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":673118295
+        }
+    ],
     "wof:id":673118295,
-    "wof:lastmodified":1472625337,
+    "wof:lastmodified":1492103922,
     "wof:name":"Central Mass Truck Center",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

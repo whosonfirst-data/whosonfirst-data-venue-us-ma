@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.189995,42.348104,-71.189995,42.348104",
     "geom:latitude":42.348104,
     "geom:longitude":-71.189995,
@@ -33,17 +34,34 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Be28hM7OegXH4jei81GWn_42.348104_-71.189995@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720498,
-    "wof:geomhash":"7d01454d12cb7bde9be9748fe5d30bd6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1028d086542ab81c6aa600b1d089d98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":672504361
+        }
+    ],
     "wof:id":672504361,
-    "wof:lastmodified":1472625763,
+    "wof:lastmodified":1492114929,
     "wof:name":"Hawkins Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

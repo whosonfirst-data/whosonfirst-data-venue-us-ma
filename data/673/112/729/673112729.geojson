@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.727896,42.542758,-72.727896,42.542758",
     "geom:latitude":42.542758,
     "geom:longitude":-72.727896,
@@ -32,17 +33,26 @@
         "structural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523541
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zKYtSqy8HXRDahn8KayHt_42.542758_-72.727896@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734034,
-    "wof:geomhash":"2c03237ea9b1f5df8831927de2b7fd1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c1c174c90657a50f270c8e1d615abc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523541,
+            "venue_id":673112729
+        }
+    ],
     "wof:id":673112729,
-    "wof:lastmodified":1472625319,
+    "wof:lastmodified":1492103733,
     "wof:name":"Structural Support and Design Services",
     "wof:parent_id":420523541,
     "wof:placetype":"venue",

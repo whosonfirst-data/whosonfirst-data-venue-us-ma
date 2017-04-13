@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.10424,42.125762,-71.10424,42.125762",
     "geom:latitude":42.125762,
     "geom:longitude":-71.10424,
@@ -31,17 +32,26 @@
         "clothing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7M8snClimWMxJRoCta3jzT_42.125762_-71.104240@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729196,
-    "wof:geomhash":"944d4cc1dbd2b0e9885f8932614656ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41ddb41d84a1fb5b67c872c464038703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672908113
+        }
+    ],
     "wof:id":672908113,
-    "wof:lastmodified":1472626119,
+    "wof:lastmodified":1492107029,
     "wof:name":"Silk Broadway LTD",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

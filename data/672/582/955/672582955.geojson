@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.437133,42.256845,-71.437133,42.256845",
     "geom:latitude":42.256845,
     "geom:longitude":-71.437133,
@@ -28,17 +29,26 @@
     "sg:postcode":"01721",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39cD7uJYg2bVqY3sU5tdMW_42.256845_-71.437133@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722194,
-    "wof:geomhash":"0ebd345984a1d6697723a947cfc55ac0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63bc84956a45067f203dd0f81b3590bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672582955
+        }
+    ],
     "wof:id":672582955,
-    "wof:lastmodified":1472625840,
+    "wof:lastmodified":1492115613,
     "wof:name":"Boston Trackers",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

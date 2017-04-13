@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.404846,42.339461,-71.404846,42.339461",
     "geom:latitude":42.339461,
     "geom:longitude":-71.404846,
@@ -33,17 +34,36 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420523703,
+        102191575,
+        404476489,
+        85633793,
+        85950629,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5c81YQMkAxl64Qzx0qb7Pl_42.339461_-71.404846@1303262188"
     },
     "wof:country":"US",
     "wof:created":1461734500,
-    "wof:geomhash":"729616a9be2ede7cf9c30fc3574e395b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67ab8e96ba4f707d83aefc144d95354a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476489,
+            "locality_id":85950629,
+            "neighbourhood_id":420523703,
+            "region_id":85688645,
+            "venue_id":673135421
+        }
+    ],
     "wof:id":673135421,
-    "wof:lastmodified":1472625392,
+    "wof:lastmodified":1492103235,
     "wof:name":"As Interior Corp",
     "wof:parent_id":420523703,
     "wof:placetype":"venue",

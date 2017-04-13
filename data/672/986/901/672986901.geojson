@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.881924,41.869869,-70.881924,41.869869",
     "geom:latitude":41.869869,
     "geom:longitude":-70.881924,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aK4qy1LATQuLeQtPJKsNB_41.869869_-70.881924@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731211,
-    "wof:geomhash":"63415cae465bc871ce82d69ace377702",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb9ec44128f265be3fdc68fdfbde0f88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672986901
+        }
+    ],
     "wof:id":672986901,
-    "wof:lastmodified":1472626202,
+    "wof:lastmodified":1492108958,
     "wof:name":"Outback Engineering Inc",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

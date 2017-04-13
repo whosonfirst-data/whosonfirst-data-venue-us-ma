@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.961057,42.271395,-71.961057,42.271395",
     "geom:latitude":42.271395,
     "geom:longitude":-71.961057,
@@ -31,17 +32,26 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SsratAexLGvCEhmBpcqra_42.271395_-71.961057@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725018,
-    "wof:geomhash":"649e0d747312498b2222a7c4be862485",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4439b8545b14eb888d2761a2a739bf72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672707057
+        }
+    ],
     "wof:id":672707057,
-    "wof:lastmodified":1472625941,
+    "wof:lastmodified":1492112374,
     "wof:name":"Spencer-Paxton Septic Svc",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

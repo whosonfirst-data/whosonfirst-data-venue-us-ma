@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.717181,42.388579,-72.717181,42.388579",
     "geom:latitude":42.388579,
     "geom:longitude":-72.717181,
@@ -32,17 +33,26 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rYzzWrAIBAxJGKFZrWVkg_42.388579_-72.717181@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719333,
-    "wof:geomhash":"9bd1c9ea4dd1ed3182617937c5a74097",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d51084b8dfe277eb9d70fb0a619a721",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523635,
+            "venue_id":672455797
+        }
+    ],
     "wof:id":672455797,
-    "wof:lastmodified":1472625725,
+    "wof:lastmodified":1492109501,
     "wof:name":"Essence Woodworks",
     "wof:parent_id":420523635,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.060506,41.620463,-71.060506,41.620463",
     "geom:latitude":41.620463,
     "geom:longitude":-71.060506,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_372a2GM4bjgPSyo0pDQKI2_41.620463_-71.060506@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722425,
-    "wof:geomhash":"edcdde879b40844361658489449d9e9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6dc62f9f151f7dc55f6906b3eb1c03bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672592735
+        }
+    ],
     "wof:id":672592735,
-    "wof:lastmodified":1472625850,
+    "wof:lastmodified":1492114063,
     "wof:name":"Westport Land Co",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

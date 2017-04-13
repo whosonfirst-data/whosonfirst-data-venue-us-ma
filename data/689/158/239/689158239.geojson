@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.730178,41.93015,-70.730178,41.93015",
     "geom:latitude":41.93015,
     "geom:longitude":-70.730178,
@@ -33,17 +34,26 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YrPFnkdhUxfwfofeYOfzU_41.930150_-70.730178@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741135,
-    "wof:geomhash":"580805122a66ece6530fe73523f49563",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d6e57c7ef1c68a4cd0bdd7e6dd2a30e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689158239
+        }
+    ],
     "wof:id":689158239,
-    "wof:lastmodified":1472625497,
+    "wof:lastmodified":1492099863,
     "wof:name":"Lender Sentinel, Inc.",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.197033,42.32728,-71.197033,42.32728",
     "geom:latitude":42.32728,
     "geom:longitude":-71.197033,
@@ -30,14 +31,14 @@
     "sg:website":"http://designeradvantage.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852191,
+        85891465,
         102191575,
         404476411,
         85633793,
         85950341,
         102084643,
         85688645,
-        85891465
+        85852191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +46,8 @@
     },
     "wof:country":"US",
     "wof:created":1461742665,
-    "wof:geomhash":"ed86d1d6fb0130367db5c82d7f694303",
+    "wof:geomhash":"b6c172cd7a594fb4046fc517ec9a7473",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476411,
-            "locality_id":85950341,
-            "neighbourhood_id":85852191,
-            "region_id":85688645,
-            "venue_id":689228599
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -66,12 +57,22 @@
             "neighbourhood_id":85891465,
             "region_id":85688645,
             "venue_id":689228599
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "neighbourhood_id":85852191,
+            "region_id":85688645,
+            "venue_id":689228599
         }
     ],
     "wof:id":689228599,
-    "wof:lastmodified":1472625639,
+    "wof:lastmodified":1492100263,
     "wof:name":"Designer Advantage",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

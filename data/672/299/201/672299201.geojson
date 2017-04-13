@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.37416,42.204303,-72.37416,42.204303",
     "geom:latitude":42.204303,
     "geom:longitude":-72.37416,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BMmVD5Mk79TATqNJnCVZZ_42.204303_-72.374160@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715600,
-    "wof:geomhash":"e9d21e80208e50543f9a7c5b0fb3dd3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14876e1728ef325f0cd5e3f36474d5de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672299201
+        }
+    ],
     "wof:id":672299201,
-    "wof:lastmodified":1472625489,
+    "wof:lastmodified":1492109011,
     "wof:name":"Liberty Orchard's Landscaping",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

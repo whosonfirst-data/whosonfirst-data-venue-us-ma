@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.858497,41.84292,-70.858497,41.84292",
     "geom:latitude":41.84292,
     "geom:longitude":-70.858497,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wXGWjDVoNKaVrLq4pWWLW_41.842920_-70.858497@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729439,
-    "wof:geomhash":"3c88a5ae0357728abdbc6b4bec1c51ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"907cf1d4b78e81bcf0d6b0ceee84dea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672920521
+        }
+    ],
     "wof:id":672920521,
-    "wof:lastmodified":1472626138,
+    "wof:lastmodified":1492111844,
     "wof:name":"Kingston Fire Dept",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

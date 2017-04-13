@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.771718,42.036837,-70.771718,42.036837",
     "geom:latitude":42.036837,
     "geom:longitude":-70.771718,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4x504YnM6FKXnYeBUHgRI3_42.036837_-70.771718@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728293,
-    "wof:geomhash":"87fed308d6703ee7ce8182cb777cd6b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd963b45a92b5324347e66074fbbaa84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672866101
+        }
+    ],
     "wof:id":672866101,
-    "wof:lastmodified":1472626091,
+    "wof:lastmodified":1492108488,
     "wof:name":"David Malaguti Carpentry",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

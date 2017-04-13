@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.495318,41.657587,-70.495318,41.657587",
     "geom:latitude":41.657587,
     "geom:longitude":-70.495318,
@@ -40,17 +41,26 @@
     ],
     "sg:website":"http://www.lesco.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7S2UgjQrTg0p9tRBgE0YBg_41.657587_-70.495318@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742214,
-    "wof:geomhash":"ef2fdf127177b5af6a8881a51cc497fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40d31e146479118cf302004f3c8d0b83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":689207811
+        }
+    ],
     "wof:id":689207811,
-    "wof:lastmodified":1472625614,
+    "wof:lastmodified":1492099834,
     "wof:name":"Lesco",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

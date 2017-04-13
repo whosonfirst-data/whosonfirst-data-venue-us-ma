@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.810677,41.932568,-70.810677,41.932568",
     "geom:latitude":41.932568,
     "geom:longitude":-70.810677,
@@ -31,17 +32,26 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tJp6WzJy8NNYpYS79W15G_41.932568_-70.810677@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741000,
-    "wof:geomhash":"a28544dd026e8b194804da8628c6919c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55bb5d7f0b3f7cab9e86c23965725a9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152825
+        }
+    ],
     "wof:id":689152825,
-    "wof:lastmodified":1472625522,
+    "wof:lastmodified":1492101009,
     "wof:name":"Aldersley's Carver Appliance",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

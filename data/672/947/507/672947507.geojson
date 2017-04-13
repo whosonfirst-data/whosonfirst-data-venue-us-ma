@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.186639,42.293256,-71.186639,42.293256",
     "geom:latitude":42.293256,
     "geom:longitude":-71.186639,
@@ -32,17 +33,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UmUmxbGNSFpvZ75FjjK7y_42.293256_-71.186639@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730055,
-    "wof:geomhash":"806796b6687766df9ea8b318fc6fa365",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83c885bf6ef2122b8276d162cddecd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":672947507
+        }
+    ],
     "wof:id":672947507,
-    "wof:lastmodified":1472626160,
+    "wof:lastmodified":1492115151,
     "wof:name":"Hanson Road",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

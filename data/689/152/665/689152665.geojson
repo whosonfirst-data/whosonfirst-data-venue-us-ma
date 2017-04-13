@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.777106,41.893768,-70.777106,41.893768",
     "geom:latitude":41.893768,
     "geom:longitude":-70.777106,
@@ -31,17 +32,26 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58PySA5tMk157xu9TSX11b_41.893768_-70.777106@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740996,
-    "wof:geomhash":"4a03df3d5575392544df0dc3c10d2efd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"894fcdca96e2faa0d3a2fad56364fdbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":689152665
+        }
+    ],
     "wof:id":689152665,
-    "wof:lastmodified":1472625514,
+    "wof:lastmodified":1492101010,
     "wof:name":"Country Veterinary Clinic",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

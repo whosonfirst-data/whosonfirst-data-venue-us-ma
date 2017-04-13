@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.88518,41.713144,-70.88518,41.713144",
     "geom:latitude":41.713144,
     "geom:longitude":-70.88518,
@@ -31,17 +32,26 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NpcYuXzAVzPS7mTQC8b5z_41.713144_-70.885180@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723232,
-    "wof:geomhash":"404a399f6b2e0b43b3830a2671f0454a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36fa7143cc7d71053087808fb709dfa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672627113
+        }
+    ],
     "wof:id":672627113,
-    "wof:lastmodified":1472625870,
+    "wof:lastmodified":1492108676,
     "wof:name":"Mass Collision Svc",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

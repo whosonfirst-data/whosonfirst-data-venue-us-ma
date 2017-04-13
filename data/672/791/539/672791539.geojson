@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.60405,42.1378,-72.60405,42.1378",
     "geom:latitude":42.1378,
     "geom:longitude":-72.60405,
@@ -39,7 +40,10 @@
         85633793,
         85950393,
         102084627,
-        85688645
+        85688645,
+        85847063,
+        404476347,
+        85950397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461726818,
-    "wof:geomhash":"a0d6300007985b6eeb22442d701a087c",
+    "wof:geomhash":"e0d191979f8a2f48694181e30865e134",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +62,22 @@
             "neighbourhood_id":85830421,
             "region_id":85688645,
             "venue_id":672791539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "neighbourhood_id":85847063,
+            "region_id":85688645,
+            "venue_id":672791539
         }
     ],
     "wof:id":672791539,
-    "wof:lastmodified":1472626027,
+    "wof:lastmodified":1492113754,
     "wof:name":"Home Facelifters",
-    "wof:parent_id":85830421,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

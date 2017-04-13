@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.565245,42.208004,-72.565245,42.208004",
     "geom:latitude":42.208004,
     "geom:longitude":-72.565245,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476347,
+        85633793,
+        85950397,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DL3aLthy5FDElEM2UuwB2_42.208004_-72.565245@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724202,
-    "wof:geomhash":"da85c36434137a0d0917ac851245c4db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad0120d9aaea065d23791269214f4d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "region_id":85688645,
+            "venue_id":672672011
+        }
+    ],
     "wof:id":672672011,
-    "wof:lastmodified":1472625914,
+    "wof:lastmodified":1492116315,
     "wof:name":"Bob Trombley Jr Siding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

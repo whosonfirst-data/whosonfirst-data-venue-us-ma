@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.891636,42.119805,-70.891636,42.119805",
     "geom:latitude":42.119805,
     "geom:longitude":-70.891636,
@@ -33,17 +34,26 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03jCgAxHMKd3dFt8zqe9oa_42.119805_-70.891636@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715830,
-    "wof:geomhash":"e918690b1fd336c52b0d4e633bdc3b4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eae6c988c6baf6a1c1664e7d23a38b00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672311289
+        }
+    ],
     "wof:id":672311289,
-    "wof:lastmodified":1472625521,
+    "wof:lastmodified":1492106606,
     "wof:name":"Rockland Highway Dept",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

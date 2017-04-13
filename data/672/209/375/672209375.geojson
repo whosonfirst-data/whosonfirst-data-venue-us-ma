@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.491532,41.654845,-70.491532,41.654845",
     "geom:latitude":41.654845,
     "geom:longitude":-70.491532,
@@ -36,17 +37,26 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VpSW3tBThKOpAeKfGod8u_41.654845_-70.491532@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713759,
-    "wof:geomhash":"5522964aefecce8e7e92be78bd7f57f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8c51f95484e372069aab797f05a3358",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672209375
+        }
+    ],
     "wof:id":672209375,
-    "wof:lastmodified":1472625211,
+    "wof:lastmodified":1492112056,
     "wof:name":"Woman's Workout Co",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

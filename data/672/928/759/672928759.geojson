@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.998415,42.72941,-70.998415,42.72941",
     "geom:latitude":42.72941,
     "geom:longitude":-70.998415,
@@ -31,17 +32,26 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42HDveBWE2AY10w8kmusi1_42.729410_-70.998415@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729596,
-    "wof:geomhash":"a88322b5de95a0cfd98be029f72e1f29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba55ef02ec6fbc1e8777cbb014501c98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672928759
+        }
+    ],
     "wof:id":672928759,
-    "wof:lastmodified":1472626153,
+    "wof:lastmodified":1492111416,
     "wof:name":"Cambridge Seal & Gasket Co",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

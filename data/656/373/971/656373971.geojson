@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.900216,41.88804,-70.900216,41.88804",
     "geom:latitude":41.88804,
     "geom:longitude":-70.900216,
@@ -28,17 +29,26 @@
     "sg:postcode":"02346",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79d0NSBdRnfx5T9aru8QCG_41.888040_-70.900216@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711461,
-    "wof:geomhash":"135152c7709b5118c1a741f73e047c29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd6318115c3e561cd320cdd239cf5078",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":656373971
+        }
+    ],
     "wof:id":656373971,
-    "wof:lastmodified":1472625019,
+    "wof:lastmodified":1492102303,
     "wof:name":"Burr Brothers",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

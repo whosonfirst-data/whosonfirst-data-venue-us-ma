@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.177668,42.716442,-71.177668,42.716442",
     "geom:latitude":42.716442,
     "geom:longitude":-71.177668,
@@ -38,7 +39,10 @@
         85633793,
         85950415,
         102084463,
-        85688645
+        85688645,
+        85891373,
+        404475949,
+        85950411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461728495,
-    "wof:geomhash":"9fcc906a71d1138c7b46fa69d21620d8",
+    "wof:geomhash":"4ee7785b3096fe3a529cb533de2f245f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +61,22 @@
             "neighbourhood_id":420523417,
             "region_id":85688645,
             "venue_id":672872911
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404475949,
+            "locality_id":85950411,
+            "neighbourhood_id":85891373,
+            "region_id":85688645,
+            "venue_id":672872911
         }
     ],
     "wof:id":672872911,
-    "wof:lastmodified":1472626103,
+    "wof:lastmodified":1492110731,
     "wof:name":"True Photo",
-    "wof:parent_id":420523417,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

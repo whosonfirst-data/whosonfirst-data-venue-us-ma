@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.695928,42.083383,-70.695928,42.083383",
     "geom:latitude":42.083383,
     "geom:longitude":-70.695928,
@@ -31,19 +32,40 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950461,
+        102084367,
+        85819249,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kyeo8OGKNoOiISVWfwKhU_42.083383_-70.695928@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728167,
-    "wof:geomhash":"c9dc6bceeb9543566bd318179c7f79c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3d033cd03ffa83d81eb0a290968ddd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950461,
+            "neighbourhood_id":85819249,
+            "region_id":85688645,
+            "venue_id":672859429
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":672859429
+        }
+    ],
     "wof:id":672859429,
-    "wof:lastmodified":1472626080,
+    "wof:lastmodified":1492119132,
     "wof:name":"Green Harbor Tree Svc",
-    "wof:parent_id":420523971,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

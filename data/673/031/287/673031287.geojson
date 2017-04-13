@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.622764,41.618938,-70.622764,41.618938",
     "geom:latitude":41.618938,
     "geom:longitude":-70.622764,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JiaNxDHN3jzUdwUzskPBV_41.618938_-70.622764@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732355,
-    "wof:geomhash":"d575636acbc0e1889aa215fe61a14f66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c5c602a300f37981df1a1047a2c80b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":673031287
+        }
+    ],
     "wof:id":673031287,
-    "wof:lastmodified":1472625018,
+    "wof:lastmodified":1492104124,
     "wof:name":"Davis Landscaping",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

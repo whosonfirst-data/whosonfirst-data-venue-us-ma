@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.239277,42.260298,-72.239277,42.260298",
     "geom:latitude":42.260298,
     "geom:longitude":-72.239277,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476311,
+        85633793,
+        85950865,
+        102084459
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E1CQXHdshERhayJQ1mg0F_42.260298_-72.239277@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719507,
-    "wof:geomhash":"344801e5829c6f316939ace3d4ce86b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70bcdc3b849a311ccd8a045a76f56344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084459,
+            "localadmin_id":404476311,
+            "locality_id":85950865,
+            "region_id":85688645,
+            "venue_id":672462949
+        }
+    ],
     "wof:id":672462949,
-    "wof:lastmodified":1472625734,
+    "wof:lastmodified":1492110161,
     "wof:name":"Ware Sewage Treatment Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

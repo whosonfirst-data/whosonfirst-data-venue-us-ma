@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.095411,42.127978,-71.095411,42.127978",
     "geom:latitude":42.127978,
     "geom:longitude":-71.095411,
@@ -32,17 +33,26 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XSzUuyLLV1naVn6X0TPkb_42.127978_-71.095411@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713968,
-    "wof:geomhash":"0c602cfb479f9a12716ea5821a73621d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bb492a5f9ea6e9b12d187eb001b7113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672219949
+        }
+    ],
     "wof:id":672219949,
-    "wof:lastmodified":1472625248,
+    "wof:lastmodified":1492113004,
     "wof:name":"Weekes Rest Home",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

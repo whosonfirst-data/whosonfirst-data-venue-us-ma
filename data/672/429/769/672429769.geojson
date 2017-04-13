@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.762874,42.220779,-71.762874,42.220779",
     "geom:latitude":42.220779,
     "geom:longitude":-71.762874,
@@ -32,17 +33,26 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524205
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GQDJkrR06dQLWwdq0P8EE_42.220779_-71.762874@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718637,
-    "wof:geomhash":"366e1d009a23d0752f315196a0485f20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64b7f5f9b20559048121553c91db06b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524205,
+            "venue_id":672429769
+        }
+    ],
     "wof:id":672429769,
-    "wof:lastmodified":1472625704,
+    "wof:lastmodified":1492118355,
     "wof:name":"KAT Trucking",
     "wof:parent_id":420524205,
     "wof:placetype":"venue",

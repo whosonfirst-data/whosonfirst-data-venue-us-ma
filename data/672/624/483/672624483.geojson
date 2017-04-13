@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.731631,42.228365,-71.731631,42.228365",
     "geom:latitude":42.228365,
     "geom:longitude":-71.731631,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Gydp6oIGuNf0sTXHo3U2i_42.228365_-71.731631@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723165,
-    "wof:geomhash":"228972acf34c6164f4e9fd2fb55b00a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88e04bd28d61eaedb0360637c125f9ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524183,
+            "venue_id":672624483
+        }
+    ],
     "wof:id":672624483,
-    "wof:lastmodified":1472625875,
+    "wof:lastmodified":1492109410,
     "wof:name":"Murphy & Assoc",
     "wof:parent_id":420524183,
     "wof:placetype":"venue",

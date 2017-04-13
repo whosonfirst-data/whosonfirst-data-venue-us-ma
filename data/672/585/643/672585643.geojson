@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.209007,42.454775,-73.209007,42.454775",
     "geom:latitude":42.454775,
     "geom:longitude":-73.209007,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85811957,
+        102191575,
+        404476123,
         85633793,
         85950325,
         102084369,
-        85811957
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1461722276,
-    "wof:geomhash":"ae19a3c58ac9f8bcd4fb82c61eeb55ed",
+    "wof:geomhash":"a3348ad181ef5a7334a82d6a47a6d0c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084369,
+            "localadmin_id":404476123,
             "locality_id":85950325,
             "neighbourhood_id":85811957,
             "region_id":85688645,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":672585643,
-    "wof:lastmodified":1472625837,
+    "wof:lastmodified":1492119142,
     "wof:name":"Carlo Motor Express",
     "wof:parent_id":85811957,
     "wof:placetype":"venue",

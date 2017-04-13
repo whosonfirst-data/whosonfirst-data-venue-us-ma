@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.125795,42.341153,-71.125795,42.341153",
     "geom:latitude":42.341153,
     "geom:longitude":-71.125795,
@@ -34,17 +35,34 @@
     "sg:province":"MA",
     "sg:website":"www.clayroom.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0c7XOS9948NndfNZ70Qzuz_42.341153_-71.125795@1303262229"
     },
     "wof:country":"US",
     "wof:created":1461741521,
-    "wof:geomhash":"e2223d72d163403f18e1059353c4bd9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd2e593e0c566225c5a0fe5b8ce892a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "region_id":85688645,
+            "venue_id":689175097
+        }
+    ],
     "wof:id":689175097,
-    "wof:lastmodified":1472625540,
+    "wof:lastmodified":1492099480,
     "wof:name":"The Clayroom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

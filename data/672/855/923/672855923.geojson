@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.12003,42.33338,-71.12003,42.33338",
     "geom:latitude":42.33338,
     "geom:longitude":-71.12003,
@@ -31,19 +32,38 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85876525,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1REip9t3cEn3gdd0tbmGh7_42.333380_-71.120030@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728105,
-    "wof:geomhash":"cc23f052b4c916b2b3d3dd7b1ee02077",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bc69b0b0ab7bfdec13098baecfc633b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "neighbourhood_id":85876525,
+            "region_id":85688645,
+            "venue_id":672855923
+        }
+    ],
     "wof:id":672855923,
-    "wof:lastmodified":1472626090,
+    "wof:lastmodified":1492114393,
     "wof:name":"Wes Junior",
-    "wof:parent_id":-1,
+    "wof:parent_id":85876525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

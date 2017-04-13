@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.378765,42.055017,-72.378765,42.055017",
     "geom:latitude":42.055017,
     "geom:longitude":-72.378765,
@@ -37,17 +38,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476351,
+        85633793,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5meo0qlSTh7HIWvB56a5zI_42.055017_-72.378765@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733788,
-    "wof:geomhash":"870d21011f5b6bfd9c09939d963ef0b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fcbb9180081ad70937112fea0dc242f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476351,
+            "region_id":85688645,
+            "venue_id":673101499
+        }
+    ],
     "wof:id":673101499,
-    "wof:lastmodified":1472625275,
+    "wof:lastmodified":1492102712,
     "wof:name":"Pearlmar Financial Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

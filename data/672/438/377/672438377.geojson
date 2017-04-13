@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.060106,42.547632,-71.060106,42.547632",
     "geom:latitude":42.547632,
     "geom:longitude":-71.060106,
@@ -31,17 +32,34 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475945,
+        85633793,
+        85950795,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HT99NemcshRnLFNoXPN2K_42.547632_-71.060106@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718865,
-    "wof:geomhash":"a7cd6c51eaac17e12a8d4a469e2702e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f710a58a3c8cba218e63dc30c2b04776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404475945,
+            "locality_id":85950795,
+            "region_id":85688645,
+            "venue_id":672438377
+        }
+    ],
     "wof:id":672438377,
-    "wof:lastmodified":1472625703,
+    "wof:lastmodified":1492112308,
     "wof:name":"New England Inspection Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

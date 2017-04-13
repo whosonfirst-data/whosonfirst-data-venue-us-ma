@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.949356,41.897271,-70.949356,41.897271",
     "geom:latitude":41.897271,
     "geom:longitude":-70.949356,
@@ -31,19 +32,32 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85854565,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IIm4ddRunQ4WgLHTv0BFY_41.897271_-70.949356@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714515,
-    "wof:geomhash":"b09561d6a004b45f54f658086f18ebfc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c58254ac29a23bd1e999420f13a875c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85854565,
+            "region_id":85688645,
+            "venue_id":672245171
+        }
+    ],
     "wof:id":672245171,
-    "wof:lastmodified":1472625329,
+    "wof:lastmodified":1492111090,
     "wof:name":"C T Dry Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":85854565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

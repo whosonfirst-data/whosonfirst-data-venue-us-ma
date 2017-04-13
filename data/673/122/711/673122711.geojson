@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.806974,42.176027,-71.806974,42.176027",
     "geom:latitude":42.176027,
     "geom:longitude":-71.806974,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OfTy3Y0IhorUo1HxPX1Qv_42.176027_-71.806974@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734248,
-    "wof:geomhash":"9a0d9861d6008accddcc9d48b5d75513",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38cbd3a3615861547e1ce16120c877bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":673122711
+        }
+    ],
     "wof:id":673122711,
-    "wof:lastmodified":1472625367,
+    "wof:lastmodified":1492104017,
     "wof:name":"Rte Logic",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.532512,42.100367,-72.532512,42.100367",
     "geom:latitude":42.100367,
     "geom:longitude":-72.532512,
@@ -39,17 +40,34 @@
         "churches-lutheran-evangelical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476369,
+        85633793,
+        85950393,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bkptuRma5414bHYgjw4Gs_42.100367_-72.532512@1303262184"
     },
     "wof:country":"US",
     "wof:created":1461733958,
-    "wof:geomhash":"c66b3640a7a850e0b3bff19f1d9d2a3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aef9dc9971bdca82a4b917c34b9f3835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476369,
+            "locality_id":85950393,
+            "region_id":85688645,
+            "venue_id":673108719
+        }
+    ],
     "wof:id":673108719,
-    "wof:lastmodified":1472625316,
+    "wof:lastmodified":1492103373,
     "wof:name":"Bethesda Evangelical Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

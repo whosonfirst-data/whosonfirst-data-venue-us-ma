@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.103415,41.636573,-71.103415,41.636573",
     "geom:latitude":41.636573,
     "geom:longitude":-71.103415,
@@ -32,19 +33,34 @@
         "mail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285,
+        420523343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KMQXAbcmppbhiGyMJH7Hd_41.636573_-71.103415@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717800,
-    "wof:geomhash":"384f8118c025a0780da3cf720ae2454c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1f2956f5943b3cbb33c91b685483b96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672396943
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523343,
+            "venue_id":672396943
+        }
+    ],
     "wof:id":672396943,
-    "wof:lastmodified":1472625668,
+    "wof:lastmodified":1492115389,
     "wof:name":"Read Collection",
-    "wof:parent_id":420523285,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

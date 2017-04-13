@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.215143,41.749392,-71.215143,41.749392",
     "geom:latitude":41.749392,
     "geom:longitude":-71.215143,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0030cyvSJ4NugrQLtPJjmb_41.749392_-71.215143@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724968,
-    "wof:geomhash":"afcac1c8067c263930ff033b09ef39e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7581d6da5476d8f64350003d4d44a7c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":672704605
+        }
+    ],
     "wof:id":672704605,
-    "wof:lastmodified":1472625951,
+    "wof:lastmodified":1492115628,
     "wof:name":"Capital Building & Design Inc",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

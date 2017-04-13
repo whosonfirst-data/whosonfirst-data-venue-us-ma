@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.532102,42.378616,-71.532102,42.378616",
     "geom:latitude":42.378616,
     "geom:longitude":-71.532102,
@@ -37,17 +38,26 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nP11l0jUzWHetGCZFcFOy_42.378616_-71.532102@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722254,
-    "wof:geomhash":"154abdcbb5aeb9a9afe92f7ce2ba754f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da459fe6ac00a6063caca384910c0789",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672584905
+        }
+    ],
     "wof:id":672584905,
-    "wof:lastmodified":1472625842,
+    "wof:lastmodified":1492113546,
     "wof:name":"Custom Welding & Fabrications",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

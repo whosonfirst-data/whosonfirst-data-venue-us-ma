@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.225101,42.348084,-71.225101,42.348084",
     "geom:latitude":42.348084,
     "geom:longitude":-71.225101,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858683,
+        85891465,
         102191575,
         404476411,
         85633793,
         85950341,
         102084643,
-        85688645
+        85688645,
+        85858683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461713858,
-    "wof:geomhash":"17965d1d11a7d043098358889aee6376",
+    "wof:geomhash":"b497aefdcb6e04da27bb4b6a25f97dbd",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "neighbourhood_id":85891465,
+            "region_id":85688645,
+            "venue_id":672214845
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":672214845,
-    "wof:lastmodified":1472625233,
+    "wof:lastmodified":1492106931,
     "wof:name":"Myers Verna & Associates",
-    "wof:parent_id":85858683,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

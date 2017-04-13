@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.892385,41.881616,-70.892385,41.881616",
     "geom:latitude":41.881616,
     "geom:longitude":-70.892385,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vTlydbaEi7Oozn8HAdBgR_41.881616_-70.892385@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741057,
-    "wof:geomhash":"12f52c213cf819632b4c320593c6fc40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8c4984fb3905e91ddb8e1294a24ad74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":689155193
+        }
+    ],
     "wof:id":689155193,
-    "wof:lastmodified":1472625494,
+    "wof:lastmodified":1492100387,
     "wof:name":"Bradley, David W Painting",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

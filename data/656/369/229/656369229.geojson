@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.221902,41.696512,-70.221902,41.696512",
     "geom:latitude":41.696512,
     "geom:longitude":-70.221902,
@@ -32,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836559,
+        85837555,
         102191575,
-        404475899,
+        404476089,
         85633793,
-        85950539,
+        85950535,
         102084379,
-        85688645
+        85688645,
+        85836559,
+        404475899,
+        85950539
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,18 @@
     },
     "wof:country":"US",
     "wof:created":1461711362,
-    "wof:geomhash":"6c2cf149428d22c63460a6d5aadb970e",
+    "wof:geomhash":"5b088c0bb69a282d079d447e43d3d72c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404476089,
+            "locality_id":85950535,
+            "neighbourhood_id":85837555,
+            "region_id":85688645,
+            "venue_id":656369229
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +74,9 @@
         }
     ],
     "wof:id":656369229,
-    "wof:lastmodified":1472624933,
+    "wof:lastmodified":1492102217,
     "wof:name":"Mt Construction Inc",
-    "wof:parent_id":85836559,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

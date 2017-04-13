@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.218007,41.682045,-70.218007,41.682045",
     "geom:latitude":41.682045,
     "geom:longitude":-70.218007,
@@ -32,17 +33,26 @@
         "rooms"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2o8GCyQ15hoArEKOOwO7ky_41.682045_-70.218007@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714798,
-    "wof:geomhash":"97ed9d10f52c44198c446ad153f0edf9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2aa15ae78dbf6605e7afd1680135ee96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672259541
+        }
+    ],
     "wof:id":672259541,
-    "wof:lastmodified":1472625363,
+    "wof:lastmodified":1492109493,
     "wof:name":"Yarmouth Senior Ctr Comptr",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

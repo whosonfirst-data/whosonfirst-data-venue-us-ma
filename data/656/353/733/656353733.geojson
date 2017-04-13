@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.830041,42.673458,-72.830041,42.673458",
     "geom:latitude":42.673458,
     "geom:longitude":-72.830041,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475963,
+        85633793,
+        102084457
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_084PvwnsOC5cwblSTcOvHB_42.673458_-72.830041@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711036,
-    "wof:geomhash":"81c88211f21fc05ff37dd18b18db3cf1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb939a81013e5660c829ee52df5515e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084457,
+            "localadmin_id":404475963,
+            "region_id":85688645,
+            "venue_id":656353733
+        }
+    ],
     "wof:id":656353733,
-    "wof:lastmodified":1472624917,
+    "wof:lastmodified":1492101279,
     "wof:name":"Armstrong & Armstrong",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

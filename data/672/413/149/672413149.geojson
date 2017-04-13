@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.8622,42.62768,-72.8622,42.62768",
     "geom:latitude":42.62768,
     "geom:longitude":-72.8622,
@@ -31,17 +32,26 @@
         "broadcast"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523507
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KQd8YNoazlxkmDKnR58ZC_42.627680_-72.862200@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718238,
-    "wof:geomhash":"79a52dffa312bbbf19fc1108a91ac4d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9bebc8afc77be2d1f5b43cefbb9b15e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523507,
+            "venue_id":672413149
+        }
+    ],
     "wof:id":672413149,
-    "wof:lastmodified":1472625675,
+    "wof:lastmodified":1492116884,
     "wof:name":"WAMC",
     "wof:parent_id":420523507,
     "wof:placetype":"venue",

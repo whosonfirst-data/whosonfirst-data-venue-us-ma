@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.266144,42.584259,-72.266144,42.584259",
     "geom:latitude":42.584259,
     "geom:longitude":-72.266144,
@@ -29,11 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85841915,
+        102191575,
+        404476527,
         85633793,
         85950709,
         102084655,
-        85841915
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1461713155,
-    "wof:geomhash":"6dedf9d1d0834b99dbbd42398e5be9c0",
+    "wof:geomhash":"7c09260c5824cd01f550966fbf2c5fa7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476527,
             "locality_id":85950709,
             "neighbourhood_id":85841915,
             "region_id":85688645,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":672181557,
-    "wof:lastmodified":1472625095,
+    "wof:lastmodified":1492115698,
     "wof:name":"First Business Svc",
     "wof:parent_id":85841915,
     "wof:placetype":"venue",

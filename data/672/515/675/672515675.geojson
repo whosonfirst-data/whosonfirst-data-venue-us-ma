@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.658182,42.339725,-72.658182,42.339725",
     "geom:latitude":42.339725,
     "geom:longitude":-72.658182,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841755,
+        85837609,
         102191575,
         404476303,
         85633793,
         85950433,
         102084459,
-        85688645
+        85688645,
+        85841755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461720738,
-    "wof:geomhash":"8d912d2582e7279b07470b9b546fd6cf",
+    "wof:geomhash":"e67e615d09a06938c4cd757ed8105024",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084459,
+            "localadmin_id":404476303,
+            "locality_id":85950433,
+            "neighbourhood_id":85837609,
+            "region_id":85688645,
+            "venue_id":672515675
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672515675,
-    "wof:lastmodified":1472625782,
+    "wof:lastmodified":1492113936,
     "wof:name":"Cornerstone Chapel",
-    "wof:parent_id":85841755,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

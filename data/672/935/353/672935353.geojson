@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.413423,42.271504,-72.413423,42.271504",
     "geom:latitude":42.271504,
     "geom:longitude":-72.413423,
@@ -32,17 +33,26 @@
         "tool"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gebcX9xyuCFdMeNZdr3st_42.271504_-72.413423@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729762,
-    "wof:geomhash":"c5145c5e889dd7faf1b614dfb442dfe3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf8d4ec1e509bac6263bf373b16beb56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672935353
+        }
+    ],
     "wof:id":672935353,
-    "wof:lastmodified":1472626151,
+    "wof:lastmodified":1492115720,
     "wof:name":"Velocity Machine Tools",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

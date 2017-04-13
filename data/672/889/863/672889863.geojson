@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.707774,42.228639,-71.707774,42.228639",
     "geom:latitude":42.228639,
     "geom:longitude":-71.707774,
@@ -32,17 +33,26 @@
         "drive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16mJ7vyUKojaPs57bC2O9g_42.228639_-71.707774@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728829,
-    "wof:geomhash":"748b05a596dd36b5e79decdc98ef9f81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dc3d2f1ad0cfaed2692ae005a68ed4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524183,
+            "venue_id":672889863
+        }
+    ],
     "wof:id":672889863,
-    "wof:lastmodified":1472626119,
+    "wof:lastmodified":1492119397,
     "wof:name":"Mitchell Brake & Drive Shaft",
     "wof:parent_id":420524183,
     "wof:placetype":"venue",

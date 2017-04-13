@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.80813,42.176964,-71.80813,42.176964",
     "geom:latitude":42.176964,
     "geom:longitude":-71.80813,
@@ -31,17 +32,26 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HtLYNCWmFrtoTP1hzG82a_42.176964_-71.808130@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732378,
-    "wof:geomhash":"714f11185eb55256c5e740c6912db1dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1059c0f2220dadf3f9516b0d29e7cf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":673032387
+        }
+    ],
     "wof:id":673032387,
-    "wof:lastmodified":1472625056,
+    "wof:lastmodified":1492103009,
     "wof:name":"Pearson's Elmhurst Dairy",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

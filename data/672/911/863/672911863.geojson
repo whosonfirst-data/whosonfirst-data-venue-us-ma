@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.388069,42.642362,-71.388069,42.642362",
     "geom:latitude":42.642362,
     "geom:longitude":-71.388069,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aur8YVBYf0tyKZ8aNC0Tl_42.642362_-71.388069@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729279,
-    "wof:geomhash":"be613d0d5ce7f7c64ce6d195ec90aa4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8cef0a68316c4a51971c27950daa0b98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672911863
+        }
+    ],
     "wof:id":672911863,
-    "wof:lastmodified":1472626137,
+    "wof:lastmodified":1492115422,
     "wof:name":"Merrill Building & Remodeling",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

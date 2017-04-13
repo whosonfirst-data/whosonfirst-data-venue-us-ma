@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.968878,41.806384,-70.968878,41.806384",
     "geom:latitude":41.806384,
     "geom:longitude":-70.968878,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VZjeF0cWxVaVJzno0Oeir_41.806384_-70.968878@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720783,
-    "wof:geomhash":"7fbb49c2e8c961a0bf85b30bff476df0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0813e1144305b05bcdabeda39ca77342",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523853,
+            "venue_id":672517529
+        }
+    ],
     "wof:id":672517529,
-    "wof:lastmodified":1472625779,
+    "wof:lastmodified":1492116024,
     "wof:name":"No Name Inc",
     "wof:parent_id":420523853,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.786183,41.93909,-70.786183,41.93909",
     "geom:latitude":41.93909,
     "geom:longitude":-70.786183,
@@ -38,17 +39,26 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oEu47SQDJsqgwEiXMQl3k_41.939090_-70.786183@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740996,
-    "wof:geomhash":"61316e4b18808e2e19357d12dfa1a2d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e61f1706598a3de073958e97ec7475e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152639
+        }
+    ],
     "wof:id":689152639,
-    "wof:lastmodified":1472625509,
+    "wof:lastmodified":1492101012,
     "wof:name":"Colonial Realty Group",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

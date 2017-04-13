@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.620905,41.627922,-70.620905,41.627922",
     "geom:latitude":41.627922,
     "geom:longitude":-70.620905,
@@ -32,17 +33,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3W8Ts3Wgxp3HDviziJ8vqW_41.627922_-70.620905@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725890,
-    "wof:geomhash":"e1ce8969805532f57898192ed6f11e94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2658d05239cf5af40276dda34ccecd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672747457
+        }
+    ],
     "wof:id":672747457,
-    "wof:lastmodified":1472625982,
+    "wof:lastmodified":1492107911,
     "wof:name":"Maone Consulting Svc Inc",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

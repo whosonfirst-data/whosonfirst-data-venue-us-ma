@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.898442,42.059052,-70.898442,42.059052",
     "geom:latitude":42.059052,
     "geom:longitude":-70.898442,
@@ -32,17 +33,26 @@
         "skid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6e3ZyoWzvfdeE8TEUuQruT_42.059052_-70.898442@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721623,
-    "wof:geomhash":"371584c7e42ce24c30f43700291b9eed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19c0e4277cb3bf5e95b1c0ef045ebb72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":672557043
+        }
+    ],
     "wof:id":672557043,
-    "wof:lastmodified":1472625803,
+    "wof:lastmodified":1492116389,
     "wof:name":"PM Recycling",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

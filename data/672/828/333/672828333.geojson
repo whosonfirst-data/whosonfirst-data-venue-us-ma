@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.355991,42.321595,-71.355991,42.321595",
     "geom:latitude":42.321595,
     "geom:longitude":-71.355991,
@@ -32,17 +33,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476463,
+        85633793,
+        85950623,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vbmhBLdb3B5QODziDozq6_42.321595_-71.355991@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727571,
-    "wof:geomhash":"070e7c67065ed2fef725672bd54ea135",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c39134c385499e6806e49bdc3ef5af48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476463,
+            "locality_id":85950623,
+            "region_id":85688645,
+            "venue_id":672828333
+        }
+    ],
     "wof:id":672828333,
-    "wof:lastmodified":1472626052,
+    "wof:lastmodified":1492109324,
     "wof:name":"Sunrise Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

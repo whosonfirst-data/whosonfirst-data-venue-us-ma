@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.813661,42.261442,-70.813661,42.261442",
     "geom:latitude":42.261442,
     "geom:longitude":-70.813661,
@@ -31,17 +32,26 @@
         "theatrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SjlnaAWclFN67LwKD6Dkx_42.261442_-70.813661@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725942,
-    "wof:geomhash":"3e13d69e56e23b63580d319a77783ac8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c5979cd5114a40db32f713bcc427541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523765,
+            "venue_id":672750113
+        }
+    ],
     "wof:id":672750113,
-    "wof:lastmodified":1472625976,
+    "wof:lastmodified":1492107693,
     "wof:name":"Beach House Records",
     "wof:parent_id":420523765,
     "wof:placetype":"venue",

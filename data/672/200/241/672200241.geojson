@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.893059,41.658187,-70.893059,41.658187",
     "geom:latitude":41.658187,
     "geom:longitude":-70.893059,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AXJOk45Rzm3QOpO6PXS4N_41.658187_-70.893059@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713566,
-    "wof:geomhash":"3f9d239c4c7826995e8d2d0acffb7f51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ef297ddc1f7e18b772b283fbf3dc6b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672200241
+        }
+    ],
     "wof:id":672200241,
-    "wof:lastmodified":1472625138,
+    "wof:lastmodified":1492108654,
     "wof:name":"Rock Plumbing & Heating",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

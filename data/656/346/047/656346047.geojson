@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.075123,42.024048,-71.075123,42.024048",
     "geom:latitude":42.024048,
     "geom:longitude":-71.075123,
@@ -29,19 +30,28 @@
     "sg:province":"MA",
     "sg:website":"www.holycrosseaston.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lA7HgJ4mGoAlHhWDIOFbE_42.024048_-71.075123@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461710869,
-    "wof:geomhash":"9d02ca260db588221950da95fad7bb25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a782652f32ccd190f4b340cbb04c0224",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523987,
+            "venue_id":656346047
+        }
+    ],
     "wof:id":656346047,
-    "wof:lastmodified":1472624900,
+    "wof:lastmodified":1492102036,
     "wof:name":"Holy Cross Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

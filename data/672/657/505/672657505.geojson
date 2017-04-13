@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.073059,41.671359,-70.073059,41.671359",
     "geom:latitude":41.671359,
     "geom:longitude":-70.073059,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476183,
+        85633793,
+        85950559,
+        102084379
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02QHOfVqYQIIAaStw1zq7v_41.671359_-70.073059@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723886,
-    "wof:geomhash":"977f895ce8c71985597719219f99b6a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce81a4e85c0012bafef3fb401cef35ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404476183,
+            "locality_id":85950559,
+            "region_id":85688645,
+            "venue_id":672657505
+        }
+    ],
     "wof:id":672657505,
-    "wof:lastmodified":1472625905,
+    "wof:lastmodified":1492111966,
     "wof:name":"Home Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

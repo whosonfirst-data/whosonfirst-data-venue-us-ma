@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.991457,41.851807,-70.991457,41.851807",
     "geom:latitude":41.851807,
     "geom:longitude":-70.991457,
@@ -31,17 +32,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476147,
+        85633793,
+        85950365,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47UUXX9xPuTUPmUAX2CvNm_41.851807_-70.991457@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721109,
-    "wof:geomhash":"e3d909ba003b39af30308fc2877245b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d99933db90c20fdedb7d286711ca7640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476147,
+            "locality_id":85950365,
+            "region_id":85688645,
+            "venue_id":672532241
+        }
+    ],
     "wof:id":672532241,
-    "wof:lastmodified":1472625787,
+    "wof:lastmodified":1492114236,
     "wof:name":"Northeast Property Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

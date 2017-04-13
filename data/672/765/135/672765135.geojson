@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.227712,41.680345,-70.227712,41.680345",
     "geom:latitude":41.680345,
     "geom:longitude":-70.227712,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cT2hoFOkqiePf8hjBTagE_41.680345_-70.227712@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726261,
-    "wof:geomhash":"c9aac2451e1ccdcd02fbf9371be2ccef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0f19ab10d26c8aa34acc35ae2f71189",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672765135
+        }
+    ],
     "wof:id":672765135,
-    "wof:lastmodified":1472625989,
+    "wof:lastmodified":1492109578,
     "wof:name":"Takis Pizza",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

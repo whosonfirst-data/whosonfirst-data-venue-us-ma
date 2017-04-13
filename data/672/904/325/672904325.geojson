@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.645315,42.151558,-71.645315,42.151558",
     "geom:latitude":42.151558,
     "geom:longitude":-71.645315,
@@ -31,17 +32,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YwNkoSalO6mtp3i8eb3Z5_42.151558_-71.645315@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729106,
-    "wof:geomhash":"7e1d49d0955f9f07006466e93f47ad33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d89cf03507228a096bb477f08342891e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524115,
+            "venue_id":672904325
+        }
+    ],
     "wof:id":672904325,
-    "wof:lastmodified":1472626121,
+    "wof:lastmodified":1492105762,
     "wof:name":"Crystal Gas",
     "wof:parent_id":420524115,
     "wof:placetype":"venue",

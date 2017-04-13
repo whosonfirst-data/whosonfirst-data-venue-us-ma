@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.22763,41.679665,-70.22763,41.679665",
     "geom:latitude":41.679665,
     "geom:longitude":-70.22763,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_424e2ck37SNIMpMwjfYZb8_41.679665_-70.227630@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731119,
-    "wof:geomhash":"8333f5ef353fdc5998603e4d10d760b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f6e5aed89db7dda17aa40a6e93cc478",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672983051
+        }
+    ],
     "wof:id":672983051,
-    "wof:lastmodified":1472626186,
+    "wof:lastmodified":1492106376,
     "wof:name":"Grange Construction",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

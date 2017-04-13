@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.761744,42.436565,-71.761744,42.436565",
     "geom:latitude":42.436565,
     "geom:longitude":-71.761744,
@@ -32,17 +33,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EVN1TtjK1wW3ojGPFjw49_42.436565_-71.761744@1303262187"
     },
     "wof:country":"US",
     "wof:created":1461734349,
-    "wof:geomhash":"d86def8ccc8155ceec7152523f348f13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2b96647ae7465fa0a691de9b5d8474e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":673127815
+        }
+    ],
     "wof:id":673127815,
-    "wof:lastmodified":1472625357,
+    "wof:lastmodified":1492104748,
     "wof:name":"Apple Town Market Inc",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

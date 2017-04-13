@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.612928,42.179895,-72.612928,42.179895",
     "geom:latitude":42.179895,
     "geom:longitude":-72.612928,
@@ -34,16 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837495,
+        85850699,
         102191575,
-        404476347,
+        404476357,
         85633793,
-        85950397,
+        85950395,
         102084627,
         85688645,
-        85850699,
-        404476357,
-        85950395
+        85837495,
+        404476347,
+        85950397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,18 +52,8 @@
     },
     "wof:country":"US",
     "wof:created":1461712276,
-    "wof:geomhash":"3f852068e0b5cb0b0b96816fd2d99e0e",
+    "wof:geomhash":"850de8840b656fef1a30f45513c167bb",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084627,
-            "localadmin_id":404476347,
-            "locality_id":85950397,
-            "neighbourhood_id":85837495,
-            "region_id":85688645,
-            "venue_id":672141175
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -72,12 +63,22 @@
             "neighbourhood_id":85850699,
             "region_id":85688645,
             "venue_id":672141175
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "neighbourhood_id":85837495,
+            "region_id":85688645,
+            "venue_id":672141175
         }
     ],
     "wof:id":672141175,
-    "wof:lastmodified":1472624908,
+    "wof:lastmodified":1492115553,
     "wof:name":"Discount Auto Glass",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

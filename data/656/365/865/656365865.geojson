@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.714258,41.93157,-70.714258,41.93157",
     "geom:latitude":41.93157,
     "geom:longitude":-70.714258,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PgBsVI9Flug2TOxvODsh0_41.931570_-70.714258@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711289,
-    "wof:geomhash":"904bcbe6df789972d7603610a6cbc53d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a016f77a9072a98b4f8ce00be95b3885",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":656365865
+        }
+    ],
     "wof:id":656365865,
-    "wof:lastmodified":1472624971,
+    "wof:lastmodified":1492101765,
     "wof:name":"Pomarole Electric",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

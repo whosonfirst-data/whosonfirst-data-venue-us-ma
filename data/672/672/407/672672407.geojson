@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.132825,42.140071,-71.132825,42.140071",
     "geom:latitude":42.140071,
     "geom:longitude":-71.132825,
@@ -31,17 +32,26 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zdm30tfx9LSlPBW8Ug7VQ_42.140071_-71.132825@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724209,
-    "wof:geomhash":"2743d560a410fa7824fec915c19bdc96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0dc3ed680aade2d5910b696f19d9bdda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672672407
+        }
+    ],
     "wof:id":672672407,
-    "wof:lastmodified":1472625917,
+    "wof:lastmodified":1492116315,
     "wof:name":"Canton Consulting of Mass",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

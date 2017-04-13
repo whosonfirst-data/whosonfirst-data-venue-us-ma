@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.001215,42.416491,-71.001215,42.416491",
     "geom:latitude":42.416491,
     "geom:longitude":-71.001215,
@@ -38,7 +39,8 @@
         85633793,
         85950357,
         102084423,
-        85688645
+        85688645,
+        85891489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721789,
-    "wof:geomhash":"66cd84a1df5979b270b24c25da99e0d3",
+    "wof:geomhash":"deeccbc2dc2c42de9042414e4c9ef397",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85812837,
             "region_id":85688645,
             "venue_id":672563641
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476577,
+            "locality_id":85950357,
+            "neighbourhood_id":85891489,
+            "region_id":85688645,
+            "venue_id":672563641
         }
     ],
     "wof:id":672563641,
-    "wof:lastmodified":1472625821,
+    "wof:lastmodified":1492116745,
     "wof:name":"Paul Revere Press Inc",
-    "wof:parent_id":85812837,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

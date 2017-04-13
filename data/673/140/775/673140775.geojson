@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.602883,42.432339,-71.602883,42.432339",
     "geom:latitude":42.432339,
     "geom:longitude":-71.602883,
@@ -37,17 +38,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3U98ik60xMX9G9PIyGAkir_42.432339_-71.602883@1303262188"
     },
     "wof:country":"US",
     "wof:created":1461734607,
-    "wof:geomhash":"7bb766dbe4d3805ee05709c29bba8ed3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b0907ae161c29c6d18f6e21afd10771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":673140775
+        }
+    ],
     "wof:id":673140775,
-    "wof:lastmodified":1472625402,
+    "wof:lastmodified":1492104690,
     "wof:name":"Salt Box Country Store",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

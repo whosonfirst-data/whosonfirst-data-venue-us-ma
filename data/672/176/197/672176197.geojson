@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.726305,42.394688,-72.726305,42.394688",
     "geom:latitude":42.394688,
     "geom:longitude":-72.726305,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2r8aobgIL6S8x87BSMTyK0_42.394688_-72.726305@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713039,
-    "wof:geomhash":"3fead82b5134698297d85db6a0a5e759",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9b0cf8a52055d0adcd54fd937db7efe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523635,
+            "venue_id":672176197
+        }
+    ],
     "wof:id":672176197,
-    "wof:lastmodified":1472625053,
+    "wof:lastmodified":1492106871,
     "wof:name":"Nash Hill Place Apartments",
     "wof:parent_id":420523635,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.228093,41.682002,-70.228093,41.682002",
     "geom:latitude":41.682002,
     "geom:longitude":-70.228093,
@@ -31,17 +32,26 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rdtYxrJADoAnGrw9GfF8A_41.682002_-70.228093@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724985,
-    "wof:geomhash":"3a846678b07cba004e9a0cee7e05ea36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22c91a57cc595de95090d2c86e42604b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672705511
+        }
+    ],
     "wof:id":672705511,
-    "wof:lastmodified":1472625947,
+    "wof:lastmodified":1492106630,
     "wof:name":"Robert's Dry Cleaners",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

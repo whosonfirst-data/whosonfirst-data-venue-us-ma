@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.840681,42.189885,-71.840681,42.189885",
     "geom:latitude":42.189885,
     "geom:longitude":-71.840681,
@@ -38,19 +39,38 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85815289,
+        102084655,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SkNBoQKK7ghVn3t3Ol0sh_42.189885_-71.840681@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718585,
-    "wof:geomhash":"1bc0d7e309d5f05da33788fc486c0e28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49e8106537f60c36b6b1cf1821335e89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85815289,
+            "region_id":85688645,
+            "venue_id":672427423
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672427423
+        }
+    ],
     "wof:id":672427423,
-    "wof:lastmodified":1472625693,
+    "wof:lastmodified":1492110851,
     "wof:name":"Merchant Software Plus Inc",
-    "wof:parent_id":420524071,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

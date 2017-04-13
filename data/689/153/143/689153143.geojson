@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.797547,41.895762,-70.797547,41.895762",
     "geom:latitude":41.895762,
     "geom:longitude":-70.797547,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tLp2FowHkZPFIhQ719w8k_41.895762_-70.797547@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741010,
-    "wof:geomhash":"2af4e5203819a8a28f364e1a62098f0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a21a19d8f7a163525b7f9868f7c8d8f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689153143
+        }
+    ],
     "wof:id":689153143,
-    "wof:lastmodified":1472625493,
+    "wof:lastmodified":1492097472,
     "wof:name":"ABC Well Pump Repair & Service",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

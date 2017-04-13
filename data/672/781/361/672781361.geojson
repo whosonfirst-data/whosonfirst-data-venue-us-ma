@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.063374,42.728987,-71.063374,42.728987",
     "geom:latitude":42.728987,
     "geom:longitude":-71.063374,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OtujtqjSY4LpMxgO5rivB_42.728987_-71.063374@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726610,
-    "wof:geomhash":"e81fd8a2ef9f60b39cc6a79aa6b0afc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"334782c25854e99e91d6ca30db1bea88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672781361
+        }
+    ],
     "wof:id":672781361,
-    "wof:lastmodified":1472626013,
+    "wof:lastmodified":1492107989,
     "wof:name":"Barker Electric Svc Inc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

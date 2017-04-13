@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.098505,41.274353,-70.098505,41.274353",
     "geom:latitude":41.274353,
     "geom:longitude":-70.098505,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834819,
+        85834175,
         102191575,
         404476421,
         85633793,
         85950503,
         102084641,
-        85688645
+        85688645,
+        85834819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461711190,
-    "wof:geomhash":"602f47ee62d8cab18ec2fbf272dcd012",
+    "wof:geomhash":"94ac49aaaf19438e35b919c7616b369e",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084641,
+            "localadmin_id":404476421,
+            "locality_id":85950503,
+            "neighbourhood_id":85834175,
+            "region_id":85688645,
+            "venue_id":656361139
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":656361139,
-    "wof:lastmodified":1472624920,
+    "wof:lastmodified":1492101905,
     "wof:name":"Christopher F Holland & Assoc",
-    "wof:parent_id":85834819,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

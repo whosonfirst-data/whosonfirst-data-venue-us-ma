@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.61374,41.665968,-70.61374,41.665968",
     "geom:latitude":41.665968,
     "geom:longitude":-70.61374,
@@ -33,17 +34,26 @@
         "art"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gwRkZ1LWZgezp5mhgy4xx_41.665968_-70.613740@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723993,
-    "wof:geomhash":"1e06d45cb64507e0271d1472ca2b67a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dde83bb334621155338c4085bdd2b2c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523215,
+            "venue_id":672661977
+        }
+    ],
     "wof:id":672661977,
-    "wof:lastmodified":1472625911,
+    "wof:lastmodified":1492106799,
     "wof:name":"Cataumet Arts Ctr",
     "wof:parent_id":420523215,
     "wof:placetype":"venue",

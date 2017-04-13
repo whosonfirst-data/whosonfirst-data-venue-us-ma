@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.34431,42.02323,-71.34431,42.02323",
     "geom:latitude":42.02323,
     "geom:longitude":-71.34431,
@@ -36,7 +37,9 @@
         85688645,
         85633793,
         85857773,
-        102084407
+        102084407,
+        85854433,
+        102084403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722699,
-    "wof:geomhash":"885f79bb54fe569333e76fac2b4413e3",
+    "wof:geomhash":"5fb9891290dac2250916d9f39882e919",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +55,19 @@
             "neighbourhood_id":85857773,
             "region_id":85688645,
             "venue_id":672604431
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85854433,
+            "region_id":85688645,
+            "venue_id":672604431
         }
     ],
     "wof:id":672604431,
-    "wof:lastmodified":1472625856,
+    "wof:lastmodified":1492109034,
     "wof:name":"Park Terrace Swim Club",
-    "wof:parent_id":85857773,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.043797,42.693804,-72.043797,42.693804",
     "geom:latitude":42.693804,
     "geom:longitude":-72.043797,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6apJzwKBcbQqSrrrFTehNR_42.693804_-72.043797@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727241,
-    "wof:geomhash":"355e15fa46e8e62f696c69865848dd26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19e95a45e8cb929fe9ea13090ffded3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":672812123
+        }
+    ],
     "wof:id":672812123,
-    "wof:lastmodified":1472626037,
+    "wof:lastmodified":1492109097,
     "wof:name":"Gardner Pumping Station",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

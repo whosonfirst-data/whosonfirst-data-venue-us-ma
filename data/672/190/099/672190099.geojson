@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.333526,42.698675,-72.333526,42.698675",
     "geom:latitude":42.698675,
     "geom:longitude":-72.333526,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523517
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2extjYUgVxUuTyyD7ROa1f_42.698675_-72.333526@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713336,
-    "wof:geomhash":"a57bb9f75fbc591fe95ec923eee8ad7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7340e108bbd8949db8bd13546943c8bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523517,
+            "venue_id":672190099
+        }
+    ],
     "wof:id":672190099,
-    "wof:lastmodified":1472625129,
+    "wof:lastmodified":1492113113,
     "wof:name":"Joe Pauls Home Improvements",
     "wof:parent_id":420523517,
     "wof:placetype":"venue",

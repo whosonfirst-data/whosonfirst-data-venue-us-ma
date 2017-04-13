@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.87989,41.774403,-70.87989,41.774403",
     "geom:latitude":41.774403,
     "geom:longitude":-70.87989,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mpxYvl2m0JawZRMitpA0o_41.774403_-70.879890@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731984,
-    "wof:geomhash":"404ff7f0c5d7d184d6a941acc09812c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17541f0908c05c539fd7d0e3364332e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523917,
+            "venue_id":673017083
+        }
+    ],
     "wof:id":673017083,
-    "wof:lastmodified":1472624980,
+    "wof:lastmodified":1492103166,
     "wof:name":"Whispering Willows Salon",
     "wof:parent_id":420523917,
     "wof:placetype":"venue",

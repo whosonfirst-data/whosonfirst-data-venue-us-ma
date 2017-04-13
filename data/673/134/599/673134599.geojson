@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.955887,42.282089,-71.955887,42.282089",
     "geom:latitude":42.282089,
     "geom:longitude":-71.955887,
@@ -38,17 +39,26 @@
         "convention"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pyBl5MQmDQme5APZ79mnY_42.282089_-71.955887@1303262188"
     },
     "wof:country":"US",
     "wof:created":1461734482,
-    "wof:geomhash":"b75d780c2077ab48a8990c48a1b5cab0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce4f00988cc84b1f9348816a84c57825",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":673134599
+        }
+    ],
     "wof:id":673134599,
-    "wof:lastmodified":1472625382,
+    "wof:lastmodified":1492103038,
     "wof:name":"Iht Services",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

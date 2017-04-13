@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.90478,41.716987,-70.90478,41.716987",
     "geom:latitude":41.716987,
     "geom:longitude":-70.90478,
@@ -35,17 +36,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QixJJzXkT9C6RE8qA3Zce_41.716987_-70.904780@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726043,
-    "wof:geomhash":"1a0e6f4d7595a5cba664a32ca6a2ba35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00e8961683e14bd58ee91d7173e7deb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672755335
+        }
+    ],
     "wof:id":672755335,
-    "wof:lastmodified":1472625990,
+    "wof:lastmodified":1492113191,
     "wof:name":"Pine Hill Farm",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

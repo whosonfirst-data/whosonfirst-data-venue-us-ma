@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.958242,42.256513,-71.958242,42.256513",
     "geom:latitude":42.256513,
     "geom:longitude":-71.958242,
@@ -35,17 +36,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KoYRCXZYLhIj40626HlWs_42.256513_-71.958242@1303262187"
     },
     "wof:country":"US",
     "wof:created":1461734337,
-    "wof:geomhash":"2b72d816df6b327be22a7275ceb56ad6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e82d60a13b9e2c87e11dc17e3b26e65f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":673127245
+        }
+    ],
     "wof:id":673127245,
-    "wof:lastmodified":1472625338,
+    "wof:lastmodified":1492104746,
     "wof:name":"Fallon Clinic",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

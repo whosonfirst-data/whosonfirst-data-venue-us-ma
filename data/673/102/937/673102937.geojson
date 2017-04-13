@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.357819,42.107578,-72.357819,42.107578",
     "geom:latitude":42.107578,
     "geom:longitude":-72.357819,
@@ -31,17 +32,26 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16oP9wNwjrm57PTxCcZrjM_42.107578_-72.357819@1303262184"
     },
     "wof:country":"US",
     "wof:created":1461733828,
-    "wof:geomhash":"69b49aa8eea34b4f41145cb823b222f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75d679b8f3d2e9b683617d17988cb1a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523577,
+            "venue_id":673102937
+        }
+    ],
     "wof:id":673102937,
-    "wof:lastmodified":1472625304,
+    "wof:lastmodified":1492104760,
     "wof:name":"Bill's Carpentry",
     "wof:parent_id":420523577,
     "wof:placetype":"venue",

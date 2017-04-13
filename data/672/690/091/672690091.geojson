@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.73854,42.409403,-71.73854,42.409403",
     "geom:latitude":42.409403,
     "geom:longitude":-71.73854,
@@ -31,17 +32,26 @@
         "basket"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55Dti1FoCCfiSZbGWYq8HM_42.409403_-71.738540@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724642,
-    "wof:geomhash":"62d07e19b33bbb205fe8204731005cb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6313658dcf7ac104b8cbf0249812e7e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":672690091
+        }
+    ],
     "wof:id":672690091,
-    "wof:lastmodified":1472625926,
+    "wof:lastmodified":1492116422,
     "wof:name":"Longaberger",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

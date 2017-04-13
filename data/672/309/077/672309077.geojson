@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.079156,41.655625,-71.079156,41.655625",
     "geom:latitude":41.655625,
     "geom:longitude":-71.079156,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zCuEfNigf29rh1brMh6vC_41.655625_-71.079156@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715781,
-    "wof:geomhash":"2ca148efba82da59549bf274c4394811",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9553afc943c5d29be91fa8cdfb8b70d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672309077
+        }
+    ],
     "wof:id":672309077,
-    "wof:lastmodified":1472625505,
+    "wof:lastmodified":1492111312,
     "wof:name":"Liberty Personnel Assoc Inc",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

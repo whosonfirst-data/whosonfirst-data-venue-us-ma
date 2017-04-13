@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.77024,41.889914,-70.77024,41.889914",
     "geom:latitude":41.889914,
     "geom:longitude":-70.77024,
@@ -33,17 +34,26 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eDED9ilYR44H5MaMmNeiD_41.889914_-70.770240@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724902,
-    "wof:geomhash":"3841ebebf87f80082bf006d71756408c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6abeca26acc220c66fcca7c11afc3a0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":672701851
+        }
+    ],
     "wof:id":672701851,
-    "wof:lastmodified":1472625951,
+    "wof:lastmodified":1492118286,
     "wof:name":"Carver Town Public Works",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.130922,42.13133,-71.130922,42.13133",
     "geom:latitude":42.13133,
     "geom:longitude":-71.130922,
@@ -31,17 +32,26 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14BHaBBOGK5nIacP3PIw9v_42.131330_-71.130922@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736300,
-    "wof:geomhash":"55ed25c98545029af65219fba0a0bde9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b8f8ae4b4ccc9ea177c387a524c8571",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688952515
+        }
+    ],
     "wof:id":688952515,
-    "wof:lastmodified":1472625150,
+    "wof:lastmodified":1492120329,
     "wof:name":"A Emergency Locksmith",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

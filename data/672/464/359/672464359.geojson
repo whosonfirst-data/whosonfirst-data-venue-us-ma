@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.830437,41.971714,-70.830437,41.971714",
     "geom:latitude":41.971714,
     "geom:longitude":-70.830437,
@@ -31,17 +32,26 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hmR5D0gKOlpUHI9YlFVXj_41.971714_-70.830437@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719544,
-    "wof:geomhash":"3a1dd862c59d8af5962e1e5293b52742",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee5e15a9b97baa26cc206e823f4e764e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672464359
+        }
+    ],
     "wof:id":672464359,
-    "wof:lastmodified":1472625729,
+    "wof:lastmodified":1492115963,
     "wof:name":"South Shore Equine Clinic",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

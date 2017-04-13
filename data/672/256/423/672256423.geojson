@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.99502,42.722968,-70.99502,42.722968",
     "geom:latitude":42.722968,
     "geom:longitude":-70.99502,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RekjGILEKcqoUVhMsNDui_42.722968_-70.995020@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714736,
-    "wof:geomhash":"598a2567d67a35693b779b3e29a864c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"547cf48f12c321d3f75172f55aeb36a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672256423
+        }
+    ],
     "wof:id":672256423,
-    "wof:lastmodified":1472625347,
+    "wof:lastmodified":1492107472,
     "wof:name":"Elizabeth Hastings",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

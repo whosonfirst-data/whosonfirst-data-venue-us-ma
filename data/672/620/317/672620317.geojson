@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.128571,41.838103,-71.128571,41.838103",
     "geom:latitude":41.838103,
     "geom:longitude":-71.128571,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MVUODyNTYy7fvsghntu4i_41.838103_-71.128571@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723069,
-    "wof:geomhash":"1f009fec14d268cd2ad57c50e3d40f23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"028780ea40d35202b4e0c3023e21fa20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523323,
+            "venue_id":672620317
+        }
+    ],
     "wof:id":672620317,
-    "wof:lastmodified":1472625868,
+    "wof:lastmodified":1492115405,
     "wof:name":"Brady Construction",
     "wof:parent_id":420523323,
     "wof:placetype":"venue",

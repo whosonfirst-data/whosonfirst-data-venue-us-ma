@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.429793,42.406807,-71.429793,42.406807",
     "geom:latitude":42.406807,
     "geom:longitude":-71.429793,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85841853,
-        102084643
+        85836993,
+        102084643,
+        85841853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461724558,
-    "wof:geomhash":"a9bb47b3dbd0e6a8e42d02e7bc123775",
+    "wof:geomhash":"0e358b874e7734b462e2d8c29b5cf8fe",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85836993,
+            "region_id":85688645,
+            "venue_id":672686727
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -54,9 +63,9 @@
         }
     ],
     "wof:id":672686727,
-    "wof:lastmodified":1472625933,
+    "wof:lastmodified":1492106290,
     "wof:name":"Apogee Attractions",
-    "wof:parent_id":85841853,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

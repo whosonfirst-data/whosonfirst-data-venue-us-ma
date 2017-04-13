@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.87744,42.277268,-70.87744,42.277268",
     "geom:latitude":42.277268,
     "geom:longitude":-70.87744,
@@ -32,17 +33,26 @@
         "boat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CimkGN8Ced42ghprzIyGS_42.277268_-70.877440@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731902,
-    "wof:geomhash":"55a1dd83599ea17fdbe8203b94acd6b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ac4525cd5e2618384fb274201f8c339",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523859,
+            "venue_id":673014359
+        }
+    ],
     "wof:id":673014359,
-    "wof:lastmodified":1472624950,
+    "wof:lastmodified":1492103148,
     "wof:name":"Boat Haulers",
     "wof:parent_id":420523859,
     "wof:placetype":"venue",

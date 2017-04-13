@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.953063,41.846298,-70.953063,41.846298",
     "geom:latitude":41.846298,
     "geom:longitude":-70.953063,
@@ -31,17 +32,26 @@
         "classic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49ZmTtwIgWNH1pPFCNR0Ra_41.846298_-70.953063@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711999,
-    "wof:geomhash":"738b2fcd88abc019d7b6c1d57af80627",
-    "wof:hierarchy":[],
+    "wof:geomhash":"229d8a3f40b140f13c4cfc4220750628",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523969,
+            "venue_id":656399213
+        }
+    ],
     "wof:id":656399213,
-    "wof:lastmodified":1472625077,
+    "wof:lastmodified":1492101829,
     "wof:name":"Pete's Model Garage",
     "wof:parent_id":420523969,
     "wof:placetype":"venue",

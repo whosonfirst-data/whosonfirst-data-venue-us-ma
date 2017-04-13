@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.985777,42.020606,-70.985777,42.020606",
     "geom:latitude":42.020606,
     "geom:longitude":-70.985777,
@@ -32,17 +33,26 @@
         "vacuum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mJ9SxTYnMcbxjJ39luF3y_42.020606_-70.985777@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719450,
-    "wof:geomhash":"09c0d3b368fed121aa3efd9f4727b405",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4afafbf4aa647dd56301bbcaef9286a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523939,
+            "venue_id":672460521
+        }
+    ],
     "wof:id":672460521,
-    "wof:lastmodified":1472625727,
+    "wof:lastmodified":1492107657,
     "wof:name":"Electro-Vac",
     "wof:parent_id":420523939,
     "wof:placetype":"venue",

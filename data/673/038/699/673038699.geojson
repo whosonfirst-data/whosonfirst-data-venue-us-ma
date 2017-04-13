@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.710948,42.02455,-70.710948,42.02455",
     "geom:latitude":42.02455,
     "geom:longitude":-70.710948,
@@ -35,17 +36,26 @@
         "telephone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XLyJ2P4PRUDVCaRj9fXXW_42.024226_-70.711205@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732503,
-    "wof:geomhash":"3ea34060660ec205fb0d92eb54948cc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b668637bcdeae8a3d555c3b3ccb0e295",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523827,
+            "venue_id":673038699
+        }
+    ],
     "wof:id":673038699,
-    "wof:lastmodified":1472625087,
+    "wof:lastmodified":1492105188,
     "wof:name":"Verell Marketing Organization",
     "wof:parent_id":420523827,
     "wof:placetype":"venue",

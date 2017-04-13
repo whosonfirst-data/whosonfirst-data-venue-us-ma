@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.918503,42.244368,-70.918503,42.244368",
     "geom:latitude":42.244368,
     "geom:longitude":-70.918503,
@@ -33,7 +34,8 @@
         85633793,
         85950451,
         102084367,
-        85855681
+        85855681,
+        85830605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461720883,
-    "wof:geomhash":"1b020876719dc43bd9ae6d25ef8f6f50",
+    "wof:geomhash":"edc46fdfec4bd4ffa9d733a39a45d9b6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +52,19 @@
             "neighbourhood_id":85855681,
             "region_id":85688645,
             "venue_id":672522271
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85830605,
+            "region_id":85688645,
+            "venue_id":672522271
         }
     ],
     "wof:id":672522271,
-    "wof:lastmodified":1472625777,
+    "wof:lastmodified":1492113768,
     "wof:name":"Talbots Ma",
-    "wof:parent_id":85855681,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

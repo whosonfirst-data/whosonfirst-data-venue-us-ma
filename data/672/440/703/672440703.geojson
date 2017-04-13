@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.890736,41.651333,-70.890736,41.651333",
     "geom:latitude":41.651333,
     "geom:longitude":-70.890736,
@@ -31,17 +32,26 @@
         "chlorine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TPqrwf9II1tQpW9J8aWbd_41.651333_-70.890736@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718920,
-    "wof:geomhash":"02c6173a19ecb9fdf075a8e5c89f7400",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e9dfeafb811d33bab7343f8fa176d38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672440703
+        }
+    ],
     "wof:id":672440703,
-    "wof:lastmodified":1472625711,
+    "wof:lastmodified":1492114416,
     "wof:name":"National Bleach & Chlorine",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

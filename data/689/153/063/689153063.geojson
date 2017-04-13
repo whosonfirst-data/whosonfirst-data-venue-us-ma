@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.7994,41.9016,-70.7994,41.9016",
     "geom:latitude":41.9016,
     "geom:longitude":-70.7994,
@@ -31,17 +32,26 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tM3Xm8p9znsUwI5myrN0X_41.901600_-70.799400@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741009,
-    "wof:geomhash":"1a48338a558583933a49c69c50d8ca5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1469010ae7071bc7e2969bbbb0104ab6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689153063
+        }
+    ],
     "wof:id":689153063,
-    "wof:lastmodified":1472625489,
+    "wof:lastmodified":1492097482,
     "wof:name":"East Coast Carpet Care",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

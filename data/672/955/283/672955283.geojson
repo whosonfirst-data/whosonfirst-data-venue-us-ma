@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.04188,42.692371,-72.04188,42.692371",
     "geom:latitude":42.692371,
     "geom:longitude":-72.04188,
@@ -32,17 +33,26 @@
         "burner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_503RdjAh3TzLkYbB61mayg_42.692371_-72.041880@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730279,
-    "wof:geomhash":"17b10dc2b230d70cae07c39151312027",
-    "wof:hierarchy":[],
+    "wof:geomhash":"439923d18e2be60bc3073b7e9f67c93f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":672955283
+        }
+    ],
     "wof:id":672955283,
-    "wof:lastmodified":1472626163,
+    "wof:lastmodified":1492111459,
     "wof:name":"Bruce's Burner Svc",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

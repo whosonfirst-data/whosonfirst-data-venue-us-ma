@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.856408,42.347726,-71.856408,42.347726",
     "geom:latitude":42.347726,
     "geom:longitude":-71.856408,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5f8jkUHCwzNDLlOakP2SkR_42.347726_-71.856408@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724262,
-    "wof:geomhash":"d4a5cfb23a23d2fdfc0d5ab8a71e356d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f4d8c61535dd61b1106b07295cad535",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":672674719
+        }
+    ],
     "wof:id":672674719,
-    "wof:lastmodified":1472625927,
+    "wof:lastmodified":1492108353,
     "wof:name":"Nentwich & Ryder",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

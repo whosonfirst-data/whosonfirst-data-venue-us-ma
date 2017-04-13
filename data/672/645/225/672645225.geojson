@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.330344,41.98163,-71.330344,41.98163",
     "geom:latitude":41.98163,
     "geom:longitude":-71.330344,
@@ -33,17 +34,32 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476133,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03dQH6vwqSAwNb7lQHRnNF_41.981630_-71.330344@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723612,
-    "wof:geomhash":"7e1f1bf501778d61e6c7434e1fdd18aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7d14f092cda42011e3f75efc7c0d446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476133,
+            "region_id":85688645,
+            "venue_id":672645225
+        }
+    ],
     "wof:id":672645225,
-    "wof:lastmodified":1472625888,
+    "wof:lastmodified":1492110674,
     "wof:name":"North Attleboro Emergency Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.0174,41.904496,-71.0174,41.904496",
     "geom:latitude":41.904496,
     "geom:longitude":-71.0174,
@@ -26,17 +27,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476139,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tefyH8LJEX22o93IxCXZa_41.904496_-71.017400@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461733099,
-    "wof:geomhash":"e13ae153c9df6bdd40205d3cadcbc72b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b642536a648a4e0dfc7807242144c5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476139,
+            "region_id":85688645,
+            "venue_id":673067917
+        }
+    ],
     "wof:id":673067917,
-    "wof:lastmodified":1472625196,
+    "wof:lastmodified":1492103768,
     "wof:name":"Gas Forty-Four",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

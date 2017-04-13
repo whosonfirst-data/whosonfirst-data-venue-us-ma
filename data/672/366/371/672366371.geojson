@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.085011,41.632411,-71.085011,41.632411",
     "geom:latitude":41.632411,
     "geom:longitude":-71.085011,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XX0Q9tqt7la91BrTwsUx8_41.632411_-71.085011@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717123,
-    "wof:geomhash":"404df3fd901134959e0c52bc12f8ac26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b341bb22f89a60d3fb8378924a3d42a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523343,
+            "venue_id":672366371
+        }
+    ],
     "wof:id":672366371,
-    "wof:lastmodified":1472625636,
+    "wof:lastmodified":1492113463,
     "wof:name":"Zibra Corp",
     "wof:parent_id":420523343,
     "wof:placetype":"venue",

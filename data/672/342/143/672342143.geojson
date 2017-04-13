@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.724385,41.91812,-70.724385,41.91812",
     "geom:latitude":41.91812,
     "geom:longitude":-70.724385,
@@ -28,17 +29,26 @@
     "sg:postcode":"02360",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jtz7bCwZ2VojdLUcDzqkY_41.918120_-70.724385@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716547,
-    "wof:geomhash":"cd052a9f906e89deec24199d5fd7aac5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36de0140d16ccea65e42ecb499aa71da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672342143
+        }
+    ],
     "wof:id":672342143,
-    "wof:lastmodified":1472625571,
+    "wof:lastmodified":1492119631,
     "wof:name":"South Meadow Property",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

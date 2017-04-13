@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.521324,41.766875,-70.521324,41.766875",
     "geom:latitude":41.766875,
     "geom:longitude":-70.521324,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85852115,
+        102191575,
+        404476193,
         85633793,
         85950591,
         102084379,
-        85852115
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1461712192,
-    "wof:geomhash":"42d243f68ac67fc25e764c2a6ce92b34",
+    "wof:geomhash":"82c4877d3e9d26fd40debb8fbaf5961c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084379,
+            "localadmin_id":404476193,
             "locality_id":85950591,
             "neighbourhood_id":85852115,
             "region_id":85688645,
@@ -56,9 +61,9 @@
         }
     ],
     "wof:id":672137573,
-    "wof:lastmodified":1472624906,
+    "wof:lastmodified":1492110599,
     "wof:name":"Yellow Pages Of Cape Cod",
-    "wof:parent_id":85852115,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

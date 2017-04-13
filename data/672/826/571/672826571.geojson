@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.79304,41.955851,-70.79304,41.955851",
     "geom:latitude":41.955851,
     "geom:longitude":-70.79304,
@@ -33,17 +34,26 @@
         "grower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pQiH89Il0WEOnkfndhGJV_41.955851_-70.793040@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727528,
-    "wof:geomhash":"da77a27e3947a1b05d8ff6505e589333",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ee6fe382fdecd967afeb57282226aff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":672826571
+        }
+    ],
     "wof:id":672826571,
-    "wof:lastmodified":1472626057,
+    "wof:lastmodified":1492115930,
     "wof:name":"Rocky River Bogs",
     "wof:parent_id":420523949,
     "wof:placetype":"venue",

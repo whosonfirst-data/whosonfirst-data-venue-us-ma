@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.989187,42.732696,-70.989187,42.732696",
     "geom:latitude":42.732696,
     "geom:longitude":-70.989187,
@@ -31,17 +32,26 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Bud3TRS5KXP5KED0kpv12_42.732696_-70.989187@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735268,
-    "wof:geomhash":"63cbc0eca65f72284aa53b1af996c022",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b19e8dce3fa426ab11983018fd4d70e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673172013
+        }
+    ],
     "wof:id":673172013,
-    "wof:lastmodified":1472625457,
+    "wof:lastmodified":1492102565,
     "wof:name":"Al Cappucci",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

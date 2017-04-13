@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.492426,42.366246,-72.492426,42.366246",
     "geom:latitude":42.366246,
     "geom:longitude":-72.492426,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85856105,
+        102084459,
         85834283,
         102191575,
         404476381,
-        85633793,
-        85950863,
-        102084459,
-        85688645
+        85950863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,15 @@
     },
     "wof:country":"US",
     "wof:created":1461713936,
-    "wof:geomhash":"2158ec2282734596e6d582b5e5d5d6d6",
+    "wof:geomhash":"2c693131142b10698094e398ae534ae2",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084459,
+            "neighbourhood_id":85856105,
+            "region_id":85688645,
+            "venue_id":672218221
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +69,9 @@
         }
     ],
     "wof:id":672218221,
-    "wof:lastmodified":1472625229,
+    "wof:lastmodified":1492107645,
     "wof:name":"Alpine Commons Apartments",
-    "wof:parent_id":85834283,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

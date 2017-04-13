@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.552293,41.817793,-70.552293,41.817793",
     "geom:latitude":41.817793,
     "geom:longitude":-70.552293,
@@ -34,17 +35,26 @@
     "sg:province":"MA",
     "sg:website":"www.tresoleil.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03UPPE1Fz3CQDSg3fuPW2U_41.817793_-70.552293@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741181,
-    "wof:geomhash":"f96adbf92b17b4a5100a7d796dd05c5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96ef0a59fcf9b0211e8c8a40d135aa1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":689160675
+        }
+    ],
     "wof:id":689160675,
-    "wof:lastmodified":1472625530,
+    "wof:lastmodified":1492101082,
     "wof:name":"Tresoleil",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

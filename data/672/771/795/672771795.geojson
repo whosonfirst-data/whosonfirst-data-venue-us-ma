@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.977268,42.035363,-70.977268,42.035363",
     "geom:latitude":42.035363,
     "geom:longitude":-70.977268,
@@ -31,17 +32,26 @@
         "reporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ubwVL7S6m5wOQxDbLJ3f3_42.035363_-70.977268@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726408,
-    "wof:geomhash":"06253e9a9e8f7f75c9a8c9101210c52b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"990ef535bb88eba15778f30b9a27a7fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523979,
+            "venue_id":672771795
+        }
+    ],
     "wof:id":672771795,
-    "wof:lastmodified":1472626018,
+    "wof:lastmodified":1492109085,
     "wof:name":"Conant Reporting Services",
     "wof:parent_id":420523979,
     "wof:placetype":"venue",

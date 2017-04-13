@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.744634,41.926641,-70.744634,41.926641",
     "geom:latitude":41.926641,
     "geom:longitude":-70.744634,
@@ -32,17 +33,26 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4t6ROqcrroMa7QHvAVCG0Q_41.926641_-70.744634@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714015,
-    "wof:geomhash":"d0f74a5d44d1d454610a6d5b3a2c2adc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"864c65f4199719b49b1468f5319ac1ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523889,
+            "venue_id":672221991
+        }
+    ],
     "wof:id":672221991,
-    "wof:lastmodified":1472625252,
+    "wof:lastmodified":1492113602,
     "wof:name":"Humor Potential",
     "wof:parent_id":420523889,
     "wof:placetype":"venue",

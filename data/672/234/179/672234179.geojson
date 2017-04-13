@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.039729,42.431579,-71.039729,42.431579",
     "geom:latitude":42.431579,
     "geom:longitude":-71.039729,
@@ -33,19 +34,38 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85832357,
+        102191575,
+        404476399,
+        85633793,
+        85950349,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P5HvfSExZLGdWnqQiPu9i_42.431579_-71.039729@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714274,
-    "wof:geomhash":"44fb2ed98c826293ad76c8b3b6ae5b7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"321bcb8031906c484e9f8d80fb5a56f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476399,
+            "locality_id":85950349,
+            "neighbourhood_id":85832357,
+            "region_id":85688645,
+            "venue_id":672234179
+        }
+    ],
     "wof:id":672234179,
-    "wof:lastmodified":1472625295,
+    "wof:lastmodified":1492106356,
     "wof:name":"Maddy's Dog Grooming",
-    "wof:parent_id":-1,
+    "wof:parent_id":85832357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

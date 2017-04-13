@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.792695,41.903622,-70.792695,41.903622",
     "geom:latitude":41.903622,
     "geom:longitude":-70.792695,
@@ -29,17 +30,26 @@
     "sg:province":"MA",
     "sg:website":"themarketpinehills.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21iWUQk632F1p7KxyzjU3V_41.903622_-70.792695@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741119,
-    "wof:geomhash":"73c04225cc3879201cace22865c69bdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"472fdc6ea018154b27bd2805d292db72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":689157391
+        }
+    ],
     "wof:id":689157391,
-    "wof:lastmodified":1472625516,
+    "wof:lastmodified":1492099703,
     "wof:name":"The Market",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.901021,41.678124,-70.901021,41.678124",
     "geom:latitude":41.678124,
     "geom:longitude":-70.901021,
@@ -34,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
-        85857177,
-        102084407,
         85812593,
         102191575,
         404476163,
-        85950667
+        85633793,
+        85950667,
+        102084407,
+        85688645,
+        85857177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +50,8 @@
     },
     "wof:country":"US",
     "wof:created":1461721984,
-    "wof:geomhash":"1bc8ae603a207f58102a9bbefd54c802",
+    "wof:geomhash":"c8444667181cd79b17864711b240a4d5",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084407,
-            "neighbourhood_id":85857177,
-            "region_id":85688645,
-            "venue_id":672573535
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +61,19 @@
             "neighbourhood_id":85812593,
             "region_id":85688645,
             "venue_id":672573535
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85857177,
+            "region_id":85688645,
+            "venue_id":672573535
         }
     ],
     "wof:id":672573535,
-    "wof:lastmodified":1472625830,
+    "wof:lastmodified":1492116963,
     "wof:name":"Perry's Auto Wrecking",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

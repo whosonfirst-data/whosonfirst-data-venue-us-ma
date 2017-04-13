@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.704826,41.926199,-70.704826,41.926199",
     "geom:latitude":41.926199,
     "geom:longitude":-70.704826,
@@ -31,17 +32,26 @@
         "rehabilitation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IjTYPbf5tOp3S81P0SeJS_41.926199_-70.704826@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718505,
-    "wof:geomhash":"77691b7b402a76334898c0a395d6d3c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"add7649abc3314532ef085c093a76868",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672423881
+        }
+    ],
     "wof:id":672423881,
-    "wof:lastmodified":1472625693,
+    "wof:lastmodified":1492108713,
     "wof:name":"Speech Pathology Assoc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

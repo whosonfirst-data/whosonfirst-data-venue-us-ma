@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.424762,42.258426,-71.424762,42.258426",
     "geom:latitude":42.258426,
     "geom:longitude":-71.424762,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pqNnx0Qp1cMW6GO1uk4eP_42.258426_-71.424762@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715420,
-    "wof:geomhash":"42f768ed6ed335040546af65dd402cdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a362b241fe74ad92be771c214643cab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672290983
+        }
+    ],
     "wof:id":672290983,
-    "wof:lastmodified":1472625483,
+    "wof:lastmodified":1492109348,
     "wof:name":"J C Auto Sales",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.862207,42.068069,-70.862207,42.068069",
     "geom:latitude":42.068069,
     "geom:longitude":-70.862207,
@@ -32,17 +33,26 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WTDqce9bXi5buWfVSC41Y_42.068069_-70.862207@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741049,
-    "wof:geomhash":"befd67c9ab7de4bd87c603fa49985d5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f61b0d745efd8255d2eec33fbc1c6c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523995,
+            "venue_id":689154751
+        }
+    ],
     "wof:id":689154751,
-    "wof:lastmodified":1472625514,
+    "wof:lastmodified":1492098554,
     "wof:name":"James F Mc Dermott",
     "wof:parent_id":420523995,
     "wof:placetype":"venue",

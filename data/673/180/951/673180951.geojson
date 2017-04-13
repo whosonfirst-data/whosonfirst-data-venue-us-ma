@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.403514,42.657506,-71.403514,42.657506",
     "geom:latitude":42.657506,
     "geom:longitude":-71.403514,
@@ -37,17 +38,26 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OrG9ke6UCamLgpu78PuXm_42.657506_-71.403514@1303262194"
     },
     "wof:country":"US",
     "wof:created":1461735450,
-    "wof:geomhash":"6a996e613c199470a9c9dc432cd77e67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"204a136468e59c5ef05b3d490c74c2c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":673180951
+        }
+    ],
     "wof:id":673180951,
-    "wof:lastmodified":1472625529,
+    "wof:lastmodified":1492102816,
     "wof:name":"Republic Mortgage Lending",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

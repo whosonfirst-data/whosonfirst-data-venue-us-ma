@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.285473,42.536362,-71.285473,42.536362",
     "geom:latitude":42.536362,
     "geom:longitude":-71.285473,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85844659,
-        102084643
+        85849469,
+        102084643,
+        85844659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461717078,
-    "wof:geomhash":"43cb25d9ecdeb8d8f2919c1bd60d0c0f",
+    "wof:geomhash":"06f8263b6ce141546c360723e263471a",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85849469,
+            "region_id":85688645,
+            "venue_id":672364299
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":672364299,
-    "wof:lastmodified":1472625634,
+    "wof:lastmodified":1492108275,
     "wof:name":"Keyword Associates Inc",
-    "wof:parent_id":85844659,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

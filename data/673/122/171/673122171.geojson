@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.92743,42.24426,-71.92743,42.24426",
     "geom:latitude":42.24426,
     "geom:longitude":-71.92743,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WMdBAoj5Vje2MuT1wZ82n_42.244260_-71.927430@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734239,
-    "wof:geomhash":"5a7d23a231a6165980090907a0d1d73a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54f85a11621ec419739c4c58d72cfe7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":673122171
+        }
+    ],
     "wof:id":673122171,
-    "wof:lastmodified":1472625336,
+    "wof:lastmodified":1492104009,
     "wof:name":"My Pro Home Repair",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

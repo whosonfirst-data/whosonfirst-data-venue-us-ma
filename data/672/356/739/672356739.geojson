@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.853284,42.344648,-71.853284,42.344648",
     "geom:latitude":42.344648,
     "geom:longitude":-71.853284,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Lva1n5aehHTzaJ9KFkG6L_42.344648_-71.853284@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716898,
-    "wof:geomhash":"42a5a6be51207285075c699284e4fd66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8c492df805a9a3822d1db4d8458c360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":672356739
+        }
+    ],
     "wof:id":672356739,
-    "wof:lastmodified":1472625622,
+    "wof:lastmodified":1492106724,
     "wof:name":"Tidy Offices Inc",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

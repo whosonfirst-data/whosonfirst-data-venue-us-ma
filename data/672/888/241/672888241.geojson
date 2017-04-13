@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.200403,42.461472,-71.200403,42.461472",
     "geom:latitude":42.461472,
     "geom:longitude":-71.200403,
@@ -33,13 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847953,
+        85858943,
         102191575,
-        404476469,
+        404476473,
         85633793,
-        85950353,
+        85950619,
         102084643,
-        85688645
+        85688645,
+        85847953,
+        404476469,
+        85950353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,18 @@
     },
     "wof:country":"US",
     "wof:created":1461728793,
-    "wof:geomhash":"3e4d8eeeba4036e7dc853178204110bb",
+    "wof:geomhash":"596eeaec90c6f6cff0e8d1d9ced07893",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476473,
+            "locality_id":85950619,
+            "neighbourhood_id":85858943,
+            "region_id":85688645,
+            "venue_id":672888241
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +75,9 @@
         }
     ],
     "wof:id":672888241,
-    "wof:lastmodified":1472626106,
+    "wof:lastmodified":1492106824,
     "wof:name":"Eleanor J Collins",
-    "wof:parent_id":85847953,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.808388,42.198845,-71.808388,42.198845",
     "geom:latitude":42.198845,
     "geom:longitude":-71.808388,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2owdTAT10FEIRaMiG81weO_42.198845_-71.808388@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717757,
-    "wof:geomhash":"c6cfb49be025771894d63628d2a61960",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c02bd2b46591ce7523009d929fc6eb0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672394853
+        }
+    ],
     "wof:id":672394853,
-    "wof:lastmodified":1472625666,
+    "wof:lastmodified":1492109543,
     "wof:name":"Stevens & Son Lawn Maintenance",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

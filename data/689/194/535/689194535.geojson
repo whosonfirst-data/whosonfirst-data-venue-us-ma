@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.620903,41.640999,-70.620903,41.640999",
     "geom:latitude":41.640999,
     "geom:longitude":-70.620903,
@@ -32,17 +33,26 @@
         "inspector"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4701WTHooUd1IzgyOvfkzW_41.640999_-70.620903@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741933,
-    "wof:geomhash":"be99a1ef4222cd63d0e2826d92534385",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2bc13d75dc1597725545db8b79263555",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":689194535
+        }
+    ],
     "wof:id":689194535,
-    "wof:lastmodified":1472625593,
+    "wof:lastmodified":1492099910,
     "wof:name":"Certified Inspection",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

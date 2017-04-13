@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.429886,42.250799,-71.429886,42.250799",
     "geom:latitude":42.250799,
     "geom:longitude":-71.429886,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SEig8VxEVZFeHmDfuQAe2_42.250799_-71.429886@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715552,
-    "wof:geomhash":"386effbec0c7ce0d05d23918c9aec554",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f4cdc7916322b7e45fd5852e92f3464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672297131
+        }
+    ],
     "wof:id":672297131,
-    "wof:lastmodified":1472625488,
+    "wof:lastmodified":1492118489,
     "wof:name":"Excel Oil Inc",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

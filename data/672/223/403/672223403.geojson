@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.806566,41.998317,-70.806566,41.998317",
     "geom:latitude":41.998317,
     "geom:longitude":-70.806566,
@@ -31,17 +32,26 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QfVAOVJEqvGsKyvSJ3CRD_41.998317_-70.806566@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714038,
-    "wof:geomhash":"eb965733b67b5d936dba96ed7cd9c3ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64a986c60cef231a67685a1afa09b05f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672223403
+        }
+    ],
     "wof:id":672223403,
-    "wof:lastmodified":1472625241,
+    "wof:lastmodified":1492118250,
     "wof:name":"Michael Kailher Dental Lab",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

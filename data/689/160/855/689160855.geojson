@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.785309,41.993599,-70.785309,41.993599",
     "geom:latitude":41.993599,
     "geom:longitude":-70.785309,
@@ -31,17 +32,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14lXWO8qQhSZjWiIDTxpcO_41.993599_-70.785309@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741185,
-    "wof:geomhash":"a33abfe339298aac9cc63f4c83fb703a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"816bc71ea175210235a65b7484aecb3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689160855
+        }
+    ],
     "wof:id":689160855,
-    "wof:lastmodified":1472625536,
+    "wof:lastmodified":1492101090,
     "wof:name":"Pizza Pizza",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

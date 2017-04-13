@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.622573,41.623623,-70.622573,41.623623",
     "geom:latitude":41.623623,
     "geom:longitude":-70.622573,
@@ -32,17 +33,26 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7K1IOWBKXuNQ0Iu8xJFrUh_41.623623_-70.622573@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729514,
-    "wof:geomhash":"1e9d6f491176e3e804000dbe476f862f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc6ffa11d4de9d14fc6b9a91e8283ba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672924529
+        }
+    ],
     "wof:id":672924529,
-    "wof:lastmodified":1472626141,
+    "wof:lastmodified":1492107349,
     "wof:name":"Lymphatic Therapy Svc",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.579075,42.086421,-72.579075,42.086421",
     "geom:latitude":42.086421,
     "geom:longitude":-72.579075,
@@ -39,7 +40,10 @@
         85633793,
         85950771,
         102084627,
-        85688645
+        85688645,
+        85849631,
+        404476341,
+        85950399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461725941,
-    "wof:geomhash":"673c478988b47ac78d7373d6f6008e05",
+    "wof:geomhash":"f0b5419cc004007c6df89d83955dfa01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +62,22 @@
             "neighbourhood_id":85881109,
             "region_id":85688645,
             "venue_id":672750053
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476341,
+            "locality_id":85950399,
+            "neighbourhood_id":85849631,
+            "region_id":85688645,
+            "venue_id":672750053
         }
     ],
     "wof:id":672750053,
-    "wof:lastmodified":1472625973,
+    "wof:lastmodified":1492107699,
     "wof:name":"Grahams Check Cashing Inc",
-    "wof:parent_id":85881109,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

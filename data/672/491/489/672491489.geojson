@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.875564,41.644632,-70.875564,41.644632",
     "geom:latitude":41.644632,
     "geom:longitude":-70.875564,
@@ -31,17 +32,26 @@
         "sandblasting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MoxCWDKBOI1QyUQamhuKh_41.644632_-70.875564@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720213,
-    "wof:geomhash":"f5a88cad9c259d19a1312ae6a198d157",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cf65d5e96ba7a6c6b861488140ae208",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672491489
+        }
+    ],
     "wof:id":672491489,
-    "wof:lastmodified":1472625757,
+    "wof:lastmodified":1492119016,
     "wof:name":"CRS",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

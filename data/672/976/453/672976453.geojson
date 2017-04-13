@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.947704,41.848231,-70.947704,41.848231",
     "geom:latitude":41.848231,
     "geom:longitude":-70.947704,
@@ -32,17 +33,26 @@
         "taxation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1O6UtsYtjRnZjp6GxpicJx_41.848231_-70.947704@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730951,
-    "wof:geomhash":"3b761752c4557ee53502183af44e8950",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ecc1d5c9d456ff2d36103e2f3a45f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523969,
+            "venue_id":672976453
+        }
+    ],
     "wof:id":672976453,
-    "wof:lastmodified":1472626187,
+    "wof:lastmodified":1492112846,
     "wof:name":"Board Of Assessors",
     "wof:parent_id":420523969,
     "wof:placetype":"venue",

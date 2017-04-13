@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.925892,41.706179,-70.925892,41.706179",
     "geom:latitude":41.706179,
     "geom:longitude":-70.925892,
@@ -31,17 +32,26 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ryUVr9tPdTvivEn2Z32BA_41.706179_-70.925892@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717424,
-    "wof:geomhash":"46c9d7ec0f1c83d1c373031a278652f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3d93931aaa32600dd8f0629c1968006",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":672380153
+        }
+    ],
     "wof:id":672380153,
-    "wof:lastmodified":1472625648,
+    "wof:lastmodified":1492109675,
     "wof:name":"Jj England Corp",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

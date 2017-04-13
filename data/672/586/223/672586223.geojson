@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.091511,41.568166,-71.091511,41.568166",
     "geom:latitude":41.568166,
     "geom:longitude":-71.091511,
@@ -31,17 +32,26 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hLIWYCLrYnxjyZbkFnvP0_41.568166_-71.091511@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722291,
-    "wof:geomhash":"98cf6b681e82076a5dacdf0bf15fe241",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c2c8cc8f870f90daa78050e40f04f21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672586223
+        }
+    ],
     "wof:id":672586223,
-    "wof:lastmodified":1472625821,
+    "wof:lastmodified":1492108416,
     "wof:name":"Brian R Corey Law Office",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

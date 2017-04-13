@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.757507,42.217913,-70.757507,42.217913",
     "geom:latitude":42.217913,
     "geom:longitude":-70.757507,
@@ -46,7 +47,8 @@
         85633793,
         85950475,
         102084367,
-        85688645
+        85688645,
+        420523833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461736256,
-    "wof:geomhash":"4a1bff193e0a65bb8ddb5c0c37b07845",
+    "wof:geomhash":"895668002e6623adacf26427f14cea2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,17 @@
             "neighbourhood_id":85817633,
             "region_id":85688645,
             "venue_id":688950221
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523833,
+            "venue_id":688950221
         }
     ],
     "wof:id":688950221,
-    "wof:lastmodified":1472625120,
+    "wof:lastmodified":1492120794,
     "wof:name":"Atlantic Marine Contractors",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

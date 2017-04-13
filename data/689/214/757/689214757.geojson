@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.888576,41.641428,-70.888576,41.641428",
     "geom:latitude":41.641428,
     "geom:longitude":-70.888576,
@@ -32,17 +33,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FYCzagDrxWnM1mnyds2PG_41.641428_-70.888576@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742358,
-    "wof:geomhash":"04efda1a36214ab4bcc1fb9d89004820",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1352d27dfd7a069eb24384d0f05c86b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":689214757
+        }
+    ],
     "wof:id":689214757,
-    "wof:lastmodified":1472625623,
+    "wof:lastmodified":1492097501,
     "wof:name":"G P Durette Insurance Services Inc New Bedford",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

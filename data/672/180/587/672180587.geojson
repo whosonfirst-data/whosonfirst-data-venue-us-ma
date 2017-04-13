@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.017774,42.733666,-71.017774,42.733666",
     "geom:latitude":42.733666,
     "geom:longitude":-71.017774,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y1m6LhmGa6wCUdcnVU58N_42.733666_-71.017774@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713127,
-    "wof:geomhash":"419c8084a1c5bbf4e3b53e2fc46bb6b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f29cd2295ea2dbcfe20d7e4f443fdb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672180587
+        }
+    ],
     "wof:id":672180587,
-    "wof:lastmodified":1472625114,
+    "wof:lastmodified":1492107234,
     "wof:name":"Town Line Foundations",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

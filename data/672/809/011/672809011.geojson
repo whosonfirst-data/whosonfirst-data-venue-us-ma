@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.570105,42.200699,-72.570105,42.200699",
     "geom:latitude":42.200699,
     "geom:longitude":-72.570105,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476347,
+        85633793,
+        85950397,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GNjxyy0d4bKIaGeQ8jO22_42.200699_-72.570105@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727163,
-    "wof:geomhash":"b09dc386b34358deb42051f8d088b604",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b01d028031990ef1bd7cc4c2277c928b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "region_id":85688645,
+            "venue_id":672809011
+        }
+    ],
     "wof:id":672809011,
-    "wof:lastmodified":1472626032,
+    "wof:lastmodified":1492114305,
     "wof:name":"New Frontier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

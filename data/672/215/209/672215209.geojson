@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.06015,42.708135,-71.06015,42.708135",
     "geom:latitude":42.708135,
     "geom:longitude":-71.06015,
@@ -32,17 +33,26 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jGMVAx4PNayEMZkdDPYOd_42.708135_-71.060150@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713864,
-    "wof:geomhash":"ceb0c1ccca610508fb56803fcef6a64b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98647111b3671d767e431088ebc7edc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672215209
+        }
+    ],
     "wof:id":672215209,
-    "wof:lastmodified":1472625208,
+    "wof:lastmodified":1492117417,
     "wof:name":"Andrew C Magill Inc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.83683,42.338379,-71.83683,42.338379",
     "geom:latitude":42.338379,
     "geom:longitude":-71.83683,
@@ -29,17 +30,26 @@
     "sg:province":"MA",
     "sg:website":"http://www.sprouts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Yf2VM3OxvpniJyQfArBjy_42.338379_-71.836830@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734219,
-    "wof:geomhash":"5cf21db0f4ed0cc131f7d42b5fd41bef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9faeb449857052e8f467cddbe1c8f518",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":673121101
+        }
+    ],
     "wof:id":673121101,
-    "wof:lastmodified":1472625340,
+    "wof:lastmodified":1492104163,
     "wof:name":"Sprouts Farmer's Market",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

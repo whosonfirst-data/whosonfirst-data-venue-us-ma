@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.17966,42.718872,-71.17966,42.718872",
     "geom:latitude":42.718872,
     "geom:longitude":-71.17966,
@@ -38,7 +39,10 @@
         85633793,
         85950415,
         102084463,
-        85688645
+        85688645,
+        85891373,
+        404475949,
+        85950411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461713280,
-    "wof:geomhash":"e13bb972ca24b45e0d535b729b2e6880",
+    "wof:geomhash":"5a48a3581b4d91e687c55dae01359fbf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +61,22 @@
             "neighbourhood_id":420523417,
             "region_id":85688645,
             "venue_id":672187333
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404475949,
+            "locality_id":85950411,
+            "neighbourhood_id":85891373,
+            "region_id":85688645,
+            "venue_id":672187333
         }
     ],
     "wof:id":672187333,
-    "wof:lastmodified":1472625129,
+    "wof:lastmodified":1492114869,
     "wof:name":"Pentecostal Church MI",
-    "wof:parent_id":420523417,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

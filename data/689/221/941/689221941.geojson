@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.32845,41.853817,-71.32845,41.853817",
     "geom:latitude":41.853817,
     "geom:longitude":-71.32845,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85816693,
-        102084407
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"US",
     "wof:created":1461742526,
-    "wof:geomhash":"993f5d35069a552351aaffbde88816c2",
+    "wof:geomhash":"e9137bfef81347d7cc7d970e3a147a69",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084407,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
             "neighbourhood_id":85816693,
-            "region_id":85688645,
+            "region_id":85688509,
             "venue_id":689221941
         }
     ],
     "wof:id":689221941,
-    "wof:lastmodified":1472625632,
+    "wof:lastmodified":1492099586,
     "wof:name":"Led Lighting Solutions Inc",
     "wof:parent_id":85816693,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.645421,42.208015,-72.645421,42.208015",
     "geom:latitude":42.208015,
     "geom:longitude":-72.645421,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476357,
+        85633793,
+        85950395,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Q2oCWaoIgZ2lk5orSZZtn_42.208015_-72.645421@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733792,
-    "wof:geomhash":"ae0cbbcdc0355d2b6ccb12fcfbd503c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db7be20b004031f907af3a7b697abc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476357,
+            "locality_id":85950395,
+            "region_id":85688645,
+            "venue_id":673101713
+        }
+    ],
     "wof:id":673101713,
-    "wof:lastmodified":1472625283,
+    "wof:lastmodified":1492102699,
     "wof:name":"Jarvis Heights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

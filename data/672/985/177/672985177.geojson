@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.330149,42.058111,-73.330149,42.058111",
     "geom:latitude":42.058111,
     "geom:longitude":-73.330149,
@@ -34,17 +35,26 @@
     ],
     "sg:website":"www.countryloghomes.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nlO49FLdpNiBn2AhxJEx7_42.058111_-73.330149@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731169,
-    "wof:geomhash":"7ecada1f01f537672b20ae39bbbd716d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd50086f89865577b8b412d910b96b81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672985177
+        }
+    ],
     "wof:id":672985177,
-    "wof:lastmodified":1472626189,
+    "wof:lastmodified":1492111702,
     "wof:name":"Country Log Homes",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

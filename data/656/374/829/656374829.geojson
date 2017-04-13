@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.938203,42.244982,-70.938203,42.244982",
     "geom:latitude":42.244982,
     "geom:longitude":-70.938203,
@@ -35,8 +36,7 @@
         85633793,
         85950427,
         102084403,
-        85688645,
-        420523787
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461711480,
-    "wof:geomhash":"8dd8b02181632bcf7611ce6e54679920",
+    "wof:geomhash":"db77ca4557d8a897e20e42731ec26b88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,22 +55,12 @@
             "neighbourhood_id":420523899,
             "region_id":85688645,
             "venue_id":656374829
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476603,
-            "locality_id":85950427,
-            "neighbourhood_id":420523787,
-            "region_id":85688645,
-            "venue_id":656374829
         }
     ],
     "wof:id":656374829,
-    "wof:lastmodified":1472625015,
+    "wof:lastmodified":1492101928,
     "wof:name":"Burger King",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.900961,41.895761,-70.900961,41.895761",
     "geom:latitude":41.895761,
     "geom:longitude":-70.900961,
@@ -31,17 +32,26 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6X9hh2QOOR0T2QASutEiWw_41.895761_-70.900961@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724809,
-    "wof:geomhash":"be237363f85b47e3fe82a412c49fd9d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a5e9c17d65eae084af81ead8df77617",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672697731
+        }
+    ],
     "wof:id":672697731,
-    "wof:lastmodified":1472625948,
+    "wof:lastmodified":1492116966,
     "wof:name":"Bryant's Auto & Tire Svc",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

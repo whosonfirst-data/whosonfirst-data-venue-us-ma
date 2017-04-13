@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.213424,42.203739,-73.213424,42.203739",
     "geom:latitude":42.203739,
     "geom:longitude":-73.213424,
@@ -31,17 +32,26 @@
         "pottery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523239
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20fW59mwEvt4VIyB0QaA6H_42.203739_-73.213424@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719977,
-    "wof:geomhash":"7c42fbfbc819602b9e808368cff72c32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa29d8a121931334777052ea4b60b164",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523239,
+            "venue_id":672481265
+        }
+    ],
     "wof:id":672481265,
-    "wof:lastmodified":1472625742,
+    "wof:lastmodified":1492110912,
     "wof:name":"Joyous Spring Pottery",
     "wof:parent_id":420523239,
     "wof:placetype":"venue",

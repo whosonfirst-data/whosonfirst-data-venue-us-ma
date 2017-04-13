@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.865101,41.85923,-70.865101,41.85923",
     "geom:latitude":41.85923,
     "geom:longitude":-70.865101,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7O8TOb2CAHqZFGXsx6ptSa_41.859230_-70.865101@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712992,
-    "wof:geomhash":"a8a1b78e5c85bc215dfeab1c10a83b57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ec44cfb7b57147098c918e6de409833",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672174323
+        }
+    ],
     "wof:id":672174323,
-    "wof:lastmodified":1472625069,
+    "wof:lastmodified":1492119669,
     "wof:name":"Jim's Automotive Svc Ctr",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

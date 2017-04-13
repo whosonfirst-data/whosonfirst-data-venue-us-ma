@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.401032,42.611843,-71.401032,42.611843",
     "geom:latitude":42.611843,
     "geom:longitude":-71.401032,
@@ -28,19 +29,28 @@
     "sg:postcode":"01824",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73JSO3oQz3m8pmNmlykmPs_42.611843_-71.401032@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718704,
-    "wof:geomhash":"d1e10b6573c0e03d03880fa4fc86666b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01dd355e8c1c6b279cf84fbbb99a7560",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672432503
+        }
+    ],
     "wof:id":672432503,
-    "wof:lastmodified":1472625695,
+    "wof:lastmodified":1492116227,
     "wof:name":"Dora N Friedman",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

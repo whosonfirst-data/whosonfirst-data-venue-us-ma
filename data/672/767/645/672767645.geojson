@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.590196,42.502141,-71.590196,42.502141",
     "geom:latitude":42.502141,
     "geom:longitude":-71.590196,
@@ -35,10 +36,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85809037,
-        102084655,
         85950627,
-        85824179
+        102084655,
+        85824179,
+        85809037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461726321,
-    "wof:geomhash":"95704119a82d220ddff3a774bc656656",
+    "wof:geomhash":"59cb1bc6baf2609d5132b72a91d2383a",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85809037,
-            "region_id":85688645,
-            "venue_id":672767645
-        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -62,12 +56,19 @@
             "neighbourhood_id":85824179,
             "region_id":85688645,
             "venue_id":672767645
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85809037,
+            "region_id":85688645,
+            "venue_id":672767645
         }
     ],
     "wof:id":672767645,
-    "wof:lastmodified":1472625998,
+    "wof:lastmodified":1492110743,
     "wof:name":"Mamie Wytrwal",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.448804,42.445085,-72.448804,42.445085",
     "geom:latitude":42.445085,
     "geom:longitude":-72.448804,
@@ -32,19 +33,34 @@
         "rebuilt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523639,
+        420523513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ToFeiqXkWp5hw2LE1wshq_42.445085_-72.448804@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726706,
-    "wof:geomhash":"f6578f04895e5e868a3893ef04bed1ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9493a920f36d9009663593674ad934d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523639,
+            "venue_id":672786055
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523513,
+            "venue_id":672786055
+        }
+    ],
     "wof:id":672786055,
-    "wof:lastmodified":1472626010,
+    "wof:lastmodified":1492107390,
     "wof:name":"Clark Auto Wrecking",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

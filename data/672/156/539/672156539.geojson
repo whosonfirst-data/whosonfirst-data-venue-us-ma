@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.99323,41.779482,-69.99323,41.779482",
     "geom:latitude":41.779482,
     "geom:longitude":-69.99323,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85845359,
+        102191575,
+        404476187,
         85633793,
-        85849499,
-        102084379
+        85950577,
+        102084379,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,20 +44,23 @@
     },
     "wof:country":"US",
     "wof:created":1461712582,
-    "wof:geomhash":"f2f988eced18d924d3c40024edf85603",
+    "wof:geomhash":"6328d462ff544a7dbd25f7f990b9458f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084379,
-            "neighbourhood_id":85849499,
+            "localadmin_id":404476187,
+            "locality_id":85950577,
+            "neighbourhood_id":85845359,
             "region_id":85688645,
             "venue_id":672156539
         }
     ],
     "wof:id":672156539,
-    "wof:lastmodified":1472624962,
+    "wof:lastmodified":1492112495,
     "wof:name":"Nauset Integrated Preschool",
-    "wof:parent_id":85849499,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.860301,41.880993,-70.860301,41.880993",
     "geom:latitude":41.880993,
     "geom:longitude":-70.860301,
@@ -33,17 +34,26 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5x3EEwOjbmqSqZj9aMk6Ru_41.880993_-70.860301@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715530,
-    "wof:geomhash":"ecbc352dccca53084d4cf470d1ce9973",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0aa56841bb2f2adfb50407cbbdd13d27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672295901
+        }
+    ],
     "wof:id":672295901,
-    "wof:lastmodified":1472625486,
+    "wof:lastmodified":1492115566,
     "wof:name":"Clean Quest",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.917927,42.327,-71.917927,42.327",
     "geom:latitude":42.327,
     "geom:longitude":-71.917927,
@@ -32,17 +33,26 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cwFxHYDzJMQmNpkLx0Qnm_42.327000_-71.917927@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725081,
-    "wof:geomhash":"ebeb027138cd9a81f591c76ea6f6a4c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37bb25e6b4a3d518e1dc5704087c76ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672710099
+        }
+    ],
     "wof:id":672710099,
-    "wof:lastmodified":1472625945,
+    "wof:lastmodified":1492118545,
     "wof:name":"Anna Maria College",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

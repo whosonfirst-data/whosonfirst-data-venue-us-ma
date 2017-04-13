@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.046705,42.685131,-72.046705,42.685131",
     "geom:latitude":42.685131,
     "geom:longitude":-72.046705,
@@ -31,17 +32,26 @@
         "tavern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HcQqLqzp0wBywg5tVTeoB_42.685615_-72.046408@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733172,
-    "wof:geomhash":"372e4544ef4867f53c9dde3a5ce1322d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15e787cbbfb9de6d88ca864aedb2b214",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":673071737
+        }
+    ],
     "wof:id":673071737,
-    "wof:lastmodified":1472625193,
+    "wof:lastmodified":1492104592,
     "wof:name":"Chick's Tavern",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

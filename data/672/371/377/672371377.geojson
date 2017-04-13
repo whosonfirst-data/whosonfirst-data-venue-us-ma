@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.904339,42.246165,-71.904339,42.246165",
     "geom:latitude":42.246165,
     "geom:longitude":-71.904339,
@@ -32,17 +33,26 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51u28mQM7vkkUIeovTFZ24_42.246165_-71.904339@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717234,
-    "wof:geomhash":"84eb4dc6168cd25796cf27e4145569b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de4f6e3d1769ba1a1d195c9aa1b7b802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672371377
+        }
+    ],
     "wof:id":672371377,
-    "wof:lastmodified":1472625645,
+    "wof:lastmodified":1492108224,
     "wof:name":"Becker College",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

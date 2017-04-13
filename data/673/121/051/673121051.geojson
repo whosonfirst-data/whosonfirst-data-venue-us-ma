@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.836632,42.335609,-71.836632,42.335609",
     "geom:latitude":42.335609,
     "geom:longitude":-71.836632,
@@ -34,17 +35,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gJHmwkqtOO6qyiTH7wVkw_42.335609_-71.836632@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734218,
-    "wof:geomhash":"c05fc4b5a0930ce61d6c1350df50d7cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0dcc304b6aa339b6fb85c3fa81079cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":673121051
+        }
+    ],
     "wof:id":673121051,
-    "wof:lastmodified":1472625336,
+    "wof:lastmodified":1492104175,
     "wof:name":"Gordie's Automotive Repair",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

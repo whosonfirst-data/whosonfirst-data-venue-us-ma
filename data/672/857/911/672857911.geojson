@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.864784,42.10344,-70.864784,42.10344",
     "geom:latitude":42.10344,
     "geom:longitude":-70.864784,
@@ -31,17 +32,26 @@
         "hardware"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tYac6Rk8kvwsNkfkESTfV_42.103440_-70.864784@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728138,
-    "wof:geomhash":"2af149640c2e5509b96b0f340987b66f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"739a0eb96ca48030036a260a7ff7a8d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672857911
+        }
+    ],
     "wof:id":672857911,
-    "wof:lastmodified":1472626090,
+    "wof:lastmodified":1492113074,
     "wof:name":"Crawford Products Inc",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.026589,42.704593,-71.026589,42.704593",
     "geom:latitude":42.704593,
     "geom:longitude":-71.026589,
@@ -32,17 +33,26 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CVYWOEnmOMe6WvGu2bhfd_42.704593_-71.026589@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723917,
-    "wof:geomhash":"d1ec9f215ea79d3bf182b7a5b81ad5c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e36cc8ff9b7c80ac8a3e6fab5a472594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672658747
+        }
+    ],
     "wof:id":672658747,
-    "wof:lastmodified":1472625911,
+    "wof:lastmodified":1492110779,
     "wof:name":"Pace Systems Inc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

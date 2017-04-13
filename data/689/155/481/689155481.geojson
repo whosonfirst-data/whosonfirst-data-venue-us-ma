@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.907722,41.89315,-70.907722,41.89315",
     "geom:latitude":41.89315,
     "geom:longitude":-70.907722,
@@ -42,17 +43,26 @@
         "counselor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VuniGexWVlI7o9mnuKMtW_41.893150_-70.907722@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741062,
-    "wof:geomhash":"20df5413a91e2bc7224af9be542600c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab240fcccf8223027515dc1afa89f8fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":689155481
+        }
+    ],
     "wof:id":689155481,
-    "wof:lastmodified":1472625504,
+    "wof:lastmodified":1492100389,
     "wof:name":"Daniel F Boulger",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

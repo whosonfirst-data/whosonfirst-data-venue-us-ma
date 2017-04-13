@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.972945,41.598405,-70.972945,41.598405",
     "geom:latitude":41.598405,
     "geom:longitude":-70.972945,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523319
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ff4woMn0WQHRWYbYZhZC4_41.598405_-70.972945@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712029,
-    "wof:geomhash":"88d3441aaa3f87efb4203f0ba9ade741",
-    "wof:hierarchy":[],
+    "wof:geomhash":"acbf0c82aa6d1c6578701fa3ae97823f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523319,
+            "venue_id":656400769
+        }
+    ],
     "wof:id":656400769,
-    "wof:lastmodified":1472625096,
+    "wof:lastmodified":1492101472,
     "wof:name":"S Ponte",
     "wof:parent_id":420523319,
     "wof:placetype":"venue",

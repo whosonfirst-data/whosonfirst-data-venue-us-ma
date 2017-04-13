@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.29999,42.434599,-71.29999,42.434599",
     "geom:latitude":42.434599,
     "geom:longitude":-71.29999,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85804253,
-        102084643
+        102084643,
+        85849835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461716627,
-    "wof:geomhash":"1efd9a770ce84c52bb2f8ce32727ab39",
+    "wof:geomhash":"6224ab7e18bca049b8e1261e4b701fd0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,19 @@
             "neighbourhood_id":85804253,
             "region_id":85688645,
             "venue_id":672346043
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85849835,
+            "region_id":85688645,
+            "venue_id":672346043
         }
     ],
     "wof:id":672346043,
-    "wof:lastmodified":1472625569,
+    "wof:lastmodified":1492115650,
     "wof:name":"Technology & Strategy Group",
-    "wof:parent_id":85804253,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

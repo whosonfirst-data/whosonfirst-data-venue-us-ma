@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.724995,42.17357,-71.724995,42.17357",
     "geom:latitude":42.17357,
     "geom:longitude":-71.724995,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524081
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aYzgZitVKLiOPspMnLdL7_42.173570_-71.724995@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727590,
-    "wof:geomhash":"b11598f97bf5500615fa92a968876bcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f71de9fad601ec14ec0450f089f2197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524081,
+            "venue_id":672829431
+        }
+    ],
     "wof:id":672829431,
-    "wof:lastmodified":1472626056,
+    "wof:lastmodified":1492110644,
     "wof:name":"Rcb Development",
     "wof:parent_id":420524081,
     "wof:placetype":"venue",

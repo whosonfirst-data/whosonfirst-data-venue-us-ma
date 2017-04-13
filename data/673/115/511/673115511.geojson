@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.58342,42.487,-71.58342,42.487",
     "geom:latitude":42.487,
     "geom:longitude":-71.58342,
@@ -36,10 +37,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85809037,
-        102084655,
         85950627,
-        85824179
+        102084655,
+        85824179,
+        85809037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461734097,
-    "wof:geomhash":"53d0764294851fbc4904d9757508f5c1",
+    "wof:geomhash":"4314e50205eb9c344ea5f58dd2a5c422",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85809037,
-            "region_id":85688645,
-            "venue_id":673115511
-        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -63,12 +57,19 @@
             "neighbourhood_id":85824179,
             "region_id":85688645,
             "venue_id":673115511
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85809037,
+            "region_id":85688645,
+            "venue_id":673115511
         }
     ],
     "wof:id":673115511,
-    "wof:lastmodified":1472625346,
+    "wof:lastmodified":1492103093,
     "wof:name":"Strand Accessories, Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

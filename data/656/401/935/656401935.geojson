@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.453974,42.251414,-71.453974,42.251414",
     "geom:latitude":42.251414,
     "geom:longitude":-71.453974,
@@ -31,17 +32,26 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OdJ5dxeMRytYelZduG31K_42.251414_-71.453974@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712050,
-    "wof:geomhash":"41290b082581a0ec33a78c3e3aa8b339",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40f5bb2c80800d00876853c08056288b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":656401935
+        }
+    ],
     "wof:id":656401935,
-    "wof:lastmodified":1472625099,
+    "wof:lastmodified":1492101463,
     "wof:name":"Laurent E Caron",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

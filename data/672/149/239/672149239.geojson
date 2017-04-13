@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.111558,41.611506,-71.111558,41.611506",
     "geom:latitude":41.611506,
     "geom:longitude":-71.111558,
@@ -32,19 +33,40 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293,
+        420540491,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RwvsAACD4nCrCS2bJGt7D_41.611506_-71.111558@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712438,
-    "wof:geomhash":"55e3d1d139344c285a9c85759bc0e5e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1638dce32d5b2040765d859343e21cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672149239
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":672149239
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672149239
+        }
+    ],
     "wof:id":672149239,
-    "wof:lastmodified":1472624930,
+    "wof:lastmodified":1492118713,
     "wof:name":"Innotronics Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

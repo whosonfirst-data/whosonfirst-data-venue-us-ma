@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.131798,42.1367,-71.131798,42.1367",
     "geom:latitude":42.1367,
     "geom:longitude":-71.131798,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23Ds9NjUlru2IHP2rFFfmq_42.136700_-71.131798@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736304,
-    "wof:geomhash":"6631439a3a8240f2e542f60b46401f6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e439f5116b37e808c2e2f665818423ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688952749
+        }
+    ],
     "wof:id":688952749,
-    "wof:lastmodified":1472625163,
+    "wof:lastmodified":1492120321,
     "wof:name":"Will A A Corp",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

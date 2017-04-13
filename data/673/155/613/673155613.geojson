@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.147679,42.510652,-71.147679,42.510652",
     "geom:latitude":42.510652,
     "geom:longitude":-71.147679,
@@ -43,16 +44,16 @@
     "sg:website":"http://www.yext.com/p/superpages/coachline-transportation-woburn-massachusetts.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850215,
+        85838185,
         102191575,
-        404476021,
+        404476469,
         85633793,
-        85950663,
+        85950353,
         102084643,
         85688645,
-        85838185,
-        404476469,
-        85950353
+        85850215,
+        404476021,
+        85950663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,18 +61,8 @@
     },
     "wof:country":"US",
     "wof:created":1461734917,
-    "wof:geomhash":"0e0e62b25483d4d1cf5b707421b8d06e",
+    "wof:geomhash":"d3d5e1ae729dbcad3488187cc2b4cd7c",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476021,
-            "locality_id":85950663,
-            "neighbourhood_id":85850215,
-            "region_id":85688645,
-            "venue_id":673155613
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -81,12 +72,22 @@
             "neighbourhood_id":85838185,
             "region_id":85688645,
             "venue_id":673155613
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476021,
+            "locality_id":85950663,
+            "neighbourhood_id":85850215,
+            "region_id":85688645,
+            "venue_id":673155613
         }
     ],
     "wof:id":673155613,
-    "wof:lastmodified":1472625451,
+    "wof:lastmodified":1492104815,
     "wof:name":"Coachline Transportation",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

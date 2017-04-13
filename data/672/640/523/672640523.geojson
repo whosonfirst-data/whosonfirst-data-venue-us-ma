@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.072891,42.033947,-71.072891,42.033947",
     "geom:latitude":42.033947,
     "geom:longitude":-71.072891,
@@ -35,19 +36,28 @@
     ],
     "sg:website":"www.eastonpool.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WbvikCXuBd18dvAP8H5Fb_42.033947_-71.072891@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723509,
-    "wof:geomhash":"d2aafb675a097ea3e7dc34921e91f40a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02b3204119403b2ce66f2fdf2b8823f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523987,
+            "venue_id":672640523
+        }
+    ],
     "wof:id":672640523,
-    "wof:lastmodified":1472625888,
+    "wof:lastmodified":1492109567,
     "wof:name":"Easton Pool & Spa",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

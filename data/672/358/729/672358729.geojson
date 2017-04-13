@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.721713,41.879006,-70.721713,41.879006",
     "geom:latitude":41.879006,
     "geom:longitude":-70.721713,
@@ -31,17 +32,26 @@
         "produce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CR7DSYlMUZoJPqltHZvsQ_41.879006_-70.721713@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716953,
-    "wof:geomhash":"a9742cd3103d8e17e7251c97ccb9e27a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29d5f7a357d7ec62709e48e269d01237",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672358729
+        }
+    ],
     "wof:id":672358729,
-    "wof:lastmodified":1472625629,
+    "wof:lastmodified":1492113136,
     "wof:name":"Edgewood Shop",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

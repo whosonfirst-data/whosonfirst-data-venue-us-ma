@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.932603,41.708927,-70.932603,41.708927",
     "geom:latitude":41.708927,
     "geom:longitude":-70.932603,
@@ -33,17 +34,26 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lKEuxazbJgAywOvXDR6Gl_41.708927_-70.932603@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727510,
-    "wof:geomhash":"5f9304dbe31172256e41926e9e44425e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"928f5b294b8baa0f1afde07e5d896ebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":672825723
+        }
+    ],
     "wof:id":672825723,
-    "wof:lastmodified":1472626062,
+    "wof:lastmodified":1492114835,
     "wof:name":"J D Glass Co",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

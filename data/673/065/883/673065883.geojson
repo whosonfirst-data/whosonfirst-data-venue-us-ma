@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.759767,42.435431,-71.759767,42.435431",
     "geom:latitude":42.435431,
     "geom:longitude":-71.759767,
@@ -33,17 +34,26 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jVfMSpshy4y3JhCj9pXbK_42.435385_-71.759840@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733059,
-    "wof:geomhash":"8a87524b97cb58a96ac91a0dd83b93d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad4cb1177d26266b7917192e282d270c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":673065883
+        }
+    ],
     "wof:id":673065883,
-    "wof:lastmodified":1472625187,
+    "wof:lastmodified":1492103244,
     "wof:name":"Heritage Antiques",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.923248,42.415371,-71.923248,42.415371",
     "geom:latitude":42.415371,
     "geom:longitude":-71.923248,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CLlK9bph4v0wfP3sKJp5r_42.415371_-71.923248@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734273,
-    "wof:geomhash":"1aeb71a0dd9b2d689edd495d38cf4dad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0596b51855a53818c5b3c836a5c6326d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524223,
+            "venue_id":673124179
+        }
+    ],
     "wof:id":673124179,
-    "wof:lastmodified":1472625339,
+    "wof:lastmodified":1492104000,
     "wof:name":"Buck Ridge Services",
     "wof:parent_id":420524223,
     "wof:placetype":"venue",

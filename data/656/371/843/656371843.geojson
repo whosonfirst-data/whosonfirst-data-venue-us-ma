@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.62196,42.423575,-72.62196,42.423575",
     "geom:latitude":42.423575,
     "geom:longitude":-72.62196,
@@ -31,19 +32,28 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZAOQGqIpHAifgKYOaXH6X_42.423575_-72.621960@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711417,
-    "wof:geomhash":"f248f94656591b70557ef49b4d94dce2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95980d38f9cd1652739b8e06e8b96cc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523649,
+            "venue_id":656371843
+        }
+    ],
     "wof:id":656371843,
-    "wof:lastmodified":1472624992,
+    "wof:lastmodified":1492101395,
     "wof:name":"Tom's Hot Dog",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523649,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

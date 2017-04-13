@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.430785,42.143179,-72.430785,42.143179",
     "geom:latitude":42.143179,
     "geom:longitude":-72.430785,
@@ -32,17 +33,36 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420523561,
+        102191575,
+        404476379,
+        85633793,
+        85950775,
+        102084627,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pQpmPmZ6J5zVI6p8iSBeY_42.143179_-72.430785@1303262184"
     },
     "wof:country":"US",
     "wof:created":1461733901,
-    "wof:geomhash":"bf61e20c47d4c90c3c46ccbfdf2c8d2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b47cf4fee902e54c2c0f1e4a324dfef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476379,
+            "locality_id":85950775,
+            "neighbourhood_id":420523561,
+            "region_id":85688645,
+            "venue_id":673106125
+        }
+    ],
     "wof:id":673106125,
-    "wof:lastmodified":1472625277,
+    "wof:lastmodified":1492104987,
     "wof:name":"William Agnew",
     "wof:parent_id":420523561,
     "wof:placetype":"venue",

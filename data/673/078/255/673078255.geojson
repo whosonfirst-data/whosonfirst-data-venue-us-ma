@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101799,42.127701,-71.101799,42.127701",
     "geom:latitude":42.127701,
     "geom:longitude":-71.101799,
@@ -31,17 +32,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JDixIdbjbekReTI8oNoMq_42.127588_-71.102067@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733314,
-    "wof:geomhash":"06b2843a2ef85d587823fc341eeb292c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50ff3edcdba02977fc19668a6f963c68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":673078255
+        }
+    ],
     "wof:id":673078255,
-    "wof:lastmodified":1472625206,
+    "wof:lastmodified":1492104509,
     "wof:name":"G & E Getty",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

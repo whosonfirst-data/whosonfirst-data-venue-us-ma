@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.98572,42.372789,-70.98572,42.372789",
     "geom:latitude":42.372789,
     "geom:longitude":-70.98572,
@@ -34,6 +35,7 @@
         85633793,
         85950355,
         102084423,
+        85858363,
         85812405
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461717624,
-    "wof:geomhash":"55c2a7858c58b1546ea11a31fd67f415",
+    "wof:geomhash":"9c6adc669565002a29080c8e2539df04",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "locality_id":85950355,
+            "neighbourhood_id":85858363,
+            "region_id":85688645,
+            "venue_id":672389171
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":672389171,
-    "wof:lastmodified":1472625654,
+    "wof:lastmodified":1492115159,
     "wof:name":"Re Max All Stars",
-    "wof:parent_id":85812405,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

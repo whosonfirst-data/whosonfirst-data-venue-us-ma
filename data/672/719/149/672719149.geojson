@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.774023,42.271761,-71.774023,42.271761",
     "geom:latitude":42.271761,
     "geom:longitude":-71.774023,
@@ -38,7 +39,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85848623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461725278,
-    "wof:geomhash":"2572fa6195cc5adc8d57399a155c1976",
+    "wof:geomhash":"da2c4012860d14dc0d3020ca2afa64f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85806455,
             "region_id":85688645,
             "venue_id":672719149
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85848623,
+            "region_id":85688645,
+            "venue_id":672719149
         }
     ],
     "wof:id":672719149,
-    "wof:lastmodified":1472625951,
+    "wof:lastmodified":1492117831,
     "wof:name":"Piercing Emporium",
-    "wof:parent_id":85806455,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

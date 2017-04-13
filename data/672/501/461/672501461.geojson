@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.401437,42.617197,-71.401437,42.617197",
     "geom:latitude":42.617197,
     "geom:longitude":-71.401437,
@@ -28,17 +29,26 @@
     "sg:postcode":"01863",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dVNeDBjyiGNgPllNzUeDJ_42.617197_-71.401437@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720438,
-    "wof:geomhash":"23192e07a1017a1982a328209ff86718",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9be6ed46123ca99a679d2dd46bca936b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672501461
+        }
+    ],
     "wof:id":672501461,
-    "wof:lastmodified":1472625763,
+    "wof:lastmodified":1492117449,
     "wof:name":"Massachusetts Mutual Life",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

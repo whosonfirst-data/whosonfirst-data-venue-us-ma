@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.064339,42.707531,-71.064339,42.707531",
     "geom:latitude":42.707531,
     "geom:longitude":-71.064339,
@@ -33,17 +34,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VJ5Y5rXL94F95NnCKUGFY_42.707531_-71.064339@1303262195"
     },
     "wof:country":"US",
     "wof:created":1461735686,
-    "wof:geomhash":"a5ba65c81b3aaaf9e86091e613272d89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7ad86ab1f4a2554c3c9110001a69d3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":688921573
+        }
+    ],
     "wof:id":688921573,
-    "wof:lastmodified":1472624953,
+    "wof:lastmodified":1492120647,
     "wof:name":"Town Of Boxford",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

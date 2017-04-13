@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.300912,41.977139,-71.300912,41.977139",
     "geom:latitude":41.977139,
     "geom:longitude":-71.300912,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476133,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RaLgyN59RpFBTelNMau9o_41.977139_-71.300912@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730847,
-    "wof:geomhash":"2b84b41569c1ba50cef32f6a731aff29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d10bc58bb313c84919b018cf827d765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476133,
+            "region_id":85688645,
+            "venue_id":672973013
+        }
+    ],
     "wof:id":672973013,
-    "wof:lastmodified":1472626181,
+    "wof:lastmodified":1492114528,
     "wof:name":"Time Planners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

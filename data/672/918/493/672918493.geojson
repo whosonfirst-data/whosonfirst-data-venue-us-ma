@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.650686,42.15283,-71.650686,42.15283",
     "geom:latitude":42.15283,
     "geom:longitude":-71.650686,
@@ -33,17 +34,26 @@
         "copying"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2n9uI7MdmZ2zahwUBm27mC_42.152830_-71.650686@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729404,
-    "wof:geomhash":"0488e171137f61ddb430e08640422625",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac5e045043e7da6da42afd6b91490062",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524115,
+            "venue_id":672918493
+        }
+    ],
     "wof:id":672918493,
-    "wof:lastmodified":1472626131,
+    "wof:lastmodified":1492112090,
     "wof:name":"Northbridge Antique Flea Mkt",
     "wof:parent_id":420524115,
     "wof:placetype":"venue",

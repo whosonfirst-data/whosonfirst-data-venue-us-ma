@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.883788,42.414044,-72.883788,42.414044",
     "geom:latitude":42.414044,
     "geom:longitude":-72.883788,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475983,
+        85633793,
+        102084459
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RtOxaDfMPY0IubKis1Rqb_42.414044_-72.883788@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714539,
-    "wof:geomhash":"e6e36ab37ac21ce5144986c964d3370a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e3fe6418cc52eb73e23573188edec32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084459,
+            "localadmin_id":404475983,
+            "region_id":85688645,
+            "venue_id":672246611
+        }
+    ],
     "wof:id":672246611,
-    "wof:lastmodified":1472625367,
+    "wof:lastmodified":1492111382,
     "wof:name":"Henshaw Artesian Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.972792,41.766731,-70.972792,41.766731",
     "geom:latitude":41.766731,
     "geom:longitude":-70.972792,
@@ -32,17 +33,26 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0j2QsugsDMhznMk6xZDsYn_41.766731_-70.972792@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721172,
-    "wof:geomhash":"4e4ab4d6232cb55c070bd178a8faf112",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4535c0b7100962a03df18acb886100e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":672535361
+        }
+    ],
     "wof:id":672535361,
-    "wof:lastmodified":1472625785,
+    "wof:lastmodified":1492119619,
     "wof:name":"D M Drilling Svc Inc",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

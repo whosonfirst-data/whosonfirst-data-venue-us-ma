@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.988111,42.040082,-70.988111,42.040082",
     "geom:latitude":42.040082,
     "geom:longitude":-70.988111,
@@ -32,17 +33,26 @@
         "peace"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xmKaRWQ236o244o2Osi1n_42.040082_-70.988111@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718979,
-    "wof:geomhash":"d6fbd6ad62408a20b8d13bac73f06ccc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5dc7f1113911f09e48413279aea5f901",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523979,
+            "venue_id":672442741
+        }
+    ],
     "wof:id":672442741,
-    "wof:lastmodified":1472625710,
+    "wof:lastmodified":1492106440,
     "wof:name":"Bob Smith Real Estate",
     "wof:parent_id":420523979,
     "wof:placetype":"venue",

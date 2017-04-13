@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.761671,42.225405,-71.761671,42.225405",
     "geom:latitude":42.225405,
     "geom:longitude":-71.761671,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524205
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w2pWtnAAy3pRTMtETvEpF_42.225405_-71.761671@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721807,
-    "wof:geomhash":"5f68e4201ac02f8e954a36413615ad65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6634e5fe53f866a860deac548abada59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524205,
+            "venue_id":672564455
+        }
+    ],
     "wof:id":672564455,
-    "wof:lastmodified":1472625816,
+    "wof:lastmodified":1492114464,
     "wof:name":"RND Auto Sales",
     "wof:parent_id":420524205,
     "wof:placetype":"venue",

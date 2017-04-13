@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.809882,42.230544,-70.809882,42.230544",
     "geom:latitude":42.230544,
     "geom:longitude":-70.809882,
@@ -32,17 +33,26 @@
         "studio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rdL7hXPQZAQbIOidvHAFq_42.230544_-70.809882@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720786,
-    "wof:geomhash":"2d4982e2a999dad0e5772d5e53876519",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efd813e2925683f928dd00118f770259",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672517713
+        }
+    ],
     "wof:id":672517713,
-    "wof:lastmodified":1472625786,
+    "wof:lastmodified":1492116023,
     "wof:name":"A Rik Tinory Production",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.803452,42.240749,-70.803452,42.240749",
     "geom:latitude":42.240749,
     "geom:longitude":-70.803452,
@@ -40,17 +41,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bvgoMqHIfCoaeeri7FiWz_42.240749_-70.803452@1303262197"
     },
     "wof:country":"US",
     "wof:created":1461736000,
-    "wof:geomhash":"7225efdaf25c5cb5b49faccc820d93bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4031bfdea0da8487e8f342ce87d6c575",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":688937547
+        }
+    ],
     "wof:id":688937547,
-    "wof:lastmodified":1472625025,
+    "wof:lastmodified":1492120295,
     "wof:name":"Platinum Spike",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

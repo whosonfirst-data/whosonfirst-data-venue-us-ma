@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.281903,42.113115,-71.281903,42.113115",
     "geom:latitude":42.113115,
     "geom:longitude":-71.281903,
@@ -31,17 +32,26 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NULs55NAJrQh4QY6WjMKy_42.113115_-71.281903@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729633,
-    "wof:geomhash":"067c4ea3af6bc32f3b25658a40a3bff0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55b7fad5e779850d1b93a2ad7e50c5bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672929993
+        }
+    ],
     "wof:id":672929993,
-    "wof:lastmodified":1472626157,
+    "wof:lastmodified":1492114893,
     "wof:name":"Top Dog Limousine Svc",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

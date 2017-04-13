@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.988742,42.45437,-70.988742,42.45437",
     "geom:latitude":42.45437,
     "geom:longitude":-70.988742,
@@ -33,13 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523455,
+        420523481,
         102191575,
-        404476265,
+        404476207,
         85633793,
-        85950809,
+        85950413,
         102084463,
-        85688645
+        85688645,
+        420523455,
+        404476265,
+        85950809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,18 @@
     },
     "wof:country":"US",
     "wof:created":1461716912,
-    "wof:geomhash":"7b68d9ce4a1700231d1689d515cda562",
+    "wof:geomhash":"3eb633dceb56719f0a6a854ff4b863e9",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476207,
+            "locality_id":85950413,
+            "neighbourhood_id":420523481,
+            "region_id":85688645,
+            "venue_id":672357137
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +75,9 @@
         }
     ],
     "wof:id":672357137,
-    "wof:lastmodified":1472625609,
+    "wof:lastmodified":1492119567,
     "wof:name":"Complete Plumbing & Heating Co",
-    "wof:parent_id":420523455,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

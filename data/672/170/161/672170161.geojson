@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.305823,41.780276,-71.305823,41.780276",
     "geom:latitude":41.780276,
     "geom:longitude":-71.305823,
@@ -33,17 +34,32 @@
         "electronic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476141,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TMMNWQ24nZquej4mmPIGh_41.780276_-71.305823@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712907,
-    "wof:geomhash":"43be04b9fb7685df4865e2b521b9073d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffdb891c3fabccc003b62b052c4d4e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476141,
+            "region_id":85688645,
+            "venue_id":672170161
+        }
+    ],
     "wof:id":672170161,
-    "wof:lastmodified":1472625047,
+    "wof:lastmodified":1492107587,
     "wof:name":"H & W Test Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

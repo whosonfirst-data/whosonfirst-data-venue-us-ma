@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.540328,42.485442,-71.540328,42.485442",
     "geom:latitude":42.485442,
     "geom:longitude":-71.540328,
@@ -28,19 +29,32 @@
     "sg:postcode":"01719",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85815989,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6k2xySL8KjziZYEMS5nPhR_42.485442_-71.540328@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726988,
-    "wof:geomhash":"74cd983adb8011aa0ecdb76d3d1f9f20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3c5bb0db59617a23ea417b1296be642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85815989,
+            "region_id":85688645,
+            "venue_id":672800687
+        }
+    ],
     "wof:id":672800687,
-    "wof:lastmodified":1472626037,
+    "wof:lastmodified":1492109453,
     "wof:name":"Jerry's Bar & Grille",
-    "wof:parent_id":-1,
+    "wof:parent_id":85815989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

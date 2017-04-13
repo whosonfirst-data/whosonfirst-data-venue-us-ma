@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.905727,42.674789,-71.905727,42.674789",
     "geom:latitude":42.674789,
     "geom:longitude":-71.905727,
@@ -32,17 +33,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524211
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZF8s3FmkWiwXDFAFgvW0R_42.674789_-71.905727@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734062,
-    "wof:geomhash":"8321711dcc51ad218c376d8762514705",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db69de37ff017ef7dcd01ef6eca06f41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524211,
+            "venue_id":673114029
+        }
+    ],
     "wof:id":673114029,
-    "wof:lastmodified":1472625326,
+    "wof:lastmodified":1492105141,
     "wof:name":"Throtonics Corp",
     "wof:parent_id":420524211,
     "wof:placetype":"venue",

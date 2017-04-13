@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.124786,42.134849,-71.124786,42.134849",
     "geom:latitude":42.134849,
     "geom:longitude":-71.124786,
@@ -32,17 +33,26 @@
         "boiler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D4aOacZEXyNEBArDujL95_42.134849_-71.124786@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727263,
-    "wof:geomhash":"18d2085c5d0019e613812512aded723d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64ebbda978ed35e12b5d8d6e4bc136c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672813011
+        }
+    ],
     "wof:id":672813011,
-    "wof:lastmodified":1472626035,
+    "wof:lastmodified":1492115291,
     "wof:name":"Boiler Equipment Sales Inc",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

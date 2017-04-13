@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.90541,42.581708,-70.90541,42.581708",
     "geom:latitude":42.581708,
     "geom:longitude":-70.90541,
@@ -37,7 +38,11 @@
         85633793,
         85950789,
         102084463,
-        85843319
+        85843319,
+        85837363,
+        102191575,
+        404476287,
+        85950421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721041,
-    "wof:geomhash":"012d72e6864edd61330110ccdbb48ea4",
+    "wof:geomhash":"4f3c7f1db6751fcbbc93427c811492bc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +59,22 @@
             "neighbourhood_id":85843319,
             "region_id":85688645,
             "venue_id":672529195
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476287,
+            "locality_id":85950421,
+            "neighbourhood_id":85837363,
+            "region_id":85688645,
+            "venue_id":672529195
         }
     ],
     "wof:id":672529195,
-    "wof:lastmodified":1472625783,
+    "wof:lastmodified":1492107111,
     "wof:name":"Liberty Publishing Inc",
-    "wof:parent_id":85843319,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

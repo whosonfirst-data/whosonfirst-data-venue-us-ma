@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.39852,42.227324,-71.39852,42.227324",
     "geom:latitude":42.227324,
     "geom:longitude":-71.39852,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YXraXV06gEvmfKkM9T6QN_42.227324_-71.398520@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714400,
-    "wof:geomhash":"b060a7949274fafec7c678437797c005",
-    "wof:hierarchy":[],
+    "wof:geomhash":"320f1dc1661db744f5cf835c118a9568",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523725,
+            "venue_id":672239415
+        }
+    ],
     "wof:id":672239415,
-    "wof:lastmodified":1472625313,
+    "wof:lastmodified":1492106320,
     "wof:name":"Liffiton Peter P E Facilties",
     "wof:parent_id":420523725,
     "wof:placetype":"venue",

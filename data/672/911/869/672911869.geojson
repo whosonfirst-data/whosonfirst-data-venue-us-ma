@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.744707,41.927372,-70.744707,41.927372",
     "geom:latitude":41.927372,
     "geom:longitude":-70.744707,
@@ -33,17 +34,26 @@
         "convention"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78jMNEmqY9PbrCGzZtls9c_41.927372_-70.744707@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729279,
-    "wof:geomhash":"a9552392c26ee97480b0a2c5790b7e20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d2e34be4134f5176d28a113491e7ef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523889,
+            "venue_id":672911869
+        }
+    ],
     "wof:id":672911869,
-    "wof:lastmodified":1472626137,
+    "wof:lastmodified":1492115411,
     "wof:name":"Vermont Convention Bureau",
     "wof:parent_id":420523889,
     "wof:placetype":"venue",

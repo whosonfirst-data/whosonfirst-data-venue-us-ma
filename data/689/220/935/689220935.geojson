@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.310448,41.823253,-71.310448,41.823253",
     "geom:latitude":41.823253,
     "geom:longitude":-71.310448,
@@ -32,17 +33,26 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sq9muod8liZriivq0w6cQ_41.823253_-71.310448@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742495,
-    "wof:geomhash":"f43667eee9ecdd9eec393f2685cb0205",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1abc52b7249f1bcca7e3b618f826cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523341,
+            "venue_id":689220935
+        }
+    ],
     "wof:id":689220935,
-    "wof:lastmodified":1472625628,
+    "wof:lastmodified":1492098379,
     "wof:name":"Taunton Fire Department",
     "wof:parent_id":420523341,
     "wof:placetype":"venue",

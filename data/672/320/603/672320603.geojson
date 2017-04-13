@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.877219,42.420105,-71.877219,42.420105",
     "geom:latitude":42.420105,
     "geom:longitude":-71.877219,
@@ -31,17 +32,26 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52zRhlI4tw70H9ytuFEvZA_42.420105_-71.877219@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716037,
-    "wof:geomhash":"266111ecfa993916c216f1a6c21947e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f357e53a3f3136693cf6d3a10509b524",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524219,
+            "venue_id":672320603
+        }
+    ],
     "wof:id":672320603,
-    "wof:lastmodified":1472625546,
+    "wof:lastmodified":1492111131,
     "wof:name":"American Tree Svc",
     "wof:parent_id":420524219,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.115375,42.228244,-71.115375,42.228244",
     "geom:latitude":42.228244,
     "geom:longitude":-71.115375,
@@ -31,17 +32,34 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476583,
+        85633793,
+        85950833,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j7YNQiklyHrZFLjQ8QqsU_42.228244_-71.115375@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716331,
-    "wof:geomhash":"4313165390cfe893c563c4a5a0678178",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7067f1230273f6ab9ea75e0abc36e4d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476583,
+            "locality_id":85950833,
+            "region_id":85688645,
+            "venue_id":672334741
+        }
+    ],
     "wof:id":672334741,
-    "wof:lastmodified":1472625578,
+    "wof:lastmodified":1492115851,
     "wof:name":"New York Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

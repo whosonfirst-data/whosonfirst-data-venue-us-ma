@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.026497,41.966372,-71.026497,41.966372",
     "geom:latitude":41.966372,
     "geom:longitude":-71.026497,
@@ -32,17 +33,26 @@
         "demonstration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ERqoFKarh6NBqRZK3Yaa4_41.966372_-71.026497@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728532,
-    "wof:geomhash":"4a7f3267e6f73c08c809538a3b4579af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57f6c756ea563cd0af6cc096380bf40e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672874797
+        }
+    ],
     "wof:id":672874797,
-    "wof:lastmodified":1472626103,
+    "wof:lastmodified":1492114277,
     "wof:name":"Amway Distributors",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

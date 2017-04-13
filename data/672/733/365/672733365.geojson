@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.839088,42.340423,-71.839088,42.340423",
     "geom:latitude":42.340423,
     "geom:longitude":-71.839088,
@@ -31,17 +32,26 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GKjqAfiQ70vCLaFfm6AtI_42.340423_-71.839088@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725590,
-    "wof:geomhash":"72a0992c3047aa0ecbc752d306a6884d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b969aa49108594dfd3dc6fc348e02cd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":672733365
+        }
+    ],
     "wof:id":672733365,
-    "wof:lastmodified":1472625966,
+    "wof:lastmodified":1492112382,
     "wof:name":"Rochdale Fuels",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

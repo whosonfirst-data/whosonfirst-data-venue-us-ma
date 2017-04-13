@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.734383,41.7712,-70.734383,41.7712",
     "geom:latitude":41.7712,
     "geom:longitude":-70.734383,
@@ -35,7 +36,9 @@
         85633793,
         85950491,
         102084367,
-        85688645
+        85688645,
+        85854495,
+        85950489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721302,
-    "wof:geomhash":"2446714b5dc08cc28f302f315cd31678",
+    "wof:geomhash":"9983e9802f5e4811bbec3c5f951d35af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,22 @@
             "neighbourhood_id":85850177,
             "region_id":85688645,
             "venue_id":672542189
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476567,
+            "locality_id":85950489,
+            "neighbourhood_id":85854495,
+            "region_id":85688645,
+            "venue_id":672542189
         }
     ],
     "wof:id":672542189,
-    "wof:lastmodified":1472625798,
+    "wof:lastmodified":1492116128,
     "wof:name":"Blair School Figure Skating",
-    "wof:parent_id":85850177,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

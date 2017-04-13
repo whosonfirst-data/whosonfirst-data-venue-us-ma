@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.102356,42.125361,-71.102356,42.125361",
     "geom:latitude":42.125361,
     "geom:longitude":-71.102356,
@@ -31,17 +32,26 @@
         "pawnbroker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xNjnC8obtnuiyvcrufcj1_42.125361_-71.102356@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726957,
-    "wof:geomhash":"a24da6bc0de9e05d973ea6302021b04a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"537748a237f4c59043e26a090d0cd554",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672798963
+        }
+    ],
     "wof:id":672798963,
-    "wof:lastmodified":1472626042,
+    "wof:lastmodified":1492108590,
     "wof:name":"Cash-To-Go",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

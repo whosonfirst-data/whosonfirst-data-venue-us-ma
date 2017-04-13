@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.881333,41.639446,-70.881333,41.639446",
     "geom:latitude":41.639446,
     "geom:longitude":-70.881333,
@@ -31,17 +32,26 @@
         "salon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RSfAf70Ejgsch0JMUH9sm_41.639446_-70.881333@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742356,
-    "wof:geomhash":"6d95d0051dbec09ab1f2449a0eaf0328",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e7461ba3acba7376b03742ad1e2e24a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":689214637
+        }
+    ],
     "wof:id":689214637,
-    "wof:lastmodified":1472625621,
+    "wof:lastmodified":1492097501,
     "wof:name":"Caribbean Sun Tanning",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

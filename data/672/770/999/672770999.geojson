@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.728106,41.916081,-70.728106,41.916081",
     "geom:latitude":41.916081,
     "geom:longitude":-70.728106,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LovJnFIfGeGtiJI5hQkUJ_41.916081_-70.728106@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726390,
-    "wof:geomhash":"e7cdc7df8b176253ebeffa61e4da4fee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c554038a72e3f1a795a0100c46abaa93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672770999
+        }
+    ],
     "wof:id":672770999,
-    "wof:lastmodified":1472626008,
+    "wof:lastmodified":1492108525,
     "wof:name":"Fenecran Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.708902,42.508143,-72.708902,42.508143",
     "geom:latitude":42.508143,
     "geom:longitude":-72.708902,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jvsDjW6hQBcTTfbw5a1VS_42.508143_-72.708902@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716108,
-    "wof:geomhash":"f1be31860441a9be59633f3b30f060f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d45987cc5900845fbd9880c188b2f355",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523511,
+            "venue_id":672323971
+        }
+    ],
     "wof:id":672323971,
-    "wof:lastmodified":1472625563,
+    "wof:lastmodified":1492117520,
     "wof:name":"Roaring Brook Excavation",
     "wof:parent_id":420523511,
     "wof:placetype":"venue",

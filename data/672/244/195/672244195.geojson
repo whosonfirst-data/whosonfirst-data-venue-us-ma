@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.607979,41.650722,-70.607979,41.650722",
     "geom:latitude":41.650722,
     "geom:longitude":-70.607979,
@@ -31,17 +32,26 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lcJM0mw58ojRLEIToWtyF_41.650722_-70.607979@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714493,
-    "wof:geomhash":"ccb7dc03560ae2d85d41be354afc5abe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae98de459db52c2c21c0d1f604a05409",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672244195
+        }
+    ],
     "wof:id":672244195,
-    "wof:lastmodified":1472625332,
+    "wof:lastmodified":1492118949,
     "wof:name":"Ocean Breeze Vacations",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

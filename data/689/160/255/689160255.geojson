@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.734703,41.914506,-70.734703,41.914506",
     "geom:latitude":41.914506,
     "geom:longitude":-70.734703,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sPWwCx87pIdvDQRv8TiSK_41.914506_-70.734703@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741173,
-    "wof:geomhash":"cdfdde0ebcf4ea0e57f60b85e8e440da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b96204db41ea1e6deed7740abe00aa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689160255
+        }
+    ],
     "wof:id":689160255,
-    "wof:lastmodified":1472625502,
+    "wof:lastmodified":1492101095,
     "wof:name":"AA Pilgrim Pumping Service",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

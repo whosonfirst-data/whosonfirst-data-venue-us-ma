@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.798629,42.033621,-72.798629,42.033621",
     "geom:latitude":42.033621,
     "geom:longitude":-72.798629,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ChGLx66id6vhxRobYTJ0d_42.033621_-72.798629@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725785,
-    "wof:geomhash":"c22fcd906fc7ea0f6f82b4ed8f8392ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"703cd33dec898b29534f2ec8ac2b919c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523599,
+            "venue_id":672742463
+        }
+    ],
     "wof:id":672742463,
-    "wof:lastmodified":1472625982,
+    "wof:lastmodified":1492116794,
     "wof:name":"T J Welch Inc",
     "wof:parent_id":420523599,
     "wof:placetype":"venue",

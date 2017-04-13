@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.37746,42.605011,-71.37746,42.605011",
     "geom:latitude":42.605011,
     "geom:longitude":-71.37746,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YIKiHQheIstcjNqBLY2Uv_42.605011_-71.377460@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711507,
-    "wof:geomhash":"26e8ae670438e26bc53a0df3de4ac217",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75ee0419aacf52072517356c9fe8ce25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":656375955
+        }
+    ],
     "wof:id":656375955,
-    "wof:lastmodified":1472625033,
+    "wof:lastmodified":1492101310,
     "wof:name":"Donald Ducharme Construction",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

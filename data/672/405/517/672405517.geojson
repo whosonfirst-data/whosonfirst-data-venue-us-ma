@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.188232,42.351947,-71.188232,42.351947",
     "geom:latitude":42.351947,
     "geom:longitude":-71.188232,
@@ -31,17 +32,34 @@
         "fuel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zY3BSEHCNGRKLfX73QFi0_42.351947_-71.188232@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718043,
-    "wof:geomhash":"2b1fbb7a0573a15ba7aba89eea50885b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"625d947327426b5ac36759d3b9d96970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":672405517
+        }
+    ],
     "wof:id":672405517,
-    "wof:lastmodified":1472625670,
+    "wof:lastmodified":1492108025,
     "wof:name":"Bennington Design Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

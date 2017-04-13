@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.39096,42.644256,-71.39096,42.644256",
     "geom:latitude":42.644256,
     "geom:longitude":-71.39096,
@@ -32,17 +33,26 @@
         "night"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Wo4GAiFglM8kuHgNhf3yQ_42.644256_-71.390960@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729353,
-    "wof:geomhash":"b0cc8928ff30c204c42e9593f6d0deb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dafda160f70c88ed5071605927628407",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672915831
+        }
+    ],
     "wof:id":672915831,
-    "wof:lastmodified":1472626136,
+    "wof:lastmodified":1492117197,
     "wof:name":"Alambique",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

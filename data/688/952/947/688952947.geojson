@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.112297,42.1367,-71.112297,42.1367",
     "geom:latitude":42.1367,
     "geom:longitude":-71.112297,
@@ -33,17 +34,26 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FbLMszTazznHTLiqHvLYM_42.136700_-71.112297@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736307,
-    "wof:geomhash":"e365d5c71bc895fc1427b11004e787c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72279a6c0628a2c97572871db64a44ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688952947
+        }
+    ],
     "wof:id":688952947,
-    "wof:lastmodified":1472625182,
+    "wof:lastmodified":1492120330,
     "wof:name":"Pages Groceries & Liquors",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

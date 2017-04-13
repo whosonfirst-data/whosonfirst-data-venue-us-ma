@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.899312,42.162501,-71.899312,42.162501",
     "geom:latitude":42.162501,
     "geom:longitude":-71.899312,
@@ -33,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420524189,
+        85688645,
         85808993,
         102084655
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461715337,
-    "wof:geomhash":"282807a45330ec90180f5154d9752b39",
+    "wof:geomhash":"cd451767a7a104d293be849bc676b702",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524189,
+            "venue_id":672286835
+        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":672286835,
-    "wof:lastmodified":1472625478,
+    "wof:lastmodified":1492106296,
     "wof:name":"Creative Marine & Canvas",
-    "wof:parent_id":85808993,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.06839,41.651316,-71.06839,41.651316",
     "geom:latitude":41.651316,
     "geom:longitude":-71.06839,
@@ -31,17 +32,26 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mAktCYZCievrBzV6za5ml_41.651316_-71.068390@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714388,
-    "wof:geomhash":"ef0c43ef8940f2f7667dd52cc4ed603e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"547e794c1a5861005838c815ce52f9b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672238779
+        }
+    ],
     "wof:id":672238779,
-    "wof:lastmodified":1472625319,
+    "wof:lastmodified":1492117266,
     "wof:name":"Henry's Diesel Performance Inc",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.552104,41.903334,-70.552104,41.903334",
     "geom:latitude":41.903334,
     "geom:longitude":-70.552104,
@@ -31,19 +32,38 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85832139,
+        102084367,
+        420523823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zQEuC16hqmmpgzGeTjfol_41.903334_-70.552104@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732341,
-    "wof:geomhash":"2a812e5fc2aed28e36e52ed002f70f10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ea4e64275a9201d694e52c2167cb0da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85832139,
+            "region_id":85688645,
+            "venue_id":673030511
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523823,
+            "venue_id":673030511
+        }
+    ],
     "wof:id":673030511,
-    "wof:lastmodified":1472625026,
+    "wof:lastmodified":1492104539,
     "wof:name":"Laitinen Construction Co",
-    "wof:parent_id":420523823,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.041927,42.471192,-71.041927,42.471192",
     "geom:latitude":42.471192,
     "geom:longitude":-71.041927,
@@ -32,17 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523467,
-        102191575,
-        404476265,
-        85633793,
-        85950809,
-        102084463,
-        85688645,
         420523687,
+        102191575,
         404476405,
+        85633793,
         85950345,
-        102084643
+        102084643,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,18 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461727282,
-    "wof:geomhash":"6b2e7b377931201a8725c5afee2d09e7",
+    "wof:geomhash":"6211f9ce10a8f625db53967033bccdfb",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476265,
-            "locality_id":85950809,
-            "neighbourhood_id":420523467,
-            "region_id":85688645,
-            "venue_id":672814119
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -74,9 +61,9 @@
         }
     ],
     "wof:id":672814119,
-    "wof:lastmodified":1472626039,
+    "wof:lastmodified":1492118438,
     "wof:name":"Gammon BG",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

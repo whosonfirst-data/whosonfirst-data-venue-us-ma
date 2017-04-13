@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.206657,41.7477,-71.206657,41.7477",
     "geom:latitude":41.7477,
     "geom:longitude":-71.206657,
@@ -36,17 +37,26 @@
         "auction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6v6ZhdKHElKUhW8RGaful9_41.747700_-71.206657@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742528,
-    "wof:geomhash":"d1e32416ab334f9c2335fb630b6286b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ef009af7e15bd9d909574d70b90445c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":689222057
+        }
+    ],
     "wof:id":689222057,
-    "wof:lastmodified":1472625611,
+    "wof:lastmodified":1492100207,
     "wof:name":"Camara's Auction Barn",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

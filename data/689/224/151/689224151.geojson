@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.087471,41.6768,-71.087471,41.6768",
     "geom:latitude":41.6768,
     "geom:longitude":-71.087471,
@@ -46,17 +47,26 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GivPswiGTPX68Z7bHrFmk_41.676800_-71.087471@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742574,
-    "wof:geomhash":"894551885edf0b6fe539d453e914afb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5654868ac38cce451c0014b388a8e3af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":689224151
+        }
+    ],
     "wof:id":689224151,
-    "wof:lastmodified":1472625615,
+    "wof:lastmodified":1492097811,
     "wof:name":"Ouellette Plumbing & Heating",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

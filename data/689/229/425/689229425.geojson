@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.870356,42.806374,-70.870356,42.806374",
     "geom:latitude":42.806374,
     "geom:longitude":-70.870356,
@@ -36,13 +37,14 @@
     "sg:website":"http://www.bfisher.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827619,
+        85891457,
         102191575,
         404476251,
         85633793,
         85950409,
         102084463,
-        85688645
+        85688645,
+        85827619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +52,18 @@
     },
     "wof:country":"US",
     "wof:created":1461742682,
-    "wof:geomhash":"ca6e7d6b5c6123bb3efc5dc020cba4ee",
+    "wof:geomhash":"dafca7460092ce336c1938342e4bc2b7",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476251,
+            "locality_id":85950409,
+            "neighbourhood_id":85891457,
+            "region_id":85688645,
+            "venue_id":689229425
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -64,9 +76,9 @@
         }
     ],
     "wof:id":689229425,
-    "wof:lastmodified":1472625639,
+    "wof:lastmodified":1492098642,
     "wof:name":"Fisher Marketing",
-    "wof:parent_id":85827619,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.017927,41.969508,-71.017927,41.969508",
     "geom:latitude":41.969508,
     "geom:longitude":-71.017927,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ojgkCvwBFdQiRYfdZUQby_41.969508_-71.017927@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712460,
-    "wof:geomhash":"b5e7066be3b0d16cbfb45cdb473f4bc1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71dfbf08fb024facbf2975fe568e40f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672150485
+        }
+    ],
     "wof:id":672150485,
-    "wof:lastmodified":1472624954,
+    "wof:lastmodified":1492116675,
     "wof:name":"George Andruk",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

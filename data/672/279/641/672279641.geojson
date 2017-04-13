@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.956844,42.654371,-70.956844,42.654371",
     "geom:latitude":42.654371,
     "geom:longitude":-70.956844,
@@ -39,7 +40,8 @@
         85633793,
         85950813,
         102084463,
-        85688645
+        85688645,
+        420523475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461715192,
-    "wof:geomhash":"41f89b06d84ce612499eaa60e50d53a5",
+    "wof:geomhash":"a496d03354d6d8f3bb2e9cd64db87408",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,17 @@
             "neighbourhood_id":85828503,
             "region_id":85688645,
             "venue_id":672279641
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672279641
         }
     ],
     "wof:id":672279641,
-    "wof:lastmodified":1472625453,
+    "wof:lastmodified":1492113856,
     "wof:name":"Haines Enterprises",
-    "wof:parent_id":85828503,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.903114,41.649045,-70.903114,41.649045",
     "geom:latitude":41.649045,
     "geom:longitude":-70.903114,
@@ -31,17 +32,26 @@
         "trust"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33gJJeeMFaCJbn8AxNbFS6_41.649045_-70.903114@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742356,
-    "wof:geomhash":"1e4e6da7206a085bafea4fc51e405c00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"765174ecb9dd3a024812a1e2607dd154",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":689214641
+        }
+    ],
     "wof:id":689214641,
-    "wof:lastmodified":1472625621,
+    "wof:lastmodified":1492097496,
     "wof:name":"Durfee Construction",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.807701,42.003307,-70.807701,42.003307",
     "geom:latitude":42.003307,
     "geom:longitude":-70.807701,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yUhb9yNi0gyVTo1i2SEvt_42.003307_-70.807701@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719873,
-    "wof:geomhash":"5f50b1d33d1130685534b4b7762bd39a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70dbceadd7702a2b8569f75718f4ba76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672477403
+        }
+    ],
     "wof:id":672477403,
-    "wof:lastmodified":1472625741,
+    "wof:lastmodified":1492115658,
     "wof:name":"Brady Haulin",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

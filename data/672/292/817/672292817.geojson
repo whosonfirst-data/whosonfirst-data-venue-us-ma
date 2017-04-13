@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.517635,41.649166,-70.517635,41.649166",
     "geom:latitude":41.649166,
     "geom:longitude":-70.517635,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85841877,
-        102084379
+        102084379,
+        420523231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461715461,
-    "wof:geomhash":"bda44446a794cd323fc1ce3fdb56ae82",
+    "wof:geomhash":"3b0d5b32023b0a0d702215e6dfbd5da7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,17 @@
             "neighbourhood_id":85841877,
             "region_id":85688645,
             "venue_id":672292817
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672292817
         }
     ],
     "wof:id":672292817,
-    "wof:lastmodified":1472625485,
+    "wof:lastmodified":1492109897,
     "wof:name":"Winstar",
-    "wof:parent_id":85841877,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

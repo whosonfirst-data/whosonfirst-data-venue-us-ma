@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.960623,42.69003,-70.960623,42.69003",
     "geom:latitude":42.69003,
     "geom:longitude":-70.960623,
@@ -31,17 +32,26 @@
         "telecommunication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xiCe6bL0AMqvSAt8TsAkZ_42.690030_-70.960623@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726810,
-    "wof:geomhash":"0a1e517d6697f98a1aa455c106b3862d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6757dfc6f2aac4240cff1145d0f334b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672791059
+        }
+    ],
     "wof:id":672791059,
-    "wof:lastmodified":1472626013,
+    "wof:lastmodified":1492113742,
     "wof:name":"Mc Carron Telecommunications",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

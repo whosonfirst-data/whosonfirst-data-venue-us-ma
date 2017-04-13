@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.563794,41.816681,-70.563794,41.816681",
     "geom:latitude":41.816681,
     "geom:longitude":-70.563794,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F2dPB09n3qZq7ZxCAAdVo_41.816681_-70.563794@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713942,
-    "wof:geomhash":"15560ec94ed0997ce2f450b344e603a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b8503754f0ad133c7ca26656b757bed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":672218511
+        }
+    ],
     "wof:id":672218511,
-    "wof:lastmodified":1472625250,
+    "wof:lastmodified":1492107642,
     "wof:name":"Boston Gliders Inc",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

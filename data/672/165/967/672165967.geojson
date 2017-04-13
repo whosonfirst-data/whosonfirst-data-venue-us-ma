@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.550513,42.211261,-71.550513,42.211261",
     "geom:latitude":42.211261,
     "geom:longitude":-71.550513,
@@ -31,19 +32,32 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837827,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41q53gLhIG576tcVNfvw6m_42.211261_-71.550513@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712810,
-    "wof:geomhash":"5f02da8769232369a53d23a0013741da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b286c35e87176c17238e46b441e7bc8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85837827,
+            "region_id":85688645,
+            "venue_id":672165967
+        }
+    ],
     "wof:id":672165967,
-    "wof:lastmodified":1472625038,
+    "wof:lastmodified":1492110926,
     "wof:name":"Joseph A Menna & Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85837827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

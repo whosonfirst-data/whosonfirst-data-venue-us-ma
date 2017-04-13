@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.799282,41.950713,-70.799282,41.950713",
     "geom:latitude":41.950713,
     "geom:longitude":-70.799282,
@@ -33,17 +34,26 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DDCy8nO8zQ03mr4h4wnEJ_41.950713_-70.799282@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729908,
-    "wof:geomhash":"baec6b7e276036bb496714f4295dcce0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57591ea073e78f74c25ab1382e061221",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":672941921
+        }
+    ],
     "wof:id":672941921,
-    "wof:lastmodified":1472626153,
+    "wof:lastmodified":1492115982,
     "wof:name":"Coastline Cabinetry",
     "wof:parent_id":420523949,
     "wof:placetype":"venue",

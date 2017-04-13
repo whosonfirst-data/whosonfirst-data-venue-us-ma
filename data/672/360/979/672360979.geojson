@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.543512,41.791256,-70.543512,41.791256",
     "geom:latitude":41.791256,
     "geom:longitude":-70.543512,
@@ -34,10 +35,13 @@
     "sg:website":"www.eaglemarine1.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        420523873,
+        102191575,
+        404475895,
         85633793,
-        85806815,
-        102084379
+        85950589,
+        102084379,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,20 +49,23 @@
     },
     "wof:country":"US",
     "wof:created":1461716994,
-    "wof:geomhash":"207bb097f20e2db05642384357582e69",
+    "wof:geomhash":"62a46235f438ef2aa530bb1cd9bf8b5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084379,
-            "neighbourhood_id":85806815,
+            "localadmin_id":404475895,
+            "locality_id":85950589,
+            "neighbourhood_id":420523873,
             "region_id":85688645,
             "venue_id":672360979
         }
     ],
     "wof:id":672360979,
-    "wof:lastmodified":1472625632,
+    "wof:lastmodified":1492111265,
     "wof:name":"Eagle Marine Inc",
-    "wof:parent_id":85806815,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.203463,41.74201,-71.203463,41.74201",
     "geom:latitude":41.74201,
     "geom:longitude":-71.203463,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vz5s9nPuDkiFgBHQsY8tQ_41.742010_-71.203463@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730895,
-    "wof:geomhash":"a3084a00a983e2b51b89314b4667f923",
-    "wof:hierarchy":[],
+    "wof:geomhash":"777bb6cb7784d5fa8241aeae5eaf2ae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":672974485
+        }
+    ],
     "wof:id":672974485,
-    "wof:lastmodified":1472626185,
+    "wof:lastmodified":1492107010,
     "wof:name":"Wayne's Auto Svc",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

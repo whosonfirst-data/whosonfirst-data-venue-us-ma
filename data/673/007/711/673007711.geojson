@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.241239,42.614867,-71.241239,42.614867",
     "geom:latitude":42.614867,
     "geom:longitude":-71.241239,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85851973,
-        102084643
+        102084643,
+        85854427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461731746,
-    "wof:geomhash":"af10393b19cd18c1c6a11c73c34a672c",
+    "wof:geomhash":"0a6a8205c30fe6e2974f483433bcb14e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,19 @@
             "neighbourhood_id":85851973,
             "region_id":85688645,
             "venue_id":673007711
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85854427,
+            "region_id":85688645,
+            "venue_id":673007711
         }
     ],
     "wof:id":673007711,
-    "wof:lastmodified":1472624966,
+    "wof:lastmodified":1492102673,
     "wof:name":"Main Street Getty",
-    "wof:parent_id":85851973,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

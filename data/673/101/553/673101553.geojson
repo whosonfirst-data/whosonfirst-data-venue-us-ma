@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.609661,42.378946,-72.609661,42.378946",
     "geom:latitude":42.378946,
     "geom:longitude":-72.609661,
@@ -31,17 +32,26 @@
         "instruments-industrial-repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24V4WlD44iZ4pHBGeLigjv_42.378946_-72.609661@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733789,
-    "wof:geomhash":"a36f67d26e3574d46483342cc6744a51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4a33b212d2f9f4984eb1ea4bb70d592",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523649,
+            "venue_id":673101553
+        }
+    ],
     "wof:id":673101553,
-    "wof:lastmodified":1472625276,
+    "wof:lastmodified":1492102716,
     "wof:name":"Jb Precision",
     "wof:parent_id":420523649,
     "wof:placetype":"venue",

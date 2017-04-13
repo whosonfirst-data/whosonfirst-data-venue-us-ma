@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.124039,42.137005,-71.124039,42.137005",
     "geom:latitude":42.137005,
     "geom:longitude":-71.124039,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kyrwHvd70VF9UsF5kSjGj_42.137005_-71.124039@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731891,
-    "wof:geomhash":"e44a7b350f47213da8e1871498280ca6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4511dcef45fd5502bb6f1b373943fb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":673013823
+        }
+    ],
     "wof:id":673013823,
-    "wof:lastmodified":1472624964,
+    "wof:lastmodified":1492103760,
     "wof:name":"Safe Serve",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

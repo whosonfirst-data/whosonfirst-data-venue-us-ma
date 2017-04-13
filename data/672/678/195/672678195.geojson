@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.543174,41.814507,-70.543174,41.814507",
     "geom:latitude":41.814507,
     "geom:longitude":-70.543174,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XXvolGMDp275DedY0gLyW_41.814507_-70.543174@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724342,
-    "wof:geomhash":"e4fa9ffb5f59ed1531e5bfb645d1fc25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d573c6b9c41eb97325172ca0d0519c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":672678195
+        }
+    ],
     "wof:id":672678195,
-    "wof:lastmodified":1472625919,
+    "wof:lastmodified":1492112279,
     "wof:name":"Jep & Sons Home Remodel",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

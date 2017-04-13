@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.988252,42.789603,-70.988252,42.789603",
     "geom:latitude":42.789603,
     "geom:longitude":-70.988252,
@@ -33,17 +34,26 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13jSfCxyKbXijpGwYosxVt_42.789603_-70.988252@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728480,
-    "wof:geomhash":"f67e390ec4cb179f69cb9eb1b3900e37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7eb826e064be7b1ff7ec27d795b00e3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672872081
+        }
+    ],
     "wof:id":672872081,
-    "wof:lastmodified":1472626093,
+    "wof:lastmodified":1492110721,
     "wof:name":"Grossman & Grossman Counseling",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

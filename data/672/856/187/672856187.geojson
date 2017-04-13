@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.480117,41.720341,-70.480117,41.720341",
     "geom:latitude":41.720341,
     "geom:longitude":-70.480117,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85852115,
+        102191575,
+        404476193,
         85633793,
-        85809011,
-        102084379
+        85950591,
+        102084379,
+        85688645,
+        85809011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461728109,
-    "wof:geomhash":"abf666e4aef24fe7e12dbb45841adf71",
+    "wof:geomhash":"c2f822e483b4ee0f685a0e6caf522653",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404476193,
+            "locality_id":85950591,
+            "neighbourhood_id":85852115,
+            "region_id":85688645,
+            "venue_id":672856187
+        },
         {
             "country_id":85633793,
             "county_id":102084379,
@@ -54,9 +69,9 @@
         }
     ],
     "wof:id":672856187,
-    "wof:lastmodified":1472626075,
+    "wof:lastmodified":1492115539,
     "wof:name":"Lawrence Ready Mix",
-    "wof:parent_id":85809011,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

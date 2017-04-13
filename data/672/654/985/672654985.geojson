@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.414842,42.552149,-71.414842,42.552149",
     "geom:latitude":42.552149,
     "geom:longitude":-71.414842,
@@ -31,8 +32,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85854471,
-        102084643
+        85840657,
+        102084643,
+        85854471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +42,15 @@
     },
     "wof:country":"US",
     "wof:created":1461723823,
-    "wof:geomhash":"8bd8b1de2fb47f68e44557fe0d51ca9b",
+    "wof:geomhash":"7eba6557df8e909ba3a8fbcfbaae6299",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85840657,
+            "region_id":85688645,
+            "venue_id":672654985
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -51,9 +60,9 @@
         }
     ],
     "wof:id":672654985,
-    "wof:lastmodified":1472625908,
+    "wof:lastmodified":1492117313,
     "wof:name":"Business Basics Inc",
-    "wof:parent_id":85854471,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

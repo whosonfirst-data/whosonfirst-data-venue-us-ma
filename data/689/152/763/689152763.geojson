@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.766953,41.890289,-70.766953,41.890289",
     "geom:latitude":41.890289,
     "geom:longitude":-70.766953,
@@ -32,17 +33,26 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53QolheTIHTUh7bcVhYBxY_41.890289_-70.766953@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740998,
-    "wof:geomhash":"a16cd3905bc2a0356ed269d7e4edf42a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bd726fae0e7e5b6552cecb472c04243",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152763
+        }
+    ],
     "wof:id":689152763,
-    "wof:lastmodified":1472625517,
+    "wof:lastmodified":1492101009,
     "wof:name":"Carver Housing Authority",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

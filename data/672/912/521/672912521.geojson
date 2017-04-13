@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.836287,42.292065,-71.836287,42.292065",
     "geom:latitude":42.292065,
     "geom:longitude":-71.836287,
@@ -39,7 +40,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85846789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461729291,
-    "wof:geomhash":"d4512e4fdb9cd9196199c53930837bf4",
+    "wof:geomhash":"ff2bf0f6ad576d06a81c5a58778d25e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,20 @@
             "neighbourhood_id":85857275,
             "region_id":85688645,
             "venue_id":672912521
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "locality_id":85950375,
+            "neighbourhood_id":85846789,
+            "region_id":85688645,
+            "venue_id":672912521
         }
     ],
     "wof:id":672912521,
-    "wof:lastmodified":1472626129,
+    "wof:lastmodified":1492106856,
     "wof:name":"Items of Impulse",
-    "wof:parent_id":85857275,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

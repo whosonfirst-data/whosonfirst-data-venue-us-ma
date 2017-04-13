@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.991383,41.856071,-69.991383,41.856071",
     "geom:latitude":41.856071,
     "geom:longitude":-69.991383,
@@ -33,7 +34,9 @@
         85633793,
         85950571,
         102084379,
-        85809163
+        85809163,
+        102191575,
+        420523217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722828,
-    "wof:geomhash":"55f3c55b83f948d4963ac5bb8b7a1677",
+    "wof:geomhash":"dd1ee4a8b5352385d9e6ee21afc131cd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +53,21 @@
             "neighbourhood_id":85809163,
             "region_id":85688645,
             "venue_id":672610145
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "locality_id":85950571,
+            "neighbourhood_id":420523217,
+            "region_id":85688645,
+            "venue_id":672610145
         }
     ],
     "wof:id":672610145,
-    "wof:lastmodified":1472625856,
+    "wof:lastmodified":1492116828,
     "wof:name":"Larry T Hartung OD",
-    "wof:parent_id":85809163,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

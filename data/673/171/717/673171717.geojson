@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.963405,42.741796,-70.963405,42.741796",
     "geom:latitude":42.741796,
     "geom:longitude":-70.963405,
@@ -33,17 +34,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nm31HMiWHDBwdXJPIOBkT_42.741796_-70.963405@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735262,
-    "wof:geomhash":"16e22f85535172a9286ec3fb3528a7f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f33074bf4e092d77d297d71bba155e85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673171717
+        }
+    ],
     "wof:id":673171717,
-    "wof:lastmodified":1472625473,
+    "wof:lastmodified":1492103721,
     "wof:name":"Jake Electrical Services",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

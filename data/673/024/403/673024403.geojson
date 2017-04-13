@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.300703,41.782232,-71.300703,41.782232",
     "geom:latitude":41.782232,
     "geom:longitude":-71.300703,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476141,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EPKXzE1ShLEWl7MEles7F_41.782232_-71.300703@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732165,
-    "wof:geomhash":"3079ff5faaf0084a2fab1bb3afe36cd6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86d5ca41154ce05a331bf09082c43d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476141,
+            "region_id":85688645,
+            "venue_id":673024403
+        }
+    ],
     "wof:id":673024403,
-    "wof:lastmodified":1472625016,
+    "wof:lastmodified":1492105425,
     "wof:name":"Pond View Excavation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

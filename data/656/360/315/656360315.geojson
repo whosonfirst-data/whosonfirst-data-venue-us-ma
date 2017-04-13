@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.787799,42.237297,-70.787799,42.237297",
     "geom:latitude":42.237297,
     "geom:longitude":-70.787799,
@@ -31,17 +32,26 @@
         "club"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6M1u3EVBKPCHrgkBMc18ih_42.237297_-70.787799@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711175,
-    "wof:geomhash":"9ba2cd78a8800a7dbbcdbbe02588f449",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d50ae8c73005adcb0ecc909f2b081ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":656360315
+        }
+    ],
     "wof:id":656360315,
-    "wof:lastmodified":1472624937,
+    "wof:lastmodified":1492101644,
     "wof:name":"Cohasset Sailing Club",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

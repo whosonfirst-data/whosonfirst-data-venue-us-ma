@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.890503,41.85965,-70.890503,41.85965",
     "geom:latitude":41.85965,
     "geom:longitude":-70.890503,
@@ -37,17 +38,26 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30iX5WCkjDU8wMsqrMr94j_41.859650_-70.890503@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741067,
-    "wof:geomhash":"57779ac174c67926240b4e8a253a6b1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bf7e328343677f783aef70966742102",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":689155729
+        }
+    ],
     "wof:id":689155729,
-    "wof:lastmodified":1472625521,
+    "wof:lastmodified":1492100386,
     "wof:name":"J. L. Finch Real Estate",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

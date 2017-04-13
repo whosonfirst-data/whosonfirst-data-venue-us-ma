@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.806207,42.16883,-71.806207,42.16883",
     "geom:latitude":42.16883,
     "geom:longitude":-71.806207,
@@ -33,19 +34,28 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vaU500aZBpGgvkXeJ5AII_42.168830_-71.806207@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722397,
-    "wof:geomhash":"a4a3f61978dc13f65c0f8963e68e9699",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f8356f1ce23105f21c3ee489fd0ab89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672591511
+        }
+    ],
     "wof:id":672591511,
-    "wof:lastmodified":1472625847,
+    "wof:lastmodified":1492116154,
     "wof:name":"T J's Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":420524071,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

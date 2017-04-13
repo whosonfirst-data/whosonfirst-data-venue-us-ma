@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.934838,42.094712,-71.934838,42.094712",
     "geom:latitude":42.094712,
     "geom:longitude":-71.934838,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524095
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Er5t6jC80CCow1yBtqNev_42.094604_-71.934798@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732927,
-    "wof:geomhash":"ad2ab35582f32590584fed1899924dfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7e0d6928b51815b874bb9563377f169",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524095,
+            "venue_id":673058923
+        }
+    ],
     "wof:id":673058923,
-    "wof:lastmodified":1472625177,
+    "wof:lastmodified":1492104739,
     "wof:name":"Prunier Plumbing & Heating",
     "wof:parent_id":420524095,
     "wof:placetype":"venue",

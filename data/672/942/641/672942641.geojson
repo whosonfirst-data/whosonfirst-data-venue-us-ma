@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.549822,41.823643,-70.549822,41.823643",
     "geom:latitude":41.823643,
     "geom:longitude":-70.549822,
@@ -31,17 +32,26 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hWQf6jfSok7SXnj1UYkL0_41.823643_-70.549822@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729930,
-    "wof:geomhash":"2a77b96c5f8ca11c410042c27bf53d50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f2781f2b692bb568b6878e53b7d9097",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":672942641
+        }
+    ],
     "wof:id":672942641,
-    "wof:lastmodified":1472626161,
+    "wof:lastmodified":1492106335,
     "wof:name":"Dan Gillis Auto Sales",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

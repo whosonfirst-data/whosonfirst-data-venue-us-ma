@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.862782,41.640899,-70.862782,41.640899",
     "geom:latitude":41.640899,
     "geom:longitude":-70.862782,
@@ -31,17 +32,26 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0z9rCgiQXnrWgduGSSEL2l_41.640899_-70.862782@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726213,
-    "wof:geomhash":"3d2e6f208c1095baf99ab6735404eba3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e6c30d38685d47f43482147da0828f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523387,
+            "venue_id":672762841
+        }
+    ],
     "wof:id":672762841,
-    "wof:lastmodified":1472626000,
+    "wof:lastmodified":1492108390,
     "wof:name":"Ceramtec Dental Studio",
     "wof:parent_id":420523387,
     "wof:placetype":"venue",

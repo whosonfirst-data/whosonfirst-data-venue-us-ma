@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.852818,42.276731,-71.852818,42.276731",
     "geom:latitude":42.276731,
     "geom:longitude":-71.852818,
@@ -47,17 +48,36 @@
     ],
     "sg:website":"http://locators.bankofamerica.com/a/BC-14349",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420558267,
+        102191575,
+        404476639,
+        85633793,
+        85950375,
+        102084655,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7J30sgFy0j2coPBpdqQ3SD_42.276731_-71.852818@1303262187"
     },
     "wof:country":"US",
     "wof:created":1461734418,
-    "wof:geomhash":"2229ead996fa6d155cff040d89badf1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5cafb4d2df9071b8d4f5e0614fe4926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":420558267,
+            "region_id":85688645,
+            "venue_id":673131119
+        }
+    ],
     "wof:id":673131119,
-    "wof:lastmodified":1472625341,
+    "wof:lastmodified":1492103790,
     "wof:name":"Bank Of America",
     "wof:parent_id":420558267,
     "wof:placetype":"venue",

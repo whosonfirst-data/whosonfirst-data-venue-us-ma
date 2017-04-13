@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.649548,41.747696,-70.649548,41.747696",
     "geom:latitude":41.747696,
     "geom:longitude":-70.649548,
@@ -35,10 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85844969,
+        102191575,
+        404476567,
         85633793,
-        85842535,
-        102084367
+        85950481,
+        102084367,
+        85688645,
+        85842535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +51,18 @@
     },
     "wof:country":"US",
     "wof:created":1461711095,
-    "wof:geomhash":"55a2a32abfd33cd6395b37891ef7d273",
+    "wof:geomhash":"5282f6ca1979bb6f481b16490cea220a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476567,
+            "locality_id":85950481,
+            "neighbourhood_id":85844969,
+            "region_id":85688645,
+            "venue_id":656356747
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -57,9 +72,9 @@
         }
     ],
     "wof:id":656356747,
-    "wof:lastmodified":1472624953,
+    "wof:lastmodified":1492101254,
     "wof:name":"Mcman Floors Inc",
-    "wof:parent_id":85842535,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

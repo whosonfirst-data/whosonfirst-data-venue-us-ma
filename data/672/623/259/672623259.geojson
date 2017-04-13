@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.947245,42.698402,-70.947245,42.698402",
     "geom:latitude":42.698402,
     "geom:longitude":-70.947245,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85845839,
-        102084463
+        102084463,
+        420523475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461723136,
-    "wof:geomhash":"3b3cf02a04d4e852b5ffa8031b85e536",
+    "wof:geomhash":"0cd1238c118a7a3513ae4cd4c69d2592",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,17 @@
             "neighbourhood_id":85845839,
             "region_id":85688645,
             "venue_id":672623259
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672623259
         }
     ],
     "wof:id":672623259,
-    "wof:lastmodified":1472625870,
+    "wof:lastmodified":1492107784,
     "wof:name":"Scott Powers Electrical Contg",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.724758,41.941272,-70.724758,41.941272",
     "geom:latitude":41.941272,
     "geom:longitude":-70.724758,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZCSBM9gYyJIY7sRq3pu0M_41.941272_-70.724758@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721269,
-    "wof:geomhash":"2a7521788a5cf90c80af47a3560b467e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af62fb522f2b771ad16263d3200a999c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672540501
+        }
+    ],
     "wof:id":672540501,
-    "wof:lastmodified":1472625797,
+    "wof:lastmodified":1492109187,
     "wof:name":"Bills Carpet",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

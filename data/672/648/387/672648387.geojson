@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.799542,42.045774,-70.799542,42.045774",
     "geom:latitude":42.045774,
     "geom:longitude":-70.799542,
@@ -32,19 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_706yyxqEir0kagkzC5sQDp_42.045774_-70.799542@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723679,
-    "wof:geomhash":"5556b714c367f6a5b7ec7c1af6dadad9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ccc64d994a1b4e140eb93260177f629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672648387
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":672648387
+        }
+    ],
     "wof:id":672648387,
-    "wof:lastmodified":1472625891,
+    "wof:lastmodified":1492110223,
     "wof:name":"Professional Services Group",
-    "wof:parent_id":420523871,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

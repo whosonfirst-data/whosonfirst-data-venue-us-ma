@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.451382,41.67188,-70.451382,41.67188",
     "geom:latitude":41.67188,
     "geom:longitude":-70.451382,
@@ -31,17 +32,26 @@
         "musician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Di6ZebJ2V8IXaMcYfhWqC_41.671880_-70.451382@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713785,
-    "wof:geomhash":"0f8939317302d639dbc1be2a17db35d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96e46a206647881871087d4c35071cdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672210885
+        }
+    ],
     "wof:id":672210885,
-    "wof:lastmodified":1472625233,
+    "wof:lastmodified":1492108893,
     "wof:name":"Harry French Musician Entrtn",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

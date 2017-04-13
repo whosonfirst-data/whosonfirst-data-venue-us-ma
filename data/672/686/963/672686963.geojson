@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.991652,42.257171,-71.991652,42.257171",
     "geom:latitude":42.257171,
     "geom:longitude":-71.991652,
@@ -35,7 +36,9 @@
         85688645,
         85633793,
         85825651,
-        102084655
+        102084655,
+        85950749,
+        85848639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461724565,
-    "wof:geomhash":"f5e168fc048551060220888e281749cd",
+    "wof:geomhash":"629ab27d957bcc92958520ad71ce56db",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +54,20 @@
             "neighbourhood_id":85825651,
             "region_id":85688645,
             "venue_id":672686963
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "locality_id":85950749,
+            "neighbourhood_id":85848639,
+            "region_id":85688645,
+            "venue_id":672686963
         }
     ],
     "wof:id":672686963,
-    "wof:lastmodified":1472625937,
+    "wof:lastmodified":1492106280,
     "wof:name":"Fancy Land Surveying",
-    "wof:parent_id":85825651,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

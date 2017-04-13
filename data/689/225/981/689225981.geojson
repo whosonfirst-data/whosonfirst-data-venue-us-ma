@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.650391,42.610599,-70.650391,42.610599",
     "geom:latitude":42.610599,
     "geom:longitude":-70.650391,
@@ -42,13 +43,14 @@
     "sg:website":"http://www.stimulatesolutions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891341,
+        85816353,
         102191575,
         404476197,
         85633793,
         85950419,
         102084463,
-        85688645
+        85688645,
+        85891341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,8 +58,18 @@
     },
     "wof:country":"US",
     "wof:created":1461742612,
-    "wof:geomhash":"1456f6dcb72393530dae5be407dfd09b",
+    "wof:geomhash":"70596a89a7f0c1061d2690f5eb96b64a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476197,
+            "locality_id":85950419,
+            "neighbourhood_id":85816353,
+            "region_id":85688645,
+            "venue_id":689225981
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -70,9 +82,9 @@
         }
     ],
     "wof:id":689225981,
-    "wof:lastmodified":1472625631,
+    "wof:lastmodified":1492096967,
     "wof:name":"Stimulate Solutions",
-    "wof:parent_id":85891341,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

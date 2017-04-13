@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.111118,41.622022,-71.111118,41.622022",
     "geom:latitude":41.622022,
     "geom:longitude":-71.111118,
@@ -31,19 +32,28 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43BDuDGlM0xRPsWZAWfKxM_41.622022_-71.111118@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713548,
-    "wof:geomhash":"f41da002377d71f98b70ba7d9354f2d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3c460555ecbdf7dd226ad1d4737d27d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":672199365
+        }
+    ],
     "wof:id":672199365,
-    "wof:lastmodified":1472625160,
+    "wof:lastmodified":1492119328,
     "wof:name":"Studio 25 Hair & Nail Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

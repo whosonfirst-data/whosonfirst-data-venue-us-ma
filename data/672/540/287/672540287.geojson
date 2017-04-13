@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.997116,42.708768,-71.997116,42.708768",
     "geom:latitude":42.708768,
     "geom:longitude":-71.997116,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476087,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EqCTrrxGs1OfdsWwx3qUj_42.708768_-71.997116@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721264,
-    "wof:geomhash":"29b19b2ccbbeb82f814d33540854d4e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24be3d850a242c0a918cdea9387fcc18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476087,
+            "region_id":85688645,
+            "venue_id":672540287
+        }
+    ],
     "wof:id":672540287,
-    "wof:lastmodified":1472625797,
+    "wof:lastmodified":1492109188,
     "wof:name":"David Grady",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

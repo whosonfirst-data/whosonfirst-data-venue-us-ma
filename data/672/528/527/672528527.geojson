@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.264616,41.809726,-71.264616,41.809726",
     "geom:latitude":41.809726,
     "geom:longitude":-71.264616,
@@ -31,19 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85849997,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CdglKmm0q1PWTootVD02C_41.809726_-71.264616@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721028,
-    "wof:geomhash":"13945309691f2ed0b3f4bfa666d0ed09",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8633b900834787e5e4e7b85661659e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85849997,
+            "region_id":85688645,
+            "venue_id":672528527
+        }
+    ],
     "wof:id":672528527,
-    "wof:lastmodified":1472625789,
+    "wof:lastmodified":1492109052,
     "wof:name":"Sal Custodio Home Imp Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85849997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

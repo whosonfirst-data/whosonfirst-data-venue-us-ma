@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.461777,41.665953,-70.461777,41.665953",
     "geom:latitude":41.665953,
     "geom:longitude":-70.461777,
@@ -31,17 +32,26 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gcdQNDmECJeAKXAjWWhQc_41.665953_-70.461777@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741964,
-    "wof:geomhash":"500683260aab4802bb6ac0fcc64d7c6f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c9bf76901f281ae729aefd487d012aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":689196085
+        }
+    ],
     "wof:id":689196085,
-    "wof:lastmodified":1472625590,
+    "wof:lastmodified":1492097240,
     "wof:name":"Paul K Mason Custom Build",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

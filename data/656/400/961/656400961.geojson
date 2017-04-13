@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.887184,41.940606,-70.887184,41.940606",
     "geom:latitude":41.940606,
     "geom:longitude":-70.887184,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0M0OfTIwqRMzogudnu4qls_41.940606_-70.887184@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712033,
-    "wof:geomhash":"1f835e8ababcd07efbc5362b0b053afb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38241a873555968de8af3b26958b9339",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523895,
+            "venue_id":656400961
+        }
+    ],
     "wof:id":656400961,
-    "wof:lastmodified":1472625106,
+    "wof:lastmodified":1492101473,
     "wof:name":"East Middleboro 4h",
     "wof:parent_id":420523895,
     "wof:placetype":"venue",

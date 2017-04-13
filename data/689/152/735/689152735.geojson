@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.785347,41.939129,-70.785347,41.939129",
     "geom:latitude":41.939129,
     "geom:longitude":-70.785347,
@@ -42,17 +43,26 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QPbCpHeK2HjENZNQiM9XD_41.939129_-70.785347@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740997,
-    "wof:geomhash":"b2341fe1550de8a658718e3da233e0c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90407b49360eb8bdbe05d2af64a4bbd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152735
+        }
+    ],
     "wof:id":689152735,
-    "wof:lastmodified":1472625516,
+    "wof:lastmodified":1492101003,
     "wof:name":"Falco Heating Service",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

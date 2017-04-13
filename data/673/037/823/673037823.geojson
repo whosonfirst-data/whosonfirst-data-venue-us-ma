@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.011072,41.949325,-71.011072,41.949325",
     "geom:latitude":41.949325,
     "geom:longitude":-71.011072,
@@ -31,17 +32,26 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tXeNOfLxY51wLbwkp5PWo_41.949377_-71.010856@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732485,
-    "wof:geomhash":"164b015bbdd0eb9dc79711eed8853836",
-    "wof:hierarchy":[],
+    "wof:geomhash":"faf8ddd3a1721f6ab5838c7c4cc2cdf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":673037823
+        }
+    ],
     "wof:id":673037823,
-    "wof:lastmodified":1472625099,
+    "wof:lastmodified":1492105264,
     "wof:name":"Olde Scotland Links",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.326325,41.829934,-71.326325,41.829934",
     "geom:latitude":41.829934,
     "geom:longitude":-71.326325,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85816693,
-        102084407
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"US",
     "wof:created":1461742518,
-    "wof:geomhash":"c1a4d10af83732bbc70e6bac01bfa526",
+    "wof:geomhash":"fea513c998b3b9526545c96add805e37",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084407,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
             "neighbourhood_id":85816693,
-            "region_id":85688645,
+            "region_id":85688509,
             "venue_id":689221699
         }
     ],
     "wof:id":689221699,
-    "wof:lastmodified":1472625631,
+    "wof:lastmodified":1492099581,
     "wof:name":"Landry Kevin P",
     "wof:parent_id":85816693,
     "wof:placetype":"venue",

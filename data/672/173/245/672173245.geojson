@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.13953,42.420904,-71.13953,42.420904",
     "geom:latitude":42.420904,
     "geom:longitude":-71.13953,
@@ -29,16 +30,16 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851731,
+        85833665,
         102191575,
-        404476467,
+        404476403,
         85633793,
-        85950665,
+        85950347,
         102084643,
         85688645,
-        85833665,
-        404476403,
-        85950347
+        85851731,
+        404476467,
+        85950665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461712969,
-    "wof:geomhash":"4f7c1e2e11829e2d6827d2b9e2331af7",
+    "wof:geomhash":"a5b74c184996f4cc53be1bc848c74b2d",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476467,
-            "locality_id":85950665,
-            "neighbourhood_id":85851731,
-            "region_id":85688645,
-            "venue_id":672173245
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +58,22 @@
             "neighbourhood_id":85833665,
             "region_id":85688645,
             "venue_id":672173245
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476467,
+            "locality_id":85950665,
+            "neighbourhood_id":85851731,
+            "region_id":85688645,
+            "venue_id":672173245
         }
     ],
     "wof:id":672173245,
-    "wof:lastmodified":1472625055,
+    "wof:lastmodified":1492115079,
     "wof:name":"Rogers Pest Control Indoor",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

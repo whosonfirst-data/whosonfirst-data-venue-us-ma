@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.878625,42.054065,-70.878625,42.054065",
     "geom:latitude":42.054065,
     "geom:longitude":-70.878625,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OgXFSMushsMjsw5Kg62eU_42.054065_-70.878625@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711261,
-    "wof:geomhash":"dc6ced00898b55765c695b25792a3b0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8aa54b4874007b5674e9e7798c9df411",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":656364691
+        }
+    ],
     "wof:id":656364691,
-    "wof:lastmodified":1472624966,
+    "wof:lastmodified":1492101426,
     "wof:name":"Nelson Electric Corp",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.735481,41.915391,-70.735481,41.915391",
     "geom:latitude":41.915391,
     "geom:longitude":-70.735481,
@@ -32,17 +33,26 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bn56XUujKFUIRZjUgVZhM_41.915391_-70.735481@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729620,
-    "wof:geomhash":"105b8ca0b1deaf4c902f479a0d0da2ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bcc517622317b6088d75f2a39abd4b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672929545
+        }
+    ],
     "wof:id":672929545,
-    "wof:lastmodified":1472626145,
+    "wof:lastmodified":1492114901,
     "wof:name":"Airport Mini Storage",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.083919,41.681295,-70.083919,41.681295",
     "geom:latitude":41.681295,
     "geom:longitude":-70.083919,
@@ -31,19 +32,38 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85842267,
+        102191575,
+        404476183,
+        85633793,
+        85950557,
+        102084379,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IZVpcZrZf8ESn78tRxPqZ_41.681295_-70.083919@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721706,
-    "wof:geomhash":"f39ac43572d591e67d49befad17d181b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9fc3df780a60203df36da8c635a8f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404476183,
+            "locality_id":85950557,
+            "neighbourhood_id":85842267,
+            "region_id":85688645,
+            "venue_id":672559943
+        }
+    ],
     "wof:id":672559943,
-    "wof:lastmodified":1472625836,
+    "wof:lastmodified":1492119251,
     "wof:name":"Harry Ellis Builder",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842267,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

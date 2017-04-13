@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.882488,41.640861,-70.882488,41.640861",
     "geom:latitude":41.640861,
     "geom:longitude":-70.882488,
@@ -32,17 +33,26 @@
         "frame"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_210JUjVzOIcUxMZFdX8bC9_41.640861_-70.882488@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725378,
-    "wof:geomhash":"6e4fd0455e685648d035a24187225b8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"932b68ad067b60da2dc5ffa856d793c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672723989
+        }
+    ],
     "wof:id":672723989,
-    "wof:lastmodified":1472625968,
+    "wof:lastmodified":1492114716,
     "wof:name":"Art Smart",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

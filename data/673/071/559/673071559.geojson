@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.7537,41.891571,-70.7537,41.891571",
     "geom:latitude":41.891571,
     "geom:longitude":-70.7537,
@@ -32,17 +33,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GEuf6xOokYNlFRM7Tfl7U_41.891698_-70.753557@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733169,
-    "wof:geomhash":"656e9d7c9c1272850c56395ccc424ee9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3427e68b05e4e48b6ee1b6082b84506f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":673071559
+        }
+    ],
     "wof:id":673071559,
-    "wof:lastmodified":1472625181,
+    "wof:lastmodified":1492104598,
     "wof:name":"Hurley Trans",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

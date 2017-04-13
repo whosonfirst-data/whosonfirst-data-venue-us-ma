@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.261701,42.549386,-71.261701,42.549386",
     "geom:latitude":42.549386,
     "geom:longitude":-71.261701,
@@ -31,8 +32,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85844755,
-        102084643
+        85815967,
+        102084643,
+        85844755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +42,15 @@
     },
     "wof:country":"US",
     "wof:created":1461725945,
-    "wof:geomhash":"aa25734ee4f01ca91308985d90f717fa",
+    "wof:geomhash":"4d327a072420c82dec7c59156a06724a",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85815967,
+            "region_id":85688645,
+            "venue_id":672750241
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -51,9 +60,9 @@
         }
     ],
     "wof:id":672750241,
-    "wof:lastmodified":1472625980,
+    "wof:lastmodified":1492107687,
     "wof:name":"Lucacio Diversified Services",
-    "wof:parent_id":85844755,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

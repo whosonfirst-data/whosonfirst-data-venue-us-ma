@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.146362,42.504643,-71.146362,42.504643",
     "geom:latitude":42.504643,
     "geom:longitude":-71.146362,
@@ -33,13 +34,14 @@
     "sg:website":"www.bridge-line.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834623,
+        85838185,
         102191575,
         404476469,
         85633793,
         85950353,
         102084643,
-        85688645
+        85688645,
+        85834623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461731027,
-    "wof:geomhash":"b4908547fef10ac68368973d8cdf6bac",
+    "wof:geomhash":"186411dcc47cd979ee35b1864dfe6c25",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476469,
+            "locality_id":85950353,
+            "neighbourhood_id":85838185,
+            "region_id":85688645,
+            "venue_id":672979695
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":672979695,
-    "wof:lastmodified":1472626192,
+    "wof:lastmodified":1492117033,
     "wof:name":"Bridgeline",
-    "wof:parent_id":85834623,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

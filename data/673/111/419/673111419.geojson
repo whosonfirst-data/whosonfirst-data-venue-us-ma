@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.30638,42.087099,-73.30638,42.087099",
     "geom:latitude":42.087099,
     "geom:longitude":-73.30638,
@@ -38,17 +39,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wNtOsjiumCpXffm9PxaCJ_42.087099_-73.306380@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734010,
-    "wof:geomhash":"578f5d8389cc95a8f8fbc6f5628e25db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"307ff0f817096cce1ec9e1e7e141da6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":673111419
+        }
+    ],
     "wof:id":673111419,
-    "wof:lastmodified":1472625308,
+    "wof:lastmodified":1492105195,
     "wof:name":"Wayne Wilcox Construction",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

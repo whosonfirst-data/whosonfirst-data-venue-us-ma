@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.35358,42.099774,-73.35358,42.099774",
     "geom:latitude":42.099774,
     "geom:longitude":-73.35358,
@@ -49,17 +50,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oBS9sD1IoBdlYMsAK5WM0_42.099774_-73.353580@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734009,
-    "wof:geomhash":"dd4ccdf86c559d3173a2c44bffa6b8a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"713ebfb95b998a91c072ab1b2e68c8d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":673111401
+        }
+    ],
     "wof:id":673111401,
-    "wof:lastmodified":1472625306,
+    "wof:lastmodified":1492105200,
     "wof:name":"Slye Supply Inc",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

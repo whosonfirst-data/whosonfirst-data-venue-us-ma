@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.893082,42.06673,-70.893082,42.06673",
     "geom:latitude":42.06673,
     "geom:longitude":-70.893082,
@@ -32,17 +33,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LH8N0wdpOmDZieAJJTLMT_42.066730_-70.893082@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741047,
-    "wof:geomhash":"463bbf9dbf03c3d4da64f2102a4a4dce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db89b2af2829458ee66a21f2a42ac1b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":689154631
+        }
+    ],
     "wof:id":689154631,
-    "wof:lastmodified":1472625511,
+    "wof:lastmodified":1492098555,
     "wof:name":"Borg Engineering",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

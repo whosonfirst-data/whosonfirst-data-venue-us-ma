@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.959316,42.101976,-71.959316,42.101976",
     "geom:latitude":42.101976,
     "geom:longitude":-71.959316,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524095
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RbM5MdYYJWn5WftWCKtWz_42.101976_-71.959316@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734179,
-    "wof:geomhash":"bec2a330429b8b6e42a2d251dd1d5b1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8df3d089c36a05f62f1f62e4dc318d01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524095,
+            "venue_id":673119211
+        }
+    ],
     "wof:id":673119211,
-    "wof:lastmodified":1472625336,
+    "wof:lastmodified":1492104068,
     "wof:name":"Stevens Construction Co",
     "wof:parent_id":420524095,
     "wof:placetype":"venue",

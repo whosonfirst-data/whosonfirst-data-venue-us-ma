@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.959177,42.335038,-71.959177,42.335038",
     "geom:latitude":42.335038,
     "geom:longitude":-71.959177,
@@ -33,10 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420524131,
+        85688645,
         85857437,
-        102084655
+        102084655,
+        85856275,
+        102191575,
+        404476077,
+        85950741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,20 +50,35 @@
     },
     "wof:country":"US",
     "wof:created":1461711267,
-    "wof:geomhash":"78b4610ce5149a173fc56a3b99c59efa",
+    "wof:geomhash":"a59b5a565d9c1cef661877ac235885c2",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":656365011
+        },
         {
             "country_id":85633793,
             "county_id":102084655,
             "neighbourhood_id":85857437,
             "region_id":85688645,
             "venue_id":656365011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476077,
+            "locality_id":85950741,
+            "neighbourhood_id":85856275,
+            "region_id":85688645,
+            "venue_id":656365011
         }
     ],
     "wof:id":656365011,
-    "wof:lastmodified":1472624917,
+    "wof:lastmodified":1492101766,
     "wof:name":"D & S Contracting",
-    "wof:parent_id":85857437,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

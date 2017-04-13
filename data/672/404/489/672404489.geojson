@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.894254,41.644979,-70.894254,41.644979",
     "geom:latitude":41.644979,
     "geom:longitude":-70.894254,
@@ -31,17 +32,26 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dt6ourCCb4Vf7gtI0hYeX_41.644979_-70.894254@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718022,
-    "wof:geomhash":"125c6bdf9148329449d90989b7f396c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5c6dc71d7df0617052b7922c85cf0ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672404489
+        }
+    ],
     "wof:id":672404489,
-    "wof:lastmodified":1472625671,
+    "wof:lastmodified":1492110398,
     "wof:name":"Homlyke Bakery",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

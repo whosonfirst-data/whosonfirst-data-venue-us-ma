@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.841578,41.917234,-70.841578,41.917234",
     "geom:latitude":41.917234,
     "geom:longitude":-70.841578,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uFvf6XxybA6mDtCJOpfLB_41.917234_-70.841578@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731475,
-    "wof:geomhash":"5cd8a589c5e889d283eee6e78b492a59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5f5926775ec069af488c3c62fbfbb01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672995561
+        }
+    ],
     "wof:id":672995561,
-    "wof:lastmodified":1472626205,
+    "wof:lastmodified":1492106959,
     "wof:name":"Ithaca Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

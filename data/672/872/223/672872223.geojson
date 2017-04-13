@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.477229,42.482716,-71.477229,42.482716",
     "geom:latitude":42.482716,
     "geom:longitude":-71.477229,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85827961,
-        102084643
+        102084643,
+        85806887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461728484,
-    "wof:geomhash":"6696590505b70a5b696589d294293d06",
+    "wof:geomhash":"583262e5c440831255cbd18632dce11c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,19 @@
             "neighbourhood_id":85827961,
             "region_id":85688645,
             "venue_id":672872223
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85806887,
+            "region_id":85688645,
+            "venue_id":672872223
         }
     ],
     "wof:id":672872223,
-    "wof:lastmodified":1472626094,
+    "wof:lastmodified":1492110734,
     "wof:name":"Idylwilde Farm Inc",
-    "wof:parent_id":85827961,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

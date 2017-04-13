@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.544725,41.817678,-70.544725,41.817678",
     "geom:latitude":41.817678,
     "geom:longitude":-70.544725,
@@ -32,17 +33,26 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mSsLeRTHNGLTGXZakFgSs_41.817678_-70.544725@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718557,
-    "wof:geomhash":"614bd20e2765b9b79f6cea21036aa24c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28c544003abf3d2696cb1723136269b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":672426223
+        }
+    ],
     "wof:id":672426223,
-    "wof:lastmodified":1472625691,
+    "wof:lastmodified":1492119368,
     "wof:name":"Cliff White Golf Shop",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

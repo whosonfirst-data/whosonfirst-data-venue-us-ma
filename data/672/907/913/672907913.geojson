@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.19175,42.482209,-71.19175,42.482209",
     "geom:latitude":42.482209,
     "geom:longitude":-71.19175,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858943,
+        85824255,
         102191575,
         404476473,
         85633793,
         85950619,
         102084643,
-        85688645
+        85688645,
+        85858943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461729191,
-    "wof:geomhash":"247051bf75a188bd7f2ad069bf1b248f",
+    "wof:geomhash":"e2596ddd0c55157067966e20a46276ca",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476473,
+            "locality_id":85950619,
+            "neighbourhood_id":85824255,
+            "region_id":85688645,
+            "venue_id":672907913
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":672907913,
-    "wof:lastmodified":1472626133,
+    "wof:lastmodified":1492118475,
     "wof:name":"Your Space Landscape & Constr",
-    "wof:parent_id":85858943,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.793161,41.894952,-70.793161,41.894952",
     "geom:latitude":41.894952,
     "geom:longitude":-70.793161,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nuppb8JSSkJAQ7KfTHcJy_41.894952_-70.793161@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716040,
-    "wof:geomhash":"3db8dac70c646e0b0896b99cf820eb05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb49120eedb3fb1716e8f09d775b1792",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672320811
+        }
+    ],
     "wof:id":672320811,
-    "wof:lastmodified":1472625550,
+    "wof:lastmodified":1492111125,
     "wof:name":"Greenleaf Landscaping & Lawn",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

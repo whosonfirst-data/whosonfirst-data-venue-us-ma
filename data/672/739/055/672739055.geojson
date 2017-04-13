@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.652244,42.255843,-72.652244,42.255843",
     "geom:latitude":42.255843,
     "geom:longitude":-72.652244,
@@ -29,13 +30,16 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852139,
+        85841755,
         102191575,
-        404476385,
+        404476303,
         85633793,
-        85950435,
+        85950433,
         102084459,
-        85688645
+        85688645,
+        85852139,
+        404476385,
+        85950435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,18 @@
     },
     "wof:country":"US",
     "wof:created":1461725711,
-    "wof:geomhash":"2a6f44373290d8fadee20e70f7d8281e",
+    "wof:geomhash":"f76149433b56aaf702b40dd785c70800",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084459,
+            "localadmin_id":404476303,
+            "locality_id":85950433,
+            "neighbourhood_id":85841755,
+            "region_id":85688645,
+            "venue_id":672739055
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +71,9 @@
         }
     ],
     "wof:id":672739055,
-    "wof:lastmodified":1472625969,
+    "wof:lastmodified":1492110895,
     "wof:name":"Charles M Fedor",
-    "wof:parent_id":85852139,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

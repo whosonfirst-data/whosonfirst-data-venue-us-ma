@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.710803,42.219833,-72.710803,42.219833",
     "geom:latitude":42.219833,
     "geom:longitude":-72.710803,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EZciQ4z4fKPu9EEbFZLnc_42.219833_-72.710803@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711538,
-    "wof:geomhash":"ed167ee491a4fdcf0bb5f61f1da86f64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0fc54c778c585f1d0ee912dca12b7c30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523633,
+            "venue_id":656377517
+        }
+    ],
     "wof:id":656377517,
-    "wof:lastmodified":1472625017,
+    "wof:lastmodified":1492101355,
     "wof:name":"Thomas Dziok Construction",
     "wof:parent_id":420523633,
     "wof:placetype":"venue",

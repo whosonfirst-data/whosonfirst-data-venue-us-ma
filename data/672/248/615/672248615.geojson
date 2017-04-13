@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.931993,42.240569,-71.931993,42.240569",
     "geom:latitude":42.240569,
     "geom:longitude":-71.931993,
@@ -32,17 +33,26 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15CmRzfrVppxgFFFR8I2mK_42.240569_-71.931993@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714580,
-    "wof:geomhash":"811a113b77d53d99f846ac6a894dccbe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab0d00c5e348ea0f28e838bcd53723a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672248615
+        }
+    ],
     "wof:id":672248615,
-    "wof:lastmodified":1472625361,
+    "wof:lastmodified":1492114665,
     "wof:name":"Brunnett Rubbish Removal",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

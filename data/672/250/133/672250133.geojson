@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.891171,42.119777,-70.891171,42.119777",
     "geom:latitude":42.119777,
     "geom:longitude":-70.891171,
@@ -32,17 +33,26 @@
         "counter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Cl0Nktqzw4eMeJA4TpRDl_42.119777_-70.891171@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714615,
-    "wof:geomhash":"c75eaeb8aa4dcbb767563b2dd5e2e02e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0882d2f31a24973eff1dfb63abe2bc62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672250133
+        }
+    ],
     "wof:id":672250133,
-    "wof:lastmodified":1472625328,
+    "wof:lastmodified":1492112537,
     "wof:name":"Absolute Stone",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

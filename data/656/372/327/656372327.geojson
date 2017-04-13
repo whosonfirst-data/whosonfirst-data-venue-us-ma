@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.112194,42.172407,-71.112194,42.172407",
     "geom:latitude":42.172407,
     "geom:longitude":-71.112194,
@@ -31,8 +32,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85842667,
-        102084403
+        85850681,
+        102084403,
+        85842667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +42,15 @@
     },
     "wof:country":"US",
     "wof:created":1461711427,
-    "wof:geomhash":"6f55614fa016d328d351148e15429d61",
+    "wof:geomhash":"6ea22e9721298e9f8d1c9cc49fa516e0",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85850681,
+            "region_id":85688645,
+            "venue_id":656372327
+        },
         {
             "country_id":85633793,
             "county_id":102084403,
@@ -51,9 +60,9 @@
         }
     ],
     "wof:id":656372327,
-    "wof:lastmodified":1472624985,
+    "wof:lastmodified":1492101585,
     "wof:name":"Beauty Shop",
-    "wof:parent_id":85842667,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

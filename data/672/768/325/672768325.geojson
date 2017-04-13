@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.119,41.628651,-71.119,41.628651",
     "geom:latitude":41.628651,
     "geom:longitude":-71.119,
@@ -28,19 +29,28 @@
     "sg:postcode":"02790",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hpxOdO8kLzqTqfPkGFUbR_41.628651_-71.119000@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726337,
-    "wof:geomhash":"926f9d148777aaae252135f2fee490b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c16769cff65b8880880f90d71b05afc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":672768325
+        }
+    ],
     "wof:id":672768325,
-    "wof:lastmodified":1472626005,
+    "wof:lastmodified":1492116296,
     "wof:name":"Raposas Dairy Farm",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.916027,42.309351,-71.916027,42.309351",
     "geom:latitude":42.309351,
     "geom:longitude":-71.916027,
@@ -36,7 +37,11 @@
         85688645,
         85633793,
         85809055,
-        102084655
+        102084655,
+        420558267,
+        102191575,
+        404476639,
+        85950375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461720690,
-    "wof:geomhash":"989b4eb2143516b7c8f5295167243ffb",
+    "wof:geomhash":"622e63db427c71f5b1bf4fbd5c0cd638",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +57,22 @@
             "neighbourhood_id":85809055,
             "region_id":85688645,
             "venue_id":672513157
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":420558267,
+            "region_id":85688645,
+            "venue_id":672513157
         }
     ],
     "wof:id":672513157,
-    "wof:lastmodified":1472625771,
+    "wof:lastmodified":1492115862,
     "wof:name":"Revenue Dept",
-    "wof:parent_id":85809055,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

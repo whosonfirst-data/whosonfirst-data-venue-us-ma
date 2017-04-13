@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.72943,42.387166,-72.72943,42.387166",
     "geom:latitude":42.387166,
     "geom:longitude":-72.72943,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0usy08GA2PtzSCjxe5NnmR_42.387166_-72.729430@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723770,
-    "wof:geomhash":"eeea36deae3e586b2d30736579acca38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63a344cf6a69bd3ddb7617ef10f7e399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523635,
+            "venue_id":672652627
+        }
+    ],
     "wof:id":672652627,
-    "wof:lastmodified":1472625901,
+    "wof:lastmodified":1492111949,
     "wof:name":"Gougeon & Locke Builders",
     "wof:parent_id":420523635,
     "wof:placetype":"venue",

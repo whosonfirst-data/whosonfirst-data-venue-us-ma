@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.940254,41.771515,-70.940254,41.771515",
     "geom:latitude":41.771515,
     "geom:longitude":-70.940254,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48QRfD8pKft6NLl8uL8Ipi_41.771515_-70.940254@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717052,
-    "wof:geomhash":"568d30ed7e49a14195d736e41cbeadbe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28f8ccc949442fef942306c1f673f07b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":672363157
+        }
+    ],
     "wof:id":672363157,
-    "wof:lastmodified":1472625615,
+    "wof:lastmodified":1492110529,
     "wof:name":"David's Tree & Landscaping Svc",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

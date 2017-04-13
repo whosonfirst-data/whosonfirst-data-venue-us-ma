@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.180567,41.736881,-71.180567,41.736881",
     "geom:latitude":41.736881,
     "geom:longitude":-71.180567,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85806847,
+        102191575,
+        404476145,
         85633793,
-        85851661,
-        102084407
+        85950687,
+        102084407,
+        85688645,
+        85851661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461710945,
-    "wof:geomhash":"7a5d0e71266086fbea3d7489e7e19733",
+    "wof:geomhash":"61fd36069dadc7644afc33188b15744f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476145,
+            "locality_id":85950687,
+            "neighbourhood_id":85806847,
+            "region_id":85688645,
+            "venue_id":656349439
+        },
         {
             "country_id":85633793,
             "county_id":102084407,
@@ -55,9 +70,9 @@
         }
     ],
     "wof:id":656349439,
-    "wof:lastmodified":1472624905,
+    "wof:lastmodified":1492102061,
     "wof:name":"Advantage Physical Therapy",
-    "wof:parent_id":85851661,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

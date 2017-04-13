@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.854405,41.854862,-70.854405,41.854862",
     "geom:latitude":41.854862,
     "geom:longitude":-70.854405,
@@ -32,17 +33,26 @@
         "treatment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yPZauFnG4mLdE4jBxvQ7E_41.854862_-70.854405@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730193,
-    "wof:geomhash":"29611ee6562f9a9eb74450d48114df58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a487d632c0aa908cc6d9f6108a8fbeec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672952331
+        }
+    ],
     "wof:id":672952331,
-    "wof:lastmodified":1472626160,
+    "wof:lastmodified":1492111437,
     "wof:name":"Lucas Pump Co",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.125702,42.133801,-71.125702,42.133801",
     "geom:latitude":42.133801,
     "geom:longitude":-71.125702,
@@ -31,17 +32,26 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ksaneWKXCIknVKD0OUDNg_42.133801_-71.125702@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736307,
-    "wof:geomhash":"48842a562cfade70f4e9068d256fd6f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a6e44a0c148e92e4f52d451fb87732c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688952927
+        }
+    ],
     "wof:id":688952927,
-    "wof:lastmodified":1472625180,
+    "wof:lastmodified":1492120321,
     "wof:name":"Goldberg Irving W Acctnt",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

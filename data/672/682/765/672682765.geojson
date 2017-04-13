@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.961019,42.740801,-70.961019,42.740801",
     "geom:latitude":42.740801,
     "geom:longitude":-70.961019,
@@ -31,17 +32,26 @@
         "woodworker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3I0VzduiB73G3sd8k7YIjz_42.740801_-70.961019@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724457,
-    "wof:geomhash":"6f5bd9b348012376991448f1d00546f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80cc49e45766ef081d27f8b6fc1a2344",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672682765
+        }
+    ],
     "wof:id":672682765,
-    "wof:lastmodified":1472625935,
+    "wof:lastmodified":1492106465,
     "wof:name":"North Street Woodworking",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

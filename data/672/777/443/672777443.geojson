@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.895192,42.367654,-71.895192,42.367654",
     "geom:latitude":42.367654,
     "geom:longitude":-71.895192,
@@ -31,17 +32,26 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JsH0IzchH2cGGxDdexaMQ_42.367654_-71.895192@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726528,
-    "wof:geomhash":"4e720317b5a39958dbd4a2310c62dbbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d680cb280b7fc318694f39bdc1a5460",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524223,
+            "venue_id":672777443
+        }
+    ],
     "wof:id":672777443,
-    "wof:lastmodified":1472626013,
+    "wof:lastmodified":1492113351,
     "wof:name":"Lane Painting Co",
     "wof:parent_id":420524223,
     "wof:placetype":"venue",

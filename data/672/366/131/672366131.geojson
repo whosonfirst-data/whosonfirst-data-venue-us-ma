@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.952125,42.751993,-70.952125,42.751993",
     "geom:latitude":42.751993,
     "geom:longitude":-70.952125,
@@ -31,17 +32,26 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mtaSdFJB3sFMFMDzABAG1_42.751993_-70.952125@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717118,
-    "wof:geomhash":"496fc148423a97153c5052350035c8bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"302c0d57b0cbcc22211bb22efb0e3df8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672366131
+        }
+    ],
     "wof:id":672366131,
-    "wof:lastmodified":1472625636,
+    "wof:lastmodified":1492113467,
     "wof:name":"Accessplus Communications Inc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

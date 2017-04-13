@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.727402,41.926201,-70.727402,41.926201",
     "geom:latitude":41.926201,
     "geom:longitude":-70.727402,
@@ -36,17 +37,26 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fK37ue1Sp81V4joKLovXS_41.926250_-70.727264@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733044,
-    "wof:geomhash":"f54dd8bc07060f57223b9dece7166601",
-    "wof:hierarchy":[],
+    "wof:geomhash":"375f3843a58afe590162cd493516b82e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":673065011
+        }
+    ],
     "wof:id":673065011,
-    "wof:lastmodified":1472625131,
+    "wof:lastmodified":1492103247,
     "wof:name":"B & B Appliance Co",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

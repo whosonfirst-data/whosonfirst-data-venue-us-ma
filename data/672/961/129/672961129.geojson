@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.887296,41.646432,-70.887296,41.646432",
     "geom:latitude":41.646432,
     "geom:longitude":-70.887296,
@@ -32,17 +33,26 @@
         "skid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iI972fc41gFhtF679BSJt_41.646432_-70.887296@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730464,
-    "wof:geomhash":"e3c91cfe95b08020197ba557f88aa764",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c8c1506df528be6b56b0dc6068bba63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672961129
+        }
+    ],
     "wof:id":672961129,
-    "wof:lastmodified":1472626164,
+    "wof:lastmodified":1492109796,
     "wof:name":"Lo-Jo Ind Containers",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.866061,41.85613,-70.866061,41.85613",
     "geom:latitude":41.85613,
     "geom:longitude":-70.866061,
@@ -32,17 +33,26 @@
         "boiler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NeTwqCepvVcA3an2sLmkI_41.856130_-70.866061@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711641,
-    "wof:geomhash":"4ed0231634cec4d26d0783c49227019f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c75b7abcbe93964da0cac7214519ab3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":656382867
+        }
+    ],
     "wof:id":656382867,
-    "wof:lastmodified":1472625024,
+    "wof:lastmodified":1492101298,
     "wof:name":"Kirschner Associates",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

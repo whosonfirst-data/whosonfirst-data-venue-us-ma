@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.023118,42.533234,-71.023118,42.533234",
     "geom:latitude":42.533234,
     "geom:longitude":-71.023118,
@@ -32,19 +33,38 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85838007,
+        102191575,
+        404476207,
+        85633793,
+        85950413,
+        102084463,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BBY2dUIWPzHEWB5VDlzVc_42.533234_-71.023118@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714892,
-    "wof:geomhash":"23595d8e0a0ff958c472e91022ab4bed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c27531b20bd05da0f2d10ae41484c3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476207,
+            "locality_id":85950413,
+            "neighbourhood_id":85838007,
+            "region_id":85688645,
+            "venue_id":672264247
+        }
+    ],
     "wof:id":672264247,
-    "wof:lastmodified":1472625391,
+    "wof:lastmodified":1492116530,
     "wof:name":"Mac Nichol Electric Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85838007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

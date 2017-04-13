@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.784653,41.991531,-70.784653,41.991531",
     "geom:latitude":41.991531,
     "geom:longitude":-70.784653,
@@ -47,17 +48,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kmFLDSzgDyStBCeE5wXGi_41.991531_-70.784653@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741206,
-    "wof:geomhash":"4619d395db557cc34e38e712cb7680d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c8435f5aba96f3f4abb1e64ece38281",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689161391
+        }
+    ],
     "wof:id":689161391,
-    "wof:lastmodified":1472625511,
+    "wof:lastmodified":1492099163,
     "wof:name":"Ultranet Communications",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.919417,42.708765,-72.919417,42.708765",
     "geom:latitude":42.708765,
     "geom:longitude":-72.919417,
@@ -31,17 +32,32 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476329,
+        85633793,
+        102084457
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y5VPfN6RN0PLN2ti68JFf_42.708765_-72.919417@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722418,
-    "wof:geomhash":"765e32df4b9ded99dfd6c7dae01e5d13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"625b53031728d9db32fdb3b0b138ce18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084457,
+            "localadmin_id":404476329,
+            "region_id":85688645,
+            "venue_id":672592393
+        }
+    ],
     "wof:id":672592393,
-    "wof:lastmodified":1472625847,
+    "wof:lastmodified":1492114070,
     "wof:name":"Buck Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

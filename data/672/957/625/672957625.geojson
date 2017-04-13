@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.053272,42.409498,-71.053272,42.409498",
     "geom:latitude":42.409498,
     "geom:longitude":-71.053272,
@@ -32,17 +33,34 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476487,
+        85633793,
+        85950331,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rWIckWnXb4bJ5Vie05SbP_42.409498_-71.053272@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730355,
-    "wof:geomhash":"11b89b9147a56870de6bcb1a3c4b69ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15fa9868621499f584b297687c2aa5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476487,
+            "locality_id":85950331,
+            "region_id":85688645,
+            "venue_id":672957625
+        }
+    ],
     "wof:id":672957625,
-    "wof:lastmodified":1472626174,
+    "wof:lastmodified":1492112411,
     "wof:name":"Physical Therapy Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.227847,41.669497,-70.227847,41.669497",
     "geom:latitude":41.669497,
     "geom:longitude":-70.227847,
@@ -31,19 +32,44 @@
         "produce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85818121,
+        102191575,
+        404476089,
+        85633793,
+        85950523,
+        102084379,
+        85688645,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VOSbN2y6suyVtZpz7ndbj_41.669497_-70.227847@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725771,
-    "wof:geomhash":"d103e0c9a4a1f72104bf7eabe42c7c82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14d4cfad7550fa8451fa17acf98cdb52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404476089,
+            "locality_id":85950523,
+            "neighbourhood_id":85818121,
+            "region_id":85688645,
+            "venue_id":672741663
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672741663
+        }
+    ],
     "wof:id":672741663,
-    "wof:lastmodified":1472625991,
+    "wof:lastmodified":1492117561,
     "wof:name":"Lamberts Fruit & Produce",
-    "wof:parent_id":420523229,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

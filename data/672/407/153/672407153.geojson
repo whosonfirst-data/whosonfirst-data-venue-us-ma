@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.22422,42.315535,-71.22422,42.315535",
     "geom:latitude":42.315535,
     "geom:longitude":-71.22422,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62nbAaH5jdrBaGte6dZmLY_42.315535_-71.224220@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718077,
-    "wof:geomhash":"2ec95498daa780fedba324e195bd06fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31a683212dfe70cc3ad67edd11030457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":672407153
+        }
+    ],
     "wof:id":672407153,
-    "wof:lastmodified":1472625668,
+    "wof:lastmodified":1492112984,
     "wof:name":"First United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

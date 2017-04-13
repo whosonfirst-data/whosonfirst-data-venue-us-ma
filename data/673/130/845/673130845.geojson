@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.725042,42.173566,-71.725042,42.173566",
     "geom:latitude":42.173566,
     "geom:longitude":-71.725042,
@@ -46,17 +47,26 @@
         "sewer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524081
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cGjTyK5npANlrPu4gmBPd_42.173566_-71.725042@1303262187"
     },
     "wof:country":"US",
     "wof:created":1461734413,
-    "wof:geomhash":"bd120f10b8e63bdfb8161a09ecca5e2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b224f07994fdf439c4319389b8a3c58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524081,
+            "venue_id":673130845
+        }
+    ],
     "wof:id":673130845,
-    "wof:lastmodified":1472625386,
+    "wof:lastmodified":1492102874,
     "wof:name":"Aaa Affordable Home Owner Services",
     "wof:parent_id":420524081,
     "wof:placetype":"venue",

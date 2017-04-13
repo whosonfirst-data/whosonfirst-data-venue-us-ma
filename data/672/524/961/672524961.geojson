@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.999442,41.257358,-69.999442,41.257358",
     "geom:latitude":41.257358,
     "geom:longitude":-69.999442,
@@ -31,19 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950507,
+        102084641,
+        85825865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xplQCTZfh3005gy1FhLFF_41.257358_-69.999442@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720944,
-    "wof:geomhash":"85cf2cf195685d02a9477781140648db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"458e19cc8c948f8f6886f2005f537611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084641,
+            "locality_id":85950507,
+            "neighbourhood_id":85825865,
+            "region_id":85688645,
+            "venue_id":672524961
+        }
+    ],
     "wof:id":672524961,
-    "wof:lastmodified":1472625793,
+    "wof:lastmodified":1492112440,
     "wof:name":"Adk Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85825865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

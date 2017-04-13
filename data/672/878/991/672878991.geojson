@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.80206,42.24077,-70.80206,42.24077",
     "geom:latitude":42.24077,
     "geom:longitude":-70.80206,
@@ -31,17 +32,26 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V4omq7l3pt5XOjdxzIMfw_42.240770_-70.802060@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728610,
-    "wof:geomhash":"348cee1d0c43802ae5e6ac64a5b781a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa7c1d0250705f38a1a9a8a57397cb9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672878991
+        }
+    ],
     "wof:id":672878991,
-    "wof:lastmodified":1472626108,
+    "wof:lastmodified":1492119800,
     "wof:name":"Fidelity Home Health Care",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

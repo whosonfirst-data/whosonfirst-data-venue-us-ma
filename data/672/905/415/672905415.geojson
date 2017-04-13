@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.326967,41.840479,-71.326967,41.840479",
     "geom:latitude":41.840479,
     "geom:longitude":-71.326967,
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85816693,
-        102084407
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +51,21 @@
     },
     "wof:country":"US",
     "wof:created":1461729135,
-    "wof:geomhash":"dff8f91a9193a2a93f573753945379d1",
+    "wof:geomhash":"11d202a9dfd072fff9381d9b3e0a369e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084407,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
             "neighbourhood_id":85816693,
-            "region_id":85688645,
+            "region_id":85688509,
             "venue_id":672905415
         }
     ],
     "wof:id":672905415,
-    "wof:lastmodified":1472626123,
+    "wof:lastmodified":1492112892,
     "wof:name":"Resendes Contracting & Engrg",
     "wof:parent_id":85816693,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.848024,42.328691,-71.848024,42.328691",
     "geom:latitude":42.328691,
     "geom:longitude":-71.848024,
@@ -34,17 +35,26 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oTzFNfZ5wQcSXRo9BrMpY_42.328691_-71.848024@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729208,
-    "wof:geomhash":"435aa9a7753268dd27bfb4ea8a212e0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b0243e57bea42ed7158ea51fb18a8a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":672908627
+        }
+    ],
     "wof:id":672908627,
-    "wof:lastmodified":1472626129,
+    "wof:lastmodified":1492107025,
     "wof:name":"Ward Burnham Interiors",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.778048,41.894294,-70.778048,41.894294",
     "geom:latitude":41.894294,
     "geom:longitude":-70.778048,
@@ -31,17 +32,26 @@
         "adult"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rNcNVfSCWF3vLGkBx0QUP_41.894294_-70.778048@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741010,
-    "wof:geomhash":"997b9cd85650d5ceff5466a67b4383c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3313f9962f557bbf2b46812b49c99d60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":689153097
+        }
+    ],
     "wof:id":689153097,
-    "wof:lastmodified":1472625492,
+    "wof:lastmodified":1492097480,
     "wof:name":"STARR EMS TRAINING",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

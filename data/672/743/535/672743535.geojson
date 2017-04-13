@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.914149,42.685134,-70.914149,42.685134",
     "geom:latitude":42.685134,
     "geom:longitude":-70.914149,
@@ -38,7 +39,8 @@
         85688645,
         85633793,
         85830751,
-        102084463
+        102084463,
+        85836261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461725810,
-    "wof:geomhash":"fe9fc5c4c2fbed9b47f032be049e67a9",
+    "wof:geomhash":"0b53f5d2b16bc52bf3694f8f9a9d9e37",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,19 @@
             "neighbourhood_id":85830751,
             "region_id":85688645,
             "venue_id":672743535
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85836261,
+            "region_id":85688645,
+            "venue_id":672743535
         }
     ],
     "wof:id":672743535,
-    "wof:lastmodified":1472625987,
+    "wof:lastmodified":1492110982,
     "wof:name":"Wile Enterprises",
-    "wof:parent_id":85830751,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

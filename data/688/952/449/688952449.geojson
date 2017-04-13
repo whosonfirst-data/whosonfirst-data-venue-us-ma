@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.124295,42.136266,-71.124295,42.136266",
     "geom:latitude":42.136266,
     "geom:longitude":-71.124295,
@@ -38,17 +39,26 @@
         "merchandise-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2a6eclPy5ogMnAcnddEkEi_42.136266_-71.124295@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736299,
-    "wof:geomhash":"89e75acaaab2ef30c6d3ca190983f147",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d79b6eee085cb7339c542df1556ab4c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688952449
+        }
+    ],
     "wof:id":688952449,
-    "wof:lastmodified":1472625145,
+    "wof:lastmodified":1492120333,
     "wof:name":"S K Sales",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

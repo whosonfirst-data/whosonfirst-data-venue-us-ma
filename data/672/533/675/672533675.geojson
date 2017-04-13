@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.778228,42.082954,-70.778228,42.082954",
     "geom:latitude":42.082954,
     "geom:longitude":-70.778228,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ib3F75bFCrjgoKN8MoIlj_42.082954_-70.778228@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721139,
-    "wof:geomhash":"50041cf88e6594dbc0ac5bfdffe01e13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f71b7227e786d0119deaa467603935c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":672533675
+        }
+    ],
     "wof:id":672533675,
-    "wof:lastmodified":1472625790,
+    "wof:lastmodified":1492111624,
     "wof:name":"Dingsmith Paintless Dent",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

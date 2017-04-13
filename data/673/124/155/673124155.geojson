@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.936978,42.36879,-71.936978,42.36879",
     "geom:latitude":42.36879,
     "geom:longitude":-71.936978,
@@ -31,17 +32,26 @@
         "siding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hfYK6loCM51MgHU8yd5js_42.368790_-71.936978@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734272,
-    "wof:geomhash":"a5e9ac76f4f50637265af84f434a5c26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5ba8adea080be633f0a555543f00a78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":673124155
+        }
+    ],
     "wof:id":673124155,
-    "wof:lastmodified":1472625336,
+    "wof:lastmodified":1492104000,
     "wof:name":"Dkat Siding",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

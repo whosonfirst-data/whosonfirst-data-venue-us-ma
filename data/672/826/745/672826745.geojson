@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.634596,42.38132,-71.634596,42.38132",
     "geom:latitude":42.38132,
     "geom:longitude":-71.634596,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524077
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z2UxxWRxaoLD2vnJohpII_42.381320_-71.634596@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727532,
-    "wof:geomhash":"63b9dd928bcbe7336e93f55fd2db41ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32563ece9734acf20a83e14e86783674",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524077,
+            "venue_id":672826745
+        }
+    ],
     "wof:id":672826745,
-    "wof:lastmodified":1472626060,
+    "wof:lastmodified":1492115930,
     "wof:name":"Berlin General Store",
     "wof:parent_id":420524077,
     "wof:placetype":"venue",

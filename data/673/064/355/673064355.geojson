@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.892568,41.703661,-70.892568,41.703661",
     "geom:latitude":41.703661,
     "geom:longitude":-70.892568,
@@ -36,17 +37,26 @@
         "grower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CHlJqIn6w2xJ6yOWxYPcj_41.703546_-70.892789@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733033,
-    "wof:geomhash":"281475b92347e02d217f9a85cc6b2e38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f3ce8cb00db45b1d282d211a0f4eb6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":673064355
+        }
+    ],
     "wof:id":673064355,
-    "wof:lastmodified":1472625153,
+    "wof:lastmodified":1492102532,
     "wof:name":"Peters Family Orchards & Cider",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

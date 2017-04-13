@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.731632,41.92836,-70.731632,41.92836",
     "geom:latitude":41.92836,
     "geom:longitude":-70.731632,
@@ -32,17 +33,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bfrWwDX0cabopDENwEiOH_41.928360_-70.731632@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716746,
-    "wof:geomhash":"01aed9c4f3d38e667116adf081bb8310",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e019cee7ba0e7378b593eb94040cdc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672349805
+        }
+    ],
     "wof:id":672349805,
-    "wof:lastmodified":1472625597,
+    "wof:lastmodified":1492115935,
     "wof:name":"G O Marketing",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101675,42.134051,-71.101675,42.134051",
     "geom:latitude":42.134051,
     "geom:longitude":-71.101675,
@@ -34,17 +35,26 @@
         "dvds-rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iVr8YTQ5Oq51AS0hhO1eJ_42.134051_-71.101675@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736336,
-    "wof:geomhash":"fe8a4c53792003cf37269c0498df7e12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d56d9b9b1162bdd1cb7aa6d395e1d82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688954567
+        }
+    ],
     "wof:id":688954567,
-    "wof:lastmodified":1472625164,
+    "wof:lastmodified":1492120879,
     "wof:name":"Movie Gallery",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

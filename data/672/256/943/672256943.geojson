@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.895872,41.885424,-70.895872,41.885424",
     "geom:latitude":41.885424,
     "geom:longitude":-70.895872,
@@ -35,17 +36,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Cu5AxLTtf7UqKzFteeJtd_41.885424_-70.895872@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714745,
-    "wof:geomhash":"8a5957c63efa678f83cf2f908bce60f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6248ce93be4008479ee9f4e05abc6af6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672256943
+        }
+    ],
     "wof:id":672256943,
-    "wof:lastmodified":1472625374,
+    "wof:lastmodified":1492107480,
     "wof:name":"Ted Boucher",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.916157,42.244739,-71.916157,42.244739",
     "geom:latitude":42.244739,
     "geom:longitude":-71.916157,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4M6uMIMxqQmndvCBopiAEL_42.244739_-71.916157@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727050,
-    "wof:geomhash":"311127da44568fc7b49fb2cca4aa9cd6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85e9dcf3f6437c393831e9521163690c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672803279
+        }
+    ],
     "wof:id":672803279,
-    "wof:lastmodified":1472626034,
+    "wof:lastmodified":1492118818,
     "wof:name":"Family Dentistry",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

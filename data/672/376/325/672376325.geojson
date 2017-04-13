@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.714447,42.221694,-72.714447,42.221694",
     "geom:latitude":42.221694,
     "geom:longitude":-72.714447,
@@ -32,17 +33,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58RNu1A2331NyFyx86ZfP0_42.221694_-72.714447@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717349,
-    "wof:geomhash":"37a742871b879918c12422f8fb5d3cbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1ddb47ab749adca6845d8c805693a74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523633,
+            "venue_id":672376325
+        }
+    ],
     "wof:id":672376325,
-    "wof:lastmodified":1472625646,
+    "wof:lastmodified":1492118191,
     "wof:name":"Jack Gadbois Assoc Inc",
     "wof:parent_id":420523633,
     "wof:placetype":"venue",

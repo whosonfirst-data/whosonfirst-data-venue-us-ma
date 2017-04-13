@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.777454,42.014963,-70.777454,42.014963",
     "geom:latitude":42.014963,
     "geom:longitude":-70.777454,
@@ -33,17 +34,26 @@
         "quality"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZOW9qxugLVtIGgpxlymNu_42.014963_-70.777454@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732165,
-    "wof:geomhash":"dfe4c5d0827143f456acbe4128ee4e3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02f431223908b5dc604e2582ae9bcfd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":673024373
+        }
+    ],
     "wof:id":673024373,
-    "wof:lastmodified":1472625015,
+    "wof:lastmodified":1492105437,
     "wof:name":"Robitaille Associates",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

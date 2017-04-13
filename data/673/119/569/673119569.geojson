@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.962285,42.133018,-71.962285,42.133018",
     "geom:latitude":42.133018,
     "geom:longitude":-71.962285,
@@ -55,17 +56,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XBP2yRbhCcKBH66bXFqqd_42.133018_-71.962285@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734189,
-    "wof:geomhash":"caa3aee096b54cdd6b0c59ac79fb7db4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03d058fb586b85049c798cb71db073eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":673119569
+        }
+    ],
     "wof:id":673119569,
-    "wof:lastmodified":1472625347,
+    "wof:lastmodified":1492104069,
     "wof:name":"Steve's Repair",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

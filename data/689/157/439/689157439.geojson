@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.70437,41.911969,-70.70437,41.911969",
     "geom:latitude":41.911969,
     "geom:longitude":-70.70437,
@@ -32,17 +33,26 @@
         "specially"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZVluwPJpWlaHeCSTQlQpe_41.911969_-70.704370@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741120,
-    "wof:geomhash":"913af85b0c070e72ce3cc669961b05ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e15a5880dd8898428cf781e224b820b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689157439
+        }
+    ],
     "wof:id":689157439,
-    "wof:lastmodified":1472625520,
+    "wof:lastmodified":1492099706,
     "wof:name":"Precision Machine",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.214343,41.685505,-70.214343,41.685505",
     "geom:latitude":41.685505,
     "geom:longitude":-70.214343,
@@ -33,17 +34,26 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66KB9eyp2pbLX1eFAKbE8q_41.685505_-70.214343@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728578,
-    "wof:geomhash":"a9f2143498b3ac5bebe2a6b814ab01b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0efdef717f2f5a5627cad17911dd952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672877279
+        }
+    ],
     "wof:id":672877279,
-    "wof:lastmodified":1472626096,
+    "wof:lastmodified":1492113570,
     "wof:name":"Awnings By Peterson",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

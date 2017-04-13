@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.865433,41.859428,-70.865433,41.859428",
     "geom:latitude":41.859428,
     "geom:longitude":-70.865433,
@@ -33,17 +34,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eER6GkCHaJI9CIPR6Xr9N_41.859428_-70.865433@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741059,
-    "wof:geomhash":"85bcb23467ae7716610fe2ed43b26841",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b57f67ee5cb888107242747853ebce1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":689155293
+        }
+    ],
     "wof:id":689155293,
-    "wof:lastmodified":1472625498,
+    "wof:lastmodified":1492100393,
     "wof:name":"Middleboro Masonery",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

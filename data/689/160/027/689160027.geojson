@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.725243,41.932652,-70.725243,41.932652",
     "geom:latitude":41.932652,
     "geom:longitude":-70.725243,
@@ -31,17 +32,26 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wuvySCZaTYZWYP8LQUXuG_41.932652_-70.725243@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741169,
-    "wof:geomhash":"394218a7a7c41ee8307fe610d0baea6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b25d5e816fc4ba233d6ca16c865f4615",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689160027
+        }
+    ],
     "wof:id":689160027,
-    "wof:lastmodified":1472625497,
+    "wof:lastmodified":1492101093,
     "wof:name":"Green Castle Video Productions",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

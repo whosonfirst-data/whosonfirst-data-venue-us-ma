@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.106208,41.646379,-71.106208,41.646379",
     "geom:latitude":41.646379,
     "geom:longitude":-71.106208,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5E0J3bl3AN8xzV2QeEjfpg_41.646379_-71.106208@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715652,
-    "wof:geomhash":"04b6d31b95f374956845644213246483",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40886d1babb74941795bed6718376ca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523343,
+            "venue_id":672302073
+        }
+    ],
     "wof:id":672302073,
-    "wof:lastmodified":1472625495,
+    "wof:lastmodified":1492119430,
     "wof:name":"Four-Square Village Garage",
     "wof:parent_id":420523343,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.399606,42.661034,-71.399606,42.661034",
     "geom:latitude":42.661034,
     "geom:longitude":-71.399606,
@@ -32,17 +33,26 @@
         "french"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FSLwJ4cirbGSZ4zs6ioj2_42.661034_-71.399606@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461733472,
-    "wof:geomhash":"32850eb9fa95a25a67efdd8696d714e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac7a27a366f1c51eaa053fba46ad00be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":673085683
+        }
+    ],
     "wof:id":673085683,
-    "wof:lastmodified":1472625242,
+    "wof:lastmodified":1492102960,
     "wof:name":"Silk's",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

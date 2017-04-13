@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.583787,42.02498,-72.583787,42.02498",
     "geom:latitude":42.02498,
     "geom:longitude":-72.583787,
@@ -37,17 +38,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475977,
+        85633793,
+        85950771,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UaEJO751a6bmbdQhdXtXy_42.024980_-72.583787@1303262184"
     },
     "wof:country":"US",
     "wof:created":1461733934,
-    "wof:geomhash":"e5b93cdfad97e87687087fdc3bf972fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e44d92e560b4e2defae82bd18a62f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404475977,
+            "locality_id":85950771,
+            "region_id":85688645,
+            "venue_id":673107853
+        }
+    ],
     "wof:id":673107853,
-    "wof:lastmodified":1472625307,
+    "wof:lastmodified":1492103567,
     "wof:name":"American Dreams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

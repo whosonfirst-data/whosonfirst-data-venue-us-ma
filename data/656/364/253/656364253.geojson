@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.070459,41.987646,-71.070459,41.987646",
     "geom:latitude":41.987646,
     "geom:longitude":-71.070459,
@@ -33,17 +34,32 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476139,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r5YkgeWKAyslGi0QRsTxo_41.987646_-71.070459@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711252,
-    "wof:geomhash":"6509d0fdb53db7c1d34417b332d23423",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff2d3c8a7d798e0df58ecaf73b541068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476139,
+            "region_id":85688645,
+            "venue_id":656364253
+        }
+    ],
     "wof:id":656364253,
-    "wof:lastmodified":1472624943,
+    "wof:lastmodified":1492101421,
     "wof:name":"Farlink Satellite Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

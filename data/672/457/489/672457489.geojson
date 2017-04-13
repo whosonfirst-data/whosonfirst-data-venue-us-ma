@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.892841,41.639638,-70.892841,41.639638",
     "geom:latitude":41.639638,
     "geom:longitude":-70.892841,
@@ -31,17 +32,26 @@
         "federal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XWdudIfHGHsytaVZzun2C_41.639638_-70.892841@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719376,
-    "wof:geomhash":"19d3496e10ff259491aacf4a532ea29d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ed05985723410dad6ae9e77d8aacfa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672457489
+        }
+    ],
     "wof:id":672457489,
-    "wof:lastmodified":1472625722,
+    "wof:lastmodified":1492108362,
     "wof:name":"National Marine Fisheries Svc",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

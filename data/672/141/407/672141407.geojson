@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.91627,41.893032,-70.91627,41.893032",
     "geom:latitude":41.893032,
     "geom:longitude":-70.91627,
@@ -38,7 +39,8 @@
         85633793,
         85950469,
         102084367,
-        85688645
+        85688645,
+        85854565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461712280,
-    "wof:geomhash":"89300e71cdd1bd63a887d1691cb95a34",
+    "wof:geomhash":"904aea9b417f19777697a83072c97fd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,19 @@
             "neighbourhood_id":85853233,
             "region_id":85688645,
             "venue_id":672141407
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85854565,
+            "region_id":85688645,
+            "venue_id":672141407
         }
     ],
     "wof:id":672141407,
-    "wof:lastmodified":1472624915,
+    "wof:lastmodified":1492115553,
     "wof:name":"Tulsa Self Svc",
-    "wof:parent_id":85853233,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

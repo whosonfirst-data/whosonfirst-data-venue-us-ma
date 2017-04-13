@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.213756,41.750565,-71.213756,41.750565",
     "geom:latitude":41.750565,
     "geom:longitude":-71.213756,
@@ -32,17 +33,26 @@
         "practitioner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gwQVrQlMwVcxMMUh4cdcy_41.750565_-71.213756@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712985,
-    "wof:geomhash":"8c163b5dde61ec3a98ecea6db0257f26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55cf6607e61d537276b762ff9319cb80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":672173911
+        }
+    ],
     "wof:id":672173911,
-    "wof:lastmodified":1472625108,
+    "wof:lastmodified":1492115085,
     "wof:name":"Center For The Soul",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

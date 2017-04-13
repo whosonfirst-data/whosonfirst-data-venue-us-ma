@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.738079,42.039527,-70.738079,42.039527",
     "geom:latitude":42.039527,
     "geom:longitude":-70.738079,
@@ -32,17 +33,26 @@
         "promoter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uEBLz6nTkwxHLYxQB1Z6g_42.039527_-70.738079@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726616,
-    "wof:geomhash":"0e1517bc38397a05ac6cd956773131ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff83a3cb7265d170bfa3db64d3c58a8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":672781679
+        }
+    ],
     "wof:id":672781679,
-    "wof:lastmodified":1472626019,
+    "wof:lastmodified":1492107986,
     "wof:name":"World Discovery Tours",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

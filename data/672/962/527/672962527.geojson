@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.241772,42.376252,-71.241772,42.376252",
     "geom:latitude":42.376252,
     "geom:longitude":-71.241772,
@@ -39,7 +40,8 @@
         85633793,
         85950337,
         102084643,
-        85688645
+        85688645,
+        85854419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461730515,
-    "wof:geomhash":"84059868fe30baa97d4b3ed74f0fb903",
+    "wof:geomhash":"950ee9f57782ca1400f195aa73be8007",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,22 @@
             "neighbourhood_id":85845135,
             "region_id":85688645,
             "venue_id":672962527
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476457,
+            "locality_id":85950337,
+            "neighbourhood_id":85854419,
+            "region_id":85688645,
+            "venue_id":672962527
         }
     ],
     "wof:id":672962527,
-    "wof:lastmodified":1472626171,
+    "wof:lastmodified":1492111642,
     "wof:name":"UPS Store",
-    "wof:parent_id":85845135,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

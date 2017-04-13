@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.845739,42.689972,-71.845739,42.689972",
     "geom:latitude":42.689972,
     "geom:longitude":-71.845739,
@@ -33,17 +34,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475997,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F1IrLFmt7VKXBywtEtFEj_42.689972_-71.845739@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713406,
-    "wof:geomhash":"2903d9b441f9dee1a0ae78ef4d21ad7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c7ab3500d760a3411729113532c937b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404475997,
+            "region_id":85688645,
+            "venue_id":672193353
+        }
+    ],
     "wof:id":672193353,
-    "wof:lastmodified":1472625146,
+    "wof:lastmodified":1492109834,
     "wof:name":"Bill Marden Waterwells & Pumps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

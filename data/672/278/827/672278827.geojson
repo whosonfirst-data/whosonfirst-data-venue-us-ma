@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.508934,42.150713,-71.508934,42.150713",
     "geom:latitude":42.150713,
     "geom:longitude":-71.508934,
@@ -31,17 +32,34 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476665,
+        85633793,
+        85950733,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6g8dKVWEQ2snnExsHs3jFF_42.150713_-71.508934@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715175,
-    "wof:geomhash":"d4fa4530bcd5e3427548ef91a97ed334",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e484a3b1905e83f0e7cf474faa523ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476665,
+            "locality_id":85950733,
+            "region_id":85688645,
+            "venue_id":672278827
+        }
+    ],
     "wof:id":672278827,
-    "wof:lastmodified":1472625467,
+    "wof:lastmodified":1492113299,
     "wof:name":"Affordable Town Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

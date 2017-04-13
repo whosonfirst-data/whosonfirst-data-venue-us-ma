@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.38985,42.15707,-71.38985,42.15707",
     "geom:latitude":42.15707,
     "geom:longitude":-71.38985,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85855935,
+        102084403,
         85811341,
         102191575,
         404476581,
-        85633793,
-        85950831,
-        102084403,
-        85688645
+        85950831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,15 @@
     },
     "wof:country":"US",
     "wof:created":1461727166,
-    "wof:geomhash":"f89c606779f395c8331db19316c1f391",
+    "wof:geomhash":"c27225c7b37606cce09585b2dd020423",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85855935,
+            "region_id":85688645,
+            "venue_id":672809081
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +70,9 @@
         }
     ],
     "wof:id":672809081,
-    "wof:lastmodified":1472626032,
+    "wof:lastmodified":1492114301,
     "wof:name":"Metro West Auto Group Svc Ctr",
-    "wof:parent_id":85811341,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

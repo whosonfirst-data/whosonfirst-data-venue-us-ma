@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.10215,42.1255,-71.10215,42.1255",
     "geom:latitude":42.1255,
     "geom:longitude":-71.10215,
@@ -33,17 +34,26 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ABNOwrxQDwhFXp4TccC7J_42.125500_-71.102150@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712323,
-    "wof:geomhash":"862c434cbe1ce45df200092dda998daf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69d7eb5644a90018e101ce4f2875e2f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672143695
+        }
+    ],
     "wof:id":672143695,
-    "wof:lastmodified":1472624957,
+    "wof:lastmodified":1492112626,
     "wof:name":"Mutual Oil Co",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

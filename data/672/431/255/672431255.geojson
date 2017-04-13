@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.909089,41.892429,-70.909089,41.892429",
     "geom:latitude":41.892429,
     "geom:longitude":-70.909089,
@@ -31,19 +32,44 @@
         "manicuring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819,
+        85853233,
+        102191575,
+        404476041,
+        85950469,
+        102084367,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HyUmn9mgPDS9p1XqhiuVh_41.892429_-70.909089@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718676,
-    "wof:geomhash":"8308ab24932e711a270ffbadca4f4dc8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20e5173ee8cd373a3df8af2a738423ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672431255
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476041,
+            "locality_id":85950469,
+            "neighbourhood_id":85853233,
+            "region_id":85688645,
+            "venue_id":672431255
+        }
+    ],
     "wof:id":672431255,
-    "wof:lastmodified":1472625697,
+    "wof:lastmodified":1492109740,
     "wof:name":"Rose Nail",
-    "wof:parent_id":420523819,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

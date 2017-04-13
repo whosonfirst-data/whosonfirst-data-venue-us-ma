@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.730074,42.311285,-71.730074,42.311285",
     "geom:latitude":42.311285,
     "geom:longitude":-71.730074,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85850089,
-        102084655
+        102084655,
+        85806943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461732252,
-    "wof:geomhash":"38dda77499dcc9d6c8164009b5efea7c",
+    "wof:geomhash":"5122fbfe013325473755ecf23a1cbabc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,19 @@
             "neighbourhood_id":85850089,
             "region_id":85688645,
             "venue_id":673027501
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85806943,
+            "region_id":85688645,
+            "venue_id":673027501
         }
     ],
     "wof:id":673027501,
-    "wof:lastmodified":1472625024,
+    "wof:lastmodified":1492105002,
     "wof:name":"S J Turnblom Construction Co",
-    "wof:parent_id":85850089,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

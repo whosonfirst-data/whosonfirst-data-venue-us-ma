@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.796997,41.902401,-70.796997,41.902401",
     "geom:latitude":41.902401,
     "geom:longitude":-70.796997,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4emY6sLb3U7vEw4u4Kglpx_41.902401_-70.796997@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741014,
-    "wof:geomhash":"3304fb2d1800fc552652a2713a3f9977",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7303d616354e19ad63de5117971da86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689153313
+        }
+    ],
     "wof:id":689153313,
-    "wof:lastmodified":1472625499,
+    "wof:lastmodified":1492097475,
     "wof:name":"John S Schlager Siding Contractor",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

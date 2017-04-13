@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.892216,41.875491,-70.892216,41.875491",
     "geom:latitude":41.875491,
     "geom:longitude":-70.892216,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JzPUxBMmCJQzoQXcjujjU_41.875491_-70.892216@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725494,
-    "wof:geomhash":"0597258e333d78fc69fbb892c7bc95ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe848d669291897a75524b17943ec002",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672729243
+        }
+    ],
     "wof:id":672729243,
-    "wof:lastmodified":1472625966,
+    "wof:lastmodified":1492108194,
     "wof:name":"Jericho Christian Fellowship",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

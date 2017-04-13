@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.3284,42.671018,-71.3284,42.671018",
     "geom:latitude":42.671018,
     "geom:longitude":-71.3284,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85840943,
-        102084643
+        102084643,
+        85811869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461714092,
-    "wof:geomhash":"30c4de6da060a12e49f3ad865f7d091e",
+    "wof:geomhash":"3042a093e342f43e14e2cc1b85e47dfb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,19 @@
             "neighbourhood_id":85840943,
             "region_id":85688645,
             "venue_id":672226143
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85811869,
+            "region_id":85688645,
+            "venue_id":672226143
         }
     ],
     "wof:id":672226143,
-    "wof:lastmodified":1472625231,
+    "wof:lastmodified":1492118236,
     "wof:name":"Ian Barwick DDS",
-    "wof:parent_id":85840943,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

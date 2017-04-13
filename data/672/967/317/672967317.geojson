@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.00314,41.640848,-71.00314,41.640848",
     "geom:latitude":41.640848,
     "geom:longitude":-71.00314,
@@ -32,17 +33,36 @@
         "coffee"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420558919,
+        102191575,
+        404476169,
+        85633793,
+        85950685,
+        102084407,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cpzLt5iRqna1tygglH3EM_41.640848_-71.003140@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730679,
-    "wof:geomhash":"bf996de1ba906237116c136a378ff8cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8b20225b8d28aced3c98a74c8fec333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476169,
+            "locality_id":85950685,
+            "neighbourhood_id":420558919,
+            "region_id":85688645,
+            "venue_id":672967317
+        }
+    ],
     "wof:id":672967317,
-    "wof:lastmodified":1472626169,
+    "wof:lastmodified":1492112339,
     "wof:name":"Uncle Jon's Coffee",
     "wof:parent_id":420558919,
     "wof:placetype":"venue",

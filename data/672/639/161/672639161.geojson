@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.795795,42.245093,-71.795795,42.245093",
     "geom:latitude":42.245093,
     "geom:longitude":-71.795795,
@@ -35,7 +36,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85827117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461723484,
-    "wof:geomhash":"29e7d0ff2f98a9dcf97966024874b3b8",
+    "wof:geomhash":"1e00a4f390dd8c601266bb3f53b4bf1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,22 @@
             "neighbourhood_id":420524213,
             "region_id":85688645,
             "venue_id":672639161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85827117,
+            "region_id":85688645,
+            "venue_id":672639161
         }
     ],
     "wof:id":672639161,
-    "wof:lastmodified":1472625878,
+    "wof:lastmodified":1492117112,
     "wof:name":"Jack's Variety",
-    "wof:parent_id":420524213,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

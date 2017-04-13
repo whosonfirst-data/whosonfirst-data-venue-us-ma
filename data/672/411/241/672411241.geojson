@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.901894,41.650396,-70.901894,41.650396",
     "geom:latitude":41.650396,
     "geom:longitude":-70.901894,
@@ -31,17 +32,26 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hIXi985q9PgWjxoNZLa5d_41.650396_-70.901894@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718196,
-    "wof:geomhash":"002f8ee763341699d1310e1fab2fad54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26b6d8213502ad60b3c43bc14908daf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672411241
+        }
+    ],
     "wof:id":672411241,
-    "wof:lastmodified":1472625675,
+    "wof:lastmodified":1492117458,
     "wof:name":"Fairhaven Software Products",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

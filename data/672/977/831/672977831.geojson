@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.378874,42.108576,-71.378874,42.108576",
     "geom:latitude":42.108576,
     "geom:longitude":-71.378874,
@@ -32,17 +33,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476439,
+        85633793,
+        85950431,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20eW32ETCszgUjDBpwVIuK_42.108576_-71.378874@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730982,
-    "wof:geomhash":"451ecaf2371a76a8108c881979376758",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c79bfdcd4954ac738105f95dc848a30c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476439,
+            "locality_id":85950431,
+            "region_id":85688645,
+            "venue_id":672977831
+        }
+    ],
     "wof:id":672977831,
-    "wof:lastmodified":1472626195,
+    "wof:lastmodified":1492117123,
     "wof:name":"Brook Street",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

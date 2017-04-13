@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.116675,42.128115,-71.116675,42.128115",
     "geom:latitude":42.128115,
     "geom:longitude":-71.116675,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4D8K9mH1NXZfR5huAbE22Y_42.128115_-71.116675@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725532,
-    "wof:geomhash":"90cc73d4136c33f644157d8c1f45d1af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fa134ea9ba7956dd0dbc137a7e0a253",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672730645
+        }
+    ],
     "wof:id":672730645,
-    "wof:lastmodified":1472625971,
+    "wof:lastmodified":1492109767,
     "wof:name":"Brookfield Engineering Labs",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

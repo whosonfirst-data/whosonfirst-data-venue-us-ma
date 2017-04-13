@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.601004,42.191688,-72.601004,42.191688",
     "geom:latitude":42.191688,
     "geom:longitude":-72.601004,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476347,
+        85633793,
+        85950397,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12iBTgn2cDLwpP3RBVLeb5_42.191688_-72.601004@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730193,
-    "wof:geomhash":"6fa1422f003697a7820821e580a4ee0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"763edba9a91e3e8f8c277614bef87008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "region_id":85688645,
+            "venue_id":672952341
+        }
+    ],
     "wof:id":672952341,
-    "wof:lastmodified":1472626162,
+    "wof:lastmodified":1492111429,
     "wof:name":"Convention Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

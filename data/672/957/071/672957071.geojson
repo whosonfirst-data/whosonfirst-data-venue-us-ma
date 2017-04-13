@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.467733,42.183093,-72.467733,42.183093",
     "geom:latitude":42.183093,
     "geom:longitude":-72.467733,
@@ -31,17 +32,26 @@
         "machine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NUAVpI77jTd8acf38Ha0L_42.183093_-72.467733@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730339,
-    "wof:geomhash":"0cd819f2cf161bb3732e3334dbb0b289",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d1993fc14c2c96abc779945daac6578",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":672957071
+        }
+    ],
     "wof:id":672957071,
-    "wof:lastmodified":1472626162,
+    "wof:lastmodified":1492112415,
     "wof:name":"Fury Machine & Tool Co",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

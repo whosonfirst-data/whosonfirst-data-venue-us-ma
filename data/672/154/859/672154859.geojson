@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.806806,41.978712,-70.806806,41.978712",
     "geom:latitude":41.978712,
     "geom:longitude":-70.806806,
@@ -33,17 +34,26 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e8NkeoPET41atwSgsVXPR_41.978712_-70.806806@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712552,
-    "wof:geomhash":"a3ed27807cbb41221553e2e60ffa72df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03593890ca8e4d65fccf84054051ea8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672154859
+        }
+    ],
     "wof:id":672154859,
-    "wof:lastmodified":1472624970,
+    "wof:lastmodified":1492110043,
     "wof:name":"ADD Glass",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

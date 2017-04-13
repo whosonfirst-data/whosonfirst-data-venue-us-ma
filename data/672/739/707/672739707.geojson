@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.940893,42.722683,-72.940893,42.722683",
     "geom:latitude":42.722683,
     "geom:longitude":-72.940893,
@@ -31,17 +32,32 @@
         "energy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476241,
+        85633793,
+        102084457
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qp0yn4SyOok1AgD5dlBcY_42.722683_-72.940893@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725726,
-    "wof:geomhash":"ce959cb49568816ed36ca195487f05bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c34f7f5f228b1ad03e039bc455693e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084457,
+            "localadmin_id":404476241,
+            "region_id":85688645,
+            "venue_id":672739707
+        }
+    ],
     "wof:id":672739707,
-    "wof:lastmodified":1472625982,
+    "wof:lastmodified":1492110891,
     "wof:name":"PG&e Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

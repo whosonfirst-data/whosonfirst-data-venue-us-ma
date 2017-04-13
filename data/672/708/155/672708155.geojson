@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.908451,41.890521,-70.908451,41.890521",
     "geom:latitude":41.890521,
     "geom:longitude":-70.908451,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3C1VlveWdlvnIDWrIiXlQZ_41.890521_-70.908451@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725040,
-    "wof:geomhash":"baafd8db9e94868974e25be463a08afa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9676ba6e8494cf04b052cd4e6ad0e605",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672708155
+        }
+    ],
     "wof:id":672708155,
-    "wof:lastmodified":1472625945,
+    "wof:lastmodified":1492107079,
     "wof:name":"Bob's Auto Repair",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

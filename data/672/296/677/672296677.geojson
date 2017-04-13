@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.105961,41.648094,-71.105961,41.648094",
     "geom:latitude":41.648094,
     "geom:longitude":-71.105961,
@@ -31,17 +32,26 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cdRV9KTNEBu6znsXWv2Ls_41.648094_-71.105961@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715544,
-    "wof:geomhash":"b1703cd389fa7d713e6915aabf02d346",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea70e4689bfb50653188856ff3370c9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523343,
+            "venue_id":672296677
+        }
+    ],
     "wof:id":672296677,
-    "wof:lastmodified":1472625496,
+    "wof:lastmodified":1492105707,
     "wof:name":"Corner News N Stuff",
     "wof:parent_id":420523343,
     "wof:placetype":"venue",

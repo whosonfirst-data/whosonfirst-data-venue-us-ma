@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.990945,41.964557,-70.990945,41.964557",
     "geom:latitude":41.964557,
     "geom:longitude":-70.990945,
@@ -34,17 +35,26 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bYgOtzi3qPClT1tcA68Cb_41.964557_-70.990945@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726626,
-    "wof:geomhash":"964133bdacaae50c72c218d19cea07bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d44f10c3976cf264da3543ef6acb61a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672782291
+        }
+    ],
     "wof:id":672782291,
-    "wof:lastmodified":1472626012,
+    "wof:lastmodified":1492110630,
     "wof:name":"Sullivan's Floor Craft",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

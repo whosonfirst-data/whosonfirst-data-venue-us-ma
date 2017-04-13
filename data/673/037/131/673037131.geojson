@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.327173,42.155419,-72.327173,42.155419",
     "geom:latitude":42.155419,
     "geom:longitude":-72.327173,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85851933,
+        102191575,
+        404476365,
         85633793,
         85950385,
         102084627,
-        85851933
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +50,13 @@
     },
     "wof:country":"US",
     "wof:created":1461732473,
-    "wof:geomhash":"6bf915644a52a31dec501af748d8927c",
+    "wof:geomhash":"c96b32c5916fe144f51b9a85ad7b47a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084627,
+            "localadmin_id":404476365,
             "locality_id":85950385,
             "neighbourhood_id":85851933,
             "region_id":85688645,
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":673037131,
-    "wof:lastmodified":1472625051,
+    "wof:lastmodified":1492105263,
     "wof:name":"Palmer Coin Op",
     "wof:parent_id":85851933,
     "wof:placetype":"venue",

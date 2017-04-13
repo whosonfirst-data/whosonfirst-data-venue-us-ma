@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.864513,42.351183,-71.864513,42.351183",
     "geom:latitude":42.351183,
     "geom:longitude":-71.864513,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OjwopZElrQiGPPe6mmv1o_42.351183_-71.864513@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724140,
-    "wof:geomhash":"63bd43dcd87574306ca2f88601c399c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e3c574085557d68315d8d8ed147177d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":672668863
+        }
+    ],
     "wof:id":672668863,
-    "wof:lastmodified":1472625917,
+    "wof:lastmodified":1492115881,
     "wof:name":"Holden Spa",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

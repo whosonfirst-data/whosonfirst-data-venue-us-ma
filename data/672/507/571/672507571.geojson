@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.546104,41.902341,-70.546104,41.902341",
     "geom:latitude":41.902341,
     "geom:longitude":-70.546104,
@@ -34,17 +35,26 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NBunbWNyIaLNAI5cK2WNV_41.902341_-70.546104@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720575,
-    "wof:geomhash":"f26145fe5a8c0bd941e5fb944dfc8159",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a16ae6f520bf2767c8c9d26f201bcc60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523997,
+            "venue_id":672507571
+        }
+    ],
     "wof:id":672507571,
-    "wof:lastmodified":1472625781,
+    "wof:lastmodified":1492118269,
     "wof:name":"Dplume Design",
     "wof:parent_id":420523997,
     "wof:placetype":"venue",

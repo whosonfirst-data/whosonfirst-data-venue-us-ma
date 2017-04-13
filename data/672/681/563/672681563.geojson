@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.516132,42.382518,-71.516132,42.382518",
     "geom:latitude":42.382518,
     "geom:longitude":-71.516132,
@@ -28,17 +29,26 @@
     "sg:postcode":"01749",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32XfnMqVUwQwfoZw1QUnvU_42.382518_-71.516132@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724428,
-    "wof:geomhash":"358736b1e56e43bc5d8167819191ac57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15daf3d998d6564aa08b8ed4623825ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672681563
+        }
+    ],
     "wof:id":672681563,
-    "wof:lastmodified":1472625929,
+    "wof:lastmodified":1492117845,
     "wof:name":"Baseball Diamonds",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.892805,41.644305,-70.892805,41.644305",
     "geom:latitude":41.644305,
     "geom:longitude":-70.892805,
@@ -32,17 +33,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6c9RNtJN6SZwAJy4u0P17n_41.644624_-70.893217@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733156,
-    "wof:geomhash":"c5ba50f7f2c352596878073ba559fa80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86c73a97ceb15c48a8cc8da8ff1cf2cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":673070763
+        }
+    ],
     "wof:id":673070763,
-    "wof:lastmodified":1472625192,
+    "wof:lastmodified":1492105046,
     "wof:name":"Rochesters",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

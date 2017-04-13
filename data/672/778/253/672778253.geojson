@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.562386,42.645566,-72.562386,42.645566",
     "geom:latitude":42.645566,
     "geom:longitude":-72.562386,
@@ -32,17 +33,26 @@
         "remodeling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75V2oHgwEDlNnqGgbWxu0T_42.645566_-72.562386@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726545,
-    "wof:geomhash":"d6dbcac904e21d1c8ce1f75c6bc492b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9fe32f99d16b6c05a6acad72fb21cc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672778253
+        }
+    ],
     "wof:id":672778253,
-    "wof:lastmodified":1472626009,
+    "wof:lastmodified":1492113384,
     "wof:name":"Bath Fitter",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.426604,42.256598,-71.426604,42.256598",
     "geom:latitude":42.256598,
     "geom:longitude":-71.426604,
@@ -31,17 +32,26 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DQmR0Xd7cATVb3uoJwAGB_42.256598_-71.426604@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712211,
-    "wof:geomhash":"b2a422f46bbb64f7bf88b463307b31ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd8dea4e4c96b6146e0575071f68d736",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672138377
+        }
+    ],
     "wof:id":672138377,
-    "wof:lastmodified":1472624909,
+    "wof:lastmodified":1492109808,
     "wof:name":"Market Basket",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

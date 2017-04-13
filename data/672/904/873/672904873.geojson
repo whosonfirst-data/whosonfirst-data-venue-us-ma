@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.903432,41.649013,-70.903432,41.649013",
     "geom:latitude":41.649013,
     "geom:longitude":-70.903432,
@@ -29,8 +30,9 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523315,
+        85688645,
         85823881,
         102084407
     ],
@@ -40,8 +42,13 @@
     },
     "wof:country":"US",
     "wof:created":1461729123,
-    "wof:geomhash":"b4d2df8cee3e823a05b45a1f19202049",
+    "wof:geomhash":"a394c36cf30b463f92006bf3e4e63c17",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672904873
+        },
         {
             "country_id":85633793,
             "county_id":102084407,
@@ -51,9 +58,9 @@
         }
     ],
     "wof:id":672904873,
-    "wof:lastmodified":1472626128,
+    "wof:lastmodified":1492105760,
     "wof:name":"Polonaise Antiques",
-    "wof:parent_id":85823881,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

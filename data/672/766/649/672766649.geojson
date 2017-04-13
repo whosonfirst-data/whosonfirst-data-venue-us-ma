@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.977312,42.718371,-70.977312,42.718371",
     "geom:latitude":42.718371,
     "geom:longitude":-70.977312,
@@ -33,17 +34,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wWbcQrHegKgYruKACurhr_42.718371_-70.977312@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726297,
-    "wof:geomhash":"5dc895d6e3e1251a91a15ff05d8d9d5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de9aa878806158f7e57304e0c775c975",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672766649
+        }
+    ],
     "wof:id":672766649,
-    "wof:lastmodified":1472626000,
+    "wof:lastmodified":1492115029,
     "wof:name":"Curran Communications & Alarm",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

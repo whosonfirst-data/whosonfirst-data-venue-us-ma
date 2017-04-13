@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.902398,41.750449,-70.902398,41.750449",
     "geom:latitude":41.750449,
     "geom:longitude":-70.902398,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BdlfMyVL4APS3nXez7Op1_41.750449_-70.902398@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724153,
-    "wof:geomhash":"702b3a85fbf1e9adc62beb600048a8b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"651c115ea642fe2fb66f479f1354985a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672669487
+        }
+    ],
     "wof:id":672669487,
-    "wof:lastmodified":1472625918,
+    "wof:lastmodified":1492112694,
     "wof:name":"Long Plain Friends Meeting",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.807367,41.969597,-70.807367,41.969597",
     "geom:latitude":41.969597,
     "geom:longitude":-70.807367,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DceFY6DXIm9Z6QCWYXfEy_41.969597_-70.807367@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732221,
-    "wof:geomhash":"b95faf469c7bfed40472eb52e58352f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"729003a3f7a634e478ffeb0ec74ffd4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":673026509
+        }
+    ],
     "wof:id":673026509,
-    "wof:lastmodified":1472625029,
+    "wof:lastmodified":1492102525,
     "wof:name":"Mc Andrews & Sons Trucking",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

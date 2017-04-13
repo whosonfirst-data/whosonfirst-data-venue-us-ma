@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.120913,41.824888,-71.120913,41.824888",
     "geom:latitude":41.824888,
     "geom:longitude":-71.120913,
@@ -31,17 +32,26 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06pXERbg9xS4OZYS3vw2SD_41.824888_-71.120913@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720959,
-    "wof:geomhash":"7b07ea628b6779d79bee2f876b5fc50a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5e60fad796d741b8d3be212f5fdf4c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523323,
+            "venue_id":672525633
+        }
+    ],
     "wof:id":672525633,
-    "wof:lastmodified":1472625779,
+    "wof:lastmodified":1492109212,
     "wof:name":"Gardner Tire Ctr",
     "wof:parent_id":420523323,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.971734,41.801898,-70.971734,41.801898",
     "geom:latitude":41.801898,
     "geom:longitude":-70.971734,
@@ -31,17 +32,26 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WRI1CkicaD6PSUfYFqli5_41.801898_-70.971734@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711168,
-    "wof:geomhash":"99315d6ee4b1ecb4c744a40b92c246ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab74202364affcaccfee3625437a47a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523853,
+            "venue_id":656360115
+        }
+    ],
     "wof:id":656360115,
-    "wof:lastmodified":1472624928,
+    "wof:lastmodified":1492101643,
     "wof:name":"RSBH Construction",
     "wof:parent_id":420523853,
     "wof:placetype":"venue",

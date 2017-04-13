@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.927252,42.316802,-71.927252,42.316802",
     "geom:latitude":42.316802,
     "geom:longitude":-71.927252,
@@ -44,17 +45,26 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SOjKDrJD8hnvTWQ4iPL6e_42.316802_-71.927252@1303262188"
     },
     "wof:country":"US",
     "wof:created":1461734481,
-    "wof:geomhash":"1fe34b4c132a1fed8c444d7dff6dbf18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bcbba13a6cddc2d3728c41f4bf4df23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":673134517
+        }
+    ],
     "wof:id":673134517,
-    "wof:lastmodified":1472625378,
+    "wof:lastmodified":1492103045,
     "wof:name":"Corporate Design Group Inc",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

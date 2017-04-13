@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.909049,42.246011,-71.909049,42.246011",
     "geom:latitude":42.246011,
     "geom:longitude":-71.909049,
@@ -32,17 +33,26 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TZihiSo6hrNaTK0Edu3R6_42.246011_-71.909049@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734237,
-    "wof:geomhash":"6ef283fbcb7fba2a01287213d1f31e7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87e9ff356793cff8397f954730c207d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":673122049
+        }
+    ],
     "wof:id":673122049,
-    "wof:lastmodified":1472625331,
+    "wof:lastmodified":1492104011,
     "wof:name":"Comprehensive Physical Therapy PC",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

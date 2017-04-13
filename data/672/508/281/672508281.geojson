@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.752449,42.044017,-70.752449,42.044017",
     "geom:latitude":42.044017,
     "geom:longitude":-70.752449,
@@ -31,17 +32,26 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76tuBmZTfhD82T1JyBOeYt_42.044017_-70.752449@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720589,
-    "wof:geomhash":"dd21e56b2905b5fe731885eef6df24a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de3faa15b2d0a72a68e72f31c2c597e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":672508281
+        }
+    ],
     "wof:id":672508281,
-    "wof:lastmodified":1472625766,
+    "wof:lastmodified":1492112151,
     "wof:name":"Office Works",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

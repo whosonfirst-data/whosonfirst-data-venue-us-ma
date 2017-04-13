@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.100564,42.135402,-71.100564,42.135402",
     "geom:latitude":42.135402,
     "geom:longitude":-71.100564,
@@ -31,17 +32,26 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UfVLQ41P9fCBNpzNQ1Mi8_42.135402_-71.100564@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728252,
-    "wof:geomhash":"abdb2bd57ff0474e87c2ddbd2b660357",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea520f267926633673bc57fb2ead3de9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672864015
+        }
+    ],
     "wof:id":672864015,
-    "wof:lastmodified":1472626073,
+    "wof:lastmodified":1492117803,
     "wof:name":"Ruth's Bake Shop",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

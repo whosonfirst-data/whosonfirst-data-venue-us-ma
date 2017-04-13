@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.047828,42.403433,-71.047828,42.403433",
     "geom:latitude":42.403433,
     "geom:longitude":-71.047828,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476487,
+        85633793,
+        85950331,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NJguLSrARfJomJ1HqLEHP_42.403433_-71.047828@1303262219"
     },
     "wof:country":"US",
     "wof:created":1461739517,
-    "wof:geomhash":"fd8870c50d9e21a95acd300a80dbc6df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4afeb9297d8679b8ff469a538b9252aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476487,
+            "locality_id":85950331,
+            "region_id":85688645,
+            "venue_id":689106351
+        }
+    ],
     "wof:id":689106351,
-    "wof:lastmodified":1472625363,
+    "wof:lastmodified":1492100673,
     "wof:name":"Parkway Heights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

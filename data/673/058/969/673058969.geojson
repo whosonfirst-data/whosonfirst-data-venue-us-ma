@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.954396,42.745349,-70.954396,42.745349",
     "geom:latitude":42.745349,
     "geom:longitude":-70.954396,
@@ -25,17 +26,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EYJiHfiS1mPCTUXb7T1Db_42.745349_-70.954396@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732928,
-    "wof:geomhash":"1231b3ad69c7b375bf246574fda62e0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c936f256fac2dbf7eccda5fdce1a1af2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673058969
+        }
+    ],
     "wof:id":673058969,
-    "wof:lastmodified":1472625177,
+    "wof:lastmodified":1492104730,
     "wof:name":"Newburyport Fuel",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

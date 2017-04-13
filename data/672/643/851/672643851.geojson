@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.086403,41.661835,-71.086403,41.661835",
     "geom:latitude":41.661835,
     "geom:longitude":-71.086403,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_310GdHYcNHB66NkxC6jxG0_41.661835_-71.086403@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723582,
-    "wof:geomhash":"80f548c43ef77739ea38d8037ff52587",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28f7b16e3ce52f00a2a1e8579ed16581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672643851
+        }
+    ],
     "wof:id":672643851,
-    "wof:lastmodified":1472625895,
+    "wof:lastmodified":1492112087,
     "wof:name":"Dan's Auto Sales",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

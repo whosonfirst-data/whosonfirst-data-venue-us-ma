@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.374318,42.088252,-73.374318,42.088252",
     "geom:latitude":42.088252,
     "geom:longitude":-73.374318,
@@ -31,19 +32,28 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lar6C1zivIoryD9b6Izdo_42.088252_-73.374318@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722814,
-    "wof:geomhash":"ce89780f8b5d2fd642a7ba647fe659dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa0072b6cc6eae7401b6ef1dcbaa4aca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555577,
+            "venue_id":672609453
+        }
+    ],
     "wof:id":672609453,
-    "wof:lastmodified":1472625860,
+    "wof:lastmodified":1492109242,
     "wof:name":"Sheffield Transfer Station",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555577,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

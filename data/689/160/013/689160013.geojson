@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.710002,41.942939,-70.710002,41.942939",
     "geom:latitude":41.942939,
     "geom:longitude":-70.710002,
@@ -41,17 +42,32 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476561,
+        85633793,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dcDPQRV38Cuoa0HQBsB1d_41.942939_-70.710002@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741169,
-    "wof:geomhash":"64ceacf53852901be166fca0f079489e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa5987f191e01b1b87a0ac019d6da7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476561,
+            "region_id":85688645,
+            "venue_id":689160013
+        }
+    ],
     "wof:id":689160013,
-    "wof:lastmodified":1472625498,
+    "wof:lastmodified":1492101087,
     "wof:name":"Plymouth Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

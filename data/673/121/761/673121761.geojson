@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.895546,42.366427,-71.895546,42.366427",
     "geom:latitude":42.366427,
     "geom:longitude":-71.895546,
@@ -38,17 +39,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IjhWGVRfvzi8KyEaQLolI_42.366427_-71.895546@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734232,
-    "wof:geomhash":"eaa8c6c14f538b783c2de2ad079c511f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7e265d4f000186a7131e5daa93321a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524223,
+            "venue_id":673121761
+        }
+    ],
     "wof:id":673121761,
-    "wof:lastmodified":1472625368,
+    "wof:lastmodified":1492104175,
     "wof:name":"Field Pendleton",
     "wof:parent_id":420524223,
     "wof:placetype":"venue",

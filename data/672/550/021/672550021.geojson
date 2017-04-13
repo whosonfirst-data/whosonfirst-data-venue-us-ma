@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.429547,42.440885,-71.429547,42.440885",
     "geom:latitude":42.440885,
     "geom:longitude":-71.429547,
@@ -39,7 +40,8 @@
         85633793,
         85950643,
         102084643,
-        85688645
+        85688645,
+        85837157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721463,
-    "wof:geomhash":"95c9b7178c39f0c5fc09a4bd7d42d036",
+    "wof:geomhash":"98bc3549fcadbd83699f16d6c06d600a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,19 @@
             "neighbourhood_id":85891443,
             "region_id":85688645,
             "venue_id":672550021
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85837157,
+            "region_id":85688645,
+            "venue_id":672550021
         }
     ],
     "wof:id":672550021,
-    "wof:lastmodified":1472625798,
+    "wof:lastmodified":1492111812,
     "wof:name":"Village Subaru Inc",
-    "wof:parent_id":85891443,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

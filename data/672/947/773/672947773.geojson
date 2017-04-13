@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.802617,41.914468,-70.802617,41.914468",
     "geom:latitude":41.914468,
     "geom:longitude":-70.802617,
@@ -32,17 +33,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dCR84phn2OWG76WWf99fn_41.914468_-70.802617@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730064,
-    "wof:geomhash":"22ad1c71affa3717cb8b5ac91cd47552",
-    "wof:hierarchy":[],
+    "wof:geomhash":"992a00155075a35716b91fac238dbd13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672947773
+        }
+    ],
     "wof:id":672947773,
-    "wof:lastmodified":1472626165,
+    "wof:lastmodified":1492115137,
     "wof:name":"Valentines Donuts",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

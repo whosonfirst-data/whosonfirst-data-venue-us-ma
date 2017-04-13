@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.911374,41.712388,-70.911374,41.712388",
     "geom:latitude":41.712388,
     "geom:longitude":-70.911374,
@@ -32,17 +33,26 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tewuTqNT50oab1cOSdCsQ_41.712388_-70.911374@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712978,
-    "wof:geomhash":"4aa44f5c9ac78f6205db64a070bd3d5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2d08edb1f9818f065c218867f1d02bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":672173683
+        }
+    ],
     "wof:id":672173683,
-    "wof:lastmodified":1472625082,
+    "wof:lastmodified":1492115074,
     "wof:name":"Custom Data Processing",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

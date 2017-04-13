@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.723507,41.929529,-70.723507,41.929529",
     "geom:latitude":41.929529,
     "geom:longitude":-70.723507,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bkOpGQq8dXcqzBJnKwory_41.929529_-70.723507@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732062,
-    "wof:geomhash":"df3945e1a5d757b5c2938a003255334d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc616e780eeea1d965737703731132c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":673019997
+        }
+    ],
     "wof:id":673019997,
-    "wof:lastmodified":1472625034,
+    "wof:lastmodified":1492102983,
     "wof:name":"Business Counsel Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

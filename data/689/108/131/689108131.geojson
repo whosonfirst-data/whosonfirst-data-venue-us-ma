@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.035674,42.414613,-71.035674,42.414613",
     "geom:latitude":42.414613,
     "geom:longitude":-71.035674,
@@ -31,17 +32,34 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476487,
+        85633793,
+        85950331,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jik067ZTdcoTQmLaIEkCX_42.414613_-71.035674@1303262220"
     },
     "wof:country":"US",
     "wof:created":1461739564,
-    "wof:geomhash":"d113ac177badd30ce4e3d74d0a9e3721",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2098a1948ccd079d8015e152da0975f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476487,
+            "locality_id":85950331,
+            "region_id":85688645,
+            "venue_id":689108131
+        }
+    ],
     "wof:id":689108131,
-    "wof:lastmodified":1472625362,
+    "wof:lastmodified":1492098614,
     "wof:name":"Pizza Joe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.094599,42.127237,-71.094599,42.127237",
     "geom:latitude":42.127237,
     "geom:longitude":-71.094599,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_203iwHVuxGH4ril11J0UO9_42.127237_-71.094599@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722121,
-    "wof:geomhash":"39a272307c0efb6493f76ee9612ca854",
-    "wof:hierarchy":[],
+    "wof:geomhash":"deff06483749b15a7420613a906d670b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672579857
+        }
+    ],
     "wof:id":672579857,
-    "wof:lastmodified":1472625839,
+    "wof:lastmodified":1492112604,
     "wof:name":"Long Bay Management",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

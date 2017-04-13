@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.788867,42.065206,-70.788867,42.065206",
     "geom:latitude":42.065206,
     "geom:longitude":-70.788867,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Iwg9X1oHwKO7gHWtDX5Fo_42.065206_-70.788867@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741114,
-    "wof:geomhash":"902cbda09e028ee827e4484c3d191e5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e984860fa634fc23310a1404d95a4f7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":689157089
+        }
+    ],
     "wof:id":689157089,
-    "wof:lastmodified":1472625498,
+    "wof:lastmodified":1492099697,
     "wof:name":"North River",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.830606,42.04117,-71.830606,42.04117",
     "geom:latitude":42.04117,
     "geom:longitude":-71.830606,
@@ -38,17 +39,32 @@
         "machinery-rebuild"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476631,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4A7Kcppt8TZFZ8JahUYGxK_42.041170_-71.830606@1303262187"
     },
     "wof:country":"US",
     "wof:created":1461734383,
-    "wof:geomhash":"44e4114bf5baf0864bc036b58e0fc984",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e26f7bbd4b82d619bc515d99977fa829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476631,
+            "region_id":85688645,
+            "venue_id":673129513
+        }
+    ],
     "wof:id":673129513,
-    "wof:lastmodified":1472625369,
+    "wof:lastmodified":1492104654,
     "wof:name":"American Mill Wright Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

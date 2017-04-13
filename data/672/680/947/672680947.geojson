@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.820056,42.009858,-70.820056,42.009858",
     "geom:latitude":42.009858,
     "geom:longitude":-70.820056,
@@ -32,17 +33,26 @@
         "computer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_308iznfpHHT8TeBpneTiLg_42.009858_-70.820056@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724410,
-    "wof:geomhash":"0e5d3b51fcd58e295fbef16bd95e547b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c209ee15c981f2d94299e0d4bda4df75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672680947
+        }
+    ],
     "wof:id":672680947,
-    "wof:lastmodified":1472625931,
+    "wof:lastmodified":1492115309,
     "wof:name":"LAR Solutions",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

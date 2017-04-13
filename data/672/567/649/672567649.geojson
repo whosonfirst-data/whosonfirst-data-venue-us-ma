@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.885414,41.879717,-70.885414,41.879717",
     "geom:latitude":41.879717,
     "geom:longitude":-70.885414,
@@ -31,17 +32,26 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nPHK1bFcmjpIIo23stTlI_41.879717_-70.885414@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721864,
-    "wof:geomhash":"e0b65e38efc186416d5f043fa5efc860",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd56602c0aa86d81d9cc517e92564d86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672567649
+        }
+    ],
     "wof:id":672567649,
-    "wof:lastmodified":1472625827,
+    "wof:lastmodified":1492118217,
     "wof:name":"Village Market",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

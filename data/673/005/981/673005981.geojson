@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.619207,41.918974,-70.619207,41.918974",
     "geom:latitude":41.918974,
     "geom:longitude":-70.619207,
@@ -31,8 +32,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85849967,
-        102084367
+        85810861,
+        102084367,
+        85849967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +42,15 @@
     },
     "wof:country":"US",
     "wof:created":1461731704,
-    "wof:geomhash":"1f05e4126c34899154a07f2d92cbf70a",
+    "wof:geomhash":"4dd4bf6fdec5a3512ca8ca2793fb050b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85810861,
+            "region_id":85688645,
+            "venue_id":673005981
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -51,9 +60,9 @@
         }
     ],
     "wof:id":673005981,
-    "wof:lastmodified":1472624956,
+    "wof:lastmodified":1492103403,
     "wof:name":"Chiltonville Pottery",
-    "wof:parent_id":85849967,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

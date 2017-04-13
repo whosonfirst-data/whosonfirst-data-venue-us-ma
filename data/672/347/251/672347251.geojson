@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.502574,41.743203,-70.502574,41.743203",
     "geom:latitude":41.743203,
     "geom:longitude":-70.502574,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85852115,
+        102191575,
+        404476193,
         85633793,
         85950591,
         102084379,
-        85852115
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1461716663,
-    "wof:geomhash":"68583e00ba5501fa7e6dbdfcfa2c565b",
+    "wof:geomhash":"9df1072fbfac39086768bcc9278f8275",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084379,
+            "localadmin_id":404476193,
             "locality_id":85950591,
             "neighbourhood_id":85852115,
             "region_id":85688645,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":672347251,
-    "wof:lastmodified":1472625580,
+    "wof:lastmodified":1492116619,
     "wof:name":"Codfish Bones",
     "wof:parent_id":85852115,
     "wof:placetype":"venue",

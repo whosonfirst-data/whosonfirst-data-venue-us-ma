@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.791362,41.891482,-70.791362,41.891482",
     "geom:latitude":41.891482,
     "geom:longitude":-70.791362,
@@ -32,17 +33,26 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_395cMcIN4OCYo6dUsqoZnz_41.891482_-70.791362@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461710976,
-    "wof:geomhash":"02544721b28f67a0881cc4ddb33b2c1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43b90120a22e1932790de13390787293",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":656350961
+        }
+    ],
     "wof:id":656350961,
-    "wof:lastmodified":1472624933,
+    "wof:lastmodified":1492101628,
     "wof:name":"Ici Paints Architectural Div",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

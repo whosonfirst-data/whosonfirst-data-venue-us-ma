@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.269634,42.136757,-71.269634,42.136757",
     "geom:latitude":42.136757,
     "geom:longitude":-71.269634,
@@ -23,17 +24,26 @@
     "sg:province":"MA",
     "sg:website":"http://www.acmeglass.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KKODrdiZwnCMGxYkuI2Ma_42.136757_-71.269634@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736363,
-    "wof:geomhash":"b1dedc464890e3f3bfa19439ccc9ef54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0adcc038124d2edd9f8c1d0c132f58a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":688955961
+        }
+    ],
     "wof:id":688955961,
-    "wof:lastmodified":1472625196,
+    "wof:lastmodified":1492120350,
     "wof:name":"Acme Glass Co",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.558543,42.035978,-72.558543,42.035978",
     "geom:latitude":42.035978,
     "geom:longitude":-72.558543,
@@ -31,17 +32,34 @@
         "courier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475977,
+        85633793,
+        85950771,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VNYbi8xYvDNgLIWTfKAVp_42.035978_-72.558543@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725366,
-    "wof:geomhash":"6684babb40746875ccef0c62dbeec884",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50bbf532106c6e94852c3691d3c0e71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404475977,
+            "locality_id":85950771,
+            "region_id":85688645,
+            "venue_id":672723341
+        }
+    ],
     "wof:id":672723341,
-    "wof:lastmodified":1472625960,
+    "wof:lastmodified":1492114717,
     "wof:name":"SPD Courier Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

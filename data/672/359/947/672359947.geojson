@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.252619,42.452915,-73.252619,42.452915",
     "geom:latitude":42.452915,
     "geom:longitude":-73.252619,
@@ -30,13 +31,14 @@
     "sg:website":"www.paulrich.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829545,
+        85853761,
         102191575,
         404476123,
         85633793,
         85950325,
         102084369,
-        85688645
+        85688645,
+        85829545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,18 @@
     },
     "wof:country":"US",
     "wof:created":1461716974,
-    "wof:geomhash":"95bad443f085e31c18514177e2913ae6",
+    "wof:geomhash":"63bf4084745e55fbc96fdb502c5613b8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084369,
+            "localadmin_id":404476123,
+            "locality_id":85950325,
+            "neighbourhood_id":85853761,
+            "region_id":85688645,
+            "venue_id":672359947
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":672359947,
-    "wof:lastmodified":1472625628,
+    "wof:lastmodified":1492110513,
     "wof:name":"Paul Rich & Sons Home Frnshngs",
-    "wof:parent_id":85829545,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

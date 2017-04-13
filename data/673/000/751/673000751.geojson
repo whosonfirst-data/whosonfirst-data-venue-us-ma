@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.302689,41.782284,-71.302689,41.782284",
     "geom:latitude":41.782284,
     "geom:longitude":-71.302689,
@@ -31,17 +32,32 @@
         "elevator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476141,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73TcLEdJ8PEa1IzpenRUw1_41.782284_-71.302689@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731593,
-    "wof:geomhash":"711220613290dd375d60b93a84a010cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9313f60c578ab25e8df4ac5108f2c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476141,
+            "region_id":85688645,
+            "venue_id":673000751
+        }
+    ],
     "wof:id":673000751,
-    "wof:lastmodified":1472624937,
+    "wof:lastmodified":1492104420,
     "wof:name":"Atlantic Elevator South",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

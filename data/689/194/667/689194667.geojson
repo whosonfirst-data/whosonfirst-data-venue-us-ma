@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.618401,41.631401,-70.618401,41.631401",
     "geom:latitude":41.631401,
     "geom:longitude":-70.618401,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ctuhOthJlzWnkFZpwvNWi_41.631401_-70.618401@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741935,
-    "wof:geomhash":"798a37e1a080ae7dfe19945695b2f140",
-    "wof:hierarchy":[],
+    "wof:geomhash":"561a0befc93421e103bae42bbe64613e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":689194667
+        }
+    ],
     "wof:id":689194667,
-    "wof:lastmodified":1472625596,
+    "wof:lastmodified":1492099909,
     "wof:name":"Caron Robt Bldrs - CLOSED",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

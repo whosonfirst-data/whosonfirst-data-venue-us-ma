@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.072375,42.032967,-71.072375,42.032967",
     "geom:latitude":42.032967,
     "geom:longitude":-71.072375,
@@ -34,19 +35,28 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FOzOZ7REbhVk8Z48RPY3x_42.032967_-71.072375@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731073,
-    "wof:geomhash":"418a00681d3d94d030234e6f6f4932f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1620bb6ede622a07ccd3451d3a0ace32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523987,
+            "venue_id":672981411
+        }
+    ],
     "wof:id":672981411,
-    "wof:lastmodified":1472626188,
+    "wof:lastmodified":1492118318,
     "wof:name":"Easton Win Water Works Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

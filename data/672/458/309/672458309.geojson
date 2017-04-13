@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.908044,41.890055,-70.908044,41.890055",
     "geom:latitude":41.890055,
     "geom:longitude":-70.908044,
@@ -32,10 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420523819,
         85853233,
         102191575,
         404476041,
-        85633793,
         85950469,
         102084367,
         85688645
@@ -46,8 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1461719391,
-    "wof:geomhash":"78624d8c186f4836a1522c3b5845b1b9",
+    "wof:geomhash":"52f89e776f9a4634e91ed19c70d50b82",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672458309
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +67,9 @@
         }
     ],
     "wof:id":672458309,
-    "wof:lastmodified":1472625719,
+    "wof:lastmodified":1492106248,
     "wof:name":"Middleborough Housing Auth",
-    "wof:parent_id":85853233,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

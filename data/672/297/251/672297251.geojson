@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.975339,42.056206,-70.975339,42.056206",
     "geom:latitude":42.056206,
     "geom:longitude":-70.975339,
@@ -31,17 +32,26 @@
         "window"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YTIupcjy3mwnjUu0soAr4_42.056206_-70.975339@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715554,
-    "wof:geomhash":"73aacdc7ab0e3e4d700842b4babda8ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae5df81286c226c0a0fb07b93919c6e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523979,
+            "venue_id":672297251
+        }
+    ],
     "wof:id":672297251,
-    "wof:lastmodified":1472625491,
+    "wof:lastmodified":1492118480,
     "wof:name":"KPC Svc",
     "wof:parent_id":420523979,
     "wof:placetype":"venue",

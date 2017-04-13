@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.866179,41.856434,-70.866179,41.856434",
     "geom:latitude":41.856434,
     "geom:longitude":-70.866179,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r6hRXnU4lyPuaZoKL1Vts_41.856434_-70.866179@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712704,
-    "wof:geomhash":"76a1d89159649b4ebe9833c53035cb3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6d327929ad0d5f24a7160ff6d104f87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672161791
+        }
+    ],
     "wof:id":672161791,
-    "wof:lastmodified":1472625037,
+    "wof:lastmodified":1492112295,
     "wof:name":"Vintage Travel",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

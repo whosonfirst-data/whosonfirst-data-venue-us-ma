@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.709531,42.218317,-71.709531,42.218317",
     "geom:latitude":42.218317,
     "geom:longitude":-71.709531,
@@ -31,17 +32,26 @@
         "windows"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ICJ0hferzBfhDYOer2gaC_42.218317_-71.709531@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713837,
-    "wof:geomhash":"40b489fea744346903beb1b6396621f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"081efdb2a04ab508a360372d929b0b97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524183,
+            "venue_id":672213677
+        }
+    ],
     "wof:id":672213677,
-    "wof:lastmodified":1472625232,
+    "wof:lastmodified":1492109716,
     "wof:name":"Window Logic",
     "wof:parent_id":420524183,
     "wof:placetype":"venue",

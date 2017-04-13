@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.819638,41.976867,-70.819638,41.976867",
     "geom:latitude":41.976867,
     "geom:longitude":-70.819638,
@@ -32,17 +33,26 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iidjyK91Aqm72cnyUih3U_41.976867_-70.819638@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712996,
-    "wof:geomhash":"909364e8a10bddf8d12cd16f38fd74e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"338df68af400c972cf8384a00a69f702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672174589
+        }
+    ],
     "wof:id":672174589,
-    "wof:lastmodified":1472625092,
+    "wof:lastmodified":1492119667,
     "wof:name":"Tractor & Welding Svc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

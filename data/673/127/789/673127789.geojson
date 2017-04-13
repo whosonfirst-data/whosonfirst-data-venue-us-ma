@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.764776,42.427809,-71.764776,42.427809",
     "geom:latitude":42.427809,
     "geom:longitude":-71.764776,
@@ -34,17 +35,26 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05GvjEWcuCqz0b4kXEKP16_42.427809_-71.764776@1303262187"
     },
     "wof:country":"US",
     "wof:created":1461734349,
-    "wof:geomhash":"c886811454f2a0094db4603fabeb6dfd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b037427e0ff0954afcccf99db649c46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":673127789
+        }
+    ],
     "wof:id":673127789,
-    "wof:lastmodified":1472625360,
+    "wof:lastmodified":1492104744,
     "wof:name":"Barbato Consulting, Inc.",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

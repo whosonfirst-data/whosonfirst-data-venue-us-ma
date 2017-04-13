@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.371048,42.321364,-71.371048,42.321364",
     "geom:latitude":42.321364,
     "geom:longitude":-71.371048,
@@ -31,17 +32,34 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476463,
+        85633793,
+        85950623,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2r3fRZ5d432H7ctI5SPngT_42.321364_-71.371048@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719826,
-    "wof:geomhash":"9ecbb694983480ab9f4ad9d641ce8ef5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1062e945f59cc5c865e2c52817f9159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476463,
+            "locality_id":85950623,
+            "region_id":85688645,
+            "venue_id":672475623
+        }
+    ],
     "wof:id":672475623,
-    "wof:lastmodified":1472625743,
+    "wof:lastmodified":1492114126,
     "wof:name":"Roger Horine Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

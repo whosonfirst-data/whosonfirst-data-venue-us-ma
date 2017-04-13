@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.677797,42.144758,-71.677797,42.144758",
     "geom:latitude":42.144758,
     "geom:longitude":-71.677797,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iOguUWEwEdImXu4XiTpCD_42.144758_-71.677797@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713011,
-    "wof:geomhash":"2dd996915a5fe09c5231cf4b5fe0985c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b68442eac15ea195d5d5c86fd655ca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524115,
+            "venue_id":672175093
+        }
+    ],
     "wof:id":672175093,
-    "wof:lastmodified":1472625056,
+    "wof:lastmodified":1492113130,
     "wof:name":"Jeffrey Grenier Electric",
     "wof:parent_id":420524115,
     "wof:placetype":"venue",

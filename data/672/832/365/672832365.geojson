@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.62035,42.20895,-72.62035,42.20895",
     "geom:latitude":42.20895,
     "geom:longitude":-72.62035,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476357,
+        85633793,
+        85950395,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PyIHrxT3llQMzhlBGasL4_42.208950_-72.620350@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727645,
-    "wof:geomhash":"4d641603ef5e197daf01faa1f45005a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40793b59feff1d7b54c36d7ff77e6872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476357,
+            "locality_id":85950395,
+            "region_id":85688645,
+            "venue_id":672832365
+        }
+    ],
     "wof:id":672832365,
-    "wof:lastmodified":1472626057,
+    "wof:lastmodified":1492117405,
     "wof:name":"Sycamore House Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.584021,42.501332,-71.584021,42.501332",
     "geom:latitude":42.501332,
     "geom:longitude":-71.584021,
@@ -35,10 +36,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85809037,
-        102084655,
         85950627,
-        85824179
+        102084655,
+        85824179,
+        85809037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461726528,
-    "wof:geomhash":"6f6c4eb006128053fcc6eca5b604cadf",
+    "wof:geomhash":"eec91fe9fbbce984feec4d2398fe0913",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85809037,
-            "region_id":85688645,
-            "venue_id":672777455
-        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -62,12 +56,19 @@
             "neighbourhood_id":85824179,
             "region_id":85688645,
             "venue_id":672777455
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85809037,
+            "region_id":85688645,
+            "venue_id":672777455
         }
     ],
     "wof:id":672777455,
-    "wof:lastmodified":1472626014,
+    "wof:lastmodified":1492113349,
     "wof:name":"Harvard Council On Aging",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

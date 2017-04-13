@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.586393,42.620973,-71.586393,42.620973",
     "geom:latitude":42.620973,
     "geom:longitude":-71.586393,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476491,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75tYgqCmqlzwb7A6C3ij5i_42.620973_-71.586393@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734093,
-    "wof:geomhash":"e38db43d0061901511dda7d41c03e968",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12b2317ccc879f35614906525c1b852a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476491,
+            "region_id":85688645,
+            "venue_id":673115277
+        }
+    ],
     "wof:id":673115277,
-    "wof:lastmodified":1472625339,
+    "wof:lastmodified":1492103094,
     "wof:name":"Evans & Nordin Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

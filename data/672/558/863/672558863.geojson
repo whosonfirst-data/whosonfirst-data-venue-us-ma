@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.012024,41.951108,-71.012024,41.951108",
     "geom:latitude":41.951108,
     "geom:longitude":-71.012024,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QcbI9qz6XGHDGVNeIVcUL_41.951108_-71.012024@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721678,
-    "wof:geomhash":"4720581f412c4c6c9d9e04f29eb7058d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6de304786319dffd4be291b7ec04a926",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672558863
+        }
+    ],
     "wof:id":672558863,
-    "wof:lastmodified":1472625837,
+    "wof:lastmodified":1492107712,
     "wof:name":"Kennedy Construction",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.409394,42.632073,-71.409394,42.632073",
     "geom:latitude":42.632073,
     "geom:longitude":-71.409394,
@@ -32,17 +33,26 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A9gOCk04Xyab94PXfLH2F_42.632073_-71.409394@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727146,
-    "wof:geomhash":"2a6ade68d8e49d0f0edc23b8ed99647b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84ea838eb2b865426116290e2d776b1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672808151
+        }
+    ],
     "wof:id":672808151,
-    "wof:lastmodified":1472626035,
+    "wof:lastmodified":1492106566,
     "wof:name":"Alpine Sewer Svc",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

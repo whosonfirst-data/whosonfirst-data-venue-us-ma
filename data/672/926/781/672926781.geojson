@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.338315,41.846774,-71.338315,41.846774",
     "geom:latitude":41.846774,
     "geom:longitude":-71.338315,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85816693,
-        102084407
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461729554,
-    "wof:geomhash":"1f9045bee64f400dbabd521a43d569bb",
+    "wof:geomhash":"d42c871a131cc4648c86f63ed26dd37d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084407,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
             "neighbourhood_id":85816693,
-            "region_id":85688645,
+            "region_id":85688509,
             "venue_id":672926781
         }
     ],
     "wof:id":672926781,
-    "wof:lastmodified":1472626146,
+    "wof:lastmodified":1492116576,
     "wof:name":"Jeffrey Starr",
     "wof:parent_id":85816693,
     "wof:placetype":"venue",

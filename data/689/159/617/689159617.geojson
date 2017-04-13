@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.55219,41.819786,-70.55219,41.819786",
     "geom:latitude":41.819786,
     "geom:longitude":-70.55219,
@@ -32,17 +33,26 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qFvU32XWQ57f0CFEmXU7Z_41.819786_-70.552190@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741162,
-    "wof:geomhash":"6a361692b7fc28b18f47b1a020fbf6e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8c18241fe305672ff20ed3b4f3f5753",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":689159617
+        }
+    ],
     "wof:id":689159617,
-    "wof:lastmodified":1472625518,
+    "wof:lastmodified":1492097580,
     "wof:name":"Touched by Angels",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

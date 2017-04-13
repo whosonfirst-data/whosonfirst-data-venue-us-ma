@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.810012,42.034842,-70.810012,42.034842",
     "geom:latitude":42.034842,
     "geom:longitude":-70.810012,
@@ -31,17 +32,26 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Wr2M49TKRXQPYAeq1UVVf_42.034842_-70.810012@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726352,
-    "wof:geomhash":"c18ff0539bf359fe1fcb63cd3b2c6b25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9420f894aa2acf687b97168d982b21a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672768997
+        }
+    ],
     "wof:id":672768997,
-    "wof:lastmodified":1472626012,
+    "wof:lastmodified":1492116300,
     "wof:name":"Globe Electric",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

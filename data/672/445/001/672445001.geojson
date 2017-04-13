@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.549879,41.823512,-70.549879,41.823512",
     "geom:latitude":41.823512,
     "geom:longitude":-70.549879,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Thsaid4XvOZfj2oOngfpk_41.823512_-70.549879@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719047,
-    "wof:geomhash":"9fa9e3deafa071dfdbaca8bf7e951dce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c183b0fb3e3c4b2aa6f4900b4541317",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":672445001
+        }
+    ],
     "wof:id":672445001,
-    "wof:lastmodified":1472625704,
+    "wof:lastmodified":1492110991,
     "wof:name":"Hughes & Carey",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

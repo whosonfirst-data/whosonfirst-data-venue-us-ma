@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.947894,42.727989,-70.947894,42.727989",
     "geom:latitude":42.727989,
     "geom:longitude":-70.947894,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85830223,
-        102084463
+        102084463,
+        420523475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461735247,
-    "wof:geomhash":"86d3c57666707e9e3ea55c6b3b2e3884",
+    "wof:geomhash":"3aa4065b158db650a343818e2ca859d4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,17 @@
             "neighbourhood_id":85830223,
             "region_id":85688645,
             "venue_id":673171183
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673171183
         }
     ],
     "wof:id":673171183,
-    "wof:lastmodified":1472625457,
+    "wof:lastmodified":1492103727,
     "wof:name":"Wright Line",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

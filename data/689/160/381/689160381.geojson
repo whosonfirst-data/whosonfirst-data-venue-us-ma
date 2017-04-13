@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.551465,41.821043,-70.551465,41.821043",
     "geom:latitude":41.821043,
     "geom:longitude":-70.551465,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"www.cvs.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sdu5BiuxrTySi8mDydUUg_41.821043_-70.551465@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741176,
-    "wof:geomhash":"d3619b2194fffcc88e9a71ae748b82fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35cd3527da9fc3791d761237fb7adf28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":689160381
+        }
+    ],
     "wof:id":689160381,
-    "wof:lastmodified":1472625515,
+    "wof:lastmodified":1492101095,
     "wof:name":"Cvs Pharmacy",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

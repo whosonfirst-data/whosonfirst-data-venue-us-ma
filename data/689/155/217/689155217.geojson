@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.906761,41.891529,-70.906761,41.891529",
     "geom:latitude":41.891529,
     "geom:longitude":-70.906761,
@@ -35,17 +36,26 @@
         "supplies-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HahJBKjk7BIKdqI1dv0wi_41.891529_-70.906761@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741057,
-    "wof:geomhash":"016294c2646823d4c676878b0616dedd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a78108e926942641ec7a064ecbed726",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":689155217
+        }
+    ],
     "wof:id":689155217,
-    "wof:lastmodified":1472625496,
+    "wof:lastmodified":1492100398,
     "wof:name":"Aronson Fabrication & Machine",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

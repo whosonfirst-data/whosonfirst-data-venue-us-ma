@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.190213,42.728839,-71.190213,42.728839",
     "geom:latitude":42.728839,
     "geom:longitude":-71.190213,
@@ -31,17 +32,34 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475949,
+        85633793,
+        85950411,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eobrdbAz8vgAIUAqam8o0_42.728839_-71.190213@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713623,
-    "wof:geomhash":"6a7452a4a6ac722adf32614c337e2aba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63498a8b04ce14f130ab38a320fa9f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404475949,
+            "locality_id":85950411,
+            "region_id":85688645,
+            "venue_id":672202379
+        }
+    ],
     "wof:id":672202379,
-    "wof:lastmodified":1472625166,
+    "wof:lastmodified":1492111942,
     "wof:name":"Merrimac Valley Sm Eng Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

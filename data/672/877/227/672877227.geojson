@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.242066,42.615156,-71.242066,42.615156",
     "geom:latitude":42.615156,
     "geom:longitude":-71.242066,
@@ -32,7 +33,8 @@
         85688645,
         85633793,
         85851973,
-        102084643
+        102084643,
+        85854427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461728578,
-    "wof:geomhash":"065c656235fbdbaa58aaf50723d8e0ca",
+    "wof:geomhash":"a673a68c8681a6870ae4fb57ad69ff63",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +50,19 @@
             "neighbourhood_id":85851973,
             "region_id":85688645,
             "venue_id":672877227
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85854427,
+            "region_id":85688645,
+            "venue_id":672877227
         }
     ],
     "wof:id":672877227,
-    "wof:lastmodified":1472626096,
+    "wof:lastmodified":1492113558,
     "wof:name":"Creative Learning Academy",
-    "wof:parent_id":85851973,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

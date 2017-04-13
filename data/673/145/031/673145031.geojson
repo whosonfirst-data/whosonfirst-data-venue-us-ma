@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.550333,42.371356,-71.550333,42.371356",
     "geom:latitude":42.371356,
     "geom:longitude":-71.550333,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"http://www.robichaudelectric.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47JrFTGzFfrDPcsDAZKS0s_42.371356_-71.550333@1303262189"
     },
     "wof:country":"US",
     "wof:created":1461734696,
-    "wof:geomhash":"bdac3d50397cb6b078da373a9812f008",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17a819a9430eded91dea6dd722e22460",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":673145031
+        }
+    ],
     "wof:id":673145031,
-    "wof:lastmodified":1472625392,
+    "wof:lastmodified":1492105339,
     "wof:name":"A Robichaud Electrical Service",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

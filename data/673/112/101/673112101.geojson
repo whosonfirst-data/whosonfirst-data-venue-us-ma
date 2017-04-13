@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.578803,42.636356,-72.578803,42.636356",
     "geom:latitude":42.636356,
     "geom:longitude":-72.578803,
@@ -32,17 +33,26 @@
         "preparation-business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1V74ojJBxBlwKYFH0GOZAh_42.636356_-72.578803@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734021,
-    "wof:geomhash":"36acda4e8609e132b7009fc6d54bb56d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7699b6bcbdae0e696af7a6bad30e76f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":673112101
+        }
+    ],
     "wof:id":673112101,
-    "wof:lastmodified":1472625283,
+    "wof:lastmodified":1492103731,
     "wof:name":"T L Gray Tax & Accounting Service",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

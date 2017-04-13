@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.102165,41.627056,-71.102165,41.627056",
     "geom:latitude":41.627056,
     "geom:longitude":-71.102165,
@@ -31,17 +32,26 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WAk6psqnL4KlVviqHIZ1q_41.627056_-71.102165@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720758,
-    "wof:geomhash":"a1b813ab72a25e2c68f14a822e52144a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e0cb6c38222aba8dd4c7bf82f478e6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672516561
+        }
+    ],
     "wof:id":672516561,
-    "wof:lastmodified":1472625779,
+    "wof:lastmodified":1492115282,
     "wof:name":"Wingate Photography",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

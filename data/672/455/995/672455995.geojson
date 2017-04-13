@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.834769,42.336545,-71.834769,42.336545",
     "geom:latitude":42.336545,
     "geom:longitude":-71.834769,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01nYbRBwW28syMLaTKIdJu_42.336545_-71.834769@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719337,
-    "wof:geomhash":"7b38d55cba3e45ec1746adbb4a246970",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f19047f4a66f4088da0c38f3c528d40e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":672455995
+        }
+    ],
     "wof:id":672455995,
-    "wof:lastmodified":1472625725,
+    "wof:lastmodified":1492109495,
     "wof:name":"Elizabeth M Benjevin MD",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

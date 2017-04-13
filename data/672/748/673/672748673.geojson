@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.437679,42.250862,-71.437679,42.250862",
     "geom:latitude":42.250862,
     "geom:longitude":-71.437679,
@@ -32,17 +33,26 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EeneSgFFCYLh2Xg6MDU79_42.250862_-71.437679@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725914,
-    "wof:geomhash":"e188d9abc650cfa0b49afcbcad63d4fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40f5dcebb70fcc456dd90ca4b97836b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672748673
+        }
+    ],
     "wof:id":672748673,
-    "wof:lastmodified":1472625989,
+    "wof:lastmodified":1492116775,
     "wof:name":"Power Windows Software Inc",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

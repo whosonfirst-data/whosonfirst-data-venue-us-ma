@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.545845,42.115424,-71.545845,42.115424",
     "geom:latitude":42.115424,
     "geom:longitude":-71.545845,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461726178,
-    "wof:geomhash":"c31f3482289640257c3e9a0e3ac804e1",
+    "wof:geomhash":"96c953c49dcfdd2f353d5dde6dd47f6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672761495
         }
     ],
     "wof:id":672761495,
-    "wof:lastmodified":1472625999,
+    "wof:lastmodified":1492118912,
     "wof:name":"Christian Lavache Photography",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

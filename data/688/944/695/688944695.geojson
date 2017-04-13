@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.278442,42.16256,-71.278442,42.16256",
     "geom:latitude":42.16256,
     "geom:longitude":-71.278442,
@@ -40,17 +41,32 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476441,
+        85633793,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6flg97wekcTnRmqdmxyTzL_42.162560_-71.278442@1303262198"
     },
     "wof:country":"US",
     "wof:created":1461736143,
-    "wof:geomhash":"d7c550a7c312747738e585d9f8a4648f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c872a66381db8005ede55c7b265767a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476441,
+            "region_id":85688645,
+            "venue_id":688944695
+        }
+    ],
     "wof:id":688944695,
-    "wof:lastmodified":1472625083,
+    "wof:lastmodified":1492120891,
     "wof:name":"Branet Global",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

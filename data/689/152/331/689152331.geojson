@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.036049,41.962399,-71.036049,41.962399",
     "geom:latitude":41.962399,
     "geom:longitude":-71.036049,
@@ -33,17 +34,26 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7c5hIS2oz4XYaYm3pb3Iw0_41.962399_-71.036049@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740990,
-    "wof:geomhash":"8a4da509f9ecbf0e45c94735ac25f873",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39854c1234517b5f90f601d9947423c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":689152331
+        }
+    ],
     "wof:id":689152331,
-    "wof:lastmodified":1472625491,
+    "wof:lastmodified":1492101011,
     "wof:name":"Southcoast Air Ii",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

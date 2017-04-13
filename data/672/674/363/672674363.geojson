@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.957901,42.460324,-70.957901,42.460324",
     "geom:latitude":42.460324,
     "geom:longitude":-70.957901,
@@ -32,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523429,
+        420523471,
         102191575,
         404476207,
         85633793,
         85950413,
         102084463,
-        85688645
+        85688645,
+        420523429,
+        85891409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461724256,
-    "wof:geomhash":"18ca377043fe69b71a55bfb711adae96",
+    "wof:geomhash":"e71066c84f88a820fe210ea056a08d95",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476207,
+            "locality_id":85950413,
+            "neighbourhood_id":420523471,
+            "region_id":85688645,
+            "venue_id":672674363
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,12 +70,22 @@
             "neighbourhood_id":420523429,
             "region_id":85688645,
             "venue_id":672674363
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476207,
+            "locality_id":85950413,
+            "neighbourhood_id":85891409,
+            "region_id":85688645,
+            "venue_id":672674363
         }
     ],
     "wof:id":672674363,
-    "wof:lastmodified":1472625919,
+    "wof:lastmodified":1492108345,
     "wof:name":"T & T Bar B Que",
-    "wof:parent_id":420523429,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

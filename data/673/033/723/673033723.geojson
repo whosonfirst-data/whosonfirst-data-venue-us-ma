@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.228499,41.667867,-70.228499,41.667867",
     "geom:latitude":41.667867,
     "geom:longitude":-70.228499,
@@ -25,17 +26,26 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07tO1AsPeaeB6VCtbN08CY_41.667867_-70.228499@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732403,
-    "wof:geomhash":"2b099a7b0afebcfa06ac52de5924f53e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac13c3943ab3478588a93c0e9c02cf35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":673033723
+        }
+    ],
     "wof:id":673033723,
-    "wof:lastmodified":1472625069,
+    "wof:lastmodified":1492105380,
     "wof:name":"Propane Services",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

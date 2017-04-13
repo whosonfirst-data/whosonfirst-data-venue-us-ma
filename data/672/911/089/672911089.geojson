@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.82735,42.25056,-70.82735,42.25056",
     "geom:latitude":42.25056,
     "geom:longitude":-70.82735,
@@ -28,19 +29,38 @@
     "sg:postcode":"02025",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523765,
+        85688645,
+        85806299,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0w0WTnS33jJXU0nHB7u6dy_42.250560_-70.827350@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729265,
-    "wof:geomhash":"cf1a3b6083f8b3ceb46ec8a2947911f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69871eb73755b6cfad34dad79754bfb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523765,
+            "venue_id":672911089
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85806299,
+            "region_id":85688645,
+            "venue_id":672911089
+        }
+    ],
     "wof:id":672911089,
-    "wof:lastmodified":1472626125,
+    "wof:lastmodified":1492115417,
     "wof:name":"Winterfest",
-    "wof:parent_id":420523765,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

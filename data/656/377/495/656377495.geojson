@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.973727,42.716958,-70.973727,42.716958",
     "geom:latitude":42.716958,
     "geom:longitude":-70.973727,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rS0SBnX7W1mS8LWfZtVDn_42.716958_-70.973727@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711538,
-    "wof:geomhash":"24b84cf14244b39fbcc77151d6a9d3ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"206e8fdcf68a2e72aa3bacf775e51665",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":656377495
+        }
+    ],
     "wof:id":656377495,
-    "wof:lastmodified":1472625014,
+    "wof:lastmodified":1492101349,
     "wof:name":"One Call Construction",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

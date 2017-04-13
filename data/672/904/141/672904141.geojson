@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.759186,42.437089,-71.759186,42.437089",
     "geom:latitude":42.437089,
     "geom:longitude":-71.759186,
@@ -31,17 +32,26 @@
         "club"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17ppCTyctO9ffbFxUZfhoG_42.437089_-71.759186@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729103,
-    "wof:geomhash":"d90225211bf688c9e7684bb5cc9fa716",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15ada530baf7cbaed38291ecc04a897f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":672904141
+        }
+    ],
     "wof:id":672904141,
-    "wof:lastmodified":1472626116,
+    "wof:lastmodified":1492105766,
     "wof:name":"Sterling Historical Society",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

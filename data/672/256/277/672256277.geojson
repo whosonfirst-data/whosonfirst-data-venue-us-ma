@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.048455,42.694467,-71.048455,42.694467",
     "geom:latitude":42.694467,
     "geom:longitude":-71.048455,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ee1weOwNiSaIheoqTfYNP_42.694467_-71.048455@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714732,
-    "wof:geomhash":"da2a99513b4c418d4d94b8eb81409d39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"436fc3ace53766449ea4861a890b4a1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672256277
+        }
+    ],
     "wof:id":672256277,
-    "wof:lastmodified":1472625345,
+    "wof:lastmodified":1492107477,
     "wof:name":"Classic Construction Co",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

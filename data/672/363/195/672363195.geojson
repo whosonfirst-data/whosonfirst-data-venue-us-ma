@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.725374,42.109702,-70.725374,42.109702",
     "geom:latitude":42.109702,
     "geom:longitude":-70.725374,
@@ -38,7 +39,8 @@
         85633793,
         85950461,
         102084367,
-        85688645
+        85688645,
+        420523925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461717053,
-    "wof:geomhash":"3240a2c96aded28aea0def58fabb6648",
+    "wof:geomhash":"c6fd6a613106197ada300510e0a6cedf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,17 @@
             "neighbourhood_id":85832643,
             "region_id":85688645,
             "venue_id":672363195
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523925,
+            "venue_id":672363195
         }
     ],
     "wof:id":672363195,
-    "wof:lastmodified":1472625621,
+    "wof:lastmodified":1492110532,
     "wof:name":"Jehovah Witnesses Marshfield C",
-    "wof:parent_id":85832643,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.953416,42.461067,-72.953416,42.461067",
     "geom:latitude":42.461067,
     "geom:longitude":-72.953416,
@@ -31,17 +32,26 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZpYQcygaVlg44Ej2MQzfu_42.461067_-72.953416@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726459,
-    "wof:geomhash":"379abc99f3a5b84814470431adf06932",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2a8d45a617b58a7bf288923c6c2fbd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523653,
+            "venue_id":672774091
+        }
+    ],
     "wof:id":672774091,
-    "wof:lastmodified":1472626005,
+    "wof:lastmodified":1492115593,
     "wof:name":"Domeware Data Systems",
     "wof:parent_id":420523653,
     "wof:placetype":"venue",

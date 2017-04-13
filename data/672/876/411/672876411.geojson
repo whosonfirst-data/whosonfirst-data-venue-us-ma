@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.722543,42.115332,-70.722543,42.115332",
     "geom:latitude":42.115332,
     "geom:longitude":-70.722543,
@@ -33,17 +34,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XFZReDEsCprlAWS9a6nqg_42.115332_-70.722543@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728564,
-    "wof:geomhash":"4faf598a0653db11c247a98a18ab8f25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce02edf61b325622590c0ca2f322879a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523925,
+            "venue_id":672876411
+        }
+    ],
     "wof:id":672876411,
-    "wof:lastmodified":1472626096,
+    "wof:lastmodified":1492112357,
     "wof:name":"Peter The Painter Inc",
     "wof:parent_id":420523925,
     "wof:placetype":"venue",

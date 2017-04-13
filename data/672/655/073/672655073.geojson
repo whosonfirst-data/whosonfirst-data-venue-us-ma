@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.327441,42.156617,-72.327441,42.156617",
     "geom:latitude":42.156617,
     "geom:longitude":-72.327441,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85851933,
+        102191575,
+        404476365,
         85633793,
         85950385,
         102084627,
-        85851933
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1461723825,
-    "wof:geomhash":"7fe4c8447e772d017716b598701ea330",
+    "wof:geomhash":"188c917878cfd68fab4ab19a2cf76f2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084627,
+            "localadmin_id":404476365,
             "locality_id":85950385,
             "neighbourhood_id":85851933,
             "region_id":85688645,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":672655073,
-    "wof:lastmodified":1472625891,
+    "wof:lastmodified":1492119874,
     "wof:name":"Use-A-Computer",
     "wof:parent_id":85851933,
     "wof:placetype":"venue",

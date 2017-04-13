@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.415189,42.269533,-72.415189,42.269533",
     "geom:latitude":42.269533,
     "geom:longitude":-72.415189,
@@ -31,17 +32,26 @@
         "windows"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kggFdYPJvihjc3clL39v6_42.269533_-72.415189@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720578,
-    "wof:geomhash":"73c08222ec8940dce70a87a09ba3df35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a59eea79880789d3af02fc5b8c36bd05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672507717
+        }
+    ],
     "wof:id":672507717,
-    "wof:lastmodified":1472625782,
+    "wof:lastmodified":1492118262,
     "wof:name":"Belchertown Glass",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

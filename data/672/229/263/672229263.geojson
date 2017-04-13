@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.980174,42.280066,-72.980174,42.280066",
     "geom:latitude":42.280066,
     "geom:longitude":-72.980174,
@@ -28,17 +29,34 @@
     "sg:postcode":"01011",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476345,
+        85633793,
+        85950779,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ujzn3K3RBBP1RYFmzMBKq_42.280066_-72.980174@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714164,
-    "wof:geomhash":"3e24e5406ba459ee0215b791175f45ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9beed57495304daa39c2e0e1a33e23fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476345,
+            "locality_id":85950779,
+            "region_id":85688645,
+            "venue_id":672229263
+        }
+    ],
     "wof:id":672229263,
-    "wof:lastmodified":1472625264,
+    "wof:lastmodified":1492110298,
     "wof:name":"Main Street Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.637704,42.129014,-71.637704,42.129014",
     "geom:latitude":42.129014,
     "geom:longitude":-71.637704,
@@ -31,17 +32,26 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524169
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AvX1OlW6ziBN7F0qbnt2z_42.129014_-71.637704@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724747,
-    "wof:geomhash":"e32ce47792f86e9411ffd22f19e8949e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17cfd3f77744f16db8c7fba1a42a0465",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524169,
+            "venue_id":672694995
+        }
+    ],
     "wof:id":672694995,
-    "wof:lastmodified":1472625947,
+    "wof:lastmodified":1492106512,
     "wof:name":"Milford Propane Inc",
     "wof:parent_id":420524169,
     "wof:placetype":"venue",

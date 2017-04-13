@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.445455,42.171037,-72.445455,42.171037",
     "geom:latitude":42.171037,
     "geom:longitude":-72.445455,
@@ -32,17 +33,26 @@
         "court"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YzVEGVJZk2aBHBceyXx9s_42.171037_-72.445455@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717534,
-    "wof:geomhash":"99dc93a53b52fd82d0d91deb4aed49d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7190fbe418aa78d675a281816b5cac7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":672385201
+        }
+    ],
     "wof:id":672385201,
-    "wof:lastmodified":1472625651,
+    "wof:lastmodified":1492112777,
     "wof:name":"Ludlow Tennis Club",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

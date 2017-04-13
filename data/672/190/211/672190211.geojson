@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.211407,42.314271,-71.211407,42.314271",
     "geom:latitude":42.314271,
     "geom:longitude":-71.211407,
@@ -31,17 +32,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RRjQ7s8vq1bl1720m1bLw_42.314271_-71.211407@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713337,
-    "wof:geomhash":"6c255cccce0cad3b12b6ae84e9f73271",
-    "wof:hierarchy":[],
+    "wof:geomhash":"722441213ac94e3f1b7897555a905e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":672190211
+        }
+    ],
     "wof:id":672190211,
-    "wof:lastmodified":1472625134,
+    "wof:lastmodified":1492113098,
     "wof:name":"Age Sense",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

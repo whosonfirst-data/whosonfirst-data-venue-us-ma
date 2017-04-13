@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.779872,41.996311,-70.779872,41.996311",
     "geom:latitude":41.996311,
     "geom:longitude":-70.779872,
@@ -32,17 +33,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZBpdQsS77hvjLYYtgBTkh_41.996311_-70.779872@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741205,
-    "wof:geomhash":"3bdafa0592b9cadb370321686c989093",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc13abae710ee88d3c7d94a7c738484b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689161377
+        }
+    ],
     "wof:id":689161377,
-    "wof:lastmodified":1472625510,
+    "wof:lastmodified":1492099154,
     "wof:name":"Mcniff & Smith Insurance &",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

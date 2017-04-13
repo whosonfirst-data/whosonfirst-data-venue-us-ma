@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.471477,41.652315,-70.471477,41.652315",
     "geom:latitude":41.652315,
     "geom:longitude":-70.471477,
@@ -32,17 +33,26 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76WRi9iHk232v7fInSDg9m_41.652315_-70.471477@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712282,
-    "wof:geomhash":"f5148f5d46c59b8c8f0ee75bfc5b095a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d293eab4beb1ab0e58f58979dec2009",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672141539
+        }
+    ],
     "wof:id":672141539,
-    "wof:lastmodified":1472624919,
+    "wof:lastmodified":1492115555,
     "wof:name":"Signature Events",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

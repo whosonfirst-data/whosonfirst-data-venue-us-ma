@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.989224,42.369809,-70.989224,42.369809",
     "geom:latitude":42.369809,
     "geom:longitude":-70.989224,
@@ -32,17 +33,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        85633793,
+        85950355,
+        102084423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5baX4sWNa5aqAhsuQF36jy_42.369809_-70.989224@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720787,
-    "wof:geomhash":"4faa60039cb0ce816460c9e2cf15fdda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3e03ebe172d38f4b05faccb102789f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "locality_id":85950355,
+            "region_id":85688645,
+            "venue_id":672517761
+        }
+    ],
     "wof:id":672517761,
-    "wof:lastmodified":1472625787,
+    "wof:lastmodified":1492116036,
     "wof:name":"Bay State Information Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

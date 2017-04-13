@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.875014,41.644151,-70.875014,41.644151",
     "geom:latitude":41.644151,
     "geom:longitude":-70.875014,
@@ -32,17 +33,26 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GQhpYPE6f1Sfu4WrGu9yM_41.644151_-70.875014@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715687,
-    "wof:geomhash":"a86ea444a63fb00e4396b1dc380b4d34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50a458a0c249eeca8171de79f8e8ac9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672304233
+        }
+    ],
     "wof:id":672304233,
-    "wof:lastmodified":1472625505,
+    "wof:lastmodified":1492114040,
     "wof:name":"Golfer Magzn SE Mass Rhode Is",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

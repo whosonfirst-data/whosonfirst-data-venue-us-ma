@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.118748,42.333536,-71.118748,42.333536",
     "geom:latitude":42.333536,
     "geom:longitude":-71.118748,
@@ -28,17 +29,34 @@
     "sg:province":"MA",
     "sg:website":"http://www.zapoint.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77t1CWM1oZRjDXVLjxjjnW_42.333536_-71.118748@1308186497"
     },
     "wof:country":"US",
     "wof:created":1461742601,
-    "wof:geomhash":"8959a9f4cc64dbf3d595a1e4391afcfe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5c8ed07fab1d333a6d4f4ece45aaac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "region_id":85688645,
+            "venue_id":689225383
+        }
+    ],
     "wof:id":689225383,
-    "wof:lastmodified":1472625624,
+    "wof:lastmodified":1492096952,
     "wof:name":"Zapoint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

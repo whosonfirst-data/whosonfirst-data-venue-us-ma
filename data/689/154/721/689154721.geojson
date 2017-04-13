@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.887527,42.081341,-70.887527,42.081341",
     "geom:latitude":42.081341,
     "geom:longitude":-70.887527,
@@ -31,17 +32,26 @@
         "sale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aoQgTrdKlHuMa0MQccY84_42.081341_-70.887527@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741048,
-    "wof:geomhash":"247e77cb34cd8ce3b3f33131664073d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae32e82a05d1cd2b9c57746ba2646d09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":689154721
+        }
+    ],
     "wof:id":689154721,
-    "wof:lastmodified":1472625508,
+    "wof:lastmodified":1492098561,
     "wof:name":"Linnco",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

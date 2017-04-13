@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.935765,42.377149,-71.935765,42.377149",
     "geom:latitude":42.377149,
     "geom:longitude":-71.935765,
@@ -32,17 +33,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0G20HZLNMlgWwm0Dqp0k2x_42.377149_-71.935765@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734273,
-    "wof:geomhash":"a948c86930ea7649648e2ffe5bdd513b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"942f5eb56dafe2ffcf37a16a59b276c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524223,
+            "venue_id":673124205
+        }
+    ],
     "wof:id":673124205,
-    "wof:lastmodified":1472625339,
+    "wof:lastmodified":1492103996,
     "wof:name":"Paragon Engineering Company",
     "wof:parent_id":420524223,
     "wof:placetype":"venue",

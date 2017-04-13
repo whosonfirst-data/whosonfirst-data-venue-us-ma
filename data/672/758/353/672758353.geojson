@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.793425,41.884674,-70.793425,41.884674",
     "geom:latitude":41.884674,
     "geom:longitude":-70.793425,
@@ -32,17 +33,26 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hEMyF2QMCOmVMkPTQkSTa_41.884674_-70.793425@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726109,
-    "wof:geomhash":"536e4a80e3c7bb2939c31b73f51e8520",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14f0d4c03897ba5774deec10fdf454c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":672758353
+        }
+    ],
     "wof:id":672758353,
-    "wof:lastmodified":1472625996,
+    "wof:lastmodified":1492117573,
     "wof:name":"Plymouth County Well & Pump",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

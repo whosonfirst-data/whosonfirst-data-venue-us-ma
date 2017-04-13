@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.767369,42.237241,-70.767369,42.237241",
     "geom:latitude":42.237241,
     "geom:longitude":-70.767369,
@@ -38,17 +39,26 @@
         "golf"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IHsnJ1Qtwgpcpz4DtHIHx_42.237241_-70.767369@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721388,
-    "wof:geomhash":"118d6b72cc03c33641705b61f5f013d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48ac91b5ad26f7aa3c4441ba99c1a924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523833,
+            "venue_id":672546371
+        }
+    ],
     "wof:id":672546371,
-    "wof:lastmodified":1472625808,
+    "wof:lastmodified":1492108046,
     "wof:name":"Hatherly Country Club Greens",
     "wof:parent_id":420523833,
     "wof:placetype":"venue",

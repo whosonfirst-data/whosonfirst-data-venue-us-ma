@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.618074,41.637578,-70.618074,41.637578",
     "geom:latitude":41.637578,
     "geom:longitude":-70.618074,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7c5BJkcK1Ew8zeTVah7Eit_41.637578_-70.618074@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728558,
-    "wof:geomhash":"f3d466c2fdaab240e57c2991bf6a524d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b76b2fb02aa47e33275c333bcf7805d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672876073
+        }
+    ],
     "wof:id":672876073,
-    "wof:lastmodified":1472626092,
+    "wof:lastmodified":1492112357,
     "wof:name":"Joyce Ferney",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

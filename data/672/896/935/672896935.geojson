@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.564388,42.111505,-72.564388,42.111505",
     "geom:latitude":42.111505,
     "geom:longitude":-72.564388,
@@ -38,7 +39,8 @@
         85633793,
         85950393,
         102084627,
-        85688645
+        85688645,
+        85833291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461728961,
-    "wof:geomhash":"b659261ffa3b945b2e72577bdd16ece0",
+    "wof:geomhash":"8473ff9355bae0c93b1936e63f893139",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85839351,
             "region_id":85688645,
             "venue_id":672896935
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476369,
+            "locality_id":85950393,
+            "neighbourhood_id":85833291,
+            "region_id":85688645,
+            "venue_id":672896935
         }
     ],
     "wof:id":672896935,
-    "wof:lastmodified":1472626122,
+    "wof:lastmodified":1492109952,
     "wof:name":"Pretty Nails",
-    "wof:parent_id":85839351,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.15584,42.025195,-71.15584,42.025195",
     "geom:latitude":42.025195,
     "geom:longitude":-71.15584,
@@ -32,17 +33,32 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475929,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jKaM2ypk2oyTHVgLt1Q1B_42.025195_-71.155840@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720590,
-    "wof:geomhash":"147eb14b488714d9eeec6e37547cd6f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc9ecd3f11cfb1b9111978cda2d7fc41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404475929,
+            "region_id":85688645,
+            "venue_id":672508361
+        }
+    ],
     "wof:id":672508361,
-    "wof:lastmodified":1472625768,
+    "wof:lastmodified":1492112151,
     "wof:name":"BRS Containers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

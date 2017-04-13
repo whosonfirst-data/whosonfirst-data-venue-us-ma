@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.016715,41.969771,-71.016715,41.969771",
     "geom:latitude":41.969771,
     "geom:longitude":-71.016715,
@@ -32,17 +33,26 @@
         "furnishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TeKNRykRsssR7rMLWKzDh_41.969771_-71.016715@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728736,
-    "wof:geomhash":"564e94bb0ce8f0ab9d40519a905a227b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a81f24388b8016e80de1f20067f8da3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672885463
+        }
+    ],
     "wof:id":672885463,
-    "wof:lastmodified":1472626102,
+    "wof:lastmodified":1492109149,
     "wof:name":"South Shore Horse & Rider",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

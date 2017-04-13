@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.889719,41.868331,-70.889719,41.868331",
     "geom:latitude":41.868331,
     "geom:longitude":-70.889719,
@@ -32,17 +33,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mo7QxFbmq2RzshHorggzR_41.868331_-70.889719@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713535,
-    "wof:geomhash":"d25bc5d221ad66dfdbe6370cf5b424dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e00a744cb7a64ede923769f77f9f7fe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672198555
+        }
+    ],
     "wof:id":672198555,
-    "wof:lastmodified":1472625169,
+    "wof:lastmodified":1492117484,
     "wof:name":"Bridgewater Associates Inc",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

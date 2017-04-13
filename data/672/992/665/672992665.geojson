@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.890535,41.881214,-70.890535,41.881214",
     "geom:latitude":41.881214,
     "geom:longitude":-70.890535,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ldstSGUPiDKM9IBwLT1SB_41.881214_-70.890535@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731408,
-    "wof:geomhash":"93c298d0fa3f44d65b06aa7dd4486094",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f519f7ae95811b842b9826436d8e5be6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672992665
+        }
+    ],
     "wof:id":672992665,
-    "wof:lastmodified":1472626201,
+    "wof:lastmodified":1492118998,
     "wof:name":"Reasonable Home Improvements",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

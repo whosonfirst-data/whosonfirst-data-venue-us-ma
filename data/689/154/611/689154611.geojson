@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.902487,42.045401,-70.902487,42.045401",
     "geom:latitude":42.045401,
     "geom:longitude":-70.902487,
@@ -40,17 +41,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Xe4YMb9E9gvvUod17rxpJ_42.045401_-70.902487@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741046,
-    "wof:geomhash":"38d2d22a3a51c4f925dd9a134a823bdf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"773e1bca26f50f4b82f9d7aba23f49ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":689154611
+        }
+    ],
     "wof:id":689154611,
-    "wof:lastmodified":1472625511,
+    "wof:lastmodified":1492098554,
     "wof:name":"A. E. Wood Excavating, LLC",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.000157,41.983737,-71.000157,41.983737",
     "geom:latitude":41.983737,
     "geom:longitude":-71.000157,
@@ -31,17 +32,26 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00U7chbOdRFV6EgMP6xdTa_41.983737_-71.000157@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715082,
-    "wof:geomhash":"68be55d65784ed192faf8e657a1b20d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71f7f77887221a7015e11a96fc751a08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672274471
+        }
+    ],
     "wof:id":672274471,
-    "wof:lastmodified":1472625418,
+    "wof:lastmodified":1492105740,
     "wof:name":"Jordan Marsh Muffin Co",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

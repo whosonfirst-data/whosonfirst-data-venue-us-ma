@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.712404,41.906027,-70.712404,41.906027",
     "geom:latitude":41.906027,
     "geom:longitude":-70.712404,
@@ -31,17 +32,26 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vYXrSCRQNJ1AWjH73xgAB_41.906027_-70.712404@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728964,
-    "wof:geomhash":"a118c10abc6231acbf09c4f860a1c420",
-    "wof:hierarchy":[],
+    "wof:geomhash":"462bdb6d81379563e388fe20aa24b80e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672897045
+        }
+    ],
     "wof:id":672897045,
-    "wof:lastmodified":1472626109,
+    "wof:lastmodified":1492111239,
     "wof:name":"Daydream Photography",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

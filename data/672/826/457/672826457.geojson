@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.375837,42.616996,-71.375837,42.616996",
     "geom:latitude":42.616996,
     "geom:longitude":-71.375837,
@@ -32,17 +33,26 @@
         "removal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SC5XIfYcGrZfpkS7xy8PE_42.616996_-71.375837@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727526,
-    "wof:geomhash":"ecd9f788e32b6e68fef9d3eed02ab77c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"298d8e1365abcd536da41edd779bfd81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672826457
+        }
+    ],
     "wof:id":672826457,
-    "wof:lastmodified":1472626053,
+    "wof:lastmodified":1492115920,
     "wof:name":"Russ Linstad & Kids",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

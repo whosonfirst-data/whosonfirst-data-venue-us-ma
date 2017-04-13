@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.112935,41.518209,-71.112935,41.518209",
     "geom:latitude":41.518209,
     "geom:longitude":-71.112935,
@@ -31,19 +32,28 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540493
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2txckaPz2h9VsxGENdAVyc_41.518209_-71.112935@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717901,
-    "wof:geomhash":"8e1297bb4d028c9f375901bb8f163a7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3aef2fc16d691496a4492f1b4190a918",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540493,
+            "venue_id":672401143
+        }
+    ],
     "wof:id":672401143,
-    "wof:lastmodified":1472625666,
+    "wof:lastmodified":1492109268,
     "wof:name":"John P Fennelly Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

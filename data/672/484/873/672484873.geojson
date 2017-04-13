@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.759895,42.435452,-71.759895,42.435452",
     "geom:latitude":42.435452,
     "geom:longitude":-71.759895,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PUxGv1Ha9WamKph8sHZvF_42.435452_-71.759895@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720074,
-    "wof:geomhash":"5c2c1637ee97d8f4887c424a0ab95d82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ce340427dd446ca587c02e0898a7d17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":672484873
+        }
+    ],
     "wof:id":672484873,
-    "wof:lastmodified":1472625757,
+    "wof:lastmodified":1492110378,
     "wof:name":"All Fired Up",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

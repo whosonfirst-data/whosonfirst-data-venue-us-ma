@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.775368,42.056332,-70.775368,42.056332",
     "geom:latitude":42.056332,
     "geom:longitude":-70.775368,
@@ -36,17 +37,26 @@
         "churches-methodist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tpmsE5FxjoNCD8exv0pUN_42.056332_-70.775368@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741023,
-    "wof:geomhash":"e243ba643623cd075129518b9e4b95de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e737921982172814a95466e9a8369968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":689153501
+        }
+    ],
     "wof:id":689153501,
-    "wof:lastmodified":1472625506,
+    "wof:lastmodified":1492097479,
     "wof:name":"High Street United Methodist Church",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

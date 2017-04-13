@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.312682,42.30533,-71.312682,42.30533",
     "geom:latitude":42.30533,
     "geom:longitude":-71.312682,
@@ -35,7 +36,8 @@
         85633793,
         85950847,
         102084403,
-        85688645
+        85688645,
+        85855013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461730845,
-    "wof:geomhash":"914dbf07bb1fe09c7d278586b8a6c786",
+    "wof:geomhash":"ca1fcc9055e2a68a43f15b6a464aa3f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,22 @@
             "neighbourhood_id":85891555,
             "region_id":85688645,
             "venue_id":672972953
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476601,
+            "locality_id":85950847,
+            "neighbourhood_id":85855013,
+            "region_id":85688645,
+            "venue_id":672972953
         }
     ],
     "wof:id":672972953,
-    "wof:lastmodified":1472626186,
+    "wof:lastmodified":1492112920,
     "wof:name":"Wellesley Fells Library",
-    "wof:parent_id":85891555,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

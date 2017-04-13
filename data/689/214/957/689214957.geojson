@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.876475,41.642321,-70.876475,41.642321",
     "geom:latitude":41.642321,
     "geom:longitude":-70.876475,
@@ -37,17 +38,26 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RiFTU0ZIOwV4yhLW6DhcP_41.642321_-70.876475@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742362,
-    "wof:geomhash":"9284d7de7bfd17a2a8f10a55e851da2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db6a3ceca409cff8c9074e11b4084015",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":689214957
+        }
+    ],
     "wof:id":689214957,
-    "wof:lastmodified":1472625625,
+    "wof:lastmodified":1492097494,
     "wof:name":"Christy Alferes Realtor",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

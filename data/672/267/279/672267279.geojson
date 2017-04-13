@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.864795,41.858765,-70.864795,41.858765",
     "geom:latitude":41.858765,
     "geom:longitude":-70.864795,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mvhBwkabUIjBOATPBnyXz_41.858765_-70.864795@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714950,
-    "wof:geomhash":"4e1585a135723c727bca149f98e64aeb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4376a09364729c628270c895720f2bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672267279
+        }
+    ],
     "wof:id":672267279,
-    "wof:lastmodified":1472625397,
+    "wof:lastmodified":1492112727,
     "wof:name":"Courtyard Pizza",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

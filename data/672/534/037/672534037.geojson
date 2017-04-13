@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.857442,42.045275,-70.857442,42.045275",
     "geom:latitude":42.045275,
     "geom:longitude":-70.857442,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j0enhxUhV3ol0nr8GaNEr_42.045275_-70.857442@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721146,
-    "wof:geomhash":"ae741192b3b0f70edebfa05044f79374",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5312e7dc12028d8c5daadaa2a54ce288",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523995,
+            "venue_id":672534037
+        }
+    ],
     "wof:id":672534037,
-    "wof:lastmodified":1472625774,
+    "wof:lastmodified":1492117882,
     "wof:name":"Coburn's Motor Express",
     "wof:parent_id":420523995,
     "wof:placetype":"venue",

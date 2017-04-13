@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.962854,41.621658,-70.962854,41.621658",
     "geom:latitude":41.621658,
     "geom:longitude":-70.962854,
@@ -35,7 +36,11 @@
         85688645,
         85633793,
         85844119,
-        102084407
+        102084407,
+        85806427,
+        102191575,
+        404476131,
+        85950367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461728177,
-    "wof:geomhash":"32232359a9dd4a47664e419e8b9c5264",
+    "wof:geomhash":"790a924a8726ceccd8970d4755b53460",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +56,22 @@
             "neighbourhood_id":85844119,
             "region_id":85688645,
             "venue_id":672859967
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476131,
+            "locality_id":85950367,
+            "neighbourhood_id":85806427,
+            "region_id":85688645,
+            "venue_id":672859967
         }
     ],
     "wof:id":672859967,
-    "wof:lastmodified":1472626088,
+    "wof:lastmodified":1492119126,
     "wof:name":"George's Greenhouses",
-    "wof:parent_id":85844119,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

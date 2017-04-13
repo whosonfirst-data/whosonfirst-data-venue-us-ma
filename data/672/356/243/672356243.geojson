@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.140068,42.714425,-71.140068,42.714425",
     "geom:latitude":42.714425,
     "geom:longitude":-71.140068,
@@ -35,7 +36,11 @@
         85688645,
         85633793,
         85851643,
-        102084463
+        102084463,
+        420523421,
+        102191575,
+        404475949,
+        85950411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461716887,
-    "wof:geomhash":"5c22f75253065f71d2b16a70ed304c2a",
+    "wof:geomhash":"20987af6ee9488e7074691f2035d68c8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +56,22 @@
             "neighbourhood_id":85851643,
             "region_id":85688645,
             "venue_id":672356243
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404475949,
+            "locality_id":85950411,
+            "neighbourhood_id":420523421,
+            "region_id":85688645,
+            "venue_id":672356243
         }
     ],
     "wof:id":672356243,
-    "wof:lastmodified":1472625607,
+    "wof:lastmodified":1492106724,
     "wof:name":"Essex County Sheriffs Dept",
-    "wof:parent_id":85851643,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

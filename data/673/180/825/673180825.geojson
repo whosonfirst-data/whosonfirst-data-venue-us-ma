@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.386839,42.679566,-71.386839,42.679566",
     "geom:latitude":42.679566,
     "geom:longitude":-71.386839,
@@ -32,17 +33,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3L33xGPTCWRqq2HBIZ76S5_42.679566_-71.386839@1303262194"
     },
     "wof:country":"US",
     "wof:created":1461735447,
-    "wof:geomhash":"d60d22d048287d63fc3e934e5913e0a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5bd922242a6a609b684272fbe7b6674",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523675,
+            "venue_id":673180825
+        }
+    ],
     "wof:id":673180825,
-    "wof:lastmodified":1472625527,
+    "wof:lastmodified":1492102815,
     "wof:name":"Grace Engineering, Inc.",
     "wof:parent_id":420523675,
     "wof:placetype":"venue",

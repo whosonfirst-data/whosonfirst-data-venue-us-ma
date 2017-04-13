@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.612282,41.654508,-70.612282,41.654508",
     "geom:latitude":41.654508,
     "geom:longitude":-70.612282,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ntdjqkSLdrNoGjTZG4OhE_41.654508_-70.612282@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730089,
-    "wof:geomhash":"02ac18528377c8e1763fd8bb19c50dd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d9651c58656b4bc2d885c23dc53e1c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672949087
+        }
+    ],
     "wof:id":672949087,
-    "wof:lastmodified":1472626153,
+    "wof:lastmodified":1492110205,
     "wof:name":"Richard H Sadowski DDS",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

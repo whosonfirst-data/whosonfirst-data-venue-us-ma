@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.85474,42.345367,-71.85474,42.345367",
     "geom:latitude":42.345367,
     "geom:longitude":-71.85474,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4X29VKtMHs69kHPASHwFYT_42.345367_-71.854740@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712382,
-    "wof:geomhash":"af9ebf697f0eb8a297914753154a06f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e64ad68fc319aeeeb22ba22d4b8bee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":672146373
+        }
+    ],
     "wof:id":672146373,
-    "wof:lastmodified":1472624932,
+    "wof:lastmodified":1492105923,
     "wof:name":"Orbit Pizza",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

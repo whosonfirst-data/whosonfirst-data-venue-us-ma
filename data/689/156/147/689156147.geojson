@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.943062,41.835529,-70.943062,41.835529",
     "geom:latitude":41.835529,
     "geom:longitude":-70.943062,
@@ -37,17 +38,26 @@
         "saving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZOATyEjaQbz2uXBlKOGpf_41.835529_-70.943062@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741078,
-    "wof:geomhash":"7e8448674b7906a84eaacf91638d0732",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11b62247776e76fb929d971e921bf5d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523969,
+            "venue_id":689156147
+        }
+    ],
     "wof:id":689156147,
-    "wof:lastmodified":1472625491,
+    "wof:lastmodified":1492099224,
     "wof:name":"Eastern Bank",
     "wof:parent_id":420523969,
     "wof:placetype":"venue",

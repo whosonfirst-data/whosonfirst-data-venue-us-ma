@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.842445,41.966603,-70.842445,41.966603",
     "geom:latitude":41.966603,
     "geom:longitude":-70.842445,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33kGDvWGCHYeOc9HTFBatL_41.966603_-70.842445@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711599,
-    "wof:geomhash":"ec7998ba321a2117600be139534920b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1be7624e35244e4ec7741db022b4d0a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523907,
+            "venue_id":656381119
+        }
+    ],
     "wof:id":656381119,
-    "wof:lastmodified":1472624990,
+    "wof:lastmodified":1492102297,
     "wof:name":"R A Guidetti Concrete Forms",
     "wof:parent_id":420523907,
     "wof:placetype":"venue",

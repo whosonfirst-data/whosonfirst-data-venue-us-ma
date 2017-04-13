@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.859398,41.852901,-70.859398,41.852901",
     "geom:latitude":41.852901,
     "geom:longitude":-70.859398,
@@ -32,17 +33,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kjWLmBPJpUwTENhiutycw_41.852901_-70.859398@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741059,
-    "wof:geomhash":"58a332d584fd06655c9e5573f9d5e380",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7f43ec05a3c93d2f1e0a65c57ecf331",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":689155289
+        }
+    ],
     "wof:id":689155289,
-    "wof:lastmodified":1472625499,
+    "wof:lastmodified":1492100400,
     "wof:name":"Scott's Auto Body",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

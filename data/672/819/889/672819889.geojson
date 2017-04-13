@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.777592,42.015013,-70.777592,42.015013",
     "geom:latitude":42.015013,
     "geom:longitude":-70.777592,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Iiok8hnXIV3ecYgg1l7yg_42.015013_-70.777592@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727391,
-    "wof:geomhash":"13cb5f2db741a2863b2580f2d2d8a613",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8785ee519c01e0fe33be262adeb77077",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672819889
+        }
+    ],
     "wof:id":672819889,
-    "wof:lastmodified":1472626060,
+    "wof:lastmodified":1492105908,
     "wof:name":"Glenn Priolo General Contrs",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.512243,42.447645,-72.512243,42.447645",
     "geom:latitude":42.447645,
     "geom:longitude":-72.512243,
@@ -32,19 +33,28 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yuc4pGuvTCbY37POHhHDF_42.447645_-72.512243@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718092,
-    "wof:geomhash":"92ce61c63532b13bdd2402e6c07bfa03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d8249a68860c165f490d41849917668",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523639,
+            "venue_id":672407943
+        }
+    ],
     "wof:id":672407943,
-    "wof:lastmodified":1472625681,
+    "wof:lastmodified":1492112993,
     "wof:name":"Pure Design Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

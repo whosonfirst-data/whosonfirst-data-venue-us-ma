@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.286792,42.667061,-71.286792,42.667061",
     "geom:latitude":42.667061,
     "geom:longitude":-71.286792,
@@ -33,17 +34,32 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476483,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Jobyx5sQjLCEnbrmkgfN3_42.667061_-71.286792@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723242,
-    "wof:geomhash":"cd56e351c905ae39e82c023f44b6cf5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8de2e47cb1a080f000475fab538616c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476483,
+            "region_id":85688645,
+            "venue_id":672627655
+        }
+    ],
     "wof:id":672627655,
-    "wof:lastmodified":1472625879,
+    "wof:lastmodified":1492108686,
     "wof:name":"Town & Country Floor Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

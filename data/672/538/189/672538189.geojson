@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.774539,42.065312,-70.774539,42.065312",
     "geom:latitude":42.065312,
     "geom:longitude":-70.774539,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MDCSJKu19M3lC28KWmJJH_42.065312_-70.774539@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721223,
-    "wof:geomhash":"09bf87ec83c3fba2baa3d06ddc786fa2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6360319571e0229f02ffd9978e4f46d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523963,
+            "venue_id":672538189
+        }
+    ],
     "wof:id":672538189,
-    "wof:lastmodified":1472625797,
+    "wof:lastmodified":1492106075,
     "wof:name":"Countryside Auto Collision Svc",
     "wof:parent_id":420523963,
     "wof:placetype":"venue",

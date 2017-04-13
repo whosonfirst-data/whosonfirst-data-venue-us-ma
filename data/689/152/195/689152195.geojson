@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.007412,41.971032,-71.007412,41.971032",
     "geom:latitude":41.971032,
     "geom:longitude":-71.007412,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7c04GF3wvtaqrzFqREZjz6_41.971032_-71.007412@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740988,
-    "wof:geomhash":"7c033cedaf449a3f5c0a987065017a78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ef03d52840bd14356fccf0e4ff11b33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":689152195
+        }
+    ],
     "wof:id":689152195,
-    "wof:lastmodified":1472625490,
+    "wof:lastmodified":1492101011,
     "wof:name":"Fab Painting",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

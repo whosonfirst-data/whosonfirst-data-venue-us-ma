@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.114163,42.625129,-73.114163,42.625129",
     "geom:latitude":42.625129,
     "geom:longitude":-73.114163,
@@ -28,17 +29,26 @@
     "sg:postcode":"01220",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UGTqeMovgCb2lzaET9Ufu_42.625129_-73.114163@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719379,
-    "wof:geomhash":"f665ddb3c5d4a999994e32644c9fe0d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e7a902927513aa674b24a7d49ae74d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672457597
+        }
+    ],
     "wof:id":672457597,
-    "wof:lastmodified":1472625723,
+    "wof:lastmodified":1492108355,
     "wof:name":"Pizza House",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

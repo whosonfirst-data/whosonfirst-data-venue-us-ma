@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.000359,42.668839,-71.000359,42.668839",
     "geom:latitude":42.668839,
     "geom:longitude":-71.000359,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523465
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_009zQeAzxxEFAPDrFq9ueF_42.668839_-71.000359@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722493,
-    "wof:geomhash":"26806030c97954e0527b2a6b42dd9649",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d74232d249ddd5bfe6f3d9e8a576d32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523465,
+            "venue_id":672595901
+        }
+    ],
     "wof:id":672595901,
-    "wof:lastmodified":1472625851,
+    "wof:lastmodified":1492115322,
     "wof:name":"DC Design",
     "wof:parent_id":420523465,
     "wof:placetype":"venue",

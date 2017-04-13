@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.82444,42.24335,-70.82444,42.24335",
     "geom:latitude":42.24335,
     "geom:longitude":-70.82444,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85806299,
-        102084403
+        102084403,
+        420523765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461728557,
-    "wof:geomhash":"c84dc54d3ad66562f8296d5cece6cf9a",
+    "wof:geomhash":"e91b56509d7fd2ba2ea00a323d325883",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,17 @@
             "neighbourhood_id":85806299,
             "region_id":85688645,
             "venue_id":672876013
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523765,
+            "venue_id":672876013
         }
     ],
     "wof:id":672876013,
-    "wof:lastmodified":1472626093,
+    "wof:lastmodified":1492112351,
     "wof:name":"W T Barnes",
-    "wof:parent_id":85806299,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

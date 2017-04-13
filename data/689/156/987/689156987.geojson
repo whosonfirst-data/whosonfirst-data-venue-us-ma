@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.843525,42.041771,-70.843525,42.041771",
     "geom:latitude":42.041771,
     "geom:longitude":-70.843525,
@@ -31,17 +32,26 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7K3ZSKp8ACI5TVn7x0xxdj_42.041771_-70.843525@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741111,
-    "wof:geomhash":"f8cf08b8495c0e15748699f43fb6f557",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc0a3f050029584050bf4ea732114ee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689156987
+        }
+    ],
     "wof:id":689156987,
-    "wof:lastmodified":1472625528,
+    "wof:lastmodified":1492099225,
     "wof:name":"Poulins Medical",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

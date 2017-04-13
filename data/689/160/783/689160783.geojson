@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.697752,41.927084,-70.697752,41.927084",
     "geom:latitude":41.927084,
     "geom:longitude":-70.697752,
@@ -31,17 +32,26 @@
         "trust"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eUzZtSFWzRgxfksXNiMq6_41.927084_-70.697752@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741183,
-    "wof:geomhash":"db67cd5651b68702642a20491695c082",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eeda30131183c5dfc6419fe9248a5846",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689160783
+        }
+    ],
     "wof:id":689160783,
-    "wof:lastmodified":1472625536,
+    "wof:lastmodified":1492101092,
     "wof:name":"Pitch Pine Trust Cranberries",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

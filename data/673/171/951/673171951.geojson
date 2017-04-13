@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.995499,42.728001,-70.995499,42.728001",
     "geom:latitude":42.728001,
     "geom:longitude":-70.995499,
@@ -37,17 +38,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XkH3fThByYquJoZsRurDp_42.728001_-70.995499@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735266,
-    "wof:geomhash":"7dfd55d137ba7d05a7aab4a54f7b17e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93e027f4567eca04161311170fdd97e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673171951
+        }
+    ],
     "wof:id":673171951,
-    "wof:lastmodified":1472625483,
+    "wof:lastmodified":1492103726,
     "wof:name":"Georgetown Lumber Inc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

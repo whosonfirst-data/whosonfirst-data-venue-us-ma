@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.112962,42.625087,-73.112962,42.625087",
     "geom:latitude":42.625087,
     "geom:longitude":-73.112962,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53X6irT06JMzU6ukDD8Tni_42.625087_-73.112962@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723707,
-    "wof:geomhash":"39bc5a20fb0e154f44b5caec6fdae889",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4ddc02a576cc287cca84c272fa3813c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672649743
+        }
+    ],
     "wof:id":672649743,
-    "wof:lastmodified":1472625903,
+    "wof:lastmodified":1492107492,
     "wof:name":"Ouellette Brothers Plumbing",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

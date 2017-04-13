@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.160609,41.795786,-71.160609,41.795786",
     "geom:latitude":41.795786,
     "geom:longitude":-71.160609,
@@ -32,17 +33,32 @@
         "automation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476171,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rqLpG3YqvTcQP6puZozfj_41.795786_-71.160609@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713075,
-    "wof:geomhash":"fd534787eb925ea96e8f855af813377b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec33e65c69b43f7f8cd6f151c3fac3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476171,
+            "region_id":85688645,
+            "venue_id":672178049
+        }
+    ],
     "wof:id":672178049,
-    "wof:lastmodified":1472625059,
+    "wof:lastmodified":1492108926,
     "wof:name":"Computrol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

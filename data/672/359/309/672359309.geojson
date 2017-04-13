@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.310976,42.036856,-72.310976,42.036856",
     "geom:latitude":42.036856,
     "geom:longitude":-72.310976,
@@ -33,17 +34,26 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nAJ7iPVZ9mAyohCbAn4kG_42.036856_-72.310976@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716963,
-    "wof:geomhash":"e9a3edae8b34a2d3806a3a166dae7231",
-    "wof:hierarchy":[],
+    "wof:geomhash":"229bda1cc1085c35519c7bdb1d6d6113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523581,
+            "venue_id":672359309
+        }
+    ],
     "wof:id":672359309,
-    "wof:lastmodified":1472625615,
+    "wof:lastmodified":1492110509,
     "wof:name":"Stirling Kennels",
     "wof:parent_id":420523581,
     "wof:placetype":"venue",

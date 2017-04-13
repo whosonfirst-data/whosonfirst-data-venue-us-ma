@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.06883,42.325009,-72.06883,42.325009",
     "geom:latitude":42.325009,
     "geom:longitude":-72.06883,
@@ -31,17 +32,32 @@
         "camp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476669,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xK4Bcvit2aOWKxlZf2BfH_42.325009_-72.068830@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714668,
-    "wof:geomhash":"619d0b7ee9b1bf5203555efd26328992",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d9abb5e13870e23bf5c380dd2759832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476669,
+            "region_id":85688645,
+            "venue_id":672252835
+        }
+    ],
     "wof:id":672252835,
-    "wof:lastmodified":1472625379,
+    "wof:lastmodified":1492115335,
     "wof:name":"Camp Putnam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

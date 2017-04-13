@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.138283,42.653174,-71.138283,42.653174",
     "geom:latitude":42.653174,
     "geom:longitude":-71.138283,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85855177,
+        102084463,
         85848097,
         102191575,
         404476285,
-        85633793,
-        85950785,
-        102084463,
-        85688645
+        85950785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,15 @@
     },
     "wof:country":"US",
     "wof:created":1461713679,
-    "wof:geomhash":"fda8919530924c8863fe512b4f06bc76",
+    "wof:geomhash":"bc9886660ca072522870e11e86ce3714",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85855177,
+            "region_id":85688645,
+            "venue_id":672205163
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +69,9 @@
         }
     ],
     "wof:id":672205163,
-    "wof:lastmodified":1472625202,
+    "wof:lastmodified":1492112571,
     "wof:name":"Coping Systems Inc",
-    "wof:parent_id":85848097,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

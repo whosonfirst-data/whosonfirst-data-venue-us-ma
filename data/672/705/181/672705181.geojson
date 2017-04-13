@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.503998,42.191366,-72.503998,42.191366",
     "geom:latitude":42.191366,
     "geom:longitude":-72.503998,
@@ -31,17 +32,26 @@
         "liquor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OnoN1wQVJed2hPlrYJ3l2_42.191366_-72.503998@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724979,
-    "wof:geomhash":"28a1b91fd03aa88f0c006b297eae690a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1c1eef8acfa0d3550d8b6bbc1b1d629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":672705181
+        }
+    ],
     "wof:id":672705181,
-    "wof:lastmodified":1472625940,
+    "wof:lastmodified":1492106636,
     "wof:name":"Horizion Beverage Co",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

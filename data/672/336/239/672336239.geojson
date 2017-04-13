@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.070657,42.771499,-71.070657,42.771499",
     "geom:latitude":42.771499,
     "geom:longitude":-71.070657,
@@ -39,7 +40,8 @@
         85633793,
         85950417,
         102084463,
-        85688645
+        85688645,
+        85845023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461716376,
-    "wof:geomhash":"ce53c8e2ba7636dc765f50fd788f2bed",
+    "wof:geomhash":"53accc6701e17df530b38574b8b68785",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,20 @@
             "neighbourhood_id":85891349,
             "region_id":85688645,
             "venue_id":672336239
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950417,
+            "neighbourhood_id":85845023,
+            "region_id":85688645,
+            "venue_id":672336239
         }
     ],
     "wof:id":672336239,
-    "wof:lastmodified":1472625561,
+    "wof:lastmodified":1492116089,
     "wof:name":"BDI Industries",
-    "wof:parent_id":85891349,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

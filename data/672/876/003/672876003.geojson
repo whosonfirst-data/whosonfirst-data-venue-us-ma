@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.764302,41.913587,-70.764302,41.913587",
     "geom:latitude":41.913587,
     "geom:longitude":-70.764302,
@@ -33,17 +34,26 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uKQssvjGNA8Nx2bKjDRbz_41.913587_-70.764302@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728557,
-    "wof:geomhash":"b36fb102c5350d00da5937476112e08d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50f28cc8828cc4cb056eab3e49839676",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672876003
+        }
+    ],
     "wof:id":672876003,
-    "wof:lastmodified":1472626092,
+    "wof:lastmodified":1492112358,
     "wof:name":"Carver Council On Aging",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

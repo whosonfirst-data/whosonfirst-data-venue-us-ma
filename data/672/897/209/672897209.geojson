@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.946553,42.762399,-70.946553,42.762399",
     "geom:latitude":42.762399,
     "geom:longitude":-70.946553,
@@ -33,17 +34,26 @@
         "cabinetry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vSgnn2BBuZAN8Y28GQbCu_42.762399_-70.946553@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728967,
-    "wof:geomhash":"dab93ed7db3b69cbc67ecc23c7b73198",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca3fa4e5dc7ef668411ca7c98df210c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672897209
+        }
+    ],
     "wof:id":672897209,
-    "wof:lastmodified":1472626113,
+    "wof:lastmodified":1492111242,
     "wof:name":"Newbury Kitchens",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

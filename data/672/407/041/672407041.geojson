@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.254634,42.125225,-71.254634,42.125225",
     "geom:latitude":42.125225,
     "geom:longitude":-71.254634,
@@ -33,17 +34,26 @@
         "pumping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LaaCL1LIq7sZqtL4weEBz_42.125225_-71.254634@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718074,
-    "wof:geomhash":"ff9b456be1f7fc78053f2838afb0cf67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b182d3b84152f995a75db654e7a76296",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672407041
+        }
+    ],
     "wof:id":672407041,
-    "wof:lastmodified":1472625664,
+    "wof:lastmodified":1492112998,
     "wof:name":"Harwood Engineering Co",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

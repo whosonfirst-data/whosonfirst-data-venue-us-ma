@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.883792,41.908686,-70.883792,41.908686",
     "geom:latitude":41.908686,
     "geom:longitude":-70.883792,
@@ -33,17 +34,26 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20H6jBPDU6bkBwqG8dL4d1_41.908686_-70.883792@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719155,
-    "wof:geomhash":"a20e29c787b37ff69406286c7eae6374",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da942e7ae848adf2b794bf6697bf17bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672449275
+        }
+    ],
     "wof:id":672449275,
-    "wof:lastmodified":1472625711,
+    "wof:lastmodified":1492118107,
     "wof:name":"Charis Counseling Ctr",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

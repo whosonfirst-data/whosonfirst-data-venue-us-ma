@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.880125,41.963679,-70.880125,41.963679",
     "geom:latitude":41.963679,
     "geom:longitude":-70.880125,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k8wtu1eVEwbLbZy33qczY_41.963679_-70.880125@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722014,
-    "wof:geomhash":"327d5c06eb3181c8bfe981efd303e9df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebfdc8395af89e874a89bc03490a4d65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523907,
+            "venue_id":672574987
+        }
+    ],
     "wof:id":672574987,
-    "wof:lastmodified":1472625837,
+    "wof:lastmodified":1492118381,
     "wof:name":"Stewart Electric",
     "wof:parent_id":420523907,
     "wof:placetype":"venue",

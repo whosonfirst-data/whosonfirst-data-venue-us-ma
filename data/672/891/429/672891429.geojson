@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.868569,41.618883,-70.868569,41.618883",
     "geom:latitude":41.618883,
     "geom:longitude":-70.868569,
@@ -37,7 +38,8 @@
         85688645,
         85633793,
         85842709,
-        102084407
+        102084407,
+        420523311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461728855,
-    "wof:geomhash":"6ef8ce4e301c8fe55c24e2a43406905b",
+    "wof:geomhash":"7400133e48dbb6345ddd6258675c2f5d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,17 @@
             "neighbourhood_id":85842709,
             "region_id":85688645,
             "venue_id":672891429
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523311,
+            "venue_id":672891429
         }
     ],
     "wof:id":672891429,
-    "wof:lastmodified":1472626111,
+    "wof:lastmodified":1492107439,
     "wof:name":"Arthur Moniz Gallery",
-    "wof:parent_id":85842709,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

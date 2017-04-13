@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.542603,42.523991,-72.542603,42.523991",
     "geom:latitude":42.523991,
     "geom:longitude":-72.542603,
@@ -41,10 +42,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85838093,
-        102084457,
         85950383,
-        85810565
+        102084457,
+        85810565,
+        85838093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +53,8 @@
     },
     "wof:country":"US",
     "wof:created":1461734036,
-    "wof:geomhash":"4eb6b0483959fc95bb6dd2db69d2cc63",
+    "wof:geomhash":"4edeef08fc453da16273ae293a1d4e2d",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084457,
-            "neighbourhood_id":85838093,
-            "region_id":85688645,
-            "venue_id":673112877
-        },
         {
             "country_id":85633793,
             "county_id":102084457,
@@ -68,12 +62,19 @@
             "neighbourhood_id":85810565,
             "region_id":85688645,
             "venue_id":673112877
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084457,
+            "neighbourhood_id":85838093,
+            "region_id":85688645,
+            "venue_id":673112877
         }
     ],
     "wof:id":673112877,
-    "wof:lastmodified":1472625321,
+    "wof:lastmodified":1492103742,
     "wof:name":"Newth Builders",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

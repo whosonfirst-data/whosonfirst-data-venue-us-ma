@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.722647,42.174199,-71.722647,42.174199",
     "geom:latitude":42.174199,
     "geom:longitude":-71.722647,
@@ -33,17 +34,26 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524081
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64aUghK15gNFaFj70Ygozv_42.174199_-71.722647@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729800,
-    "wof:geomhash":"3a340cc5b348bfd44b8cfb9c8986a13c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a63fcc48752362a482bbea8f8c00e1ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524081,
+            "venue_id":672937153
+        }
+    ],
     "wof:id":672937153,
-    "wof:lastmodified":1472626146,
+    "wof:lastmodified":1492110657,
     "wof:name":"Pet Barber",
     "wof:parent_id":420524081,
     "wof:placetype":"venue",

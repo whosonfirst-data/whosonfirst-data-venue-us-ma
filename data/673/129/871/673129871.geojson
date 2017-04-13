@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.580721,42.289266,-71.580721,42.289266",
     "geom:latitude":42.289266,
     "geom:longitude":-71.580721,
@@ -32,17 +33,32 @@
         "laboratories-research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476633,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48GQeHRZRDBi4GJAnJLAoj_42.289266_-71.580721@1303262187"
     },
     "wof:country":"US",
     "wof:created":1461734390,
-    "wof:geomhash":"e01c6c7cf4f33bd338409bf43b112fc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2ad7a20469b34fcd30b2b9accf6c0f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476633,
+            "region_id":85688645,
+            "venue_id":673129871
+        }
+    ],
     "wof:id":673129871,
-    "wof:lastmodified":1472625382,
+    "wof:lastmodified":1492104646,
     "wof:name":"Catalyst Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

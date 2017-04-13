@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.969503,42.136663,-71.969503,42.136663",
     "geom:latitude":42.136663,
     "geom:longitude":-71.969503,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Inav8HHeIbZdMkZMVVYby_42.136663_-71.969503@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716068,
-    "wof:geomhash":"2b3f2a01d5c5430964cf82a596a6c8c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20c94c14def8ba2e554b00b3774f31a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":672322177
+        }
+    ],
     "wof:id":672322177,
-    "wof:lastmodified":1472625539,
+    "wof:lastmodified":1492116455,
     "wof:name":"P & E Construction",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

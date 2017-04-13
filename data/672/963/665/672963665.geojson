@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.909779,41.891902,-70.909779,41.891902",
     "geom:latitude":41.891902,
     "geom:longitude":-70.909779,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KG4n8ClVRowtyhf3LOXRv_41.891902_-70.909779@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730557,
-    "wof:geomhash":"b8bdbcb2c93ac640970a34835c29e71d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c042bc4f1bec6a09049adf6f8b62fb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672963665
+        }
+    ],
     "wof:id":672963665,
-    "wof:lastmodified":1472626174,
+    "wof:lastmodified":1492110316,
     "wof:name":"Standard Times",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

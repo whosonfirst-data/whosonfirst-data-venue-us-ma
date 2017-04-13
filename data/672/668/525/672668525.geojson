@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.030903,42.480599,-72.030903,42.480599",
     "geom:latitude":42.480599,
     "geom:longitude":-72.030903,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524165
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WSF3GuLLnEL7K2HKr6361_42.480599_-72.030903@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724134,
-    "wof:geomhash":"2bbf2f48498ad4cc4cfda5ec9e2f3d34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6eb50d6b9b4aab59cc2302437832966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524165,
+            "venue_id":672668525
+        }
+    ],
     "wof:id":672668525,
-    "wof:lastmodified":1472625915,
+    "wof:lastmodified":1492115875,
     "wof:name":"Modern Interiors",
     "wof:parent_id":420524165,
     "wof:placetype":"venue",

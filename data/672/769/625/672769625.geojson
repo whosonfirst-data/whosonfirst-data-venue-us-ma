@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.005515,42.578996,-71.005515,42.578996",
     "geom:latitude":42.578996,
     "geom:longitude":-71.005515,
@@ -28,19 +29,32 @@
     "sg:postcode":"01949",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85826363,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iZh4MAIcDnqyJn2RAzNBP_42.578996_-71.005515@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726363,
-    "wof:geomhash":"c0b8ad75cb951b8254f2cc6b94f8426d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"230eb52a0aa219b4dfd5707b67330caf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85826363,
+            "region_id":85688645,
+            "venue_id":672769625
+        }
+    ],
     "wof:id":672769625,
-    "wof:lastmodified":1472626012,
+    "wof:lastmodified":1492108756,
     "wof:name":"Caseworks",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826363,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

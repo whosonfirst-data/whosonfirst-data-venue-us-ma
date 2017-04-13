@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.867818,41.78099,-70.867818,41.78099",
     "geom:latitude":41.78099,
     "geom:longitude":-70.867818,
@@ -32,17 +33,26 @@
         "representative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43mPwot94YMld0wFmhecom_41.780990_-70.867818@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714612,
-    "wof:geomhash":"4d31d35bbeeb649826b6c7ba2c2a204a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1dbb81b091ec6d81ee59464c51d14ba1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523869,
+            "venue_id":672249973
+        }
+    ],
     "wof:id":672249973,
-    "wof:lastmodified":1472625374,
+    "wof:lastmodified":1492105809,
     "wof:name":"M A Olson Assoc",
     "wof:parent_id":420523869,
     "wof:placetype":"venue",

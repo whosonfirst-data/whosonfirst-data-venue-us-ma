@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.877395,42.117536,-70.877395,42.117536",
     "geom:latitude":42.117536,
     "geom:longitude":-70.877395,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BeKEiO6gPXU4xE3yqR2jo_42.117536_-70.877395@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720858,
-    "wof:geomhash":"398b643cf466b56018f74eaffb31e587",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27e49b30dc3066bce355c501f410150f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672521215
+        }
+    ],
     "wof:id":672521215,
-    "wof:lastmodified":1472625771,
+    "wof:lastmodified":1492109977,
     "wof:name":"Village Green Landscape Svc",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

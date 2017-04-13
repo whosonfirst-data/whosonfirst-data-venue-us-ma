@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.923204,41.994263,-70.923204,41.994263",
     "geom:latitude":41.994263,
     "geom:longitude":-70.923204,
@@ -32,7 +33,8 @@
         85688645,
         85633793,
         85809101,
-        102084367
+        102084367,
+        85817125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461727459,
-    "wof:geomhash":"60ccbbc05ebb75f67e38a6c0eb50e5a1",
+    "wof:geomhash":"52578a737583d3e684c8eca3360f29a2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +50,19 @@
             "neighbourhood_id":85809101,
             "region_id":85688645,
             "venue_id":672823199
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85817125,
+            "region_id":85688645,
+            "venue_id":672823199
         }
     ],
     "wof:id":672823199,
-    "wof:lastmodified":1472626047,
+    "wof:lastmodified":1492113233,
     "wof:name":"Global Gift Services",
-    "wof:parent_id":85809101,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.862859,42.627849,-72.862859,42.627849",
     "geom:latitude":42.627849,
     "geom:longitude":-72.862859,
@@ -32,17 +33,26 @@
         "taxation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523507
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ts6fmegT0Gnpo8Fzvjwhj_42.627849_-72.862859@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717382,
-    "wof:geomhash":"0f83aa3b541c54d606a1e1498669d6ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f73c3548c9f12aae3a7f7875825aea93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523507,
+            "venue_id":672378089
+        }
+    ],
     "wof:id":672378089,
-    "wof:lastmodified":1472625644,
+    "wof:lastmodified":1492111987,
     "wof:name":"Charlemont Assessors Office",
     "wof:parent_id":420523507,
     "wof:placetype":"venue",

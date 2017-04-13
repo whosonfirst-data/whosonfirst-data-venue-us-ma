@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.701357,41.970474,-70.701357,41.970474",
     "geom:latitude":41.970474,
     "geom:longitude":-70.701357,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"http://www.canopusresearch.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        85633793,
+        85950473,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yPXL6pZUPWsIbwN3DeRUD_41.970474_-70.701357@1308186497"
     },
     "wof:country":"US",
     "wof:created":1461742598,
-    "wof:geomhash":"44fe4617f210a37287d0ad248b6715fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca98c81527d2822326d01208578db442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950473,
+            "region_id":85688645,
+            "venue_id":689225309
+        }
+    ],
     "wof:id":689225309,
-    "wof:lastmodified":1472625623,
+    "wof:lastmodified":1492096950,
     "wof:name":"Canopus Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

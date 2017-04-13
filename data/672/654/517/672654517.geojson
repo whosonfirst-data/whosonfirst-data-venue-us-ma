@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.996279,41.967967,-70.996279,41.967967",
     "geom:latitude":41.967967,
     "geom:longitude":-70.996279,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2woJEz95QDqnRdU13vmGtl_41.967967_-70.996279@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723809,
-    "wof:geomhash":"d7777a1858e49c59d44ae1e0e0411fad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3cca601207c190e8ab707bffce53633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672654517
+        }
+    ],
     "wof:id":672654517,
-    "wof:lastmodified":1472625903,
+    "wof:lastmodified":1492117320,
     "wof:name":"Crowley Heating & Cooling",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.061541,41.966371,-71.061541,41.966371",
     "geom:latitude":41.966371,
     "geom:longitude":-71.061541,
@@ -40,17 +41,32 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476139,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QOZ6SfvjuPp151FdGUoW2_41.966371_-71.061541@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742481,
-    "wof:geomhash":"5f9d2edc1128368734ab0495bd99d889",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea05bd867865946dbe4ff0851da3b1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476139,
+            "region_id":85688645,
+            "venue_id":689220187
+        }
+    ],
     "wof:id":689220187,
-    "wof:lastmodified":1472625611,
+    "wof:lastmodified":1492098376,
     "wof:name":"Health Care Review",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

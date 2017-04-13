@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.844682,42.03384,-70.844682,42.03384",
     "geom:latitude":42.03384,
     "geom:longitude":-70.844682,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34cd83AOgjxFVgYt0uDPRM_42.033840_-70.844682@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727999,
-    "wof:geomhash":"21b1323cec93f190334f76a40eb33cc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cd1e2808659efa5c3e718021a3c658f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672850271
+        }
+    ],
     "wof:id":672850271,
-    "wof:lastmodified":1472626076,
+    "wof:lastmodified":1492107748,
     "wof:name":"Calvary Baptist Church",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.757295,41.350685,-70.757295,41.350685",
     "geom:latitude":41.350685,
     "geom:longitude":-70.757295,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85850851,
-        102084629
+        85836323,
+        102084629,
+        85850851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461730825,
-    "wof:geomhash":"ccda081b47345b0f50bcceb4bb94ac63",
+    "wof:geomhash":"4e3186cf5c2df49635a07a2cc7294184",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084629,
+            "neighbourhood_id":85836323,
+            "region_id":85688645,
+            "venue_id":672972141
+        },
         {
             "country_id":85633793,
             "county_id":102084629,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":672972141,
-    "wof:lastmodified":1472626181,
+    "wof:lastmodified":1492112926,
     "wof:name":"Edward B Sussman MD Inc",
-    "wof:parent_id":85850851,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

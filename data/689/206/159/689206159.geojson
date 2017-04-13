@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.50768,41.691602,-70.50768,41.691602",
     "geom:latitude":41.691602,
     "geom:longitude":-70.50768,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7M6NqYh1CYMllNHLtfbw1r_41.691602_-70.507680@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742178,
-    "wof:geomhash":"b207654defb9382c5e3b7870fa8cc334",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0732e49c2816b77339053d202cb85ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":689206159
+        }
+    ],
     "wof:id":689206159,
-    "wof:lastmodified":1472625598,
+    "wof:lastmodified":1492098388,
     "wof:name":"Sacco Development",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

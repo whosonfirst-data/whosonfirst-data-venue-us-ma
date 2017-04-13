@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.508407,41.68818,-70.508407,41.68818",
     "geom:latitude":41.68818,
     "geom:longitude":-70.508407,
@@ -32,17 +33,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zb3FFmj45K3hsnZMGEaMY_41.688180_-70.508407@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718500,
-    "wof:geomhash":"6d4a0fd3a7cfc8f7c7c7666691f9adac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa7c2227df84b40af2535b87e5f6b5ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672423653
+        }
+    ],
     "wof:id":672423653,
-    "wof:lastmodified":1472625692,
+    "wof:lastmodified":1492108713,
     "wof:name":"Graphtech Services",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

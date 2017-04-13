@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.310019,41.973423,-71.310019,41.973423",
     "geom:latitude":41.973423,
     "geom:longitude":-71.310019,
@@ -32,17 +33,32 @@
         "behavior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476133,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DedH8ToNdRTsLzfAJvlNm_41.973423_-71.310019@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715105,
-    "wof:geomhash":"5febbd4ad2be1cec685abbeea252ced0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"832b96be19f57a86b1579733cb85e00b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476133,
+            "region_id":85688645,
+            "venue_id":672275659
+        }
+    ],
     "wof:id":672275659,
-    "wof:lastmodified":1472625432,
+    "wof:lastmodified":1492107456,
     "wof:name":"Behavioral Associates Mass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

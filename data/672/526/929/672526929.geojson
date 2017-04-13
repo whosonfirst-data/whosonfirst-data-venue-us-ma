@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.79518,42.2371,-70.79518,42.2371",
     "geom:latitude":42.2371,
     "geom:longitude":-70.79518,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SoFLzMw6JaO2BkxRxLzFg_42.237100_-70.795180@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720983,
-    "wof:geomhash":"94a00b3c28d5e46ee862cf34b4b6f044",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ebc27e8316b88285333a62c1281f6bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672526929
+        }
+    ],
     "wof:id":672526929,
-    "wof:lastmodified":1472625795,
+    "wof:lastmodified":1492116851,
     "wof:name":"Sweet Relief",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

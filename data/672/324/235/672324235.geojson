@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.871533,42.353061,-71.871533,42.353061",
     "geom:latitude":42.353061,
     "geom:longitude":-71.871533,
@@ -33,17 +34,26 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oVPw5ntsT8HCDTZ3tAJMv_42.353061_-71.871533@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716113,
-    "wof:geomhash":"8950439022a36963664ab83277679bee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0da4a7854376d0c6bacb22c7c2661ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":672324235
+        }
+    ],
     "wof:id":672324235,
-    "wof:lastmodified":1472625543,
+    "wof:lastmodified":1492113906,
     "wof:name":"Leominster Credit Union",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.805442,41.988157,-70.805442,41.988157",
     "geom:latitude":41.988157,
     "geom:longitude":-70.805442,
@@ -32,17 +33,26 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RVfvmi1SvklQTJld3G40O_41.988157_-70.805442@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729762,
-    "wof:geomhash":"5ae79133bf8e954e9f7c7490c5ec47e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7649d67e3a3388b8cc301ee3753bf5be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672935349
+        }
+    ],
     "wof:id":672935349,
-    "wof:lastmodified":1472626151,
+    "wof:lastmodified":1492115730,
     "wof:name":"106 Self Storage",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

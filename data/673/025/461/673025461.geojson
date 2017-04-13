@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.776806,41.893741,-70.776806,41.893741",
     "geom:latitude":41.893741,
     "geom:longitude":-70.776806,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bDCNcmiSt3TLZlOIrICxk_41.893741_-70.776806@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732194,
-    "wof:geomhash":"a9b7e036c6c698451b391a7fab772b69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49c6ada7af8fd18b32583d6f1f95e89b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":673025461
+        }
+    ],
     "wof:id":673025461,
-    "wof:lastmodified":1472625002,
+    "wof:lastmodified":1492104157,
     "wof:name":"Major Impact",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.651693,42.123701,-72.651693,42.123701",
     "geom:latitude":42.123701,
     "geom:longitude":-72.651693,
@@ -38,7 +39,8 @@
         85633793,
         85950389,
         102084627,
-        85688645
+        85688645,
+        85833851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461715498,
-    "wof:geomhash":"d25a7e88732afd65f997be32e01c614e",
+    "wof:geomhash":"561cd8baaca448c3091814b5721be125",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85834667,
             "region_id":85688645,
             "venue_id":672294395
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476377,
+            "locality_id":85950389,
+            "neighbourhood_id":85833851,
+            "region_id":85688645,
+            "venue_id":672294395
         }
     ],
     "wof:id":672294395,
-    "wof:lastmodified":1472625468,
+    "wof:lastmodified":1492119238,
     "wof:name":"Mittineague United Methodist",
-    "wof:parent_id":85834667,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

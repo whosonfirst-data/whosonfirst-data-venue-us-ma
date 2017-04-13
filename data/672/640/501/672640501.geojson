@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.742442,42.416937,-71.742442,42.416937",
     "geom:latitude":42.416937,
     "geom:longitude":-71.742442,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ShLuFFVlB2BHv0FKmvA0C_42.416937_-71.742442@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723509,
-    "wof:geomhash":"63b07bb41cfe0b36dc7b9a362c4bac0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"311574502ac3d6ba2cb8a1243571a80b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":672640501
+        }
+    ],
     "wof:id":672640501,
-    "wof:lastmodified":1472625888,
+    "wof:lastmodified":1492109570,
     "wof:name":"Sterling Town Selectman",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

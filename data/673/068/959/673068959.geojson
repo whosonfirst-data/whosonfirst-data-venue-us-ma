@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.3293,41.8293,-71.3293,41.8293",
     "geom:latitude":41.8293,
     "geom:longitude":-71.3293,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85816693,
-        102084407
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461733121,
-    "wof:geomhash":"482d13b279b0feffa60060f5df4ea757",
+    "wof:geomhash":"555676cf814f495423586ea2b40ec003",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084407,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
             "neighbourhood_id":85816693,
-            "region_id":85688645,
+            "region_id":85688509,
             "venue_id":673068959
         }
     ],
     "wof:id":673068959,
-    "wof:lastmodified":1472625190,
+    "wof:lastmodified":1492104561,
     "wof:name":"Guglielmo Tony Painting Co",
     "wof:parent_id":85816693,
     "wof:placetype":"venue",

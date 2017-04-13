@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.997654,42.661925,-70.997654,42.661925",
     "geom:latitude":42.661925,
     "geom:longitude":-70.997654,
@@ -43,17 +44,26 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523465
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7V1xudyBRKure1ndmbId97_42.661925_-70.997654@1303262195"
     },
     "wof:country":"US",
     "wof:created":1461735688,
-    "wof:geomhash":"c92fc24065545a47aea6a1bb8de77937",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec94b38cc8c78db1ce8a2223c8b72c01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523465,
+            "venue_id":688921717
+        }
+    ],
     "wof:id":688921717,
-    "wof:lastmodified":1472624961,
+    "wof:lastmodified":1492120637,
     "wof:name":"Town Car International",
     "wof:parent_id":420523465,
     "wof:placetype":"venue",

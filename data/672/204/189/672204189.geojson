@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.905573,42.056555,-70.905573,42.056555",
     "geom:latitude":42.056555,
     "geom:longitude":-70.905573,
@@ -31,17 +32,26 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r4usZ1Tku3sGR01ygZlpD_42.056555_-70.905573@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713663,
-    "wof:geomhash":"3287211ecaaa5ae375e8cb5a05174f27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7bee466ff77862704790940c18d5ee1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":672204189
+        }
+    ],
     "wof:id":672204189,
-    "wof:lastmodified":1472625201,
+    "wof:lastmodified":1492108775,
     "wof:name":"Hanson Grain",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

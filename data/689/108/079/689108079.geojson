@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.045537,42.402156,-71.045537,42.402156",
     "geom:latitude":42.402156,
     "geom:longitude":-71.045537,
@@ -36,17 +37,34 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476487,
+        85633793,
+        85950331,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BFO4QCM2IExQ6J4PaUByh_42.402156_-71.045537@1303262220"
     },
     "wof:country":"US",
     "wof:created":1461739562,
-    "wof:geomhash":"36f99e0a8772b435bdf1c572f2879446",
-    "wof:hierarchy":[],
+    "wof:geomhash":"419b682de0db6cf00bebc544c71bafba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476487,
+            "locality_id":85950331,
+            "region_id":85688645,
+            "venue_id":689108079
+        }
+    ],
     "wof:id":689108079,
-    "wof:lastmodified":1472625351,
+    "wof:lastmodified":1492098601,
     "wof:name":"Br Motorcycles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.478362,42.190441,-72.478362,42.190441",
     "geom:latitude":42.190441,
     "geom:longitude":-72.478362,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bzNqPVB9bAO76hnFxg5MA_42.190441_-72.478362@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711958,
-    "wof:geomhash":"20beec2ef5d48bd3dbf911b74f0e6033",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4d5bd9e24f653d4be6ba7635a90b413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":656397617
+        }
+    ],
     "wof:id":656397617,
-    "wof:lastmodified":1472625074,
+    "wof:lastmodified":1492102001,
     "wof:name":"Royal Paving Constr LTD Inc",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

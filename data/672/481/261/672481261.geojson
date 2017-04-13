@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.821561,42.438915,-71.821561,42.438915",
     "geom:latitude":42.438915,
     "geom:longitude":-71.821561,
@@ -31,19 +32,28 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524139
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Jb04xWZi78QqND0kfNQ4O_42.438915_-71.821561@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719977,
-    "wof:geomhash":"113e0bf0e65ff6d434f9f4fdbfd92b71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a42262efe780d2ba75095187832b6cba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524139,
+            "venue_id":672481261
+        }
+    ],
     "wof:id":672481261,
-    "wof:lastmodified":1472625743,
+    "wof:lastmodified":1492110909,
     "wof:name":"Washusett Ecclesia Inc",
-    "wof:parent_id":420524139,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

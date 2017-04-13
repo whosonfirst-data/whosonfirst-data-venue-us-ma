@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.761677,42.038793,-70.761677,42.038793",
     "geom:latitude":42.038793,
     "geom:longitude":-70.761677,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6h8qloifNYk7erxi7JUphj_42.038793_-70.761677@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711045,
-    "wof:geomhash":"9245d45457b7b7433762c6be89a14501",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e54c48b7102394e7b19c71384cd9c276",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":656354163
+        }
+    ],
     "wof:id":656354163,
-    "wof:lastmodified":1472624918,
+    "wof:lastmodified":1492102196,
     "wof:name":"Bern Unlimited",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

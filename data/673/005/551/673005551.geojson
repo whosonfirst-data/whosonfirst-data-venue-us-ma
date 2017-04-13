@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.914325,42.242973,-71.914325,42.242973",
     "geom:latitude":42.242973,
     "geom:longitude":-71.914325,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DT5Rmrud7lMF5CoPSyEe6_42.242973_-71.914325@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731697,
-    "wof:geomhash":"5592b62d6b12d8c235d77e94ae201875",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2054dfb7449b2af367742f5838d8b06c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":673005551
+        }
+    ],
     "wof:id":673005551,
-    "wof:lastmodified":1472624938,
+    "wof:lastmodified":1492103405,
     "wof:name":"BP Construction Corporation",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

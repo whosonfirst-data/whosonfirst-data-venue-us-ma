@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.024283,42.711776,-71.024283,42.711776",
     "geom:latitude":42.711776,
     "geom:longitude":-71.024283,
@@ -31,17 +32,26 @@
         "club"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59kxdKc0P1vtAUBgtYCs0f_42.711776_-71.024283@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715918,
-    "wof:geomhash":"2cd6f9bec137c1c6c847329a23987f35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"498ba6b36aa5436c981751e3ecbf3337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672315387
+        }
+    ],
     "wof:id":672315387,
-    "wof:lastmodified":1472625524,
+    "wof:lastmodified":1492110869,
     "wof:name":"Veterans Of Foreign Wars",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

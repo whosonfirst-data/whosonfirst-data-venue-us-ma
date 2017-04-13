@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.00335,42.520214,-72.00335,42.520214",
     "geom:latitude":42.520214,
     "geom:longitude":-72.00335,
@@ -33,17 +34,26 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524165
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IXsOAxgp9fKQwdYoMXQ5Q_42.520214_-72.003350@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719481,
-    "wof:geomhash":"7ca1329dba0281e15b2cbfceeb9a4a68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bde9b10ba93abd384376758df7b49d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524165,
+            "venue_id":672461807
+        }
+    ],
     "wof:id":672461807,
-    "wof:lastmodified":1472625731,
+    "wof:lastmodified":1492115503,
     "wof:name":"Little League District",
     "wof:parent_id":420524165,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.273208,42.135223,-71.273208,42.135223",
     "geom:latitude":42.135223,
     "geom:longitude":-71.273208,
@@ -32,17 +33,26 @@
         "crating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Q71XegIniwoLvFq8v3zAQ_42.135223_-71.273208@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725596,
-    "wof:geomhash":"75cb50174f04db3a221e187f912fbc92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"942926a13860541301f9191fdc502f51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672733657
+        }
+    ],
     "wof:id":672733657,
-    "wof:lastmodified":1472625980,
+    "wof:lastmodified":1492112381,
     "wof:name":"Baystate Crating Inc",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

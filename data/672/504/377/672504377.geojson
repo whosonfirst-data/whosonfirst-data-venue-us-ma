@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.86586,42.065533,-70.86586,42.065533",
     "geom:latitude":42.065533,
     "geom:longitude":-70.86586,
@@ -31,17 +32,26 @@
         "camping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kKuO5stJ3vvFcmkYsB31R_42.065533_-70.865860@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720498,
-    "wof:geomhash":"f8bb7845ff65437765a9a53079ea2a75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b82b43d36250fb2ab864c7a26433be13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523995,
+            "venue_id":672504377
+        }
+    ],
     "wof:id":672504377,
-    "wof:lastmodified":1472625763,
+    "wof:lastmodified":1492114923,
     "wof:name":"A-Bee Tent Rental",
     "wof:parent_id":420523995,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.7341,42.255329,-71.7341,42.255329",
     "geom:latitude":42.255329,
     "geom:longitude":-71.7341,
@@ -32,17 +33,26 @@
         "storage-liquid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PDcjkAj3BMASia44CfX3M_42.255329_-71.734100@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734274,
-    "wof:geomhash":"3219d2e3b2c388f16673eadf36f7ab5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecc4b90aed8766ceb5d609ad6bf4f1b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":673124285
+        }
+    ],
     "wof:id":673124285,
-    "wof:lastmodified":1472625348,
+    "wof:lastmodified":1492103990,
     "wof:name":"Liquid Solutions",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

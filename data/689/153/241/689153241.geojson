@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.777142,41.936824,-70.777142,41.936824",
     "geom:latitude":41.936824,
     "geom:longitude":-70.777142,
@@ -31,17 +32,26 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iN3R7zug1wuqqFRIyF5Ku_41.936824_-70.777142@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741013,
-    "wof:geomhash":"f83470169e67aa42a21f62eaf2364f91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85603de8f3c3314f7719950e3232f6f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689153241
+        }
+    ],
     "wof:id":689153241,
-    "wof:lastmodified":1472625495,
+    "wof:lastmodified":1492097469,
     "wof:name":"HomeLAN Computer Services",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.423297,42.25123,-72.423297,42.25123",
     "geom:latitude":42.25123,
     "geom:longitude":-72.423297,
@@ -32,17 +33,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OaPhzk2p70MTXRUnXgm7d_42.251230_-72.423297@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729721,
-    "wof:geomhash":"5746e2007ddbf52d0b6bc00f14c6dc18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d26d1bd43775b223de7acd421c233ade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672933703
+        }
+    ],
     "wof:id":672933703,
-    "wof:lastmodified":1472626154,
+    "wof:lastmodified":1492109514,
     "wof:name":"Gee-WHIZ Productions",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

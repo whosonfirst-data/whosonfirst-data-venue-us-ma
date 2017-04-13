@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.801537,41.896412,-70.801537,41.896412",
     "geom:latitude":41.896412,
     "geom:longitude":-70.801537,
@@ -32,17 +33,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WhGAAngoTzPunkC7rxgpx_41.896412_-70.801537@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741011,
-    "wof:geomhash":"fa33a9caac8e918023b395d82e3fdb7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32c2508b06f99f1d09292739a0bb51f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689153173
+        }
+    ],
     "wof:id":689153173,
-    "wof:lastmodified":1472625493,
+    "wof:lastmodified":1492097475,
     "wof:name":"Wayne A Tauber Insurance",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

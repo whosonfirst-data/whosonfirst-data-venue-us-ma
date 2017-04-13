@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.814537,42.45163,-71.814537,42.45163",
     "geom:latitude":42.45163,
     "geom:longitude":-71.814537,
@@ -32,17 +33,26 @@
         "preparation-business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524139
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eRgelV5tNiH3oqlQHFLkY_42.451630_-71.814537@1303262187"
     },
     "wof:country":"US",
     "wof:created":1461734340,
-    "wof:geomhash":"b7f4d52dbd2dca136c6e8977d536211e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea1b878c408ed5329a5d67de48bf398a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524139,
+            "venue_id":673127431
+        }
+    ],
     "wof:id":673127431,
-    "wof:lastmodified":1472625350,
+    "wof:lastmodified":1492104745,
     "wof:name":"Tbh Tax Preparation",
     "wof:parent_id":420524139,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.355103,42.103401,-73.355103,42.103401",
     "geom:latitude":42.103401,
     "geom:longitude":-73.355103,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48iFGv10TNjFxnlFouYuV8_42.103401_-73.355103@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734010,
-    "wof:geomhash":"f5bd91d6bd9d7bbb45691a492df426cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4379c9da3181ecb08183aae19127429b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":673111417
+        }
+    ],
     "wof:id":673111417,
-    "wof:lastmodified":1472625302,
+    "wof:lastmodified":1492105198,
     "wof:name":"Details Inc",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

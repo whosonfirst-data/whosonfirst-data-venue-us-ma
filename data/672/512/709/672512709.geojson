@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.118229,41.833491,-71.118229,41.833491",
     "geom:latitude":41.833491,
     "geom:longitude":-71.118229,
@@ -32,17 +33,26 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nVToRvWncdXsyvHlG9J8w_41.833491_-71.118229@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720679,
-    "wof:geomhash":"4f128afb8a2186e5076f80ff17df7133",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07bc4c1613b1925d2484aff6eb4c7a29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523323,
+            "venue_id":672512709
+        }
+    ],
     "wof:id":672512709,
-    "wof:lastmodified":1472625789,
+    "wof:lastmodified":1492107778,
     "wof:name":"Bradshaw's Food Products",
     "wof:parent_id":420523323,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.693444,41.918001,-70.693444,41.918001",
     "geom:latitude":41.918001,
     "geom:longitude":-70.693444,
@@ -32,17 +33,26 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zzbsiE65IYHqR6Qc3lDeW_41.918001_-70.693444@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732261,
-    "wof:geomhash":"cf3266e0e405bc8cb5aaf35ed8878eba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"998c1aab0fe49537092bd7bcaf684c10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":673027675
+        }
+    ],
     "wof:id":673027675,
-    "wof:lastmodified":1472625024,
+    "wof:lastmodified":1492104992,
     "wof:name":"Brooks Property Consultants",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

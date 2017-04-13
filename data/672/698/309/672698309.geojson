@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.375349,42.632157,-71.375349,42.632157",
     "geom:latitude":42.632157,
     "geom:longitude":-71.375349,
@@ -33,17 +34,26 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3n3Xlh2Wq9tl4MFRokBFPS_42.632157_-71.375349@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724823,
-    "wof:geomhash":"03a8e423857a52f998fa0d4f4dc6cf4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5350fc6172937df13bf2a7a91934e8f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672698309
+        }
+    ],
     "wof:id":672698309,
-    "wof:lastmodified":1472625940,
+    "wof:lastmodified":1492105729,
     "wof:name":"Chelmsford Highway Dept",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

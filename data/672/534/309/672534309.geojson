@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.496021,41.659799,-70.496021,41.659799",
     "geom:latitude":41.659799,
     "geom:longitude":-70.496021,
@@ -33,17 +34,26 @@
         "block"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OHpPJ0ixYsx8Y6th9jIUR_41.659799_-70.496021@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721151,
-    "wof:geomhash":"e8a19402092df4252302dc64c3f83b46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbbe4a75817af6a1316fb161827128ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672534309
+        }
+    ],
     "wof:id":672534309,
-    "wof:lastmodified":1472625782,
+    "wof:lastmodified":1492117873,
     "wof:name":"Harwich Concrete Block",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.906784,41.894504,-70.906784,41.894504",
     "geom:latitude":41.894504,
     "geom:longitude":-70.906784,
@@ -32,17 +33,26 @@
         "educational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0No4UBBco2TlJpHsyd0BKo_41.894504_-70.906784@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722125,
-    "wof:geomhash":"9fe7b195b84bf8ebea2c71d00c56c4db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"830c90dbbd30726af903597bd578701a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672580095
+        }
+    ],
     "wof:id":672580095,
-    "wof:lastmodified":1472625801,
+    "wof:lastmodified":1492107974,
     "wof:name":"Err Inc-Project Err",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

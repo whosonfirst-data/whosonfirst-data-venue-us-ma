@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.980252,42.734082,-70.980252,42.734082",
     "geom:latitude":42.734082,
     "geom:longitude":-70.980252,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wHYCxwh8z89Rr5DBUq2B3_42.734082_-70.980252@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717341,
-    "wof:geomhash":"04841448ddf2d917158ff31e7c2bf317",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ad21ffbf164550014197eab3e451e3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672375881
+        }
+    ],
     "wof:id":672375881,
-    "wof:lastmodified":1472625654,
+    "wof:lastmodified":1492107146,
     "wof:name":"Commex Consultants",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

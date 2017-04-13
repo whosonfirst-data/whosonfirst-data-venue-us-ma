@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.874117,42.217791,-70.874117,42.217791",
     "geom:latitude":42.217791,
     "geom:longitude":-70.874117,
@@ -32,17 +33,26 @@
         "retrieval"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nFrcdpqECuP3yDlQGrWHr_42.217791_-70.874117@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714090,
-    "wof:geomhash":"38a1ce23bdfcd0e8df8fca3826690bba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd9c64b9121ffdb40ed03fac9e5959c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523905,
+            "venue_id":672226071
+        }
+    ],
     "wof:id":672226071,
-    "wof:lastmodified":1472625226,
+    "wof:lastmodified":1492118240,
     "wof:name":"New Market Consulting",
     "wof:parent_id":420523905,
     "wof:placetype":"venue",

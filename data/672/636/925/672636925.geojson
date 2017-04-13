@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.117617,41.854481,-71.117617,41.854481",
     "geom:latitude":41.854481,
     "geom:longitude":-71.117617,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85857191,
+        102191575,
+        404476147,
         85633793,
-        85805853,
-        102084407
+        85950365,
+        102084407,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,20 +49,23 @@
     },
     "wof:country":"US",
     "wof:created":1461723438,
-    "wof:geomhash":"347a424f496500424ca54b3d32ecba51",
+    "wof:geomhash":"2718b6de47d8dc10a7f5b7f9dd56ef3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084407,
-            "neighbourhood_id":85805853,
+            "localadmin_id":404476147,
+            "locality_id":85950365,
+            "neighbourhood_id":85857191,
             "region_id":85688645,
             "venue_id":672636925
         }
     ],
     "wof:id":672636925,
-    "wof:lastmodified":1472625899,
+    "wof:lastmodified":1492118639,
     "wof:name":"Charles W Harris Co Inc",
-    "wof:parent_id":85805853,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.616196,42.081405,-72.616196,42.081405",
     "geom:latitude":42.081405,
     "geom:longitude":-72.616196,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523573,
+        420523613,
         102191575,
         404476341,
         85633793,
         85950399,
         102084627,
-        85688645
+        85688645,
+        420523573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461728599,
-    "wof:geomhash":"ef84ef7698d4ac4613d682a68db72d07",
+    "wof:geomhash":"064b6c65954c9df359440524ae83e855",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476341,
+            "locality_id":85950399,
+            "neighbourhood_id":420523613,
+            "region_id":85688645,
+            "venue_id":672878365
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672878365,
-    "wof:lastmodified":1472626098,
+    "wof:lastmodified":1492119806,
     "wof:name":"EMS Svc Co",
-    "wof:parent_id":420523573,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

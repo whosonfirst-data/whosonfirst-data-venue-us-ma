@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.261012,42.158974,-73.261012,42.158974",
     "geom:latitude":42.158974,
     "geom:longitude":-73.261012,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ossU1EVGCcMbhyyqUHG2K_42.158974_-73.261012@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717969,
-    "wof:geomhash":"34ddcc4f7a2b155b0d927a2ed57d01c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f203afca1dd51ec0ad5d5bd5d8e7fc20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672403269
+        }
+    ],
     "wof:id":672403269,
-    "wof:lastmodified":1472625665,
+    "wof:lastmodified":1492111372,
     "wof:name":"Carson Auto",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

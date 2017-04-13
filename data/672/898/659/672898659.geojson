@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.836024,42.194189,-71.836024,42.194189",
     "geom:latitude":42.194189,
     "geom:longitude":-71.836024,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85815289,
-        102084655
+        102084655,
+        420524071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461728998,
-    "wof:geomhash":"f58665f2e54b35ffb43e312b230fac63",
+    "wof:geomhash":"22917bfa7e50648d68fd216502fb9d78",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,17 @@
             "neighbourhood_id":85815289,
             "region_id":85688645,
             "venue_id":672898659
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672898659
         }
     ],
     "wof:id":672898659,
-    "wof:lastmodified":1472626119,
+    "wof:lastmodified":1492114909,
     "wof:name":"LMS",
-    "wof:parent_id":85815289,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

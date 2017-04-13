@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.926102,42.7253,-70.926102,42.7253",
     "geom:latitude":42.7253,
     "geom:longitude":-70.926102,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wc8vJnne2qJQOFr86kIcE_42.725300_-70.926102@1303262197"
     },
     "wof:country":"US",
     "wof:created":1461735892,
-    "wof:geomhash":"2546a1723d44beaccecc61007128c195",
-    "wof:hierarchy":[],
+    "wof:geomhash":"764f08d99e728fc194f29988558d6851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":688932357
+        }
+    ],
     "wof:id":688932357,
-    "wof:lastmodified":1472625000,
+    "wof:lastmodified":1492120549,
     "wof:name":"Morse Richard A",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

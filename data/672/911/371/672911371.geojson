@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.174611,42.423308,-71.174611,42.423308",
     "geom:latitude":42.423308,
     "geom:longitude":-71.174611,
@@ -35,7 +36,8 @@
         85633793,
         85950613,
         102084643,
-        85688645
+        85688645,
+        85815901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461729270,
-    "wof:geomhash":"ea16691cecede1c2e9c5431e2a2280df",
+    "wof:geomhash":"3311057131f76eb8c8a2e2a99ff276be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,22 @@
             "neighbourhood_id":85807137,
             "region_id":85688645,
             "venue_id":672911371
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476319,
+            "locality_id":85950613,
+            "neighbourhood_id":85815901,
+            "region_id":85688645,
+            "venue_id":672911371
         }
     ],
     "wof:id":672911371,
-    "wof:lastmodified":1472626130,
+    "wof:lastmodified":1492115414,
     "wof:name":"W T Phelan Insurance",
-    "wof:parent_id":85807137,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

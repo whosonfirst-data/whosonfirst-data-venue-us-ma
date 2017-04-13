@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.841395,41.966109,-70.841395,41.966109",
     "geom:latitude":41.966109,
     "geom:longitude":-70.841395,
@@ -31,17 +32,26 @@
         "fence"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64WWwuxIQJ0KFI6NDWGL1H_41.966109_-70.841395@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731385,
-    "wof:geomhash":"fb2acebac4ff87c438cacedda04968ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ff8905e76a166d25077aec457fcbc3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523907,
+            "venue_id":672991981
+        }
+    ],
     "wof:id":672991981,
-    "wof:lastmodified":1472626204,
+    "wof:lastmodified":1492107200,
     "wof:name":"Plympton Rock Fence Co",
     "wof:parent_id":420523907,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.939153,42.249119,-71.939153,42.249119",
     "geom:latitude":42.249119,
     "geom:longitude":-71.939153,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Hy03gFCDNCUHZ2L7Gu6Pg_42.249119_-71.939153@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734238,
-    "wof:geomhash":"b9ba36c74a6d48eb74ee94d8a4a3e0ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"536cdb88d02e4932d1e3dbb1e4c30d71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":673122075
+        }
+    ],
     "wof:id":673122075,
-    "wof:lastmodified":1472625331,
+    "wof:lastmodified":1492104012,
     "wof:name":"Joseph, Hanna J",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

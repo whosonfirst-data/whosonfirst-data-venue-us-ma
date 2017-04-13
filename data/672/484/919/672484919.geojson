@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.406272,42.301378,-71.406272,42.301378",
     "geom:latitude":42.301378,
     "geom:longitude":-71.406272,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85891325,
+        102191575,
+        404476489,
         85633793,
-        85831225,
-        102084643
+        85950629,
+        102084643,
+        85688645,
+        85831225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461720074,
-    "wof:geomhash":"4c184f991f37e0e03f2e14f65401cee3",
+    "wof:geomhash":"1559ae01dbba05082348df66b9a2a921",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476489,
+            "locality_id":85950629,
+            "neighbourhood_id":85891325,
+            "region_id":85688645,
+            "venue_id":672484919
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -54,9 +69,9 @@
         }
     ],
     "wof:id":672484919,
-    "wof:lastmodified":1472625756,
+    "wof:lastmodified":1492110373,
     "wof:name":"Lander & Lander",
-    "wof:parent_id":85831225,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

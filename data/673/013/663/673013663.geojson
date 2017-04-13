@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.075593,41.655857,-71.075593,41.655857",
     "geom:latitude":41.655857,
     "geom:longitude":-71.075593,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BjQGKbnuijQ4mPlSSfTGd_41.655857_-71.075593@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731885,
-    "wof:geomhash":"56f2ff2f3717a6196974655628e8a629",
-    "wof:hierarchy":[],
+    "wof:geomhash":"304708c07ee81af497dc54faf83b5675",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":673013663
+        }
+    ],
     "wof:id":673013663,
-    "wof:lastmodified":1472624964,
+    "wof:lastmodified":1492103759,
     "wof:name":"Westport Tire Ctr",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

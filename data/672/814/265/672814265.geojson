@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.535846,42.669962,-72.535846,42.669962",
     "geom:latitude":42.669962,
     "geom:longitude":-72.535846,
@@ -32,17 +33,26 @@
         "taxation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gX59fNA8LIAs6dGWvbb56_42.669962_-72.535846@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727285,
-    "wof:geomhash":"805b750d0efaa7dfa4714be9145d916e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d92c888284cda896ded2f40b62bb59d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672814265
+        }
+    ],
     "wof:id":672814265,
-    "wof:lastmodified":1472626041,
+    "wof:lastmodified":1492118440,
     "wof:name":"Tax Collector",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

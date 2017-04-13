@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.50969,42.646365,-72.50969,42.646365",
     "geom:latitude":42.646365,
     "geom:longitude":-72.50969,
@@ -33,17 +34,26 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523521
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DESR0IpXPWzGuXda9lBcp_42.646365_-72.509690@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721630,
-    "wof:geomhash":"a25db70ad607160abe49a772c0fda301",
-    "wof:hierarchy":[],
+    "wof:geomhash":"377889db2328434b9de3bec70108fe5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523521,
+            "venue_id":672557313
+        }
+    ],
     "wof:id":672557313,
-    "wof:lastmodified":1472625816,
+    "wof:lastmodified":1492116383,
     "wof:name":"Hickory Hill Pet Care Ctr",
     "wof:parent_id":420523521,
     "wof:placetype":"venue",

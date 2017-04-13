@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.25274,42.32292,-71.25274,42.32292",
     "geom:latitude":42.32292,
     "geom:longitude":-71.25274,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891559,
+        85891557,
         102191575,
         404476601,
         85633793,
         85950847,
         102084403,
-        85688645
+        85688645,
+        85891559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461730629,
-    "wof:geomhash":"012b9701ddcc7311303851a0662f278f",
+    "wof:geomhash":"77e3b33a26c17618576549eb8c4d41fd",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476601,
+            "locality_id":85950847,
+            "neighbourhood_id":85891557,
+            "region_id":85688645,
+            "venue_id":672965661
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672965661,
-    "wof:lastmodified":1472626178,
+    "wof:lastmodified":1492117850,
     "wof:name":"Ardmore At Wellesey",
-    "wof:parent_id":85891559,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

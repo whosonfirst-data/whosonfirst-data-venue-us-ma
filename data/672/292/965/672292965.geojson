@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.408757,42.624879,-71.408757,42.624879",
     "geom:latitude":42.624879,
     "geom:longitude":-71.408757,
@@ -32,17 +33,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Zj3qMHlDSBMzAEpmMbU04_42.624879_-71.408757@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715464,
-    "wof:geomhash":"90b8fcc77c6c0550af880375979a088f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b39878de12fdc9a8b5ffb95122a8817",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672292965
+        }
+    ],
     "wof:id":672292965,
-    "wof:lastmodified":1472625484,
+    "wof:lastmodified":1492109897,
     "wof:name":"Hot Shoes Inc",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

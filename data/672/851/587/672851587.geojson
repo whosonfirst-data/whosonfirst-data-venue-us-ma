@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.928049,41.824247,-70.928049,41.824247",
     "geom:latitude":41.824247,
     "geom:longitude":-70.928049,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43tPv8UEMM1vDICECiP2jM_41.824247_-70.928049@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728024,
-    "wof:geomhash":"3fc261a11fd48cc7f1335ac5f23df1d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cff15f861bd366c2b81a3eeceba5483e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523945,
+            "venue_id":672851587
+        }
+    ],
     "wof:id":672851587,
-    "wof:lastmodified":1472626083,
+    "wof:lastmodified":1492119100,
     "wof:name":"Demo Trucking",
     "wof:parent_id":420523945,
     "wof:placetype":"venue",

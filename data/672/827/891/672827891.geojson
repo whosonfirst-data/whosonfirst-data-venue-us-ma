@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.769893,42.013737,-70.769893,42.013737",
     "geom:latitude":42.013737,
     "geom:longitude":-70.769893,
@@ -34,17 +35,26 @@
         "gymnasium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MqNawnUk85ehzut5TMShx_42.013737_-70.769893@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727561,
-    "wof:geomhash":"1c9b061e1db0de043b9f564f9a5b3342",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8947f3393a64aff6e39b5723367dc52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672827891
+        }
+    ],
     "wof:id":672827891,
-    "wof:lastmodified":1472626063,
+    "wof:lastmodified":1492118447,
     "wof:name":"USA Fitness Ctr",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.875642,42.276244,-70.875642,42.276244",
     "geom:latitude":42.276244,
     "geom:longitude":-70.875642,
@@ -32,9 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420523859,
         85688645,
         102191575,
-        85633793,
         85950453,
         102084367,
         85827977
@@ -45,8 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1461711110,
-    "wof:geomhash":"aba4fae40af21afb79080092bd9cd5db",
+    "wof:geomhash":"970c27ee666aab8048b20c46863b3fcb",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523859,
+            "venue_id":656357579
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +65,9 @@
         }
     ],
     "wof:id":656357579,
-    "wof:lastmodified":1472624929,
+    "wof:lastmodified":1492102326,
     "wof:name":"Pal To Pc's",
-    "wof:parent_id":85827977,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

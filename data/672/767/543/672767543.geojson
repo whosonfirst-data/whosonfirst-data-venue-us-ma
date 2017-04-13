@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.885272,41.640149,-70.885272,41.640149",
     "geom:latitude":41.640149,
     "geom:longitude":-70.885272,
@@ -29,17 +30,26 @@
     "sg:province":"MA",
     "sg:website":"www.mykmart.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bX6KpoiNCTqkI2KKAvudq_41.640149_-70.885272@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726319,
-    "wof:geomhash":"d6d44bd4a0d933970b88992f6bb84922",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9b0da1d5a9bd93bbcf12acd86e13f9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672767543
+        }
+    ],
     "wof:id":672767543,
-    "wof:lastmodified":1472625997,
+    "wof:lastmodified":1492110741,
     "wof:name":"Kmart",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

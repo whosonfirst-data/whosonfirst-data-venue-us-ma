@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.752391,41.927752,-70.752391,41.927752",
     "geom:latitude":41.927752,
     "geom:longitude":-70.752391,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g69pMNInIbmUuhKZMJwjE_41.927752_-70.752391@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727217,
-    "wof:geomhash":"4c0c8463f3b4ca7530e72459f269d0ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8feb9fb4dfc3d00494a30d565a53561c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672811163
+        }
+    ],
     "wof:id":672811163,
-    "wof:lastmodified":1472626035,
+    "wof:lastmodified":1492111720,
     "wof:name":"Open Door Church Of God",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.039291,42.535909,-71.039291,42.535909",
     "geom:latitude":42.535909,
     "geom:longitude":-71.039291,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475945,
+        85633793,
+        85950795,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZQPbX7rIDRA7w729L9JBu_42.535909_-71.039291@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717402,
-    "wof:geomhash":"cca07421734eacc11334e8b825d37b2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18238f0be11f645a967497a819f51a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404475945,
+            "locality_id":85950795,
+            "region_id":85688645,
+            "venue_id":672379145
+        }
+    ],
     "wof:id":672379145,
-    "wof:lastmodified":1472625647,
+    "wof:lastmodified":1492117288,
     "wof:name":"Northeast Medical Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

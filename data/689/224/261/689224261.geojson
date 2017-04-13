@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.127921,41.604569,-71.127921,41.604569",
     "geom:latitude":41.604569,
     "geom:longitude":-71.127921,
@@ -35,19 +36,28 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AMrOjcBfJjlKjg6RRKUOm_41.604569_-71.127921@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742576,
-    "wof:geomhash":"111e059add3281a80e95090db6903121",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e75aa2ad214908563e2c5554798ef14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":689224261
+        }
+    ],
     "wof:id":689224261,
-    "wof:lastmodified":1472625619,
+    "wof:lastmodified":1492097817,
     "wof:name":"Air Distribution Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

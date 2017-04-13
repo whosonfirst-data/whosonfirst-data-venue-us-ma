@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.047158,42.402494,-71.047158,42.402494",
     "geom:latitude":42.402494,
     "geom:longitude":-71.047158,
@@ -38,17 +39,34 @@
         "volunteer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476487,
+        85633793,
+        85950331,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iWqZNDo1wYhdIx9dJfsAp_42.402494_-71.047158@1303262220"
     },
     "wof:country":"US",
     "wof:created":1461739558,
-    "wof:geomhash":"1f4d711a1e8c59b277ebd3ee71f249dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96ce91f7cab0b8034bdea39ec8309164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476487,
+            "locality_id":85950331,
+            "region_id":85688645,
+            "venue_id":689107967
+        }
+    ],
     "wof:id":689107967,
-    "wof:lastmodified":1472625386,
+    "wof:lastmodified":1492098853,
     "wof:name":"Boston Hog Chapter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

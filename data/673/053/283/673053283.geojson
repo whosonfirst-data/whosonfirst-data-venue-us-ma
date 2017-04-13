@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.745204,42.038244,-70.745204,42.038244",
     "geom:latitude":42.038244,
     "geom:longitude":-70.745204,
@@ -31,17 +32,26 @@
         "labeling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IfdDiALAhiz2hahAVAbMw_42.038357_-70.745204@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732823,
-    "wof:geomhash":"4afb0de3febef38f76fa57239c71560a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca6b49bedb6be5a935360d9168f5a2ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":673053283
+        }
+    ],
     "wof:id":673053283,
-    "wof:lastmodified":1472625135,
+    "wof:lastmodified":1492105247,
     "wof:name":"Cardinal Health, Inc.",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

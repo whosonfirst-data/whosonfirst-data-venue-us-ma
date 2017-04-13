@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.900353,41.889327,-70.900353,41.889327",
     "geom:latitude":41.889327,
     "geom:longitude":-70.900353,
@@ -32,17 +33,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TSf0QaENRTuJJQnAgW9b4_41.889327_-70.900353@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730063,
-    "wof:geomhash":"946c154ad3b81774c348df4b297e7357",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f082d3556a2e53c8d2a40b6e20dc08ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672947689
+        }
+    ],
     "wof:id":672947689,
-    "wof:lastmodified":1472626164,
+    "wof:lastmodified":1492115140,
     "wof:name":"Valley Machine",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

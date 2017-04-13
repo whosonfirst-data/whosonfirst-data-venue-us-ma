@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.86826,41.747895,-70.86826,41.747895",
     "geom:latitude":41.747895,
     "geom:longitude":-70.86826,
@@ -34,17 +35,32 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476563,
+        85633793,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EoOa0VJIfDc7xpc8VA2by_41.747895_-70.868260@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742493,
-    "wof:geomhash":"3d93b7478b2af34e244afc48de0e2a87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"295fbb8ce2add0c51e063694734b8dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476563,
+            "region_id":85688645,
+            "venue_id":689220843
+        }
+    ],
     "wof:id":689220843,
-    "wof:lastmodified":1472625626,
+    "wof:lastmodified":1492098351,
     "wof:name":"The Custom Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

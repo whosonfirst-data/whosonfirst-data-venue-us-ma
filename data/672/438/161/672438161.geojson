@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.11489,42.618914,-73.11489,42.618914",
     "geom:latitude":42.618914,
     "geom:longitude":-73.11489,
@@ -31,17 +32,26 @@
         "waste"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CB9bkVbLwzXbgdO62I3pq_42.618914_-73.114890@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718858,
-    "wof:geomhash":"c83b844188ca04a658a5a99348811c9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6135d634756edc421f3052c1450e43b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672438161
+        }
+    ],
     "wof:id":672438161,
-    "wof:lastmodified":1472625699,
+    "wof:lastmodified":1492112315,
     "wof:name":"Northern Berkshire Solid Waste",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.738254,41.727244,-70.738254,41.727244",
     "geom:latitude":41.727244,
     "geom:longitude":-70.738254,
@@ -32,17 +33,26 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qUGr4ThyaCGBvVeBa40ZK_41.727244_-70.738254@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725054,
-    "wof:geomhash":"5ab1a9db58b773407214f068ef9bfa1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85d67c541c8b0988a2599cf349e4b139",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523897,
+            "venue_id":672708727
+        }
+    ],
     "wof:id":672708727,
-    "wof:lastmodified":1472625955,
+    "wof:lastmodified":1492107078,
     "wof:name":"Menard Landscape Design",
     "wof:parent_id":420523897,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.609,41.6606,-70.609,41.6606",
     "geom:latitude":41.6606,
     "geom:longitude":-70.609,
@@ -37,17 +38,26 @@
     ],
     "sg:website":"www.capecoddancecenter.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DoASTlmYI0iII0lHPSSBV_41.660600_-70.609000@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741877,
-    "wof:geomhash":"319fafe0f8b9e2d689cd04dee87dfcc5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04bf7f31a8ac9c91373dc1963edd0286",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523215,
+            "venue_id":689191739
+        }
+    ],
     "wof:id":689191739,
-    "wof:lastmodified":1472625597,
+    "wof:lastmodified":1492100253,
     "wof:name":"Cape Cod Dance Center",
     "wof:parent_id":420523215,
     "wof:placetype":"venue",

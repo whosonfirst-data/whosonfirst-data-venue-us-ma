@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.153401,42.706478,-71.153401,42.706478",
     "geom:latitude":42.706478,
     "geom:longitude":-71.153401,
@@ -38,7 +39,8 @@
         85633793,
         85950415,
         102084463,
-        85688645
+        85688645,
+        85849813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461730800,
-    "wof:geomhash":"b8c9d7ece664a040ac6993adb3cae537",
+    "wof:geomhash":"9d005b70590435ea4e0dc3db2362720c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":420523419,
             "region_id":85688645,
             "venue_id":672971659
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476205,
+            "locality_id":85950415,
+            "neighbourhood_id":85849813,
+            "region_id":85688645,
+            "venue_id":672971659
         }
     ],
     "wof:id":672971659,
-    "wof:lastmodified":1472626184,
+    "wof:lastmodified":1492105878,
     "wof:name":"USA Datanet Corp",
-    "wof:parent_id":420523419,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

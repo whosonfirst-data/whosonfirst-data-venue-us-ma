@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.765596,41.967204,-70.765596,41.967204",
     "geom:latitude":41.967204,
     "geom:longitude":-70.765596,
@@ -31,17 +32,26 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rlHg8OaGPnCc2A33Tieo3_41.967204_-70.765596@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725185,
-    "wof:geomhash":"973187bc72c2597a5cb8c2eea9979275",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c43229943209c5549727841ea2038e82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672714947
+        }
+    ],
     "wof:id":672714947,
-    "wof:lastmodified":1472625964,
+    "wof:lastmodified":1492118054,
     "wof:name":"Gregory Fairbanks Fairbanks",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

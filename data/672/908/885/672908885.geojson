@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.704725,41.926326,-70.704725,41.926326",
     "geom:latitude":41.926326,
     "geom:longitude":-70.704725,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53FpdSwAkHVGfKDfDnjfmj_41.926326_-70.704725@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729212,
-    "wof:geomhash":"50ba4b901a432b8298b44d3ab4e895fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3035191f0b71746a710f67815548745",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672908885
+        }
+    ],
     "wof:id":672908885,
-    "wof:lastmodified":1472626133,
+    "wof:lastmodified":1492107026,
     "wof:name":"At Your Svc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

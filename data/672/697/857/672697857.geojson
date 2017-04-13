@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.702104,41.930841,-70.702104,41.930841",
     "geom:latitude":41.930841,
     "geom:longitude":-70.702104,
@@ -33,17 +34,26 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74D99Q2ocfLwviayKgKJVo_41.930841_-70.702104@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724814,
-    "wof:geomhash":"c232b09160b45e9bbe3e908eb4ab48c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df6690293718292f6ca6964ba0994b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672697857
+        }
+    ],
     "wof:id":672697857,
-    "wof:lastmodified":1472625950,
+    "wof:lastmodified":1492116973,
     "wof:name":"Allen Auto Glass",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.391971,42.607986,-71.391971,42.607986",
     "geom:latitude":42.607986,
     "geom:longitude":-71.391971,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WIvtkRBosHMD8qmnfaI6t_42.607986_-71.391971@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735142,
-    "wof:geomhash":"6f6f155832e51f3dafd9de29e791269c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5239a681d22f91fa98de1f2072bbfd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":673166131
+        }
+    ],
     "wof:id":673166131,
-    "wof:lastmodified":1472625451,
+    "wof:lastmodified":1492102500,
     "wof:name":"Painters Collaborative",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.820793,42.01302,-70.820793,42.01302",
     "geom:latitude":42.01302,
     "geom:longitude":-70.820793,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NK6adDZWaqbuhi9a0f5N6_42.013020_-70.820793@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741028,
-    "wof:geomhash":"2fd39c203bf2672cd6fde87f7269de59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fa6230d90731cc8fe947e2c42e398d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689153765
+        }
+    ],
     "wof:id":689153765,
-    "wof:lastmodified":1472625514,
+    "wof:lastmodified":1492097470,
     "wof:name":"Richard Merry Excavating",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

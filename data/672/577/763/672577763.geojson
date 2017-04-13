@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.147341,42.510147,-71.147341,42.510147",
     "geom:latitude":42.510147,
     "geom:longitude":-71.147341,
@@ -33,16 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850215,
+        85838185,
         102191575,
-        404476021,
+        404476469,
         85633793,
-        85950663,
+        85950353,
         102084643,
         85688645,
-        85838185,
-        404476469,
-        85950353
+        85850215,
+        404476021,
+        85950663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,18 +51,8 @@
     },
     "wof:country":"US",
     "wof:created":1461722073,
-    "wof:geomhash":"6d88f6cd5863faf6caf0c49d94505078",
+    "wof:geomhash":"aa77a0180786d39b149d313f1bbf8693",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476021,
-            "locality_id":85950663,
-            "neighbourhood_id":85850215,
-            "region_id":85688645,
-            "venue_id":672577763
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -71,12 +62,22 @@
             "neighbourhood_id":85838185,
             "region_id":85688645,
             "venue_id":672577763
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476021,
+            "locality_id":85950663,
+            "neighbourhood_id":85850215,
+            "region_id":85688645,
+            "venue_id":672577763
         }
     ],
     "wof:id":672577763,
-    "wof:lastmodified":1472625839,
+    "wof:lastmodified":1492109913,
     "wof:name":"Distribu Tech",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

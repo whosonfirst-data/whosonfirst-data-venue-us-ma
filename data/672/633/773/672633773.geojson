@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.128268,41.63833,-71.128268,41.63833",
     "geom:latitude":41.63833,
     "geom:longitude":-71.128268,
@@ -31,19 +32,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1s0y0oi90aAF6290ggkLMi_41.638330_-71.128268@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723367,
-    "wof:geomhash":"2fa527765b64526a73362efcfd1135a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6200db3f2c04c4720d7752b9d56f0f02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":672633773
+        }
+    ],
     "wof:id":672633773,
-    "wof:lastmodified":1472625887,
+    "wof:lastmodified":1492112466,
     "wof:name":"Sikora Roofing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

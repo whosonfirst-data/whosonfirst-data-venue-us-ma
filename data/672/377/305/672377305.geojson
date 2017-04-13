@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.011829,41.951104,-71.011829,41.951104",
     "geom:latitude":41.951104,
     "geom:longitude":-71.011829,
@@ -33,17 +34,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fGFVuA6PBR5B742cPtiBX_41.951104_-71.011829@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717368,
-    "wof:geomhash":"94672518306500a1bd6eb2961744bd86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e3eb620193f5f7e05eb1dc0b3ff6eac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672377305
+        }
+    ],
     "wof:id":672377305,
-    "wof:lastmodified":1472625647,
+    "wof:lastmodified":1492107578,
     "wof:name":"A & A Security",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.91296,41.716769,-70.91296,41.716769",
     "geom:latitude":41.716769,
     "geom:longitude":-70.91296,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NVDJa0UXCNNDXtGuVi5l8_41.716769_-70.912960@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724607,
-    "wof:geomhash":"ec3fec2ceaf7246f716180b8b817beea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f98764b7a17f09e42fcdeed16d7cdbfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":672688679
+        }
+    ],
     "wof:id":672688679,
-    "wof:lastmodified":1472625936,
+    "wof:lastmodified":1492117920,
     "wof:name":"Apponagansett Bay Assoc",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

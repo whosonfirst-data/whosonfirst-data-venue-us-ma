@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.974589,42.434992,-70.974589,42.434992",
     "geom:latitude":42.434992,
     "geom:longitude":-70.974589,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842539,
+        85838779,
         102191575,
         404476577,
         85633793,
         85950357,
         102084423,
-        85688645
+        85688645,
+        85842539
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461729387,
-    "wof:geomhash":"55588eef7bdfe10e3ec0c5a398eb55c3",
+    "wof:geomhash":"44f1ee9aafac67ca9f2994732234dd4c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476577,
+            "locality_id":85950357,
+            "neighbourhood_id":85838779,
+            "region_id":85688645,
+            "venue_id":672917459
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":672917459,
-    "wof:lastmodified":1472626133,
+    "wof:lastmodified":1492107740,
     "wof:name":"Dennis J Tarentino Inc",
-    "wof:parent_id":85842539,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

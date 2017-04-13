@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.549397,42.163677,-71.549397,42.163677",
     "geom:latitude":42.163677,
     "geom:longitude":-71.549397,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"US",
     "wof:created":1461717329,
-    "wof:geomhash":"a9f6d3224ecee41ff04c44205d53334c",
+    "wof:geomhash":"62ab9d09af7f8809bc467bb8af2262fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672375279
         }
     ],
     "wof:id":672375279,
-    "wof:lastmodified":1472625645,
+    "wof:lastmodified":1492107147,
     "wof:name":"Graphic Innovations",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

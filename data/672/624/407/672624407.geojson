@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.435356,42.250029,-72.435356,42.250029",
     "geom:latitude":42.250029,
     "geom:longitude":-72.435356,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67kaPMe9teq79PYmuKWxVl_42.250029_-72.435356@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723163,
-    "wof:geomhash":"cf3ab7890c6380f70c8028632b3d913c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49f4a9832834a4dcc44d55d081bb1cbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672624407
+        }
+    ],
     "wof:id":672624407,
-    "wof:lastmodified":1472625874,
+    "wof:lastmodified":1492109406,
     "wof:name":"Residential Builders",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

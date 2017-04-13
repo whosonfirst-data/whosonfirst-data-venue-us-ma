@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.86002,42.350789,-71.86002,42.350789",
     "geom:latitude":42.350789,
     "geom:longitude":-71.86002,
@@ -32,17 +33,26 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78TeZmTprUFdoqEdllGb9a_42.350789_-71.860020@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732207,
-    "wof:geomhash":"77e673cfe590197ce88c042632ce2ee0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e381b8753c4902cd261e1313bb4e3da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":673026045
+        }
+    ],
     "wof:id":673026045,
-    "wof:lastmodified":1472624987,
+    "wof:lastmodified":1492102514,
     "wof:name":"Wachusett Home Improvement",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.089715,41.580287,-71.089715,41.580287",
     "geom:latitude":41.580287,
     "geom:longitude":-71.089715,
@@ -33,17 +34,26 @@
         "alternative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OAsfd7e8hOQ15XwKC5Ymt_41.580287_-71.089715@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742576,
-    "wof:geomhash":"8d727b57594d8246bab92d83c0bcf91a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a217658c9a6fa1cec8d420aba2d15ca1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":689224251
+        }
+    ],
     "wof:id":689224251,
-    "wof:lastmodified":1472625614,
+    "wof:lastmodified":1492097808,
     "wof:name":"Acupuncture",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

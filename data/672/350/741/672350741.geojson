@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.528942,42.666151,-72.528942,42.666151",
     "geom:latitude":42.666151,
     "geom:longitude":-72.528942,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iAzvysS4ro53R0BGbYyag_42.666151_-72.528942@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716771,
-    "wof:geomhash":"7d15838d3ba69bade3a272ae4bd8bd85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"924cbe1921459bd4a4a6bb1dbdc89141",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672350741
+        }
+    ],
     "wof:id":672350741,
-    "wof:lastmodified":1472625614,
+    "wof:lastmodified":1492111232,
     "wof:name":"Miltons Htg & Consulting Svcs",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

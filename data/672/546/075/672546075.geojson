@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.939999,42.731392,-70.939999,42.731392",
     "geom:latitude":42.731392,
     "geom:longitude":-70.939999,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85830223,
-        102084463
+        102084463,
+        420523475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721382,
-    "wof:geomhash":"13fbcfbd718697d459f6a2360d3dd676",
+    "wof:geomhash":"5b2de2e9a48ad3cd06e25329dd6f6ae3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,17 @@
             "neighbourhood_id":85830223,
             "region_id":85688645,
             "venue_id":672546075
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672546075
         }
     ],
     "wof:id":672546075,
-    "wof:lastmodified":1472625801,
+    "wof:lastmodified":1492108053,
     "wof:name":"Mary Katis Counseling Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

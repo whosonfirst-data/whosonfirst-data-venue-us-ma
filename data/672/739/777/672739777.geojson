@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.869725,41.703823,-70.869725,41.703823",
     "geom:latitude":41.703823,
     "geom:longitude":-70.869725,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JEeQ3gY5beWYFCpchH7Zn_41.703823_-70.869725@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725727,
-    "wof:geomhash":"846cb7f2e0ecba41a4764ae5f92a0e16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d9db746c58a63be090249525a285b52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672739777
+        }
+    ],
     "wof:id":672739777,
-    "wof:lastmodified":1472625978,
+    "wof:lastmodified":1492110892,
     "wof:name":"All Phase Plumbing & Drain",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

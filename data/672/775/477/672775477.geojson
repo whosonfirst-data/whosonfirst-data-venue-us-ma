@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.915947,42.201463,-71.915947,42.201463",
     "geom:latitude":42.201463,
     "geom:longitude":-71.915947,
@@ -33,17 +34,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5p2yUdWIpn0e9S5t8jL4JH_42.201463_-71.915947@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726489,
-    "wof:geomhash":"69f9b8b3ed9cbc374d9c9670864b092f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bb31d7a477b03c99b1388eb85ccd9bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":672775477
+        }
+    ],
     "wof:id":672775477,
-    "wof:lastmodified":1472626011,
+    "wof:lastmodified":1492110711,
     "wof:name":"Ed's Rubbish Removal",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

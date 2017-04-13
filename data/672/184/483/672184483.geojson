@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.242654,42.554426,-71.242654,42.554426",
     "geom:latitude":42.554426,
     "geom:longitude":-71.242654,
@@ -38,7 +39,8 @@
         85633793,
         85950647,
         102084643,
-        85688645
+        85688645,
+        85815967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461713213,
-    "wof:geomhash":"0cb0abfd71251f9020c23759ab0a6c8a",
+    "wof:geomhash":"955c6342c5e2beb2d894deccd6e3eb85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,19 @@
             "neighbourhood_id":85852101,
             "region_id":85688645,
             "venue_id":672184483
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85815967,
+            "region_id":85688645,
+            "venue_id":672184483
         }
     ],
     "wof:id":672184483,
-    "wof:lastmodified":1472625119,
+    "wof:lastmodified":1492113991,
     "wof:name":"Gillis Contracting",
-    "wof:parent_id":85852101,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

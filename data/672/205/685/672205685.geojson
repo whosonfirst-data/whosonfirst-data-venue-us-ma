@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.793291,42.230411,-71.793291,42.230411",
     "geom:latitude":42.230411,
     "geom:longitude":-71.793291,
@@ -39,7 +40,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85832869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461713688,
-    "wof:geomhash":"8cd78e85a34790c3e3bd1b6f4a2491ae",
+    "wof:geomhash":"8506544f45b218a5ab836a7ff3b0a135",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,22 @@
             "neighbourhood_id":420524213,
             "region_id":85688645,
             "venue_id":672205685
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85832869,
+            "region_id":85688645,
+            "venue_id":672205685
         }
     ],
     "wof:id":672205685,
-    "wof:lastmodified":1472625216,
+    "wof:lastmodified":1492112568,
     "wof:name":"Bethlehem Covenant Church",
-    "wof:parent_id":420524213,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

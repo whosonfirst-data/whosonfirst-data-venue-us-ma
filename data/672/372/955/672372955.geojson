@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.98631,41.670518,-70.98631,41.670518",
     "geom:latitude":41.670518,
     "geom:longitude":-70.98631,
@@ -31,17 +32,26 @@
         "shelter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5acPqmQjM93l4DIF5BTDKj_41.670518_-70.986310@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717274,
-    "wof:geomhash":"ba228d7f70d33efee5256a831046ee2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fafc5dea599cd50f1aef70029357904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523377,
+            "venue_id":672372955
+        }
+    ],
     "wof:id":672372955,
-    "wof:lastmodified":1472625646,
+    "wof:lastmodified":1492110473,
     "wof:name":"Animal Rescue League",
     "wof:parent_id":420523377,
     "wof:placetype":"venue",

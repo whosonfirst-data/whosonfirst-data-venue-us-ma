@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.708434,42.234306,-71.708434,42.234306",
     "geom:latitude":42.234306,
     "geom:longitude":-71.708434,
@@ -31,17 +32,26 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5o0ZqrtjiJYokZBTElbNUI_42.234306_-71.708434@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728673,
-    "wof:geomhash":"dfff29be8a51c00470c31def8378bce5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c69457300f6f2fed91eea77c6aa8886",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":672882341
+        }
+    ],
     "wof:id":672882341,
-    "wof:lastmodified":1472626101,
+    "wof:lastmodified":1492111335,
     "wof:name":"North Main Street Antiques",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

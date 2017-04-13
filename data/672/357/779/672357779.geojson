@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.883548,42.043353,-70.883548,42.043353",
     "geom:latitude":42.043353,
     "geom:longitude":-70.883548,
@@ -31,17 +32,26 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UQkv6anlEOBGOKx5bsAQC_42.043353_-70.883548@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716926,
-    "wof:geomhash":"937a387a0ff2b3f3763cf09f82474750",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73d7077ffefad04013c1d2f7da38492c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":672357779
+        }
+    ],
     "wof:id":672357779,
-    "wof:lastmodified":1472625626,
+    "wof:lastmodified":1492119571,
     "wof:name":"Laser Resource",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

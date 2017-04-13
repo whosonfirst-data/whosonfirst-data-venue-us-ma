@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.96488,42.255133,-71.96488,42.255133",
     "geom:latitude":42.255133,
     "geom:longitude":-71.96488,
@@ -33,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420524201,
+        85688645,
         85950749,
         102084655,
         85848639
@@ -45,8 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1461716604,
-    "wof:geomhash":"1c68b2e01d308735a24622c09ad1052f",
+    "wof:geomhash":"393b13f4974fbff69053195d5098fd9e",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524201,
+            "venue_id":672344831
+        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -57,9 +64,9 @@
         }
     ],
     "wof:id":672344831,
-    "wof:lastmodified":1472625584,
+    "wof:lastmodified":1492116105,
     "wof:name":"Laney's",
-    "wof:parent_id":85848639,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.90248,41.896277,-70.90248,41.896277",
     "geom:latitude":41.896277,
     "geom:longitude":-70.90248,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bzqJWyJGuOB7PHFpm0nbl_41.896277_-70.902480@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722490,
-    "wof:geomhash":"1435856bb5951d490ef601259f34d733",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ac75ba5191cfc63a7bf036a50e81550",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672595745
+        }
+    ],
     "wof:id":672595745,
-    "wof:lastmodified":1472625850,
+    "wof:lastmodified":1492115328,
     "wof:name":"Vozzella Sonny",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

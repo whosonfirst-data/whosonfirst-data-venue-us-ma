@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.952257,42.616259,-70.952257,42.616259",
     "geom:latitude":42.616259,
     "geom:longitude":-70.952257,
@@ -33,7 +34,12 @@
         85633793,
         85950789,
         102084463,
-        85843319
+        85843319,
+        85828503,
+        102191575,
+        404476267,
+        85950813,
+        85834005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721157,
-    "wof:geomhash":"d91d83a4819d822a3796042c33bd1d83",
+    "wof:geomhash":"40c2f220b6f93fa223bf8e33f750a7be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +56,29 @@
             "neighbourhood_id":85843319,
             "region_id":85688645,
             "venue_id":672534665
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476267,
+            "locality_id":85950813,
+            "neighbourhood_id":85828503,
+            "region_id":85688645,
+            "venue_id":672534665
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85834005,
+            "region_id":85688645,
+            "venue_id":672534665
         }
     ],
     "wof:id":672534665,
-    "wof:lastmodified":1472625783,
+    "wof:lastmodified":1492117877,
     "wof:name":"Cheever Associates",
-    "wof:parent_id":85843319,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

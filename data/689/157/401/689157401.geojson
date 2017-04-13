@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.71785,41.898884,-70.71785,41.898884",
     "geom:latitude":41.898884,
     "geom:longitude":-70.71785,
@@ -36,17 +37,26 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aCx1RwxokseLLNhvgwPL9_41.898884_-70.717850@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741120,
-    "wof:geomhash":"0f2c61039e01b9bb95ce95071570cbac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f905cf68563f03f817f53c52638a0357",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689157401
+        }
+    ],
     "wof:id":689157401,
-    "wof:lastmodified":1472625517,
+    "wof:lastmodified":1492099694,
     "wof:name":"Cafe Olio",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

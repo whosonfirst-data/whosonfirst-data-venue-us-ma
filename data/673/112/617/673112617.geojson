@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.561874,42.657755,-72.561874,42.657755",
     "geom:latitude":42.657755,
     "geom:longitude":-72.561874,
@@ -31,17 +32,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Q1bgq7DBfRvzmdCTQopEV_42.657755_-72.561874@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734031,
-    "wof:geomhash":"d47c12b8040b976c8d925da5d4b8b9e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29c7727c46458c766fb22d2445697c7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":673112617
+        }
+    ],
     "wof:id":673112617,
-    "wof:lastmodified":1472625316,
+    "wof:lastmodified":1492103743,
     "wof:name":"Bernardston Package",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

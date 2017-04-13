@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.701413,41.98401,-70.701413,41.98401",
     "geom:latitude":41.98401,
     "geom:longitude":-70.701413,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85828453,
         102191575,
+        404476039,
         85633793,
-        85950473,
+        85950455,
         102084367,
+        85688645,
+        85950473,
         85812279
     ],
     "wof:breaches":[],
@@ -46,8 +50,18 @@
     },
     "wof:country":"US",
     "wof:created":1461713083,
-    "wof:geomhash":"3d64c66a2937946bf4b0df8eb41013d7",
+    "wof:geomhash":"836494e95de2e84deb5096228e028d92",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476039,
+            "locality_id":85950455,
+            "neighbourhood_id":85828453,
+            "region_id":85688645,
+            "venue_id":672178511
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +73,9 @@
         }
     ],
     "wof:id":672178511,
-    "wof:lastmodified":1472625088,
+    "wof:lastmodified":1492108925,
     "wof:name":"Main Street Svc Ctr",
-    "wof:parent_id":85812279,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

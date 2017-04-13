@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.086752,41.598869,-71.086752,41.598869",
     "geom:latitude":41.598869,
     "geom:longitude":-71.086752,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ubl8Fp2UIcZ8XcmTq8FXe_41.598869_-71.086752@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728079,
-    "wof:geomhash":"b7a107d7dd19ccf2c28ef31f7747d8d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b27b7f235fc7ef6f3a5a84dbb0ae4e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672854495
+        }
+    ],
     "wof:id":672854495,
-    "wof:lastmodified":1472626084,
+    "wof:lastmodified":1492116726,
     "wof:name":"Wilfrid's Garage",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

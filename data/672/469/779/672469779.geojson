@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.934623,42.371926,-71.934623,42.371926",
     "geom:latitude":42.371926,
     "geom:longitude":-71.934623,
@@ -31,17 +32,26 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59cBCVu3jiMz3BgJZDapGM_42.371926_-71.934623@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719685,
-    "wof:geomhash":"92d725518e1be1849791dacfc5ab80eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a7b92a6b53fdf155f2142831162613f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524223,
+            "venue_id":672469779
+        }
+    ],
     "wof:id":672469779,
-    "wof:lastmodified":1472625738,
+    "wof:lastmodified":1492119730,
     "wof:name":"Premier Travel",
     "wof:parent_id":420524223,
     "wof:placetype":"venue",

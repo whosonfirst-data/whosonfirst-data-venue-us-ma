@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.370339,42.612959,-71.370339,42.612959",
     "geom:latitude":42.612959,
     "geom:longitude":-71.370339,
@@ -33,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523711,
+        85688645,
         85856991,
         102084643
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461717074,
-    "wof:geomhash":"9b5343f89fa52403ebe3bc0e047579aa",
+    "wof:geomhash":"9789b897f1c2c390031603395e82bfd9",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672364109
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":672364109,
-    "wof:lastmodified":1472625633,
+    "wof:lastmodified":1492108286,
     "wof:name":"Charles Zaher Co",
-    "wof:parent_id":85856991,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

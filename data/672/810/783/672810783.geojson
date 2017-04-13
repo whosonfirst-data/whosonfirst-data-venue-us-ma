@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.908129,41.893006,-70.908129,41.893006",
     "geom:latitude":41.893006,
     "geom:longitude":-70.908129,
@@ -32,17 +33,26 @@
         "driving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31IBCW4ZhLzkhXYf0raKNe_41.893006_-70.908129@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727208,
-    "wof:geomhash":"098d1c19b5912259b7db74cbc78713a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18d89c92062ebfc270be2d73898bb564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672810783
+        }
+    ],
     "wof:id":672810783,
-    "wof:lastmodified":1472626045,
+    "wof:lastmodified":1492119225,
     "wof:name":"F H Pro Driving School",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

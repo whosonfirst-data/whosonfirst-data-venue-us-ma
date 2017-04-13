@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.112272,41.625641,-71.112272,41.625641",
     "geom:latitude":41.625641,
     "geom:longitude":-71.112272,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YyPaw0LTQWhktHRolqmoi_41.625641_-71.112272@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717211,
-    "wof:geomhash":"620c248b6a4c760b91f5ea20ced334d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"879852ae3a88ad4ee01622e516b713fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672370357
+        }
+    ],
     "wof:id":672370357,
-    "wof:lastmodified":1472625642,
+    "wof:lastmodified":1492107332,
     "wof:name":"J C & Son Plumbing & Heating",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

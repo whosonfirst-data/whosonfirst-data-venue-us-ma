@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.687004,41.972337,-70.687004,41.972337",
     "geom:latitude":41.972337,
     "geom:longitude":-70.687004,
@@ -32,17 +33,32 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        85633793,
+        85950473,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RBjUmq5Vk4OWXGkMmQe6X_41.972400_-70.686970@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732862,
-    "wof:geomhash":"17a67e9cef57b69ae34546e7956e8ca9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4823bf141855697e9ad7120f3224b779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950473,
+            "region_id":85688645,
+            "venue_id":673055207
+        }
+    ],
     "wof:id":673055207,
-    "wof:lastmodified":1472625127,
+    "wof:lastmodified":1492104719,
     "wof:name":"Archiplicity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

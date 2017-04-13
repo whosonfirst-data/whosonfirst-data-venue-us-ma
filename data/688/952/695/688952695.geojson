@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.103249,42.141861,-71.103249,42.141861",
     "geom:latitude":42.141861,
     "geom:longitude":-71.103249,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DhpfrcUfIUwg4fc9HCak8_42.141861_-71.103249@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736303,
-    "wof:geomhash":"85dc2b5e311093fc94b4bca8afd5914b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27e4d58550fd85037389c10ec96dcfc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688952695
+        }
+    ],
     "wof:id":688952695,
-    "wof:lastmodified":1472625158,
+    "wof:lastmodified":1492120333,
     "wof:name":"Mass Bay Electrical Corp",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

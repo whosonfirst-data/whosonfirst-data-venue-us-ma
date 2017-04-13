@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.825522,42.259429,-70.825522,42.259429",
     "geom:latitude":42.259429,
     "geom:longitude":-70.825522,
@@ -32,17 +33,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523765
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13kmaHUNfq6Yx0jO7hZPer_42.259429_-70.825522@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712135,
-    "wof:geomhash":"5999c5abf3ddc69375b0175330929377",
-    "wof:hierarchy":[],
+    "wof:geomhash":"862ccc43ad0784990538d41b5f855409",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523765,
+            "venue_id":656406215
+        }
+    ],
     "wof:id":656406215,
-    "wof:lastmodified":1472625068,
+    "wof:lastmodified":1492101555,
     "wof:name":"Favours Internationale",
     "wof:parent_id":420523765,
     "wof:placetype":"venue",

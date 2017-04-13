@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.180274,42.398322,-71.180274,42.398322",
     "geom:latitude":42.398322,
     "geom:longitude":-71.180274,
@@ -39,7 +40,8 @@
         85633793,
         85950617,
         102084643,
-        85688645
+        85688645,
+        85891237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721026,
-    "wof:geomhash":"72dfb1f8d2011f9374f20cd82d074e47",
+    "wof:geomhash":"ba4fda4b029d26ffd8270d9523c62f8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,22 @@
             "neighbourhood_id":85891235,
             "region_id":85688645,
             "venue_id":672528415
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404475999,
+            "locality_id":85950617,
+            "neighbourhood_id":85891237,
+            "region_id":85688645,
+            "venue_id":672528415
         }
     ],
     "wof:id":672528415,
-    "wof:lastmodified":1472625785,
+    "wof:lastmodified":1492109056,
     "wof:name":"Merrimack Films",
-    "wof:parent_id":85891235,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

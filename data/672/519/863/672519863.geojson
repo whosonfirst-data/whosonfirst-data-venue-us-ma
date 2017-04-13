@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.622564,41.620851,-70.622564,41.620851",
     "geom:latitude":41.620851,
     "geom:longitude":-70.622564,
@@ -32,17 +33,26 @@
         "thrift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bcuJxABJ2GUxWYcJcogIJ_41.620851_-70.622564@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720830,
-    "wof:geomhash":"1f100a75f9259bb131a62646e695a16b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d31159e7c281b08c9b9a43e1fe7a132",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672519863
+        }
+    ],
     "wof:id":672519863,
-    "wof:lastmodified":1472625795,
+    "wof:lastmodified":1492116600,
     "wof:name":"North Falmouth Congrgtnl Shop",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

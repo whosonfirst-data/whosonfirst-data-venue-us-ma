@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.179223,41.949063,-71.179223,41.949063",
     "geom:latitude":41.949063,
     "geom:longitude":-71.179223,
@@ -31,17 +32,26 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523303
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5L3AHzgV5a6dFUsGyjddHu_41.949063_-71.179223@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724462,
-    "wof:geomhash":"f87a5316e46c817ab7632be354598f0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3c8f78ed156a50ca5316d6eabce2223",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523303,
+            "venue_id":672682937
+        }
+    ],
     "wof:id":672682937,
-    "wof:lastmodified":1472625935,
+    "wof:lastmodified":1492106466,
     "wof:name":"Elim Housing For The Elderly",
     "wof:parent_id":420523303,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.043325,42.597948,-73.043325,42.597948",
     "geom:latitude":42.597948,
     "geom:longitude":-73.043325,
@@ -32,17 +33,26 @@
         "plastic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RroT8oAvFYijzGpDjkCKH_42.597948_-73.043325@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726541,
-    "wof:geomhash":"d4e0762ddf446141d649d6026fdbc547",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59f5c1a2d9955d226e564ab70588f8a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523243,
+            "venue_id":672778111
+        }
+    ],
     "wof:id":672778111,
-    "wof:lastmodified":1472626007,
+    "wof:lastmodified":1492113393,
     "wof:name":"Sumitomo Plastics Machinery",
     "wof:parent_id":420523243,
     "wof:placetype":"venue",

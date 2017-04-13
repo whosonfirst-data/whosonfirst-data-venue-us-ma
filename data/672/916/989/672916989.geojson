@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.819771,42.174344,-71.819771,42.174344",
     "geom:latitude":42.174344,
     "geom:longitude":-71.819771,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7liDoxw3iDe2apcUrwxBnw_42.174344_-71.819771@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729373,
-    "wof:geomhash":"c54a4546a26b92276a32cac555d09310",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1d60b04f5ed7362e138bb57c565881e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672916989
+        }
+    ],
     "wof:id":672916989,
-    "wof:lastmodified":1472626139,
+    "wof:lastmodified":1492111574,
     "wof:name":"Steven Couture",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

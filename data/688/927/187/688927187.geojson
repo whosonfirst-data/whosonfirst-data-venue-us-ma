@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.908363,42.82037,-70.908363,42.82037",
     "geom:latitude":42.82037,
     "geom:longitude":-70.908363,
@@ -32,16 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891463,
+        85846803,
         102191575,
-        404476251,
+        404476283,
         85633793,
-        85950409,
+        85950401,
         102084463,
         85688645,
-        85846803,
-        404476283,
-        85950401
+        85891463,
+        404476251,
+        85950409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,18 +50,8 @@
     },
     "wof:country":"US",
     "wof:created":1461735796,
-    "wof:geomhash":"cd3affb2ec7d0945b6aecc373b409a49",
+    "wof:geomhash":"05583b0aa259e699bc1770a216711f4c",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476251,
-            "locality_id":85950409,
-            "neighbourhood_id":85891463,
-            "region_id":85688645,
-            "venue_id":688927187
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -70,12 +61,22 @@
             "neighbourhood_id":85846803,
             "region_id":85688645,
             "venue_id":688927187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476251,
+            "locality_id":85950409,
+            "neighbourhood_id":85891463,
+            "region_id":85688645,
+            "venue_id":688927187
         }
     ],
     "wof:id":688927187,
-    "wof:lastmodified":1472624991,
+    "wof:lastmodified":1492119885,
     "wof:name":"Village Pet Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

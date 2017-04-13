@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.506643,41.681823,-70.506643,41.681823",
     "geom:latitude":41.681823,
     "geom:longitude":-70.506643,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EoaQC1ZXzkGpiCQI5lCbc_41.681823_-70.506643@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461710989,
-    "wof:geomhash":"8a628dde1b5f6a39dbb7d449049838d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91c8f4463eecfdd54883348f8bf06f2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":656351563
+        }
+    ],
     "wof:id":656351563,
-    "wof:lastmodified":1472624910,
+    "wof:lastmodified":1492102025,
     "wof:name":"Underground Utilities Inc",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.220434,41.760469,-71.220434,41.760469",
     "geom:latitude":41.760469,
     "geom:longitude":-71.220434,
@@ -31,17 +32,26 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X0c6soOJgW6gAPeeb9DIH_41.760469_-71.220434@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742529,
-    "wof:geomhash":"957fb3027c4f08ead69dc7aab4878524",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ab793da2c4e789911d284034ecf59f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":689222123
+        }
+    ],
     "wof:id":689222123,
-    "wof:lastmodified":1472625614,
+    "wof:lastmodified":1492100194,
     "wof:name":"East Bay Surgery Center Real Estate Group",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

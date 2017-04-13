@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.713879,41.933309,-70.713879,41.933309",
     "geom:latitude":41.933309,
     "geom:longitude":-70.713879,
@@ -32,17 +33,26 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VDVUW2R6ckPFHfrAOgBK8_41.933309_-70.713879@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715404,
-    "wof:geomhash":"9383a0c74a7267dbde5fbd02f9c2233a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2c4b6b9104312c4e169daff106cd23f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672290077
+        }
+    ],
     "wof:id":672290077,
-    "wof:lastmodified":1472625453,
+    "wof:lastmodified":1492109358,
     "wof:name":"Ocean Crest Marketing",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.538395,42.140382,-71.538395,42.140382",
     "geom:latitude":42.140382,
     "geom:longitude":-71.538395,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"US",
     "wof:created":1461734731,
-    "wof:geomhash":"71660a6f4fe5442016d0dffc72c0636a",
+    "wof:geomhash":"1246a797c0eb858e91c160e9d594f46b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":673146759
         }
     ],
     "wof:id":673146759,
-    "wof:lastmodified":1472625428,
+    "wof:lastmodified":1492102433,
     "wof:name":"Cerel & Foy - Milford",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

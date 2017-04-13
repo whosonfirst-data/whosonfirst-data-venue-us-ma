@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.947167,42.291737,-71.947167,42.291737",
     "geom:latitude":42.291737,
     "geom:longitude":-71.947167,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mDo9PifMemCNExSSUl0qq_42.291737_-71.947167@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721642,
-    "wof:geomhash":"0f49de219fd2124d018b2fb50c55e943",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62b095f44a3ce093bf9abf79bbb4ff81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672557803
+        }
+    ],
     "wof:id":672557803,
-    "wof:lastmodified":1472625838,
+    "wof:lastmodified":1492116388,
     "wof:name":"Galvin Plumbing & Heating",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

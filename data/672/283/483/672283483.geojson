@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.785294,42.042692,-70.785294,42.042692",
     "geom:latitude":42.042692,
     "geom:longitude":-70.785294,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gI5d5Y4rmr2bWsz8E6mxf_42.042692_-70.785294@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715270,
-    "wof:geomhash":"b1e000fef5c7fc8c67a6adbe42be0db0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c256818ce8f7a711ec656b8d71fe898",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672283483
+        }
+    ],
     "wof:id":672283483,
-    "wof:lastmodified":1472625457,
+    "wof:lastmodified":1492111032,
     "wof:name":"Brian J Christie Cnstr Co",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

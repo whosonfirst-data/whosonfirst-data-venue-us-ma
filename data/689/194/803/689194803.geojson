@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.618401,41.6325,-70.618401,41.6325",
     "geom:latitude":41.6325,
     "geom:longitude":-70.618401,
@@ -28,17 +29,26 @@
     "sg:postcode":"02556",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72q9mTJ0KwWAbLrcV1eClu_41.632500_-70.618401@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741938,
-    "wof:geomhash":"cc7416b94937112aad74b37b41b2bc8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14563479b5533fd6d0113033eabbfc02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":689194803
+        }
+    ],
     "wof:id":689194803,
-    "wof:lastmodified":1472625599,
+    "wof:lastmodified":1492099909,
     "wof:name":"Village Pantry",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

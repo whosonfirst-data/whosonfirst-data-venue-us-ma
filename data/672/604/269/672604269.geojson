@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.19228,42.17247,-71.19228,42.17247",
     "geom:latitude":42.17247,
     "geom:longitude":-71.19228,
@@ -35,7 +36,8 @@
         85633793,
         85950839,
         102084403,
-        85688645
+        85688645,
+        85858347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722696,
-    "wof:geomhash":"d5da1ac377209c8262f9c07c28983c3a",
+    "wof:geomhash":"7a737e9f9f3420855d154cdd8e167aea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,22 @@
             "neighbourhood_id":85891469,
             "region_id":85688645,
             "venue_id":672604269
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476589,
+            "locality_id":85950839,
+            "neighbourhood_id":85858347,
+            "region_id":85688645,
+            "venue_id":672604269
         }
     ],
     "wof:id":672604269,
-    "wof:lastmodified":1472625855,
+    "wof:lastmodified":1492109037,
     "wof:name":"Office Gallery Intl",
-    "wof:parent_id":85891469,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

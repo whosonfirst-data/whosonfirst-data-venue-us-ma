@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.198968,41.811546,-71.198968,41.811546",
     "geom:latitude":41.811546,
     "geom:longitude":-71.198968,
@@ -37,17 +38,32 @@
         "hydroseeding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475933,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SzDD0gUjRBFNpEXTpOZSR_41.811546_-71.198968@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742482,
-    "wof:geomhash":"bb5a8fb9cfb38877f02680db92eb232c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91bcb5ed6d40125e2f1b51ec099d9806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404475933,
+            "region_id":85688645,
+            "venue_id":689220223
+        }
+    ],
     "wof:id":689220223,
-    "wof:lastmodified":1472625611,
+    "wof:lastmodified":1492098383,
     "wof:name":"Km Hydro Seeding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

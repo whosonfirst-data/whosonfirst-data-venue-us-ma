@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.853733,41.651634,-70.853733,41.651634",
     "geom:latitude":41.651634,
     "geom:longitude":-70.853733,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"http://www.mikesfairhaven.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UZiGWXbPncDkyq7JW7dFF_41.651683_-70.853635@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732623,
-    "wof:geomhash":"6664a60813f4fecfa096ec166d1e2f9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77f88fc9d4aead5317dca3de5525fa09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":673043745
+        }
+    ],
     "wof:id":673043745,
-    "wof:lastmodified":1472625110,
+    "wof:lastmodified":1492105492,
     "wof:name":"Mike's Restaurant",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.344116,42.279656,-71.344116,42.279656",
     "geom:latitude":42.279656,
     "geom:longitude":-71.344116,
@@ -31,17 +32,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476409,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7d647eBJrQcoHVHidIUedf_42.279656_-71.344116@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723970,
-    "wof:geomhash":"0442ac627eb66e0548dcf9d9a07b571d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc801e6254cefaf4f2954324dc9ca103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476409,
+            "region_id":85688645,
+            "venue_id":672661145
+        }
+    ],
     "wof:id":672661145,
-    "wof:lastmodified":1472625900,
+    "wof:lastmodified":1492106802,
     "wof:name":"Grahams Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

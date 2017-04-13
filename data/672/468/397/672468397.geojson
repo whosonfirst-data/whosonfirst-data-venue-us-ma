@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.893949,42.112539,-71.893949,42.112539",
     "geom:latitude":42.112539,
     "geom:longitude":-71.893949,
@@ -31,17 +32,26 @@
         "ready"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uyCvdGNEVlk23ilh1JvcT_42.112539_-71.893949@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719654,
-    "wof:geomhash":"a4e64611e280b454d67d5047a25bf49f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32af0fdab1048b6f9f4139ee9e84aa26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":672468397
+        }
+    ],
     "wof:id":672468397,
-    "wof:lastmodified":1472625730,
+    "wof:lastmodified":1492116068,
     "wof:name":"Bonsal American",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

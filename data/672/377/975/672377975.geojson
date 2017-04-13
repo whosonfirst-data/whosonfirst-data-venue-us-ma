@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.834973,41.952923,-70.834973,41.952923",
     "geom:latitude":41.952923,
     "geom:longitude":-70.834973,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wkSAlatNjpddVyrwdl2ka_41.952923_-70.834973@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717380,
-    "wof:geomhash":"a88005a80eb56219049ca6d0dde3cf1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5f9d0e89682023ce5e4284cc40ad365",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523907,
+            "venue_id":672377975
+        }
+    ],
     "wof:id":672377975,
-    "wof:lastmodified":1472625659,
+    "wof:lastmodified":1492107578,
     "wof:name":"RB Forms",
     "wof:parent_id":420523907,
     "wof:placetype":"venue",

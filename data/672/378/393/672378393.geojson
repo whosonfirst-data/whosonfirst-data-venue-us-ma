@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.423214,42.450415,-72.423214,42.450415",
     "geom:latitude":42.450415,
     "geom:longitude":-72.423214,
@@ -31,19 +32,28 @@
         "forester"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NhYPCi5chuu4vSN7XOixi_42.450415_-72.423214@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717388,
-    "wof:geomhash":"00ce867a24bd8b13038044dfb2c25e95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbcc8399bb041573f93afdb8a4cf8d48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523485,
+            "venue_id":672378393
+        }
+    ],
     "wof:id":672378393,
-    "wof:lastmodified":1472625646,
+    "wof:lastmodified":1492111991,
     "wof:name":"Bay State Forestry Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

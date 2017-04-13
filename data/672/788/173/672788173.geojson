@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.862605,41.857591,-70.862605,41.857591",
     "geom:latitude":41.857591,
     "geom:longitude":-70.862605,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hVzgDBUV74n5qYhOpiV7t_41.857591_-70.862605@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726752,
-    "wof:geomhash":"8d941fa3e606ab307ad5d5dd38a68c2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be5e2df8648aa865a1e5272b8b8eb47e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672788173
+        }
+    ],
     "wof:id":672788173,
-    "wof:lastmodified":1472626013,
+    "wof:lastmodified":1492107419,
     "wof:name":"Highway Interstate Trans",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

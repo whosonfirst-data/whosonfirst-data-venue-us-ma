@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.38277,42.242952,-72.38277,42.242952",
     "geom:latitude":42.242952,
     "geom:longitude":-72.38277,
@@ -32,17 +33,26 @@
         "livestock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34KTdOlwmfkGt645VzUMSX_42.242952_-72.382770@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733741,
-    "wof:geomhash":"4bd286cf09ff6eec1184d1c0c44884aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d048440ff5a6dcf09fb089d3b6049fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":673099251
+        }
+    ],
     "wof:id":673099251,
-    "wof:lastmodified":1472625271,
+    "wof:lastmodified":1492105458,
     "wof:name":"Bodzinski Farm",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

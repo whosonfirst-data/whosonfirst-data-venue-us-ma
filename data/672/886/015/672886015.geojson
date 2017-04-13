@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.944104,42.301875,-71.944104,42.301875",
     "geom:latitude":42.301875,
     "geom:longitude":-71.944104,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XXQGaCfITbCJtSKVuSFdG_42.301875_-71.944104@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728746,
-    "wof:geomhash":"429190f26b7d434a5503a93cd50a1a53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e94ae19c558da19d8b773f49e00ecc3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672886015
+        }
+    ],
     "wof:id":672886015,
-    "wof:lastmodified":1472626099,
+    "wof:lastmodified":1492117344,
     "wof:name":"Janets House",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

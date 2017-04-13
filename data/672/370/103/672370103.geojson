@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.790007,41.959208,-70.790007,41.959208",
     "geom:latitude":41.959208,
     "geom:longitude":-70.790007,
@@ -31,17 +32,26 @@
         "motion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BkE5UqbnCyGLtsda9dSfp_41.959208_-70.790007@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717207,
-    "wof:geomhash":"3bd6dece30d7e2d4ddb74aa28b4f7aac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0075f5ac7a1a397d55fbc5829e8ea0d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672370103
+        }
+    ],
     "wof:id":672370103,
-    "wof:lastmodified":1472625639,
+    "wof:lastmodified":1492107326,
     "wof:name":"Video Productions South",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

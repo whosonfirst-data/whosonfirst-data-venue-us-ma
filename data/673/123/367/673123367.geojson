@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.651841,42.127598,-71.651841,42.127598",
     "geom:latitude":42.127598,
     "geom:longitude":-71.651841,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524169
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47oELGcqICeNpjDcwPz3Hd_42.127598_-71.651841@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734259,
-    "wof:geomhash":"35ac253ad4f3a58211734711d6d8619d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19c6d009cff4c3ed5ca9481b402cef1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524169,
+            "venue_id":673123367
+        }
+    ],
     "wof:id":673123367,
-    "wof:lastmodified":1472625352,
+    "wof:lastmodified":1492102922,
     "wof:name":"Plastering Service",
     "wof:parent_id":420524169,
     "wof:placetype":"venue",

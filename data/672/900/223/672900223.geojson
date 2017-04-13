@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.892196,42.070196,-70.892196,42.070196",
     "geom:latitude":42.070196,
     "geom:longitude":-70.892196,
@@ -32,17 +33,26 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AQXcERR6RYmsoPKCuRovb_42.070196_-70.892196@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729028,
-    "wof:geomhash":"ccbff8f1e66174de64c13e845d336024",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a8d758a14b3184ef99d5626c44d1620",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":672900223
+        }
+    ],
     "wof:id":672900223,
-    "wof:lastmodified":1472626114,
+    "wof:lastmodified":1492112748,
     "wof:name":"Stonehill College",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

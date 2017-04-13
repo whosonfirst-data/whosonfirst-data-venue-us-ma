@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.96217,42.214911,-70.96217,42.214911",
     "geom:latitude":42.214911,
     "geom:longitude":-70.96217,
@@ -35,7 +36,10 @@
         85633793,
         85950427,
         102084403,
-        85688645
+        85688645,
+        85857323,
+        404476427,
+        85950425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461715261,
-    "wof:geomhash":"3de1659f498eecc9a45836d8a69dc8f8",
+    "wof:geomhash":"2a13aaeb96692d7a1e85e1edc2787d3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +58,22 @@
             "neighbourhood_id":85816023,
             "region_id":85688645,
             "venue_id":672283013
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476427,
+            "locality_id":85950425,
+            "neighbourhood_id":85857323,
+            "region_id":85688645,
+            "venue_id":672283013
         }
     ],
     "wof:id":672283013,
-    "wof:lastmodified":1472625440,
+    "wof:lastmodified":1492111026,
     "wof:name":"Family Vision Ctr",
-    "wof:parent_id":85816023,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

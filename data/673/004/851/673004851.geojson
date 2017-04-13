@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.631273,42.385102,-71.631273,42.385102",
     "geom:latitude":42.385102,
     "geom:longitude":-71.631273,
@@ -31,17 +32,26 @@
         "greenhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524077
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hsPE4Lxcrsoy0MnH5GwrD_42.385102_-71.631273@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731670,
-    "wof:geomhash":"751830b68031641422908a45febfd48a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f414263e7f0316a9005587dff96a3ad0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524077,
+            "venue_id":673004851
+        }
+    ],
     "wof:id":673004851,
-    "wof:lastmodified":1472624973,
+    "wof:lastmodified":1492104975,
     "wof:name":"Tolman Greenhouse",
     "wof:parent_id":420524077,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.966444,42.417986,-71.966444,42.417986",
     "geom:latitude":42.417986,
     "geom:longitude":-71.966444,
@@ -31,17 +32,26 @@
         "shelter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PvEsalg0A1xF5x4ifVnpj_42.417986_-71.966444@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727786,
-    "wof:geomhash":"8f0e4231c426b58c313332568eec5e37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0a7cc0419fc724208ad204a06d8cd92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524203,
+            "venue_id":672839575
+        }
+    ],
     "wof:id":672839575,
-    "wof:lastmodified":1472626067,
+    "wof:lastmodified":1492108497,
     "wof:name":"Sweet Pea Friends-Rutland",
     "wof:parent_id":420524203,
     "wof:placetype":"venue",

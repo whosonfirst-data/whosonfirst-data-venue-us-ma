@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.058674,42.225626,-72.058674,42.225626",
     "geom:latitude":42.225626,
     "geom:longitude":-72.058674,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476071,
+        85633793,
+        85950721,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UdlqcjybQa4nOM5xvg8P4_42.225626_-72.058674@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731300,
-    "wof:geomhash":"9f5238b3b21b2ccf825226b758e69703",
-    "wof:hierarchy":[],
+    "wof:geomhash":"465ea8a079bb63580b385d92a7fc4ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476071,
+            "locality_id":85950721,
+            "region_id":85688645,
+            "venue_id":672989397
+        }
+    ],
     "wof:id":672989397,
-    "wof:lastmodified":1472626195,
+    "wof:lastmodified":1492107612,
     "wof:name":"East Brookfield Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

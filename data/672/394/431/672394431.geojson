@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.206828,42.039325,-72.206828,42.039325",
     "geom:latitude":42.039325,
     "geom:longitude":-72.206828,
@@ -33,19 +34,32 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85831001,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bwJi2o3kcocYBRrBGuxvs_42.039325_-72.206828@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717749,
-    "wof:geomhash":"adfd3e929ddc157fa4daf3761130a478",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d461431c01f8fc6b995ba19ffe1560a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084627,
+            "neighbourhood_id":85831001,
+            "region_id":85688645,
+            "venue_id":672394431
+        }
+    ],
     "wof:id":672394431,
-    "wof:lastmodified":1472625661,
+    "wof:lastmodified":1492109536,
     "wof:name":"Wales Brookside Village",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

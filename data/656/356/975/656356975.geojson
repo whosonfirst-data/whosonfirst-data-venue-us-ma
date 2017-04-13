@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.557521,42.228873,-72.557521,42.228873",
     "geom:latitude":42.228873,
     "geom:longitude":-72.557521,
@@ -33,17 +34,26 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523647
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mPj6O5grt4R0IrRdh5ybO_42.228873_-72.557521@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711099,
-    "wof:geomhash":"35d552f73334c9fa3e10a8f847bd313f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27f731960132f6f7a4a4769d421cdc17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523647,
+            "venue_id":656356975
+        }
+    ],
     "wof:id":656356975,
-    "wof:lastmodified":1472624965,
+    "wof:lastmodified":1492101265,
     "wof:name":"Suburban Lawn Care",
     "wof:parent_id":420523647,
     "wof:placetype":"venue",

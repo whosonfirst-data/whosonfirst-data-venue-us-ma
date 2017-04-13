@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.78582,42.042292,-70.78582,42.042292",
     "geom:latitude":42.042292,
     "geom:longitude":-70.78582,
@@ -38,17 +39,26 @@
     ],
     "sg:website":"http://www.castlecomputing.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_710xQYeBRXwS1rmwaqFEUM_42.042292_-70.785820@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741110,
-    "wof:geomhash":"7062dc6cffaafa78083b6d1f145fd27e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f91bac61b97e8b1cedca464bf73c87de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689156935
+        }
+    ],
     "wof:id":689156935,
-    "wof:lastmodified":1472625527,
+    "wof:lastmodified":1492099224,
     "wof:name":"Castle Computing Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

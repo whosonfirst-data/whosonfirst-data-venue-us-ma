@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.031484,42.687498,-72.031484,42.687498",
     "geom:latitude":42.687498,
     "geom:longitude":-72.031484,
@@ -33,17 +34,26 @@
         "award"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rtbyGx6ZYu0lTNscA8i0z_42.687498_-72.031484@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714261,
-    "wof:geomhash":"21c4a06fb8550ad39f6e6c76da74782f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f874e830850bab22c7d591dfd5638b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":672233591
+        }
+    ],
     "wof:id":672233591,
-    "wof:lastmodified":1472625314,
+    "wof:lastmodified":1492107450,
     "wof:name":"N & R Trophy Co",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.178621,41.948609,-71.178621,41.948609",
     "geom:latitude":41.948609,
     "geom:longitude":-71.178621,
@@ -33,17 +34,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523303
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KXtgd03BddkxLcwVXeFVv_41.948609_-71.178621@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723681,
-    "wof:geomhash":"6795e7722a011cd114a9512654c46621",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dae4e7365a25fa1b7ac36f5b9369512c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523303,
+            "venue_id":672648479
+        }
+    ],
     "wof:id":672648479,
-    "wof:lastmodified":1472625892,
+    "wof:lastmodified":1492110221,
     "wof:name":"Chick Brignolo Chasis",
     "wof:parent_id":420523303,
     "wof:placetype":"venue",

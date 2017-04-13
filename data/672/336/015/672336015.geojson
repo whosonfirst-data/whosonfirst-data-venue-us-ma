@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.017302,41.639986,-71.017302,41.639986",
     "geom:latitude":41.639986,
     "geom:longitude":-71.017302,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        420558919,
+        102191575,
+        404476169,
         85633793,
-        85857139,
-        102084407
+        85950685,
+        102084407,
+        85688645,
+        85857139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461716367,
-    "wof:geomhash":"9c23fe0d708cd08725f4ea201c05d91d",
+    "wof:geomhash":"b489f6a02e25a24f921691a87ab0da92",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476169,
+            "locality_id":85950685,
+            "neighbourhood_id":420558919,
+            "region_id":85688645,
+            "venue_id":672336015
+        },
         {
             "country_id":85633793,
             "county_id":102084407,
@@ -55,9 +70,9 @@
         }
     ],
     "wof:id":672336015,
-    "wof:lastmodified":1472625553,
+    "wof:lastmodified":1492116088,
     "wof:name":"Borges House & Garden Ctr",
-    "wof:parent_id":85857139,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

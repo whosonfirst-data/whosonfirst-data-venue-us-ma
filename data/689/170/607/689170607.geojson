@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.137762,42.338858,-71.137762,42.338858",
     "geom:latitude":42.338858,
     "geom:longitude":-71.137762,
@@ -28,17 +29,34 @@
     "sg:postcode":"02445",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yBhAEi5A1twtYTxh5PRof_42.338858_-71.137762@1303262228"
     },
     "wof:country":"US",
     "wof:created":1461741424,
-    "wof:geomhash":"3845d3775f628e12d653c49bac3d5a9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bc411cae93b2225682d5896610fd276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "region_id":85688645,
+            "venue_id":689170607
+        }
+    ],
     "wof:id":689170607,
-    "wof:lastmodified":1472625545,
+    "wof:lastmodified":1492097761,
     "wof:name":"Advanced Electrolysis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

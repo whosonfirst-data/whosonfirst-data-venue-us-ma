@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.741302,41.905899,-70.741302,41.905899",
     "geom:latitude":41.905899,
     "geom:longitude":-70.741302,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Y6JIQhafSQRV5UyA4cAO9_41.905899_-70.741302@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741010,
-    "wof:geomhash":"4b8d253aef762f41e652f1d81037d4b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65970949ed1fadfb549b515b0657ad81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689153147
+        }
+    ],
     "wof:id":689153147,
-    "wof:lastmodified":1472625492,
+    "wof:lastmodified":1492097476,
     "wof:name":"Wilcox Pete & Sons",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

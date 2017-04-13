@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.391187,42.152487,-72.391187,42.152487",
     "geom:latitude":42.152487,
     "geom:longitude":-72.391187,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476379,
+        85633793,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4h4YqM29lWbdOvjxEXf8zO_42.152487_-72.391187@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730445,
-    "wof:geomhash":"22caad6a0d9e4e45ae4b2c72a82c4cc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e6db457dcd97dfad5849ae73138bf76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476379,
+            "region_id":85688645,
+            "venue_id":672960529
+        }
+    ],
     "wof:id":672960529,
-    "wof:lastmodified":1472626171,
+    "wof:lastmodified":1492110071,
     "wof:name":"American Medical Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

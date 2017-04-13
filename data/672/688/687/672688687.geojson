@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.966144,42.409768,-71.966144,42.409768",
     "geom:latitude":42.409768,
     "geom:longitude":-71.966144,
@@ -33,17 +34,26 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_725XgGnsLgYCFb7i1WlmDe_42.409768_-71.966144@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724607,
-    "wof:geomhash":"46e4ef432d007da18c9acc4593aafddf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d40269fe495238d11cf59d2012ad7e5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524223,
+            "venue_id":672688687
+        }
+    ],
     "wof:id":672688687,
-    "wof:lastmodified":1472625935,
+    "wof:lastmodified":1492117922,
     "wof:name":"Capt'n Carpet Cleaners",
     "wof:parent_id":420524223,
     "wof:placetype":"venue",

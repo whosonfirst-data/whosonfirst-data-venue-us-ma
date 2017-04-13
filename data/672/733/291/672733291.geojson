@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.544082,42.394463,-71.544082,42.394463",
     "geom:latitude":42.394463,
     "geom:longitude":-71.544082,
@@ -31,17 +32,26 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gtwvhx3DjZjZ1bHQPaoBg_42.394463_-71.544082@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725589,
-    "wof:geomhash":"4a724747cb8af753c4d7c87fa17adcd4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"433f9d229454b1bd55f17e35ece8a150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672733291
+        }
+    ],
     "wof:id":672733291,
-    "wof:lastmodified":1472625966,
+    "wof:lastmodified":1492112382,
     "wof:name":"Main Street Antiques",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

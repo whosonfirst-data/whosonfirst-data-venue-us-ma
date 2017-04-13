@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.551946,41.819861,-70.551946,41.819861",
     "geom:latitude":41.819861,
     "geom:longitude":-70.551946,
@@ -37,17 +38,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iTIlqI8rDhr4LidqN3Rjx_41.819861_-70.551946@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741155,
-    "wof:geomhash":"2ac5b98b73f638f56d003590f0de97c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f86f84a04e942857ff486416bdfcbd24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":689159253
+        }
+    ],
     "wof:id":689159253,
-    "wof:lastmodified":1472625501,
+    "wof:lastmodified":1492097575,
     "wof:name":"Cedarville Wine Ans Spirits",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.039169,42.728473,-71.039169,42.728473",
     "geom:latitude":42.728473,
     "geom:longitude":-71.039169,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cJliSE7A5ARGrA4R0cw8X_42.728473_-71.039169@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715168,
-    "wof:geomhash":"119b3ce9bed20fe6a55153f115f21e57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45a1b80a5a95239bc580402118e06866",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672278425
+        }
+    ],
     "wof:id":672278425,
-    "wof:lastmodified":1472625446,
+    "wof:lastmodified":1492113292,
     "wof:name":"Charles M Rollins Co Inc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

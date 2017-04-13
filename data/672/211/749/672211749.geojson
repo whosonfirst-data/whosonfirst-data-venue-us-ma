@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.944223,41.750794,-70.944223,41.750794",
     "geom:latitude":41.750794,
     "geom:longitude":-70.944223,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GlGJmBbQ1TvwuQnYKBz5a_41.750794_-70.944223@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713800,
-    "wof:geomhash":"e03f21c5c38e2d407b6481707d8f71c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4026e2c5bc670e072147a034dc15e3d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":672211749
+        }
+    ],
     "wof:id":672211749,
-    "wof:lastmodified":1472625213,
+    "wof:lastmodified":1492105941,
     "wof:name":"Home Town Automotive",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

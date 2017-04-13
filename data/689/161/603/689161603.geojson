@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.804463,42.005813,-70.804463,42.005813",
     "geom:latitude":42.005813,
     "geom:longitude":-70.804463,
@@ -33,17 +34,26 @@
         "room"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ptYqUu43o9Of2iKbKWDpC_42.005813_-70.804463@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741215,
-    "wof:geomhash":"cb54e5be00164d57dcbbbb53d0199e42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab9515542cfbf6f92de2ac3841540e48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689161603
+        }
+    ],
     "wof:id":689161603,
-    "wof:lastmodified":1472625525,
+    "wof:lastmodified":1492099164,
     "wof:name":"Custom Care Inc.",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

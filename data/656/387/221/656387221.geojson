@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.207634,42.040219,-72.207634,42.040219",
     "geom:latitude":42.040219,
     "geom:longitude":-72.207634,
@@ -31,19 +32,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85831001,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04PAAmq9NQAOJwghdTkJXk_42.040219_-72.207634@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711736,
-    "wof:geomhash":"cd06e4c84b341ac9813f9868e2ae472b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81a5c0cf79453791ce5783882f326823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084627,
+            "neighbourhood_id":85831001,
+            "region_id":85688645,
+            "venue_id":656387221
+        }
+    ],
     "wof:id":656387221,
-    "wof:lastmodified":1472624997,
+    "wof:lastmodified":1492101535,
     "wof:name":"Stfrancis Family Daycare",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

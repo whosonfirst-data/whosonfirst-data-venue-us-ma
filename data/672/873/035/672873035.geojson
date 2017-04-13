@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.481932,42.43326,-72.481932,42.43326",
     "geom:latitude":42.43326,
     "geom:longitude":-72.481932,
@@ -31,19 +32,28 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IxsDxeUYvnfdcfpKi03N5_42.433260_-72.481932@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728497,
-    "wof:geomhash":"b3530454d1fa908754e0d3aa61d768ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b481a97bbf9d6718b11b4df59c380ffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523639,
+            "venue_id":672873035
+        }
+    ],
     "wof:id":672873035,
-    "wof:lastmodified":1472626093,
+    "wof:lastmodified":1492111060,
     "wof:name":"Waldinger Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

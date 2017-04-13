@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.160702,41.72763,-71.160702,41.72763",
     "geom:latitude":41.72763,
     "geom:longitude":-71.160702,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848967,
+        85806847,
         102191575,
         404476145,
         85633793,
         85950687,
         102084407,
-        85688645
+        85688645,
+        85848967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461727683,
-    "wof:geomhash":"8e9385ced55396b6a5b392909c7b8dca",
+    "wof:geomhash":"8392cb050850dea8ee361c079c5fa50f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476145,
+            "locality_id":85950687,
+            "neighbourhood_id":85806847,
+            "region_id":85688645,
+            "venue_id":672834389
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":672834389,
-    "wof:lastmodified":1472626062,
+    "wof:lastmodified":1492114688,
     "wof:name":"Swan Color Lab",
-    "wof:parent_id":85848967,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.960372,42.774516,-70.960372,42.774516",
     "geom:latitude":42.774516,
     "geom:longitude":-70.960372,
@@ -29,17 +30,26 @@
     "sg:province":"MA",
     "sg:website":"http://www.travelgator.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dmZ17L9HgQDyMXeMg7d5l_42.774516_-70.960372@1308186496"
     },
     "wof:country":"US",
     "wof:created":1461742587,
-    "wof:geomhash":"c92d2c6e0ac50d263cd0771f995d0eee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af9e2565ff6d21d2fb7a246a2dcc17ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":689224685
+        }
+    ],
     "wof:id":689224685,
-    "wof:lastmodified":1472625628,
+    "wof:lastmodified":1492097810,
     "wof:name":"TravelGator",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

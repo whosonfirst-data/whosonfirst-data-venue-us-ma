@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.730167,42.215671,-72.730167,42.215671",
     "geom:latitude":42.215671,
     "geom:longitude":-72.730167,
@@ -31,19 +32,28 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YO9xQFCCeRyq61buzZf9M_42.215671_-72.730167@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716063,
-    "wof:geomhash":"7dc79f8bfd0a55a18221d7222c536020",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b39e88ab02234b95e1918126c8fe3600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523633,
+            "venue_id":672321907
+        }
+    ],
     "wof:id":672321907,
-    "wof:lastmodified":1472625550,
+    "wof:lastmodified":1492107047,
     "wof:name":"Southampton Country Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.882454,41.661896,-70.882454,41.661896",
     "geom:latitude":41.661896,
     "geom:longitude":-70.882454,
@@ -31,17 +32,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1g9qfN6FTfhYQm6ZJnC2XU_41.661896_-70.882454@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724793,
-    "wof:geomhash":"06895b27f0c4a1f08a8e3cf0ad1bc175",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d96eabed7791fdf6132e659a22e301b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672696939
+        }
+    ],
     "wof:id":672696939,
-    "wof:lastmodified":1472625944,
+    "wof:lastmodified":1492117986,
     "wof:name":"Oak Grove Pallet",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.830136,41.635138,-70.830136,41.635138",
     "geom:latitude":41.635138,
     "geom:longitude":-70.830136,
@@ -31,19 +32,32 @@
         "packaging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85803217,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7D3dzp0lALtQ6SrKx5Jud5_41.635138_-70.830136@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716522,
-    "wof:geomhash":"3a3c7008714791e1104618d151714ba2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02f136eb80655b22f5be2f85510c1e51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85803217,
+            "region_id":85688645,
+            "venue_id":672340831
+        }
+    ],
     "wof:id":672340831,
-    "wof:lastmodified":1472625585,
+    "wof:lastmodified":1492112629,
     "wof:name":"Jed Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

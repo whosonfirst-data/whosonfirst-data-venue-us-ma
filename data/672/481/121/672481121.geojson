@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.446749,42.245923,-71.446749,42.245923",
     "geom:latitude":42.245923,
     "geom:longitude":-71.446749,
@@ -31,17 +32,26 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SLgyvEM1p7OUuDxsheUeu_42.245923_-71.446749@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719974,
-    "wof:geomhash":"6306126c804f7deaea7dac0664aead10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e0aa55dbea701611f1651abf975f30f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672481121
+        }
+    ],
     "wof:id":672481121,
-    "wof:lastmodified":1472625739,
+    "wof:lastmodified":1492110910,
     "wof:name":"International Access",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

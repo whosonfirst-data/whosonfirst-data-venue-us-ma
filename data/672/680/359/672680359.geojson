@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.242131,42.504801,-71.242131,42.504801",
     "geom:latitude":42.504801,
     "geom:longitude":-71.242131,
@@ -32,17 +33,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476325,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sBePP4BF8mQXYCP0hqqdN_42.504801_-71.242131@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724398,
-    "wof:geomhash":"22d1839898d88cadc084cd09ddb8e765",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c39dcfe2de62c82c114d10dc496d6e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476325,
+            "region_id":85688645,
+            "venue_id":672680359
+        }
+    ],
     "wof:id":672680359,
-    "wof:lastmodified":1472625923,
+    "wof:lastmodified":1492115303,
     "wof:name":"Abbott Laboratories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.588564,42.51292,-71.588564,42.51292",
     "geom:latitude":42.51292,
     "geom:longitude":-71.588564,
@@ -31,10 +32,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85809037,
-        102084655,
         85950627,
-        85824179
+        102084655,
+        85824179,
+        85809037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +43,8 @@
     },
     "wof:country":"US",
     "wof:created":1461712243,
-    "wof:geomhash":"d60a7e7b68e240bd91771943473c4b3b",
+    "wof:geomhash":"8798536d21c26e1bd1ee74191202fb1a",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85809037,
-            "region_id":85688645,
-            "venue_id":672139727
-        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -58,12 +52,19 @@
             "neighbourhood_id":85824179,
             "region_id":85688645,
             "venue_id":672139727
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85809037,
+            "region_id":85688645,
+            "venue_id":672139727
         }
     ],
     "wof:id":672139727,
-    "wof:lastmodified":1472624915,
+    "wof:lastmodified":1492106665,
     "wof:name":"Piper Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

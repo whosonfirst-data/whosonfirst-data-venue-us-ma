@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.904839,41.716782,-70.904839,41.716782",
     "geom:latitude":41.716782,
     "geom:longitude":-70.904839,
@@ -38,17 +39,26 @@
         "nautical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y9x6InsbYldhsuNWY6n4r_41.716782_-70.904839@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742382,
-    "wof:geomhash":"a08d56c0c09035e964fff98ad2ecca55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa90a7332df4056fab3e0bbe6d86c4f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":689216033
+        }
+    ],
     "wof:id":689216033,
-    "wof:lastmodified":1472625599,
+    "wof:lastmodified":1492097712,
     "wof:name":"Applied Technology Associates, Inc",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

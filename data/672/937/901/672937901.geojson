@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.124202,42.643848,-71.124202,42.643848",
     "geom:latitude":42.643848,
     "geom:longitude":-71.124202,
@@ -31,19 +32,38 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85848097,
+        102191575,
+        404476285,
+        85633793,
+        85950785,
+        102084463,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VpgD5EkEtUDbBC1cEBEAW_42.643848_-71.124202@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729816,
-    "wof:geomhash":"9e6ea370834bff2480b213a5f93e1353",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c4aa5e9c4055f182448cff745ff137c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476285,
+            "locality_id":85950785,
+            "neighbourhood_id":85848097,
+            "region_id":85688645,
+            "venue_id":672937901
+        }
+    ],
     "wof:id":672937901,
-    "wof:lastmodified":1472626159,
+    "wof:lastmodified":1492110663,
     "wof:name":"Anypartycom Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85848097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

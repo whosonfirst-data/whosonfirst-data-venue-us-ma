@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.728673,42.148408,-72.728673,42.148408",
     "geom:latitude":42.148408,
     "geom:longitude":-72.728673,
@@ -29,17 +30,34 @@
     "sg:province":"MA",
     "sg:website":"www.westfieldbank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476375,
+        85633793,
+        85950391,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ShiMHUpolZYOgVS5iI5za_42.148408_-72.728673@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714689,
-    "wof:geomhash":"5ff13eaf76d1655991ef3f01f34cb42d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"101b4d0895316472f181c6fc0ae9cc8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476375,
+            "locality_id":85950391,
+            "region_id":85688645,
+            "venue_id":672254061
+        }
+    ],
     "wof:id":672254061,
-    "wof:lastmodified":1472625336,
+    "wof:lastmodified":1492118414,
     "wof:name":"Westfield Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

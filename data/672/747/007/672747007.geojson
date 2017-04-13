@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.10476,41.640765,-71.10476,41.640765",
     "geom:latitude":41.640765,
     "geom:longitude":-71.10476,
@@ -36,17 +37,26 @@
         "grower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07chHzsHSy87IAlPQy0jfS_41.640765_-71.104760@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725876,
-    "wof:geomhash":"5798c697f5d8cca5af32b69f2363b398",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7235616b8e1bad91d20d3131678710cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672747007
+        }
+    ],
     "wof:id":672747007,
-    "wof:lastmodified":1472625972,
+    "wof:lastmodified":1492107909,
     "wof:name":"Sanford Farm",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

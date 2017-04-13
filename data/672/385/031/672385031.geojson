@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.814363,42.437631,-71.814363,42.437631",
     "geom:latitude":42.437631,
     "geom:longitude":-71.814363,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524139
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68y3bgytK9djrhL2mtfCrR_42.437631_-71.814363@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717530,
-    "wof:geomhash":"5be4502e9d423384c5368453dc6b1806",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d978b533cbcb28a78c1a2a0a26cf496f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524139,
+            "venue_id":672385031
+        }
+    ],
     "wof:id":672385031,
-    "wof:lastmodified":1472625649,
+    "wof:lastmodified":1492112776,
     "wof:name":"Lakeside Lodge & Restaurant",
     "wof:parent_id":420524139,
     "wof:placetype":"venue",

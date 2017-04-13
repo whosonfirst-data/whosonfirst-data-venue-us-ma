@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.035969,42.391723,-71.035969,42.391723",
     "geom:latitude":42.391723,
     "geom:longitude":-71.035969,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891303,
+        85891301,
         102191575,
         404476575,
         85633793,
         85950359,
         102084423,
-        85688645
+        85688645,
+        85891303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461724298,
-    "wof:geomhash":"e36aeeb7bb20f93eaea91218b41d6e09",
+    "wof:geomhash":"8357e52bcfe7bf3af962409da9719121",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476575,
+            "locality_id":85950359,
+            "neighbourhood_id":85891301,
+            "region_id":85688645,
+            "venue_id":672676089
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672676089,
-    "wof:lastmodified":1472625917,
+    "wof:lastmodified":1492117641,
     "wof:name":"Beauty Nails",
-    "wof:parent_id":85891303,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

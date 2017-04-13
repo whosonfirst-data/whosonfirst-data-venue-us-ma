@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.877328,41.696152,-70.877328,41.696152",
     "geom:latitude":41.696152,
     "geom:longitude":-70.877328,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4a78gZFh1wtPt4w2NKfPYj_41.696152_-70.877328@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721718,
-    "wof:geomhash":"15f27fbc68fba8da549189ae1fa2c5e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b57590f50c6283b44d7496531a85957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672560567
+        }
+    ],
     "wof:id":672560567,
-    "wof:lastmodified":1472625814,
+    "wof:lastmodified":1492106407,
     "wof:name":"KNOX Electric",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.989515,42.020216,-70.989515,42.020216",
     "geom:latitude":42.020216,
     "geom:longitude":-70.989515,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KDzOLGDQNwVEytATlblD2_42.020216_-70.989515@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715082,
-    "wof:geomhash":"c35c4f34f046de17688700792e213b09",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba898de1f0216e1856c8809a3b6cf77c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523939,
+            "venue_id":672274479
+        }
+    ],
     "wof:id":672274479,
-    "wof:lastmodified":1472625423,
+    "wof:lastmodified":1492105739,
     "wof:name":"Bridgewater-Goddard Park Med",
     "wof:parent_id":420523939,
     "wof:placetype":"venue",

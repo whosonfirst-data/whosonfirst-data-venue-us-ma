@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.06736,42.444033,-73.06736,42.444033",
     "geom:latitude":42.444033,
     "geom:longitude":-73.06736,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24EFZOWmgG3hHye6iUmmVo_42.444033_-73.067360@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718055,
-    "wof:geomhash":"90b99970564629e3efc58a7c83cf8844",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a02555acebb8eb3df79deb23f25b2e77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523253,
+            "venue_id":672405973
+        }
+    ],
     "wof:id":672405973,
-    "wof:lastmodified":1472625677,
+    "wof:lastmodified":1492108023,
     "wof:name":"Dan Walsh Jr Builder Inc",
     "wof:parent_id":420523253,
     "wof:placetype":"venue",

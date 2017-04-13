@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.787353,41.919802,-70.787353,41.919802",
     "geom:latitude":41.919802,
     "geom:longitude":-70.787353,
@@ -31,17 +32,26 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1U21ixE1RH4Yq7qNb3ZKe9_41.919802_-70.787353@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718235,
-    "wof:geomhash":"445d63f9945ac5903f027573131967a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fab8421bfe2f6a7d53db172bb1c858c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672413001
+        }
+    ],
     "wof:id":672413001,
-    "wof:lastmodified":1472625670,
+    "wof:lastmodified":1492116876,
     "wof:name":"Landscape Materials",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

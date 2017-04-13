@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.003663,41.302896,-70.003663,41.302896",
     "geom:latitude":41.302896,
     "geom:longitude":-70.003663,
@@ -36,7 +37,9 @@
         85688645,
         85633793,
         85842591,
-        102084641
+        102084641,
+        85842465,
+        85854815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461716724,
-    "wof:geomhash":"9e3af59c877c1d3f3b4b2d2273c8f2fd",
+    "wof:geomhash":"73872ca88f2b60b6aea65e1d8db3d36b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +55,26 @@
             "neighbourhood_id":85842591,
             "region_id":85688645,
             "venue_id":672348877
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084641,
+            "neighbourhood_id":85842465,
+            "region_id":85688645,
+            "venue_id":672348877
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084641,
+            "neighbourhood_id":85854815,
+            "region_id":85688645,
+            "venue_id":672348877
         }
     ],
     "wof:id":672348877,
-    "wof:lastmodified":1472625590,
+    "wof:lastmodified":1492112460,
     "wof:name":"Nantucket Residential Design",
-    "wof:parent_id":85842591,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.9767,42.7178,-70.9767,42.7178",
     "geom:latitude":42.7178,
     "geom:longitude":-70.9767,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03Tsrp4W5Z4ppwGPo0YhWn_42.717800_-70.976700@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735264,
-    "wof:geomhash":"e80d9b6174e81f1196b3f6b484177965",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c48d531796a58597a7ec37bf8680332a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673171827
+        }
+    ],
     "wof:id":673171827,
-    "wof:lastmodified":1472625478,
+    "wof:lastmodified":1492103728,
     "wof:name":"Ogren Construction",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.944468,41.838977,-70.944468,41.838977",
     "geom:latitude":41.838977,
     "geom:longitude":-70.944468,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QJJHEebHfnSHt8wU1JTkI_41.838977_-70.944468@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719623,
-    "wof:geomhash":"4e5f296b67044122385059c12ab63a4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"061c2399ec08819800f20b5f552ceb88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523969,
+            "venue_id":672467573
+        }
+    ],
     "wof:id":672467573,
-    "wof:lastmodified":1472625732,
+    "wof:lastmodified":1492106780,
     "wof:name":"Lakeville Town Selectmans Ofc",
     "wof:parent_id":420523969,
     "wof:placetype":"venue",

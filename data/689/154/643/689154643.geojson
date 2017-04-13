@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.873021,42.041093,-70.873021,42.041093",
     "geom:latitude":42.041093,
     "geom:longitude":-70.873021,
@@ -37,17 +38,26 @@
         "lodging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pS7rEmK9uI8Anra4U26Jt_42.041093_-70.873021@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741047,
-    "wof:geomhash":"c43a998bb73e41cdc9c91d4ebde268ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82ebc00689c34faa4f627f23fb566b6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523849,
+            "venue_id":689154643
+        }
+    ],
     "wof:id":689154643,
-    "wof:lastmodified":1472625512,
+    "wof:lastmodified":1492098561,
     "wof:name":"Elfcor Bed & Breakfast",
     "wof:parent_id":420523849,
     "wof:placetype":"venue",

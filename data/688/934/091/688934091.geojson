@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.996101,42.7952,-70.996101,42.7952",
     "geom:latitude":42.7952,
     "geom:longitude":-70.996101,
@@ -32,17 +33,26 @@
         "video"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MDNlV5UGotyEvTZzfBfka_42.795200_-70.996101@1303262197"
     },
     "wof:country":"US",
     "wof:created":1461735929,
-    "wof:geomhash":"f443feb3f97ceb99d60545433d2aa753",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37670535d4e71e0ad11c992953cf909d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":688934091
+        }
+    ],
     "wof:id":688934091,
-    "wof:lastmodified":1472625002,
+    "wof:lastmodified":1492120519,
     "wof:name":"West Newbury Moviehouse",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.333135,42.084317,-73.333135,42.084317",
     "geom:latitude":42.084317,
     "geom:longitude":-73.333135,
@@ -52,17 +53,26 @@
     ],
     "sg:website":"http://www.carlsonpropane.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14Y6sB7u05JEP0fkZkeXXA_42.084317_-73.333135@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734008,
-    "wof:geomhash":"aaf320a43dbfd013fef52dc7af072526",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38772ffaae308a3774c555f90b76bdf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":673111311
+        }
+    ],
     "wof:id":673111311,
-    "wof:lastmodified":1472625295,
+    "wof:lastmodified":1492105196,
     "wof:name":"Carlson Propane",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

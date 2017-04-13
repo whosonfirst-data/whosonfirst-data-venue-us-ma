@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.542185,41.836504,-70.542185,41.836504",
     "geom:latitude":41.836504,
     "geom:longitude":-70.542185,
@@ -33,17 +34,26 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zsJ2vZGAgbylVT0bQS8Ky_41.836504_-70.542185@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711152,
-    "wof:geomhash":"5ab2ad7675b8f9caebfe821619d5e2ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"107c9f916ca63da47818e6094f3b5873",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523843,
+            "venue_id":656359325
+        }
+    ],
     "wof:id":656359325,
-    "wof:lastmodified":1472624918,
+    "wof:lastmodified":1492101598,
     "wof:name":"Ellisville Harbor House",
     "wof:parent_id":420523843,
     "wof:placetype":"venue",

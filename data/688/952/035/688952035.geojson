@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.097603,42.126598,-71.097603,42.126598",
     "geom:latitude":42.126598,
     "geom:longitude":-71.097603,
@@ -31,17 +32,26 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QNI67Kft4wgLj4u8CdUdd_42.126598_-71.097603@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736292,
-    "wof:geomhash":"e5ab0c737dd6db976e08f7ea17baef6b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9603790c8292811ef89db440b32b4f8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688952035
+        }
+    ],
     "wof:id":688952035,
-    "wof:lastmodified":1472625122,
+    "wof:lastmodified":1492120327,
     "wof:name":"A & L Properties",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

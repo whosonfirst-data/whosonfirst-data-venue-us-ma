@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.901597,41.885041,-70.901597,41.885041",
     "geom:latitude":41.885041,
     "geom:longitude":-70.901597,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kESFw6uYEjfxqreyhBCxp_41.885041_-70.901597@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716973,
-    "wof:geomhash":"1ef660985efbffede33bec09fff8c87f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a07a40735288494cefb785e95efc9a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672359861
+        }
+    ],
     "wof:id":672359861,
-    "wof:lastmodified":1472625627,
+    "wof:lastmodified":1492110512,
     "wof:name":"Electrolysis By AMS",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

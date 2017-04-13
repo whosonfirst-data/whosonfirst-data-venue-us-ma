@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.996457,42.033345,-70.996457,42.033345",
     "geom:latitude":42.033345,
     "geom:longitude":-70.996457,
@@ -32,17 +33,26 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523975
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2a3ye39pSU1BDxdgOdio4s_42.033345_-70.996457@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717442,
-    "wof:geomhash":"ffd4d8f6bda142d752a36820b347e4b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"366942458f3923273d0ce0ad8f419199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523975,
+            "venue_id":672380995
+        }
+    ],
     "wof:id":672380995,
-    "wof:lastmodified":1472625656,
+    "wof:lastmodified":1492109675,
     "wof:name":"J & J Home Improvement",
     "wof:parent_id":420523975,
     "wof:placetype":"venue",

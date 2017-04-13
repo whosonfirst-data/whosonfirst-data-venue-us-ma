@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.884114,41.640156,-70.884114,41.640156",
     "geom:latitude":41.640156,
     "geom:longitude":-70.884114,
@@ -33,17 +34,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z5bR3WVx5DLKXyOFlHYoJ_41.640156_-70.884114@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731505,
-    "wof:geomhash":"c7b04e0b1b7d097f3763def2a9d966eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39d27321325ec651289eda671ac0cffa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672996503
+        }
+    ],
     "wof:id":672996503,
-    "wof:lastmodified":1472626202,
+    "wof:lastmodified":1492107271,
     "wof:name":"Boat/US Marine Ctr",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

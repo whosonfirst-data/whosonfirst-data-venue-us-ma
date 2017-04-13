@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.612591,41.646965,-70.612591,41.646965",
     "geom:latitude":41.646965,
     "geom:longitude":-70.612591,
@@ -31,17 +32,26 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uqMsOMU0weBjx4jF54cSB_41.646965_-70.612591@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714484,
-    "wof:geomhash":"cb45531503396ac5eca3f6c5b3dae678",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d21939a5bbca6647fde40bc318c677a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672243663
+        }
+    ],
     "wof:id":672243663,
-    "wof:lastmodified":1472625355,
+    "wof:lastmodified":1492110545,
     "wof:name":"Capeway Cleaners",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

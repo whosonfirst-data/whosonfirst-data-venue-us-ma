@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.370406,42.069448,-73.370406,42.069448",
     "geom:latitude":42.069448,
     "geom:longitude":-73.370406,
@@ -32,19 +33,28 @@
         "org"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x98smlhk777ndyVx3igy3_42.069448_-73.370406@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717277,
-    "wof:geomhash":"5b36b6598cb94c5f55eea2b580fac03c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a51887bb10558d3f1c94556ccfaf095",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555577,
+            "venue_id":672373147
+        }
+    ],
     "wof:id":672373147,
-    "wof:lastmodified":1472625645,
+    "wof:lastmodified":1492119539,
     "wof:name":"Sheffield Land Trust",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555577,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

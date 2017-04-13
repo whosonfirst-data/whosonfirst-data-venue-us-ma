@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.986181,41.670691,-70.986181,41.670691",
     "geom:latitude":41.670691,
     "geom:longitude":-70.986181,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LNvZ9h9HPwegY2NB1TC1t_41.670691_-70.986181@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731829,
-    "wof:geomhash":"365a16f5412947d12b76808750eda5ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c62c02d392668b34354507c029cbfb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523377,
+            "venue_id":673011059
+        }
+    ],
     "wof:id":673011059,
-    "wof:lastmodified":1472624926,
+    "wof:lastmodified":1492103956,
     "wof:name":"APC Autobody",
     "wof:parent_id":420523377,
     "wof:placetype":"venue",

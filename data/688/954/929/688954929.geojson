@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.111033,42.123363,-71.111033,42.123363",
     "geom:latitude":42.123363,
     "geom:longitude":-71.111033,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XwsFHYmKNNXFG8B0YY9MQ_42.123363_-71.111033@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736342,
-    "wof:geomhash":"7fb390022d13593d3d4115e38f5cd000",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43560c5f65dd7dd977be071463d73c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688954929
+        }
+    ],
     "wof:id":688954929,
-    "wof:lastmodified":1472625182,
+    "wof:lastmodified":1492120876,
     "wof:name":"Crystal Construction Corp",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

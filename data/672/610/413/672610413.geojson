@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.994245,41.641954,-70.994245,41.641954",
     "geom:latitude":41.641954,
     "geom:longitude":-70.994245,
@@ -32,17 +33,36 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420558919,
+        102191575,
+        404476169,
+        85633793,
+        85950685,
+        102084407,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IRnDLs5T5w93fKil7fsol_41.641954_-70.994245@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722835,
-    "wof:geomhash":"c4166936622d48593e67c5e71c2fe9f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f71c540d5cedcad889944c4fc11b920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476169,
+            "locality_id":85950685,
+            "neighbourhood_id":420558919,
+            "region_id":85688645,
+            "venue_id":672610413
+        }
+    ],
     "wof:id":672610413,
-    "wof:lastmodified":1472625859,
+    "wof:lastmodified":1492116824,
     "wof:name":"Dartmouth Medical Walk-In",
     "wof:parent_id":420558919,
     "wof:placetype":"venue",

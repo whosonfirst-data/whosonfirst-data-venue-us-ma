@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.125737,42.133143,-71.125737,42.133143",
     "geom:latitude":42.133143,
     "geom:longitude":-71.125737,
@@ -39,17 +40,26 @@
     ],
     "sg:website":"http://www.calebnichols.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nx4w0O8yikElA4GYiJoLB_42.133143_-71.125737@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736316,
-    "wof:geomhash":"3354e0fcef498137ffd28397372170a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d238b38c85d5531a0a2341b059199d98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688953477
+        }
+    ],
     "wof:id":688953477,
-    "wof:lastmodified":1472625148,
+    "wof:lastmodified":1492120232,
     "wof:name":"Brimstone Glassworks",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

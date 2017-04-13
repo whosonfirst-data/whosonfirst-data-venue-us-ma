@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.956944,42.560483,-70.956944,42.560483",
     "geom:latitude":42.560483,
     "geom:longitude":-70.956944,
@@ -39,7 +40,8 @@
         85633793,
         85950789,
         102084463,
-        85688645
+        85688645,
+        85813495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461714834,
-    "wof:geomhash":"f927c69709f5bcc0bdfc3cd5850d0e37",
+    "wof:geomhash":"8b7b70dc88b6e97c6443b46edee628a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,22 @@
             "neighbourhood_id":85851821,
             "region_id":85688645,
             "venue_id":672261299
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476291,
+            "locality_id":85950789,
+            "neighbourhood_id":85813495,
+            "region_id":85688645,
+            "venue_id":672261299
         }
     ],
     "wof:id":672261299,
-    "wof:lastmodified":1472625363,
+    "wof:lastmodified":1492112955,
     "wof:name":"Mc Gill Enterprises",
-    "wof:parent_id":85851821,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

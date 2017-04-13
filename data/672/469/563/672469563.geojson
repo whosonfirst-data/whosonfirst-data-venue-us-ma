@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.874875,41.866506,-70.874875,41.866506",
     "geom:latitude":41.866506,
     "geom:longitude":-70.874875,
@@ -28,17 +29,26 @@
     "sg:postcode":"02346",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bR8luuLeJcFQlK5eq0Agj_41.866506_-70.874875@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719681,
-    "wof:geomhash":"37345a8aeb33ed769d5243f8c91f1834",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be772f2ba69320588b201e2cf6a1375d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672469563
+        }
+    ],
     "wof:id":672469563,
-    "wof:lastmodified":1472625735,
+    "wof:lastmodified":1492119732,
     "wof:name":"Cycle Connection",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

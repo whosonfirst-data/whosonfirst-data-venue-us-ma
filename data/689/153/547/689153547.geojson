@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.694733,42.018342,-70.694733,42.018342",
     "geom:latitude":42.018342,
     "geom:longitude":-70.694733,
@@ -28,17 +29,26 @@
     "sg:postcode":"02332",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ur5zutJzf3aTnrX9Dfo7C_42.018342_-70.694733@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741024,
-    "wof:geomhash":"f4630fedb047b3ee89afc47f3c9adc25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"428460cc797205121050994fe75ba0cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523827,
+            "venue_id":689153547
+        }
+    ],
     "wof:id":689153547,
-    "wof:lastmodified":1472625509,
+    "wof:lastmodified":1492097466,
     "wof:name":"The Yellow House",
     "wof:parent_id":420523827,
     "wof:placetype":"venue",

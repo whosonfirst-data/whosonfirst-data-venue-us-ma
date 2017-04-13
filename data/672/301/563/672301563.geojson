@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.717082,42.043211,-70.717082,42.043211",
     "geom:latitude":42.043211,
     "geom:longitude":-70.717082,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02bLnXwKCp0aWotY5F6WiL_42.043211_-70.717082@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715643,
-    "wof:geomhash":"57b932dd92a9c12c91c4580bc4d689bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f24060d08b92f313be945ff226e16d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523827,
+            "venue_id":672301563
+        }
+    ],
     "wof:id":672301563,
-    "wof:lastmodified":1472625505,
+    "wof:lastmodified":1492118802,
     "wof:name":"Millpond Builders Inc",
     "wof:parent_id":420523827,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.743374,41.922086,-70.743374,41.922086",
     "geom:latitude":41.922086,
     "geom:longitude":-70.743374,
@@ -33,17 +34,26 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JR7IMCxt8OSPt7yF4gzPY_41.922086_-70.743374@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712842,
-    "wof:geomhash":"7465037dbbadde874b393079a581f6f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"408a0a726d17706691502101aae2ce63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523889,
+            "venue_id":672167017
+        }
+    ],
     "wof:id":672167017,
-    "wof:lastmodified":1472625001,
+    "wof:lastmodified":1492106412,
     "wof:name":"Plymouth Youth Hockey",
     "wof:parent_id":420523889,
     "wof:placetype":"venue",

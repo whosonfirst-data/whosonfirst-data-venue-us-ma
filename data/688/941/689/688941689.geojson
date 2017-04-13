@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.848853,42.252318,-70.848853,42.252318",
     "geom:latitude":42.252318,
     "geom:longitude":-70.848853,
@@ -54,17 +55,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476517,
+        85633793,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05pZxfSoEmi6vnzvRzOmaN_42.252318_-70.848853@1303262198"
     },
     "wof:country":"US",
     "wof:created":1461736080,
-    "wof:geomhash":"fa081fc000757971ad1ce65ac0b683a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b95ab0821e3cf6396035004200ac56af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476517,
+            "region_id":85688645,
+            "venue_id":688941689
+        }
+    ],
     "wof:id":688941689,
-    "wof:lastmodified":1472625104,
+    "wof:lastmodified":1492120728,
     "wof:name":"Harbor Lights Electrical Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

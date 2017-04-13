@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.275477,42.177175,-71.275477,42.177175",
     "geom:latitude":42.177175,
     "geom:longitude":-71.275477,
@@ -36,7 +37,8 @@
         85633793,
         85950845,
         102084403,
-        85842399
+        85842399,
+        85817849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722929,
-    "wof:geomhash":"eb328c6362bc94d11abbb5ac50bd8d41",
+    "wof:geomhash":"eb068db9fc57e9078ba54f4c74869887",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,19 @@
             "neighbourhood_id":85842399,
             "region_id":85688645,
             "venue_id":672614119
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85817849,
+            "region_id":85688645,
+            "venue_id":672614119
         }
     ],
     "wof:id":672614119,
-    "wof:lastmodified":1472625861,
+    "wof:lastmodified":1492107946,
     "wof:name":"Lifestyle Custom Homes Inc",
-    "wof:parent_id":85842399,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

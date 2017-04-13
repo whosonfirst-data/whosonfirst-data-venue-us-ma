@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.507012,41.685448,-70.507012,41.685448",
     "geom:latitude":41.685448,
     "geom:longitude":-70.507012,
@@ -31,17 +32,26 @@
         "camp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3idNGGC947D853gotKJlUp_41.685448_-70.507012@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727978,
-    "wof:geomhash":"1b98df668058a3eb8d1c58d5d000a2cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e909416f597dfb72f16a82b7d66cbfa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672849159
+        }
+    ],
     "wof:id":672849159,
-    "wof:lastmodified":1472626071,
+    "wof:lastmodified":1492118774,
     "wof:name":"Camp Good News",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.113959,41.628095,-71.113959,41.628095",
     "geom:latitude":41.628095,
     "geom:longitude":-71.113959,
@@ -33,19 +34,28 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76eNA9XL6RnacoOApeYFBk_41.628095_-71.113959@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723471,
-    "wof:geomhash":"49dd24fb6742ff5e44c8dfa4db50bc49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6a474909dcc4f6915555a6ed7c6980d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":672638449
+        }
+    ],
     "wof:id":672638449,
-    "wof:lastmodified":1472625885,
+    "wof:lastmodified":1492114567,
     "wof:name":"Huard Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.874021,42.71969,-70.874021,42.71969",
     "geom:latitude":42.71969,
     "geom:longitude":-70.874021,
@@ -29,10 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85814805,
+        102191575,
+        404476257,
         85633793,
-        85836261,
-        102084463
+        85950805,
+        102084463,
+        85688645,
+        85836261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461728873,
-    "wof:geomhash":"afea7b0e3d9e3b9f45f783e2351b382b",
+    "wof:geomhash":"5c3af61103d0e3092a41f56a81b6b7a4",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476257,
+            "locality_id":85950805,
+            "neighbourhood_id":85814805,
+            "region_id":85688645,
+            "venue_id":672892381
+        },
         {
             "country_id":85633793,
             "county_id":102084463,
@@ -51,9 +66,9 @@
         }
     ],
     "wof:id":672892381,
-    "wof:lastmodified":1472626111,
+    "wof:lastmodified":1492110419,
     "wof:name":"Todd Farm",
-    "wof:parent_id":85836261,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

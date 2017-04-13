@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.775142,42.056277,-70.775142,42.056277",
     "geom:latitude":42.056277,
     "geom:longitude":-70.775142,
@@ -32,19 +33,34 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523963,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UaMQXvAAk4jvDSAaefAcj_42.056277_-70.775142@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724442,
-    "wof:geomhash":"713818657079276dd7ddc2121dc23e56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50bd095b1c7381c4a64289a84da973e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523963,
+            "venue_id":672682267
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":672682267
+        }
+    ],
     "wof:id":672682267,
-    "wof:lastmodified":1472625922,
+    "wof:lastmodified":1492106468,
     "wof:name":"Stanton's Boat Shop",
-    "wof:parent_id":420523963,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

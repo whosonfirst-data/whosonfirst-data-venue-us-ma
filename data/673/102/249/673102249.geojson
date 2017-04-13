@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.614853,42.211961,-72.614853,42.211961",
     "geom:latitude":42.211961,
     "geom:longitude":-72.614853,
@@ -50,17 +51,34 @@
     ],
     "sg:website":"http://www.oconnellproperties.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476357,
+        85633793,
+        85950395,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E8VetoCAyVzGZnJpymj5T_42.211961_-72.614853@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733807,
-    "wof:geomhash":"eb21965bf29b172a37d1785771c108a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55f00c32d63288e76007fd80dbb22ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476357,
+            "locality_id":85950395,
+            "region_id":85688645,
+            "venue_id":673102249
+        }
+    ],
     "wof:id":673102249,
-    "wof:lastmodified":1472625270,
+    "wof:lastmodified":1492104754,
     "wof:name":"O'connell Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

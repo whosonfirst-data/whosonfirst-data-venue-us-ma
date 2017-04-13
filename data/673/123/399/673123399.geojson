@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.888901,42.163502,-71.888901,42.163502",
     "geom:latitude":42.163502,
     "geom:longitude":-71.888901,
@@ -32,17 +33,26 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TUsYGOLBOS2Yny4PWzONs_42.163502_-71.888901@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734259,
-    "wof:geomhash":"c4106260680e5d78e4b1ba9e6ecbfddc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c21d7475da0c352c7adb886f2343420c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524189,
+            "venue_id":673123399
+        }
+    ],
     "wof:id":673123399,
-    "wof:lastmodified":1472625360,
+    "wof:lastmodified":1492102921,
     "wof:name":"Canine Village",
     "wof:parent_id":420524189,
     "wof:placetype":"venue",

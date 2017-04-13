@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.834043,42.184423,-71.834043,42.184423",
     "geom:latitude":42.184423,
     "geom:longitude":-71.834043,
@@ -31,17 +32,26 @@
         "pipe"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QP3v1HDvyDiSfMlyRj8fK_42.184423_-71.834043@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711468,
-    "wof:geomhash":"2d6cb16c3ee3fd99e3570bc4426c6363",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f773c619eb8cac387e388181d6c6fcd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":656374353
+        }
+    ],
     "wof:id":656374353,
-    "wof:lastmodified":1472624991,
+    "wof:lastmodified":1492101923,
     "wof:name":"Performance Pipe",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

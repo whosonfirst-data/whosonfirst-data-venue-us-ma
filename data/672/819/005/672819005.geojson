@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.630958,42.222565,-72.630958,42.222565",
     "geom:latitude":42.222565,
     "geom:longitude":-72.630958,
@@ -31,17 +32,34 @@
         "engine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476357,
+        85633793,
+        85950395,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I6XWr2cNcYK06rJkUFdG5_42.222565_-72.630958@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727375,
-    "wof:geomhash":"eef98894b737fe3336d1ad0b510c5fd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e130ce553231d485ca792241286031ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476357,
+            "locality_id":85950395,
+            "region_id":85688645,
+            "venue_id":672819005
+        }
+    ],
     "wof:id":672819005,
-    "wof:lastmodified":1472626038,
+    "wof:lastmodified":1492105897,
     "wof:name":"AMBAC Intl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

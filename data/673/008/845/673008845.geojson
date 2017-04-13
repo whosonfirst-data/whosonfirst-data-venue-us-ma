@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.110912,41.281278,-70.110912,41.281278",
     "geom:latitude":41.281278,
     "geom:longitude":-70.110912,
@@ -34,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834175,
+        85852447,
         102191575,
         404476421,
         85633793,
         85950503,
         102084641,
-        85688645
+        85688645,
+        85834175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +50,18 @@
     },
     "wof:country":"US",
     "wof:created":1461731774,
-    "wof:geomhash":"f4b608dd6f9247e7842f38cf7fdee3e4",
+    "wof:geomhash":"0ad1e52839026b25601e5cf7a97b35a6",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084641,
+            "localadmin_id":404476421,
+            "locality_id":85950503,
+            "neighbourhood_id":85852447,
+            "region_id":85688645,
+            "venue_id":673008845
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,9 +74,9 @@
         }
     ],
     "wof:id":673008845,
-    "wof:lastmodified":1472624956,
+    "wof:lastmodified":1492103514,
     "wof:name":"September Productions Inc",
-    "wof:parent_id":85834175,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

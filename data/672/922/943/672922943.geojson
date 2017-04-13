@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.739189,42.031301,-70.739189,42.031301",
     "geom:latitude":42.031301,
     "geom:longitude":-70.739189,
@@ -32,17 +33,26 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24xvV63lLkGlKZgqnUDFT6_42.031301_-70.739189@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729483,
-    "wof:geomhash":"f5cbacfd0ca11e13d34d7057f6e5b3aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d6aea374da44e2d66980d3b7ad2f76e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":672922943
+        }
+    ],
     "wof:id":672922943,
-    "wof:lastmodified":1472626144,
+    "wof:lastmodified":1492116350,
     "wof:name":"Bay Path At Duxbury",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

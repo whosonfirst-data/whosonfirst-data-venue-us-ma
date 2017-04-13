@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.613892,41.630102,-70.613892,41.630102",
     "geom:latitude":41.630102,
     "geom:longitude":-70.613892,
@@ -31,17 +32,26 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0egTThlLzKcBUuqNGUD0TS_41.630102_-70.613892@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723999,
-    "wof:geomhash":"ba4f74d83e2f1f120b06ffafcba6e05c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"426d51f6924fc56210a0a03775c909b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672662291
+        }
+    ],
     "wof:id":672662291,
-    "wof:lastmodified":1472625904,
+    "wof:lastmodified":1492114596,
     "wof:name":"Action Appraisals",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.687332,41.976349,-70.687332,41.976349",
     "geom:latitude":41.976349,
     "geom:longitude":-70.687332,
@@ -45,17 +46,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        85633793,
+        85950473,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Pnu8pmpMeyVjYfu3HvTiT_41.976349_-70.687332@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741132,
-    "wof:geomhash":"64ddea1c0326066b87d01bbf21721f09",
-    "wof:hierarchy":[],
+    "wof:geomhash":"465edbffdebfb07e56bce2bb52cdd006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950473,
+            "region_id":85688645,
+            "venue_id":689158069
+        }
+    ],
     "wof:id":689158069,
-    "wof:lastmodified":1472625496,
+    "wof:lastmodified":1492099873,
     "wof:name":"Little Shoes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

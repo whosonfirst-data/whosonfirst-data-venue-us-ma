@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.488941,42.148014,-71.488941,42.148014",
     "geom:latitude":42.148014,
     "geom:longitude":-71.488941,
@@ -41,17 +42,34 @@
     ],
     "sg:website":"http://www.worldgym.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476665,
+        85633793,
+        85950733,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SofiGrNZX0pLGitp3D1Z7_42.148014_-71.488941@1303262189"
     },
     "wof:country":"US",
     "wof:created":1461734728,
-    "wof:geomhash":"800342fb00737582ea3ebd5663011b25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdb7ed27c6f9e2327cf4fd71f3cb69b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476665,
+            "locality_id":85950733,
+            "region_id":85688645,
+            "venue_id":673146581
+        }
+    ],
     "wof:id":673146581,
-    "wof:lastmodified":1472625423,
+    "wof:lastmodified":1492102433,
     "wof:name":"World Gym",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.891011,42.119048,-70.891011,42.119048",
     "geom:latitude":42.119048,
     "geom:longitude":-70.891011,
@@ -32,17 +33,26 @@
         "chimney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BJQXL5SnpFDqdhWaSO36A_42.119048_-70.891011@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715024,
-    "wof:geomhash":"34c297b60ac3dcc2e4154165eb3a1f92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0565634461e64a067f4539da139b6152",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672271177
+        }
+    ],
     "wof:id":672271177,
-    "wof:lastmodified":1472625407,
+    "wof:lastmodified":1492112041,
     "wof:name":"Scanners Video Chimney Sweep",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

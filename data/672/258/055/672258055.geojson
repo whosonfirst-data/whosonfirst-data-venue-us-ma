@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.714489,41.931302,-70.714489,41.931302",
     "geom:latitude":41.931302,
     "geom:longitude":-70.714489,
@@ -31,17 +32,26 @@
         "craft"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TG0Ua3jPxIcctp9V79br6_41.931302_-70.714489@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714768,
-    "wof:geomhash":"9756a00cab469b9ae0cc2167f0622e4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac81929c54907ec29c94fee9fe8c4e36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672258055
+        }
+    ],
     "wof:id":672258055,
-    "wof:lastmodified":1472625328,
+    "wof:lastmodified":1492111195,
     "wof:name":"Betty Jo's Corner",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

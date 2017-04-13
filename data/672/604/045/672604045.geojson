@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.368398,42.342559,-71.368398,42.342559",
     "geom:latitude":42.342559,
     "geom:longitude":-71.368398,
@@ -28,17 +29,34 @@
     "sg:postcode":"01778",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476463,
+        85633793,
+        85950623,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vXimFvdQBlzLNHWmTBLOz_42.342559_-71.368398@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722692,
-    "wof:geomhash":"a0cb007d8275317d8494c20ddc8ef57f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbee0903af39785af3f590f091d334d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476463,
+            "locality_id":85950623,
+            "region_id":85688645,
+            "venue_id":672604045
+        }
+    ],
     "wof:id":672604045,
-    "wof:lastmodified":1472625851,
+    "wof:lastmodified":1492109034,
     "wof:name":"Wayland High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

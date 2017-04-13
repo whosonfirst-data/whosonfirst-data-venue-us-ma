@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.84974,41.946059,-70.84974,41.946059",
     "geom:latitude":41.946059,
     "geom:longitude":-70.84974,
@@ -31,19 +32,34 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949,
+        420523907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MxCfgwIx3aT2y1Y0RVpvL_41.946059_-70.849740@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719359,
-    "wof:geomhash":"f520b6101983af671ac45b55b1da4a7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38c4a51f8a8434c26753879f42e18596",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":672456839
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523907,
+            "venue_id":672456839
+        }
+    ],
     "wof:id":672456839,
-    "wof:lastmodified":1472625728,
+    "wof:lastmodified":1492109656,
     "wof:name":"Commonwealth Garage Door",
-    "wof:parent_id":420523907,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

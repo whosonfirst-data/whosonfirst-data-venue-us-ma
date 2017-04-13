@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.811329,42.586133,-71.811329,42.586133",
     "geom:latitude":42.586133,
     "geom:longitude":-71.811329,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420524153,
+        420524105,
         102191575,
         404476549,
         85633793,
         85950381,
         102084655,
-        85688645
+        85688645,
+        420524153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461710875,
-    "wof:geomhash":"396be040c6288965b9df2a2f175b3ac9",
+    "wof:geomhash":"41e30e7fae100a2555572d3c70ccec44",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476549,
+            "locality_id":85950381,
+            "neighbourhood_id":420524105,
+            "region_id":85688645,
+            "venue_id":656346329
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":656346329,
-    "wof:lastmodified":1472624904,
+    "wof:lastmodified":1492102044,
     "wof:name":"Anything On Wheels",
-    "wof:parent_id":420524153,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

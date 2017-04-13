@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.491795,41.685244,-70.491795,41.685244",
     "geom:latitude":41.685244,
     "geom:longitude":-70.491795,
@@ -31,17 +32,26 @@
         "carving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39RQB10YsbJFjDZwxwjOUD_41.685244_-70.491795@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741957,
-    "wof:geomhash":"2810a481fde85b11a5ba0a03e53b6e5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81431d1320ae101c56393415c48b6d6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":689195711
+        }
+    ],
     "wof:id":689195711,
-    "wof:lastmodified":1472625605,
+    "wof:lastmodified":1492100300,
     "wof:name":"Art In Wood",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

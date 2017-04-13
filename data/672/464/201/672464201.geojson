@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.730189,42.042384,-71.730189,42.042384",
     "geom:latitude":42.042384,
     "geom:longitude":-71.730189,
@@ -34,8 +35,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85851849,
-        102084655
+        85950723,
+        102084655,
+        85816249,
+        85851849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,16 @@
     },
     "wof:country":"US",
     "wof:created":1461719541,
-    "wof:geomhash":"725595bfd0db3c3713169f78cca04774",
+    "wof:geomhash":"5747ab325eba8995cf09e4c9d024cb1a",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "locality_id":85950723,
+            "neighbourhood_id":85816249,
+            "region_id":85688645,
+            "venue_id":672464201
+        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -54,9 +65,9 @@
         }
     ],
     "wof:id":672464201,
-    "wof:lastmodified":1472625726,
+    "wof:lastmodified":1492115968,
     "wof:name":"Sutton Paving Co",
-    "wof:parent_id":85851849,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

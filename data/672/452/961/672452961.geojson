@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.817778,42.447384,-71.817778,42.447384",
     "geom:latitude":42.447384,
     "geom:longitude":-71.817778,
@@ -33,17 +34,26 @@
     ],
     "sg:website":"www.neads.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524139
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PNUiNSp6A6jGO2RHVoV81_42.447384_-71.817778@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719252,
-    "wof:geomhash":"d7e25556bff529a2eecd7fbaebb0dfb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f6717163b549c745281112c64c0f702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524139,
+            "venue_id":672452961
+        }
+    ],
     "wof:id":672452961,
-    "wof:lastmodified":1472625718,
+    "wof:lastmodified":1492110426,
     "wof:name":"Neads",
     "wof:parent_id":420524139,
     "wof:placetype":"venue",

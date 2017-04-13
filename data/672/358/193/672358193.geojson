@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.623151,42.65486,-71.623151,42.65486",
     "geom:latitude":42.65486,
     "geom:longitude":-71.623151,
@@ -31,17 +32,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476413,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mM4Qjzdl6VHHHGdfrWsSO_42.654860_-71.623151@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716934,
-    "wof:geomhash":"60558cc652733e3f7206ad23cadf5541",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f1255540031bc9e472019c408e75900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476413,
+            "region_id":85688645,
+            "venue_id":672358193
+        }
+    ],
     "wof:id":672358193,
-    "wof:lastmodified":1472625613,
+    "wof:lastmodified":1492113138,
     "wof:name":"Compatible Software Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

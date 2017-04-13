@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.134774,42.133669,-71.134774,42.133669",
     "geom:latitude":42.133669,
     "geom:longitude":-71.134774,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Prd3waG4HEepD2SRkO5oJ_42.133669_-71.134774@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711845,
-    "wof:geomhash":"9de318a3ace0b873d72040f2c97152be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abc6cdc3b625a102675db5d3526acd05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":656392097
+        }
+    ],
     "wof:id":656392097,
-    "wof:lastmodified":1472624997,
+    "wof:lastmodified":1492101392,
     "wof:name":"Milbrook Pool House",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

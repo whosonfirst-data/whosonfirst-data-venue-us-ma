@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.941768,42.216286,-71.941768,42.216286",
     "geom:latitude":42.216286,
     "geom:longitude":-71.941768,
@@ -32,19 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524135,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TG3oTm2dX3KhHREDzh8bx_42.216286_-71.941768@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724779,
-    "wof:geomhash":"e8adaa942f72d81f5e77ab811b912577",
-    "wof:hierarchy":[],
+    "wof:geomhash":"596c34683bffe0e33218fd03383ec4f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524135,
+            "venue_id":672696335
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":672696335
+        }
+    ],
     "wof:id":672696335,
-    "wof:lastmodified":1472625934,
+    "wof:lastmodified":1492117990,
     "wof:name":"Northern Construction Svc LLC",
-    "wof:parent_id":420524147,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

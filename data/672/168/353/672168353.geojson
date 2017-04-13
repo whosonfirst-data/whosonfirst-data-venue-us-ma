@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.69307,41.916028,-70.69307,41.916028",
     "geom:latitude":41.916028,
     "geom:longitude":-70.69307,
@@ -33,17 +34,26 @@
         "damage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CLeh0DsrmICUxvlNu56ad_41.916028_-70.693070@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712867,
-    "wof:geomhash":"bedb7d78df5e5b0c9ea9df5223eadf85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"385205704436ae04931a3bfe087ff05c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672168353
+        }
+    ],
     "wof:id":672168353,
-    "wof:lastmodified":1472625026,
+    "wof:lastmodified":1492117604,
     "wof:name":"Crystal Restoration",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

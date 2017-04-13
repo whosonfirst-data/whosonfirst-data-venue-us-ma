@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.811907,41.941092,-70.811907,41.941092",
     "geom:latitude":41.941092,
     "geom:longitude":-70.811907,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10OzpcB9JdsJOHG2kL6sWY_41.941092_-70.811907@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712780,
-    "wof:geomhash":"43bd9a974db04fc8fc0f6e58a374c89b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecf51b8d4454d3238e687f94bb107770",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672164497
+        }
+    ],
     "wof:id":672164497,
-    "wof:lastmodified":1472625020,
+    "wof:lastmodified":1492109413,
     "wof:name":"Greenskeepers Lawn Care",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

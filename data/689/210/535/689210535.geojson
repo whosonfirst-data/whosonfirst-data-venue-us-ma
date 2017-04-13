@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.249496,41.678001,-70.249496,41.678001",
     "geom:latitude":41.678001,
     "geom:longitude":-70.249496,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UejxT55RSbR2dmcJylB5r_41.678001_-70.249496@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742267,
-    "wof:geomhash":"aefed9c50aceb8c6412160273084a8ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75128440e7dceb4af7d3c619c088dbac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":689210535
+        }
+    ],
     "wof:id":689210535,
-    "wof:lastmodified":1472625610,
+    "wof:lastmodified":1492098288,
     "wof:name":"Fuller Elect Co",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

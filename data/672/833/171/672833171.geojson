@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.024089,41.990182,-71.024089,41.990182",
     "geom:latitude":41.990182,
     "geom:longitude":-71.024089,
@@ -31,17 +32,26 @@
         "printer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tv1Ge5BFIiW0ITHFl0rUS_41.990182_-71.024089@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727661,
-    "wof:geomhash":"6fe3a07b1a4ffe0860cb16f651ae209d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"321b4067b71768493f7fbf2e2631cf4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672833171
+        }
+    ],
     "wof:id":672833171,
-    "wof:lastmodified":1472626055,
+    "wof:lastmodified":1492107930,
     "wof:name":"Classic Printing Inc",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

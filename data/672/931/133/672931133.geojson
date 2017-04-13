@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101986,42.059174,-71.101986,42.059174",
     "geom:latitude":42.059174,
     "geom:longitude":-71.101986,
@@ -37,7 +38,8 @@
         85688645,
         85633793,
         85813383,
-        102084407
+        102084407,
+        85835343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461729659,
-    "wof:geomhash":"7eb2d4e7c102f93561864bb59076d4b5",
+    "wof:geomhash":"7fab9d2df1161240bafc3d9657b80a1c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,19 @@
             "neighbourhood_id":85813383,
             "region_id":85688645,
             "venue_id":672931133
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85835343,
+            "region_id":85688645,
+            "venue_id":672931133
         }
     ],
     "wof:id":672931133,
-    "wof:lastmodified":1472626141,
+    "wof:lastmodified":1492109614,
     "wof:name":"Public Works Dept",
-    "wof:parent_id":85813383,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

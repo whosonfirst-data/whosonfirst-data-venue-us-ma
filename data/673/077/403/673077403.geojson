@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.074437,41.52717,-71.074437,41.52717",
     "geom:latitude":41.52717,
     "geom:longitude":-71.074437,
@@ -26,8 +27,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523293,
+        85688645,
         85802383,
         102084407
     ],
@@ -37,8 +39,13 @@
     },
     "wof:country":"US",
     "wof:created":1461733295,
-    "wof:geomhash":"b2dfd3cefc4fd975b86810beeeba176a",
+    "wof:geomhash":"e3bbef507dec5076971da6c1b6e71475",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":673077403
+        },
         {
             "country_id":85633793,
             "county_id":102084407,
@@ -48,9 +55,9 @@
         }
     ],
     "wof:id":673077403,
-    "wof:lastmodified":1472625182,
+    "wof:lastmodified":1492104475,
     "wof:name":"Lees Oil Svc Inc",
-    "wof:parent_id":85802383,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

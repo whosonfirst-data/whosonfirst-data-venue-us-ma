@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.482517,42.036164,-72.482517,42.036164",
     "geom:latitude":42.036164,
     "geom:longitude":-72.482517,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475973,
+        85633793,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EjZhD6A202w69scxO9RPy_42.036164_-72.482517@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715318,
-    "wof:geomhash":"eb011ca1db374f35a08bae57a27a935e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb0ed53310c4d224e05072d5619892f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404475973,
+            "region_id":85688645,
+            "venue_id":672285905
+        }
+    ],
     "wof:id":672285905,
-    "wof:lastmodified":1472625472,
+    "wof:lastmodified":1492105852,
     "wof:name":"Brunelle Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

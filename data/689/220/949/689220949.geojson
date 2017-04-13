@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.331596,41.8293,-71.331596,41.8293",
     "geom:latitude":41.8293,
     "geom:longitude":-71.331596,
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85816693,
-        102084407
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +52,21 @@
     },
     "wof:country":"US",
     "wof:created":1461742496,
-    "wof:geomhash":"3e9b6820ca5c6d242a506c75ec5997ab",
+    "wof:geomhash":"e9a24f7718d1ce957e824039315d4eb2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084407,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
             "neighbourhood_id":85816693,
-            "region_id":85688645,
+            "region_id":85688509,
             "venue_id":689220949
         }
     ],
     "wof:id":689220949,
-    "wof:lastmodified":1472625624,
+    "wof:lastmodified":1492098362,
     "wof:name":"Shannon Paul F Optmtrst - CLOSED",
     "wof:parent_id":85816693,
     "wof:placetype":"venue",

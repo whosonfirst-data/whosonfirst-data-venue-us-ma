@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.736417,42.656312,-71.736417,42.656312",
     "geom:latitude":42.656312,
     "geom:longitude":-71.736417,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523737
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hzFOZBl50RJGJdwYQWH1j_42.656312_-71.736417@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731198,
-    "wof:geomhash":"04c6e9d7471383c0e5eb1251c5bdb075",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a87615494b2c02652cd2ede9d6d4e87f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523737,
+            "venue_id":672986513
+        }
+    ],
     "wof:id":672986513,
-    "wof:lastmodified":1472626194,
+    "wof:lastmodified":1492108963,
     "wof:name":"Eighty Two Bayberry Hill Rd",
     "wof:parent_id":420523737,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.43367,42.244769,-71.43367,42.244769",
     "geom:latitude":42.244769,
     "geom:longitude":-71.43367,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZElX9J9XWCvqoMNUDEecm_42.244769_-71.433670@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730438,
-    "wof:geomhash":"7b69e99f2ef957d29db349084c8702d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"146754df6c125213f18adaa040cff057",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672960271
+        }
+    ],
     "wof:id":672960271,
-    "wof:lastmodified":1472626168,
+    "wof:lastmodified":1492110091,
     "wof:name":"Allied Automotive Group",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.806245,42.231082,-70.806245,42.231082",
     "geom:latitude":42.231082,
     "geom:longitude":-70.806245,
@@ -32,17 +33,26 @@
         "doctor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h3hGKzpnqBtjAlMmsnBFb_42.231082_-70.806245@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719442,
-    "wof:geomhash":"127bed4af6daecdf592143d97d56b0b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4152dfa777384477e76f6c11a8bf1efe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672460153
+        }
+    ],
     "wof:id":672460153,
-    "wof:lastmodified":1472625722,
+    "wof:lastmodified":1492107654,
     "wof:name":"Emmer Susan C",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

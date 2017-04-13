@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.573908,42.610192,-71.573908,42.610192",
     "geom:latitude":42.610192,
     "geom:longitude":-71.573908,
@@ -31,17 +32,34 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476491,
+        85633793,
+        85950631,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MB0kwdzn9TmLDtSxfKNwH_42.610192_-71.573908@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712897,
-    "wof:geomhash":"0543ca2a58da335c971ecf53e8fd7a52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ba8c0b591e0464bef34003c441fc75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476491,
+            "locality_id":85950631,
+            "region_id":85688645,
+            "venue_id":672169661
+        }
+    ],
     "wof:id":672169661,
-    "wof:lastmodified":1472625069,
+    "wof:lastmodified":1492107396,
     "wof:name":"Groton Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

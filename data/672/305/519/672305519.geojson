@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.782934,41.946504,-70.782934,41.946504",
     "geom:latitude":41.946504,
     "geom:longitude":-70.782934,
@@ -31,17 +32,26 @@
         "ready"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gXNvgmBKIERYApZwXlvYM_41.946504_-70.782934@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715709,
-    "wof:geomhash":"5330d1359edf69f970f6c83a91b6bc38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e44ebfe800970be19a17cbee16e7fd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672305519
+        }
+    ],
     "wof:id":672305519,
-    "wof:lastmodified":1472625506,
+    "wof:lastmodified":1492117301,
     "wof:name":"Lawrence Ready Mix",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

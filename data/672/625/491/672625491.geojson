@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.966493,42.144944,-71.966493,42.144944",
     "geom:latitude":42.144944,
     "geom:longitude":-71.966493,
@@ -31,17 +32,26 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E7JBkVs2vecMEGdJ1j4Ih_42.144944_-71.966493@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723192,
-    "wof:geomhash":"7aec655802a7911436c28a06943a5113",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9add750ac90513c869661e1fe559fa2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":672625491
+        }
+    ],
     "wof:id":672625491,
-    "wof:lastmodified":1472625875,
+    "wof:lastmodified":1492112230,
     "wof:name":"LA Mountain's Svc Station",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

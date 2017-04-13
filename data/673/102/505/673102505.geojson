@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.464612,42.182151,-72.464612,42.182151",
     "geom:latitude":42.182151,
     "geom:longitude":-72.464612,
@@ -31,17 +32,26 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PuGI4sgHN0h23NhKnV8Z4_42.182151_-72.464612@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733816,
-    "wof:geomhash":"20266633d948fccf6e3511280aff43bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"600440009667e4b5b4ef261848ad78d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":673102505
+        }
+    ],
     "wof:id":673102505,
-    "wof:lastmodified":1472625276,
+    "wof:lastmodified":1492104758,
     "wof:name":"Chisholm Carpentry",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.956048,41.848417,-70.956048,41.848417",
     "geom:latitude":41.848417,
     "geom:longitude":-70.956048,
@@ -32,17 +33,26 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0O5urOsOA8CdexEy6iEbsP_41.848417_-70.956048@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728612,
-    "wof:geomhash":"696e4e322a58426c655c0aa1693b2836",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e468773c0f49ed4fb9ccc407a9a7c0c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523969,
+            "venue_id":672879125
+        }
+    ],
     "wof:id":672879125,
-    "wof:lastmodified":1472626096,
+    "wof:lastmodified":1492107888,
     "wof:name":"Chase Enterprises",
     "wof:parent_id":420523969,
     "wof:placetype":"venue",

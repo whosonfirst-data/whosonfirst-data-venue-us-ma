@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.0682,41.994784,-71.0682,41.994784",
     "geom:latitude":41.994784,
     "geom:longitude":-71.0682,
@@ -31,17 +32,26 @@
         "stone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523373
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2i6jVgShDc7dLao7zzRT1M_41.994784_-71.068200@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714199,
-    "wof:geomhash":"9d22dbb236371fb5adab286061c1199e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d8f11b0ef17f657cdd4397f385e13d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523373,
+            "venue_id":672231025
+        }
+    ],
     "wof:id":672231025,
-    "wof:lastmodified":1472625284,
+    "wof:lastmodified":1492117696,
     "wof:name":"Lee's Stone Supply",
     "wof:parent_id":420523373,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.410703,42.60864,-71.410703,42.60864",
     "geom:latitude":42.60864,
     "geom:longitude":-71.410703,
@@ -31,19 +32,32 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85807975,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1usDYsZfef9llQLASjP04X_42.608640_-71.410703@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714857,
-    "wof:geomhash":"506abd1ed439a04600c1b1a47fe20915",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e261638740be0edff8fa8001c73b276",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85807975,
+            "region_id":85688645,
+            "venue_id":672262541
+        }
+    ],
     "wof:id":672262541,
-    "wof:lastmodified":1472625378,
+    "wof:lastmodified":1492118711,
     "wof:name":"Anton's Cleaners Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807975,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

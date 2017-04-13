@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.888106,42.456415,-72.888106,42.456415",
     "geom:latitude":42.456415,
     "geom:longitude":-72.888106,
@@ -28,17 +29,26 @@
     "sg:postcode":"01026",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cjm0sfEXXCPpNOvi2w9q6_42.456415_-72.888106@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725492,
-    "wof:geomhash":"a1c342312a3ee501a9f9679259bdbf36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6876f706ff40acded1cbca96bffa1f29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523653,
+            "venue_id":672729141
+        }
+    ],
     "wof:id":672729141,
-    "wof:lastmodified":1472625958,
+    "wof:lastmodified":1492108201,
     "wof:name":"Pizza By Bob II",
     "wof:parent_id":420523653,
     "wof:placetype":"venue",

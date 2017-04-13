@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.138976,42.473745,-71.138976,42.473745",
     "geom:latitude":42.473745,
     "geom:longitude":-71.138976,
@@ -38,7 +39,10 @@
         85633793,
         85950665,
         102084643,
-        85688645
+        85688645,
+        85858437,
+        404476469,
+        85950353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461714287,
-    "wof:geomhash":"7deaff4326cd8e0395c9f3776e2ac243",
+    "wof:geomhash":"55cc49525638e5923b0621895624e6f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +61,22 @@
             "neighbourhood_id":85858139,
             "region_id":85688645,
             "venue_id":672234841
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476469,
+            "locality_id":85950353,
+            "neighbourhood_id":85858437,
+            "region_id":85688645,
+            "venue_id":672234841
         }
     ],
     "wof:id":672234841,
-    "wof:lastmodified":1472625319,
+    "wof:lastmodified":1492106351,
     "wof:name":"CT Wing Construction",
-    "wof:parent_id":85858139,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

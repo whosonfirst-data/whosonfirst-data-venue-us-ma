@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.194496,42.709405,-73.194496,42.709405",
     "geom:latitude":42.709405,
     "geom:longitude":-73.194496,
@@ -31,8 +32,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85806309,
-        102084369
+        85857459,
+        102084369,
+        85806309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +42,15 @@
     },
     "wof:country":"US",
     "wof:created":1461713513,
-    "wof:geomhash":"cd3127618b07769885b6c51fdc72220a",
+    "wof:geomhash":"a4d5c7ff1f2a72d721aee832d857457d",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084369,
+            "neighbourhood_id":85857459,
+            "region_id":85688645,
+            "venue_id":672197729
+        },
         {
             "country_id":85633793,
             "county_id":102084369,
@@ -51,9 +60,9 @@
         }
     ],
     "wof:id":672197729,
-    "wof:lastmodified":1472625171,
+    "wof:lastmodified":1492110955,
     "wof:name":"Dufour Inc Williamstown Dsptch",
-    "wof:parent_id":85806309,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

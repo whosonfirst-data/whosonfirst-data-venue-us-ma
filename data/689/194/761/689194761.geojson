@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.6157,41.6508,-70.6157,41.6508",
     "geom:latitude":41.6508,
     "geom:longitude":-70.6157,
@@ -38,17 +39,26 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21IC10QH6kRWqTT7Qkpqu4_41.650800_-70.615700@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741937,
-    "wof:geomhash":"13bb0252bca473c82fcf76b0ed27dd8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"969fcba6fb7bf37d3c439d5d92a1733a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":689194761
+        }
+    ],
     "wof:id":689194761,
-    "wof:lastmodified":1472625596,
+    "wof:lastmodified":1492099909,
     "wof:name":"Lilac Hill All Breed Grooming",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

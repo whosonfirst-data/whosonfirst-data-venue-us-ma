@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.859424,41.622636,-70.859424,41.622636",
     "geom:latitude":41.622636,
     "geom:longitude":-70.859424,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523311
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26jqSzy1DZFwNAovYFNU8H_41.622636_-70.859424@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742361,
-    "wof:geomhash":"5f8593bbdf104bcce4f9b75e82cb3316",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6af8ba8237089350392d2237f2a3eda5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523311,
+            "venue_id":689214929
+        }
+    ],
     "wof:id":689214929,
-    "wof:lastmodified":1472625625,
+    "wof:lastmodified":1492097498,
     "wof:name":"Enchanted Treasures Inc",
     "wof:parent_id":420523311,
     "wof:placetype":"venue",

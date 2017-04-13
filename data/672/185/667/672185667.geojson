@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.744562,41.944101,-70.744562,41.944101",
     "geom:latitude":41.944101,
     "geom:longitude":-70.744562,
@@ -33,17 +34,26 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qgaoN9I05XLCssxhIZA8n_41.944101_-70.744562@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713241,
-    "wof:geomhash":"a8e33079e3641c4f45298de028115f83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98780600a71e4606e8b8cf23f3d3faaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672185667
+        }
+    ],
     "wof:id":672185667,
-    "wof:lastmodified":1472625132,
+    "wof:lastmodified":1492111604,
     "wof:name":"Advanced Carpet Systems",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

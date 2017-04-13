@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.992302,42.722801,-70.992302,42.722801",
     "geom:latitude":42.722801,
     "geom:longitude":-70.992302,
@@ -33,17 +34,26 @@
         "nose"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NAFuwpcikeRtwOjMbQRLo_42.722801_-70.992302@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735242,
-    "wof:geomhash":"8363087bb1eb9cb7bbc4f0bd1988b0b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ed135bad46fb62cd319b5afbd21dd5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673171019
+        }
+    ],
     "wof:id":673171019,
-    "wof:lastmodified":1472625456,
+    "wof:lastmodified":1492103721,
     "wof:name":"Khalil Mostafa MD",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

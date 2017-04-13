@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.785398,42.02732,-72.785398,42.02732",
     "geom:latitude":42.02732,
     "geom:longitude":-72.785398,
@@ -32,17 +33,26 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DA1UgxajJYWfsuPbXdzMb_42.027320_-72.785398@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728096,
-    "wof:geomhash":"244938e4fa195a338c6c831df3db44aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b197a0b955dbbbc48aa488d12144d72f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523599,
+            "venue_id":672855437
+        }
+    ],
     "wof:id":672855437,
-    "wof:lastmodified":1472626082,
+    "wof:lastmodified":1492114392,
     "wof:name":"Family Resource Ctr",
     "wof:parent_id":420523599,
     "wof:placetype":"venue",

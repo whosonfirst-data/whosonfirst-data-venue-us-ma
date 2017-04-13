@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.002935,42.723773,-71.002935,42.723773",
     "geom:latitude":42.723773,
     "geom:longitude":-71.002935,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LWxSyENw7GvVwVzUyMLk6_42.723773_-71.002935@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727951,
-    "wof:geomhash":"d66580c371589c199fb5205227b5be55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05fae417d9f350c6883f208bd6a24431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672847845
+        }
+    ],
     "wof:id":672847845,
-    "wof:lastmodified":1472626082,
+    "wof:lastmodified":1492115824,
     "wof:name":"Berardis Ann Day Care",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

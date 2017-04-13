@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.463783,41.67701,-70.463783,41.67701",
     "geom:latitude":41.67701,
     "geom:longitude":-70.463783,
@@ -37,17 +38,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qVDCiPYHiwFIVijcL3mc2_41.677010_-70.463783@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741955,
-    "wof:geomhash":"9e13289dfde0e3c3af875ba718c6390b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88b40372e38de8d5c392b5a9faf7a149",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":689195633
+        }
+    ],
     "wof:id":689195633,
-    "wof:lastmodified":1472625600,
+    "wof:lastmodified":1492100295,
     "wof:name":"Dream Clean",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.599419,42.648832,-72.599419,42.648832",
     "geom:latitude":42.648832,
     "geom:longitude":-72.599419,
@@ -31,17 +32,26 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37ueJWheacqsbBLAtlMpFa_42.648832_-72.599419@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731668,
-    "wof:geomhash":"a234eb151022af37b79d19c2b68d6a2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab7d02d6f375681366eb9c570693a636",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":673004687
+        }
+    ],
     "wof:id":673004687,
-    "wof:lastmodified":1472624967,
+    "wof:lastmodified":1492104965,
     "wof:name":"Forest Products Assoc",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

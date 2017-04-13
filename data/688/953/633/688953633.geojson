@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.103502,42.124172,-71.103502,42.124172",
     "geom:latitude":42.124172,
     "geom:longitude":-71.103502,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"www.mbta.com/schedules_and_maps/...",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00sk6WPgL43VYSFI51uF0h_42.124172_-71.103502@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736319,
-    "wof:geomhash":"95e7ef6a17be215c9b5e8cd41c9381c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c30896816fd83701983e4cbccbef7b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688953633
+        }
+    ],
     "wof:id":688953633,
-    "wof:lastmodified":1472625157,
+    "wof:lastmodified":1492120229,
     "wof:name":"Stoughton MBTA Commuter Rail Station",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

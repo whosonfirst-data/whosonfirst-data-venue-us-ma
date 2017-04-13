@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.987683,42.081617,-70.987683,42.081617",
     "geom:latitude":42.081617,
     "geom:longitude":-70.987683,
@@ -29,11 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85855157,
+        102191575,
+        404476503,
         85633793,
-        85950439,
+        85950319,
         102084367,
-        85855157
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +44,21 @@
     },
     "wof:country":"US",
     "wof:created":1461716544,
-    "wof:geomhash":"43872ea64b09c0f818b6f981ebb806fe",
+    "wof:geomhash":"dc14f71f6461a99f586794c9eeea2594",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084367,
-            "locality_id":85950439,
+            "localadmin_id":404476503,
+            "locality_id":85950319,
             "neighbourhood_id":85855157,
             "region_id":85688645,
             "venue_id":672341997
         }
     ],
     "wof:id":672341997,
-    "wof:lastmodified":1472625583,
+    "wof:lastmodified":1492109073,
     "wof:name":"Mcdonalds Restaurant",
     "wof:parent_id":85855157,
     "wof:placetype":"venue",

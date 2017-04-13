@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.905717,42.05289,-70.905717,42.05289",
     "geom:latitude":42.05289,
     "geom:longitude":-70.905717,
@@ -33,17 +34,26 @@
         "award"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pYwtOuU5TAdztvhBzGaT5_42.052890_-70.905717@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728629,
-    "wof:geomhash":"030180763b10d8d3bb50e7502b750d94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bf98130c78743b9d69ba5ec53eadcb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":672880089
+        }
+    ],
     "wof:id":672880089,
-    "wof:lastmodified":1472626095,
+    "wof:lastmodified":1492105931,
     "wof:name":"Whitman Trophy",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

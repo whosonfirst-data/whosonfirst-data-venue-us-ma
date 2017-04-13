@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.079809,41.653275,-71.079809,41.653275",
     "geom:latitude":41.653275,
     "geom:longitude":-71.079809,
@@ -33,10 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420523285,
         420523305,
         102191575,
         404476149,
-        85633793,
         85950677,
         102084407,
         85688645
@@ -47,8 +49,13 @@
     },
     "wof:country":"US",
     "wof:created":1461717248,
-    "wof:geomhash":"ff48af5fdd68d631316430a8f4526534",
+    "wof:geomhash":"71e39ba9a60a29eb6cc318b864b23cad",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672371907
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +68,9 @@
         }
     ],
     "wof:id":672371907,
-    "wof:lastmodified":1472625651,
+    "wof:lastmodified":1492108235,
     "wof:name":"Graham Enterprises",
-    "wof:parent_id":420523305,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

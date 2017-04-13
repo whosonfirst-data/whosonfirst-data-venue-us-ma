@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.671488,42.072054,-70.671488,42.072054",
     "geom:latitude":42.072054,
     "geom:longitude":-70.671488,
@@ -32,19 +33,40 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950461,
+        102084367,
+        85819249,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54nkhJ7CREWQm5p8Svt8iB_42.072054_-70.671488@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732204,
-    "wof:geomhash":"51681681501ebee1ebbcf899d7e9efc8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e72ce12bef32f9fea6c83ba678aaed3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950461,
+            "neighbourhood_id":85819249,
+            "region_id":85688645,
+            "venue_id":673025925
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":673025925
+        }
+    ],
     "wof:id":673025925,
-    "wof:lastmodified":1472625033,
+    "wof:lastmodified":1492104160,
     "wof:name":"A C Brazao Sons Inc",
-    "wof:parent_id":420523971,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

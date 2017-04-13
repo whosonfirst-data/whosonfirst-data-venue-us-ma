@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.868084,41.923046,-70.868084,41.923046",
     "geom:latitude":41.923046,
     "geom:longitude":-70.868084,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UQjrCxS01giVPkLpiAinR_41.923046_-70.868084@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716816,
-    "wof:geomhash":"8981af0f1eb789e873faf683c332646f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a5204788c39c004161b587925610834",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523895,
+            "venue_id":672353035
+        }
+    ],
     "wof:id":672353035,
-    "wof:lastmodified":1472625605,
+    "wof:lastmodified":1492106842,
     "wof:name":"On Cranberry Pond B & B",
     "wof:parent_id":420523895,
     "wof:placetype":"venue",

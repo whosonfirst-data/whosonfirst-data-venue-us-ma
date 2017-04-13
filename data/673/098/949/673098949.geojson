@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.494232,42.425836,-72.494232,42.425836",
     "geom:latitude":42.425836,
     "geom:longitude":-72.494232,
@@ -45,17 +46,26 @@
         "replacement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MmhbAv4v0ZgKFT0tYw2Qf_42.425836_-72.494232@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733736,
-    "wof:geomhash":"59c0a5f50a08e3adad48fd2da97686d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e935d360f1f8529444ed5fb769193ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523639,
+            "venue_id":673098949
+        }
+    ],
     "wof:id":673098949,
-    "wof:lastmodified":1472625301,
+    "wof:lastmodified":1492105082,
     "wof:name":"Battistoni Roofing",
     "wof:parent_id":420523639,
     "wof:placetype":"venue",

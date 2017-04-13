@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.110398,42.138255,-71.110398,42.138255",
     "geom:latitude":42.138255,
     "geom:longitude":-71.110398,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VR8b54Eb4ZxffaQF9ShAW_42.138255_-71.110398@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719110,
-    "wof:geomhash":"2e2bea9e085cd76f78ace3f3fa675d2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d327c3dfad7c30c50d4a5f5ed47b3bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672447459
+        }
+    ],
     "wof:id":672447459,
-    "wof:lastmodified":1472625713,
+    "wof:lastmodified":1492116253,
     "wof:name":"Fisher Heating & Air Cond",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

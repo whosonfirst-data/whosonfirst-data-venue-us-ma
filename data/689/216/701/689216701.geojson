@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.304604,42.005001,-71.304604,42.005001",
     "geom:latitude":42.005001,
     "geom:longitude":-71.304604,
@@ -31,17 +32,32 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476133,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u06TKiwV7g94XhxPAWlQu_42.005001_-71.304604@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742394,
-    "wof:geomhash":"b2eeb4a72362449296c162200f7bf816",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf891b0d8b02bb45c9c1dacd36ea0924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476133,
+            "region_id":85688645,
+            "venue_id":689216701
+        }
+    ],
     "wof:id":689216701,
-    "wof:lastmodified":1472625627,
+    "wof:lastmodified":1492097708,
     "wof:name":"Mayflower Transit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

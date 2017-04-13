@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.517204,42.239598,-71.517204,42.239598",
     "geom:latitude":42.239598,
     "geom:longitude":-71.517204,
@@ -32,19 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950719,
+        102084655,
+        85812283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10c0IhyjKq9jG1FnljPNuc_42.239598_-71.517204@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727505,
-    "wof:geomhash":"70c0b5157d3784b581948655d6a411f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9db228a3e073876c506893c9797bd2db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "locality_id":85950719,
+            "neighbourhood_id":85812283,
+            "region_id":85688645,
+            "venue_id":672825415
+        }
+    ],
     "wof:id":672825415,
-    "wof:lastmodified":1472626055,
+    "wof:lastmodified":1492114836,
     "wof:name":"American Climbers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85812283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

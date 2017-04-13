@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.03397,42.24807,-71.03397,42.24807",
     "geom:latitude":42.24807,
     "geom:longitude":-71.03397,
@@ -33,13 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816583,
+        85837519,
         102191575,
         404476591,
         85633793,
         85950429,
         102084403,
-        85688645
+        85688645,
+        85816583,
+        404476583,
+        85950833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461717577,
-    "wof:geomhash":"fef8b566f2baf0c0d9c3c56617612553",
+    "wof:geomhash":"0e7d253d9f9c8f3abefa2590603f4d60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,15 +59,25 @@
             "county_id":102084403,
             "localadmin_id":404476591,
             "locality_id":85950429,
+            "neighbourhood_id":85837519,
+            "region_id":85688645,
+            "venue_id":672387105
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476583,
+            "locality_id":85950833,
             "neighbourhood_id":85816583,
             "region_id":85688645,
             "venue_id":672387105
         }
     ],
     "wof:id":672387105,
-    "wof:lastmodified":1472625651,
+    "wof:lastmodified":1492109741,
     "wof:name":"Ace Carpet Inc",
-    "wof:parent_id":85816583,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

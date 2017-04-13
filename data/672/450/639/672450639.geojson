@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.567042,42.129952,-71.567042,42.129952",
     "geom:latitude":42.129952,
     "geom:longitude":-71.567042,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461719193,
-    "wof:geomhash":"b6a5039b12e7113630d7091cd8b86eac",
+    "wof:geomhash":"af6bc2259e312558e415381c6b58584b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672450639
         }
     ],
     "wof:id":672450639,
-    "wof:lastmodified":1472625718,
+    "wof:lastmodified":1492111766,
     "wof:name":"Landsite Construction Corp",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

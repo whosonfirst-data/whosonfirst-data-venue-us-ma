@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.943626,42.321388,-71.943626,42.321388",
     "geom:latitude":42.321388,
     "geom:longitude":-71.943626,
@@ -33,17 +34,26 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fcADVi3YGQoek32eZNcyX_42.321388_-71.943626@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713720,
-    "wof:geomhash":"86ae60a2fbda9f48b3d684e9439a996b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b87df798f7b4fc18882fa783e1c13d85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672207439
+        }
+    ],
     "wof:id":672207439,
-    "wof:lastmodified":1472625215,
+    "wof:lastmodified":1492114409,
     "wof:name":"Mill Pond Studio",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

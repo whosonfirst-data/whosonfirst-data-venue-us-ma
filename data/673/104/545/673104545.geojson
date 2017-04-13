@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.784907,42.032066,-72.784907,42.032066",
     "geom:latitude":42.032066,
     "geom:longitude":-72.784907,
@@ -34,17 +35,26 @@
     ],
     "sg:website":"http://www.southwickacres.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QKEqacw384piu4AAixs8B_42.032066_-72.784907@1303262184"
     },
     "wof:country":"US",
     "wof:created":1461733869,
-    "wof:geomhash":"20587dda1cd73c71de9a926a0a642623",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c26da48e08b25362c75138454cb2dbc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523599,
+            "venue_id":673104545
+        }
+    ],
     "wof:id":673104545,
-    "wof:lastmodified":1472625283,
+    "wof:lastmodified":1492102759,
     "wof:name":"Southwick Acres Campgrounds",
     "wof:parent_id":420523599,
     "wof:placetype":"venue",

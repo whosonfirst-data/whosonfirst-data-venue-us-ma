@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.953853,42.790332,-70.953853,42.790332",
     "geom:latitude":42.790332,
     "geom:longitude":-70.953853,
@@ -32,17 +33,26 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30QK5r0I3Y3cebyruCadV0_42.790332_-70.953853@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715011,
-    "wof:geomhash":"77e07b25e51ebbb26eab859515592e49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f81f4ae2f3bff9665a9ebd185779f1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672270437
+        }
+    ],
     "wof:id":672270437,
-    "wof:lastmodified":1472625416,
+    "wof:lastmodified":1492112514,
     "wof:name":"Air Testing Sevices",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

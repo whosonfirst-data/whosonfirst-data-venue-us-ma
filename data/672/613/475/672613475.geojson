@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.374972,42.140226,-71.374972,42.140226",
     "geom:latitude":42.140226,
     "geom:longitude":-71.374972,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bsWIuJaWIP5oberwyDH4G_42.140226_-71.374972@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722917,
-    "wof:geomhash":"9273e14df5296e8f9bc11fafb0523fb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d023ef41b02696f62993e56bad429178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523797,
+            "venue_id":672613475
+        }
+    ],
     "wof:id":672613475,
-    "wof:lastmodified":1472625862,
+    "wof:lastmodified":1492108993,
     "wof:name":"GE Capital Net Solutions",
     "wof:parent_id":420523797,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.826549,42.439453,-71.826549,42.439453",
     "geom:latitude":42.439453,
     "geom:longitude":-71.826549,
@@ -31,17 +32,26 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524139
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2i2HNhydqxnUabABvoq51u_42.439453_-71.826549@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728124,
-    "wof:geomhash":"6b10d1b9b446cc706451999cb8a0a62e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36ff120eada207e2f08dd38818b646a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524139,
+            "venue_id":672857051
+        }
+    ],
     "wof:id":672857051,
-    "wof:lastmodified":1472626071,
+    "wof:lastmodified":1492113078,
     "wof:name":"Presto The Magic Clown",
     "wof:parent_id":420524139,
     "wof:placetype":"venue",

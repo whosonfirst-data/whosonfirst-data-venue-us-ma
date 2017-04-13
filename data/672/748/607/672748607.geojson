@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.947594,41.848259,-70.947594,41.848259",
     "geom:latitude":41.848259,
     "geom:longitude":-70.947594,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Py45ppGaTEMYeuZrLxuvn_41.848259_-70.947594@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725912,
-    "wof:geomhash":"3585e4a2b9b3c2076cbca9c48bcb37c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3bcb71c443351a04ab3a84ba91ceea0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523969,
+            "venue_id":672748607
+        }
+    ],
     "wof:id":672748607,
-    "wof:lastmodified":1472625987,
+    "wof:lastmodified":1492116782,
     "wof:name":"Thiel Land Development",
     "wof:parent_id":420523969,
     "wof:placetype":"venue",

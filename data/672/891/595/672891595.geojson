@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.852202,42.849951,-70.852202,42.849951",
     "geom:latitude":42.849951,
     "geom:longitude":-70.852202,
@@ -33,17 +34,32 @@
         "striping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476261,
+        85633793,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EDzJdhS0mjeAmOtYgIKBR_42.849951_-70.852202@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728858,
-    "wof:geomhash":"c699cfa07b0c58594469009bb92650c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"484c42f3427145acda4874547a0b7315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476261,
+            "region_id":85688645,
+            "venue_id":672891595
+        }
+    ],
     "wof:id":672891595,
-    "wof:lastmodified":1472626115,
+    "wof:lastmodified":1492107436,
     "wof:name":"Ballard Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

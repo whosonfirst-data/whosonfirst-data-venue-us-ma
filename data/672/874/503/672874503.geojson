@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.890896,42.556342,-70.890896,42.556342",
     "geom:latitude":42.556342,
     "geom:longitude":-70.890896,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891249,
+        85844369,
         102191575,
         404476287,
         85633793,
         85950421,
         102084463,
         85688645,
-        85844369
+        85891249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461728526,
-    "wof:geomhash":"a304f962886cc4132bed5da8819f4299",
+    "wof:geomhash":"f59b32911bb8406e9ef879b91626fbc1",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476287,
-            "locality_id":85950421,
-            "neighbourhood_id":85891249,
-            "region_id":85688645,
-            "venue_id":672874503
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -68,12 +59,22 @@
             "neighbourhood_id":85844369,
             "region_id":85688645,
             "venue_id":672874503
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476287,
+            "locality_id":85950421,
+            "neighbourhood_id":85891249,
+            "region_id":85688645,
+            "venue_id":672874503
         }
     ],
     "wof:id":672874503,
-    "wof:lastmodified":1472626098,
+    "wof:lastmodified":1492114271,
     "wof:name":"Mikey's Famous Roastbeef",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

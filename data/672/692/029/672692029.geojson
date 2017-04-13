@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.113627,42.62394,-73.113627,42.62394",
     "geom:latitude":42.62394,
     "geom:longitude":-73.113627,
@@ -31,17 +32,26 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uOBK72kksjRB5EsNVUMjQ_42.623940_-73.113627@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724685,
-    "wof:geomhash":"7fee9404e27ff6a61ac7392f15585a23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70371af0be2991250aae3ed143d518c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672692029
+        }
+    ],
     "wof:id":672692029,
-    "wof:lastmodified":1472625929,
+    "wof:lastmodified":1492110245,
     "wof:name":"Swanson's Seafood & Deli",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

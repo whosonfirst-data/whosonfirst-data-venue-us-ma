@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.079732,41.617276,-71.079732,41.617276",
     "geom:latitude":41.617276,
     "geom:longitude":-71.079732,
@@ -31,17 +32,26 @@
         "graphics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iD2M5TWxUlnzTIB3JYtTq_41.617276_-71.079732@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720700,
-    "wof:geomhash":"da99fca89d88a56ca988c604e3ec17c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d253cbb6e8795a65fc198f6454b8a12b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672513695
+        }
+    ],
     "wof:id":672513695,
-    "wof:lastmodified":1472625786,
+    "wof:lastmodified":1492115867,
     "wof:name":"Technical Graphic Svc Inc",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

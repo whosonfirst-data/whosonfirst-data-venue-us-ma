@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.722269,42.239407,-71.722269,42.239407",
     "geom:latitude":42.239407,
     "geom:longitude":-71.722269,
@@ -33,17 +34,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xVJ8PJnKdB5QjJbP0lmn5_42.239407_-71.722269@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716629,
-    "wof:geomhash":"6a497a4ef986c807611c93b1183d93b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fff91f230104f966de376035cb2290a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":672346133
+        }
+    ],
     "wof:id":672346133,
-    "wof:lastmodified":1472625565,
+    "wof:lastmodified":1492115638,
     "wof:name":"Yates Blown In Insulation",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

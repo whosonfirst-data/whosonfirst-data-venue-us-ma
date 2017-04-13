@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.822521,41.893136,-70.822521,41.893136",
     "geom:latitude":41.893136,
     "geom:longitude":-70.822521,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uUCG0Fu1gyN4yUoj017kN_41.893136_-70.822521@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724856,
-    "wof:geomhash":"94b7ea0e6b01173f88b2b034f95074a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93732996cf6eb24a667569180b590a40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672699623
+        }
+    ],
     "wof:id":672699623,
-    "wof:lastmodified":1472625942,
+    "wof:lastmodified":1492113625,
     "wof:name":"Paso Fino Delfuego Farm I",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

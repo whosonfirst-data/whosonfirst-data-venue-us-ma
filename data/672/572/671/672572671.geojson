@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.80451,42.062548,-70.80451,42.062548",
     "geom:latitude":42.062548,
     "geom:longitude":-70.80451,
@@ -28,19 +29,38 @@
     "sg:postcode":"02359",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85839511,
+        102084367,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FcXI5L0I0tyknW3ichPJk_42.062548_-70.804510@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721967,
-    "wof:geomhash":"c21bd1601a04c56f6a1132a62f1bd09f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3de9b6121b24038d3a82736c024a0a15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85839511,
+            "region_id":85688645,
+            "venue_id":672572671
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":672572671
+        }
+    ],
     "wof:id":672572671,
-    "wof:lastmodified":1472625838,
+    "wof:lastmodified":1492113029,
     "wof:name":"Cahills Mktng Service Inc",
-    "wof:parent_id":420523871,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.214466,41.685294,-70.214466,41.685294",
     "geom:latitude":41.685294,
     "geom:longitude":-70.214466,
@@ -32,17 +33,26 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jDuItUWCdqTNxH6KdK1Wv_41.685294_-70.214466@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722367,
-    "wof:geomhash":"ee23c41520a7f040ca97a77284a27dcf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"997d1ff60d5d5c26b102bd8ef8a49536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672590075
+        }
+    ],
     "wof:id":672590075,
-    "wof:lastmodified":1472625815,
+    "wof:lastmodified":1492110805,
     "wof:name":"Essential Rentals Inc",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

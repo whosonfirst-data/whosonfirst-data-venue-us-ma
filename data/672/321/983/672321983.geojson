@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.805974,41.97516,-70.805974,41.97516",
     "geom:latitude":41.97516,
     "geom:longitude":-70.805974,
@@ -28,17 +29,26 @@
     "sg:postcode":"02367",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PJtQNQGeJcR42lGi0ZEW0_41.975160_-70.805974@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716064,
-    "wof:geomhash":"051187359b5d25968744b9aca711db01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"410d104713eab885bcbb0969fbd72cf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672321983
+        }
+    ],
     "wof:id":672321983,
-    "wof:lastmodified":1472625550,
+    "wof:lastmodified":1492107036,
     "wof:name":"DMD Logistics",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

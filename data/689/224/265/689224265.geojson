@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.128467,41.624672,-71.128467,41.624672",
     "geom:latitude":41.624672,
     "geom:longitude":-71.128467,
@@ -38,19 +39,28 @@
         "wallcoverings"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vqSF249wYnr6QiMl22WuN_41.624672_-71.128467@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742576,
-    "wof:geomhash":"5b6b5096931c92555921e714cd74cce1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"608ab8314c234f3cb07b25d54282bcb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":689224265
+        }
+    ],
     "wof:id":689224265,
-    "wof:lastmodified":1472625619,
+    "wof:lastmodified":1492097821,
     "wof:name":"Contractors Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

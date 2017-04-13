@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.991678,42.72295,-70.991678,42.72295",
     "geom:latitude":42.72295,
     "geom:longitude":-70.991678,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jvnEe22670uRpvlab2aAY_42.722950_-70.991678@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711306,
-    "wof:geomhash":"875102ebc7bd5792a792cf883f8766f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"797e28f7a3f3df6be4185353957496bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":656366771
+        }
+    ],
     "wof:id":656366771,
-    "wof:lastmodified":1472624972,
+    "wof:lastmodified":1492101852,
     "wof:name":"Georgetown Veterans Svc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

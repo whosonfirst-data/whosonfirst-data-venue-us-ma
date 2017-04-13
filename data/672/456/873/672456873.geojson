@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.914289,42.274854,-72.914289,42.274854",
     "geom:latitude":42.274854,
     "geom:longitude":-72.914289,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523557
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eHRWMUND7jUKN6FJo3gig_42.274854_-72.914289@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719360,
-    "wof:geomhash":"c9b1ed92cf8cdff767e75d0d8e2c4a3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b20a0a0855fffbd6f1aecf0979f80715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523557,
+            "venue_id":672456873
+        }
+    ],
     "wof:id":672456873,
-    "wof:lastmodified":1472625727,
+    "wof:lastmodified":1492109659,
     "wof:name":"United Church Of Christ-First",
     "wof:parent_id":420523557,
     "wof:placetype":"venue",

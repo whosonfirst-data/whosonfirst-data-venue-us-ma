@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.376643,42.675625,-71.376643,42.675625",
     "geom:latitude":42.675625,
     "geom:longitude":-71.376643,
@@ -34,17 +35,26 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24Jp3tqJbIDJ8SG6Gpr2ba_42.675625_-71.376643@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717098,
-    "wof:geomhash":"071b805a860c1a812962bfb468316b8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d51d9ae3c0ec226b30f15f80e365a71a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523675,
+            "venue_id":672365323
+        }
+    ],
     "wof:id":672365323,
-    "wof:lastmodified":1472625636,
+    "wof:lastmodified":1492112877,
     "wof:name":"Orchard Wood Floors",
     "wof:parent_id":420523675,
     "wof:placetype":"venue",

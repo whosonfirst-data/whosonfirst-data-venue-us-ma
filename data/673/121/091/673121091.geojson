@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.864709,42.344509,-71.864709,42.344509",
     "geom:latitude":42.344509,
     "geom:longitude":-71.864709,
@@ -22,17 +23,26 @@
     "sg:postcode":"01520",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16oAGornv93VuP3hljPEmu_42.344509_-71.864709@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734219,
-    "wof:geomhash":"01864b62cb62c06fb5f2d0b3ff7e6157",
-    "wof:hierarchy":[],
+    "wof:geomhash":"181ce44c0ce73369943907e3b71a15b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":673121091
+        }
+    ],
     "wof:id":673121091,
-    "wof:lastmodified":1472625333,
+    "wof:lastmodified":1492104162,
     "wof:name":"Parrot Pizza",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

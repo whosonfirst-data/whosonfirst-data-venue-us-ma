@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.479749,42.06323,-71.479749,42.06323",
     "geom:latitude":42.06323,
     "geom:longitude":-71.479749,
@@ -32,19 +33,28 @@
         "veteran"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lAjrJEO7nlSeSmJzGM8E1_42.063230_-71.479749@1303262197"
     },
     "wof:country":"US",
     "wof:created":1461735936,
-    "wof:geomhash":"e27272c84eb11a4394caeaf12cfe2fae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a081733d015cb4ad2c97a76bda46b21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523777,
+            "venue_id":688934497
+        }
+    ],
     "wof:id":688934497,
-    "wof:lastmodified":1472625028,
+    "wof:lastmodified":1492120519,
     "wof:name":"Vfw Post 7272",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

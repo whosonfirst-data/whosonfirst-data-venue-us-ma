@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.993839,41.902962,-70.993839,41.902962",
     "geom:latitude":41.902962,
     "geom:longitude":-70.993839,
@@ -31,17 +32,34 @@
         "produce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476147,
+        85633793,
+        85950365,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HG6r2lhghLts4kDpG9yeX_41.902962_-70.993839@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729701,
-    "wof:geomhash":"b01416ec0a27f95b07b8d72e240d74fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4006b8689bd6af12ec42f206619422d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476147,
+            "locality_id":85950365,
+            "region_id":85688645,
+            "venue_id":672932773
+        }
+    ],
     "wof:id":672932773,
-    "wof:lastmodified":1472626152,
+    "wof:lastmodified":1492113427,
     "wof:name":"Farmer's Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

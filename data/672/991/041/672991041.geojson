@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.754127,41.888698,-70.754127,41.888698",
     "geom:latitude":41.888698,
     "geom:longitude":-70.754127,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Nc66jJ54gwYE9Ij6Q4w74_41.888698_-70.754127@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731357,
-    "wof:geomhash":"af30e0c269f64549962c90fae3976b58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fb0fb4e2a201e97490c4bfb9e58233a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672991041
+        }
+    ],
     "wof:id":672991041,
-    "wof:lastmodified":1472626191,
+    "wof:lastmodified":1492107202,
     "wof:name":"John Fellini Co",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

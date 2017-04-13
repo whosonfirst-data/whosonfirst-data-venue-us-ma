@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.834436,42.050876,-70.834436,42.050876",
     "geom:latitude":42.050876,
     "geom:longitude":-70.834436,
@@ -31,17 +32,26 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HTVCbWtWXW1S540X589B7_42.050876_-70.834436@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725699,
-    "wof:geomhash":"d6c01282b15fd8a11f148043200632e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abca7a02932bc11ecc96547e402392a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672738671
+        }
+    ],
     "wof:id":672738671,
-    "wof:lastmodified":1472625984,
+    "wof:lastmodified":1492116689,
     "wof:name":"Cateringsmith",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

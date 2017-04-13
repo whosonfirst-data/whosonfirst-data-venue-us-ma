@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.66115,42.391667,-71.66115,42.391667",
     "geom:latitude":42.391667,
     "geom:longitude":-71.66115,
@@ -28,17 +29,26 @@
     "sg:postcode":"01503",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524077
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68VkTJMN3DHCZyB5hgE46h_42.391667_-71.661150@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730273,
-    "wof:geomhash":"78f39a17341c9c2db9b1bf36a15f8ca0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ebc227ea43ebe55065e52a41580e474",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524077,
+            "venue_id":672955231
+        }
+    ],
     "wof:id":672955231,
-    "wof:lastmodified":1472626163,
+    "wof:lastmodified":1492111466,
     "wof:name":"Train Stop Restaurant",
     "wof:parent_id":420524077,
     "wof:placetype":"venue",

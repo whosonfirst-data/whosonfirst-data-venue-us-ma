@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.711542,42.250202,-71.711542,42.250202",
     "geom:latitude":42.250202,
     "geom:longitude":-71.711542,
@@ -38,17 +39,26 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DH9JxhoHdYfVCIeO19y7f_42.250202_-71.711542@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711009,
-    "wof:geomhash":"cbc9a0a8783b2379300018c743609c4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cc0af530019525cba9661af745ee17a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":656352293
+        }
+    ],
     "wof:id":656352293,
-    "wof:lastmodified":1472624906,
+    "wof:lastmodified":1492102240,
     "wof:name":"Tri State Trucking Center Inc",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

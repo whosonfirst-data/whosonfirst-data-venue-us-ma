@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.818726,42.198236,-71.818726,42.198236",
     "geom:latitude":42.198236,
     "geom:longitude":-71.818726,
@@ -32,17 +33,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18BtqrvbgIro0a3YbKvvIJ_42.198236_-71.818726@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717660,
-    "wof:geomhash":"7c3b788f03f14c648c2ab158a8936728",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3062bf46646babbb6f17a851a05a34ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672390271
+        }
+    ],
     "wof:id":672390271,
-    "wof:lastmodified":1472625658,
+    "wof:lastmodified":1492112709,
     "wof:name":"W S Anderson Assoc",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

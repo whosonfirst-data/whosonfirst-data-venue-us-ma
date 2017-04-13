@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.444158,42.259525,-71.444158,42.259525",
     "geom:latitude":42.259525,
     "geom:longitude":-71.444158,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wIlxZ8c4MNdgEMl2RtG3r_42.259525_-71.444158@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725733,
-    "wof:geomhash":"9fb27d414df24fa64082cac970ce369f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60dbeedfe4b6ff97fdabc6bfc71943ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672739971
+        }
+    ],
     "wof:id":672739971,
-    "wof:lastmodified":1472625990,
+    "wof:lastmodified":1492110883,
     "wof:name":"Phoenix Mechanical Design",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

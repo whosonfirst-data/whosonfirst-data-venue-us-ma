@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.325808,42.414055,-71.325808,42.414055",
     "geom:latitude":42.414055,
     "geom:longitude":-71.325808,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85849835,
-        102084643
+        102084643,
+        85804253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461726819,
-    "wof:geomhash":"2e7cd863c89211d8e3101f9463d59e04",
+    "wof:geomhash":"eddb6f95b22d431a6c42ada87c273d24",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,19 @@
             "neighbourhood_id":85849835,
             "region_id":85688645,
             "venue_id":672791603
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85804253,
+            "region_id":85688645,
+            "venue_id":672791603
         }
     ],
     "wof:id":672791603,
-    "wof:lastmodified":1472626030,
+    "wof:lastmodified":1492113759,
     "wof:name":"EDSI",
-    "wof:parent_id":85849835,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

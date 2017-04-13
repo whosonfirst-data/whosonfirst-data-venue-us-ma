@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.790315,42.019576,-70.790315,42.019576",
     "geom:latitude":42.019576,
     "geom:longitude":-70.790315,
@@ -31,17 +32,26 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RR8G0qi4Y7nbSz0ufHYQ3_42.019576_-70.790315@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715150,
-    "wof:geomhash":"5910c0fa36302196c71943feef38e4b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35a7302b7458776ae3567165be5a499f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672277503
+        }
+    ],
     "wof:id":672277503,
-    "wof:lastmodified":1472625446,
+    "wof:lastmodified":1492112553,
     "wof:name":"Anthony's Deli & Convenience",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

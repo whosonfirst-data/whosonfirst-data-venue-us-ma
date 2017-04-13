@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.762878,42.215221,-70.762878,42.215221",
     "geom:latitude":42.215221,
     "geom:longitude":-70.762878,
@@ -39,7 +40,8 @@
         85633793,
         85950475,
         102084367,
-        85688645
+        85688645,
+        420523833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461736265,
-    "wof:geomhash":"76852765874275cd1f2aa7e4ad8a76c9",
+    "wof:geomhash":"bc178d1f7f740dd0116c2f605be5809b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,17 @@
             "neighbourhood_id":85817633,
             "region_id":85688645,
             "venue_id":688950649
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523833,
+            "venue_id":688950649
         }
     ],
     "wof:id":688950649,
-    "wof:lastmodified":1472625126,
+    "wof:lastmodified":1492120787,
     "wof:name":"Hatherly Elementary School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

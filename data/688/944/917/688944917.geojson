@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.472804,42.146045,-71.472804,42.146045",
     "geom:latitude":42.146045,
     "geom:longitude":-71.472804,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85845583,
+        102191575,
+        404476665,
         85633793,
         85950733,
         102084655,
-        85845583
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1461736148,
-    "wof:geomhash":"c999361ec6f0656e79c10769c8931e0c",
+    "wof:geomhash":"6cb9aae6f8a9ec7d812d33ccfa287025",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476665,
             "locality_id":85950733,
             "neighbourhood_id":85845583,
             "region_id":85688645,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":688944917,
-    "wof:lastmodified":1472625100,
+    "wof:lastmodified":1492120883,
     "wof:name":"H & I Communications",
     "wof:parent_id":85845583,
     "wof:placetype":"venue",

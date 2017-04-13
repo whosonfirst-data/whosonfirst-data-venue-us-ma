@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.852813,41.922062,-70.852813,41.922062",
     "geom:latitude":41.922062,
     "geom:longitude":-70.852813,
@@ -31,19 +32,34 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817,
+        420523895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09bylcUuSFYcAsVXHKF16A_41.922062_-70.852813@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719323,
-    "wof:geomhash":"1d5969b0d8877b125f105c70357bd737",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec0cae17121c14bc2fd23b76126ef42a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672455285
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523895,
+            "venue_id":672455285
+        }
+    ],
     "wof:id":672455285,
-    "wof:lastmodified":1472625720,
+    "wof:lastmodified":1492109494,
     "wof:name":"Emerald J Equestrian Center",
-    "wof:parent_id":420523817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

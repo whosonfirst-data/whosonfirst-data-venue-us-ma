@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.183497,41.953523,-71.183497,41.953523",
     "geom:latitude":41.953523,
     "geom:longitude":-71.183497,
@@ -33,17 +34,26 @@
         "motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523303
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31f7RfmiyX7xE64NeJp5yz_41.953523_-71.183497@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719531,
-    "wof:geomhash":"ae3d77935941541c38b529c974aafecc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60febed199897f8e6c38b91fc17cd31d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523303,
+            "venue_id":672463671
+        }
+    ],
     "wof:id":672463671,
-    "wof:lastmodified":1472625730,
+    "wof:lastmodified":1492114147,
     "wof:name":"Chaos Custom Cycles",
     "wof:parent_id":420523303,
     "wof:placetype":"venue",

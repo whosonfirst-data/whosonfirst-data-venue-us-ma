@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.204027,41.750315,-71.204027,41.750315",
     "geom:latitude":41.750315,
     "geom:longitude":-71.204027,
@@ -31,17 +32,26 @@
         "foundry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nHNBNjxXEjtmwcn53bnbP_41.750315_-71.204027@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732236,
-    "wof:geomhash":"514a462e2fb70913a7ff389592981ec6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07fead8198bc5ad6709e668a60c1f703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":673027009
+        }
+    ],
     "wof:id":673027009,
-    "wof:lastmodified":1472624989,
+    "wof:lastmodified":1492104993,
     "wof:name":"Harmony Pattern & Casting Co",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

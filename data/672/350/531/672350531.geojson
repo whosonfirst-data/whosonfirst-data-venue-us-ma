@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.791018,41.95435,-70.791018,41.95435",
     "geom:latitude":41.95435,
     "geom:longitude":-70.791018,
@@ -32,17 +33,26 @@
         "rug"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1za0kTHVZuAms0VTTC737O_41.954350_-70.791018@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716767,
-    "wof:geomhash":"89f7ffcfba228287b00e6496a9b4b307",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5c1756d38602ed57a784281e4258794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672350531
+        }
+    ],
     "wof:id":672350531,
-    "wof:lastmodified":1472625609,
+    "wof:lastmodified":1492111224,
     "wof:name":"B & B Carpet",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

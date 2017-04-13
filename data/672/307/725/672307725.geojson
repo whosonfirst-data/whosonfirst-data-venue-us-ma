@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.612041,42.432383,-71.612041,42.432383",
     "geom:latitude":42.432383,
     "geom:longitude":-71.612041,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"www.trinitybolton.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qiL7W2M0kIHMN4MAS7Via_42.432383_-71.612041@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715751,
-    "wof:geomhash":"a7421b945637e7b9ce27d3aae5c5f814",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7f40724eca55f188209c705fb09bb7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672307725
+        }
+    ],
     "wof:id":672307725,
-    "wof:lastmodified":1472625529,
+    "wof:lastmodified":1492106214,
     "wof:name":"Trinity Church",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

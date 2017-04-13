@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.992512,42.720459,-70.992512,42.720459",
     "geom:latitude":42.720459,
     "geom:longitude":-70.992512,
@@ -38,17 +39,26 @@
     ],
     "sg:website":"www.georgetownpharmacy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mdLHminlQVTnvtWdMP02I_42.720459_-70.992512@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735263,
-    "wof:geomhash":"7d8ebc8c20b5427dd009f6ba99856a46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2802a12007c0c8b65974fa64d10b3df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673171775
+        }
+    ],
     "wof:id":673171775,
-    "wof:lastmodified":1472625476,
+    "wof:lastmodified":1492103722,
     "wof:name":"Georgetown Pharmacy",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

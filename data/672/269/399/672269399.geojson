@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.107019,42.129304,-71.107019,42.129304",
     "geom:latitude":42.129304,
     "geom:longitude":-71.107019,
@@ -36,17 +37,26 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ETFIlf2LIYKh9JOZcea5A_42.129304_-71.107019@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714991,
-    "wof:geomhash":"7af59613250b2622e810585f486e9234",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84e8ec477aaa9e5c22fb3650213e6171",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672269399
+        }
+    ],
     "wof:id":672269399,
-    "wof:lastmodified":1472625401,
+    "wof:lastmodified":1492111918,
     "wof:name":"Vity's Sanitary Engineers Inc",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

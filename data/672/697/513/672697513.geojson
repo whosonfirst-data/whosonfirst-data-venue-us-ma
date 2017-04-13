@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.798481,42.235974,-70.798481,42.235974",
     "geom:latitude":42.235974,
     "geom:longitude":-70.798481,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Uep7dVE2qNQGBE76zgy2A_42.235974_-70.798481@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724805,
-    "wof:geomhash":"146cd4d20d4783a0771043fb0435965a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46ecfd1bc736843132f778495ed332df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672697513
+        }
+    ],
     "wof:id":672697513,
-    "wof:lastmodified":1472625941,
+    "wof:lastmodified":1492116978,
     "wof:name":"Tutella Eng",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

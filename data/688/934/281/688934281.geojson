@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.46656,42.03587,-71.46656,42.03587",
     "geom:latitude":42.03587,
     "geom:longitude":-71.46656,
@@ -39,17 +40,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476423,
+        85633793,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NX6bE9GeAqijjQuq2W5Dt_42.035870_-71.466560@1303262197"
     },
     "wof:country":"US",
     "wof:created":1461735932,
-    "wof:geomhash":"046b574d3067e1ead61959079d091c33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42772b4fb1c0e388f1e5d7e1503102c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476423,
+            "region_id":85688645,
+            "venue_id":688934281
+        }
+    ],
     "wof:id":688934281,
-    "wof:lastmodified":1472625006,
+    "wof:lastmodified":1492120527,
     "wof:name":"Haldeman Manufacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

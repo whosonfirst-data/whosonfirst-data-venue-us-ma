@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.185055,42.360161,-71.185055,42.360161",
     "geom:latitude":42.360161,
     "geom:longitude":-71.185055,
@@ -31,17 +32,34 @@
         "opportunity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476459,
+        85633793,
+        85950335,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3edlOKhwotdqUMHTmXa8id_42.360161_-71.185055@1303262229"
     },
     "wof:country":"US",
     "wof:created":1461741656,
-    "wof:geomhash":"6b04206509d1a130f7854f74e0742361",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00d5933265545f7c304b4a724486b62b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476459,
+            "locality_id":85950335,
+            "region_id":85688645,
+            "venue_id":689181657
+        }
+    ],
     "wof:id":689181657,
-    "wof:lastmodified":1472625572,
+    "wof:lastmodified":1492100182,
     "wof:name":"The Student Housing Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

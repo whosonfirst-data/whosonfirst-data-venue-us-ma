@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.881334,41.639497,-70.881334,41.639497",
     "geom:latitude":41.639497,
     "geom:longitude":-70.881334,
@@ -34,17 +35,26 @@
         "dvds-rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IZjtViB2537nDrEZq8dav_41.639497_-70.881334@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742362,
-    "wof:geomhash":"796589a2d7b7c49e090a6b66785525e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b61ac6078637a97edbbea3151f9f3a25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":689214939
+        }
+    ],
     "wof:id":689214939,
-    "wof:lastmodified":1472625625,
+    "wof:lastmodified":1492097483,
     "wof:name":"Video Expo",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

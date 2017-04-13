@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.498584,41.758381,-70.498584,41.758381",
     "geom:latitude":41.758381,
     "geom:longitude":-70.498584,
@@ -42,11 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85852115,
+        102191575,
+        404476193,
         85633793,
         85950591,
         102084379,
-        85852115
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +57,13 @@
     },
     "wof:country":"US",
     "wof:created":1461741957,
-    "wof:geomhash":"15bee4b512465851bcad539b8febda0a",
+    "wof:geomhash":"8a565f8a9eb7b00083c880fc8a7b9411",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084379,
+            "localadmin_id":404476193,
             "locality_id":85950591,
             "neighbourhood_id":85852115,
             "region_id":85688645,
@@ -66,7 +71,7 @@
         }
     ],
     "wof:id":689195715,
-    "wof:lastmodified":1472625605,
+    "wof:lastmodified":1492100291,
     "wof:name":"Brown Jug",
     "wof:parent_id":85852115,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.047717,42.415726,-71.047717,42.415726",
     "geom:latitude":42.415726,
     "geom:longitude":-71.047717,
@@ -48,17 +49,34 @@
     ],
     "sg:website":"www.oliveirasrestaurant.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476487,
+        85633793,
+        85950331,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GIyZ4t5OlJqjMOGHvfNLg_42.415726_-71.047717@1303262219"
     },
     "wof:country":"US",
     "wof:created":1461739518,
-    "wof:geomhash":"c8d4dfbea6ff3968daae787feb8a3976",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d455fa4e78a6f56c6b4bac3019c5476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476487,
+            "locality_id":85950331,
+            "region_id":85688645,
+            "venue_id":689106401
+        }
+    ],
     "wof:id":689106401,
-    "wof:lastmodified":1472625366,
+    "wof:lastmodified":1492100660,
     "wof:name":"Oliveira's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

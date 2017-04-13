@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.57535,42.123681,-71.57535,42.123681",
     "geom:latitude":42.123681,
     "geom:longitude":-71.57535,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"US",
     "wof:created":1461714917,
-    "wof:geomhash":"7057efa7e63ee48212272f301d17d9e6",
+    "wof:geomhash":"0a4149fa5bfe88b5023c55b2213c550e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672265513
         }
     ],
     "wof:id":672265513,
-    "wof:lastmodified":1472625409,
+    "wof:lastmodified":1492115234,
     "wof:name":"Du Pont EKC Technology",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

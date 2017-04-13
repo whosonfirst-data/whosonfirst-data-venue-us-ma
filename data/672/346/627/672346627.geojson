@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.999638,42.789329,-70.999638,42.789329",
     "geom:latitude":42.789329,
     "geom:longitude":-70.999638,
@@ -31,17 +32,26 @@
         "greenhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RG9ZQOD2IK3RBrb15RGUm_42.789329_-70.999638@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716647,
-    "wof:geomhash":"a95ed764e2c23d29b4894b426ab1c27f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aec59a3a011501856ffe48ff5b3d7204",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672346627
+        }
+    ],
     "wof:id":672346627,
-    "wof:lastmodified":1472625581,
+    "wof:lastmodified":1492115638,
     "wof:name":"Knapp's Greenhouses",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

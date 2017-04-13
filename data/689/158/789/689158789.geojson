@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.552725,41.81952,-70.552725,41.81952",
     "geom:latitude":41.81952,
     "geom:longitude":-70.552725,
@@ -48,17 +49,26 @@
     ],
     "sg:website":"http://www.firehousevet.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wnpPbCB8k9hgGOke3HNsn_41.819520_-70.552725@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741146,
-    "wof:geomhash":"ba04cd9c357530f1a5ce335caa71abb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec1db3aed37cf6599912cac58dac9b73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":689158789
+        }
+    ],
     "wof:id":689158789,
-    "wof:lastmodified":1472625530,
+    "wof:lastmodified":1492099865,
     "wof:name":"Firehouse Veterinary Clinic Inc",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

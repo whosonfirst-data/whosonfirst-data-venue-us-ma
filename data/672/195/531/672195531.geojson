@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.774598,42.080192,-70.774598,42.080192",
     "geom:latitude":42.080192,
     "geom:longitude":-70.774598,
@@ -32,17 +33,26 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PBoJfjks7k9bGeg0KiqQv_42.080192_-70.774598@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713458,
-    "wof:geomhash":"05a6e3efd40ee641063844ac9f73e608",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc5331f3bc1cd513a601f14e3e74a03b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":672195531
+        }
+    ],
     "wof:id":672195531,
-    "wof:lastmodified":1472625157,
+    "wof:lastmodified":1492116441,
     "wof:name":"Wayne L Pforr Electric",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

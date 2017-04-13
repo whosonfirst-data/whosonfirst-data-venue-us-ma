@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.984572,42.081338,-70.984572,42.081338",
     "geom:latitude":42.081338,
     "geom:longitude":-70.984572,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85855157,
+        102191575,
+        404476503,
         85633793,
-        85950439,
+        85950319,
         102084367,
-        85855157
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461728074,
-    "wof:geomhash":"836a6400ba3c54b1495a6707272bcadc",
+    "wof:geomhash":"79089c888a58240cfe034ab9e208067f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084367,
-            "locality_id":85950439,
+            "localadmin_id":404476503,
+            "locality_id":85950319,
             "neighbourhood_id":85855157,
             "region_id":85688645,
             "venue_id":672854263
         }
     ],
     "wof:id":672854263,
-    "wof:lastmodified":1472626076,
+    "wof:lastmodified":1492116729,
     "wof:name":"Lambert Rainbow Fruit",
     "wof:parent_id":85855157,
     "wof:placetype":"venue",

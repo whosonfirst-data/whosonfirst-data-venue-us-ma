@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.264894,42.134076,-71.264894,42.134076",
     "geom:latitude":42.134076,
     "geom:longitude":-71.264894,
@@ -31,17 +32,26 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Tll67z8pxy46AhWrl1dm8_42.134076_-71.264894@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718634,
-    "wof:geomhash":"26a9394ff089924ff3c2222a2a848669",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b66d519cc1a854038df7db10fb57ca98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672429619
+        }
+    ],
     "wof:id":672429619,
-    "wof:lastmodified":1472625700,
+    "wof:lastmodified":1492118354,
     "wof:name":"David W Hughey",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

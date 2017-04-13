@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.619047,41.650348,-70.619047,41.650348",
     "geom:latitude":41.650348,
     "geom:longitude":-70.619047,
@@ -35,7 +36,8 @@
         85633793,
         85950573,
         102084379,
-        85688645
+        85688645,
+        420523223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461731466,
-    "wof:geomhash":"44c3cb587ef783a67b3172ecff970031",
+    "wof:geomhash":"eb06ec56bbbfc5122add9470de9cbb83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,17 @@
             "neighbourhood_id":85833701,
             "region_id":85688645,
             "venue_id":672995247
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672995247
         }
     ],
     "wof:id":672995247,
-    "wof:lastmodified":1472626198,
+    "wof:lastmodified":1492106953,
     "wof:name":"Village Farm Stand",
-    "wof:parent_id":85833701,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

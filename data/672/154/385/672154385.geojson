@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.527791,42.483866,-71.527791,42.483866",
     "geom:latitude":42.483866,
     "geom:longitude":-71.527791,
@@ -31,19 +32,32 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85806887,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QqvO7lWkNx8SPc7ll7Uuz_42.483866_-71.527791@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712540,
-    "wof:geomhash":"2ad74d22481bc2110ccc5a5f065443c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90cd3bddecf9be0296e56c7483c333b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85806887,
+            "region_id":85688645,
+            "venue_id":672154385
+        }
+    ],
     "wof:id":672154385,
-    "wof:lastmodified":1472624944,
+    "wof:lastmodified":1492110033,
     "wof:name":"C C Fillmore Truck Repairs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85806887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

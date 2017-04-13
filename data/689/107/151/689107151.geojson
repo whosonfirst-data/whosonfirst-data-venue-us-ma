@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.039165,42.409493,-71.039165,42.409493",
     "geom:latitude":42.409493,
     "geom:longitude":-71.039165,
@@ -40,17 +41,34 @@
         "aid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476487,
+        85633793,
+        85950331,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mM5RwjAoTcn4TuK6IIaIB_42.409493_-71.039165@1303262220"
     },
     "wof:country":"US",
     "wof:created":1461739538,
-    "wof:geomhash":"bf5e710713615c57ccb1e4c01c5dede1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"324d0e128ff09c1492c8cebc694d5bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476487,
+            "locality_id":85950331,
+            "region_id":85688645,
+            "venue_id":689107151
+        }
+    ],
     "wof:id":689107151,
-    "wof:lastmodified":1472625343,
+    "wof:lastmodified":1492098843,
     "wof:name":"Charles River Hearing Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

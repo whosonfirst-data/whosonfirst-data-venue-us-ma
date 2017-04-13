@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.704679,41.933445,-70.704679,41.933445",
     "geom:latitude":41.933445,
     "geom:longitude":-70.704679,
@@ -31,17 +32,26 @@
         "propeller"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7i5q60zm0IkZ4UrHt90bEx_41.933445_-70.704679@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732382,
-    "wof:geomhash":"3028ab4fd82025d9d3030f5fe239371f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e09f514c662a46452fa85c1d76810467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":673032641
+        }
+    ],
     "wof:id":673032641,
-    "wof:lastmodified":1472625070,
+    "wof:lastmodified":1492103013,
     "wof:name":"Benchmark Propellers Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

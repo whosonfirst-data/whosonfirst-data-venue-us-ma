@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.722578,42.154961,-71.722578,42.154961",
     "geom:latitude":42.154961,
     "geom:longitude":-71.722578,
@@ -35,17 +36,26 @@
         "user"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524081
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3247P92cVcJRx3LCnBPTaS_42.154961_-71.722578@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724896,
-    "wof:geomhash":"20d4f8c2e6e4b0695ccf49af0dbb78be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f72cd4c34cf553caecb8a12396e8bf41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524081,
+            "venue_id":672701511
+        }
+    ],
     "wof:id":672701511,
-    "wof:lastmodified":1472625942,
+    "wof:lastmodified":1492118279,
     "wof:name":"Marty Reed",
     "wof:parent_id":420524081,
     "wof:placetype":"venue",

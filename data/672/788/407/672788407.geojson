@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.687339,41.974263,-70.687339,41.974263",
     "geom:latitude":41.974263,
     "geom:longitude":-70.687339,
@@ -28,19 +29,36 @@
     "sg:postcode":"02360",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        85633793,
+        85950473,
+        102084367,
+        85812279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5N57jvvKM4LmYA03BzzeYX_41.974263_-70.687339@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726756,
-    "wof:geomhash":"0309cf517c93e110ce679764dcc797c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb090a5000ae531a0da3bebead018572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950473,
+            "neighbourhood_id":85812279,
+            "region_id":85688645,
+            "venue_id":672788407
+        }
+    ],
     "wof:id":672788407,
-    "wof:lastmodified":1472626020,
+    "wof:lastmodified":1492107417,
     "wof:name":"Hedge Elementary School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85812279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

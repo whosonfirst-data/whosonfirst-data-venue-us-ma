@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.118313,42.333236,-71.118313,42.333236",
     "geom:latitude":42.333236,
     "geom:longitude":-71.118313,
@@ -46,17 +47,34 @@
     ],
     "sg:website":"www.beabigfish.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06GDol2s4PLjvyWrjFxjl3_42.333236_-71.118313@1303262228"
     },
     "wof:country":"US",
     "wof:created":1461741378,
-    "wof:geomhash":"362ce4a06bf41d01cd31e182dd77601d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05bfc3a8d2896c7adff5fdecacfc4fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "region_id":85688645,
+            "venue_id":689168269
+        }
+    ],
     "wof:id":689168269,
-    "wof:lastmodified":1472625538,
+    "wof:lastmodified":1492100560,
     "wof:name":"Big Fish Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

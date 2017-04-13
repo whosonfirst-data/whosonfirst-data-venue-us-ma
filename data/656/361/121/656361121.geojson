@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.968899,42.136732,-71.968899,42.136732",
     "geom:latitude":42.136732,
     "geom:longitude":-71.968899,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0krqEUudkmcKKDMYhfXF1e_42.136732_-71.968899@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711190,
-    "wof:geomhash":"fda0cef0f1b5a5bb186ecb12ae78ca5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"052ddc9693de043841a2a023e9f3ec00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":656361121
+        }
+    ],
     "wof:id":656361121,
-    "wof:lastmodified":1472624920,
+    "wof:lastmodified":1492101914,
     "wof:name":"Cat & Fiddle Family Daycare",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

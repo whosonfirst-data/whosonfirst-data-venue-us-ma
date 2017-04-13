@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.950822,42.728479,-70.950822,42.728479",
     "geom:latitude":42.728479,
     "geom:longitude":-70.950822,
@@ -32,7 +33,8 @@
         85688645,
         85633793,
         85830223,
-        102084463
+        102084463,
+        420523475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461713507,
-    "wof:geomhash":"e0a17abc12e792ac27ee2f7f34690b4b",
+    "wof:geomhash":"5f9d0aca1b431eb69eb0d5d4c8f7fe4a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +50,17 @@
             "neighbourhood_id":85830223,
             "region_id":85688645,
             "venue_id":672197515
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672197515
         }
     ],
     "wof:id":672197515,
-    "wof:lastmodified":1472625148,
+    "wof:lastmodified":1492110962,
     "wof:name":"George G Moker CPA",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

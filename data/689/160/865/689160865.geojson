@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.788406,42.017792,-70.788406,42.017792",
     "geom:latitude":42.017792,
     "geom:longitude":-70.788406,
@@ -32,17 +33,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4a6gGrKNxgyH4QewM22qYI_42.017792_-70.788406@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741185,
-    "wof:geomhash":"ba00dedcba33d026eec339c4b0d4e836",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b6d3812c9b139fd5032bbe11b0f46e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689160865
+        }
+    ],
     "wof:id":689160865,
-    "wof:lastmodified":1472625536,
+    "wof:lastmodified":1492101087,
     "wof:name":"Little Coin Volt",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

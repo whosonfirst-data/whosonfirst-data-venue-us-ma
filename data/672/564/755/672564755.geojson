@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.788412,41.904864,-70.788412,41.904864",
     "geom:latitude":41.904864,
     "geom:longitude":-70.788412,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AX748TeJBFWms4wpmnXrh_41.904864_-70.788412@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721813,
-    "wof:geomhash":"36be18c4a9a0627d3add92c82f7e115a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42e13cf6b81669c14e43ad7579938fa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":672564755
+        }
+    ],
     "wof:id":672564755,
-    "wof:lastmodified":1472625832,
+    "wof:lastmodified":1492114467,
     "wof:name":"Web of Life Farm",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.218592,42.030729,-71.218592,42.030729",
     "geom:latitude":42.030729,
     "geom:longitude":-71.218592,
@@ -34,17 +35,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475931,
+        85633793,
+        85950671,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Yh4gxMCibpdw9pgL5eoR2_42.030729_-71.218592@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729640,
-    "wof:geomhash":"5069df281311c6715675277243e8a1bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55cf3077317f4268840afd5598bb6af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404475931,
+            "locality_id":85950671,
+            "region_id":85688645,
+            "venue_id":672930181
+        }
+    ],
     "wof:id":672930181,
-    "wof:lastmodified":1472626142,
+    "wof:lastmodified":1492111688,
     "wof:name":"P & C Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

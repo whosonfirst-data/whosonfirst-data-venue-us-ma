@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.748897,41.926968,-70.748897,41.926968",
     "geom:latitude":41.926968,
     "geom:longitude":-70.748897,
@@ -38,17 +39,26 @@
         "web"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14DZpMs5sHQja7g03jXG5b_41.926968_-70.748897@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741180,
-    "wof:geomhash":"00fd9d592c032aee24ff40c349c36781",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92696470464e0ba19f7ec57997fe1041",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523889,
+            "venue_id":689160603
+        }
+    ],
     "wof:id":689160603,
-    "wof:lastmodified":1472625526,
+    "wof:lastmodified":1492101093,
     "wof:name":"Power-Up PC",
     "wof:parent_id":420523889,
     "wof:placetype":"venue",

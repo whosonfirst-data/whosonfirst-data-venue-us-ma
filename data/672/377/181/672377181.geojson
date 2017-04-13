@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.229839,42.100525,-73.229839,42.100525",
     "geom:latitude":42.100525,
     "geom:longitude":-73.229839,
@@ -28,17 +29,26 @@
     "sg:postcode":"01259",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hyBj9a8hzQ4nwoF0Oql64_42.100525_-73.229839@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717365,
-    "wof:geomhash":"7bd2009dd2aebf49237233dd3d2c4907",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34ae21abc9ac5891175bda5a7b3da69d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672377181
+        }
+    ],
     "wof:id":672377181,
-    "wof:lastmodified":1472625646,
+    "wof:lastmodified":1492107576,
     "wof:name":"East Hill Services",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

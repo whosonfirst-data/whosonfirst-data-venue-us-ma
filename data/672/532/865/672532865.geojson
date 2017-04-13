@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.878182,42.276516,-70.878182,42.276516",
     "geom:latitude":42.276516,
     "geom:longitude":-70.878182,
@@ -33,17 +34,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fSl652ykDkVvRDSNpRfHh_42.276516_-70.878182@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721121,
-    "wof:geomhash":"a07684b3772bb72d82c432bbe0fff271",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f964ac9923c576164757d4b716066fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523859,
+            "venue_id":672532865
+        }
+    ],
     "wof:id":672532865,
-    "wof:lastmodified":1472625795,
+    "wof:lastmodified":1492114240,
     "wof:name":"Boduck Plumbing & Heating",
     "wof:parent_id":420523859,
     "wof:placetype":"venue",

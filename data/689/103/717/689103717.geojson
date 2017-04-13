@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.037027,42.437394,-71.037027,42.437394",
     "geom:latitude":42.437394,
     "geom:longitude":-71.037027,
@@ -31,17 +32,34 @@
         "motorcycle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476399,
+        85633793,
+        85950349,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y1fijmdKW8VEOSmOq9ecD_42.437394_-71.037027@1303262219"
     },
     "wof:country":"US",
     "wof:created":1461739455,
-    "wof:geomhash":"470b3bcbb8f1421d2954122be1bf6faa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c50fff2fc2d1b031dda5980bf36a381e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476399,
+            "locality_id":85950349,
+            "region_id":85688645,
+            "venue_id":689103717
+        }
+    ],
     "wof:id":689103717,
-    "wof:lastmodified":1472625376,
+    "wof:lastmodified":1492099533,
     "wof:name":"GP Motorcycle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

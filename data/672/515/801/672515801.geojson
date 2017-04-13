@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.973357,42.089336,-70.973357,42.089336",
     "geom:latitude":42.089336,
     "geom:longitude":-70.973357,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85855157,
+        102191575,
+        404476503,
         85633793,
-        85950439,
+        85950319,
         102084367,
-        85855157
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +48,21 @@
     },
     "wof:country":"US",
     "wof:created":1461720740,
-    "wof:geomhash":"0f0973843f69302704ba2b8cdb141a56",
+    "wof:geomhash":"0365f8b681759865b08fd6d0454e5687",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084367,
-            "locality_id":85950439,
+            "localadmin_id":404476503,
+            "locality_id":85950319,
             "neighbourhood_id":85855157,
             "region_id":85688645,
             "venue_id":672515801
         }
     ],
     "wof:id":672515801,
-    "wof:lastmodified":1472625783,
+    "wof:lastmodified":1492113944,
     "wof:name":"Saint Ives Transportation",
     "wof:parent_id":85855157,
     "wof:placetype":"venue",

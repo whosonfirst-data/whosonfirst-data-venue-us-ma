@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.01705,41.952613,-71.01705,41.952613",
     "geom:latitude":41.952613,
     "geom:longitude":-71.01705,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LkcjEZSYBvrBjL8aENrGO_41.952613_-71.017050@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728963,
-    "wof:geomhash":"3705ed3e0caff6f0cc318ce032e15510",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1aeba6c3d2cff3291cb0db8ac71a992",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672897005
+        }
+    ],
     "wof:id":672897005,
-    "wof:lastmodified":1472626110,
+    "wof:lastmodified":1492111240,
     "wof:name":"D & W Heating Svc Co",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

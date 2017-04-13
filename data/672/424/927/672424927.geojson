@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.210994,41.687284,-70.210994,41.687284",
     "geom:latitude":41.687284,
     "geom:longitude":-70.210994,
@@ -31,17 +32,26 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15nqzXTWbtn2w5w9k9BhBF_41.687284_-70.210994@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718530,
-    "wof:geomhash":"45c478d5ffa73917ced2c154d33643c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcf4adc200b56623af202ef6631ca861",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672424927
+        }
+    ],
     "wof:id":672424927,
-    "wof:lastmodified":1472625703,
+    "wof:lastmodified":1492109292,
     "wof:name":"Today Education Svc",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

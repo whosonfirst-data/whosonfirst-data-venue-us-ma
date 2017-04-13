@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.656158,42.396118,-71.656158,42.396118",
     "geom:latitude":42.396118,
     "geom:longitude":-71.656158,
@@ -35,17 +36,26 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524077
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F7s7N0nuLOU7wFrigYEnp_42.396118_-71.656158@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734164,
-    "wof:geomhash":"55d62abd215f418eddefbc76a20b59ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"261179030ce7616d8915d523e0ca971c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524077,
+            "venue_id":673118745
+        }
+    ],
     "wof:id":673118745,
-    "wof:lastmodified":1472625362,
+    "wof:lastmodified":1492103923,
     "wof:name":"R A Plumbing And Heating Inc",
     "wof:parent_id":420524077,
     "wof:placetype":"venue",

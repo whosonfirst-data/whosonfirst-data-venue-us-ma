@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.992157,42.72382,-70.992157,42.72382",
     "geom:latitude":42.72382,
     "geom:longitude":-70.992157,
@@ -31,17 +32,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oUWj6wV12RNLiDMcwOVlp_42.723771_-70.992179@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732733,
-    "wof:geomhash":"c23c4548230dc17329cfad067b36d64d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7dd53c02db30af2b37ecaffd5ec6d71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673048715
+        }
+    ],
     "wof:id":673048715,
-    "wof:lastmodified":1472625115,
+    "wof:lastmodified":1492104853,
     "wof:name":"Village Sub & Pizza",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

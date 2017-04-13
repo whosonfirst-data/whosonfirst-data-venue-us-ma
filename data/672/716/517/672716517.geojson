@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101699,42.135993,-71.101699,42.135993",
     "geom:latitude":42.135993,
     "geom:longitude":-71.101699,
@@ -32,17 +33,26 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37CHgEQyy4r4u8GKZq4LMz_42.135993_-71.101699@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725224,
-    "wof:geomhash":"07bf5d971e031c3e6e96a0c1a188aed2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"570e7836c96e8a1af136583b910decc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672716517
+        }
+    ],
     "wof:id":672716517,
-    "wof:lastmodified":1472625959,
+    "wof:lastmodified":1492110616,
     "wof:name":"Physical Therapy Svc South",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.708693,42.506311,-72.708693,42.506311",
     "geom:latitude":42.506311,
     "geom:longitude":-72.708693,
@@ -31,17 +32,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0C864ej5zPVkFXEKJl7n91_42.506311_-72.708693@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717903,
-    "wof:geomhash":"552c0e475e188c4d2d5d866180dff919",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fececbd159c45c2e695fb6499800216",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523511,
+            "venue_id":672401289
+        }
+    ],
     "wof:id":672401289,
-    "wof:lastmodified":1472625668,
+    "wof:lastmodified":1492109275,
     "wof:name":"Vights Garage",
     "wof:parent_id":420523511,
     "wof:placetype":"venue",

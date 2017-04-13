@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.192425,42.330697,-71.192425,42.330697",
     "geom:latitude":42.330697,
     "geom:longitude":-71.192425,
@@ -35,14 +36,14 @@
     "sg:website":"www.advantagetesting.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852191,
+        85891465,
         102191575,
         404476411,
         85633793,
         85950341,
         102084643,
         85688645,
-        85891465
+        85852191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,18 +51,8 @@
     },
     "wof:country":"US",
     "wof:created":1461728206,
-    "wof:geomhash":"00ebe284faf7d84cb353dafb59c09b16",
+    "wof:geomhash":"77d11ceb15d69403d103db7a39f8474e",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476411,
-            "locality_id":85950341,
-            "neighbourhood_id":85852191,
-            "region_id":85688645,
-            "venue_id":672861569
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -71,12 +62,22 @@
             "neighbourhood_id":85891465,
             "region_id":85688645,
             "venue_id":672861569
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "neighbourhood_id":85852191,
+            "region_id":85688645,
+            "venue_id":672861569
         }
     ],
     "wof:id":672861569,
-    "wof:lastmodified":1472626088,
+    "wof:lastmodified":1492114252,
     "wof:name":"Advantage Testing",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.376408,42.634258,-71.376408,42.634258",
     "geom:latitude":42.634258,
     "geom:longitude":-71.376408,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CsrZiRRL7Qs1d0liMetue_42.634258_-71.376408@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712177,
-    "wof:geomhash":"3778ea25e8bea6ea3d6287e650d234ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23ce7fe9a6ef8aa1c0c512f60dc9453f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":656408093
+        }
+    ],
     "wof:id":656408093,
-    "wof:lastmodified":1472625118,
+    "wof:lastmodified":1492101249,
     "wof:name":"Baby Bear Daycare",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

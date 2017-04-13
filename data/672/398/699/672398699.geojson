@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.711894,42.226874,-71.711894,42.226874",
     "geom:latitude":42.226874,
     "geom:longitude":-71.711894,
@@ -31,17 +32,26 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lSPsLkSiCaxI09PWMcrpa_42.226874_-71.711894@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717843,
-    "wof:geomhash":"4a671e998411fbcb00a698186882594c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4708f4d719e7aec6f62fcdbd7057b97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524183,
+            "venue_id":672398699
+        }
+    ],
     "wof:id":672398699,
-    "wof:lastmodified":1472625669,
+    "wof:lastmodified":1492116414,
     "wof:name":"Feola S Landscape",
     "wof:parent_id":420524183,
     "wof:placetype":"venue",

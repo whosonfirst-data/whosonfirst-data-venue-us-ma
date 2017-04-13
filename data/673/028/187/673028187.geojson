@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.060065,42.512796,-71.060065,42.512796",
     "geom:latitude":42.512796,
     "geom:longitude":-71.060065,
@@ -32,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891537,
+        85891535,
         102191575,
         404476455,
         85633793,
         85950659,
         102084643,
         85688645,
-        85891535
+        85835059,
+        85891537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +49,8 @@
     },
     "wof:country":"US",
     "wof:created":1461732273,
-    "wof:geomhash":"7fe99cfdbcd7c8975868edbded8eafa5",
+    "wof:geomhash":"18b8e7a1d7ea52293b7736b6141b77e0",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476455,
-            "locality_id":85950659,
-            "neighbourhood_id":85891537,
-            "region_id":85688645,
-            "venue_id":673028187
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -68,12 +60,32 @@
             "neighbourhood_id":85891535,
             "region_id":85688645,
             "venue_id":673028187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476455,
+            "locality_id":85950659,
+            "neighbourhood_id":85835059,
+            "region_id":85688645,
+            "venue_id":673028187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476455,
+            "locality_id":85950659,
+            "neighbourhood_id":85891537,
+            "region_id":85688645,
+            "venue_id":673028187
         }
     ],
     "wof:id":673028187,
-    "wof:lastmodified":1472625001,
+    "wof:lastmodified":1492103307,
     "wof:name":"Adventure Plumbing & Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.763292,42.063495,-70.763292,42.063495",
     "geom:latitude":42.063495,
     "geom:longitude":-70.763292,
@@ -33,17 +34,26 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IBb6VqWuoq87Ea66YJy5x_42.063495_-70.763292@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741026,
-    "wof:geomhash":"2d08c58ae2a608a11db2483be74b4fc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1cc11220475543af93b4a19af7c29b40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523943,
+            "venue_id":689153687
+        }
+    ],
     "wof:id":689153687,
-    "wof:lastmodified":1472625516,
+    "wof:lastmodified":1492097472,
     "wof:name":"Greenscape Design",
     "wof:parent_id":420523943,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.241244,42.253344,-72.241244,42.253344",
     "geom:latitude":42.253344,
     "geom:longitude":-72.241244,
@@ -29,17 +30,34 @@
     "sg:province":"MA",
     "sg:website":"www.baystatehealth.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476311,
+        85633793,
+        85950865,
+        102084459
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MpusRQMAc3NxcL9s4zLLr_42.253344_-72.241244@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731262,
-    "wof:geomhash":"e3361fc98aa721d9e85e577ef7acbf9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b89dc7214ea10b37fdf9e8d5034e30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084459,
+            "localadmin_id":404476311,
+            "locality_id":85950865,
+            "region_id":85688645,
+            "venue_id":672988035
+        }
+    ],
     "wof:id":672988035,
-    "wof:lastmodified":1472626187,
+    "wof:lastmodified":1492114497,
     "wof:name":"Mary Lane Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

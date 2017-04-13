@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.552016,42.371099,-71.552016,42.371099",
     "geom:latitude":42.371099,
     "geom:longitude":-71.552016,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y5AeGFYiab602oLznsfgh_42.371099_-71.552016@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730063,
-    "wof:geomhash":"bd61ed6a90ccf38305494bd49b1e7d3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27295bc726171665b9eb1515a6b38f0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672947719
+        }
+    ],
     "wof:id":672947719,
-    "wof:lastmodified":1472626164,
+    "wof:lastmodified":1492115151,
     "wof:name":"All Brazil Svc",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

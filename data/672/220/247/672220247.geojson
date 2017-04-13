@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.389116,42.253363,-72.389116,42.253363",
     "geom:latitude":42.253363,
     "geom:longitude":-72.389116,
@@ -28,17 +29,26 @@
     "sg:postcode":"01007",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39S4vtSZy6YGYYDGrbQ0L9_42.253363_-72.389116@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713972,
-    "wof:geomhash":"027a4e02338583c2e2bea46ea4ee4cee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a647f9c66829b9402699cc74f0dbcc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672220247
+        }
+    ],
     "wof:id":672220247,
-    "wof:lastmodified":1472625221,
+    "wof:lastmodified":1492109115,
     "wof:name":"Paper Moon",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

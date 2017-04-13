@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.827038,42.307216,-71.827038,42.307216",
     "geom:latitude":42.307216,
     "geom:longitude":-71.827038,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85838197,
+        102084655,
         85881865,
         102191575,
         404476639,
-        85633793,
-        85950375,
-        102084655,
-        85688645
+        85950375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,15 @@
     },
     "wof:country":"US",
     "wof:created":1461729266,
-    "wof:geomhash":"d60c4c717e41c826b259d60cbe3f6dca",
+    "wof:geomhash":"acca37cbb2f46370bd6ffc09620236a9",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85838197,
+            "region_id":85688645,
+            "venue_id":672911159
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +70,9 @@
         }
     ],
     "wof:id":672911159,
-    "wof:lastmodified":1472626125,
+    "wof:lastmodified":1492115412,
     "wof:name":"Earth Tech Inc",
-    "wof:parent_id":85881865,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

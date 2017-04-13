@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.108582,42.596348,-73.108582,42.596348",
     "geom:latitude":42.596348,
     "geom:longitude":-73.108582,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523261
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0irfSBMy7MW4YVjoWoJQ7R_42.596348_-73.108582@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723668,
-    "wof:geomhash":"6dc4ce4b95dcf62a742211728700122b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"611e58e6980a2efae1294bd0bd268b07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523261,
+            "venue_id":672647939
+        }
+    ],
     "wof:id":672647939,
-    "wof:lastmodified":1472625901,
+    "wof:lastmodified":1492111873,
     "wof:name":"Ayrhill Farms Inc",
     "wof:parent_id":420523261,
     "wof:placetype":"venue",

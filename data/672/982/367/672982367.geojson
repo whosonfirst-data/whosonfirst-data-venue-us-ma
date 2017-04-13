@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.464022,42.187053,-72.464022,42.187053",
     "geom:latitude":42.187053,
     "geom:longitude":-72.464022,
@@ -33,17 +34,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OwYsXMxHctFRw3xtNSSom_42.187053_-72.464022@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731101,
-    "wof:geomhash":"f78c9823885c6e72e951ded9da3065d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a35470b148c1d109d8f63f5df768628b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":672982367
+        }
+    ],
     "wof:id":672982367,
-    "wof:lastmodified":1472626189,
+    "wof:lastmodified":1492118618,
     "wof:name":"Custom Built Security",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

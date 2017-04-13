@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.905893,41.882092,-70.905893,41.882092",
     "geom:latitude":41.882092,
     "geom:longitude":-70.905893,
@@ -31,17 +32,26 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jKCr4xe9THwCt9QxCdImE_41.882252_-70.906461@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733178,
-    "wof:geomhash":"5cb41da47152bd0f584de2872b898854",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22d63f813a410e3d1a784b7ff87a5a9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":673072111
+        }
+    ],
     "wof:id":673072111,
-    "wof:lastmodified":1472625148,
+    "wof:lastmodified":1492103481,
     "wof:name":"Chianti's Italian Grille",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.746203,42.047854,-70.746203,42.047854",
     "geom:latitude":42.047854,
     "geom:longitude":-70.746203,
@@ -31,19 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523943,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Tk3WAJPErdEwTlB75J4OB_42.047854_-70.746203@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727743,
-    "wof:geomhash":"3619ea7527c1f002683e5333f9fe7674",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed8fbace51396e8af1c59a1bc1ac3c44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523943,
+            "venue_id":672837483
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":672837483
+        }
+    ],
     "wof:id":672837483,
-    "wof:lastmodified":1472626066,
+    "wof:lastmodified":1492112264,
     "wof:name":"Crescent Moon Bay Consulting",
-    "wof:parent_id":420523967,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

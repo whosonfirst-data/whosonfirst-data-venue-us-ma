@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.117975,42.135295,-71.117975,42.135295",
     "geom:latitude":42.135295,
     "geom:longitude":-71.117975,
@@ -38,17 +39,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39GEog5gqsNKSozOuqaZWO_42.135295_-71.117975@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736312,
-    "wof:geomhash":"96d57856a112e47855ee7f17e668da44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c2d18b0ee77c809518656dd83dfcefd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688953233
+        }
+    ],
     "wof:id":688953233,
-    "wof:lastmodified":1472625127,
+    "wof:lastmodified":1492120224,
     "wof:name":"Agostini Environmental Photography",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

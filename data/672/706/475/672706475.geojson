@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.681878,42.60494,-70.681878,42.60494",
     "geom:latitude":42.60494,
     "geom:longitude":-70.681878,
@@ -34,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845597,
+        85831917,
         102191575,
         404476197,
         85633793,
         85950419,
         102084463,
-        85688645
+        85688645,
+        85845597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +50,18 @@
     },
     "wof:country":"US",
     "wof:created":1461725004,
-    "wof:geomhash":"ed91600bd187fdf8c9e7ab752d4200a2",
+    "wof:geomhash":"be15ebf8fc35a5cfa36bdaefb1e21c0d",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476197,
+            "locality_id":85950419,
+            "neighbourhood_id":85831917,
+            "region_id":85688645,
+            "venue_id":672706475
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,9 +74,9 @@
         }
     ],
     "wof:id":672706475,
-    "wof:lastmodified":1472625949,
+    "wof:lastmodified":1492118508,
     "wof:name":"Girl Scout Friendship House",
-    "wof:parent_id":85845597,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

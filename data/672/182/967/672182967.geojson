@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.478243,42.060041,-71.478243,42.060041",
     "geom:latitude":42.060041,
     "geom:longitude":-71.478243,
@@ -33,17 +34,26 @@
         "upholstery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MMj8TtDYiDQY5TLim0m0O_42.060041_-71.478243@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713181,
-    "wof:geomhash":"ab550abadd579ca373a8accbeef92476",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43b4165e96ddbd9b2caef006b1f477a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523777,
+            "venue_id":672182967
+        }
+    ],
     "wof:id":672182967,
-    "wof:lastmodified":1472625113,
+    "wof:lastmodified":1492108136,
     "wof:name":"Bob's Auto Upholstery",
     "wof:parent_id":420523777,
     "wof:placetype":"venue",

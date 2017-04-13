@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.553511,41.814401,-70.553511,41.814401",
     "geom:latitude":41.814401,
     "geom:longitude":-70.553511,
@@ -32,17 +33,26 @@
         "treatment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uBs5BKdqoDekjBuU0UTpX_41.814401_-70.553511@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720039,
-    "wof:geomhash":"8963ad04e17a9e727a8b02005c1f13e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ab3db1eb8aaf8bb5c4345f843ffa388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":672483433
+        }
+    ],
     "wof:id":672483433,
-    "wof:lastmodified":1472625746,
+    "wof:lastmodified":1492117364,
     "wof:name":"Cape & Island Water",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

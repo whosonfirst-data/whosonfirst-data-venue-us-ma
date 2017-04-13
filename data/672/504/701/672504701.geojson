@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.522111,42.669462,-72.522111,42.669462",
     "geom:latitude":42.669462,
     "geom:longitude":-72.522111,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fIE7cESQV3mYTHmurftHM_42.669462_-72.522111@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720504,
-    "wof:geomhash":"1901280507ee8c356802587d9622c4d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb3c8207d089015101dd469c9a659a46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672504701
+        }
+    ],
     "wof:id":672504701,
-    "wof:lastmodified":1472625770,
+    "wof:lastmodified":1492114932,
     "wof:name":"Charles R Deane Excavating",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

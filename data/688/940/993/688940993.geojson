@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.450157,42.071602,-71.450157,42.071602",
     "geom:latitude":42.071602,
     "geom:longitude":-71.450157,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"http://www.meetingcompany.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476439,
+        85633793,
+        85950431,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77XYIxR5ZceGkOAC06mMpT_42.071602_-71.450157@1303262198"
     },
     "wof:country":"US",
     "wof:created":1461736065,
-    "wof:geomhash":"b40c7bf8a396b13489b27d2552b33bb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"226f855d1025f56c97a11c44c977fe78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476439,
+            "locality_id":85950431,
+            "region_id":85688645,
+            "venue_id":688940993
+        }
+    ],
     "wof:id":688940993,
-    "wof:lastmodified":1472625112,
+    "wof:lastmodified":1492120955,
     "wof:name":"The Meeting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

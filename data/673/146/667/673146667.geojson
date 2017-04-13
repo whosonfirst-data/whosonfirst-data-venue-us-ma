@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.535032,42.138481,-71.535032,42.138481",
     "geom:latitude":42.138481,
     "geom:longitude":-71.535032,
@@ -38,10 +39,13 @@
     "sg:website":"http://www.honeydue.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,18 +53,21 @@
     },
     "wof:country":"US",
     "wof:created":1461734729,
-    "wof:geomhash":"777cdc5a0c169b50d223b461a6a05131",
+    "wof:geomhash":"5b6720210c5b13130b336075d7ae0cec",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":673146667
         }
     ],
     "wof:id":673146667,
-    "wof:lastmodified":1472625425,
+    "wof:lastmodified":1492102445,
     "wof:name":"Honey Due",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

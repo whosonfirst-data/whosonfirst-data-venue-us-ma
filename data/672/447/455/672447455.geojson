@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.12803,42.339067,-71.12803,42.339067",
     "geom:latitude":42.339067,
     "geom:longitude":-71.12803,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Bc6MLeLilk9WNBMtpgIiF_42.339067_-71.128030@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719110,
-    "wof:geomhash":"9d399c71319da8029ddc0cb0c78f05d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"764f461de6b035828d40823db40899af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "region_id":85688645,
+            "venue_id":672447455
+        }
+    ],
     "wof:id":672447455,
-    "wof:lastmodified":1472625713,
+    "wof:lastmodified":1492116242,
     "wof:name":"Rogers Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

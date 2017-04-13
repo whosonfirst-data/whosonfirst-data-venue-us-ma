@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.282851,42.131873,-71.282851,42.131873",
     "geom:latitude":42.131873,
     "geom:longitude":-71.282851,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GXfQgjVPTIASf9Sl4mwQE_42.131873_-71.282851@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723637,
-    "wof:geomhash":"338f833ee66c96c709573042a567c426",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4235073e52adb0a95f922a68b303ba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672646361
+        }
+    ],
     "wof:id":672646361,
-    "wof:lastmodified":1472625891,
+    "wof:lastmodified":1492115895,
     "wof:name":"Holland Landscaping",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

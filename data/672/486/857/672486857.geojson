@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.878743,41.879597,-70.878743,41.879597",
     "geom:latitude":41.879597,
     "geom:longitude":-70.878743,
@@ -33,17 +34,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uQ38hZn0bpA6GK1IrKeGg_41.879597_-70.878743@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720111,
-    "wof:geomhash":"12c5cadee3b42e1841006caaeae26fb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e17a32f19958a8bdad535c3be266c49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672486857
+        }
+    ],
     "wof:id":672486857,
-    "wof:lastmodified":1472625757,
+    "wof:lastmodified":1492111143,
     "wof:name":"Minkle Plumbing & Heating Co",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

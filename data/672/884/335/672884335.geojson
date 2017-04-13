@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.629123,42.089452,-72.629123,42.089452",
     "geom:latitude":42.089452,
     "geom:longitude":-72.629123,
@@ -35,7 +36,10 @@
         85633793,
         85950399,
         102084627,
-        85688645
+        85688645,
+        85837161,
+        404476377,
+        85950389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461728714,
-    "wof:geomhash":"ad5f27f4a0d70cb52d3967a6445b2e9a",
+    "wof:geomhash":"dd3fdada78d35f78ecd87ff18a8a7375",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +58,22 @@
             "neighbourhood_id":420523613,
             "region_id":85688645,
             "venue_id":672884335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476377,
+            "locality_id":85950389,
+            "neighbourhood_id":85837161,
+            "region_id":85688645,
+            "venue_id":672884335
         }
     ],
     "wof:id":672884335,
-    "wof:lastmodified":1472626105,
+    "wof:lastmodified":1492113666,
     "wof:name":"Clark Family Chiropractic",
-    "wof:parent_id":420523613,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

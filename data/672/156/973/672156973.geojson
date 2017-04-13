@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.027065,41.962572,-71.027065,41.962572",
     "geom:latitude":41.962572,
     "geom:longitude":-71.027065,
@@ -34,17 +35,26 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0A71TWZ78g4iK5igGme9Yg_41.962572_-71.027065@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712591,
-    "wof:geomhash":"3c03adf19af591e9f0623c173b52850c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3365154cd97e124fa650a8e45ca18754",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672156973
+        }
+    ],
     "wof:id":672156973,
-    "wof:lastmodified":1472624973,
+    "wof:lastmodified":1492112494,
     "wof:name":"Madden & Son Swimming Pools",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

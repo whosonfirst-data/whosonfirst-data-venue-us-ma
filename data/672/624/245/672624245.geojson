@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.658148,42.170349,-71.658148,42.170349",
     "geom:latitude":42.170349,
     "geom:longitude":-71.658148,
@@ -33,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420524115,
+        85688645,
         85819001,
         102084655
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461723160,
-    "wof:geomhash":"7d5f546069602a3ef064d1a3ed783473",
+    "wof:geomhash":"92df0f4c1be3191bba5df4ee1538e5d8",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524115,
+            "venue_id":672624245
+        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":672624245,
-    "wof:lastmodified":1472625870,
+    "wof:lastmodified":1492109404,
     "wof:name":"Pulte Homes Hilltop Farm",
-    "wof:parent_id":85819001,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

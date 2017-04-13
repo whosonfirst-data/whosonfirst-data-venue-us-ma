@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.925492,42.098738,-71.925492,42.098738",
     "geom:latitude":42.098738,
     "geom:longitude":-71.925492,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tjl6iyvKqirGH9h0qsZUJ_42.098738_-71.925492@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712328,
-    "wof:geomhash":"185683702ae20c1376aa5210233521c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76668b6bb0972e4325bba616f7a6973f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":672143961
+        }
+    ],
     "wof:id":672143961,
-    "wof:lastmodified":1472624965,
+    "wof:lastmodified":1492112617,
     "wof:name":"Bussiere Demolition",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

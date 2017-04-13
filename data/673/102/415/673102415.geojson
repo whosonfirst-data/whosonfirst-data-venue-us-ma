@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.530704,42.439734,-72.530704,42.439734",
     "geom:latitude":42.439734,
     "geom:longitude":-72.530704,
@@ -37,19 +38,28 @@
     ],
     "sg:website":"http://hfcdc.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ecVg7ZRZrEPEphkGfTZbc_42.439734_-72.530704@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733812,
-    "wof:geomhash":"b4f44cbe5ebc424e0da3298d814a71e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffaec1254764bde3155c9545cdf77fc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523639,
+            "venue_id":673102415
+        }
+    ],
     "wof:id":673102415,
-    "wof:lastmodified":1472625273,
+    "wof:lastmodified":1492104765,
     "wof:name":"Hampshire-Franklin Children's Day Care Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

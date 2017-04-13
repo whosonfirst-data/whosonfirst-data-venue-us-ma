@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.552252,41.818428,-70.552252,41.818428",
     "geom:latitude":41.818428,
     "geom:longitude":-70.552252,
@@ -31,19 +32,38 @@
         "out"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85836251,
+        102084367,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jKkNzJ3cxWuw0WYvmnxEG_41.818428_-70.552252@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711603,
-    "wof:geomhash":"11d92b03e0ffaea15a70add8b4cfcc9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a7fc47fffe42e373a4073fba89a319e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85836251,
+            "region_id":85688645,
+            "venue_id":656381261
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":656381261
+        }
+    ],
     "wof:id":656381261,
-    "wof:lastmodified":1472624989,
+    "wof:lastmodified":1492102296,
     "wof:name":"Rock Bottom Gally",
-    "wof:parent_id":420523951,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

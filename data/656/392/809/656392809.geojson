@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.986471,41.670492,-70.986471,41.670492",
     "geom:latitude":41.670492,
     "geom:longitude":-70.986471,
@@ -31,17 +32,26 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2670QqHZPcCG6QhvQ6KjxV_41.670492_-70.986471@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711858,
-    "wof:geomhash":"a86443dc196606e8e3d1c194730e6430",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b427b80a807f0fe0a3de6ad7a00a67b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523377,
+            "venue_id":656392809
+        }
+    ],
     "wof:id":656392809,
-    "wof:lastmodified":1472625038,
+    "wof:lastmodified":1492101387,
     "wof:name":"Chase Farm Veterinary Hospital",
     "wof:parent_id":420523377,
     "wof:placetype":"venue",

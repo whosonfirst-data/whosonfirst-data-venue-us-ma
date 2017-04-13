@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.481873,42.193423,-72.481873,42.193423",
     "geom:latitude":42.193423,
     "geom:longitude":-72.481873,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z4Ql0wDROoiebtR72uv1o_42.193423_-72.481873@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731319,
-    "wof:geomhash":"78d82bb9867679a1d18eb41c9803edbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46e11b3786bc29c56a02b82016fb5cfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":672989925
+        }
+    ],
     "wof:id":672989925,
-    "wof:lastmodified":1472626203,
+    "wof:lastmodified":1492107617,
     "wof:name":"Precision Home Improvements",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.301583,42.065189,-73.301583,42.065189",
     "geom:latitude":42.065189,
     "geom:longitude":-73.301583,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mrMPJML8CPhk79mMpuyEA_42.065189_-73.301583@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722152,
-    "wof:geomhash":"6ddb29f670b6654de6ccfe7702627daf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b8792c2d43959a351a8482f9bb11c81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672581271
+        }
+    ],
     "wof:id":672581271,
-    "wof:lastmodified":1472625819,
+    "wof:lastmodified":1492110010,
     "wof:name":"Thomas Bartle Builders",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

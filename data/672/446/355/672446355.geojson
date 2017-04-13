@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.751997,42.021942,-70.751997,42.021942",
     "geom:latitude":42.021942,
     "geom:longitude":-70.751997,
@@ -31,17 +32,26 @@
         "carrier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KHZtCtAnK1YkzJdRno5xM_42.021942_-70.751997@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719084,
-    "wof:geomhash":"46c66d22d47338ee48999ee7cb5d49ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9047a6db408c8597dcc335e662c975f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":672446355
+        }
+    ],
     "wof:id":672446355,
-    "wof:lastmodified":1472625712,
+    "wof:lastmodified":1492117655,
     "wof:name":"Dorothy Walter",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

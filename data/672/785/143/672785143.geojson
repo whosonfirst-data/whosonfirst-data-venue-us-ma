@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.211248,42.4646,-73.211248,42.4646",
     "geom:latitude":42.4646,
     "geom:longitude":-73.211248,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85811957,
+        102191575,
+        404476123,
         85633793,
         85950325,
         102084369,
-        85811957
+        85688645,
+        85802421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,21 +50,33 @@
     },
     "wof:country":"US",
     "wof:created":1461726685,
-    "wof:geomhash":"789580ec2c83cb14e89ea9826aad189e",
+    "wof:geomhash":"34bf2ce56fa2a37626a874af8a591760",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084369,
+            "localadmin_id":404476123,
             "locality_id":85950325,
             "neighbourhood_id":85811957,
+            "region_id":85688645,
+            "venue_id":672785143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084369,
+            "localadmin_id":404476123,
+            "locality_id":85950325,
+            "neighbourhood_id":85802421,
             "region_id":85688645,
             "venue_id":672785143
         }
     ],
     "wof:id":672785143,
-    "wof:lastmodified":1472626010,
+    "wof:lastmodified":1492116863,
     "wof:name":"Imperial Bowl Inc",
-    "wof:parent_id":85811957,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.65561,41.918617,-70.65561,41.918617",
     "geom:latitude":41.918617,
     "geom:longitude":-70.65561,
@@ -33,10 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85827215,
+        102191575,
+        404476561,
         85633793,
-        85849967,
-        102084367
+        85950483,
+        102084367,
+        85688645,
+        85810861,
+        85849967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +50,25 @@
     },
     "wof:country":"US",
     "wof:created":1461713213,
-    "wof:geomhash":"3e4131d84918c0a5e6077de90e68f9f4",
+    "wof:geomhash":"ed7104f1aca2b2189d0244b4ba9854ac",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476561,
+            "locality_id":85950483,
+            "neighbourhood_id":85827215,
+            "region_id":85688645,
+            "venue_id":672184495
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85810861,
+            "region_id":85688645,
+            "venue_id":672184495
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -55,9 +78,9 @@
         }
     ],
     "wof:id":672184495,
-    "wof:lastmodified":1472625118,
+    "wof:lastmodified":1492113983,
     "wof:name":"N J Fortini",
-    "wof:parent_id":85849967,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.212282,41.748852,-71.212282,41.748852",
     "geom:latitude":41.748852,
     "geom:longitude":-71.212282,
@@ -33,17 +34,26 @@
         "steakhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cuskVgltsWRbrTTNDztTE_41.748852_-71.212282@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461733622,
-    "wof:geomhash":"9f9581462fb228f79a63eb7bc0500f3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14210be7ac8a879d9cfbac3060935a58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":673092895
+        }
+    ],
     "wof:id":673092895,
-    "wof:lastmodified":1472625260,
+    "wof:lastmodified":1492103021,
     "wof:name":"Ponderosa Steak House",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

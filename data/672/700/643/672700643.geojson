@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.570111,42.639696,-72.570111,42.639696",
     "geom:latitude":42.639696,
     "geom:longitude":-72.570111,
@@ -32,17 +33,26 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37AmN9MoHvwkRERpO6AJsZ_42.639696_-72.570111@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724879,
-    "wof:geomhash":"dd4e718168b4319c7b952162a9f411e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3691aab750764d6810097f65bab71764",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672700643
+        }
+    ],
     "wof:id":672700643,
-    "wof:lastmodified":1472625945,
+    "wof:lastmodified":1492109164,
     "wof:name":"Greenfield Secure Storage",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

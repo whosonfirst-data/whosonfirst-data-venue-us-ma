@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.647339,41.946134,-70.647339,41.946134",
     "geom:latitude":41.946134,
     "geom:longitude":-70.647339,
@@ -34,10 +35,14 @@
     "sg:website":"www.envirofirst.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85827215,
+        102191575,
+        404476561,
         85633793,
-        85810861,
-        102084367
+        85950483,
+        102084367,
+        85688645,
+        85810861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +50,18 @@
     },
     "wof:country":"US",
     "wof:created":1461727220,
-    "wof:geomhash":"68321b462bd3c8e9b6c5b1f3260f9864",
+    "wof:geomhash":"c8b661d13f7163d7c1a6fa734d312e01",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476561,
+            "locality_id":85950483,
+            "neighbourhood_id":85827215,
+            "region_id":85688645,
+            "venue_id":672811319
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -56,9 +71,9 @@
         }
     ],
     "wof:id":672811319,
-    "wof:lastmodified":1472626037,
+    "wof:lastmodified":1492111717,
     "wof:name":"Butterfield Environmental Corp",
-    "wof:parent_id":85810861,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

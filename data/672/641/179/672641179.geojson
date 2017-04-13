@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.712965,42.38489,-72.712965,42.38489",
     "geom:latitude":42.38489,
     "geom:longitude":-72.712965,
@@ -32,17 +33,26 @@
         "skid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UGMIaVBLfbloa3wDotDkl_42.384890_-72.712965@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723524,
-    "wof:geomhash":"2e25cbbbdfc6d33caba434f8978c43fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d027c244f995bff61ce71412495da35f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523635,
+            "venue_id":672641179
+        }
+    ],
     "wof:id":672641179,
-    "wof:lastmodified":1472625880,
+    "wof:lastmodified":1492113329,
     "wof:name":"Warriner Pallet",
     "wof:parent_id":420523635,
     "wof:placetype":"venue",

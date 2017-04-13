@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.283238,42.113665,-71.283238,42.113665",
     "geom:latitude":42.113665,
     "geom:longitude":-71.283238,
@@ -32,17 +33,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E67mqwqUYyJH6n6by7MVo_42.113665_-71.283238@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711503,
-    "wof:geomhash":"db77b4cafb76a72f7f930f45aba5102c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"573ae5c2e7f086b362469700cac42e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":656375749
+        }
+    ],
     "wof:id":656375749,
-    "wof:lastmodified":1472625017,
+    "wof:lastmodified":1492101304,
     "wof:name":"CNE Machine Co",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

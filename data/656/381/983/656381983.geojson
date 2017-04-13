@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.067931,41.650957,-71.067931,41.650957",
     "geom:latitude":41.650957,
     "geom:longitude":-71.067931,
@@ -33,17 +34,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3z4U4QNi09g6lZY8mXB5yO_41.650957_-71.067931@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711624,
-    "wof:geomhash":"c8a28eebe4bfd984b482262554e45bdd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efe4b861962b2be4f6509e4d4f812f1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":656381983
+        }
+    ],
     "wof:id":656381983,
-    "wof:lastmodified":1472625024,
+    "wof:lastmodified":1492102290,
     "wof:name":"Premium 70 70 Cigars",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

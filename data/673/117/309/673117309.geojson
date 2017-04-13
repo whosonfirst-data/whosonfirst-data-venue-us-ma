@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.568749,42.676176,-71.568749,42.676176",
     "geom:latitude":42.676176,
     "geom:longitude":-71.568749,
@@ -38,17 +39,26 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UNMMTsT3VmONcwqUhIS2d_42.676176_-71.568749@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734133,
-    "wof:geomhash":"8772843eeaacdd472ee6029f2d5aec17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f391d7ea655f712a04180ff99eae1b45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523693,
+            "venue_id":673117309
+        }
+    ],
     "wof:id":673117309,
-    "wof:lastmodified":1472625345,
+    "wof:lastmodified":1492104375,
     "wof:name":"Dtw Sewer And Waste Water Div",
     "wof:parent_id":420523693,
     "wof:placetype":"venue",

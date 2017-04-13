@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.792358,42.2498,-70.792358,42.2498",
     "geom:latitude":42.2498,
     "geom:longitude":-70.792358,
@@ -29,17 +30,26 @@
     "sg:province":"MA",
     "sg:website":"http://www.digitalarbor.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hqUsYJBDBf2XVY9dfuxnU_42.249800_-70.792358@1308186500"
     },
     "wof:country":"US",
     "wof:created":1461742673,
-    "wof:geomhash":"fe7a91d151694d66d1e18a393127f730",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1a11816f973b2a07419c0e868b17f2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":689229001
+        }
+    ],
     "wof:id":689229001,
-    "wof:lastmodified":1472625635,
+    "wof:lastmodified":1492098640,
     "wof:name":"digitalArbor",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

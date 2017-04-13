@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.066417,41.270126,-70.066417,41.270126",
     "geom:latitude":41.270126,
     "geom:longitude":-70.066417,
@@ -34,10 +35,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85848411,
-        102084641
+        102191575,
+        404476421,
+        85633793,
+        85950503,
+        102084641,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"US",
     "wof:created":1461725977,
-    "wof:geomhash":"ac246b1060b2fe45ac478665f2989cee",
+    "wof:geomhash":"94c9b0917fcbef0aac916c0cc8863d1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084641,
+            "localadmin_id":404476421,
+            "locality_id":85950503,
             "neighbourhood_id":85848411,
             "region_id":85688645,
             "venue_id":672751911
         }
     ],
     "wof:id":672751911,
-    "wof:lastmodified":1472625998,
+    "wof:lastmodified":1492106106,
     "wof:name":"Nantucket Sail Repair & Canvas",
     "wof:parent_id":85848411,
     "wof:placetype":"venue",

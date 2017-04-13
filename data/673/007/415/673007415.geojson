@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.208165,41.71601,-71.208165,41.71601",
     "geom:latitude":41.71601,
     "geom:longitude":-71.208165,
@@ -38,7 +39,9 @@
         85633793,
         85950687,
         102084407,
-        85688645
+        85688645,
+        420523337,
+        85950681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461731741,
-    "wof:geomhash":"aca564425a383647c45e1f22fe8ad579",
+    "wof:geomhash":"3219b5b83394021022d83b4a9a42da80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,22 @@
             "neighbourhood_id":85807149,
             "region_id":85688645,
             "venue_id":673007415
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476145,
+            "locality_id":85950681,
+            "neighbourhood_id":420523337,
+            "region_id":85688645,
+            "venue_id":673007415
         }
     ],
     "wof:id":673007415,
-    "wof:lastmodified":1472624945,
+    "wof:lastmodified":1492102670,
     "wof:name":"Bio Word Secretarial Services",
-    "wof:parent_id":85807149,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.932,42.520395,-70.932,42.520395",
     "geom:latitude":42.520395,
     "geom:longitude":-70.932,
@@ -35,7 +36,8 @@
         85633793,
         85950407,
         102084463,
-        85688645
+        85688645,
+        85891477
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461715215,
-    "wof:geomhash":"2862a686178ed66dcb204348fe2f4a02",
+    "wof:geomhash":"9047c172affc5612c5c1f9a238ab6179",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,22 @@
             "neighbourhood_id":85891499,
             "region_id":85688645,
             "venue_id":672280923
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476253,
+            "locality_id":85950407,
+            "neighbourhood_id":85891477,
+            "region_id":85688645,
+            "venue_id":672280923
         }
     ],
     "wof:id":672280923,
-    "wof:lastmodified":1472625472,
+    "wof:lastmodified":1492112120,
     "wof:name":"Buddha's Tavern",
-    "wof:parent_id":85891499,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

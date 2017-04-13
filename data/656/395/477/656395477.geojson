@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.902477,42.050628,-70.902477,42.050628",
     "geom:latitude":42.050628,
     "geom:longitude":-70.902477,
@@ -31,17 +32,26 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GudYu7OJNHty7z6SJ86lW_42.050628_-70.902477@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711918,
-    "wof:geomhash":"bf06d95ef83b3d48f8fc89c12577c4d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70247e944c1444d2997864290b5afada",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":656395477
+        }
+    ],
     "wof:id":656395477,
-    "wof:lastmodified":1472625054,
+    "wof:lastmodified":1492102163,
     "wof:name":"R E Verville",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

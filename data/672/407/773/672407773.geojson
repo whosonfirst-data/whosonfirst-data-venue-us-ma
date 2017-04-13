@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.935723,41.760667,-70.935723,41.760667",
     "geom:latitude":41.760667,
     "geom:longitude":-70.935723,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IqaZZk4Zt748OG0IDEQ3T_41.760667_-70.935723@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718088,
-    "wof:geomhash":"55a29afa57bd5da87a8102cab2092671",
-    "wof:hierarchy":[],
+    "wof:geomhash":"106b4cd2cc40fc5c9aca236fb021c8bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":672407773
+        }
+    ],
     "wof:id":672407773,
-    "wof:lastmodified":1472625678,
+    "wof:lastmodified":1492112982,
     "wof:name":"On Line Business Solutions",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

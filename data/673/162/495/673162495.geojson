@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.219752,42.524304,-71.219752,42.524304",
     "geom:latitude":42.524304,
     "geom:longitude":-71.219752,
@@ -37,17 +38,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476473,
+        85633793,
+        85950619,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YpzWaZgqQG2DLEDYRDygm_42.524304_-71.219752@1303262191"
     },
     "wof:country":"US",
     "wof:created":1461735069,
-    "wof:geomhash":"cf32bd5df4f12f865cb60a9c8057fb78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a6b56f3f0ec4d85a1b45cdc1d102b89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476473,
+            "locality_id":85950619,
+            "region_id":85688645,
+            "venue_id":673162495
+        }
+    ],
     "wof:id":673162495,
-    "wof:lastmodified":1472625453,
+    "wof:lastmodified":1492105277,
     "wof:name":"Bb Line Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

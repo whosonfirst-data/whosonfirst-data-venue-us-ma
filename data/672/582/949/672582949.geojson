@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.044901,42.688569,-72.044901,42.688569",
     "geom:latitude":42.688569,
     "geom:longitude":-72.044901,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L0SazqzPjfgY75exvtEZz_42.688569_-72.044901@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722194,
-    "wof:geomhash":"7872f7f8852f20dc3ba602ab2e0f45bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06471c496cf21e12280f599e2d2e4597",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":672582949
+        }
+    ],
     "wof:id":672582949,
-    "wof:lastmodified":1472625840,
+    "wof:lastmodified":1492115612,
     "wof:name":"Superior Masonry",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

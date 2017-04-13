@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.867885,41.908138,-70.867885,41.908138",
     "geom:latitude":41.908138,
     "geom:longitude":-70.867885,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5n3GJ3kbsJsf6dR4iE6Py6_41.908138_-70.867885@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711592,
-    "wof:geomhash":"5bb06bda1d66f06a5158923b03d99075",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcc9f4631961a2f63de86cb771d854f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":656380695
+        }
+    ],
     "wof:id":656380695,
-    "wof:lastmodified":1472625015,
+    "wof:lastmodified":1492101525,
     "wof:name":"Wrap Strategies",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.974689,42.047831,-70.974689,42.047831",
     "geom:latitude":42.047831,
     "geom:longitude":-70.974689,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0J1oz1JzXhhreFdDADfmiV_42.047831_-70.974689@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726499,
-    "wof:geomhash":"1e8bceec37e854224dba99f8d8c383b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcad9fd941309cd715f20477dfb66e2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523979,
+            "venue_id":672775967
+        }
+    ],
     "wof:id":672775967,
-    "wof:lastmodified":1472626018,
+    "wof:lastmodified":1492110706,
     "wof:name":"Riviera Cafe Inc",
     "wof:parent_id":420523979,
     "wof:placetype":"venue",

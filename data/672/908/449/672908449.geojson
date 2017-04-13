@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.039085,41.88001,-71.039085,41.88001",
     "geom:latitude":41.88001,
     "geom:longitude":-71.039085,
@@ -28,17 +29,34 @@
     "sg:postcode":"02718",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476147,
+        85633793,
+        85950365,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VbxKkIcjebKkxd0FiEMMJ_41.880010_-71.039085@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729205,
-    "wof:geomhash":"c40d6639b84846c305e1f818b8483e7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3234520eb6440eb7f52027fcd86917cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476147,
+            "locality_id":85950365,
+            "region_id":85688645,
+            "venue_id":672908449
+        }
+    ],
     "wof:id":672908449,
-    "wof:lastmodified":1472626126,
+    "wof:lastmodified":1492107033,
     "wof:name":"Home-Plate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

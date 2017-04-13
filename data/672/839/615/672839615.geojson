@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.295939,42.326532,-71.295939,42.326532",
     "geom:latitude":42.326532,
     "geom:longitude":-71.295939,
@@ -32,17 +33,32 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476465,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54B7TGulgCpHLGQUlMVdd6_42.326532_-71.295939@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727787,
-    "wof:geomhash":"af3a7fb46a3cebe28d74e8732d809e00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"715a7c59b613e24d95b5f489444c5f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476465,
+            "region_id":85688645,
+            "venue_id":672839615
+        }
+    ],
     "wof:id":672839615,
-    "wof:lastmodified":1472626068,
+    "wof:lastmodified":1492108502,
     "wof:name":"Northeastern University",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.827778,42.262606,-71.827778,42.262606",
     "geom:latitude":42.262606,
     "geom:longitude":-71.827778,
@@ -51,14 +52,14 @@
     "sg:website":"http://www.cwmedsupply.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805121,
+        85881855,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
         85688645,
-        85881855
+        85805121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,18 +67,8 @@
     },
     "wof:country":"US",
     "wof:created":1461734416,
-    "wof:geomhash":"b1d5bb2843fa28668cf2b444afcdde25",
+    "wof:geomhash":"8053edebbf21c31c7cc6a4443bed707b",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476639,
-            "locality_id":85950375,
-            "neighbourhood_id":85805121,
-            "region_id":85688645,
-            "venue_id":673131061
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -87,12 +78,22 @@
             "neighbourhood_id":85881855,
             "region_id":85688645,
             "venue_id":673131061
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85805121,
+            "region_id":85688645,
+            "venue_id":673131061
         }
     ],
     "wof:id":673131061,
-    "wof:lastmodified":1472625344,
+    "wof:lastmodified":1492103782,
     "wof:name":"Chicopee West Medical SUPPLY",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

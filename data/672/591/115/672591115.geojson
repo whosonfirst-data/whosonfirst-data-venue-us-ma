@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.690125,42.337637,-71.690125,42.337637",
     "geom:latitude":42.337637,
     "geom:longitude":-71.690125,
@@ -40,7 +41,8 @@
         85633793,
         85950735,
         102084655,
-        85688645
+        85688645,
+        85806943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722387,
-    "wof:geomhash":"66130dcdaaa188efad84994458abb4bb",
+    "wof:geomhash":"b3f7ba30d258b6e5629639455a3115eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,19 @@
             "neighbourhood_id":85858993,
             "region_id":85688645,
             "venue_id":672591115
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85806943,
+            "region_id":85688645,
+            "venue_id":672591115
         }
     ],
     "wof:id":672591115,
-    "wof:lastmodified":1472625844,
+    "wof:lastmodified":1492116151,
     "wof:name":"Straw Hollow Kennels",
-    "wof:parent_id":85858993,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.165078,42.385979,-71.165078,42.385979",
     "geom:latitude":42.385979,
     "geom:longitude":-71.165078,
@@ -37,17 +38,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475999,
+        85633793,
+        85950617,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bLmeAyCWusJwmkYWleaic_42.385979_-71.165078@1303262230"
     },
     "wof:country":"US",
     "wof:created":1461741805,
-    "wof:geomhash":"3ea2b9c5e887375b144797155d9050aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a708999da14468fa3dc900755b75a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404475999,
+            "locality_id":85950617,
+            "region_id":85688645,
+            "venue_id":689188377
+        }
+    ],
     "wof:id":689188377,
-    "wof:lastmodified":1472625573,
+    "wof:lastmodified":1492096996,
     "wof:name":"Lec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

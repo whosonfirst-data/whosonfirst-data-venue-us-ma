@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.914929,42.075165,-71.914929,42.075165",
     "geom:latitude":42.075165,
     "geom:longitude":-71.914929,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524095
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40MnB8L140jPJed4MErH7R_42.075165_-71.914929@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721474,
-    "wof:geomhash":"a78ffb808cd0d4e4581cd5b3fb7eff0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c095c5cc0363378d3fb59799e50fdb31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524095,
+            "venue_id":672550651
+        }
+    ],
     "wof:id":672550651,
-    "wof:lastmodified":1472625829,
+    "wof:lastmodified":1492111804,
     "wof:name":"Douglas McVeigh",
     "wof:parent_id":420524095,
     "wof:placetype":"venue",

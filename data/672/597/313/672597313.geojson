@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.080101,41.65893,-71.080101,41.65893",
     "geom:latitude":41.65893,
     "geom:longitude":-71.080101,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53Vp88mDic694naQxu1tmZ_41.658930_-71.080101@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722519,
-    "wof:geomhash":"3c0125bd6a1b0d08fd67ced604939af4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a71852d569e928d2d36014863e3a7bb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672597313
+        }
+    ],
     "wof:id":672597313,
-    "wof:lastmodified":1472625847,
+    "wof:lastmodified":1492106268,
     "wof:name":"Hy-Technical Electrical Cntrct",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

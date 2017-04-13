@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.868545,42.097482,-70.868545,42.097482",
     "geom:latitude":42.097482,
     "geom:longitude":-70.868545,
@@ -28,17 +29,26 @@
     "sg:postcode":"02339",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76TZ41rLEyrnvBOmEyNG94_42.097482_-70.868545@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741037,
-    "wof:geomhash":"9591ad15ab60bcd7f48f42107d3ac648",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d273d20ca07e4466bed6a7ecab61a13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523915,
+            "venue_id":689154177
+        }
+    ],
     "wof:id":689154177,
-    "wof:lastmodified":1472625493,
+    "wof:lastmodified":1492098560,
     "wof:name":"Hanover Town Taxi",
     "wof:parent_id":420523915,
     "wof:placetype":"venue",

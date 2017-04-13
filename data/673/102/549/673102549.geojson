@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.465382,42.170568,-72.465382,42.170568",
     "geom:latitude":42.170568,
     "geom:longitude":-72.465382,
@@ -31,17 +32,26 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523593
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KcCnsxRJZK8lLSkMaeSqN_42.170568_-72.465382@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733817,
-    "wof:geomhash":"e159173600ca65f8a0313bba79b9e6e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"406e2a36ee3a0f0bd7b75d2bcbcbb9d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523593,
+            "venue_id":673102549
+        }
+    ],
     "wof:id":673102549,
-    "wof:lastmodified":1472625274,
+    "wof:lastmodified":1492104758,
     "wof:name":"Board Of Health",
     "wof:parent_id":420523593,
     "wof:placetype":"venue",

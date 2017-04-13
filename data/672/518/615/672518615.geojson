@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.44922,42.244187,-71.44922,42.244187",
     "geom:latitude":42.244187,
     "geom:longitude":-71.44922,
@@ -32,17 +33,26 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17MkQTakhN3nlSlrDbZBjR_42.244187_-71.449220@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720802,
-    "wof:geomhash":"765547f28242947eec91a7bc5c2536f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e1a68cf3aaf1a04039160b9b97aa3a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672518615
+        }
+    ],
     "wof:id":672518615,
-    "wof:lastmodified":1472625783,
+    "wof:lastmodified":1492114649,
     "wof:name":"Custom Software Solutions Inc",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

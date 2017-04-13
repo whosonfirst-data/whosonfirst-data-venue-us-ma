@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.745328,42.058297,-70.745328,42.058297",
     "geom:latitude":42.058297,
     "geom:longitude":-70.745328,
@@ -43,17 +44,26 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QtHRMk9GC92awvsHpMM6a_42.058297_-70.745328@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741017,
-    "wof:geomhash":"7de3b28db9b176e2244d9f95a8a198fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd706ae5e15cc4c9338ee1a1262c398b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523943,
+            "venue_id":689153447
+        }
+    ],
     "wof:id":689153447,
-    "wof:lastmodified":1472625505,
+    "wof:lastmodified":1492097477,
     "wof:name":"Standish Humane Society",
     "wof:parent_id":420523943,
     "wof:placetype":"venue",

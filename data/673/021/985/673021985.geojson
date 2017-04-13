@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.069277,42.027694,-71.069277,42.027694",
     "geom:latitude":42.027694,
     "geom:longitude":-71.069277,
@@ -32,19 +33,28 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DpLpiGGCZnOp3fEp58bZv_42.027694_-71.069277@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732107,
-    "wof:geomhash":"6543105cd0ea869b5c1d0b340162ac93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5318d8fd0c4931341048576a7adb0b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523987,
+            "venue_id":673021985
+        }
+    ],
     "wof:id":673021985,
-    "wof:lastmodified":1472625038,
+    "wof:lastmodified":1492104322,
     "wof:name":"TBI-1 Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

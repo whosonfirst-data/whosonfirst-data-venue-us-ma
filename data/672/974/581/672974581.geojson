@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.998031,42.663371,-70.998031,42.663371",
     "geom:latitude":42.663371,
     "geom:longitude":-70.998031,
@@ -33,17 +34,26 @@
         "dev"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523465
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79Mg2J6vu5Uz7kbsr89k0V_42.663371_-70.998031@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730896,
-    "wof:geomhash":"90d4d1565ee5cb0096ab0749ae285837",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef370d540451c30d0de2a884b907a44d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523465,
+            "venue_id":672974581
+        }
+    ],
     "wof:id":672974581,
-    "wof:lastmodified":1472626187,
+    "wof:lastmodified":1492107013,
     "wof:name":"Boxford Zoning Board",
     "wof:parent_id":420523465,
     "wof:placetype":"venue",

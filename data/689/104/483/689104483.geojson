@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.026555,42.438139,-71.026555,42.438139",
     "geom:latitude":42.438139,
     "geom:longitude":-71.026555,
@@ -43,17 +44,34 @@
         "churches-assemblies"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476399,
+        85633793,
+        85950349,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7R8QG6kNYprHPohh2zoeWX_42.438139_-71.026555@1303262219"
     },
     "wof:country":"US",
     "wof:created":1461739475,
-    "wof:geomhash":"11fa2d18c2bda6a3b48cbedda27c8f41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc6124275eee744b40b16a112cb87b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476399,
+            "locality_id":85950349,
+            "region_id":85688645,
+            "venue_id":689104483
+        }
+    ],
     "wof:id":689104483,
-    "wof:lastmodified":1472625355,
+    "wof:lastmodified":1492097521,
     "wof:name":"Kid's Place At Nort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

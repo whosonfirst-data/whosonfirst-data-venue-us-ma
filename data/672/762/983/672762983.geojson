@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.548313,41.901443,-70.548313,41.901443",
     "geom:latitude":41.901443,
     "geom:longitude":-70.548313,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BYNbnaxwKYVkhkJ2dG978_41.901443_-70.548313@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726215,
-    "wof:geomhash":"a421adfa0e9150cd28951410c6d3c87b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d272eb63a6313f083d988e4f0d8ef913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523997,
+            "venue_id":672762983
+        }
+    ],
     "wof:id":672762983,
-    "wof:lastmodified":1472626000,
+    "wof:lastmodified":1492108384,
     "wof:name":"Custom Business Websites",
     "wof:parent_id":420523997,
     "wof:placetype":"venue",

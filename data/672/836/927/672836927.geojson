@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.220149,41.684747,-70.220149,41.684747",
     "geom:latitude":41.684747,
     "geom:longitude":-70.220149,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xOaiQuW8gXrmvpD0eCO3L_41.684747_-70.220149@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727733,
-    "wof:geomhash":"012463075912643c003ca6d451ba3048",
-    "wof:hierarchy":[],
+    "wof:geomhash":"147108f31d17c2f0fd76277661f183e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672836927
+        }
+    ],
     "wof:id":672836927,
-    "wof:lastmodified":1472626073,
+    "wof:lastmodified":1492117969,
     "wof:name":"Yarmouth Landfill",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

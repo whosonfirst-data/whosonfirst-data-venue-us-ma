@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.228813,41.686515,-70.228813,41.686515",
     "geom:latitude":41.686515,
     "geom:longitude":-70.228813,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TYekRLRolcFg5dJEmw3WY_41.686515_-70.228813@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727238,
-    "wof:geomhash":"79027b92e6f777cfb8401f35a61931af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"582f7671b5ec851d24c024db18a2e67c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672811973
+        }
+    ],
     "wof:id":672811973,
-    "wof:lastmodified":1472626046,
+    "wof:lastmodified":1492111725,
     "wof:name":"E F Winslow Plumbing Show Room",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

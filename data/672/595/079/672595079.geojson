@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.928905,42.11092,-71.928905,42.11092",
     "geom:latitude":42.11092,
     "geom:longitude":-71.928905,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53xRPJsM2XlT2LWtudpWcP_42.110920_-71.928905@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722473,
-    "wof:geomhash":"44e99cdbabeaac19de0fda775a714f16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d043d9bc876bd287dc401c70334e0e76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":672595079
+        }
+    ],
     "wof:id":672595079,
-    "wof:lastmodified":1472625844,
+    "wof:lastmodified":1492115318,
     "wof:name":"A Daniels Construction Co Inc",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

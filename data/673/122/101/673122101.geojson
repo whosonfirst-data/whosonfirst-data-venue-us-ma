@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.9095,42.227299,-71.9095,42.227299",
     "geom:latitude":42.227299,
     "geom:longitude":-71.9095,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ld72MFtRlH6cNEPyvlAPe_42.227299_-71.909500@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734238,
-    "wof:geomhash":"9201b3d638da997e693ec12f9f8b2134",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4214472fdc6f0b969e92ee18610db78a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":673122101
+        }
+    ],
     "wof:id":673122101,
-    "wof:lastmodified":1472625330,
+    "wof:lastmodified":1492104005,
     "wof:name":"Pete's Electrical Service",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

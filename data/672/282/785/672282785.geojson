@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.986439,42.699021,-70.986439,42.699021",
     "geom:latitude":42.699021,
     "geom:longitude":-70.986439,
@@ -32,17 +33,26 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BG6msFYgnVjQg5kciwYQ0_42.699021_-70.986439@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715254,
-    "wof:geomhash":"a3cec395293245855ef8e596d7ad35c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9840d256e73d47335c7040c1f939ae3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672282785
+        }
+    ],
     "wof:id":672282785,
-    "wof:lastmodified":1472625475,
+    "wof:lastmodified":1492108433,
     "wof:name":"Backup Computer Svc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

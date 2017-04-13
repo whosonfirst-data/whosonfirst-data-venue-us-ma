@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.715119,42.224413,-71.715119,42.224413",
     "geom:latitude":42.224413,
     "geom:longitude":-71.715119,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lRF9jJCa5RSy7fhMJEMjG_42.224413_-71.715119@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718823,
-    "wof:geomhash":"50724cc0bbd0f70a588e227db358de85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80898e2d01481b501ae67917f8eb89d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524183,
+            "venue_id":672436493
+        }
+    ],
     "wof:id":672436493,
-    "wof:lastmodified":1472625700,
+    "wof:lastmodified":1492118012,
     "wof:name":"Grafton Webs",
     "wof:parent_id":420524183,
     "wof:placetype":"venue",

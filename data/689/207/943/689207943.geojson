@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.476225,41.653637,-70.476225,41.653637",
     "geom:latitude":41.653637,
     "geom:longitude":-70.476225,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6c24zPJOLxxytj1qrNatCQ_41.653637_-70.476225@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742217,
-    "wof:geomhash":"d914a5e7a56c53e4ea61615d9357392d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4880fed3addc32f9872b237a407620d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":689207943
+        }
+    ],
     "wof:id":689207943,
-    "wof:lastmodified":1472625619,
+    "wof:lastmodified":1492099836,
     "wof:name":"The Turf Company Of Cape Cod Inc",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

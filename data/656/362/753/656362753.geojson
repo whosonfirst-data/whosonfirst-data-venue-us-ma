@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.774963,42.066142,-70.774963,42.066142",
     "geom:latitude":42.066142,
     "geom:longitude":-70.774963,
@@ -32,17 +33,26 @@
         "dancing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TF99P4KQmu2Z27STlgocn_42.066142_-70.774963@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711220,
-    "wof:geomhash":"c31396a1a392a9b23aaf6caa8de7d0ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff2358fa410208990ce3223e8b27de03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523963,
+            "venue_id":656362753
+        }
+    ],
     "wof:id":656362753,
-    "wof:lastmodified":1472624972,
+    "wof:lastmodified":1492102341,
     "wof:name":"Pembroke School Of Performing",
     "wof:parent_id":420523963,
     "wof:placetype":"venue",

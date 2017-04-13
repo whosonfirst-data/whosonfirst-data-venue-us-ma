@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.974121,41.583303,-70.974121,41.583303",
     "geom:latitude":41.583303,
     "geom:longitude":-70.974121,
@@ -32,7 +33,8 @@
         85688645,
         85633793,
         85844119,
-        102084407
+        102084407,
+        420523319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461719530,
-    "wof:geomhash":"fe13a75b22f82575b273ed7221f88a34",
+    "wof:geomhash":"9ae72f0765797e8c881e43f253638356",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +50,17 @@
             "neighbourhood_id":85844119,
             "region_id":85688645,
             "venue_id":672463655
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523319,
+            "venue_id":672463655
         }
     ],
     "wof:id":672463655,
-    "wof:lastmodified":1472625730,
+    "wof:lastmodified":1492114167,
     "wof:name":"Brook Running Vineyard",
-    "wof:parent_id":85844119,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

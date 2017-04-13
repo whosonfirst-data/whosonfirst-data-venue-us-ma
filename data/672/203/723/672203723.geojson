@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.82169,42.209122,-71.82169,42.209122",
     "geom:latitude":42.209122,
     "geom:longitude":-71.82169,
@@ -31,19 +32,38 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071,
+        85688645,
+        85815289,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FOIqHdDYVvIQDJ5hOzAEJ_42.209122_-71.821690@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713652,
-    "wof:geomhash":"412261b187a22d0a3c3d8b17f2c5b590",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8fe815453f7af8ce09cacd584c02fcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672203723
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85815289,
+            "region_id":85688645,
+            "venue_id":672203723
+        }
+    ],
     "wof:id":672203723,
-    "wof:lastmodified":1472625177,
+    "wof:lastmodified":1492108978,
     "wof:name":"Cap Machinery Corp",
-    "wof:parent_id":420524071,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

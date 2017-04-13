@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.222528,42.026501,-71.222528,42.026501",
     "geom:latitude":42.026501,
     "geom:longitude":-71.222528,
@@ -31,17 +32,34 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475931,
+        85633793,
+        85950671,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JH63gpctTmvdPl17JXpP5_42.026501_-71.222528@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722616,
-    "wof:geomhash":"4820200d47e517d570239193971febe4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b7d2da0f84c9c89943abedbc6ebb126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404475931,
+            "locality_id":85950671,
+            "region_id":85688645,
+            "venue_id":672600689
+        }
+    ],
     "wof:id":672600689,
-    "wof:lastmodified":1472625857,
+    "wof:lastmodified":1492112585,
     "wof:name":"ZOND Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

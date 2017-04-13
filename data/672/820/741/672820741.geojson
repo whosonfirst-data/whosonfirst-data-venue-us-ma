@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.112323,41.626353,-71.112323,41.626353",
     "geom:latitude":41.626353,
     "geom:longitude":-71.112323,
@@ -32,17 +33,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mysIdwOXy4AGI0H6ZgIO4_41.626353_-71.112323@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727407,
-    "wof:geomhash":"5dc7c115044a4400bb020684a543d90e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e31760d3f21c471efa07b12c2e5bb0d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672820741
+        }
+    ],
     "wof:id":672820741,
-    "wof:lastmodified":1472626056,
+    "wof:lastmodified":1492118147,
     "wof:name":"KAS Machine",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

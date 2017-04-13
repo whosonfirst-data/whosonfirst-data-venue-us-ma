@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.798223,42.427144,-71.798223,42.427144",
     "geom:latitude":42.427144,
     "geom:longitude":-71.798223,
@@ -31,19 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087,
+        420524137
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BGBLaoujIlMY5gny9dK6V_42.427144_-71.798223@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728966,
-    "wof:geomhash":"06d38cdd48f7a645e572940e4fe8f331",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e95cd7efb673eef3d2f138cb9f3a031f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":672897169
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524137,
+            "venue_id":672897169
+        }
+    ],
     "wof:id":672897169,
-    "wof:lastmodified":1472626112,
+    "wof:lastmodified":1492111237,
     "wof:name":"Paul Dematteo Builders",
-    "wof:parent_id":420524087,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

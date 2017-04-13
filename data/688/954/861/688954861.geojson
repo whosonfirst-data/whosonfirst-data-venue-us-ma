@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101097,42.1259,-71.101097,42.1259",
     "geom:latitude":42.1259,
     "geom:longitude":-71.101097,
@@ -31,17 +32,26 @@
         "nightlife"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JvZGoDsCzkoLakhyj6r9j_42.125900_-71.101097@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736341,
-    "wof:geomhash":"ae89acb7e3cb39a5fae55dba9cceb2df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fdc5558f148ecfe8e0e2f10593eaeea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688954861
+        }
+    ],
     "wof:id":688954861,
-    "wof:lastmodified":1472625173,
+    "wof:lastmodified":1492120875,
     "wof:name":"Club Luiz De Camoes",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

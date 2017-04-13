@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.177715,42.261903,-71.177715,42.261903",
     "geom:latitude":42.261903,
     "geom:longitude":-71.177715,
@@ -38,17 +39,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476435,
+        85633793,
+        85950821,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IkbmiE2lFU1wX70xn3l5y_42.261903_-71.177715@1303262197"
     },
     "wof:country":"US",
     "wof:created":1461736006,
-    "wof:geomhash":"47b40fdedc33ca44817a2fa1c66137a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6280ec312f6e20e09962dac2caa74779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476435,
+            "locality_id":85950821,
+            "region_id":85688645,
+            "venue_id":688937903
+        }
+    ],
     "wof:id":688937903,
-    "wof:lastmodified":1472625043,
+    "wof:lastmodified":1492120305,
     "wof:name":"Flexible Information Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

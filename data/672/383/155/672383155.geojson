@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.40104,42.59971,-72.40104,42.59971",
     "geom:latitude":42.59971,
     "geom:longitude":-72.40104,
@@ -28,17 +29,26 @@
     "sg:postcode":"01344",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ymMR5ZfE0p1uPPV4AreCF_42.599710_-72.401040@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717490,
-    "wof:geomhash":"a3dccb68b9630db337ee1f42b7c11272",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ac4068c6ca61977f7defc2ef8036fdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523501,
+            "venue_id":672383155
+        }
+    ],
     "wof:id":672383155,
-    "wof:lastmodified":1472625649,
+    "wof:lastmodified":1492112246,
     "wof:name":"Box Car Restaurant",
     "wof:parent_id":420523501,
     "wof:placetype":"venue",

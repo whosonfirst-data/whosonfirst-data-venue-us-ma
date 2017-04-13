@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.771308,41.931381,-70.771308,41.931381",
     "geom:latitude":41.931381,
     "geom:longitude":-70.771308,
@@ -34,17 +35,26 @@
         "grower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5H0afg0AhdHGNfSvkbkygW_41.931381_-70.771308@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741000,
-    "wof:geomhash":"b29f31d8b8b0e217bef325eea445a617",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe8ac8b5e301e1720f80eb487d4f3a9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152829
+        }
+    ],
     "wof:id":689152829,
-    "wof:lastmodified":1472625523,
+    "wof:lastmodified":1492101004,
     "wof:name":"Frederick Carlson",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

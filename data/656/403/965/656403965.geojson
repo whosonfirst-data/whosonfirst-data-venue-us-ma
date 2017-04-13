@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.334867,42.232851,-71.334867,42.232851",
     "geom:latitude":42.232851,
     "geom:longitude":-71.334867,
@@ -33,19 +34,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85835347,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WtTsCi8hPvYgdnH9KmRuT_42.232851_-71.334867@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712086,
-    "wof:geomhash":"0ad3a1db8d4baef8e7955bc5f5abd81b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcad4f90d0a177025a11bea68f5a7230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85835347,
+            "region_id":85688645,
+            "venue_id":656403965
+        }
+    ],
     "wof:id":656403965,
-    "wof:lastmodified":1472625103,
+    "wof:lastmodified":1492101671,
     "wof:name":"American Pride Amer Folk Art",
-    "wof:parent_id":-1,
+    "wof:parent_id":85835347,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

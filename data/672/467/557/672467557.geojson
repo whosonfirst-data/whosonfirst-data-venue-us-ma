@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.876871,42.245987,-71.876871,42.245987",
     "geom:latitude":42.245987,
     "geom:longitude":-71.876871,
@@ -36,7 +37,9 @@
         85688645,
         85633793,
         85881859,
-        102084655
+        102084655,
+        85950375,
+        85827341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461719623,
-    "wof:geomhash":"58e3e9a0317fa9a2d0b0b394781bdb64",
+    "wof:geomhash":"8ac0caa7c587ad1d7aac947e080c1474",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +55,20 @@
             "neighbourhood_id":85881859,
             "region_id":85688645,
             "venue_id":672467557
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "locality_id":85950375,
+            "neighbourhood_id":85827341,
+            "region_id":85688645,
+            "venue_id":672467557
         }
     ],
     "wof:id":672467557,
-    "wof:lastmodified":1472625731,
+    "wof:lastmodified":1492106780,
     "wof:name":"David Howard",
-    "wof:parent_id":85881859,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

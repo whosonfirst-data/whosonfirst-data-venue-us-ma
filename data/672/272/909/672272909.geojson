@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.622826,41.619383,-70.622826,41.619383",
     "geom:latitude":41.619383,
     "geom:longitude":-70.622826,
@@ -28,19 +29,44 @@
     "sg:postcode":"02556",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85839395,
+        102191575,
+        404476181,
+        85633793,
+        85950573,
+        102084379,
+        85688645,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3v2EmzSXAypLptGcMVnhyv_41.619383_-70.622826@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715054,
-    "wof:geomhash":"65413cc4ce3b288682af831bda02d4f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f605cf7d477bf60f547d1b9cb5b2e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404476181,
+            "locality_id":85950573,
+            "neighbourhood_id":85839395,
+            "region_id":85688645,
+            "venue_id":672272909
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672272909
+        }
+    ],
     "wof:id":672272909,
-    "wof:lastmodified":1472625433,
+    "wof:lastmodified":1492105550,
     "wof:name":"DTE Biomas Energy",
-    "wof:parent_id":420523223,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

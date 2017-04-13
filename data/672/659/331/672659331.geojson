@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.534564,42.658745,-72.534564,42.658745",
     "geom:latitude":42.658745,
     "geom:longitude":-72.534564,
@@ -31,17 +32,26 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PInBTzwbJEcs5rZsRLC52_42.658745_-72.534564@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723928,
-    "wof:geomhash":"491dd5c1eb5cc9daa51c3f453b542c2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b465b0c51a3227fd4863ad10dd6de84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672659331
+        }
+    ],
     "wof:id":672659331,
-    "wof:lastmodified":1472625907,
+    "wof:lastmodified":1492108268,
     "wof:name":"Steve's Welding Svc",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

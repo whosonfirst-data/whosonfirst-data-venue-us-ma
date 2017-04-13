@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.607675,41.660402,-70.607675,41.660402",
     "geom:latitude":41.660402,
     "geom:longitude":-70.607675,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eKGQsrXAv5t9qTbmAhXDZ_41.660402_-70.607675@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731844,
-    "wof:geomhash":"18b2a7c8a1c8a307264565ab7115fe5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d14aa9fc057091d961abaee92ecf442c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523215,
+            "venue_id":673011807
+        }
+    ],
     "wof:id":673011807,
-    "wof:lastmodified":1472624972,
+    "wof:lastmodified":1492103963,
     "wof:name":"Northeast Engineering Inc",
     "wof:parent_id":420523215,
     "wof:placetype":"venue",

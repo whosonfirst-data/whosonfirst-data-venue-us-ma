@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.076171,42.039835,-71.076171,42.039835",
     "geom:latitude":42.039835,
     "geom:longitude":-71.076171,
@@ -31,19 +32,28 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Qif8DRGyMpGuzlS4nEc2N_42.039835_-71.076171@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732014,
-    "wof:geomhash":"cc087b3614250be5ef7a5afbfd19a6ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b25a7b513326c07ece7ec027c5f4c035",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":673018375
+        }
+    ],
     "wof:id":673018375,
-    "wof:lastmodified":1472624993,
+    "wof:lastmodified":1492104022,
     "wof:name":"Housekeeping Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

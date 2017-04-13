@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101945,42.128965,-71.101945,42.128965",
     "geom:latitude":42.128965,
     "geom:longitude":-71.101945,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73ahFo2wgoZOmYUNc8P5sv_42.128965_-71.101945@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721298,
-    "wof:geomhash":"12c708e964401643f10f74135d9898fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bbd0857cc7fb71824483d140aa78e6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672541991
+        }
+    ],
     "wof:id":672541991,
-    "wof:lastmodified":1472625825,
+    "wof:lastmodified":1492118579,
     "wof:name":"Difabio Construction",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

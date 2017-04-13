@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.765751,42.224436,-71.765751,42.224436",
     "geom:latitude":42.224436,
     "geom:longitude":-71.765751,
@@ -39,7 +40,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        420524205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461715135,
-    "wof:geomhash":"3b96616013639029c50b85e5f2411536",
+    "wof:geomhash":"f370e985b29a1eff22f2a6508625d7eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,17 @@
             "neighbourhood_id":85881857,
             "region_id":85688645,
             "venue_id":672276783
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524205,
+            "venue_id":672276783
         }
     ],
     "wof:id":672276783,
-    "wof:lastmodified":1472625443,
+    "wof:lastmodified":1492112764,
     "wof:name":"Miller Fence Co",
-    "wof:parent_id":85881857,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.707736,42.091836,-70.707736,42.091836",
     "geom:latitude":42.091836,
     "geom:longitude":-70.707736,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85844319,
+        102191575,
+        404476045,
         85633793,
-        85837565,
-        102084367
+        85950479,
+        102084367,
+        85688645,
+        85837565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461718596,
-    "wof:geomhash":"9fa4edb9a5d86792ab848878d5262164",
+    "wof:geomhash":"fff026a4aead4be01d641bbced728da1",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476045,
+            "locality_id":85950479,
+            "neighbourhood_id":85844319,
+            "region_id":85688645,
+            "venue_id":672428037
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -55,9 +70,9 @@
         }
     ],
     "wof:id":672428037,
-    "wof:lastmodified":1472625690,
+    "wof:lastmodified":1492107318,
     "wof:name":"Cullen Electrical Contractors",
-    "wof:parent_id":85837565,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

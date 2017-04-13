@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.008826,42.723154,-71.008826,42.723154",
     "geom:latitude":42.723154,
     "geom:longitude":-71.008826,
@@ -33,17 +34,26 @@
         "conservation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6m95P8w1lqQUXY7nCLUUQY_42.723154_-71.008826@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727925,
-    "wof:geomhash":"f2ae1c36c4fbcb3fb4b24d0cda9369bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dff68c98fb458015521a6f2088a5fe63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672846517
+        }
+    ],
     "wof:id":672846517,
-    "wof:lastmodified":1472626072,
+    "wof:lastmodified":1492106045,
     "wof:name":"Bay State Consultants",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.863108,41.66278,-70.863108,41.66278",
     "geom:latitude":41.66278,
     "geom:longitude":-70.863108,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54k06C3gjy8SlLMMCxKgah_41.662780_-70.863108@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726607,
-    "wof:geomhash":"de43fe7873b5c01fecbf7ea714b55219",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d45ee35940cf7ed6b313d4d57daa5ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672781197
+        }
+    ],
     "wof:id":672781197,
-    "wof:lastmodified":1472626008,
+    "wof:lastmodified":1492107986,
     "wof:name":"Alan Ewing Engineering Inc",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

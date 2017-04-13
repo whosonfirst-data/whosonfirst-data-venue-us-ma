@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.402752,42.656728,-71.402752,42.656728",
     "geom:latitude":42.656728,
     "geom:longitude":-71.402752,
@@ -32,17 +33,26 @@
         "station"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CUJGl4xijAuPwYEu0tmh2_42.656728_-71.402752@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716244,
-    "wof:geomhash":"572e61d81ce652728c4db86da63bee02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3893081ee400e28db253c3675d8137cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672330461
+        }
+    ],
     "wof:id":672330461,
-    "wof:lastmodified":1472625561,
+    "wof:lastmodified":1492118131,
     "wof:name":"Sorco Corp",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.888178,42.074939,-70.888178,42.074939",
     "geom:latitude":42.074939,
     "geom:longitude":-70.888178,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qUDU9mkj630qgxaTwV91V_42.074939_-70.888178@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719430,
-    "wof:geomhash":"c16c800e345c5487da1bd3208d1e3dcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7591c80c674f1d852653ca5c956a13be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":672459679
+        }
+    ],
     "wof:id":672459679,
-    "wof:lastmodified":1472625721,
+    "wof:lastmodified":1492118832,
     "wof:name":"Eric T Dunne General Contr",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

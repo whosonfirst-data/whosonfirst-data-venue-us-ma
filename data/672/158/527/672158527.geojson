@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.504769,42.671356,-72.504769,42.671356",
     "geom:latitude":42.671356,
     "geom:longitude":-72.504769,
@@ -32,17 +33,26 @@
         "mower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523521
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cihyyBhgF86QalqIGgw5g_42.671356_-72.504769@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712625,
-    "wof:geomhash":"ffe96b0ef85f7e02d18d0f218d8d30e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15cde989bb6e9d2558082ff6ea55993b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523521,
+            "venue_id":672158527
+        }
+    ],
     "wof:id":672158527,
-    "wof:lastmodified":1472624983,
+    "wof:lastmodified":1492114512,
     "wof:name":"Charlie's Repair Shop",
     "wof:parent_id":420523521,
     "wof:placetype":"venue",

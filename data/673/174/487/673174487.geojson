@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.195504,42.738287,-71.195504,42.738287",
     "geom:latitude":42.738287,
     "geom:longitude":-71.195504,
@@ -44,17 +45,34 @@
         "private"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475949,
+        85633793,
+        85950411,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AFPR9t5UiwX6NzTqa7du2_42.738287_-71.195504@1303262193"
     },
     "wof:country":"US",
     "wof:created":1461735322,
-    "wof:geomhash":"3d0cfbda9eecb7753508f5e84b9719eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe8a7f6aa66dc99137b25644bc3a3479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404475949,
+            "locality_id":85950411,
+            "region_id":85688645,
+            "venue_id":673174487
+        }
+    ],
     "wof:id":673174487,
-    "wof:lastmodified":1472625502,
+    "wof:lastmodified":1492105447,
     "wof:name":"Greater Lawrence Educational Collaborative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

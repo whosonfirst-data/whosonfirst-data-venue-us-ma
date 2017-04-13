@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.875425,41.866755,-70.875425,41.866755",
     "geom:latitude":41.866755,
     "geom:longitude":-70.875425,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Kz902afc93tYB64H59ge2_41.866755_-70.875425@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727776,
-    "wof:geomhash":"977121f33028ab2c78b6ed984594df37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74f85730f4c94f6586f42951c942ae65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672839099
+        }
+    ],
     "wof:id":672839099,
-    "wof:lastmodified":1472626056,
+    "wof:lastmodified":1492108512,
     "wof:name":"F G Adams Co",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

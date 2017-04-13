@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.866118,41.856948,-70.866118,41.856948",
     "geom:latitude":41.856948,
     "geom:longitude":-70.866118,
@@ -31,17 +32,26 @@
         "compactors"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wZTujhYZ0wXdmBKWx7yGu_41.856948_-70.866118@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714057,
-    "wof:geomhash":"2647fb7f58095900bc2e4da2e859322b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d2f353b61db9dc22173d413ad05ad28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672224483
+        }
+    ],
     "wof:id":672224483,
-    "wof:lastmodified":1472625232,
+    "wof:lastmodified":1492107857,
     "wof:name":"North American Systems Inc",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

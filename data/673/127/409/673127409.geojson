@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.818802,42.415081,-71.818802,42.415081",
     "geom:latitude":42.415081,
     "geom:longitude":-71.818802,
@@ -39,17 +40,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524137
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0U2Udt9vcigGBzHSw2iYsU_42.415081_-71.818802@1303262187"
     },
     "wof:country":"US",
     "wof:created":1461734340,
-    "wof:geomhash":"c8e432d29b9697b0a8b218b2f22a6177",
-    "wof:hierarchy":[],
+    "wof:geomhash":"023e1f5f07a1ab338306dbda9f019966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524137,
+            "venue_id":673127409
+        }
+    ],
     "wof:id":673127409,
-    "wof:lastmodified":1472625349,
+    "wof:lastmodified":1492104751,
     "wof:name":"Gary Menin",
     "wof:parent_id":420524137,
     "wof:placetype":"venue",

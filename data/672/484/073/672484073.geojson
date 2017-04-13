@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.942945,42.468115,-70.942945,42.468115",
     "geom:latitude":42.468115,
     "geom:longitude":-70.942945,
@@ -38,7 +39,9 @@
         85633793,
         85950413,
         102084463,
-        85688645
+        85688645,
+        420523439,
+        85816553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461720056,
-    "wof:geomhash":"aeb066264bcf755ccc336bc7288a20b9",
+    "wof:geomhash":"dfa88111529c6ca87a9f4e1a8aab6443",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,32 @@
             "neighbourhood_id":420523437,
             "region_id":85688645,
             "venue_id":672484073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476207,
+            "locality_id":85950413,
+            "neighbourhood_id":420523439,
+            "region_id":85688645,
+            "venue_id":672484073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476207,
+            "locality_id":85950413,
+            "neighbourhood_id":85816553,
+            "region_id":85688645,
+            "venue_id":672484073
         }
     ],
     "wof:id":672484073,
-    "wof:lastmodified":1472625741,
+    "wof:lastmodified":1492110387,
     "wof:name":"Mi Provincia Market",
-    "wof:parent_id":420523437,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

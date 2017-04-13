@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.816032,42.179959,-71.816032,42.179959",
     "geom:latitude":42.179959,
     "geom:longitude":-71.816032,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2f1YSsgvcwE6Mi5TsswmaU_42.179959_-71.816032@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720821,
-    "wof:geomhash":"01ec76724f17301f6e23e5fa16782ed5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2117dbcfd82c0c095f5a3f21e572083d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672519377
+        }
+    ],
     "wof:id":672519377,
-    "wof:lastmodified":1472625780,
+    "wof:lastmodified":1492116592,
     "wof:name":"Spring Trucking",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.896989,42.116314,-71.896989,42.116314",
     "geom:latitude":42.116314,
     "geom:longitude":-71.896989,
@@ -31,17 +32,26 @@
         "classic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H1QHE5rPbhEDnycrbw7w3_42.116314_-71.896989@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718781,
-    "wof:geomhash":"c29ae7ee033b8c978fcdaf7b244d3bca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d24bff277b41873ed1dcc140d3c57aee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":672434875
+        }
+    ],
     "wof:id":672434875,
-    "wof:lastmodified":1472625705,
+    "wof:lastmodified":1492115370,
     "wof:name":"Oxford Classic Car",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

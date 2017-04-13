@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.774479,41.892205,-70.774479,41.892205",
     "geom:latitude":41.892205,
     "geom:longitude":-70.774479,
@@ -31,17 +32,26 @@
         "hospital"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fjz0LTUiOwm5BbGqqqWSw_41.892205_-70.774479@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726077,
-    "wof:geomhash":"86a9e90cfd99a0420deec590c995f1ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dfdc0e43719dfda5667931ddb3212bce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":672756727
+        }
+    ],
     "wof:id":672756727,
-    "wof:lastmodified":1472626001,
+    "wof:lastmodified":1492115819,
     "wof:name":"Mayflower Equipment Co Inc",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

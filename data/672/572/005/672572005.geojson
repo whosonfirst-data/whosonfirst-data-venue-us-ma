@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.715809,42.249521,-71.715809,42.249521",
     "geom:latitude":42.249521,
     "geom:longitude":-71.715809,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AdIvjXkUwWOXBJ4vQcpNx_42.249521_-71.715809@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721952,
-    "wof:geomhash":"a59170fe3f02c30199288d8337e60992",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bab063d79b07377a995c93d92509e5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":672572005
+        }
+    ],
     "wof:id":672572005,
-    "wof:lastmodified":1472625801,
+    "wof:lastmodified":1492113034,
     "wof:name":"Cahill Foundations",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

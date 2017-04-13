@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.88728,41.643991,-70.88728,41.643991",
     "geom:latitude":41.643991,
     "geom:longitude":-70.88728,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PCwGTbqzVXoshPVMn3mNH_41.643991_-70.887280@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730709,
-    "wof:geomhash":"68cc5e4366f615ec34cece3c80df00b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d785dd6c47c9b7159dfbcdb64b20b03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672968247
+        }
+    ],
     "wof:id":672968247,
-    "wof:lastmodified":1472626178,
+    "wof:lastmodified":1492119694,
     "wof:name":"Great Wall Chinese Restaurant",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

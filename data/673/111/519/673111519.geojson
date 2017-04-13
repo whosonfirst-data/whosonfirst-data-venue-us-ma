@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.232626,42.100961,-73.232626,42.100961",
     "geom:latitude":42.100961,
     "geom:longitude":-73.232626,
@@ -32,17 +33,26 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ipjweB5HiudfgT2T6kLz5_42.100961_-73.232626@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734011,
-    "wof:geomhash":"bad8d28ff27a89f961cdff1afd2bad03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0749ff86e5d1bbe4db30fb6635b03b50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":673111519
+        }
+    ],
     "wof:id":673111519,
-    "wof:lastmodified":1472625309,
+    "wof:lastmodified":1492105208,
     "wof:name":"Walton Ford Railroad Avenue",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

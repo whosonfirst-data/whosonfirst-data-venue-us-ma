@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.725393,42.247903,-71.725393,42.247903",
     "geom:latitude":42.247903,
     "geom:longitude":-71.725393,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71ABG1fVjHWYgP7qPpS4Zo_42.247903_-71.725393@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721577,
-    "wof:geomhash":"054dcec7a49bb0ad320639375c1c66ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d14f9f8599890956586a6e546f3e13bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":672554917
+        }
+    ],
     "wof:id":672554917,
-    "wof:lastmodified":1472625844,
+    "wof:lastmodified":1492117156,
     "wof:name":"Bobcat Of Worcester",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

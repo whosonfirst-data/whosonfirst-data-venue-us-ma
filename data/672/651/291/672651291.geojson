@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.813511,42.204319,-71.813511,42.204319",
     "geom:latitude":42.204319,
     "geom:longitude":-71.813511,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WujvpArkoEWgBqdbbgzzR_42.204319_-71.813511@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723740,
-    "wof:geomhash":"e15e57dba42945dfd9a4f6b34118ad08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2e3895e60f522da4dc792e8de21368b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672651291
+        }
+    ],
     "wof:id":672651291,
-    "wof:lastmodified":1472625901,
+    "wof:lastmodified":1492108214,
     "wof:name":"Hertz Local Edition",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

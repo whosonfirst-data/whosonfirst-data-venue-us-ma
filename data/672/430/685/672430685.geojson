@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.161333,42.515627,-71.161333,42.515627",
     "geom:latitude":42.515627,
     "geom:longitude":-71.161333,
@@ -29,16 +30,16 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850215,
+        85838185,
         102191575,
-        404476021,
+        404476469,
         85633793,
-        85950663,
+        85950353,
         102084643,
         85688645,
-        85838185,
-        404476469,
-        85950353
+        85850215,
+        404476021,
+        85950663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461718661,
-    "wof:geomhash":"3847a4aeaffcaf06ca980b6e4db77b8d",
+    "wof:geomhash":"09acbd4f55dcba2313a00979497e903b",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476021,
-            "locality_id":85950663,
-            "neighbourhood_id":85850215,
-            "region_id":85688645,
-            "venue_id":672430685
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +58,22 @@
             "neighbourhood_id":85838185,
             "region_id":85688645,
             "venue_id":672430685
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476021,
+            "locality_id":85950663,
+            "neighbourhood_id":85850215,
+            "region_id":85688645,
+            "venue_id":672430685
         }
     ],
     "wof:id":672430685,
-    "wof:lastmodified":1472625703,
+    "wof:lastmodified":1492114697,
     "wof:name":"Family Hair Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

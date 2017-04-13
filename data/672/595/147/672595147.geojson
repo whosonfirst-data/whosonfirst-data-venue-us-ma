@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.228238,41.668515,-70.228238,41.668515",
     "geom:latitude":41.668515,
     "geom:longitude":-70.228238,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59kNQdvNS2GGoDjSF9WtIP_41.668515_-70.228238@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722474,
-    "wof:geomhash":"428f09819d8b78963e13ce38194454e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3f0a6f40c61adaa27b58354e4ad77b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672595147
+        }
+    ],
     "wof:id":672595147,
-    "wof:lastmodified":1472625846,
+    "wof:lastmodified":1492115326,
     "wof:name":"Yarmouth Police Dept",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.375434,42.632413,-71.375434,42.632413",
     "geom:latitude":42.632413,
     "geom:longitude":-71.375434,
@@ -31,17 +32,26 @@
         "transmission"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6miglXHHlAa8uhxiiPTY13_42.632413_-71.375434@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713707,
-    "wof:geomhash":"0adbc78f763be5dde2a216d8bb0a1536",
-    "wof:hierarchy":[],
+    "wof:geomhash":"806f4f8977c11ef7d2fe68ec5e75ab76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672206667
+        }
+    ],
     "wof:id":672206667,
-    "wof:lastmodified":1472625214,
+    "wof:lastmodified":1492109203,
     "wof:name":"Chelmsford Automatic Trans",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

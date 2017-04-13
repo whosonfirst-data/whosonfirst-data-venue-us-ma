@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.870706,42.044584,-70.870706,42.044584",
     "geom:latitude":42.044584,
     "geom:longitude":-70.870706,
@@ -31,17 +32,26 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MamRFn7eWX8xQhU1sbdFv_42.044584_-70.870706@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730091,
-    "wof:geomhash":"401236a4b60a45db918e3d7f58c14e53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0fe423eb25e3530a33aa6a8673a8eade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523995,
+            "venue_id":672949219
+        }
+    ],
     "wof:id":672949219,
-    "wof:lastmodified":1472626155,
+    "wof:lastmodified":1492110211,
     "wof:name":"Weldon Hill",
     "wof:parent_id":420523995,
     "wof:placetype":"venue",

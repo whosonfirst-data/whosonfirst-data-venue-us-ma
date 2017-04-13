@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.281708,42.379705,-71.281708,42.379705",
     "geom:latitude":42.379705,
     "geom:longitude":-71.281708,
@@ -39,7 +40,8 @@
         85633793,
         85950337,
         102084643,
-        85688645
+        85688645,
+        85857063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461724967,
-    "wof:geomhash":"ff54ae323bd03bf3d8b6c5a2f3f17b35",
+    "wof:geomhash":"e3d6f4157e72ecf857cce1423ee12e2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,19 @@
             "neighbourhood_id":85810103,
             "region_id":85688645,
             "venue_id":672704585
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85857063,
+            "region_id":85688645,
+            "venue_id":672704585
         }
     ],
     "wof:id":672704585,
-    "wof:lastmodified":1472625949,
+    "wof:lastmodified":1492115634,
     "wof:name":"Weston Sanitary Land Fill Ofc",
-    "wof:parent_id":85810103,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

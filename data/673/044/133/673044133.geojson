@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.76458,42.23864,-70.76458,42.23864",
     "geom:latitude":42.23864,
     "geom:longitude":-70.76458,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XaHWDyWB9m0Nn30iowTop_42.238611_-70.764617@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732630,
-    "wof:geomhash":"05e8205a4eae28ddb279f7118cc5b6bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d023aef0d0a2b5435af27af71143cb25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523833,
+            "venue_id":673044133
+        }
+    ],
     "wof:id":673044133,
-    "wof:lastmodified":1472625060,
+    "wof:lastmodified":1492104264,
     "wof:name":"A P Cassidy Co Inc",
     "wof:parent_id":420523833,
     "wof:placetype":"venue",

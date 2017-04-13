@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.190389,42.344082,-71.190389,42.344082",
     "geom:latitude":42.344082,
     "geom:longitude":-71.190389,
@@ -28,19 +29,38 @@
     "sg:postcode":"02459",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85891465,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eU2lt2xb0y6FasC66B8Lc_42.344082_-71.190389@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721744,
-    "wof:geomhash":"c0b0f22dab97ea131c53b09ffaffef47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d900d474277de03d001eadbe811d29d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "neighbourhood_id":85891465,
+            "region_id":85688645,
+            "venue_id":672561849
+        }
+    ],
     "wof:id":672561849,
-    "wof:lastmodified":1472625841,
+    "wof:lastmodified":1492117914,
     "wof:name":"Shelter Legal Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85891465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.844997,41.760273,-70.844997,41.760273",
     "geom:latitude":41.760273,
     "geom:longitude":-70.844997,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476563,
+        85633793,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_533qEDwscSA0OhIjzhzer9_41.760273_-70.844997@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722700,
-    "wof:geomhash":"5fdac2814a7200911004219d9c750cfd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7211ca1d21066763c718fd393fc87970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476563,
+            "region_id":85688645,
+            "venue_id":672604489
+        }
+    ],
     "wof:id":672604489,
-    "wof:lastmodified":1472625856,
+    "wof:lastmodified":1492109038,
     "wof:name":"Cranberry Bog",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

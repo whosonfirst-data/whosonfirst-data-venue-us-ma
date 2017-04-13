@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.613466,42.391085,-71.613466,42.391085",
     "geom:latitude":42.391085,
     "geom:longitude":-71.613466,
@@ -32,19 +33,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85849475,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zawBhfoHgLNd92wy1WxJu_42.391085_-71.613466@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727151,
-    "wof:geomhash":"76b175804f948386d312556f30f027d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"300dd39d3d4f22617d2a8b8ad8609d8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85849475,
+            "region_id":85688645,
+            "venue_id":672808467
+        }
+    ],
     "wof:id":672808467,
-    "wof:lastmodified":1472626042,
+    "wof:lastmodified":1492106564,
     "wof:name":"Berlin Orchards Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85849475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

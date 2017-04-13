@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.728344,42.034882,-70.728344,42.034882",
     "geom:latitude":42.034882,
     "geom:longitude":-70.728344,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YMViCZsnrzlqZciKb6M8x_42.034882_-70.728344@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719478,
-    "wof:geomhash":"c29c7bc62438cc02ae3ffdf557c3120f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7dc503f9fc85b6539de9d9e6fc36671f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523989,
+            "venue_id":672461617
+        }
+    ],
     "wof:id":672461617,
-    "wof:lastmodified":1472625729,
+    "wof:lastmodified":1492115505,
     "wof:name":"Celtic Landscaping",
     "wof:parent_id":420523989,
     "wof:placetype":"venue",

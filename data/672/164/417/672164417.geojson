@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.549924,41.820277,-70.549924,41.820277",
     "geom:latitude":41.820277,
     "geom:longitude":-70.549924,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JcGsAv64tMD8wAcUupb6F_41.820277_-70.549924@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712777,
-    "wof:geomhash":"fdda612d346ca805e1dcaec5dfb68b44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"449dcc6734841e207d9e24303283c99d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":672164417
+        }
+    ],
     "wof:id":672164417,
-    "wof:lastmodified":1472625020,
+    "wof:lastmodified":1492109415,
     "wof:name":"Grillo Painting Service",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

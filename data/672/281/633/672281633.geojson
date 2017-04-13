@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.110318,42.631948,-73.110318,42.631948",
     "geom:latitude":42.631948,
     "geom:longitude":-73.110318,
@@ -33,17 +34,26 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RL5jhofzidNCHuzKVnMxA_42.631948_-73.110318@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715230,
-    "wof:geomhash":"9c10a88785b0ed234134702669c2b009",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8b4755659148f51e136275f1d39409e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672281633
+        }
+    ],
     "wof:id":672281633,
-    "wof:lastmodified":1472625470,
+    "wof:lastmodified":1492114222,
     "wof:name":"Adams Highway Dept",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

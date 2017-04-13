@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.253699,41.689988,-70.253699,41.689988",
     "geom:latitude":41.689988,
     "geom:longitude":-70.253699,
@@ -33,17 +34,26 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fukxfFKrUocsUyc2j3ZZA_41.689988_-70.253699@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725892,
-    "wof:geomhash":"13c77b7ae690f3cd11bb64fd32ef905e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36f84a53bd27aeb0426cefcf4ad65cab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672747535
+        }
+    ],
     "wof:id":672747535,
-    "wof:lastmodified":1472625982,
+    "wof:lastmodified":1492107923,
     "wof:name":"Airducts Inc",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

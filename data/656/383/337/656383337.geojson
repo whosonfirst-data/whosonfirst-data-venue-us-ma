@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.72937,42.391826,-72.72937,42.391826",
     "geom:latitude":42.391826,
     "geom:longitude":-72.72937,
@@ -31,17 +32,26 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EOufgPiTZNikEHIhXD4R5_42.391826_-72.729370@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711649,
-    "wof:geomhash":"0620cf6114322ec3efdb5084136540e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"179198c380ce45fa6c54a2561680526c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523635,
+            "venue_id":656383337
+        }
+    ],
     "wof:id":656383337,
-    "wof:lastmodified":1472625007,
+    "wof:lastmodified":1492101702,
     "wof:name":"Williamsburg Market",
     "wof:parent_id":420523635,
     "wof:placetype":"venue",

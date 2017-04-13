@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.828816,42.332682,-71.828816,42.332682",
     "geom:latitude":42.332682,
     "geom:longitude":-71.828816,
@@ -31,17 +32,26 @@
         "government"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y6lp4xua2LDXkL62JvQst_42.332682_-71.828816@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722878,
-    "wof:geomhash":"ea71dbe1120d3ff231ee834c09e9e58c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4a666f181bf50c563f5f2b18ee954c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":672612119
+        }
+    ],
     "wof:id":672612119,
-    "wof:lastmodified":1472625861,
+    "wof:lastmodified":1492106453,
     "wof:name":"Holden Forestry Dept",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

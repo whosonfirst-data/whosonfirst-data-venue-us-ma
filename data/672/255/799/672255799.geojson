@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.970531,41.780369,-70.970531,41.780369",
     "geom:latitude":41.780369,
     "geom:longitude":-70.970531,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ES9CkXMUesHdvDBBuynr4_41.780369_-70.970531@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714721,
-    "wof:geomhash":"5e0245eea25b2c7ae637a120f6c1354c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e739fa387caf045eb161eb084b4e51c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":672255799
+        }
+    ],
     "wof:id":672255799,
-    "wof:lastmodified":1472625381,
+    "wof:lastmodified":1492119829,
     "wof:name":"Cabral Contracting",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

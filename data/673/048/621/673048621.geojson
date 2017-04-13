@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.174606,41.28368,-70.174606,41.28368",
     "geom:latitude":41.28368,
     "geom:longitude":-70.174606,
@@ -37,14 +38,14 @@
     "sg:website":"http://www.nantucket.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831881,
+        85854545,
         102191575,
         404476421,
         85633793,
         85950505,
         102084641,
         85688645,
-        85854545
+        85831881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,18 +53,8 @@
     },
     "wof:country":"US",
     "wof:created":1461732731,
-    "wof:geomhash":"8f694e73dc09eb34260ab6b48694ba8c",
+    "wof:geomhash":"e549e164463005ae97dded4b0c7c9205",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084641,
-            "localadmin_id":404476421,
-            "locality_id":85950505,
-            "neighbourhood_id":85831881,
-            "region_id":85688645,
-            "venue_id":673048621
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -73,12 +64,22 @@
             "neighbourhood_id":85854545,
             "region_id":85688645,
             "venue_id":673048621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084641,
+            "localadmin_id":404476421,
+            "locality_id":85950505,
+            "neighbourhood_id":85831881,
+            "region_id":85688645,
+            "venue_id":673048621
         }
     ],
     "wof:id":673048621,
-    "wof:lastmodified":1472625107,
+    "wof:lastmodified":1492104863,
     "wof:name":"Town Nantucket Public Works",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

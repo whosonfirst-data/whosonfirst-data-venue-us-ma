@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.880938,41.64094,-70.880938,41.64094",
     "geom:latitude":41.64094,
     "geom:longitude":-70.880938,
@@ -31,17 +32,26 @@
         "juice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75Ju5yGdZWr1JB19CTgj9H_41.640940_-70.880938@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718554,
-    "wof:geomhash":"2b7d78f5a973b2a322ed3609757682f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c2ac2fce24065a351087c238d068920",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672426097
+        }
+    ],
     "wof:id":672426097,
-    "wof:lastmodified":1472625689,
+    "wof:lastmodified":1492119369,
     "wof:name":"Del's Lemonaide",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

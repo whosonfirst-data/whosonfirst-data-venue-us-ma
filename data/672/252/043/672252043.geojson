@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.124697,41.546264,-71.124697,41.546264",
     "geom:latitude":41.546264,
     "geom:longitude":-71.124697,
@@ -32,19 +33,28 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540493
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KUxC0lyIo5CMeV6VZ9wyZ_41.546264_-71.124697@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714655,
-    "wof:geomhash":"8b37dcfa34fe3fcb4d1a628f63059a78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03e8e2008b9f861d91c4b4b36cdaba58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540493,
+            "venue_id":672252043
+        }
+    ],
     "wof:id":672252043,
-    "wof:lastmodified":1472625327,
+    "wof:lastmodified":1492115348,
     "wof:name":"Ridge Presentations Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

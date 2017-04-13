@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.526856,42.697798,-72.526856,42.697798",
     "geom:latitude":42.697798,
     "geom:longitude":-72.526856,
@@ -33,17 +34,26 @@
     ],
     "sg:website":"www.sccelectric.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523521
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2quOcfEr9bx4AIFPeMz49v_42.697798_-72.526856@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729211,
-    "wof:geomhash":"b8662bed536417d5ca5e68cc3fe4937e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3edefa9ab3d889acf70048ac9bccff6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523521,
+            "venue_id":672908793
+        }
+    ],
     "wof:id":672908793,
-    "wof:lastmodified":1472626133,
+    "wof:lastmodified":1492107029,
     "wof:name":"Station Class Constructors",
     "wof:parent_id":420523521,
     "wof:placetype":"venue",

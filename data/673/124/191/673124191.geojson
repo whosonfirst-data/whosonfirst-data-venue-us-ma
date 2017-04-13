@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.937871,42.348811,-71.937871,42.348811",
     "geom:latitude":42.348811,
     "geom:longitude":-71.937871,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47xOxAv0QiHLmSiV8InTou_42.348811_-71.937871@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734273,
-    "wof:geomhash":"a90f8521a5f400f09b1671cb690a7e62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"109e152266e238f8de90666843b0892c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":673124191
+        }
+    ],
     "wof:id":673124191,
-    "wof:lastmodified":1472625338,
+    "wof:lastmodified":1492103999,
     "wof:name":"J Mullen Painting Co",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

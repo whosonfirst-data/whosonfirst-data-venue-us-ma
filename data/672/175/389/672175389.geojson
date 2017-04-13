@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.999419,42.124618,-71.999419,42.124618",
     "geom:latitude":42.124618,
     "geom:longitude":-71.999419,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lMJJz3Mvf8bDNvqlfhenR_42.124618_-71.999419@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713016,
-    "wof:geomhash":"226ec31b895cbe955cb0d7cb84aeec51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f4ad941b8ba87e7ed28085464b7f5af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":672175389
+        }
+    ],
     "wof:id":672175389,
-    "wof:lastmodified":1472625069,
+    "wof:lastmodified":1492113126,
     "wof:name":"Storz Karl Endovision Inc",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

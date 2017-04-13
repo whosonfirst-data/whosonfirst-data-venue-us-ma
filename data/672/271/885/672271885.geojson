@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.516384,42.376157,-71.516384,42.376157",
     "geom:latitude":42.376157,
     "geom:longitude":-71.516384,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40tBeQeGgxLwYaYjhbmsyV_42.376157_-71.516384@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715035,
-    "wof:geomhash":"29ef9901b9045fec5386e98765f561d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"667a073f0b0d9c564313b1433512f247",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672271885
+        }
+    ],
     "wof:id":672271885,
-    "wof:lastmodified":1472625432,
+    "wof:lastmodified":1492112039,
     "wof:name":"Just In Time Logistics",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.991231,42.722839,-70.991231,42.722839",
     "geom:latitude":42.722839,
     "geom:longitude":-70.991231,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WXFm6tAB2WBrzNCyxVmoo_42.722839_-70.991231@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721177,
-    "wof:geomhash":"81bbdc37007327ced85101e1badab46a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63fb5dc511bff5794d38c89bb65c4d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672535649
+        }
+    ],
     "wof:id":672535649,
-    "wof:lastmodified":1472625791,
+    "wof:lastmodified":1492119613,
     "wof:name":"J&L Painting Inc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

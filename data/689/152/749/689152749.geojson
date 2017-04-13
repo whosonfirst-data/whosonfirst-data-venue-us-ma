@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.802399,41.915401,-70.802399,41.915401",
     "geom:latitude":41.915401,
     "geom:longitude":-70.802399,
@@ -31,17 +32,26 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NLrkNhmNu5d57EqnjtSvP_41.915401_-70.802399@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740998,
-    "wof:geomhash":"3712bfee1bf159a54163678aeb1bfd91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c53875f45638a25480be8e1fd202dfa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152749
+        }
+    ],
     "wof:id":689152749,
-    "wof:lastmodified":1472625515,
+    "wof:lastmodified":1492100999,
     "wof:name":"Cutter Carpets Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

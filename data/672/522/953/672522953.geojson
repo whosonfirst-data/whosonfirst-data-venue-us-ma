@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.253968,42.493316,-71.253968,42.493316",
     "geom:latitude":42.493316,
     "geom:longitude":-71.253968,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891393,
+        85837771,
         102191575,
         404476393,
         85633793,
         85950637,
         102084643,
-        85688645
+        85688645,
+        85891393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461720896,
-    "wof:geomhash":"6f598104651f9f5b75c864829ec0e92e",
+    "wof:geomhash":"749946c6285cecfb7684a999179d1b82",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476393,
+            "locality_id":85950637,
+            "neighbourhood_id":85837771,
+            "region_id":85688645,
+            "venue_id":672522953
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":672522953,
-    "wof:lastmodified":1472625786,
+    "wof:lastmodified":1492113766,
     "wof:name":"Prime Electrical Corp",
-    "wof:parent_id":85891393,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

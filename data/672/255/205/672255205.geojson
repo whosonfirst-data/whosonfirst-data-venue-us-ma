@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.584038,42.421692,-71.584038,42.421692",
     "geom:latitude":42.421692,
     "geom:longitude":-71.584038,
@@ -31,17 +32,26 @@
         "amusement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kESJc7PDRIvGF0QCNmKlI_42.421692_-71.584038@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714710,
-    "wof:geomhash":"067e64425a8ee7df7b45b9ddf350a12f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fdac5a20680c5d54be98ee001ecf63e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672255205
+        }
+    ],
     "wof:id":672255205,
-    "wof:lastmodified":1472625345,
+    "wof:lastmodified":1492119835,
     "wof:name":"Parks & Recreation Commission",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

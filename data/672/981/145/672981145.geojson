@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.337977,41.843852,-71.337977,41.843852",
     "geom:latitude":41.843852,
     "geom:longitude":-71.337977,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85816693,
-        102084407
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461731065,
-    "wof:geomhash":"9114b8bb125d737cde9a09f6a7016784",
+    "wof:geomhash":"9038eff83674f5e42d61a8c72021347a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084407,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
             "neighbourhood_id":85816693,
-            "region_id":85688645,
+            "region_id":85688509,
             "venue_id":672981145
         }
     ],
     "wof:id":672981145,
-    "wof:lastmodified":1472626186,
+    "wof:lastmodified":1492118319,
     "wof:name":"A J K Restaurants Inc",
     "wof:parent_id":85816693,
     "wof:placetype":"venue",

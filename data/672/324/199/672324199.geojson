@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.17166,42.020698,-71.17166,42.020698",
     "geom:latitude":42.020698,
     "geom:longitude":-71.17166,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ECfNyrFMH0K6YCoFsepuv_42.020698_-71.171660@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716112,
-    "wof:geomhash":"b1b70745c0cf3ee80bccf24a766e1dcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba10cf1ef10453c3fb121f3e718338a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523367,
+            "venue_id":672324199
+        }
+    ],
     "wof:id":672324199,
-    "wof:lastmodified":1472625543,
+    "wof:lastmodified":1492113906,
     "wof:name":"Post Alan R Company",
     "wof:parent_id":420523367,
     "wof:placetype":"venue",

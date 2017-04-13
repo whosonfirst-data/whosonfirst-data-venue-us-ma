@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.228358,41.682666,-70.228358,41.682666",
     "geom:latitude":41.682666,
     "geom:longitude":-70.228358,
@@ -31,17 +32,26 @@
         "aquarium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cmvlVOLFQXNX7QOjHq7tT_41.682666_-70.228358@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728059,
-    "wof:geomhash":"75d4e7a6863c4a9dd2715b44129df751",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b524ae3a54476f720350e93aaa8ea09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672853363
+        }
+    ],
     "wof:id":672853363,
-    "wof:lastmodified":1472626081,
+    "wof:lastmodified":1492114814,
     "wof:name":"Zooquarium",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.906559,42.232298,-70.906559,42.232298",
     "geom:latitude":42.232298,
     "geom:longitude":-70.906559,
@@ -37,7 +38,8 @@
         85633793,
         85950451,
         102084367,
-        85855681
+        85855681,
+        85830605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461727435,
-    "wof:geomhash":"e83bee4529f932eefb3fef59d87dc6ae",
+    "wof:geomhash":"7ebae68af41b4641b9a540283647b7ad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,19 @@
             "neighbourhood_id":85855681,
             "region_id":85688645,
             "venue_id":672821853
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85830605,
+            "region_id":85688645,
+            "venue_id":672821853
         }
     ],
     "wof:id":672821853,
-    "wof:lastmodified":1472626063,
+    "wof:lastmodified":1492116049,
     "wof:name":"Dann Painting Michael",
-    "wof:parent_id":85855681,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

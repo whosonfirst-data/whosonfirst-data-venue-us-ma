@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.260274,42.135467,-71.260274,42.135467",
     "geom:latitude":42.135467,
     "geom:longitude":-71.260274,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27m1wFxEtxpTQCztViIlTs_42.135467_-71.260274@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711543,
-    "wof:geomhash":"6e3d9e1b39a4dcd2a5106dc43fc513e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd22ebe43409958e8501bfa9b651dfbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":656377819
+        }
+    ],
     "wof:id":656377819,
-    "wof:lastmodified":1472625038,
+    "wof:lastmodified":1492101340,
     "wof:name":"Kevin P Mischley DDS",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.952136,42.502233,-70.952136,42.502233",
     "geom:latitude":42.502233,
     "geom:longitude":-70.952136,
@@ -35,13 +36,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849939,
+        85859245,
         102191575,
-        404476253,
+        404476207,
         85633793,
-        85950407,
+        85950413,
         102084463,
-        85688645
+        85688645,
+        85849939,
+        404476253,
+        85950407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +53,18 @@
     },
     "wof:country":"US",
     "wof:created":1461721637,
-    "wof:geomhash":"d2a655fd87de676c505bfb03d6a6c666",
+    "wof:geomhash":"858d65a25d3df26eac92669f953a9c7e",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476207,
+            "locality_id":85950413,
+            "neighbourhood_id":85859245,
+            "region_id":85688645,
+            "venue_id":672557609
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -63,9 +77,9 @@
         }
     ],
     "wof:id":672557609,
-    "wof:lastmodified":1472625829,
+    "wof:lastmodified":1492116377,
     "wof:name":"Joans Bed & Breakfast",
-    "wof:parent_id":85849939,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

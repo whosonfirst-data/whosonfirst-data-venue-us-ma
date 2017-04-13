@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.551757,41.820255,-70.551757,41.820255",
     "geom:latitude":41.820255,
     "geom:longitude":-70.551757,
@@ -33,17 +34,26 @@
         "studio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jp7q6SdrF4UWrkkbnRdvJ_41.820255_-70.551757@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741170,
-    "wof:geomhash":"a390fbde25831cdbcfd0a2c4d29f96d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87b87f20e39f5156f0ae4b70c47fa242",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":689160093
+        }
+    ],
     "wof:id":689160093,
-    "wof:lastmodified":1472625500,
+    "wof:lastmodified":1492101093,
     "wof:name":"Musicians Development Institute",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

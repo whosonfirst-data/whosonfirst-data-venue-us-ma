@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.578062,41.614258,-70.578062,41.614258",
     "geom:latitude":41.614258,
     "geom:longitude":-70.578062,
@@ -31,17 +32,26 @@
         "equine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sfR4uy4bFC9TN8DA7NCYv_41.614258_-70.578062@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727468,
-    "wof:geomhash":"ff19c90ee8b7339bf4a028493cdc7609",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a71f7ca00d2a82e1b0175b2f1beeab87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672823657
+        }
+    ],
     "wof:id":672823657,
-    "wof:lastmodified":1472626059,
+    "wof:lastmodified":1492113222,
     "wof:name":"Bill Ritchie Training Stables",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

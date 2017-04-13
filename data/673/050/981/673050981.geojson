@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.496068,42.434976,-71.496068,42.434976",
     "geom:latitude":42.434976,
     "geom:longitude":-71.496068,
@@ -37,17 +38,32 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476447,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30G1mktkJiPMgnUQZykkIn_42.434858_-71.495345@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732774,
-    "wof:geomhash":"4067f9706055ac240e1bdd5f5d4f6883",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a950f35eaeeee30dae580b5fdf1baa73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476447,
+            "region_id":85688645,
+            "venue_id":673050981
+        }
+    ],
     "wof:id":673050981,
-    "wof:lastmodified":1472625157,
+    "wof:lastmodified":1492105509,
     "wof:name":"Active Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

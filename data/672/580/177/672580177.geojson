@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.849426,41.775227,-70.849426,41.775227",
     "geom:latitude":41.775227,
     "geom:longitude":-70.849426,
@@ -32,17 +33,32 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476563,
+        85633793,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1thMOY9ycooRq7KUhFyJCO_41.775227_-70.849426@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722127,
-    "wof:geomhash":"df52d8dd027a4a69c7c43a1630cfb189",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52ab392a1c28411ddc9d2b783ddf7025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476563,
+            "region_id":85688645,
+            "venue_id":672580177
+        }
+    ],
     "wof:id":672580177,
-    "wof:lastmodified":1472625808,
+    "wof:lastmodified":1492107974,
     "wof:name":"Dog Whisperer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.87583,41.708357,-70.87583,41.708357",
     "geom:latitude":41.708357,
     "geom:longitude":-70.87583,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pJQSlRNgsNEs3nrKHEimD_41.708357_-70.875830@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742385,
-    "wof:geomhash":"b78e5ed4a7a127b046a473ee6a733608",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc8feff40c9176f834cfdcd3263e597b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":689216221
+        }
+    ],
     "wof:id":689216221,
-    "wof:lastmodified":1472625611,
+    "wof:lastmodified":1492097689,
     "wof:name":"Elias' Plastering",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

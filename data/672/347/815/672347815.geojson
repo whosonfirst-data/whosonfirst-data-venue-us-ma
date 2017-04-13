@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.085497,41.661421,-71.085497,41.661421",
     "geom:latitude":41.661421,
     "geom:longitude":-71.085497,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BKOJikkLOQkRNxPHjDb79_41.661421_-71.085497@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716683,
-    "wof:geomhash":"b1e004f491bd477bd85e1fc859ccf629",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9645a92342023c4cdde9b472f6125199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672347815
+        }
+    ],
     "wof:id":672347815,
-    "wof:lastmodified":1472625589,
+    "wof:lastmodified":1492116630,
     "wof:name":"3-D Auto Sales",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.019627,41.970756,-71.019627,41.970756",
     "geom:latitude":41.970756,
     "geom:longitude":-71.019627,
@@ -32,17 +33,26 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Djf5y9X8J9CmvapAmcqnN_41.970756_-71.019627@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712111,
-    "wof:geomhash":"7213b461d82b778262a7253bfb0fa206",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7619b79668673e1195ccbf7193c34f88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":656405299
+        }
+    ],
     "wof:id":656405299,
-    "wof:lastmodified":1472625083,
+    "wof:lastmodified":1492101365,
     "wof:name":"Mac Donald Industries Inc",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

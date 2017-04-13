@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.868789,42.040012,-70.868789,42.040012",
     "geom:latitude":42.040012,
     "geom:longitude":-70.868789,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b5ngVO9f2vBckyIYt23j1_42.040012_-70.868789@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741047,
-    "wof:geomhash":"12f10953d62ea7925cdee6a28dca3ab7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c0852c6bb593a056797746c7cc9dc42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523995,
+            "venue_id":689154647
+        }
+    ],
     "wof:id":689154647,
-    "wof:lastmodified":1472625511,
+    "wof:lastmodified":1492098560,
     "wof:name":"Burgo Painting Manny",
     "wof:parent_id":420523995,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.049056,42.689909,-72.049056,42.689909",
     "geom:latitude":42.689909,
     "geom:longitude":-72.049056,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VxxEThv03ZYYIOgjT95N7_42.689909_-72.049056@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721071,
-    "wof:geomhash":"365567051ec2a7a4ef238b1b29158bfe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cb1de2cc30b5684edf592d32e86a7ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":672530677
+        }
+    ],
     "wof:id":672530677,
-    "wof:lastmodified":1472625788,
+    "wof:lastmodified":1492117063,
     "wof:name":"Ashburnham Siding & Roofing",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.991066,42.724166,-70.991066,42.724166",
     "geom:latitude":42.724166,
     "geom:longitude":-70.991066,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l3o7AVK3q4ThhwxrOeFel_42.724166_-70.991066@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718926,
-    "wof:geomhash":"7751389f1825a7bd5f6ad4e24fc6e632",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cc15e15d5c82ae87adfe152e4963d18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672441027
+        }
+    ],
     "wof:id":672441027,
-    "wof:lastmodified":1472625699,
+    "wof:lastmodified":1492119858,
     "wof:name":"Tip To Toe",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

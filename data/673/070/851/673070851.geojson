@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.263055,42.131686,-71.263055,42.131686",
     "geom:latitude":42.131686,
     "geom:longitude":-71.263055,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ckCHe44tzAbH5mwz4IYBg_42.131674_-71.263169@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733158,
-    "wof:geomhash":"2048866c6a0632745d28e0c407e561d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a40728400c5ea918a989d67f8f8c51a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":673070851
+        }
+    ],
     "wof:id":673070851,
-    "wof:lastmodified":1472625189,
+    "wof:lastmodified":1492105049,
     "wof:name":"1 A Auto Clinic",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.796543,41.987445,-70.796543,41.987445",
     "geom:latitude":41.987445,
     "geom:longitude":-70.796543,
@@ -31,17 +32,26 @@
         "surveyor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FBS6EUtQ9jgQhjR8iWT4d_41.987445_-70.796543@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721376,
-    "wof:geomhash":"a748fdd8d4b783656460816fccf35d95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82d4b69153e05fad7cda633c16427126",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672545863
+        }
+    ],
     "wof:id":672545863,
-    "wof:lastmodified":1472625838,
+    "wof:lastmodified":1492114339,
     "wof:name":"Vautrinot Land Surveying Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

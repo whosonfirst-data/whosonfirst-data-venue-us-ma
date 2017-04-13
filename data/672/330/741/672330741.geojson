@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.6104,42.494364,-72.6104,42.494364",
     "geom:latitude":42.494364,
     "geom:longitude":-72.6104,
@@ -31,8 +32,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85816915,
-        102084457
+        85950767,
+        102084457,
+        85854455,
+        85816915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +43,16 @@
     },
     "wof:country":"US",
     "wof:created":1461716250,
-    "wof:geomhash":"4a77b823afc1f40efc5becf3daeb4ca5",
+    "wof:geomhash":"476ff8b1e3095abc33c588e093311bdf",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084457,
+            "locality_id":85950767,
+            "neighbourhood_id":85854455,
+            "region_id":85688645,
+            "venue_id":672330741
+        },
         {
             "country_id":85633793,
             "county_id":102084457,
@@ -51,9 +62,9 @@
         }
     ],
     "wof:id":672330741,
-    "wof:lastmodified":1472625569,
+    "wof:lastmodified":1492118133,
     "wof:name":"Harvest Farm Of Whately",
-    "wof:parent_id":85816915,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

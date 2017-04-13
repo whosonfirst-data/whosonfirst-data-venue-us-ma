@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.949565,42.755091,-70.949565,42.755091",
     "geom:latitude":42.755091,
     "geom:longitude":-70.949565,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60xAPXn2GYFhLlHpFMEf3h_42.755091_-70.949565@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714693,
-    "wof:geomhash":"378cfd26d2690e562eeaaf60ce645f6f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fbefe50f5b66149345e72be378ee862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672254301
+        }
+    ],
     "wof:id":672254301,
-    "wof:lastmodified":1472625356,
+    "wof:lastmodified":1492118429,
     "wof:name":"Broll Enterprises",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.908889,42.694431,-70.908889,42.694431",
     "geom:latitude":42.694431,
     "geom:longitude":-70.908889,
@@ -32,7 +33,8 @@
         85688645,
         85633793,
         85836261,
-        102084463
+        102084463,
+        85841923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461711188,
-    "wof:geomhash":"8a4d6fab4be5079dc56bca61e91656fe",
+    "wof:geomhash":"62e4a0807cc730cc35a78a894a04a008",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +50,19 @@
             "neighbourhood_id":85836261,
             "region_id":85688645,
             "venue_id":656361035
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85841923,
+            "region_id":85688645,
+            "venue_id":656361035
         }
     ],
     "wof:id":656361035,
-    "wof:lastmodified":1472624914,
+    "wof:lastmodified":1492101912,
     "wof:name":"Gavens Inc",
-    "wof:parent_id":85836261,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

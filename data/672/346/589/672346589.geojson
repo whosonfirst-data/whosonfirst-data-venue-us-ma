@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.74924,42.178172,-70.74924,42.178172",
     "geom:latitude":42.178172,
     "geom:longitude":-70.74924,
@@ -30,10 +31,14 @@
     "sg:website":"www.belsanbait.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85847363,
+        102191575,
+        404476565,
         85633793,
-        85839377,
-        102084367
+        85950485,
+        102084367,
+        85688645,
+        85839377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +46,18 @@
     },
     "wof:country":"US",
     "wof:created":1461716646,
-    "wof:geomhash":"7c0f45b798684398e563335e1b6cb329",
+    "wof:geomhash":"5fdb9c12cb6c46285b77c7dfd1c49d00",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476565,
+            "locality_id":85950485,
+            "neighbourhood_id":85847363,
+            "region_id":85688645,
+            "venue_id":672346589
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -52,9 +67,9 @@
         }
     ],
     "wof:id":672346589,
-    "wof:lastmodified":1472625580,
+    "wof:lastmodified":1492115645,
     "wof:name":"Belsan Bait & Tackle",
-    "wof:parent_id":85839377,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

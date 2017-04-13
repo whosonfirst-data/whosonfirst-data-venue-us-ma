@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.941474,41.752959,-70.941474,41.752959",
     "geom:latitude":41.752959,
     "geom:longitude":-70.941474,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jjETUIcDfYJZ0TgOXpw7V_41.752959_-70.941474@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712885,
-    "wof:geomhash":"2158fc79a3348fceceb1dec4af70d990",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58e52d44b3bdae1b473a6d9745cdbf87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":672169039
+        }
+    ],
     "wof:id":672169039,
-    "wof:lastmodified":1472625047,
+    "wof:lastmodified":1492107409,
     "wof:name":"James Oliveira Electric",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

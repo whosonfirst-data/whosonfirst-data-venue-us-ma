@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.883345,41.969062,-70.883345,41.969062",
     "geom:latitude":41.969062,
     "geom:longitude":-70.883345,
@@ -36,17 +37,26 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SeMuUZWS3ngkQci30czmM_41.969062_-70.883345@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741028,
-    "wof:geomhash":"07b8bb8cc10cc5edfa00c86420443c2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24131ef941e679addb04b948ba8ac442",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523907,
+            "venue_id":689153777
+        }
+    ],
     "wof:id":689153777,
-    "wof:lastmodified":1472625520,
+    "wof:lastmodified":1492097473,
     "wof:name":"Equine Safety Products",
     "wof:parent_id":420523907,
     "wof:placetype":"venue",

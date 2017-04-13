@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.731741,42.371278,-72.731741,42.371278",
     "geom:latitude":42.371278,
     "geom:longitude":-72.731741,
@@ -32,19 +33,28 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Mud7W4oWnLsjp2y9wWNqW_42.371278_-72.731741@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717331,
-    "wof:geomhash":"5fc90d2acce940b66bc27f878f8b9318",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d783839e5661a89d824cc5e7d63d63d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523635,
+            "venue_id":672375399
+        }
+    ],
     "wof:id":672375399,
-    "wof:lastmodified":1472625646,
+    "wof:lastmodified":1492107146,
     "wof:name":"Steady Sales",
-    "wof:parent_id":420523635,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

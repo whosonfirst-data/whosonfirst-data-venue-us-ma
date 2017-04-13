@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.044326,42.682992,-72.044326,42.682992",
     "geom:latitude":42.682992,
     "geom:longitude":-72.044326,
@@ -31,17 +32,26 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bBXnRTl3PvEjENbGr0RCG_42.682992_-72.044326@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713742,
-    "wof:geomhash":"ce03ea4cdbda0e60b260612aff219899",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68d5a8bb2c1e7c6a62cc72381574901d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":672208707
+        }
+    ],
     "wof:id":672208707,
-    "wof:lastmodified":1472625233,
+    "wof:lastmodified":1492109231,
     "wof:name":"Playaway Lanes",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

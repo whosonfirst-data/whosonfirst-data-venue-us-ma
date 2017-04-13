@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.033617,41.965548,-71.033617,41.965548",
     "geom:latitude":41.965548,
     "geom:longitude":-71.033617,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WsBg41r58k0tA82K7YHsD_41.965548_-71.033617@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717777,
-    "wof:geomhash":"e7977933c27a87d7c0d704da0045bfaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1952be23af217567d7dd1300be691c2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672395725
+        }
+    ],
     "wof:id":672395725,
-    "wof:lastmodified":1472625671,
+    "wof:lastmodified":1492117336,
     "wof:name":"Independent Production Svc",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

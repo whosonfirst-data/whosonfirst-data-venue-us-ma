@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.864295,42.589565,-70.864295,42.589565",
     "geom:latitude":42.589565,
     "geom:longitude":-70.864295,
@@ -35,7 +36,11 @@
         85688645,
         85633793,
         85855101,
-        102084463
+        102084463,
+        85837363,
+        102191575,
+        404476287,
+        85950421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461729991,
-    "wof:geomhash":"804ea9288b027484cf1175fd80419477",
+    "wof:geomhash":"6414c285d5392c267b50d3711631256c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +56,22 @@
             "neighbourhood_id":85855101,
             "region_id":85688645,
             "venue_id":672944545
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476287,
+            "locality_id":85950421,
+            "neighbourhood_id":85837363,
+            "region_id":85688645,
+            "venue_id":672944545
         }
     ],
     "wof:id":672944545,
-    "wof:lastmodified":1472626159,
+    "wof:lastmodified":1492117513,
     "wof:name":"David Sabatini & Sons",
-    "wof:parent_id":85855101,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

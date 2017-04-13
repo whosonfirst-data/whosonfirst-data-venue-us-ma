@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.507765,41.688315,-70.507765,41.688315",
     "geom:latitude":41.688315,
     "geom:longitude":-70.507765,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jKrB0MRy1MGzrG058i6va_41.688315_-70.507765@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716581,
-    "wof:geomhash":"54eb92982ff775ca6f70788d60b2d4d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"097653d865c08e68f43f99de103134c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672343775
+        }
+    ],
     "wof:id":672343775,
-    "wof:lastmodified":1472625587,
+    "wof:lastmodified":1492108727,
     "wof:name":"Creative Concrete",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

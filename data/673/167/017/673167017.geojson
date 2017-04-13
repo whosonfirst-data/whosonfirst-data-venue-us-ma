@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.399696,42.604401,-71.399696,42.604401",
     "geom:latitude":42.604401,
     "geom:longitude":-71.399696,
@@ -31,17 +32,26 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6buKojp82S9Nytr5pz5vOk_42.604401_-71.399696@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735158,
-    "wof:geomhash":"be2fd945af570c50e2c4c25a8b0e0dfe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bfa4a78fc65edfca6aecabf04796c61e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":673167017
+        }
+    ],
     "wof:id":673167017,
-    "wof:lastmodified":1472625446,
+    "wof:lastmodified":1492102547,
     "wof:name":"United States Technologies - CLOSED",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.894855,42.192178,-70.894855,42.192178",
     "geom:latitude":42.192178,
     "geom:longitude":-70.894855,
@@ -31,8 +32,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85830437,
-        102084367
+        85819303,
+        102084367,
+        85830437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +42,15 @@
     },
     "wof:country":"US",
     "wof:created":1461724277,
-    "wof:geomhash":"cff08605547862de7d0127816bd0da8c",
+    "wof:geomhash":"e770ca24e9ac84ddbcd6b87acb002ff2",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85819303,
+            "region_id":85688645,
+            "venue_id":672675343
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -51,9 +60,9 @@
         }
     ],
     "wof:id":672675343,
-    "wof:lastmodified":1472625919,
+    "wof:lastmodified":1492108741,
     "wof:name":"William Toland Consulting",
-    "wof:parent_id":85830437,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

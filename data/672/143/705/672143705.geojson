@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.565786,42.419643,-71.565786,42.419643",
     "geom:latitude":42.419643,
     "geom:longitude":-71.565786,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62Bxl8Kw2hqjkyRO7pzzuG_42.419643_-71.565786@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712324,
-    "wof:geomhash":"4e35e021a5c0e44701f73ff5749649d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e92d822d61e7d9948aff1398b4a1f68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672143705
+        }
+    ],
     "wof:id":672143705,
-    "wof:lastmodified":1472624959,
+    "wof:lastmodified":1492112614,
     "wof:name":"Gemini Design",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

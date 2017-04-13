@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.581064,42.234766,-72.581064,42.234766",
     "geom:latitude":42.234766,
     "geom:longitude":-72.581064,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85818719,
-        102084459
+        85822705,
+        102084459,
+        85818719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461713479,
-    "wof:geomhash":"96958952f90b5ad8ef707b34189f3e17",
+    "wof:geomhash":"1f78381fffff73ae0253567aa47a0090",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084459,
+            "neighbourhood_id":85822705,
+            "region_id":85688645,
+            "venue_id":672196505
+        },
         {
             "country_id":85633793,
             "county_id":102084459,
@@ -54,9 +63,9 @@
         }
     ],
     "wof:id":672196505,
-    "wof:lastmodified":1472625174,
+    "wof:lastmodified":1492106132,
     "wof:name":"Notre Dame Memorial Co",
-    "wof:parent_id":85818719,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

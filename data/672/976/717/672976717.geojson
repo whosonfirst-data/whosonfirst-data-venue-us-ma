@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.45554,41.628392,-70.45554,41.628392",
     "geom:latitude":41.628392,
     "geom:longitude":-70.45554,
@@ -36,7 +37,11 @@
         85688645,
         85633793,
         85841877,
-        102084379
+        102084379,
+        85847143,
+        102191575,
+        404475893,
+        85950321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461730956,
-    "wof:geomhash":"b6989f8e36a17ffbf09052e8e43cf343",
+    "wof:geomhash":"998e45319a344512a4d244936e7f12df",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +57,22 @@
             "neighbourhood_id":85841877,
             "region_id":85688645,
             "venue_id":672976717
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404475893,
+            "locality_id":85950321,
+            "neighbourhood_id":85847143,
+            "region_id":85688645,
+            "venue_id":672976717
         }
     ],
     "wof:id":672976717,
-    "wof:lastmodified":1472626190,
+    "wof:lastmodified":1492112848,
     "wof:name":"Mashpee Wamponoag Equestrian",
-    "wof:parent_id":85841877,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

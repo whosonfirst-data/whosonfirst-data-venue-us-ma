@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.635254,41.748688,-70.635254,41.748688",
     "geom:latitude":41.748688,
     "geom:longitude":-70.635254,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85868735,
-        102084367
+        102084367,
+        85842535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721918,
-    "wof:geomhash":"0aa0605342de81732d014d25b9039a35",
+    "wof:geomhash":"b64e54aab7026979e9c1aa7ae3126841",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,19 @@
             "neighbourhood_id":85868735,
             "region_id":85688645,
             "venue_id":672570303
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85842535,
+            "region_id":85688645,
+            "venue_id":672570303
         }
     ],
     "wof:id":672570303,
-    "wof:lastmodified":1472625815,
+    "wof:lastmodified":1492108237,
     "wof:name":"R & B Cleaning Svc",
-    "wof:parent_id":85868735,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

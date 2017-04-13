@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.972549,41.809826,-69.972549,41.809826",
     "geom:latitude":41.809826,
     "geom:longitude":-69.972549,
@@ -31,19 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85854975,
+        102084379
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fx2ShUpoz3TqoSg1hP5DQ_41.809826_-69.972549@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711319,
-    "wof:geomhash":"b36bca17f225fc092e1cf4b33f70a792",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39c9bfeb8ac0269666d77dd8f29dceb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084379,
+            "neighbourhood_id":85854975,
+            "region_id":85688645,
+            "venue_id":656367361
+        }
+    ],
     "wof:id":656367361,
-    "wof:lastmodified":1472624948,
+    "wof:lastmodified":1492101897,
     "wof:name":"Shoreline Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

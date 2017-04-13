@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.232715,42.258565,-72.232715,42.258565",
     "geom:latitude":42.258565,
     "geom:longitude":-72.232715,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476311,
+        85633793,
+        85950865,
+        102084459
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oAN3CXDb5yMZs3kq0wY8U_42.258565_-72.232715@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716064,
-    "wof:geomhash":"86c4765cd75e433cf1572bf00425442f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19f5ee6cda0d0f13b5e496bbd163947a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084459,
+            "localadmin_id":404476311,
+            "locality_id":85950865,
+            "region_id":85688645,
+            "venue_id":672321989
+        }
+    ],
     "wof:id":672321989,
-    "wof:lastmodified":1472625550,
+    "wof:lastmodified":1492107037,
     "wof:name":"Bob's Sunoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

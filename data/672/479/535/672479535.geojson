@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.842074,42.043512,-70.842074,42.043512",
     "geom:latitude":42.043512,
     "geom:longitude":-70.842074,
@@ -31,17 +32,26 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jLGQ0NttfYZWKPXfuuh96_42.043512_-70.842074@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719931,
-    "wof:geomhash":"ccf0ae990a13ed8aaa621b67f12ca6aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c78e894726347f129542cad798c7638",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672479535
+        }
+    ],
     "wof:id":672479535,
-    "wof:lastmodified":1472625741,
+    "wof:lastmodified":1492106898,
     "wof:name":"Cooking From The Heart",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

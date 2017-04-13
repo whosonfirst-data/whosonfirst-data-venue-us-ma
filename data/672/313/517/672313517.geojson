@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.891138,42.117917,-70.891138,42.117917",
     "geom:latitude":42.117917,
     "geom:longitude":-70.891138,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PEox0IMGH47ZFs07ns9Ti_42.117917_-70.891138@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715884,
-    "wof:geomhash":"3021abff89b3bf7902044803178c7131",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d292bba2514ab2de744141b5439f6d84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":672313517
+        }
+    ],
     "wof:id":672313517,
-    "wof:lastmodified":1472625522,
+    "wof:lastmodified":1492115206,
     "wof:name":"WCS Automotive",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

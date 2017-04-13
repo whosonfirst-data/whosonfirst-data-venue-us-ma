@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.543885,41.80958,-70.543885,41.80958",
     "geom:latitude":41.80958,
     "geom:longitude":-70.543885,
@@ -31,17 +32,26 @@
         "prefab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63OSCCZIq83IMVbZIf3B9C_41.809580_-70.543885@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728920,
-    "wof:geomhash":"05d4eae2985b9e95e8165a2f9b3e4763",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4f022147fec0d2ff6e2e03bb065e291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":672894713
+        }
+    ],
     "wof:id":672894713,
-    "wof:lastmodified":1472626119,
+    "wof:lastmodified":1492119486,
     "wof:name":"New England Buildings",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

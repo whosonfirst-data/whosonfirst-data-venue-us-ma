@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.691456,42.059623,-70.691456,42.059623",
     "geom:latitude":42.059623,
     "geom:longitude":-70.691456,
@@ -36,17 +37,26 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AUz2W2I7LJ2JX7Gg8FjsG_42.059623_-70.691456@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741024,
-    "wof:geomhash":"171d3a5bf5f5633121e0cfc87fd63935",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f9b5ae9f12ffb0736af60fdde009fe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":689153575
+        }
+    ],
     "wof:id":689153575,
-    "wof:lastmodified":1472625509,
+    "wof:lastmodified":1492097466,
     "wof:name":"Marquis G M A C Real Estate",
     "wof:parent_id":420523971,
     "wof:placetype":"venue",

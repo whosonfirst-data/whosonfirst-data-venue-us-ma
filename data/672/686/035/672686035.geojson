@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.390986,42.638253,-71.390986,42.638253",
     "geom:latitude":42.638253,
     "geom:longitude":-71.390986,
@@ -33,17 +34,26 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YLcoGEsKznObKWVWa9f86_42.638253_-71.390986@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724543,
-    "wof:geomhash":"61e78de2021f582a718a3d60c49149c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b610239851f29a15d516bd6d3149711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672686035
+        }
+    ],
     "wof:id":672686035,
-    "wof:lastmodified":1472625922,
+    "wof:lastmodified":1492106283,
     "wof:name":"Chelmsford Senior Ctr",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

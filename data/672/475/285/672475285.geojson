@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.384767,42.640128,-71.384767,42.640128",
     "geom:latitude":42.640128,
     "geom:longitude":-71.384767,
@@ -32,17 +33,26 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_716WCTuTfsFABEJOupUjCP_42.640128_-71.384767@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719819,
-    "wof:geomhash":"d42ff4cbafe0b1871b8563f3596bce15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"772c720fdf395c61008558a3f00aaf27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672475285
+        }
+    ],
     "wof:id":672475285,
-    "wof:lastmodified":1472625737,
+    "wof:lastmodified":1492114122,
     "wof:name":"Accuplus Financial Svc",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

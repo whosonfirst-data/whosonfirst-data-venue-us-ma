@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.007032,41.954345,-71.007032,41.954345",
     "geom:latitude":41.954345,
     "geom:longitude":-71.007032,
@@ -33,17 +34,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57xlB4IzUCMA7rmutWRiDj_41.954345_-71.007032@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720127,
-    "wof:geomhash":"69f42fc845832750c25b0f8f93790a6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72ed84ebf43fc713b36de92615e3d154",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672487643
+        }
+    ],
     "wof:id":672487643,
-    "wof:lastmodified":1472625753,
+    "wof:lastmodified":1492112203,
     "wof:name":"Southern Security",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

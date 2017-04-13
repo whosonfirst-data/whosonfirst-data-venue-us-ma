@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.887321,42.093571,-70.887321,42.093571",
     "geom:latitude":42.093571,
     "geom:longitude":-70.887321,
@@ -33,17 +34,26 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uF3bYGR4StGCwLGT7FATJ_42.093571_-70.887321@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741041,
-    "wof:geomhash":"d4424f70b681a587ecead6c32d6f21fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3da7a712687107af42a27f854ae8ceae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":689154347
+        }
+    ],
     "wof:id":689154347,
-    "wof:lastmodified":1472625493,
+    "wof:lastmodified":1492098567,
     "wof:name":"Jreddish Design",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

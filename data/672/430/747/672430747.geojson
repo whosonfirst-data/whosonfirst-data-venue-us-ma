@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.113817,41.785146,-71.113817,41.785146",
     "geom:latitude":41.785146,
     "geom:longitude":-71.113817,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85842967,
+        102191575,
+        404476145,
         85633793,
-        85805853,
-        102084407
+        85950687,
+        102084407,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,20 +47,23 @@
     },
     "wof:country":"US",
     "wof:created":1461718663,
-    "wof:geomhash":"283f7a52b5e8be154620c6a35b0d48df",
+    "wof:geomhash":"b0011d97732527dc3853a789f0091053",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084407,
-            "neighbourhood_id":85805853,
+            "localadmin_id":404476145,
+            "locality_id":85950687,
+            "neighbourhood_id":85842967,
             "region_id":85688645,
             "venue_id":672430747
         }
     ],
     "wof:id":672430747,
-    "wof:lastmodified":1472625704,
+    "wof:lastmodified":1492114697,
     "wof:name":"Ferrari Property Maintenance",
-    "wof:parent_id":85805853,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

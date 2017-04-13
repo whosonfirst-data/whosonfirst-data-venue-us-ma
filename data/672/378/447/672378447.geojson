@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.903039,42.081637,-70.903039,42.081637",
     "geom:latitude":42.081637,
     "geom:longitude":-70.903039,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Kz5WH7ih5ZS96q2PdAxso_42.081637_-70.903039@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717389,
-    "wof:geomhash":"d6621919d48910d4064de7dc0e3428f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"983fcd619e4e32ab87fc60b097c42a34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":672378447
+        }
+    ],
     "wof:id":672378447,
-    "wof:lastmodified":1472625647,
+    "wof:lastmodified":1492111993,
     "wof:name":"Ryan & Fortin Construction",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.90985,41.891838,-70.90985,41.891838",
     "geom:latitude":41.891838,
     "geom:longitude":-70.90985,
@@ -32,17 +33,26 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AMRF1d4MPhkBTkx6Y2veI_41.891838_-70.909850@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730871,
-    "wof:geomhash":"c026928eb3867a88490501d97f6ee9f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"326190b1bfb89893fb18fa2084c67a8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672973611
+        }
+    ],
     "wof:id":672973611,
-    "wof:lastmodified":1472626188,
+    "wof:lastmodified":1492114523,
     "wof:name":"Cs2c/Ne",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

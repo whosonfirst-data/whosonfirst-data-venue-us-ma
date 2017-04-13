@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.256624,41.845045,-71.256624,41.845045",
     "geom:latitude":41.845045,
     "geom:longitude":-71.256624,
@@ -32,17 +33,32 @@
         "adoption"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475933,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2U51LZOt7RsszTnybTBauu_41.845045_-71.256624@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716525,
-    "wof:geomhash":"939b915f05a29e68e2cefff951b5a2ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00753adb415fd5d4ab2df0a2bb4deda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404475933,
+            "region_id":85688645,
+            "venue_id":672340913
+        }
+    ],
     "wof:id":672340913,
-    "wof:lastmodified":1472625586,
+    "wof:lastmodified":1492112641,
     "wof:name":"Adoption Options",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

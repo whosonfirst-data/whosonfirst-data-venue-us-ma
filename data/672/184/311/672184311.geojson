@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.723657,41.919527,-70.723657,41.919527",
     "geom:latitude":41.919527,
     "geom:longitude":-70.723657,
@@ -31,17 +32,26 @@
         "plastic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6456RjlyMlsjHaG8EDHZbj_41.919527_-70.723657@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713210,
-    "wof:geomhash":"10a6e97faeae5d3769d63251cb4733ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b737e5b053a6e7d3f4b10f41511dad3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672184311
+        }
+    ],
     "wof:id":672184311,
-    "wof:lastmodified":1472625118,
+    "wof:lastmodified":1492113978,
     "wof:name":"Primary Colors Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

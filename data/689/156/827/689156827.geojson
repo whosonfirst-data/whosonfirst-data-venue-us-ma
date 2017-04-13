@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.774803,42.065489,-70.774803,42.065489",
     "geom:latitude":42.065489,
     "geom:longitude":-70.774803,
@@ -37,17 +38,26 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mD0w2iRwKPPQ3yMpjVs01_42.065489_-70.774803@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741108,
-    "wof:geomhash":"96f00ad6232ebf85db6da9b8221bce1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8195582aaafd2df6fe7181741a9abae6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523963,
+            "venue_id":689156827
+        }
+    ],
     "wof:id":689156827,
-    "wof:lastmodified":1472625526,
+    "wof:lastmodified":1492099227,
     "wof:name":"Ffg Mortgage",
     "wof:parent_id":420523963,
     "wof:placetype":"venue",

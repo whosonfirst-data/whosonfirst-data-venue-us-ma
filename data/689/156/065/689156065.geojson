@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.000203,41.812821,-71.000203,41.812821",
     "geom:latitude":41.812821,
     "geom:longitude":-71.000203,
@@ -38,17 +39,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gh519E1eNqBWJ25oJT19R_41.812821_-71.000203@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741076,
-    "wof:geomhash":"9b6c742146d0b8973755e87e3fe18ea0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"570dbc61f5fb7a348b1de24b623feec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523853,
+            "venue_id":689156065
+        }
+    ],
     "wof:id":689156065,
-    "wof:lastmodified":1472625489,
+    "wof:lastmodified":1492099216,
     "wof:name":"Conroy Furniture & Design",
     "wof:parent_id":420523853,
     "wof:placetype":"venue",

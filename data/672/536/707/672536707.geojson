@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.76879,42.563227,-71.76879,42.563227",
     "geom:latitude":42.563227,
     "geom:longitude":-71.76879,
@@ -29,13 +30,16 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849665,
+        85837767,
         102191575,
-        404476549,
+        404476661,
         85633793,
-        85950381,
+        85950377,
         102084655,
-        85688645
+        85688645,
+        85849665,
+        404476549,
+        85950381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +47,18 @@
     },
     "wof:country":"US",
     "wof:created":1461721196,
-    "wof:geomhash":"5bc49b401f624d1882d2868e5d73af6d",
+    "wof:geomhash":"10d1a75a4e4eda4b9a6e46be60c18399",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476661,
+            "locality_id":85950377,
+            "neighbourhood_id":85837767,
+            "region_id":85688645,
+            "venue_id":672536707
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +71,9 @@
         }
     ],
     "wof:id":672536707,
-    "wof:lastmodified":1472625794,
+    "wof:lastmodified":1492118851,
     "wof:name":"Gardner Airport",
-    "wof:parent_id":85849665,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

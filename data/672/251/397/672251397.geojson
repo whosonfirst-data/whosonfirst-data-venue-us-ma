@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.890557,41.640718,-70.890557,41.640718",
     "geom:latitude":41.640718,
     "geom:longitude":-70.890557,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ewed7DxHRgJnHNO9wywJs_41.640718_-70.890557@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714644,
-    "wof:geomhash":"1c1572f63d3c368e76a5c4b81a627b44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5257799659b214808fbdf22d5f105ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672251397
+        }
+    ],
     "wof:id":672251397,
-    "wof:lastmodified":1472625344,
+    "wof:lastmodified":1492106015,
     "wof:name":"SCI Eastern Region",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

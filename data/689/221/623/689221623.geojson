@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.301306,41.817747,-71.301306,41.817747",
     "geom:latitude":41.817747,
     "geom:longitude":-71.301306,
@@ -41,17 +42,32 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476141,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69w2bCIPykfV1PfCptyCVf_41.817747_-71.301306@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742516,
-    "wof:geomhash":"8aea9965521b9e820c7a9c3569c11e38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd66b0245a51e9cdd42ded94659f2a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476141,
+            "region_id":85688645,
+            "venue_id":689221623
+        }
+    ],
     "wof:id":689221623,
-    "wof:lastmodified":1472625632,
+    "wof:lastmodified":1492099570,
     "wof:name":"Dynamic Air Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

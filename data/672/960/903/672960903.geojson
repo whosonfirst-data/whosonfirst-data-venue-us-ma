@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.330473,41.831007,-71.330473,41.831007",
     "geom:latitude":41.831007,
     "geom:longitude":-71.330473,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85816693,
-        102084407
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461730458,
-    "wof:geomhash":"7c1e0f9fc116738e72720e1003eb6b8b",
+    "wof:geomhash":"af67aeedda5f161610730dbfe7c11240",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084407,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
             "neighbourhood_id":85816693,
-            "region_id":85688645,
+            "region_id":85688509,
             "venue_id":672960903
         }
     ],
     "wof:id":672960903,
-    "wof:lastmodified":1472626175,
+    "wof:lastmodified":1492110107,
     "wof:name":"K & M Equipment Repair Inc",
     "wof:parent_id":85816693,
     "wof:placetype":"venue",

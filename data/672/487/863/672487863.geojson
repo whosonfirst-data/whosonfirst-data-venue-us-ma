@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.553977,42.21753,-72.553977,42.21753",
     "geom:latitude":42.21753,
     "geom:longitude":-72.553977,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523647
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3swuglxlgBxKmhv5c3sI3y_42.217530_-72.553977@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720131,
-    "wof:geomhash":"fad1c6617a33209e1c845e0ad492bf7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b45b0c298f1f10594e0c1ff8fcb0f9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523647,
+            "venue_id":672487863
+        }
+    ],
     "wof:id":672487863,
-    "wof:lastmodified":1472625757,
+    "wof:lastmodified":1492112210,
     "wof:name":"Holyoke Sanitary Landfill Inc",
     "wof:parent_id":420523647,
     "wof:placetype":"venue",

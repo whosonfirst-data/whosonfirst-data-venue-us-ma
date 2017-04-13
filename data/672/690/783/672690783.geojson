@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.227751,41.680613,-70.227751,41.680613",
     "geom:latitude":41.680613,
     "geom:longitude":-70.227751,
@@ -33,17 +34,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0adu3FQklTFuCJJr87yQ69_41.680613_-70.227751@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724660,
-    "wof:geomhash":"f592801037ac5f61f4d12e79fdaf5209",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89d285451483086bc67f1a290dc0b167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672690783
+        }
+    ],
     "wof:id":672690783,
-    "wof:lastmodified":1472625937,
+    "wof:lastmodified":1492116432,
     "wof:name":"Ford-Diamond Electric Supply",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

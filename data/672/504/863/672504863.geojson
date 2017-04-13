@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.837323,42.029852,-70.837323,42.029852",
     "geom:latitude":42.029852,
     "geom:longitude":-70.837323,
@@ -31,17 +32,26 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iJII2rbWIfdmclSZST8r3_42.029852_-70.837323@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720508,
-    "wof:geomhash":"c0ddffd5ef0088b233c7e0eb1fbdbfa6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f815776272db4767652e433606b936c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523961,
+            "venue_id":672504863
+        }
+    ],
     "wof:id":672504863,
-    "wof:lastmodified":1472625773,
+    "wof:lastmodified":1492114930,
     "wof:name":"Christie Rm Landscaping",
     "wof:parent_id":420523961,
     "wof:placetype":"venue",

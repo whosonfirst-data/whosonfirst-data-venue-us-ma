@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.421335,42.495588,-72.421335,42.495588",
     "geom:latitude":42.495588,
     "geom:longitude":-72.421335,
@@ -32,7 +33,8 @@
         85688645,
         85633793,
         85815355,
-        102084457
+        102084457,
+        85850187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461715944,
-    "wof:geomhash":"471446f0e57b76a2238b248b16c5f5c5",
+    "wof:geomhash":"0e8ac8278d1c517eff6f5d7f67ee8e11",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +50,19 @@
             "neighbourhood_id":85815355,
             "region_id":85688645,
             "venue_id":672316955
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084457,
+            "neighbourhood_id":85850187,
+            "region_id":85688645,
+            "venue_id":672316955
         }
     ],
     "wof:id":672316955,
-    "wof:lastmodified":1472625545,
+    "wof:lastmodified":1492108329,
     "wof:name":"Response",
-    "wof:parent_id":85815355,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

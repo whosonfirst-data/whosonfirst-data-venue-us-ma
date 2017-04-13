@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.839342,42.186397,-71.839342,42.186397",
     "geom:latitude":42.186397,
     "geom:longitude":-71.839342,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3A4na9zLJ53poSZ3c8fBUF_42.186397_-71.839342@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722614,
-    "wof:geomhash":"03c8666e9d72c43634f6e847aa3774dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06384dc17ae395bff2bb266d57d2b8b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672600595
+        }
+    ],
     "wof:id":672600595,
-    "wof:lastmodified":1472625855,
+    "wof:lastmodified":1492112592,
     "wof:name":"Eat At Joes Inc",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

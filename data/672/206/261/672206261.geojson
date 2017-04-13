@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.997463,42.792832,-70.997463,42.792832",
     "geom:latitude":42.792832,
     "geom:longitude":-70.997463,
@@ -28,19 +29,44 @@
     "sg:postcode":"01985",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420523409,
+        102191575,
+        404476201,
+        85633793,
+        85950417,
+        102084463,
+        85688645,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XHsE7dl1ln1vw13QD7u37_42.792832_-70.997463@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713699,
-    "wof:geomhash":"2bc11423bd1c261dfc600f1a90c8c8e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6b3ac26d78952572bb0cc72d1c2cc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476201,
+            "locality_id":85950417,
+            "neighbourhood_id":420523409,
+            "region_id":85688645,
+            "venue_id":672206261
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672206261
+        }
+    ],
     "wof:id":672206261,
-    "wof:lastmodified":1472625203,
+    "wof:lastmodified":1492109197,
     "wof:name":"Kay Baileymckllgat Intr Design",
-    "wof:parent_id":420523475,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

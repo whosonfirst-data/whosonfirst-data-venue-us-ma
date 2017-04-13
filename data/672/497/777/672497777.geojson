@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.415014,42.269806,-72.415014,42.269806",
     "geom:latitude":42.269806,
     "geom:longitude":-72.415014,
@@ -34,17 +35,26 @@
         "gymnasium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2T3Fkkxc4EQUyMx0ctfkZj_42.269806_-72.415014@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720354,
-    "wof:geomhash":"112f7943eaa922f9bdda877d6f6d99af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35d4edb2e18af08b187b2e0cd8d88260",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672497777
+        }
+    ],
     "wof:id":672497777,
-    "wof:lastmodified":1472625763,
+    "wof:lastmodified":1492105839,
     "wof:name":"Fitness Studio",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

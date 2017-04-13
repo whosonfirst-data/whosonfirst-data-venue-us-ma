@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.92027,42.244993,-70.92027,42.244993",
     "geom:latitude":42.244993,
     "geom:longitude":-70.92027,
@@ -33,7 +34,8 @@
         85633793,
         85950451,
         102084367,
-        85855681
+        85855681,
+        85830605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461720624,
-    "wof:geomhash":"595a6d36130149959255fad0e276ad56",
+    "wof:geomhash":"d3c3ef2d41238d2bd3240b485a6688c8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +52,19 @@
             "neighbourhood_id":85855681,
             "region_id":85688645,
             "venue_id":672510057
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85830605,
+            "region_id":85688645,
+            "venue_id":672510057
         }
     ],
     "wof:id":672510057,
-    "wof:lastmodified":1472625762,
+    "wof:lastmodified":1492116494,
     "wof:name":"Safety Fumigant Co",
-    "wof:parent_id":85855681,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

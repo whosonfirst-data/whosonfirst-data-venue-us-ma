@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.716614,41.931344,-70.716614,41.931344",
     "geom:latitude":41.931344,
     "geom:longitude":-70.716614,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Xi9LZl6he1thkfWSroBE8_41.931344_-70.716614@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715065,
-    "wof:geomhash":"96d4ef3094e0a347dad70a6a5f52d2cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc0c7f16180a739cc9482749138d9391",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672273553
+        }
+    ],
     "wof:id":672273553,
-    "wof:lastmodified":1472625423,
+    "wof:lastmodified":1492111484,
     "wof:name":"J C Auto Body",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

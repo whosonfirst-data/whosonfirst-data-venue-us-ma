@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.728995,42.059674,-70.728995,42.059674",
     "geom:latitude":42.059674,
     "geom:longitude":-70.728995,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IyNhgx40X4vEUEz3oYTch_42.059674_-70.728995@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719131,
-    "wof:geomhash":"96d96a40514b643c25495ad3ee012d1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4f3b22cff894ae0e195f9ace2d10e70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523943,
+            "venue_id":672448399
+        }
+    ],
     "wof:id":672448399,
-    "wof:lastmodified":1472625711,
+    "wof:lastmodified":1492111075,
     "wof:name":"Entre Deux Mers LTD",
     "wof:parent_id":420523943,
     "wof:placetype":"venue",

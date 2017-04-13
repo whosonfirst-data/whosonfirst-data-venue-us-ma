@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.881113,41.734028,-70.881113,41.734028",
     "geom:latitude":41.734028,
     "geom:longitude":-70.881113,
@@ -33,17 +34,26 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00WjrmpXlmegvLgM5sJlCA_41.734028_-70.881113@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716965,
-    "wof:geomhash":"a23ed5f7e0e708c1d95f96470c5a5b8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a266291c476a990634d1905d04bb57b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672359407
+        }
+    ],
     "wof:id":672359407,
-    "wof:lastmodified":1472625613,
+    "wof:lastmodified":1492110511,
     "wof:name":"Laser Brite",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

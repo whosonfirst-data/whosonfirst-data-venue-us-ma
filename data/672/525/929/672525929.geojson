@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.856905,42.353994,-71.856905,42.353994",
     "geom:latitude":42.353994,
     "geom:longitude":-71.856905,
@@ -37,19 +38,38 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85843497,
+        102084655,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4w9dSSMcFoTNQ4Ey2chgUJ_42.353994_-71.856905@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720964,
-    "wof:geomhash":"58fc097e66a6dc33e52642b45093c2b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24a733fad2e2044960ecf9b4543d86b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85843497,
+            "region_id":85688645,
+            "venue_id":672525929
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":672525929
+        }
+    ],
     "wof:id":672525929,
-    "wof:lastmodified":1472625785,
+    "wof:lastmodified":1492109215,
     "wof:name":"Fllac Ed Co Pdd Classroom",
-    "wof:parent_id":420524079,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.722972,42.207373,-70.722972,42.207373",
     "geom:latitude":42.207373,
     "geom:longitude":-70.722972,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85819339,
-        102084367
+        85824231,
+        102084367,
+        85819339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461729050,
-    "wof:geomhash":"ca761f86413a394f80176b2f564b8dd3",
+    "wof:geomhash":"8432dc15cfff187ae59803792502e186",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85824231,
+            "region_id":85688645,
+            "venue_id":672901483
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":672901483,
-    "wof:lastmodified":1472626121,
+    "wof:lastmodified":1492111409,
     "wof:name":"Mitman Associates",
-    "wof:parent_id":85819339,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

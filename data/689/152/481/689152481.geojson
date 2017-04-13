@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.020716,41.970808,-71.020716,41.970808",
     "geom:latitude":41.970808,
     "geom:longitude":-71.020716,
@@ -40,17 +41,26 @@
         "gas-industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CT0EiiIkRLZqGxWJaWAyE_41.970808_-71.020716@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740993,
-    "wof:geomhash":"e36398ab13ebccc9d512519e531b0325",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72e151ce06fa9afc22c72e3f326e0b64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":689152481
+        }
+    ],
     "wof:id":689152481,
-    "wof:lastmodified":1472625498,
+    "wof:lastmodified":1492101005,
     "wof:name":"Osterman Propane",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

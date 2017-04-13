@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.707251,42.226793,-71.707251,42.226793",
     "geom:latitude":42.226793,
     "geom:longitude":-71.707251,
@@ -31,17 +32,26 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sGcr57t27jPSzS7pYH4kp_42.226793_-71.707251@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718118,
-    "wof:geomhash":"35c5d6479dd254412aad7927d6e96857",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc2fce8356b0d17db1a6993e54eedb4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524183,
+            "venue_id":672408789
+        }
+    ],
     "wof:id":672408789,
-    "wof:lastmodified":1472625679,
+    "wof:lastmodified":1492106149,
     "wof:name":"Harland N Hannon MD",
     "wof:parent_id":420524183,
     "wof:placetype":"venue",

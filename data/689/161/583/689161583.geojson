@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.811959,41.941133,-70.811959,41.941133",
     "geom:latitude":41.941133,
     "geom:longitude":-70.811959,
@@ -45,17 +46,26 @@
         "bamboo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5C3k5SIcOg6P8hO2X12fwW_41.941133_-70.811959@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741214,
-    "wof:geomhash":"b1ac1eda88c14e03a6d4957632c47641",
-    "wof:hierarchy":[],
+    "wof:geomhash":"017657016dec8b3adf01ffb319a84a2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689161583
+        }
+    ],
     "wof:id":689161583,
-    "wof:lastmodified":1472625524,
+    "wof:lastmodified":1492099153,
     "wof:name":"Winnetuxet River Provide",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

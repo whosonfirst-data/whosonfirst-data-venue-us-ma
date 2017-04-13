@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.102097,42.1283,-71.102097,42.1283",
     "geom:latitude":42.1283,
     "geom:longitude":-71.102097,
@@ -33,17 +34,26 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2itWPQILwYRwN2nPq3l4hL_42.128300_-71.102097@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736313,
-    "wof:geomhash":"5b279794d3dff0e45da1014f55d2138f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bae56c4787737dbf1e199e1eb8d00c44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688953287
+        }
+    ],
     "wof:id":688953287,
-    "wof:lastmodified":1472625128,
+    "wof:lastmodified":1492120235,
     "wof:name":"Super Discount Liquors",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.096903,41.698366,-70.096903,41.698366",
     "geom:latitude":41.698366,
     "geom:longitude":-70.096903,
@@ -34,13 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523235,
+        85842267,
         102191575,
         404476183,
         85633793,
-        85950575,
+        85950557,
         102084379,
-        85688645
+        85688645,
+        420523235,
+        85950575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +51,18 @@
     },
     "wof:country":"US",
     "wof:created":1461716639,
-    "wof:geomhash":"6501ba890d203f54bc681b456cfe6cd3",
+    "wof:geomhash":"21cacb2df2a545d378ed2fab5e652d89",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404476183,
+            "locality_id":85950557,
+            "neighbourhood_id":85842267,
+            "region_id":85688645,
+            "venue_id":672346373
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,9 +75,9 @@
         }
     ],
     "wof:id":672346373,
-    "wof:lastmodified":1472625578,
+    "wof:lastmodified":1492115649,
     "wof:name":"Sawmill River Wood Products",
-    "wof:parent_id":420523235,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

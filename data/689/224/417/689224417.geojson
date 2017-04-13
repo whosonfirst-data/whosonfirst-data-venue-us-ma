@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.131053,41.612109,-71.131053,41.612109",
     "geom:latitude":41.612109,
     "geom:longitude":-71.131053,
@@ -32,19 +33,28 @@
         "transporter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kWjon7HwFtSAGCnMWu2vf_41.612109_-71.131053@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742576,
-    "wof:geomhash":"8a09eb4c873dec9be289700a93e220bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50e0adab24b6d4ce3ba05de11334f634",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":689224417
+        }
+    ],
     "wof:id":689224417,
-    "wof:lastmodified":1472625620,
+    "wof:lastmodified":1492097811,
     "wof:name":"A&J Auto Transport Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

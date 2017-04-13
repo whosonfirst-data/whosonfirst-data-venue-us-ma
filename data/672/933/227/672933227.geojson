@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.540908,41.80928,-70.540908,41.80928",
     "geom:latitude":41.80928,
     "geom:longitude":-70.540908,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1geUpwCL1p6HfHjNNHoFXG_41.809280_-70.540908@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729712,
-    "wof:geomhash":"a08cb201b19e2cb45f3329ceed639683",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dff008902228e3521a617f665f29dfb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":672933227
+        }
+    ],
     "wof:id":672933227,
-    "wof:lastmodified":1472626143,
+    "wof:lastmodified":1492109509,
     "wof:name":"Rivendell Arts",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

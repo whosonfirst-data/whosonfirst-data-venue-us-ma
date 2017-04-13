@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.867528,42.065753,-70.867528,42.065753",
     "geom:latitude":42.065753,
     "geom:longitude":-70.867528,
@@ -31,17 +32,26 @@
         "cruise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34rotbeIPe0pXRHYSRmiK9_42.065753_-70.867528@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724149,
-    "wof:geomhash":"9fa315133029e8ee24aee5f8c9972e4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a27f8352f785a6edd6ccb3e112385894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523995,
+            "venue_id":672669265
+        }
+    ],
     "wof:id":672669265,
-    "wof:lastmodified":1472625915,
+    "wof:lastmodified":1492112698,
     "wof:name":"Cruise Planners",
     "wof:parent_id":420523995,
     "wof:placetype":"venue",

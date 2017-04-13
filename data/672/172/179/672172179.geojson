@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.24795,42.32839,-71.24795,42.32839",
     "geom:latitude":42.32839,
     "geom:longitude":-71.24795,
@@ -31,19 +32,38 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85858683,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25ADhvQ2c37ZmTujeivNKw_42.328390_-71.247950@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712949,
-    "wof:geomhash":"692c9cdd6164102418f11393ab32a544",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be27de9c8b8c98caf7b6dcbf568a5cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "neighbourhood_id":85858683,
+            "region_id":85688645,
+            "venue_id":672172179
+        }
+    ],
     "wof:id":672172179,
-    "wof:lastmodified":1472625052,
+    "wof:lastmodified":1492106490,
     "wof:name":"M A Real Estate Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":85858683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

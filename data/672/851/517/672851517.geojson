@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.111717,41.606459,-71.111717,41.606459",
     "geom:latitude":41.606459,
     "geom:longitude":-71.111717,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67jq1JScWOorLQ3LEvSOaY_41.606459_-71.111717@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728023,
-    "wof:geomhash":"88622ffa022ce65b94017e893283a457",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de65c709bbda48d7bae68d7141f28852",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672851517
+        }
+    ],
     "wof:id":672851517,
-    "wof:lastmodified":1472626081,
+    "wof:lastmodified":1492119097,
     "wof:name":"Ivy Meadows Farms",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

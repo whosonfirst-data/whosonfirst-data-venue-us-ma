@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.900667,42.125353,-71.900667,42.125353",
     "geom:latitude":42.125353,
     "geom:longitude":-71.900667,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jBz5bxiqPTahEasl70crF_42.125353_-71.900667@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721520,
-    "wof:geomhash":"976731a2a981218abbfc7439b9cc49d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7fda458b8c284858597ac60d975ee69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":672552971
+        }
+    ],
     "wof:id":672552971,
-    "wof:lastmodified":1472625833,
+    "wof:lastmodified":1492114429,
     "wof:name":"RJL Consulting & Assoc",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

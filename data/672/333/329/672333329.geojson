@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.00809,42.030359,-71.00809,42.030359",
     "geom:latitude":42.030359,
     "geom:longitude":-71.00809,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Hi6QkeJ2tPeki96wyCIxz_42.030359_-71.008090@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716303,
-    "wof:geomhash":"03b592aec9d150431ace4663d1524e35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46b3dfc5965558d697e30e75476acd94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523977,
+            "venue_id":672333329
+        }
+    ],
     "wof:id":672333329,
-    "wof:lastmodified":1472625567,
+    "wof:lastmodified":1492115590,
     "wof:name":"Mac Donald Plumbing & Heating",
     "wof:parent_id":420523977,
     "wof:placetype":"venue",

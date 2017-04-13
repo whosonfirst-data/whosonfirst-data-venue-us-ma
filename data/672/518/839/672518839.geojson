@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.87456,41.847304,-70.87456,41.847304",
     "geom:latitude":41.847304,
     "geom:longitude":-70.87456,
@@ -31,17 +32,26 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pSlM6rJT5pCuj5zCoqtyT_41.847304_-70.874560@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720809,
-    "wof:geomhash":"c241024e09f9bffd1e56267c6bea7f76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68df167c9f63fb9c3df91c5726182bdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672518839
+        }
+    ],
     "wof:id":672518839,
-    "wof:lastmodified":1472625785,
+    "wof:lastmodified":1492114645,
     "wof:name":"Tri Valley Repair",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

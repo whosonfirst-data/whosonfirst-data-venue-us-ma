@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.888307,42.041956,-70.888307,42.041956",
     "geom:latitude":42.041956,
     "geom:longitude":-70.888307,
@@ -36,17 +37,26 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2J7QI3TNQXNK1COxPKzpEw_42.041956_-70.888307@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741049,
-    "wof:geomhash":"a26c5d360eb385dc7e7ac57c2c6ad855",
-    "wof:hierarchy":[],
+    "wof:geomhash":"212ad320a86c9163555fbda5309dbea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523953,
+            "venue_id":689154787
+        }
+    ],
     "wof:id":689154787,
-    "wof:lastmodified":1472625516,
+    "wof:lastmodified":1492098556,
     "wof:name":"The Cafe Deli",
     "wof:parent_id":420523953,
     "wof:placetype":"venue",

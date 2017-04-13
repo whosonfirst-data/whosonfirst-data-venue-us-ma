@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.022753,42.040137,-71.022753,42.040137",
     "geom:latitude":42.040137,
     "geom:longitude":-71.022753,
@@ -32,17 +33,26 @@
         "cable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20iQs4WQUVHcNyOoWT5WUB_42.040137_-71.022753@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722107,
-    "wof:geomhash":"b5205fdf58a90bf6a15403bc9d45ef59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdb7a01498f017c7ee83a22a8549bcfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523931,
+            "venue_id":672579309
+        }
+    ],
     "wof:id":672579309,
-    "wof:lastmodified":1472625811,
+    "wof:lastmodified":1492112602,
     "wof:name":"Traffic Signal Inc",
     "wof:parent_id":420523931,
     "wof:placetype":"venue",

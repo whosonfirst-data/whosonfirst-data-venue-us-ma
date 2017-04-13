@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.770197,41.912171,-70.770197,41.912171",
     "geom:latitude":41.912171,
     "geom:longitude":-70.770197,
@@ -33,19 +34,34 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CYNgbExE1hJrdLNRdQTZV_41.912171_-70.770197@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721139,
-    "wof:geomhash":"a85516971c18bdbbfa43fae35ef94803",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be17c0e862c96b036cdc6fd5c23aae39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":672533701
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672533701
+        }
+    ],
     "wof:id":672533701,
-    "wof:lastmodified":1472625790,
+    "wof:lastmodified":1492111634,
     "wof:name":"Highland Farm",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

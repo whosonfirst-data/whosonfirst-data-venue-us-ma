@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.578563,42.557727,-71.578563,42.557727",
     "geom:latitude":42.557727,
     "geom:longitude":-71.578563,
@@ -32,17 +33,34 @@
         "agent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476323,
+        85633793,
+        85950615,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UdIv1w4IlLD46cbIFm1Ih_42.557727_-71.578563@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719470,
-    "wof:geomhash":"36889d8ad4e6978782096afa722ceb13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bde12cc8bb40404ec28ca8107679776a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476323,
+            "locality_id":85950615,
+            "region_id":85688645,
+            "venue_id":672461377
+        }
+    ],
     "wof:id":672461377,
-    "wof:lastmodified":1472625726,
+    "wof:lastmodified":1492115497,
     "wof:name":"New England Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

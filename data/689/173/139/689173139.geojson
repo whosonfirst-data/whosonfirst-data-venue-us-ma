@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.129369,42.340075,-71.129369,42.340075",
     "geom:latitude":42.340075,
     "geom:longitude":-71.129369,
@@ -48,17 +49,34 @@
         "plastics-scrap"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FGdeVbpH7sbNnQ5qgkvJF_42.340075_-71.129369@1303262228"
     },
     "wof:country":"US",
     "wof:created":1461741478,
-    "wof:geomhash":"06dfba63a97792151355efc72c4b74ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25be29589a10c95e65b65299e861181a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "region_id":85688645,
+            "venue_id":689173139
+        }
+    ],
     "wof:id":689173139,
-    "wof:lastmodified":1472625541,
+    "wof:lastmodified":1492100028,
     "wof:name":"Mediclear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

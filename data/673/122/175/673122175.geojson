@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.908127,42.225957,-71.908127,42.225957",
     "geom:latitude":42.225957,
     "geom:longitude":-71.908127,
@@ -32,17 +33,26 @@
         "erectors"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WdlnZai6XVLeqRXF9c46W_42.225957_-71.908127@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734239,
-    "wof:geomhash":"494c88ac48ad2ce42f37ae23ff7a118d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40467ece15f696414ccaf1454bb50880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":673122175
+        }
+    ],
     "wof:id":673122175,
-    "wof:lastmodified":1472625336,
+    "wof:lastmodified":1492104011,
     "wof:name":"Smith Steel Erectors",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

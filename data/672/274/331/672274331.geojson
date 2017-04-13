@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.895724,41.654453,-70.895724,41.654453",
     "geom:latitude":41.654453,
     "geom:longitude":-70.895724,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ihgsYv2zB9FmRbNaEHcCB_41.654453_-70.895724@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715079,
-    "wof:geomhash":"99688bec9a6129edebe163804adbccc6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80125344f997fe21e53972a070c27f69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672274331
+        }
+    ],
     "wof:id":672274331,
-    "wof:lastmodified":1472625418,
+    "wof:lastmodified":1492105750,
     "wof:name":"Northern Power & Controls",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

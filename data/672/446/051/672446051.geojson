@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.912495,42.734992,-70.912495,42.734992",
     "geom:latitude":42.734992,
     "geom:longitude":-70.912495,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523475,
+        85688645,
         85821743,
         102084463
     ],
@@ -43,8 +45,13 @@
     },
     "wof:country":"US",
     "wof:created":1461719076,
-    "wof:geomhash":"ed3cc4283977b576a2749bdfe265c2e7",
+    "wof:geomhash":"430c67f45f897d7def7874af11cb67d5",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672446051
+        },
         {
             "country_id":85633793,
             "county_id":102084463,
@@ -54,9 +61,9 @@
         }
     ],
     "wof:id":672446051,
-    "wof:lastmodified":1472625708,
+    "wof:lastmodified":1492117671,
     "wof:name":"Royal Green Tree Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

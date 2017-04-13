@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.766674,41.886742,-70.766674,41.886742",
     "geom:latitude":41.886742,
     "geom:longitude":-70.766674,
@@ -33,17 +34,26 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HM9iCqqpGIK5uVW653h2N_41.886742_-70.766674@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722967,
-    "wof:geomhash":"0a283443c55b3a54c11c9d4b2d1be3d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd634725bcf7d506cdd906391691e353",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672615685
+        }
+    ],
     "wof:id":672615685,
-    "wof:lastmodified":1472625868,
+    "wof:lastmodified":1492111489,
     "wof:name":"Pine Tree Village Family Comm",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

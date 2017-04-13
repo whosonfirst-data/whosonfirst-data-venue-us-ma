@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.566229,41.450756,-70.566229,41.450756",
     "geom:latitude":41.450756,
     "geom:longitude":-70.566229,
@@ -31,8 +32,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85853939,
-        102084629
+        85829027,
+        102084629,
+        85853939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +42,15 @@
     },
     "wof:country":"US",
     "wof:created":1461722440,
-    "wof:geomhash":"06f1188d24ec24266bfa215687074920",
+    "wof:geomhash":"001623067c1864d37300aa92ad5d34eb",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084629,
+            "neighbourhood_id":85829027,
+            "region_id":85688645,
+            "venue_id":672593519
+        },
         {
             "country_id":85633793,
             "county_id":102084629,
@@ -51,9 +60,9 @@
         }
     ],
     "wof:id":672593519,
-    "wof:lastmodified":1472625848,
+    "wof:lastmodified":1492112946,
     "wof:name":"Martha's Vineyard Sound",
-    "wof:parent_id":85853939,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

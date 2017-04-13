@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.801197,41.911302,-70.801197,41.911302",
     "geom:latitude":41.911302,
     "geom:longitude":-70.801197,
@@ -33,17 +34,26 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5spKEEPGIidTrMoaocW17N_41.911302_-70.801197@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714740,
-    "wof:geomhash":"c7380985c45d214ed180a9601bfcb5a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"745717b7f1bb73d0ae106f676c626460",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672256659
+        }
+    ],
     "wof:id":672256659,
-    "wof:lastmodified":1472625367,
+    "wof:lastmodified":1492107471,
     "wof:name":"Mental Retardation Dept",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

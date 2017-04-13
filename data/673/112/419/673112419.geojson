@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.231485,42.591873,-72.231485,42.591873",
     "geom:latitude":42.591873,
     "geom:longitude":-72.231485,
@@ -37,17 +38,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476527,
+        85633793,
+        85950709,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eVX0pshwCtSaeXhu1zSJn_42.591873_-72.231485@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734027,
-    "wof:geomhash":"0b5fedbbb302170e48bc3cc4d92671d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fc4c172a671f890e97427d0da820afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476527,
+            "locality_id":85950709,
+            "region_id":85688645,
+            "venue_id":673112419
+        }
+    ],
     "wof:id":673112419,
-    "wof:lastmodified":1472625301,
+    "wof:lastmodified":1492103729,
     "wof:name":"Athol Spirits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

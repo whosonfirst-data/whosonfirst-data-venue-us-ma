@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.946694,41.843174,-70.946694,41.843174",
     "geom:latitude":41.843174,
     "geom:longitude":-70.946694,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1j5G21rduK8mL4o2exVv9T_41.843174_-70.946694@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719922,
-    "wof:geomhash":"7b7e0e56ecc31dd67e794701dbe6e658",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bafa227576ed5cf03db769472c39816",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523969,
+            "venue_id":672479255
+        }
+    ],
     "wof:id":672479255,
-    "wof:lastmodified":1472625737,
+    "wof:lastmodified":1492106898,
     "wof:name":"Gerald F Masaitis DDS",
     "wof:parent_id":420523969,
     "wof:placetype":"venue",

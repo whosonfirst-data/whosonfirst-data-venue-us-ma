@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.779758,42.217186,-71.779758,42.217186",
     "geom:latitude":42.217186,
     "geom:longitude":-71.779758,
@@ -32,17 +33,26 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524205
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0R36iZeRMLC7oBjFD7TZwQ_42.217186_-71.779758@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720950,
-    "wof:geomhash":"31c63302732cce93cb4ece03d53daeb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d659d23bc9adb1fe0385a8ae2a2f95c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524205,
+            "venue_id":672525181
+        }
+    ],
     "wof:id":672525181,
-    "wof:lastmodified":1472625774,
+    "wof:lastmodified":1492109217,
     "wof:name":"Bouley's Waterbed Moving & Svc",
     "wof:parent_id":420524205,
     "wof:placetype":"venue",

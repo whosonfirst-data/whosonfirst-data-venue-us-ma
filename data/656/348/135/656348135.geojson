@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.832076,41.949547,-70.832076,41.949547",
     "geom:latitude":41.949547,
     "geom:longitude":-70.832076,
@@ -31,17 +32,26 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ig5ZcWRdJijdpO9sphc0m_41.949547_-70.832076@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461710918,
-    "wof:geomhash":"eb5ad5d51b383d909a77f54aaea048f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"baf27c8becd4207a3edbcd93040d4bca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523907,
+            "venue_id":656348135
+        }
+    ],
     "wof:id":656348135,
-    "wof:lastmodified":1472624901,
+    "wof:lastmodified":1492101712,
     "wof:name":"Land Cleaning Co",
     "wof:parent_id":420523907,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.58581,42.477863,-71.58581,42.477863",
     "geom:latitude":42.477863,
     "geom:longitude":-71.58581,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
-        85809037,
-        102084655
+        420524143,
+        85688645,
+        85950627,
+        102084655,
+        85824179,
+        85809037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +44,21 @@
     },
     "wof:country":"US",
     "wof:created":1461724009,
-    "wof:geomhash":"ef3dc719684b60aad8757c3c40c5c8cd",
+    "wof:geomhash":"8e9fa19311306d291f581f0271469d70",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672662833
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "locality_id":85950627,
+            "neighbourhood_id":85824179,
+            "region_id":85688645,
+            "venue_id":672662833
+        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -51,9 +68,9 @@
         }
     ],
     "wof:id":672662833,
-    "wof:lastmodified":1472625912,
+    "wof:lastmodified":1492114589,
     "wof:name":"Virginia Thurston Healing Gdn",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

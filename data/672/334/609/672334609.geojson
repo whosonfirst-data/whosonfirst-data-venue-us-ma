@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.738958,42.03062,-70.738958,42.03062",
     "geom:latitude":42.03062,
     "geom:longitude":-70.738958,
@@ -32,17 +33,26 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ISB2ml6ztC8pI2d8U5YWD_42.030620_-70.738958@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716328,
-    "wof:geomhash":"0f1630ac7065593389d0b18663a248f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d194eac00a3486119eda7b8db2f42bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":672334609
+        }
+    ],
     "wof:id":672334609,
-    "wof:lastmodified":1472625568,
+    "wof:lastmodified":1492115840,
     "wof:name":"Allerton House",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

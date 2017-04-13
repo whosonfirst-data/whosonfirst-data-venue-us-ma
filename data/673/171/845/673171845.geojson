@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.954164,42.745282,-70.954164,42.745282",
     "geom:latitude":42.745282,
     "geom:longitude":-70.954164,
@@ -34,17 +35,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hEvl3WWS9RbROPpAUiJrp_42.745282_-70.954164@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735264,
-    "wof:geomhash":"0ce101377a4d15ee4a65602af119b3ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aba914d928e6cd5274d6425f0802d8ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673171845
+        }
+    ],
     "wof:id":673171845,
-    "wof:lastmodified":1472625478,
+    "wof:lastmodified":1492103719,
     "wof:name":"Winslow Don Auto Body",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.906242,42.194527,-71.906242,42.194527",
     "geom:latitude":42.194527,
     "geom:longitude":-71.906242,
@@ -32,17 +33,26 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2R5IMoBeavBmiAo58LCfc9_42.194527_-71.906242@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713141,
-    "wof:geomhash":"b43551c98cfceda88c0da8d6c4bbee81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e9b84f0b7304e64a20fd0f91dbaf057",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":672181017
+        }
+    ],
     "wof:id":672181017,
-    "wof:lastmodified":1472625061,
+    "wof:lastmodified":1492115689,
     "wof:name":"DPM Bookkeeping Acctg & Tax",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

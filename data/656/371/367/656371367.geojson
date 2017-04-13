@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.902488,41.694037,-70.902488,41.694037",
     "geom:latitude":41.694037,
     "geom:longitude":-70.902488,
@@ -33,17 +34,26 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2n19RDOysUNWL9qUjMS4i0_41.694037_-70.902488@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711406,
-    "wof:geomhash":"98040a09e8fb91f590a8f411c6db1e9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf7a673780366962ecce56d8d05bc568",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":656371367
+        }
+    ],
     "wof:id":656371367,
-    "wof:lastmodified":1472624980,
+    "wof:lastmodified":1492101406,
     "wof:name":"Pimental John Sons Crane Serv",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.237223,42.0344,-71.237223,42.0344",
     "geom:latitude":42.0344,
     "geom:longitude":-71.237223,
@@ -29,19 +30,32 @@
     "sg:province":"MA",
     "sg:website":"http://www.axeda.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85820489,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HXrRfDlo28I95UbbCIiPe_42.034400_-71.237223@1308186497"
     },
     "wof:country":"US",
     "wof:created":1461742613,
-    "wof:geomhash":"f8e10923c6a5bbfcad092d77e07e6bf4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffdd284bc7f93b49a23016c61ee9c732",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85820489,
+            "region_id":85688645,
+            "venue_id":689226013
+        }
+    ],
     "wof:id":689226013,
-    "wof:lastmodified":1472625633,
+    "wof:lastmodified":1492100760,
     "wof:name":"Axeda",
-    "wof:parent_id":-1,
+    "wof:parent_id":85820489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

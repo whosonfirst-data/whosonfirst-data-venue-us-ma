@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.556427,41.457029,-70.556427,41.457029",
     "geom:latitude":41.457029,
     "geom:longitude":-70.556427,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85824133,
-        102084629
+        102084629,
+        85853939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461716946,
-    "wof:geomhash":"2ed5e3c2bf30c6861a06d51abd0e3f86",
+    "wof:geomhash":"98c65ac57ad18722a87941d5abcaf097",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,19 @@
             "neighbourhood_id":85824133,
             "region_id":85688645,
             "venue_id":672358453
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084629,
+            "neighbourhood_id":85853939,
+            "region_id":85688645,
+            "venue_id":672358453
         }
     ],
     "wof:id":672358453,
-    "wof:lastmodified":1472625622,
+    "wof:lastmodified":1492113133,
     "wof:name":"Oak Bluffs Police Dept",
-    "wof:parent_id":85824133,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

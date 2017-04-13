@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.433722,42.521687,-71.433722,42.521687",
     "geom:latitude":42.521687,
     "geom:longitude":-71.433722,
@@ -36,7 +37,8 @@
         85633793,
         85950641,
         102084643,
-        85688645
+        85688645,
+        85840657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461742585,
-    "wof:geomhash":"4ef59c4a56baa5f0d6d510cba8724cdd",
+    "wof:geomhash":"35246a8634b3a971dadd544383c3a423",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,19 @@
             "neighbourhood_id":85831043,
             "region_id":85688645,
             "venue_id":689224619
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85840657,
+            "region_id":85688645,
+            "venue_id":689224619
         }
     ],
     "wof:id":689224619,
-    "wof:lastmodified":1472625625,
+    "wof:lastmodified":1492097812,
     "wof:name":"Azuki Systems",
-    "wof:parent_id":85831043,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

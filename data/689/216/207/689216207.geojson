@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.908341,41.731113,-70.908341,41.731113",
     "geom:latitude":41.731113,
     "geom:longitude":-70.908341,
@@ -33,17 +34,26 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Px7XRMFpS7ygMyFE1p6Ty_41.731113_-70.908341@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742385,
-    "wof:geomhash":"533d8e500737d5cdf9e5a3cf1d62a1af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"730591fdaf28e77fefa074aac965dcf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":689216207
+        }
+    ],
     "wof:id":689216207,
-    "wof:lastmodified":1472625611,
+    "wof:lastmodified":1492097691,
     "wof:name":"Joe Dasilva Plumbing",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.777666,42.173676,-71.777666,42.173676",
     "geom:latitude":42.173676,
     "geom:longitude":-71.777666,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85807067,
-        102084655
+        85839303,
+        102084655,
+        85807067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461718254,
-    "wof:geomhash":"1879d74787a07c8504313207bab5e266",
+    "wof:geomhash":"505fb2bfad5bbb853855791afebd9cdb",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85839303,
+            "region_id":85688645,
+            "venue_id":672413567
+        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":672413567,
-    "wof:lastmodified":1472625682,
+    "wof:lastmodified":1492116883,
     "wof:name":"S & D Spinning Mill",
-    "wof:parent_id":85807067,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

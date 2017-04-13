@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.729378,42.112996,-70.729378,42.112996",
     "geom:latitude":42.112996,
     "geom:longitude":-70.729378,
@@ -31,17 +32,26 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61pSkpVIWRyh3e28pCpOca_42.112996_-70.729378@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719672,
-    "wof:geomhash":"758cc058829eaa64cc3eec8c48048469",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31672a6f29bb2b737b9f1b0884b4d449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523925,
+            "venue_id":672469077
+        }
+    ],
     "wof:id":672469077,
-    "wof:lastmodified":1472625728,
+    "wof:lastmodified":1492119730,
     "wof:name":"Beckart Environmental Inc",
     "wof:parent_id":420523925,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.80495,42.036213,-70.80495,42.036213",
     "geom:latitude":42.036213,
     "geom:longitude":-70.80495,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05LlVzdFBOtHtBYpq68Tji_42.036213_-70.804950@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721223,
-    "wof:geomhash":"e1ef4d1865e965c091185a23e83b232a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10a1f3c7003ff872add07caca1f455c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":672538187
+        }
+    ],
     "wof:id":672538187,
-    "wof:lastmodified":1472625796,
+    "wof:lastmodified":1492106076,
     "wof:name":"Colonial Stone & Brick",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.502214,42.15094,-71.502214,42.15094",
     "geom:latitude":42.15094,
     "geom:longitude":-71.502214,
@@ -39,17 +40,34 @@
         "equipment-repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476665,
+        85633793,
+        85950733,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lPmJuTYiE0Nj4zoUEKTrh_42.150940_-71.502214@1303262189"
     },
     "wof:country":"US",
     "wof:created":1461734743,
-    "wof:geomhash":"ca698a057b7aece6c6cb99cec05ee620",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a50f512d2118638773dc0f3a30ef2461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476665,
+            "locality_id":85950733,
+            "region_id":85688645,
+            "venue_id":673147271
+        }
+    ],
     "wof:id":673147271,
-    "wof:lastmodified":1472625401,
+    "wof:lastmodified":1492104608,
     "wof:name":"Ridge Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

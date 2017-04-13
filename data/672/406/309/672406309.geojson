@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.867054,42.139224,-71.867054,42.139224",
     "geom:latitude":42.139224,
     "geom:longitude":-71.867054,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4h9yEQnWtoOk7EJ4SLHkS9_42.139224_-71.867054@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718061,
-    "wof:geomhash":"78c16f82af738550fd77684ef19a81e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba53d63ea7877276577891c995a8d246",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":672406309
+        }
+    ],
     "wof:id":672406309,
-    "wof:lastmodified":1472625670,
+    "wof:lastmodified":1492109865,
     "wof:name":"K Personnel Transport",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

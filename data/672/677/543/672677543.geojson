@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.796502,42.283853,-71.796502,42.283853",
     "geom:latitude":42.283853,
     "geom:longitude":-71.796502,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807633,
+        85881873,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85807633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461724326,
-    "wof:geomhash":"36f7805775c531d795f84f238361bd12",
+    "wof:geomhash":"ad453dbecc06ea1fde1dee4a2e886765",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85881873,
+            "region_id":85688645,
+            "venue_id":672677543
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":672677543,
-    "wof:lastmodified":1472625928,
+    "wof:lastmodified":1492118203,
     "wof:name":"Wachusett Marking Co",
-    "wof:parent_id":85807633,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

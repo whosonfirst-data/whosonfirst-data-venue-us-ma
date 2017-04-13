@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.906895,42.246106,-71.906895,42.246106",
     "geom:latitude":42.246106,
     "geom:longitude":-71.906895,
@@ -32,17 +33,26 @@
         "college"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s8ez19BubrSFQzol0MrMd_42.246668_-71.907002@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732747,
-    "wof:geomhash":"2ed80a3dbd7b15ef43721f22bb43fce8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a18c5d49a301dba62638115e06101070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":673049453
+        }
+    ],
     "wof:id":673049453,
-    "wof:lastmodified":1472625089,
+    "wof:lastmodified":1492103928,
     "wof:name":"Becker College Bookstore #493",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

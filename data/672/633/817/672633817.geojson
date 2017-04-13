@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.732161,42.059472,-70.732161,42.059472",
     "geom:latitude":42.059472,
     "geom:longitude":-70.732161,
@@ -31,17 +32,26 @@
         "yarn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NliUnkAjN6hkTuug9HmpU_42.059472_-70.732161@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723367,
-    "wof:geomhash":"a41bdd5cf8591c0443826d568fc42211",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f43865e278052577ad4a3726e5c676f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523943,
+            "venue_id":672633817
+        }
+    ],
     "wof:id":672633817,
-    "wof:lastmodified":1472625887,
+    "wof:lastmodified":1492112483,
     "wof:name":"KATZ Yarn Sales",
     "wof:parent_id":420523943,
     "wof:placetype":"venue",

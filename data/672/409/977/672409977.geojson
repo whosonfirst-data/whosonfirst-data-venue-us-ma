@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.619699,41.629688,-70.619699,41.629688",
     "geom:latitude":41.629688,
     "geom:longitude":-70.619699,
@@ -28,17 +29,26 @@
     "sg:postcode":"02556",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bTq94q0QgwuK7vsnUmhow_41.629688_-70.619699@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718152,
-    "wof:geomhash":"2e2566f0757ceb4e782b2b13e36907a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b1c4285e189260c8fc827af35b6bcfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672409977
+        }
+    ],
     "wof:id":672409977,
-    "wof:lastmodified":1472625682,
+    "wof:lastmodified":1492116669,
     "wof:name":"Tea Room",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

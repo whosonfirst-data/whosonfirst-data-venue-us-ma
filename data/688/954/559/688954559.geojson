@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.127853,42.123779,-71.127853,42.123779",
     "geom:latitude":42.123779,
     "geom:longitude":-71.127853,
@@ -31,17 +32,26 @@
         "welcome"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lgiNWAbAQRbJOtlnc5HdX_42.123779_-71.127853@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736336,
-    "wof:geomhash":"75becbfad96636c6c57e58653c00957c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34c469c79278de0cc29093d1ec710516",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688954559
+        }
+    ],
     "wof:id":688954559,
-    "wof:lastmodified":1472625163,
+    "wof:lastmodified":1492120880,
     "wof:name":"Welcome Wagon",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

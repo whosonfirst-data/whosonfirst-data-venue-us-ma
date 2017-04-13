@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.207828,42.454648,-73.207828,42.454648",
     "geom:latitude":42.454648,
     "geom:longitude":-73.207828,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85811957,
+        102191575,
+        404476123,
         85633793,
         85950325,
         102084369,
-        85811957
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1461721430,
-    "wof:geomhash":"c711cbb3ea9aea2516a2a5af232c659a",
+    "wof:geomhash":"7ddad0b0be45fd4037ad14ee5eb4f011",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084369,
+            "localadmin_id":404476123,
             "locality_id":85950325,
             "neighbourhood_id":85811957,
             "region_id":85688645,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":672548385,
-    "wof:lastmodified":1472625814,
+    "wof:lastmodified":1492118097,
     "wof:name":"Weatherization Svc",
     "wof:parent_id":85811957,
     "wof:placetype":"venue",

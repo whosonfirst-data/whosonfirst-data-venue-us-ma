@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.899465,41.722626,-70.899465,41.722626",
     "geom:latitude":41.722626,
     "geom:longitude":-70.899465,
@@ -37,17 +38,26 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jkmwd7LeVptvxRtnXOeHh_41.722626_-70.899465@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742382,
-    "wof:geomhash":"3ef7b26c26787de1c2a9cbb718cce606",
-    "wof:hierarchy":[],
+    "wof:geomhash":"456b811025c569abd196f68a37348d5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":689216043
+        }
+    ],
     "wof:id":689216043,
-    "wof:lastmodified":1472625601,
+    "wof:lastmodified":1492097712,
     "wof:name":"Resendes Realty",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

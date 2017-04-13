@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.324312,42.064552,-73.324312,42.064552",
     "geom:latitude":42.064552,
     "geom:longitude":-73.324312,
@@ -28,17 +29,26 @@
     "sg:postcode":"01257",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UcaX8UWsVsJb9p59jH2SQ_42.064552_-73.324312@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714733,
-    "wof:geomhash":"63be8f69df33f141b8c24417dc7d7543",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac918b48188c34b719a40e64de224b23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672256343
+        }
+    ],
     "wof:id":672256343,
-    "wof:lastmodified":1472625351,
+    "wof:lastmodified":1492107472,
     "wof:name":"Ward Farm",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

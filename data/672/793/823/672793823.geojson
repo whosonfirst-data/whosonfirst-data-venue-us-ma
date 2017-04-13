@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.890518,42.215433,-70.890518,42.215433",
     "geom:latitude":42.215433,
     "geom:longitude":-70.890518,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bQKIAFIyuWBw2l4zQ8XB9_42.215433_-70.890518@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726860,
-    "wof:geomhash":"eb7d519afbb7f378613accfbd572fd9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32996153d7ae2a51a814965eb8c3c372",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523905,
+            "venue_id":672793823
+        }
+    ],
     "wof:id":672793823,
-    "wof:lastmodified":1472626030,
+    "wof:lastmodified":1492113403,
     "wof:name":"Brunelli Electric Corp",
     "wof:parent_id":420523905,
     "wof:placetype":"venue",

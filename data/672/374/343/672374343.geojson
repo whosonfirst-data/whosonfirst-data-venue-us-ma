@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.547052,42.384921,-71.547052,42.384921",
     "geom:latitude":42.384921,
     "geom:longitude":-71.547052,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ld7M79w1BArXyGDWs99bU_42.384921_-71.547052@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717303,
-    "wof:geomhash":"2f92e8dea50ee091a2df468c28045b01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75a0f6009e22e55f3386029e35d88b7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672374343
+        }
+    ],
     "wof:id":672374343,
-    "wof:lastmodified":1472625645,
+    "wof:lastmodified":1492114609,
     "wof:name":"Precious Moments Preschool",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

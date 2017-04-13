@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.550173,42.371182,-71.550173,42.371182",
     "geom:latitude":42.371182,
     "geom:longitude":-71.550173,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m2vS01eAE68CrIbTMfeYY_42.371182_-71.550173@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722642,
-    "wof:geomhash":"abf9a76cf4c6fead140fb50e95250069",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7201bfef6d9dffc500d135563958fabd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672601727
+        }
+    ],
     "wof:id":672601727,
-    "wof:lastmodified":1472625856,
+    "wof:lastmodified":1492118573,
     "wof:name":"M & M Stone Masonry",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.94413,41.751275,-70.94413,41.751275",
     "geom:latitude":41.751275,
     "geom:longitude":-70.94413,
@@ -31,17 +32,26 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04cQvachyJZWXdjlsjskM3_41.751275_-70.944130@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716756,
-    "wof:geomhash":"1f85d0c49b763d49db22138fc58c19ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bcb478dc27c45b9c6d2907b7c80f337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523297,
+            "venue_id":672350215
+        }
+    ],
     "wof:id":672350215,
-    "wof:lastmodified":1472625597,
+    "wof:lastmodified":1492111231,
     "wof:name":"Woodland Animal Clinic",
     "wof:parent_id":420523297,
     "wof:placetype":"venue",

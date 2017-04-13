@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.364539,41.907214,-71.364539,41.907214",
     "geom:latitude":41.907214,
     "geom:longitude":-71.364539,
@@ -41,11 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85803891,
+        102191575,
+        404476165,
         85633793,
         85950363,
         102084407,
-        85803891
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +56,13 @@
     },
     "wof:country":"US",
     "wof:created":1461742327,
-    "wof:geomhash":"8aad3d1a0f57dda30e2f88101c90676f",
+    "wof:geomhash":"4e1a7c8d988823cd370c6fa7c2bababb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084407,
+            "localadmin_id":404476165,
             "locality_id":85950363,
             "neighbourhood_id":85803891,
             "region_id":85688645,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":689213449,
-    "wof:lastmodified":1472625605,
+    "wof:lastmodified":1492098484,
     "wof:name":"Southern New England Surgery Center",
     "wof:parent_id":85803891,
     "wof:placetype":"venue",

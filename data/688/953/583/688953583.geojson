@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.102371,42.135249,-71.102371,42.135249",
     "geom:latitude":42.135249,
     "geom:longitude":-71.102371,
@@ -32,17 +33,26 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oafwrhTr6jxuZa1BR5rid_42.135249_-71.102371@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736319,
-    "wof:geomhash":"508959ff145a263ebce2fc27fc66809d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"571ddd80dabc450dc8c41d1880bfdf26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688953583
+        }
+    ],
     "wof:id":688953583,
-    "wof:lastmodified":1472625158,
+    "wof:lastmodified":1492120223,
     "wof:name":"Easy Apps Mortgage",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

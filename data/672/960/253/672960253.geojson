@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.437113,42.29636,-71.437113,42.29636",
     "geom:latitude":42.29636,
     "geom:longitude":-71.437113,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820523,
+        85891323,
         102191575,
         404476489,
         85633793,
         85950629,
         102084643,
-        85688645
+        85688645,
+        85820523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461730437,
-    "wof:geomhash":"ab8a4f44842f448c2c0de86e2c0955ee",
+    "wof:geomhash":"2bd730ac90d6c1cccfe7c02b5d7b9c63",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476489,
+            "locality_id":85950629,
+            "neighbourhood_id":85891323,
+            "region_id":85688645,
+            "venue_id":672960253
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672960253,
-    "wof:lastmodified":1472626168,
+    "wof:lastmodified":1492110090,
     "wof:name":"Gatepost Newspaper",
-    "wof:parent_id":85820523,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

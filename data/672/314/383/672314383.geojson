@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.978135,41.791402,-70.978135,41.791402",
     "geom:latitude":41.791402,
     "geom:longitude":-70.978135,
@@ -31,19 +32,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85824587,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SpXbCMgzVrCFBuia8yKIx_41.791402_-70.978135@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715901,
-    "wof:geomhash":"f25937e42cdb244d6d4afe475a167acd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa67080b6d7d82e6dc3b2b2aa6b7443b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85824587,
+            "region_id":85688645,
+            "venue_id":672314383
+        }
+    ],
     "wof:id":672314383,
-    "wof:lastmodified":1472625522,
+    "wof:lastmodified":1492106088,
     "wof:name":"Honey Taste Learning Center",
-    "wof:parent_id":420523887,
+    "wof:parent_id":85824587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

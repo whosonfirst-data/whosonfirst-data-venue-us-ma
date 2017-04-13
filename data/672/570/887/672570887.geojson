@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.914339,42.174351,-70.914339,42.174351",
     "geom:latitude":42.174351,
     "geom:longitude":-70.914339,
@@ -35,6 +36,8 @@
     "wof:belongsto":[
         85688645,
         85633793,
+        85819303,
+        102084367,
         85950427,
         102084403,
         85891513
@@ -45,8 +48,15 @@
     },
     "wof:country":"US",
     "wof:created":1461721931,
-    "wof:geomhash":"f13884ce2a7bdc7e8cf955b5c04581c8",
+    "wof:geomhash":"061a3b548a6161242f8911faa08347e3",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85819303,
+            "region_id":85688645,
+            "venue_id":672570887
+        },
         {
             "country_id":85633793,
             "county_id":102084403,
@@ -57,9 +67,9 @@
         }
     ],
     "wof:id":672570887,
-    "wof:lastmodified":1472625837,
+    "wof:lastmodified":1492108248,
     "wof:name":"Mc Cusker Gill Inc",
-    "wof:parent_id":85891513,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

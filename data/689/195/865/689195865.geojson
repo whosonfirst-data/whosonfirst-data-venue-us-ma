@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.456207,41.6689,-70.456207,41.6689",
     "geom:latitude":41.6689,
     "geom:longitude":-70.456207,
@@ -32,17 +33,26 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cmUiKmF0JHDZdhHXQt330_41.668900_-70.456207@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741960,
-    "wof:geomhash":"a1dbd05cc7b349d135ae92325d492357",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dcda20f54a997a1f7898745107c22d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":689195865
+        }
+    ],
     "wof:id":689195865,
-    "wof:lastmodified":1472625612,
+    "wof:lastmodified":1492100294,
     "wof:name":"Ackerman Consulting",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

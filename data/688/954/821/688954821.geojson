@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101962,42.125639,-71.101962,42.125639",
     "geom:latitude":42.125639,
     "geom:longitude":-71.101962,
@@ -49,17 +50,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L2iQX4G5MNtIB2DNfjU4r_42.125639_-71.101962@1303262200"
     },
     "wof:country":"US",
     "wof:created":1461736340,
-    "wof:geomhash":"c53cb631a8fae061aa5189f15b338f58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58c53b130ff933c648bbdc9f000b9540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688954821
+        }
+    ],
     "wof:id":688954821,
-    "wof:lastmodified":1472625178,
+    "wof:lastmodified":1492120877,
     "wof:name":"Planet Satellite",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

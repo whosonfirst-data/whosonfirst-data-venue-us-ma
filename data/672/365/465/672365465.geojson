@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.396512,42.647742,-71.396512,42.647742",
     "geom:latitude":42.647742,
     "geom:longitude":-71.396512,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04HJJ0rrjrR3fHN4Vekad9_42.647742_-71.396512@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717099,
-    "wof:geomhash":"b9648c4019b6efc0f3c359c21553b5eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6b5191625ac2b1cccbcdd225ae319d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672365465
+        }
+    ],
     "wof:id":672365465,
-    "wof:lastmodified":1472625636,
+    "wof:lastmodified":1492112864,
     "wof:name":"3 A Motors",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

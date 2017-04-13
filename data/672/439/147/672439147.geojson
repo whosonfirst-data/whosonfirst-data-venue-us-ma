@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.957058,42.144423,-71.957058,42.144423",
     "geom:latitude":42.144423,
     "geom:longitude":-71.957058,
@@ -32,17 +33,26 @@
         "lamp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sV85zC3d5SXbGQEzxbO5Z_42.144423_-71.957058@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718880,
-    "wof:geomhash":"05e42312bd0d2f2c84f9d8b0afbd3c6b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc8bf1a007aea8b638d37ea698572496",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":672439147
+        }
+    ],
     "wof:id":672439147,
-    "wof:lastmodified":1472625700,
+    "wof:lastmodified":1492119283,
     "wof:name":"Lamp Shop",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

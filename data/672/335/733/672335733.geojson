@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.717483,42.257372,-71.717483,42.257372",
     "geom:latitude":42.257372,
     "geom:longitude":-71.717483,
@@ -32,17 +33,26 @@
         "massage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cYi7CT1LqwVCy7YN29GIl_42.257372_-71.717483@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716358,
-    "wof:geomhash":"bb3d71adf9d4f20bec04fa47150d014c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c436bee59f5948ca048ed0c7e7bdf58b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":672335733
+        }
+    ],
     "wof:id":672335733,
-    "wof:lastmodified":1472625581,
+    "wof:lastmodified":1492110561,
     "wof:name":"George Demake",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

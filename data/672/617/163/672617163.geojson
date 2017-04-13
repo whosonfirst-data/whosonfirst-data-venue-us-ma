@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.206474,42.427341,-73.206474,42.427341",
     "geom:latitude":42.427341,
     "geom:longitude":-73.206474,
@@ -32,14 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
-        85859313,
-        102084369,
         85829545,
         102191575,
         404476123,
-        85950325
+        85633793,
+        85950325,
+        102084369,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461722996,
-    "wof:geomhash":"3a9f06f27198b242b0303dc1dddba6d2",
+    "wof:geomhash":"da44b7bb3bf3cc428cebf166c3a9ca4a",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084369,
-            "neighbourhood_id":85859313,
-            "region_id":85688645,
-            "venue_id":672617163
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -68,9 +61,9 @@
         }
     ],
     "wof:id":672617163,
-    "wof:lastmodified":1472625862,
+    "wof:lastmodified":1492113830,
     "wof:name":"Ljn Partnership",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

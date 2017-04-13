@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.24019,42.14732,-71.24019,42.14732",
     "geom:latitude":42.14732,
     "geom:longitude":-71.24019,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854387,
-        102191575,
-        404476599,
+        85688645,
         85633793,
         85950845,
         102084403,
-        85688645
+        85842399,
+        85854387,
+        102191575,
+        404476599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,16 @@
     },
     "wof:country":"US",
     "wof:created":1461729795,
-    "wof:geomhash":"4dab5244a886e30786d191584904898d",
+    "wof:geomhash":"256ec6d4efe44d8aa80ea6b9d6594132",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "locality_id":85950845,
+            "neighbourhood_id":85842399,
+            "region_id":85688645,
+            "venue_id":672936899
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +67,9 @@
         }
     ],
     "wof:id":672936899,
-    "wof:lastmodified":1472626160,
+    "wof:lastmodified":1492106803,
     "wof:name":"Fitzgerald Insurance Inc",
-    "wof:parent_id":85854387,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

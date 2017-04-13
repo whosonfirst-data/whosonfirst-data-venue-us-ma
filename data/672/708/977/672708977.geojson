@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.56876,42.382698,-71.56876,42.382698",
     "geom:latitude":42.382698,
     "geom:longitude":-71.56876,
@@ -35,7 +36,11 @@
         85688645,
         85633793,
         85891355,
-        102084643
+        102084643,
+        85891353,
+        102191575,
+        404476495,
+        85950635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461725059,
-    "wof:geomhash":"2d24d2ccd5a45d07757f48abf8d9daba",
+    "wof:geomhash":"755295e0e22d09c2b932404b149e0506",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +56,22 @@
             "neighbourhood_id":85891355,
             "region_id":85688645,
             "venue_id":672708977
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476495,
+            "locality_id":85950635,
+            "neighbourhood_id":85891353,
+            "region_id":85688645,
+            "venue_id":672708977
         }
     ],
     "wof:id":672708977,
-    "wof:lastmodified":1472625960,
+    "wof:lastmodified":1492107079,
     "wof:name":"Eskew Images",
-    "wof:parent_id":85891355,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

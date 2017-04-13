@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.10352,42.12358,-71.10352,42.12358",
     "geom:latitude":42.12358,
     "geom:longitude":-71.10352,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BNbYYwH6uPAWDfPThibZV_42.123580_-71.103520@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729106,
-    "wof:geomhash":"2907eb4a17afce348ef5141236df39b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58e3fea6ce48eefca0a5eee3b620152a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672904329
+        }
+    ],
     "wof:id":672904329,
-    "wof:lastmodified":1472626120,
+    "wof:lastmodified":1492105767,
     "wof:name":"Marquitte Day Care",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

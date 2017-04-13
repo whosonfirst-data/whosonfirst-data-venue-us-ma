@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.734693,42.055372,-70.734693,42.055372",
     "geom:latitude":42.055372,
     "geom:longitude":-70.734693,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14U9GLt4ah53vcJzdCub3a_42.055372_-70.734693@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716543,
-    "wof:geomhash":"ed8b6c1561aad0b55c8582e5ebe2398e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da98210cde4de1ac7da1e73001774c43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523943,
+            "venue_id":672341961
+        }
+    ],
     "wof:id":672341961,
-    "wof:lastmodified":1472625583,
+    "wof:lastmodified":1492109067,
     "wof:name":"Robert Engel Assoc",
     "wof:parent_id":420523943,
     "wof:placetype":"venue",

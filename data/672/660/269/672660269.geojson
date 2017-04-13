@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.981163,41.819113,-70.981163,41.819113",
     "geom:latitude":41.819113,
     "geom:longitude":-70.981163,
@@ -32,19 +33,38 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85824587,
+        102084367,
+        420523853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TE4jrxkswtOMBggaMVrQa_41.819113_-70.981163@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723947,
-    "wof:geomhash":"cf9ae2fc8d90e015796a48b7ef832d4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b52ab23298dfd9dbea3463b1cb9bd04c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85824587,
+            "region_id":85688645,
+            "venue_id":672660269
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523853,
+            "venue_id":672660269
+        }
+    ],
     "wof:id":672660269,
-    "wof:lastmodified":1472625901,
+    "wof:lastmodified":1492119512,
     "wof:name":"Russell E Jackson",
-    "wof:parent_id":420523853,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

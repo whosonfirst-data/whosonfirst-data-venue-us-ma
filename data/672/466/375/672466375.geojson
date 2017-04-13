@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.11641,42.618442,-73.11641,42.618442",
     "geom:latitude":42.618442,
     "geom:longitude":-73.11641,
@@ -33,17 +34,26 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MqMjmlWET41KjIhb4WBfJ_42.618442_-73.116410@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719595,
-    "wof:geomhash":"7cd559d569d10e7a30ef1a9e957e7e84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0127dcac57d1cc4d8d8629e3426ca0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672466375
+        }
+    ],
     "wof:id":672466375,
-    "wof:lastmodified":1472625730,
+    "wof:lastmodified":1492113910,
     "wof:name":"Mount Greylock Inn",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

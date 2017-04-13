@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.78529,42.218074,-70.78529,42.218074",
     "geom:latitude":42.218074,
     "geom:longitude":-70.78529,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832207,
+        85820977,
         102191575,
         404476565,
         85633793,
         85950475,
         102084367,
-        85688645
+        85688645,
+        85832207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461723757,
-    "wof:geomhash":"2716e477ac7f99c2f1a6e3c1f4fd8595",
+    "wof:geomhash":"ce53b3b6240f67767c01fce03909ef3e",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476565,
+            "locality_id":85950475,
+            "neighbourhood_id":85820977,
+            "region_id":85688645,
+            "venue_id":672652103
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":672652103,
-    "wof:lastmodified":1472625890,
+    "wof:lastmodified":1492111954,
     "wof:name":"Todd Amelang Co",
-    "wof:parent_id":85832207,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

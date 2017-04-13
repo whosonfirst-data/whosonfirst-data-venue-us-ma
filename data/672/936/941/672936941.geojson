@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.538196,41.847614,-70.538196,41.847614",
     "geom:latitude":41.847614,
     "geom:longitude":-70.538196,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85824017,
-        102084367
+        102084367,
+        85817021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461729796,
-    "wof:geomhash":"ff040f5aeca596424218974baf2ab435",
+    "wof:geomhash":"e96c61cd214899cbb3240850b5cb7ef5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,19 @@
             "neighbourhood_id":85824017,
             "region_id":85688645,
             "venue_id":672936941
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85817021,
+            "region_id":85688645,
+            "venue_id":672936941
         }
     ],
     "wof:id":672936941,
-    "wof:lastmodified":1472626160,
+    "wof:lastmodified":1492106817,
     "wof:name":"Celtic Scape & Design Inc",
-    "wof:parent_id":85824017,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

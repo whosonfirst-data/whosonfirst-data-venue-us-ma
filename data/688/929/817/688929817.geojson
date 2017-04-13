@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.891912,42.766977,-70.891912,42.766977",
     "geom:latitude":42.766977,
     "geom:longitude":-70.891912,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523473
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ddx36C5ov31cRmqzRWDll_42.766977_-70.891912@1303262196"
     },
     "wof:country":"US",
     "wof:created":1461735847,
-    "wof:geomhash":"37bf87673b26f36081cc66d8a2129c71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69004cc5de4d59b65cae2e8b2281f598",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523473,
+            "venue_id":688929817
+        }
+    ],
     "wof:id":688929817,
-    "wof:lastmodified":1472625030,
+    "wof:lastmodified":1492120633,
     "wof:name":"Integrated Contract Design",
     "wof:parent_id":420523473,
     "wof:placetype":"venue",

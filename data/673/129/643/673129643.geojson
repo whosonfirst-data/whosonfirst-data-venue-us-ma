@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.918326,42.086646,-71.918326,42.086646",
     "geom:latitude":42.086646,
     "geom:longitude":-71.918326,
@@ -32,17 +33,26 @@
         "government-county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524095
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RuybeWPaftc4gPxo9aF6p_42.086646_-71.918326@1303262187"
     },
     "wof:country":"US",
     "wof:created":1461734386,
-    "wof:geomhash":"eded63349032a80cadb9b34fa356ec60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"936b4fe260bd9adfdeca86944876b793",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524095,
+            "venue_id":673129643
+        }
+    ],
     "wof:id":673129643,
-    "wof:lastmodified":1472625369,
+    "wof:lastmodified":1492104647,
     "wof:name":"International Assoc Of Ad",
     "wof:parent_id":420524095,
     "wof:placetype":"venue",

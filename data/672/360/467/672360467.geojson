@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.063783,42.457651,-71.063783,42.457651",
     "geom:latitude":42.457651,
     "geom:longitude":-71.063783,
@@ -32,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523689,
+        85859261,
         102191575,
-        404476405,
+        404476015,
         85633793,
-        85950345,
+        85950653,
         102084643,
-        85688645
+        85688645,
+        420523689,
+        404476405,
+        85950345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,18 @@
     },
     "wof:country":"US",
     "wof:created":1461716984,
-    "wof:geomhash":"a28630bc0459a72f288aa9c4c7c38649",
+    "wof:geomhash":"a60000792ffb6ad575f7056fdd6ef2fb",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476015,
+            "locality_id":85950653,
+            "neighbourhood_id":85859261,
+            "region_id":85688645,
+            "venue_id":672360467
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +74,9 @@
         }
     ],
     "wof:id":672360467,
-    "wof:lastmodified":1472625625,
+    "wof:lastmodified":1492111253,
     "wof:name":"Melrose City Memorial Hall",
-    "wof:parent_id":420523689,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

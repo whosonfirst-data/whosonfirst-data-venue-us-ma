@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.220167,42.19628,-73.220167,42.19628",
     "geom:latitude":42.19628,
     "geom:longitude":-73.220167,
@@ -28,19 +29,34 @@
     "sg:postcode":"01264",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523239,
+        420523271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0K5DMwzQdX2eU0uum1lxs9_42.196280_-73.220167@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730063,
-    "wof:geomhash":"932595a3414118482d400ba21f07b0ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"215cabacb38a8ee096e4d13f7cf05f95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523239,
+            "venue_id":672947697
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523271,
+            "venue_id":672947697
+        }
+    ],
     "wof:id":672947697,
-    "wof:lastmodified":1472626164,
+    "wof:lastmodified":1492115150,
     "wof:name":"Green Gerry Long Term Care Ins",
-    "wof:parent_id":420523271,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

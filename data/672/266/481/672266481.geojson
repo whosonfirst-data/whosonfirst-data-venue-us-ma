@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.549998,42.229785,-71.549998,42.229785",
     "geom:latitude":42.229785,
     "geom:longitude":-71.549998,
@@ -32,19 +33,32 @@
     ],
     "sg:website":"www.mcintyreloam.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85850333,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72F0Sfll7dDyTfxUyuczLc_42.229785_-71.549998@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714934,
-    "wof:geomhash":"730030e614d54756ae3a18af21361106",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5ff44ca0a83556251f7a29fd208e920",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85850333,
+            "region_id":85688645,
+            "venue_id":672266481
+        }
+    ],
     "wof:id":672266481,
-    "wof:lastmodified":1472625396,
+    "wof:lastmodified":1492119438,
     "wof:name":"Mc Intyre Loam Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85850333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

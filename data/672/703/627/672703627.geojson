@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.246378,42.325914,-71.246378,42.325914",
     "geom:latitude":42.325914,
     "geom:longitude":-71.246378,
@@ -28,19 +29,38 @@
     "sg:postcode":"02468",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85858683,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NSluEKACZEz1QKO1yARiu_42.325914_-71.246378@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724943,
-    "wof:geomhash":"d023b48382ae02241c382ce30770dc5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"273fe1edfddbcf1130901184643a01f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "neighbourhood_id":85858683,
+            "region_id":85688645,
+            "venue_id":672703627
+        }
+    ],
     "wof:id":672703627,
-    "wof:lastmodified":1472625946,
+    "wof:lastmodified":1492110051,
     "wof:name":"Paap Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85858683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

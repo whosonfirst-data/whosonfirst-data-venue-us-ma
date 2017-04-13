@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.375528,42.632524,-71.375528,42.632524",
     "geom:latitude":42.632524,
     "geom:longitude":-71.375528,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wDMxCMabpJ8mCkZSCnilB_42.632524_-71.375528@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717736,
-    "wof:geomhash":"f4a3b3b7ae9aa2b5eebc3f76f8eee143",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5456628dc34d9525c677c04828ad6a6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672393729
+        }
+    ],
     "wof:id":672393729,
-    "wof:lastmodified":1472625669,
+    "wof:lastmodified":1492114196,
     "wof:name":"Northeast Transmission Co",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.895637,41.65821,-70.895637,41.65821",
     "geom:latitude":41.65821,
     "geom:longitude":-70.895637,
@@ -31,19 +32,28 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lJo5u1YSCBkgdo7XH7KLz_41.658210_-70.895637@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718635,
-    "wof:geomhash":"a05582ec455cdc473ce7700f82aeef05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a28f694988e8f12a2a76ea438ae95ef2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672429661
+        }
+    ],
     "wof:id":672429661,
-    "wof:lastmodified":1472625702,
+    "wof:lastmodified":1492118352,
     "wof:name":"Mattapoisett Sawmill",
-    "wof:parent_id":420558431,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

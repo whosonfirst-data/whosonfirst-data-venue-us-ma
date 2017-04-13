@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.686279,41.972961,-70.686279,41.972961",
     "geom:latitude":41.972961,
     "geom:longitude":-70.686279,
@@ -31,17 +32,32 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        85633793,
+        85950473,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YiGw4OxUsWPI1ROaWLGTE_41.972961_-70.686279@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712863,
-    "wof:geomhash":"e00520b34200e5f6171567e950785154",
-    "wof:hierarchy":[],
+    "wof:geomhash":"206d2502b893ca2851e80763cfed0f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950473,
+            "region_id":85688645,
+            "venue_id":672168173
+        }
+    ],
     "wof:id":672168173,
-    "wof:lastmodified":1472625005,
+    "wof:lastmodified":1492117614,
     "wof:name":"Patriot Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

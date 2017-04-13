@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.036731,41.971657,-71.036731,41.971657",
     "geom:latitude":41.971657,
     "geom:longitude":-71.036731,
@@ -32,17 +33,26 @@
         "org"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iFi3T9QccIuSG4U7vF8BQ_41.971657_-71.036731@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725154,
-    "wof:geomhash":"586e3adb393db93a3e935b69465a5017",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d12617f5c00506cdbd5e9032df239dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672713569
+        }
+    ],
     "wof:id":672713569,
-    "wof:lastmodified":1472625957,
+    "wof:lastmodified":1492106529,
     "wof:name":"Taunton River Watershed",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

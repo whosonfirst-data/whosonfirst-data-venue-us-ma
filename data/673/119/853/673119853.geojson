@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.91845,42.124105,-71.91845,42.124105",
     "geom:latitude":42.124105,
     "geom:longitude":-71.91845,
@@ -32,17 +33,26 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Epd82UBpOuLDe4xuESqaq_42.124105_-71.918450@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734194,
-    "wof:geomhash":"3aa6f92b7a21b78aac9e8951b579595e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdc587e671ad0c8e12d037930884bc0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":673119853
+        }
+    ],
     "wof:id":673119853,
-    "wof:lastmodified":1472625360,
+    "wof:lastmodified":1492104077,
     "wof:name":"Jill Lindgren Consulting Inc.",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

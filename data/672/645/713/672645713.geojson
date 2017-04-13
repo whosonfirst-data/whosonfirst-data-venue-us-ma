@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.714513,41.937742,-70.714513,41.937742",
     "geom:latitude":41.937742,
     "geom:longitude":-70.714513,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jy4keIjMecbWwe1nLQHPS_41.937742_-70.714513@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723623,
-    "wof:geomhash":"3b7c761b894bc19611acc6c671f19333",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd30937d8a563162cec3992a881bb76d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672645713
+        }
+    ],
     "wof:id":672645713,
-    "wof:lastmodified":1472625893,
+    "wof:lastmodified":1492110676,
     "wof:name":"One Fifteen",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

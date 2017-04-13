@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.984188,41.793982,-69.984188,41.793982",
     "geom:latitude":41.793982,
     "geom:longitude":-69.984188,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85845359,
+        102191575,
+        404476187,
         85633793,
-        85852345,
-        102084379
+        85950577,
+        102084379,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,20 +44,23 @@
     },
     "wof:country":"US",
     "wof:created":1461722123,
-    "wof:geomhash":"90251ff7f53865e0d1e9fc7229931b6b",
+    "wof:geomhash":"c4cbb5c175cda6697987f9b84bd914fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084379,
-            "neighbourhood_id":85852345,
+            "localadmin_id":404476187,
+            "locality_id":85950577,
+            "neighbourhood_id":85845359,
             "region_id":85688645,
             "venue_id":672579975
         }
     ],
     "wof:id":672579975,
-    "wof:lastmodified":1472625841,
+    "wof:lastmodified":1492112610,
     "wof:name":"Windmill Liquor & Fine Wines",
-    "wof:parent_id":85852345,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

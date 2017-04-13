@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.321877,42.304629,-71.321877,42.304629",
     "geom:latitude":42.304629,
     "geom:longitude":-71.321877,
@@ -39,7 +40,8 @@
         85633793,
         85950847,
         102084403,
-        85688645
+        85688645,
+        85816597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461725529,
-    "wof:geomhash":"09031a7c277f409dad535a55f68fd33c",
+    "wof:geomhash":"cd32adba997bbd124ae50662527dae23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,22 @@
             "neighbourhood_id":85891555,
             "region_id":85688645,
             "venue_id":672730469
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476601,
+            "locality_id":85950847,
+            "neighbourhood_id":85816597,
+            "region_id":85688645,
+            "venue_id":672730469
         }
     ],
     "wof:id":672730469,
-    "wof:lastmodified":1472625969,
+    "wof:lastmodified":1492109781,
     "wof:name":"Bernardi Honda & Volkswagen",
-    "wof:parent_id":85891555,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

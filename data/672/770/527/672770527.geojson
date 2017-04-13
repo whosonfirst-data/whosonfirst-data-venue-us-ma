@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.451523,42.025361,-71.451523,42.025361",
     "geom:latitude":42.025361,
     "geom:longitude":-71.451523,
@@ -33,17 +34,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476035,
+        85633793,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5k5YaC0cMYmDZtpEV3AZJ3_42.025361_-71.451523@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726382,
-    "wof:geomhash":"43bb38bd0326a48e93f7c1734e57e63c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31a70508be9f07cebb2dbb0db20682e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476035,
+            "region_id":85688645,
+            "venue_id":672770527
+        }
+    ],
     "wof:id":672770527,
-    "wof:lastmodified":1472626007,
+    "wof:lastmodified":1492108521,
     "wof:name":"Cool Water Pump Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.51034,41.688411,-70.51034,41.688411",
     "geom:latitude":41.688411,
     "geom:longitude":-70.51034,
@@ -31,17 +32,26 @@
         "managing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kgTXrroMyvyr1GTbT5qm9_41.688411_-70.510340@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742179,
-    "wof:geomhash":"c03b4a0fcdcab9d24367bd9fab1fab06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a248806262de7a58938f4a306784850",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":689206211
+        }
+    ],
     "wof:id":689206211,
-    "wof:lastmodified":1472625599,
+    "wof:lastmodified":1492098387,
     "wof:name":"Home Service Referrals",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

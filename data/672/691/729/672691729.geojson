@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.021755,42.016719,-71.021755,42.016719",
     "geom:latitude":42.016719,
     "geom:longitude":-71.021755,
@@ -32,17 +33,26 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36bRDIPlORDBuskFvDx2Yy_42.016719_-71.021755@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724679,
-    "wof:geomhash":"41ecbe96acae428b65cab6ab9dbdca5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b8bba6bc2a8aaad8c334d649129782e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523865,
+            "venue_id":672691729
+        }
+    ],
     "wof:id":672691729,
-    "wof:lastmodified":1472625937,
+    "wof:lastmodified":1492114628,
     "wof:name":"Wireless World Inc",
     "wof:parent_id":420523865,
     "wof:placetype":"venue",

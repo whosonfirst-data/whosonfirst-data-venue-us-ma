@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.717807,42.041233,-70.717807,42.041233",
     "geom:latitude":42.041233,
     "geom:longitude":-70.717807,
@@ -28,19 +29,34 @@
     "sg:postcode":"02332",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523943,
+        420523827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uhd1YWjVRb43Nd7nGfrtv_42.041233_-70.717807@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729846,
-    "wof:geomhash":"2136680ddce5385d86ae008453d2eb27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab07bb409b1e7a26ac82429328b69517",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523943,
+            "venue_id":672939391
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523827,
+            "venue_id":672939391
+        }
+    ],
     "wof:id":672939391,
-    "wof:lastmodified":1472626150,
+    "wof:lastmodified":1492105585,
     "wof:name":"William Lee & Assoc",
-    "wof:parent_id":420523827,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

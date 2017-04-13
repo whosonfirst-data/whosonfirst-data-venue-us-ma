@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.132115,42.338471,-71.132115,42.338471",
     "geom:latitude":42.338471,
     "geom:longitude":-71.132115,
@@ -29,17 +30,34 @@
     "sg:province":"MA",
     "sg:website":"www.physiotivity.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SDdki4RAmEuzwkhBvsII1_42.338471_-71.132115@1303262229"
     },
     "wof:country":"US",
     "wof:created":1461741571,
-    "wof:geomhash":"6afa32265b0ba321b62e96b387541a2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc7e140ac8071bba77d136a9223dd203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "region_id":85688645,
+            "venue_id":689177829
+        }
+    ],
     "wof:id":689177829,
-    "wof:lastmodified":1472625577,
+    "wof:lastmodified":1492098812,
     "wof:name":"Physiotivity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

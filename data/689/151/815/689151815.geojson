@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.032944,42.121429,-71.032944,42.121429",
     "geom:latitude":42.121429,
     "geom:longitude":-71.032944,
@@ -31,17 +32,32 @@
         "oils-fuel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476023,
+        85633793,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3R0WN8RfwMZh7utEcZxyL3_42.121429_-71.032944@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740981,
-    "wof:geomhash":"fabb6fc4a22108cbe698b318e9028741",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d584fa3e2fd94342294ad6823f2c7d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476023,
+            "region_id":85688645,
+            "venue_id":689151815
+        }
+    ],
     "wof:id":689151815,
-    "wof:lastmodified":1472625532,
+    "wof:lastmodified":1492098119,
     "wof:name":"Community Fuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

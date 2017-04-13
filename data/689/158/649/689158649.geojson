@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.703859,41.909078,-70.703859,41.909078",
     "geom:latitude":41.909078,
     "geom:longitude":-70.703859,
@@ -32,17 +33,26 @@
         "inspector"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12kwLUrrL0fuDhGxOTZm1r_41.909078_-70.703859@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741143,
-    "wof:geomhash":"92cdf1fa3987f3912f00e26e58e75913",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2006b0a360002dd532acb888b82d0ab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689158649
+        }
+    ],
     "wof:id":689158649,
-    "wof:lastmodified":1472625526,
+    "wof:lastmodified":1492099864,
     "wof:name":"Five Star Home Improvement & Home Inspections Service",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

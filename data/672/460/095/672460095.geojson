@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.873648,42.279052,-70.873648,42.279052",
     "geom:latitude":42.279052,
     "geom:longitude":-70.873648,
@@ -28,17 +29,26 @@
     "sg:postcode":"02045",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BlHOO71B5uzYrdl2z93Sx_42.279052_-70.873648@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719441,
-    "wof:geomhash":"566aeb90e2e88a906aa89210bdd74d03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b7f0fef346a14f1e5095c27463851d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523859,
+            "venue_id":672460095
+        }
+    ],
     "wof:id":672460095,
-    "wof:lastmodified":1472625720,
+    "wof:lastmodified":1492107659,
     "wof:name":"Clean N Up",
     "wof:parent_id":420523859,
     "wof:placetype":"venue",

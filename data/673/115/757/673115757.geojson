@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.008247,42.476341,-72.008247,42.476341",
     "geom:latitude":42.476341,
     "geom:longitude":-72.008247,
@@ -32,17 +33,26 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524165
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44fEfkNVNAZ4dts4yjkhwM_42.476341_-72.008247@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734101,
-    "wof:geomhash":"eae5af18da41fabcae5a0d42dbfe2105",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8b74198dae0f4ef828d7f35b00855b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524165,
+            "venue_id":673115757
+        }
+    ],
     "wof:id":673115757,
-    "wof:lastmodified":1472625358,
+    "wof:lastmodified":1492103099,
     "wof:name":"Old Parsonage Tea Room",
     "wof:parent_id":420524165,
     "wof:placetype":"venue",

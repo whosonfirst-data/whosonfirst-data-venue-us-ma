@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.979018,42.591169,-70.979018,42.591169",
     "geom:latitude":42.591169,
     "geom:longitude":-70.979018,
@@ -40,7 +41,8 @@
         85633793,
         85950789,
         102084463,
-        85688645
+        85688645,
+        85834005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461723014,
-    "wof:geomhash":"4fec19e657b6432f05c673b2654cafb8",
+    "wof:geomhash":"0a7aee4c33e20127c01946fe47ffbf55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,19 @@
             "neighbourhood_id":85808503,
             "region_id":85688645,
             "venue_id":672618057
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85834005,
+            "region_id":85688645,
+            "venue_id":672618057
         }
     ],
     "wof:id":672618057,
-    "wof:lastmodified":1472625864,
+    "wof:lastmodified":1492119118,
     "wof:name":"W A Tompkins Co",
-    "wof:parent_id":85808503,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

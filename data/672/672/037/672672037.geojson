@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.761448,42.235872,-71.761448,42.235872",
     "geom:latitude":42.235872,
     "geom:longitude":-71.761448,
@@ -35,7 +36,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85849701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461724202,
-    "wof:geomhash":"dc9672ee570503efbc9992829df7446b",
+    "wof:geomhash":"a2026ddd0d777398f3cd2eedd608ce05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,22 @@
             "neighbourhood_id":85881857,
             "region_id":85688645,
             "venue_id":672672037
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85849701,
+            "region_id":85688645,
+            "venue_id":672672037
         }
     ],
     "wof:id":672672037,
-    "wof:lastmodified":1472625914,
+    "wof:lastmodified":1492116322,
     "wof:name":"Prime Property Solutions",
-    "wof:parent_id":85881857,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

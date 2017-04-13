@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.675587,42.472113,-71.675587,42.472113",
     "geom:latitude":42.472113,
     "geom:longitude":-71.675587,
@@ -28,19 +29,38 @@
     "sg:postcode":"01523",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85819423,
+        102084655,
+        420524185
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tYADQhzbEKo3BXMZnGw5u_42.472113_-71.675587@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715903,
-    "wof:geomhash":"9d08b61be0e8805ac6ac195d3fff03fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2983cb235d584ac21d21bdaaf15fef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85819423,
+            "region_id":85688645,
+            "venue_id":672314455
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524185,
+            "venue_id":672314455
+        }
+    ],
     "wof:id":672314455,
-    "wof:lastmodified":1472625525,
+    "wof:lastmodified":1492106086,
     "wof:name":"Kennedys Antiques",
-    "wof:parent_id":420524185,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

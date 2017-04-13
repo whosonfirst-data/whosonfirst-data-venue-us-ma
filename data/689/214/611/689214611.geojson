@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.885566,41.644441,-70.885566,41.644441",
     "geom:latitude":41.644441,
     "geom:longitude":-70.885566,
@@ -23,17 +24,26 @@
     "sg:province":"MA",
     "sg:website":"http://www.wendys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ak4FECt6cNkTvX3ZdMsgD_41.644441_-70.885566@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742355,
-    "wof:geomhash":"574771f375dcdb01d46c598dc61c8c8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aea8010d026e5d4bf823e34bfa0eeefd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":689214611
+        }
+    ],
     "wof:id":689214611,
-    "wof:lastmodified":1472625621,
+    "wof:lastmodified":1492097483,
     "wof:name":"Wendy's",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

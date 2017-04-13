@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.091647,41.564464,-71.091647,41.564464",
     "geom:latitude":41.564464,
     "geom:longitude":-71.091647,
@@ -38,7 +39,8 @@
         85688645,
         85633793,
         85823799,
-        102084407
+        102084407,
+        420523293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721854,
-    "wof:geomhash":"0f125c56185117de28f4346af30d5ceb",
+    "wof:geomhash":"a21d9f239eb90838687818ece85da7bb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,17 @@
             "neighbourhood_id":85823799,
             "region_id":85688645,
             "venue_id":672567063
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672567063
         }
     ],
     "wof:id":672567063,
-    "wof:lastmodified":1472625807,
+    "wof:lastmodified":1492118229,
     "wof:name":"American Canine",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

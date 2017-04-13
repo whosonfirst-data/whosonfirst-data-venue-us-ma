@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.552276,41.818718,-70.552276,41.818718",
     "geom:latitude":41.818718,
     "geom:longitude":-70.552276,
@@ -36,17 +37,26 @@
         "british"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HD8LI16B4OSYXs8l409DW_41.818718_-70.552276@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741139,
-    "wof:geomhash":"b1f6f9c80fb98b1f44c427566db13705",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ed0f8196fd9fc390b755161bfe00ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":689158427
+        }
+    ],
     "wof:id":689158427,
-    "wof:lastmodified":1472625513,
+    "wof:lastmodified":1492099869,
     "wof:name":"British Beer Company",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

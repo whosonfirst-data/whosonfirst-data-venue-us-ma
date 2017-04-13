@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.356771,41.905967,-71.356771,41.905967",
     "geom:latitude":41.905967,
     "geom:longitude":-71.356771,
@@ -29,11 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85803891,
+        102191575,
+        404476165,
         85633793,
         85950363,
         102084407,
-        85803891
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1461727993,
-    "wof:geomhash":"d46ae195fbb78411771b34cf483d9418",
+    "wof:geomhash":"35cdaf56cb501d2c9dab3e112e0c67a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084407,
+            "localadmin_id":404476165,
             "locality_id":85950363,
             "neighbourhood_id":85803891,
             "region_id":85688645,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":672849921,
-    "wof:lastmodified":1472626084,
+    "wof:lastmodified":1492118782,
     "wof:name":"Office Max",
     "wof:parent_id":85803891,
     "wof:placetype":"venue",

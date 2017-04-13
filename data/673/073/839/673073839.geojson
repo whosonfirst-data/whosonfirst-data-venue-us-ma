@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.622779,41.618143,-70.622779,41.618143",
     "geom:latitude":41.618143,
     "geom:longitude":-70.622779,
@@ -27,17 +28,26 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6R42krPaEuU7CQbwdmh68o_41.618143_-70.622779@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461733216,
-    "wof:geomhash":"240dda1d44e2cb47fd700c0d1b0d8ecc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0dce3688a089cd486b5e5685901c27a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":673073839
+        }
+    ],
     "wof:id":673073839,
-    "wof:lastmodified":1472625198,
+    "wof:lastmodified":1492105053,
     "wof:name":"Tap Tone",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

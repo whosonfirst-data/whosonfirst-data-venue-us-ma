@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.70535,42.146817,-71.70535,42.146817",
     "geom:latitude":42.146817,
     "geom:longitude":-71.70535,
@@ -33,7 +34,8 @@
         85633793,
         85950701,
         102084655,
-        85843073
+        85843073,
+        420524081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461713643,
-    "wof:geomhash":"765a40e1a4deb21cf129aa53c243e5fd",
+    "wof:geomhash":"e187ab1ad8993557e1cc6f08e2972623",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +52,17 @@
             "neighbourhood_id":85843073,
             "region_id":85688645,
             "venue_id":672203195
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524081,
+            "venue_id":672203195
         }
     ],
     "wof:id":672203195,
-    "wof:lastmodified":1472625143,
+    "wof:lastmodified":1492108981,
     "wof:name":"Bozack Corp",
-    "wof:parent_id":85843073,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

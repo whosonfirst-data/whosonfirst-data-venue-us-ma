@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.895612,41.884172,-70.895612,41.884172",
     "geom:latitude":41.884172,
     "geom:longitude":-70.895612,
@@ -25,17 +26,26 @@
         "scale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ywTVCWIvrarGonW7J97zl_41.884172_-70.895612@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461733005,
-    "wof:geomhash":"2a8188f7f9fc63b653ad92e970339759",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d04e9f21a37b109ee71d300d318a4497",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":673062775
+        }
+    ],
     "wof:id":673062775,
-    "wof:lastmodified":1472625180,
+    "wof:lastmodified":1492104902,
     "wof:name":"Butler's Cash Register Svc",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.811921,41.941389,-70.811921,41.941389",
     "geom:latitude":41.941389,
     "geom:longitude":-70.811921,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zdreU2kG0Q12NAOsoCz26_41.941389_-70.811921@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721862,
-    "wof:geomhash":"38377f260474d439121e168c4b5e2f4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d918e28447a5c4e6ff4e8e1e4de48b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672567557
+        }
+    ],
     "wof:id":672567557,
-    "wof:lastmodified":1472625824,
+    "wof:lastmodified":1492118226,
     "wof:name":"Gander In Farm",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.390616,42.644797,-71.390616,42.644797",
     "geom:latitude":42.644797,
     "geom:longitude":-71.390616,
@@ -32,17 +33,26 @@
         "meteorological"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01dtoMNPAmOAuJNGg9sEyt_42.644797_-71.390616@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715801,
-    "wof:geomhash":"207dbb2436bbc602a7a758f640b49fb7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0189cd44c88284c74b1cd769a3d858f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672309979
+        }
+    ],
     "wof:id":672309979,
-    "wof:lastmodified":1472625534,
+    "wof:lastmodified":1492111314,
     "wof:name":"DBS Assoc",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

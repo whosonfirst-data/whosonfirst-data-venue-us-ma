@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.165386,41.873124,-71.165386,41.873124",
     "geom:latitude":41.873124,
     "geom:longitude":-71.165386,
@@ -31,17 +32,32 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476171,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KE5YZKUYiNs2glD8xRFC0_41.873124_-71.165386@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718132,
-    "wof:geomhash":"942958042dfb128a76caec172af93d14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bfbb6a1704c3d0318d5bdcf8effbb19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476171,
+            "region_id":85688645,
+            "venue_id":672409397
+        }
+    ],
     "wof:id":672409397,
-    "wof:lastmodified":1472625676,
+    "wof:lastmodified":1492116667,
     "wof:name":"New England Chemical Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

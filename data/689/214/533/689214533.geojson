@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.87986,41.65036,-70.87986,41.65036",
     "geom:latitude":41.65036,
     "geom:longitude":-70.87986,
@@ -28,17 +29,26 @@
     "sg:postcode":"02719",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Dr6wChncRlYeLceKvFpbL_41.650360_-70.879860@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742354,
-    "wof:geomhash":"95dc5bd96e2bd93da69cad59e3b6317e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09621137b8ca0931206ceb72aa0eef69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":689214533
+        }
+    ],
     "wof:id":689214533,
-    "wof:lastmodified":1472625619,
+    "wof:lastmodified":1492097493,
     "wof:name":"Southcoast Hospitals Group",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

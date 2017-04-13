@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.803788,42.051869,-72.803788,42.051869",
     "geom:latitude":42.051869,
     "geom:longitude":-72.803788,
@@ -32,17 +33,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523571
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01Ug4Y3aY1kz0TSuo2acQt_42.051869_-72.803788@1303262184"
     },
     "wof:country":"US",
     "wof:created":1461733871,
-    "wof:geomhash":"0019c6b36f09c3066e143476a72d0ac4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fde52d8a30ef22827d287bece670542f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523571,
+            "venue_id":673104719
+        }
+    ],
     "wof:id":673104719,
-    "wof:lastmodified":1472625297,
+    "wof:lastmodified":1492102769,
     "wof:name":"Choice Child Care",
     "wof:parent_id":420523571,
     "wof:placetype":"venue",

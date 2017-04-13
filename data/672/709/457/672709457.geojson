@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.884053,41.640156,-70.884053,41.640156",
     "geom:latitude":41.640156,
     "geom:longitude":-70.884053,
@@ -31,17 +32,26 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35g4PP8hW6gRVvkGcLlxAI_41.640156_-70.884053@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725068,
-    "wof:geomhash":"310e54a6ab58e1b6d235c2a089593740",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0475b48a77f1ae1003e2261dce3462e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672709457
+        }
+    ],
     "wof:id":672709457,
-    "wof:lastmodified":1472625951,
+    "wof:lastmodified":1492119739,
     "wof:name":"Town Fair Tire",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.898158,41.700811,-70.898158,41.700811",
     "geom:latitude":41.700811,
     "geom:longitude":-70.898158,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xgwPRBqRfdVE6iY5mvPAA_41.700811_-70.898158@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723410,
-    "wof:geomhash":"c31c0361144db15227923c3f2ac004e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcedcd0a4c746e623bb09010c1ff93ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672635801
+        }
+    ],
     "wof:id":672635801,
-    "wof:lastmodified":1472625892,
+    "wof:lastmodified":1492111175,
     "wof:name":"Bob Pepin Inc",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

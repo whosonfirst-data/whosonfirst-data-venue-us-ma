@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.418036,42.145072,-72.418036,42.145072",
     "geom:latitude":42.145072,
     "geom:longitude":-72.418036,
@@ -31,17 +32,36 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420523561,
+        102191575,
+        404476379,
+        85633793,
+        85950775,
+        102084627,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53Igymxg9ZvdawN2rWkHCO_42.145072_-72.418036@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720183,
-    "wof:geomhash":"fc06077d9062f453f8b02d1c7a4b4141",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5e7bb83058a442d6eb99a201ec25ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476379,
+            "locality_id":85950775,
+            "neighbourhood_id":420523561,
+            "region_id":85688645,
+            "venue_id":672490027
+        }
+    ],
     "wof:id":672490027,
-    "wof:lastmodified":1472625746,
+    "wof:lastmodified":1492113738,
     "wof:name":"Parent Co",
     "wof:parent_id":420523561,
     "wof:placetype":"venue",

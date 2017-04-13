@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.90798,41.882776,-70.90798,41.882776",
     "geom:latitude":41.882776,
     "geom:longitude":-70.90798,
@@ -32,17 +33,26 @@
         "baseball"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nCU29BM6rMZbWkwpvTlWS_41.882776_-70.907980@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719758,
-    "wof:geomhash":"df0e067a692a4d507be3c1d2f100dd5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ada7719830a7d72dea17aa94b8ceb18a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672472885
+        }
+    ],
     "wof:id":672472885,
-    "wof:lastmodified":1472625735,
+    "wof:lastmodified":1492110817,
     "wof:name":"Middleboro Little League",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

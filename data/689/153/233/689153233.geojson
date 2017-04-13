@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.775273,41.899278,-70.775273,41.899278",
     "geom:latitude":41.899278,
     "geom:longitude":-70.775273,
@@ -31,17 +32,26 @@
         "yogurt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4113VUarKxC5SD9peljN5m_41.899278_-70.775273@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741012,
-    "wof:geomhash":"b9138f7c0b78c59f5434a8db2fcd6fbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdcace807c38fb567cbcd6333abd9b13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":689153233
+        }
+    ],
     "wof:id":689153233,
-    "wof:lastmodified":1472625496,
+    "wof:lastmodified":1492097468,
     "wof:name":"Grandma Mac's",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

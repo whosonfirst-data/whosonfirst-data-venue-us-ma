@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.565529,41.9195,-70.565529,41.9195",
     "geom:latitude":41.9195,
     "geom:longitude":-70.565529,
@@ -31,8 +32,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85832139,
-        102084367
+        85843169,
+        102084367,
+        85832143,
+        85832139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +43,22 @@
     },
     "wof:country":"US",
     "wof:created":1461719239,
-    "wof:geomhash":"cb9705da7fed2a96d0d877e757581f6e",
+    "wof:geomhash":"f102e57054825bebdfe6d4f0dd50fe86",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85843169,
+            "region_id":85688645,
+            "venue_id":672452321
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85832143,
+            "region_id":85688645,
+            "venue_id":672452321
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -51,9 +68,9 @@
         }
     ],
     "wof:id":672452321,
-    "wof:lastmodified":1472625713,
+    "wof:lastmodified":1492110423,
     "wof:name":"Jamie's Grille & Pub",
-    "wof:parent_id":85832139,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

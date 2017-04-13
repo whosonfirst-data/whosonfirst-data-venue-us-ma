@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.880177,41.640966,-70.880177,41.640966",
     "geom:latitude":41.640966,
     "geom:longitude":-70.880177,
@@ -30,8 +31,9 @@
     "sg:website":"www.dressbarn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523315,
+        85688645,
         85842709,
         102084407
     ],
@@ -41,8 +43,13 @@
     },
     "wof:country":"US",
     "wof:created":1461717074,
-    "wof:geomhash":"609d7571ce19caf5b9176a638aaac6f1",
+    "wof:geomhash":"38f24bb73bed5e220566d900038bd793",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672364117
+        },
         {
             "country_id":85633793,
             "county_id":102084407,
@@ -52,9 +59,9 @@
         }
     ],
     "wof:id":672364117,
-    "wof:lastmodified":1472625633,
+    "wof:lastmodified":1492108283,
     "wof:name":"Dress Barn",
-    "wof:parent_id":85842709,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

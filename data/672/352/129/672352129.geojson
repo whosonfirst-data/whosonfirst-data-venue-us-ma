@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.56111,42.111562,-72.56111,42.111562",
     "geom:latitude":42.111562,
     "geom:longitude":-72.56111,
@@ -38,7 +39,8 @@
         85633793,
         85950393,
         102084627,
-        85688645
+        85688645,
+        85833291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461716798,
-    "wof:geomhash":"6c6060182574faa81c02a3c3d2988004",
+    "wof:geomhash":"8e757b4befe5b5daf18dd6ed7fd51045",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85853247,
             "region_id":85688645,
             "venue_id":672352129
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476369,
+            "locality_id":85950393,
+            "neighbourhood_id":85833291,
+            "region_id":85688645,
+            "venue_id":672352129
         }
     ],
     "wof:id":672352129,
-    "wof:lastmodified":1472625600,
+    "wof:lastmodified":1492118768,
     "wof:name":"Harmony Lodge",
-    "wof:parent_id":85853247,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

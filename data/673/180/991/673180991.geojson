@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.432159,42.688556,-71.432159,42.688556",
     "geom:latitude":42.688556,
     "geom:longitude":-71.432159,
@@ -38,17 +39,32 @@
     ],
     "sg:website":"http://www.usps.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476453,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HK3UhEIKj4e4M3bsJYzGW_42.688556_-71.432159@1303262194"
     },
     "wof:country":"US",
     "wof:created":1461735451,
-    "wof:geomhash":"dc02478ad948c70499b7dc4ff4685cd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27a2dc68d4fee4d56368045e25955e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476453,
+            "region_id":85688645,
+            "venue_id":673180991
+        }
+    ],
     "wof:id":673180991,
-    "wof:lastmodified":1472625531,
+    "wof:lastmodified":1492102801,
     "wof:name":"United States Postal Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

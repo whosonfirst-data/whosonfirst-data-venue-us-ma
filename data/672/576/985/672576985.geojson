@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.331599,41.994185,-71.331599,41.994185",
     "geom:latitude":41.994185,
     "geom:longitude":-71.331599,
@@ -32,17 +33,32 @@
         "sewage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476133,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XfuNZ1QAgtk9h9g5rEmx6_41.994185_-71.331599@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722058,
-    "wof:geomhash":"8b171ace6da874d8d7598b4aa5ba66d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96debd90b517bd3347416524d2779cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476133,
+            "region_id":85688645,
+            "venue_id":672576985
+        }
+    ],
     "wof:id":672576985,
-    "wof:lastmodified":1472625837,
+    "wof:lastmodified":1492116199,
     "wof:name":"N Attleboro Water Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.679499,42.078411,-70.679499,42.078411",
     "geom:latitude":42.078411,
     "geom:longitude":-70.679499,
@@ -32,17 +33,26 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33dmmLYFuVpDtzkgazWvhx_42.078411_-70.679499@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728631,
-    "wof:geomhash":"fc28bf2ef0d8e981e8719ac57e36898e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd10d4c31991cd5c1513c3ebce584327",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":672880201
+        }
+    ],
     "wof:id":672880201,
-    "wof:lastmodified":1472626096,
+    "wof:lastmodified":1492105934,
     "wof:name":"Software House",
     "wof:parent_id":420523971,
     "wof:placetype":"venue",

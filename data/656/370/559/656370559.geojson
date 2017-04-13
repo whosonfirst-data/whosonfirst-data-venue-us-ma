@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.566407,42.67991,-71.566407,42.67991",
     "geom:latitude":42.67991,
     "geom:longitude":-71.566407,
@@ -33,19 +34,28 @@
         "fitness"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0H4FeHNkW6OcY37AvKbtJM_42.679910_-71.566407@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711389,
-    "wof:geomhash":"23201b220c1e33a09f3149c8ef74aa9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f8d155e4538fb9ac6035a9ee6c34972",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523693,
+            "venue_id":656370559
+        }
+    ],
     "wof:id":656370559,
-    "wof:lastmodified":1472624960,
+    "wof:lastmodified":1492101339,
     "wof:name":"Modern Images",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

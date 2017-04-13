@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.822396,41.77644,-70.822396,41.77644",
     "geom:latitude":41.77644,
     "geom:longitude":-70.822396,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3o8N9ZwmDGT213NKcjWppp_41.776440_-70.822396@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729034,
-    "wof:geomhash":"8ab0be4d03dc8224500da2152c083695",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6783bd15971c5ce81126509e2139ecbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523991,
+            "venue_id":672900577
+        }
+    ],
     "wof:id":672900577,
-    "wof:lastmodified":1472626121,
+    "wof:lastmodified":1492112739,
     "wof:name":"Roland Grenier Builder",
     "wof:parent_id":420523991,
     "wof:placetype":"venue",

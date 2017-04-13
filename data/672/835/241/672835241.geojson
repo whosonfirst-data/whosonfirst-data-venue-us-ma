@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.375011,42.616982,-71.375011,42.616982",
     "geom:latitude":42.616982,
     "geom:longitude":-71.375011,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KWzaRl8lstaYPQpADyyUq_42.616982_-71.375011@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727699,
-    "wof:geomhash":"9fb389703ef6560ea37f1a5900fa026e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebe874a09ef51adafd9551cebcba9d33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672835241
+        }
+    ],
     "wof:id":672835241,
-    "wof:lastmodified":1472626055,
+    "wof:lastmodified":1492107957,
     "wof:name":"Atlantic Wallboard",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

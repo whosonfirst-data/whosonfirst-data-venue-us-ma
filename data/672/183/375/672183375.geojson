@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.912096,42.075705,-70.912096,42.075705",
     "geom:latitude":42.075705,
     "geom:longitude":-70.912096,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CHgBmACDParceROaetOpf_42.075705_-70.912096@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713188,
-    "wof:geomhash":"fe99007010f06ac4d3c6aeff45cb60db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a057a63e221f941f53ed3d6aaf5c9c99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523881,
+            "venue_id":672183375
+        }
+    ],
     "wof:id":672183375,
-    "wof:lastmodified":1472625089,
+    "wof:lastmodified":1492117426,
     "wof:name":"Cabral's Automotive Specialist",
     "wof:parent_id":420523881,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.858092,41.936742,-70.858092,41.936742",
     "geom:latitude":41.936742,
     "geom:longitude":-70.858092,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gctJxnhdcabNzw8jsLLnN_41.936742_-70.858092@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741075,
-    "wof:geomhash":"f2888fb8a655823ada6d437d7c3e1786",
-    "wof:hierarchy":[],
+    "wof:geomhash":"815e3f84858a7674e4ddadc4f3343949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523895,
+            "venue_id":689156003
+        }
+    ],
     "wof:id":689156003,
-    "wof:lastmodified":1472625489,
+    "wof:lastmodified":1492099227,
     "wof:name":"Andrew P Brissette",
     "wof:parent_id":420523895,
     "wof:placetype":"venue",

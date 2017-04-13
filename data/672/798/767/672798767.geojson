@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.071516,42.439493,-71.071516,42.439493",
     "geom:latitude":42.439493,
     "geom:longitude":-71.071516,
@@ -38,7 +39,8 @@
         85633793,
         85950349,
         102084643,
-        85688645
+        85688645,
+        85819087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461726954,
-    "wof:geomhash":"159d76970bc01fad3912bac7f347759e",
+    "wof:geomhash":"94997878e7bb4e2366505d20c4277f25",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85838705,
             "region_id":85688645,
             "venue_id":672798767
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476399,
+            "locality_id":85950349,
+            "neighbourhood_id":85819087,
+            "region_id":85688645,
+            "venue_id":672798767
         }
     ],
     "wof:id":672798767,
-    "wof:lastmodified":1472626037,
+    "wof:lastmodified":1492108591,
     "wof:name":"Embroiderers Limited",
-    "wof:parent_id":85838705,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

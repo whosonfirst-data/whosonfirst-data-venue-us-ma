@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.75433,41.943388,-70.75433,41.943388",
     "geom:latitude":41.943388,
     "geom:longitude":-70.75433,
@@ -31,17 +32,26 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nMeTwbS5bNCmLpdSuLR8s_41.943388_-70.754330@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726656,
-    "wof:geomhash":"187ee79715543caf1617861bbb4606f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19b02e796b4d56a3bd02dcc3477620d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672783929
+        }
+    ],
     "wof:id":672783929,
-    "wof:lastmodified":1472626024,
+    "wof:lastmodified":1492116836,
     "wof:name":"Clean & Charp",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.511976,42.665099,-72.511976,42.665099",
     "geom:latitude":42.665099,
     "geom:longitude":-72.511976,
@@ -38,17 +39,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523521
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iNtQWdXAsJMbVn0AghDwj_42.665099_-72.511976@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717649,
-    "wof:geomhash":"0b48b691d712b8e42221478b6b597be2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b4813d5951cc99e02fb627ffbed9869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523521,
+            "venue_id":672389835
+        }
+    ],
     "wof:id":672389835,
-    "wof:lastmodified":1472625663,
+    "wof:lastmodified":1492115156,
     "wof:name":"Bernardston Auto Wrecking Co",
     "wof:parent_id":420523521,
     "wof:placetype":"venue",

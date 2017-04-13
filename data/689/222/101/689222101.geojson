@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.241322,41.742235,-71.241322,41.742235",
     "geom:latitude":41.742235,
     "geom:longitude":-71.241322,
@@ -34,17 +35,26 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aJ8KTQjfVjbP6umSQV0bz_41.742235_-71.241322@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742529,
-    "wof:geomhash":"99f354f41b3e534e70112e29d2c6d8d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef2a324bfa7230205f47c5ae45a65217",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":689222101
+        }
+    ],
     "wof:id":689222101,
-    "wof:lastmodified":1472625614,
+    "wof:lastmodified":1492100193,
     "wof:name":"J Dolan",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

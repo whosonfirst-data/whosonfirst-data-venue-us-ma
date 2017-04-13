@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.80908,42.215984,-70.80908,42.215984",
     "geom:latitude":42.215984,
     "geom:longitude":-70.80908,
@@ -28,19 +29,32 @@
     "sg:postcode":"02025",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85806299,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ilhZY9QosruZMj1cbCucr_42.215984_-70.809080@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730805,
-    "wof:geomhash":"564b8ff0c04ee917a8480ed08a1c1f3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6923fcb6572f7c7ebdbe6c851000e71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85806299,
+            "region_id":85688645,
+            "venue_id":672971753
+        }
+    ],
     "wof:id":672971753,
-    "wof:lastmodified":1472626184,
+    "wof:lastmodified":1492105881,
     "wof:name":"Patriot Cinemas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85806299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

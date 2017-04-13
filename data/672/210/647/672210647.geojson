@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.767358,42.42571,-71.767358,42.42571",
     "geom:latitude":42.42571,
     "geom:longitude":-71.767358,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68nnyd8In9gOfdP5SUzEAd_42.425710_-71.767358@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713781,
-    "wof:geomhash":"ba652bc68be593bcb553d8eae31e3d1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f5b4dd45b976cb1a56021accb0ea9f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":672210647
+        }
+    ],
     "wof:id":672210647,
-    "wof:lastmodified":1472625213,
+    "wof:lastmodified":1492108896,
     "wof:name":"North Quabbin Builders",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

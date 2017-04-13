@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.915587,42.209075,-71.915587,42.209075",
     "geom:latitude":42.209075,
     "geom:longitude":-71.915587,
@@ -41,17 +42,26 @@
         "electronic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jBwBLOfp3WjVoM4adT1zD_42.209075_-71.915587@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734272,
-    "wof:geomhash":"856b5af70abb47b9f606896b32667e93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9141cf792ec40b4c5ed2767d666c171b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":673124119
+        }
+    ],
     "wof:id":673124119,
-    "wof:lastmodified":1472625334,
+    "wof:lastmodified":1492103996,
     "wof:name":"J&J Fix It & Repair Shoppe",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

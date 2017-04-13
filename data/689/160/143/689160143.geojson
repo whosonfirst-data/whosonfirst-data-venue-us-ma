@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.733006,41.912548,-70.733006,41.912548",
     "geom:latitude":41.912548,
     "geom:longitude":-70.733006,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CwgQl4wYBwKoe4TDalhu1_41.912548_-70.733006@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741171,
-    "wof:geomhash":"4b338731c310f71a8ddc926e36e43d69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d20ea3d1dc450fed5f26e74c6755df9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689160143
+        }
+    ],
     "wof:id":689160143,
-    "wof:lastmodified":1472625502,
+    "wof:lastmodified":1492101088,
     "wof:name":"Carrara Richard",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

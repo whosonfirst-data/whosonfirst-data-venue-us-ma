@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.904992,41.758491,-70.904992,41.758491",
     "geom:latitude":41.758491,
     "geom:longitude":-70.904992,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UhwbBhuxyzSzExG4YMSR1_41.758491_-70.904992@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720671,
-    "wof:geomhash":"3a3145910275e86980355eba8d834ab8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ffd4c6337af66521c9427f5f196f4db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672512351
+        }
+    ],
     "wof:id":672512351,
-    "wof:lastmodified":1472625781,
+    "wof:lastmodified":1492107772,
     "wof:name":"Al Rivet Inspection Services",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

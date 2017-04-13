@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.838948,42.340261,-71.838948,42.340261",
     "geom:latitude":42.340261,
     "geom:longitude":-71.838948,
@@ -31,17 +32,26 @@
         "hospital"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xrmATZFQpVfrv7KCwM3EN_42.340261_-71.838948@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730270,
-    "wof:geomhash":"5700e5d60195abe70d1f778510ffe9a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d132f377340cf823267d897fba52a7eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":672955111
+        }
+    ],
     "wof:id":672955111,
-    "wof:lastmodified":1472626159,
+    "wof:lastmodified":1492111467,
     "wof:name":"Apple Homecare Assoc Inc",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

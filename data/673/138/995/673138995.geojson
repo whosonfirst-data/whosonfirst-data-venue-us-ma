@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.442806,42.254493,-71.442806,42.254493",
     "geom:latitude":42.254493,
     "geom:longitude":-71.442806,
@@ -31,17 +32,26 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JZRjAz92wz8C45ARUhX6F_42.254493_-71.442806@1303262188"
     },
     "wof:country":"US",
     "wof:created":1461734567,
-    "wof:geomhash":"56fd345fee02fb177379d45da7ab9d77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2469c61dc5eea241e7879e271bb64d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":673138995
+        }
+    ],
     "wof:id":673138995,
-    "wof:lastmodified":1472625418,
+    "wof:lastmodified":1492103268,
     "wof:name":"Cac",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

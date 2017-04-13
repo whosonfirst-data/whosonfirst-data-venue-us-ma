@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.291985,41.834224,-71.291985,41.834224",
     "geom:latitude":41.834224,
     "geom:longitude":-71.291985,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475933,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eR17a2dCpgnHO2MFL75xh_41.834224_-71.291985@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727615,
-    "wof:geomhash":"a0d8d7b2c5addb234d9bbfb11a624f53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc40aa62edb64cdc1ba517915b158eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404475933,
+            "region_id":85688645,
+            "venue_id":672830851
+        }
+    ],
     "wof:id":672830851,
-    "wof:lastmodified":1472626069,
+    "wof:lastmodified":1492117602,
     "wof:name":"Family Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

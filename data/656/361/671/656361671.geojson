@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.965642,41.936713,-70.965642,41.936713",
     "geom:latitude":41.936713,
     "geom:longitude":-70.965642,
@@ -36,8 +37,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85837823,
-        102084367
+        85849503,
+        102084367,
+        85837823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +47,15 @@
     },
     "wof:country":"US",
     "wof:created":1461711200,
-    "wof:geomhash":"0e757cba3512e6d2911491ab251b1797",
+    "wof:geomhash":"fe90eb63554d442162acdae86311606c",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85849503,
+            "region_id":85688645,
+            "venue_id":656361671
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -56,9 +65,9 @@
         }
     ],
     "wof:id":656361671,
-    "wof:lastmodified":1472624959,
+    "wof:lastmodified":1492101903,
     "wof:name":"Precision Collision",
-    "wof:parent_id":85837823,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

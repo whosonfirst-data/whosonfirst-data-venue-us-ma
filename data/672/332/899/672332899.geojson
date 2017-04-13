@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.943508,42.580053,-70.943508,42.580053",
     "geom:latitude":42.580053,
     "geom:longitude":-70.943508,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819147,
-        102191575,
-        404476291,
+        85688645,
         85633793,
         85950789,
         102084463,
-        85688645
+        85843319,
+        85819147,
+        102191575,
+        404476291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,16 @@
     },
     "wof:country":"US",
     "wof:created":1461716295,
-    "wof:geomhash":"e0d1bfb1992037bc0dd05ed9afc89b9b",
+    "wof:geomhash":"661daaa7fe539ff4b5e114c7e6ab25e0",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950789,
+            "neighbourhood_id":85843319,
+            "region_id":85688645,
+            "venue_id":672332899
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +67,9 @@
         }
     ],
     "wof:id":672332899,
-    "wof:lastmodified":1472625576,
+    "wof:lastmodified":1492107083,
     "wof:name":"Endurance Realty LLC",
-    "wof:parent_id":85819147,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

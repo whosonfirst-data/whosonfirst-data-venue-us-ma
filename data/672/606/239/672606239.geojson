@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.624839,42.171175,-71.624839,42.171175",
     "geom:latitude":42.171175,
     "geom:longitude":-71.624839,
@@ -32,17 +33,34 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476081,
+        85633793,
+        85950689,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4h4ZfaWY6u5Z1RHLks0oBe_42.171175_-71.624839@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722740,
-    "wof:geomhash":"271f3e76b628c398e2ddb1a1a1822395",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95a5d10ee17a98aac51ece607b1742d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476081,
+            "locality_id":85950689,
+            "region_id":85688645,
+            "venue_id":672606239
+        }
+    ],
     "wof:id":672606239,
-    "wof:lastmodified":1472625859,
+    "wof:lastmodified":1492112160,
     "wof:name":"Upton Nursing Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

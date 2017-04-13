@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.730991,42.034457,-70.730991,42.034457",
     "geom:latitude":42.034457,
     "geom:longitude":-70.730991,
@@ -31,17 +32,26 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57ItQUE3JqZ0lq8YUQxtbR_42.034457_-70.730991@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741023,
-    "wof:geomhash":"3a0a71c81984e12b69ecd4a10d35754d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0660666a66aabf658889be90165dbb5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523989,
+            "venue_id":689153543
+        }
+    ],
     "wof:id":689153543,
-    "wof:lastmodified":1472625508,
+    "wof:lastmodified":1492097469,
     "wof:name":"Advanced Maritime Data Sys",
     "wof:parent_id":420523989,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.81271,42.2546,-70.81271,42.2546",
     "geom:latitude":42.2546,
     "geom:longitude":-70.81271,
@@ -31,19 +32,38 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523765,
+        85688645,
+        85806299,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66gjA4RBqLZvtxpTkeA9FL_42.254600_-70.812710@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727736,
-    "wof:geomhash":"10fda75c50f846cfd98bef7f079b4615",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ada3ddcb6263a77d425397b25f9926f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523765,
+            "venue_id":672837127
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85806299,
+            "region_id":85688645,
+            "venue_id":672837127
+        }
+    ],
     "wof:id":672837127,
-    "wof:lastmodified":1472626058,
+    "wof:lastmodified":1492112263,
     "wof:name":"Fritsche Capital Group",
-    "wof:parent_id":420523765,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

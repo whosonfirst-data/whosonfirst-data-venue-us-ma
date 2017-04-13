@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.070142,41.652317,-71.070142,41.652317",
     "geom:latitude":41.652317,
     "geom:longitude":-71.070142,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00gUSW0ur5xhYB8TzdKHM4_41.652317_-71.070142@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722385,
-    "wof:geomhash":"4279c1ccdedac805c26074c8d770e000",
-    "wof:hierarchy":[],
+    "wof:geomhash":"951a539aefb0f44704b8b834c949e585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672591025
+        }
+    ],
     "wof:id":672591025,
-    "wof:lastmodified":1472625845,
+    "wof:lastmodified":1492116156,
     "wof:name":"Nu Way Autobody",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

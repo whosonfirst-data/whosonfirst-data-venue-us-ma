@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.622505,42.403272,-71.622505,42.403272",
     "geom:latitude":42.403272,
     "geom:longitude":-71.622505,
@@ -31,17 +32,26 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524077
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2exXokdr5PYzcbE25kD48a_42.403272_-71.622505@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713016,
-    "wof:geomhash":"8966a4ef8c9967a455a1e11d24a2b60e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86e3c4d55db2ccccf6ecc234c6b13381",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524077,
+            "venue_id":672175381
+        }
+    ],
     "wof:id":672175381,
-    "wof:lastmodified":1472625070,
+    "wof:lastmodified":1492113131,
     "wof:name":"Corkys Auto Body",
     "wof:parent_id":420524077,
     "wof:placetype":"venue",

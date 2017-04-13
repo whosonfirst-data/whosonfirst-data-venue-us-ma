@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.904713,41.754552,-70.904713,41.754552",
     "geom:latitude":41.754552,
     "geom:longitude":-70.904713,
@@ -32,17 +33,26 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_127RjbSnxJ1tZhc9KBdHK2_41.754552_-70.904713@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730253,
-    "wof:geomhash":"a34798f8688fb12a7aa51c07c75809e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"672ede17bf024a9dbd47dd559bed7d96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672954573
+        }
+    ],
     "wof:id":672954573,
-    "wof:lastmodified":1472626170,
+    "wof:lastmodified":1492117226,
     "wof:name":"Ashleys Peaches",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

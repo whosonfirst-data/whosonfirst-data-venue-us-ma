@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.463198,42.061383,-71.463198,42.061383",
     "geom:latitude":42.061383,
     "geom:longitude":-71.463198,
@@ -31,17 +32,26 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YKBOWN31GiZgZeoEsGYKX_42.061383_-71.463198@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723057,
-    "wof:geomhash":"1c60653e2cf68d6d174cd1eb14747f99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e048fec53d35729fc57706d8baa11a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523777,
+            "venue_id":672619739
+        }
+    ],
     "wof:id":672619739,
-    "wof:lastmodified":1472625879,
+    "wof:lastmodified":1492108537,
     "wof:name":"AAA Silver Line",
     "wof:parent_id":420523777,
     "wof:placetype":"venue",

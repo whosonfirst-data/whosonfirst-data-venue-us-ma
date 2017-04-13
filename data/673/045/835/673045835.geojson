@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101303,42.122002,-71.101303,42.122002",
     "geom:latitude":42.122002,
     "geom:longitude":-71.101303,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2a3Xb3nna1xLRJ9Fz3zqP4_42.121629_-71.101430@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732672,
-    "wof:geomhash":"e1e33cad149954dfdeb92167738b8104",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21ef46398a004782a5c3c7d460250663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":673045835
+        }
+    ],
     "wof:id":673045835,
-    "wof:lastmodified":1472625106,
+    "wof:lastmodified":1492103287,
     "wof:name":"Ruggiero & Son Inc",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

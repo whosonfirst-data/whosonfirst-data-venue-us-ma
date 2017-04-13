@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.004091,42.502411,-72.004091,42.502411",
     "geom:latitude":42.502411,
     "geom:longitude":-72.004091,
@@ -32,17 +33,26 @@
         "computer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524165
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Hlcrpgo7rNVMC55WAp0sx_42.502411_-72.004091@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726359,
-    "wof:geomhash":"29356e7948a36fb4004326e6c3251ca8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e5f92b0ebca94d5d42295accab3d436",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524165,
+            "venue_id":672769429
+        }
+    ],
     "wof:id":672769429,
-    "wof:lastmodified":1472626009,
+    "wof:lastmodified":1492108765,
     "wof:name":"Gregory M Charland",
     "wof:parent_id":420524165,
     "wof:placetype":"venue",

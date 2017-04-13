@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.6868,41.97361,-70.6868,41.97361",
     "geom:latitude":41.97361,
     "geom:longitude":-70.6868,
@@ -31,19 +32,36 @@
         "cutlery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        85633793,
+        85950473,
+        102084367,
+        85812279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XN4soKeC8JQuPlQzvdRjC_41.973610_-70.686800@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461710912,
-    "wof:geomhash":"f0054be0538654112c54bc44f3cefbd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ff52161df77879df4c558fb357f722a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950473,
+            "neighbourhood_id":85812279,
+            "region_id":85688645,
+            "venue_id":656347865
+        }
+    ],
     "wof:id":656347865,
-    "wof:lastmodified":1472624939,
+    "wof:lastmodified":1492102100,
     "wof:name":"Carver's Edge",
-    "wof:parent_id":-1,
+    "wof:parent_id":85812279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

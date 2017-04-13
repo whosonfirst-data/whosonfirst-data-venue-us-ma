@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.229538,41.692676,-70.229538,41.692676",
     "geom:latitude":41.692676,
     "geom:longitude":-70.229538,
@@ -33,17 +34,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bImy4ZvHMK4eCD31DBG1V_41.692676_-70.229538@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726581,
-    "wof:geomhash":"45424da87ff277acf850768275562ba6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ecbee4d4bce77e2f93e7ce4e9f708c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672779857
+        }
+    ],
     "wof:id":672779857,
-    "wof:lastmodified":1472626021,
+    "wof:lastmodified":1492115261,
     "wof:name":"Five Star Flooring",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

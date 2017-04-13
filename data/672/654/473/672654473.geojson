@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.892821,42.481338,-70.892821,42.481338",
     "geom:latitude":42.481338,
     "geom:longitude":-70.892821,
@@ -35,7 +36,9 @@
         85633793,
         85950811,
         102084463,
-        85688645
+        85688645,
+        85950797,
+        85811393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461723809,
-    "wof:geomhash":"04249664082a86c986b5b750f38e2eb5",
+    "wof:geomhash":"6bc176688c4028ad0d1685360c538417",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,21 @@
             "neighbourhood_id":85804975,
             "region_id":85688645,
             "venue_id":672654473
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950797,
+            "neighbourhood_id":85811393,
+            "region_id":85688645,
+            "venue_id":672654473
         }
     ],
     "wof:id":672654473,
-    "wof:lastmodified":1472625902,
+    "wof:lastmodified":1492117310,
     "wof:name":"William Hall Architects",
-    "wof:parent_id":85804975,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

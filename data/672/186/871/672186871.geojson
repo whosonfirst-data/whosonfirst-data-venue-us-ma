@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.622649,42.384066,-72.622649,42.384066",
     "geom:latitude":42.384066,
     "geom:longitude":-72.622649,
@@ -31,17 +32,26 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kfXYu1ASUq8BoX2MCBTxX_42.384066_-72.622649@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713267,
-    "wof:geomhash":"6eef59c2d95ef28a552e82fe2d9c0ac6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7da126bab919e4b5f86ea9709aa236d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523649,
+            "venue_id":672186871
+        }
+    ],
     "wof:id":672186871,
-    "wof:lastmodified":1472625163,
+    "wof:lastmodified":1492116562,
     "wof:name":"Hillwood Stables",
     "wof:parent_id":420523649,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.889348,42.242281,-70.889348,42.242281",
     "geom:latitude":42.242281,
     "geom:longitude":-70.889348,
@@ -29,10 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85825753,
+        102191575,
+        404476517,
         85633793,
         85950451,
         102084367,
+        85688645,
         85855681
     ],
     "wof:breaches":[],
@@ -41,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461729928,
-    "wof:geomhash":"3c6fee6688d6c38cc0a3f193a48b6ee2",
+    "wof:geomhash":"fc17e66a3d0315360f7d720bffebefff",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476517,
+            "locality_id":85950451,
+            "neighbourhood_id":85825753,
+            "region_id":85688645,
+            "venue_id":672942511
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -53,9 +67,9 @@
         }
     ],
     "wof:id":672942511,
-    "wof:lastmodified":1472626158,
+    "wof:lastmodified":1492106332,
     "wof:name":"Lilys Closet",
-    "wof:parent_id":85855681,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

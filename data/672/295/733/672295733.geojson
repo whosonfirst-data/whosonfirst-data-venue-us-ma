@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.076626,42.040594,-71.076626,42.040594",
     "geom:latitude":42.040594,
     "geom:longitude":-71.076626,
@@ -33,19 +34,28 @@
     ],
     "sg:website":"www.tannerfordsales.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cGLX86qnA50Q87e1LHzrC_42.040594_-71.076626@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715528,
-    "wof:geomhash":"12c3ddb4b8befda9897c7fc0a9de67d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94be080454a5ec7976c435cc7a8ee055",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":672295733
+        }
+    ],
     "wof:id":672295733,
-    "wof:lastmodified":1472625483,
+    "wof:lastmodified":1492115568,
     "wof:name":"Tanner Ford Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

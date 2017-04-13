@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.901645,42.197864,-71.901645,42.197864",
     "geom:latitude":42.197864,
     "geom:longitude":-71.901645,
@@ -32,17 +33,26 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14Zf8cRS8QsplT7TSO1fIk_42.197864_-71.901645@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723700,
-    "wof:geomhash":"57849ea56c0a738c8b847b4cb9a365ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38173bb005bb1cb3a2bbd9ac050b7b0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":672649427
+        }
+    ],
     "wof:id":672649427,
-    "wof:lastmodified":1472625901,
+    "wof:lastmodified":1492107491,
     "wof:name":"Rovac Corp",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.38877,42.24824,-72.38877,42.24824",
     "geom:latitude":42.24824,
     "geom:longitude":-72.38877,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OeVOdwZR6x5I0SiO3Zbvw_42.248240_-72.388770@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720254,
-    "wof:geomhash":"febac90bb4578658b6e44e45da30b94e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"718b85f508792611221067479bcaa7a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672493493
+        }
+    ],
     "wof:id":672493493,
-    "wof:lastmodified":1472625760,
+    "wof:lastmodified":1492106194,
     "wof:name":"Scott's Lawn Care",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.882132,42.245875,-70.882132,42.245875",
     "geom:latitude":42.245875,
     "geom:longitude":-70.882132,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688645,
+        102191575,
         85633793,
-        85836273,
-        102084367
+        85950453,
+        102084367,
+        85827977,
+        85836273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461727437,
-    "wof:geomhash":"220ef325d55c3c5782ec45cc1a099180",
+    "wof:geomhash":"1428ced7f442228339ee45a39aa0349f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950453,
+            "neighbourhood_id":85827977,
+            "region_id":85688645,
+            "venue_id":672821957
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -51,9 +64,9 @@
         }
     ],
     "wof:id":672821957,
-    "wof:lastmodified":1472626064,
+    "wof:lastmodified":1492116046,
     "wof:name":"Grampy's Of Hingham",
-    "wof:parent_id":85836273,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

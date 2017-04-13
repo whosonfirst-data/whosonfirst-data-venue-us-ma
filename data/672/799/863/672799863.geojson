@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.255943,41.691385,-70.255943,41.691385",
     "geom:latitude":41.691385,
     "geom:longitude":-70.255943,
@@ -31,17 +32,26 @@
         "nutritionist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57nZpR6zSdVLXYgyVM9zDt_41.691385_-70.255943@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726972,
-    "wof:geomhash":"6d0ce431fcbac72afa64ae4d4cb14bf4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94cb82526be5532e05b761222cbef39a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672799863
+        }
+    ],
     "wof:id":672799863,
-    "wof:lastmodified":1472626037,
+    "wof:lastmodified":1492107060,
     "wof:name":"Richmond Nutrition & Assoc",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

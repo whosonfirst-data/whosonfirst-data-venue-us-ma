@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.860694,42.350153,-71.860694,42.350153",
     "geom:latitude":42.350153,
     "geom:longitude":-71.860694,
@@ -31,17 +32,26 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YeAe0UVY8QPxAXqxf2vzw_42.350153_-71.860694@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732087,
-    "wof:geomhash":"030780145a7ddab75f4b8f0e1554e255",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1cf98bea087a368102628ef86fe33ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":673021119
+        }
+    ],
     "wof:id":673021119,
-    "wof:lastmodified":1472624991,
+    "wof:lastmodified":1492104326,
     "wof:name":"Wachusett Cmnty Partnership",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

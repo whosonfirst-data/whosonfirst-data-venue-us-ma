@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.808891,41.928558,-70.808891,41.928558",
     "geom:latitude":41.928558,
     "geom:longitude":-70.808891,
@@ -33,17 +34,26 @@
         "pan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TWvkTd5Vvmc3ZuH29ASOw_41.928558_-70.808891@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741000,
-    "wof:geomhash":"f30b3a2140966be9976e4546b57bafa0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d051026b5662ebea0d64561f031c61df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152835
+        }
+    ],
     "wof:id":689152835,
-    "wof:lastmodified":1472625523,
+    "wof:lastmodified":1492101002,
     "wof:name":"Tiki Kye Restaurant",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

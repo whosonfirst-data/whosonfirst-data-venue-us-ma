@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.046946,42.682996,-72.046946,42.682996",
     "geom:latitude":42.682996,
     "geom:longitude":-72.046946,
@@ -31,17 +32,26 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wpXuOZ7u5cFTiP7DQj5dT_42.682996_-72.046946@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713954,
-    "wof:geomhash":"9d5d4f3fc312b4e323a4450ebff93516",
-    "wof:hierarchy":[],
+    "wof:geomhash":"625475e7ffb6e6ef35997e71bbe60d69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":672219203
+        }
+    ],
     "wof:id":672219203,
-    "wof:lastmodified":1472625217,
+    "wof:lastmodified":1492113002,
     "wof:name":"John A Mizhir Law Office",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

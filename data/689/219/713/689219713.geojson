@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.075976,41.961134,-71.075976,41.961134",
     "geom:latitude":41.961134,
     "geom:longitude":-71.075976,
@@ -32,17 +33,32 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476139,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fboJWnvzkMP6SbY9wY4DY_41.961134_-71.075976@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742469,
-    "wof:geomhash":"86086bbbf682cca9ea26fd49f5373aa2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca149f355a32f3490e9ff80f22506cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476139,
+            "region_id":85688645,
+            "venue_id":689219713
+        }
+    ],
     "wof:id":689219713,
-    "wof:lastmodified":1472625628,
+    "wof:lastmodified":1492099398,
     "wof:name":"Ltc Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.558489,41.455385,-70.558489,41.455385",
     "geom:latitude":41.455385,
     "geom:longitude":-70.558489,
@@ -38,7 +39,8 @@
         85688645,
         85633793,
         85824133,
-        102084629
+        102084629,
+        85853939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461716545,
-    "wof:geomhash":"eac6da6640edfe18ab822b9f4f661769",
+    "wof:geomhash":"15a612461fa46b32d2259001b7efbdc8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,19 @@
             "neighbourhood_id":85824133,
             "region_id":85688645,
             "venue_id":672342077
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084629,
+            "neighbourhood_id":85853939,
+            "region_id":85688645,
+            "venue_id":672342077
         }
     ],
     "wof:id":672342077,
-    "wof:lastmodified":1472625570,
+    "wof:lastmodified":1492119635,
     "wof:name":"Vineyard Lights",
-    "wof:parent_id":85824133,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

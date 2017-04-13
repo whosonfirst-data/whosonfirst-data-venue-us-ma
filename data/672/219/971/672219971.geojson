@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.047794,42.415433,-71.047794,42.415433",
     "geom:latitude":42.415433,
     "geom:longitude":-71.047794,
@@ -31,17 +32,34 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476487,
+        85633793,
+        85950331,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rRCmNl3MOr7X7PbzDSfWg_42.415433_-71.047794@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713968,
-    "wof:geomhash":"987c401f547eb9733d42fd6ec99890b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d899247416607f49989723b44e12150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476487,
+            "locality_id":85950331,
+            "region_id":85688645,
+            "venue_id":672219971
+        }
+    ],
     "wof:id":672219971,
-    "wof:lastmodified":1472625249,
+    "wof:lastmodified":1492112999,
     "wof:name":"Washington Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

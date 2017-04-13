@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.796441,41.902643,-70.796441,41.902643",
     "geom:latitude":41.902643,
     "geom:longitude":-70.796441,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TwkOAbInFK7zbGVLRtIfK_41.902643_-70.796441@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728673,
-    "wof:geomhash":"d23ea883f8a15afbe956e8417a5df2f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0140a2bad9ab17fd86fdfec23b7bc313",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672882305
+        }
+    ],
     "wof:id":672882305,
-    "wof:lastmodified":1472626101,
+    "wof:lastmodified":1492111345,
     "wof:name":"Patriot Plumbing Heating Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

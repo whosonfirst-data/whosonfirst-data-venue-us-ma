@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.347605,42.285889,-71.347605,42.285889",
     "geom:latitude":42.285889,
     "geom:longitude":-71.347605,
@@ -29,19 +30,32 @@
     "sg:province":"MA",
     "sg:website":"www.natickoutdoor.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85819075,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BUNd17bf4LiVwLCgXcq8L_42.285889_-71.347605@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714822,
-    "wof:geomhash":"ac1a8196d85352f4b9c018b67bc6c5f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f4577f20336f94333b354e423d143b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85819075,
+            "region_id":85688645,
+            "venue_id":672260645
+        }
+    ],
     "wof:id":672260645,
-    "wof:lastmodified":1472625351,
+    "wof:lastmodified":1492107157,
     "wof:name":"Natick Outdoor & Sports Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.991317,42.404721,-71.991317,42.404721",
     "geom:latitude":42.404721,
     "geom:longitude":-71.991317,
@@ -32,17 +33,26 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OudbRWkt3Giw5PCZnr5jC_42.404721_-71.991317@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722428,
-    "wof:geomhash":"45ee3f5bc262f831f7d28682fa21d33c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2071fce6025eba66e65f35b2dd09d9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524203,
+            "venue_id":672592911
+        }
+    ],
     "wof:id":672592911,
-    "wof:lastmodified":1472625850,
+    "wof:lastmodified":1492114072,
     "wof:name":"Northpointe Custom Homes",
     "wof:parent_id":420524203,
     "wof:placetype":"venue",

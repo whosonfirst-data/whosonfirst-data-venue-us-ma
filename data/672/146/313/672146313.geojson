@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.634525,42.660512,-71.634525,42.660512",
     "geom:latitude":42.660512,
     "geom:longitude":-71.634525,
@@ -32,19 +33,32 @@
     ],
     "sg:website":"www.japanesetools.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85852475,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PprHWWnsBOmyGtolFfZEF_42.660512_-71.634525@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712381,
-    "wof:geomhash":"71fea125bc1023583e7b75c32f7b25c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1c294e03ea648f7741419d18fbcb6ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85852475,
+            "region_id":85688645,
+            "venue_id":672146313
+        }
+    ],
     "wof:id":672146313,
-    "wof:lastmodified":1472624930,
+    "wof:lastmodified":1492105918,
     "wof:name":"JAPANESETOOLS.COM",
-    "wof:parent_id":-1,
+    "wof:parent_id":85852475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.114584,42.622083,-73.114584,42.622083",
     "geom:latitude":42.622083,
     "geom:longitude":-73.114584,
@@ -28,17 +29,26 @@
     "sg:postcode":"01220",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XYiMqWY4oVjr3tf2ZIiql_42.622083_-73.114584@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716154,
-    "wof:geomhash":"42c49fbe55fe88e390f8e42b38f113e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac3b376cd2493833808e9ba29589c6b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672326243
+        }
+    ],
     "wof:id":672326243,
-    "wof:lastmodified":1472625552,
+    "wof:lastmodified":1492119817,
     "wof:name":"Corner Lunch",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

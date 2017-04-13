@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.118885,42.129737,-71.118885,42.129737",
     "geom:latitude":42.129737,
     "geom:longitude":-71.118885,
@@ -31,17 +32,26 @@
         "fence"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HTugyI73fh1nZheTAcQoD_42.129737_-71.118885@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728449,
-    "wof:geomhash":"4e9b3830b35240a569b625830e748b94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56d8321cf8911ccb8b9e4b59db33c7f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672870381
+        }
+    ],
     "wof:id":672870381,
-    "wof:lastmodified":1472626094,
+    "wof:lastmodified":1492106192,
     "wof:name":"Liberty Fence",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

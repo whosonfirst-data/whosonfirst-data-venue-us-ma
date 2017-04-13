@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.068688,41.651644,-71.068688,41.651644",
     "geom:latitude":41.651644,
     "geom:longitude":-71.068688,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AxeKX1aCBMGtefKikKwKw_41.651644_-71.068688@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714062,
-    "wof:geomhash":"47ca70af93a9aeeaafcecde039b0d3d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ece03d9421577ad2748e0ee792537026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672224759
+        }
+    ],
     "wof:id":672224759,
-    "wof:lastmodified":1472625255,
+    "wof:lastmodified":1492107849,
     "wof:name":"Industrial Process Piping Inc",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

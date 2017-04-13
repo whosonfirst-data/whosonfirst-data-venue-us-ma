@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.901834,41.896242,-70.901834,41.896242",
     "geom:latitude":41.896242,
     "geom:longitude":-70.901834,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LutwlZTDli4KaTv2Y6oVS_41.896242_-70.901834@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722977,
-    "wof:geomhash":"bf1fbf77f8cdccc3050fd87c3f9ceb66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"938339bb3073e86ffb3df277198660c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672616225
+        }
+    ],
     "wof:id":672616225,
-    "wof:lastmodified":1472625864,
+    "wof:lastmodified":1492105814,
     "wof:name":"Spectrum Quality Home Services",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

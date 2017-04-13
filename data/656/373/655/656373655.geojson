@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.204312,42.314559,-71.204312,42.314559",
     "geom:latitude":42.314559,
     "geom:longitude":-71.204312,
@@ -28,17 +29,34 @@
     "sg:postcode":"02461",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sfWLjP8BhCCChpQjAtV7H_42.314559_-71.204312@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711451,
-    "wof:geomhash":"591a398e846d2ddc7e358d8fa693414b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a29f7610637c6affb8804e107bc6c508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":656373655
+        }
+    ],
     "wof:id":656373655,
-    "wof:lastmodified":1472625007,
+    "wof:lastmodified":1492102318,
     "wof:name":"East West Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.983214,42.687626,-70.983214,42.687626",
     "geom:latitude":42.687626,
     "geom:longitude":-70.983214,
@@ -48,17 +49,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3l10iTeRCFpAUfle7Pdl30_42.687626_-70.983214@1303262195"
     },
     "wof:country":"US",
     "wof:created":1461735687,
-    "wof:geomhash":"35c5471737a1acc4d43a5a6adb85523d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45aead53ae51a7b0b8b24533b953f4a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":688921627
+        }
+    ],
     "wof:id":688921627,
-    "wof:lastmodified":1472624957,
+    "wof:lastmodified":1492120638,
     "wof:name":"J L White Woodworking Inc",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

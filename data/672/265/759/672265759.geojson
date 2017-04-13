@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.985871,42.042328,-70.985871,42.042328",
     "geom:latitude":42.042328,
     "geom:longitude":-70.985871,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l7v46GltFSO6F35ScQbR0_42.042328_-70.985871@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714922,
-    "wof:geomhash":"15cc3ac1226ea0ae4a548c74679f72bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d73ccc20a2d5761d299827cae5a50f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523979,
+            "venue_id":672265759
+        }
+    ],
     "wof:id":672265759,
-    "wof:lastmodified":1472625420,
+    "wof:lastmodified":1492115227,
     "wof:name":"Ballard & Ballard Dev Inc",
     "wof:parent_id":420523979,
     "wof:placetype":"venue",

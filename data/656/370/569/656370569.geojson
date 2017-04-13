@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.583722,42.420725,-71.583722,42.420725",
     "geom:latitude":42.420725,
     "geom:longitude":-71.583722,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Nis88FvihRJJpFnIlUFrz_42.420725_-71.583722@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711389,
-    "wof:geomhash":"0ac883d7ece777fc8b8fbc67a81cdea1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a97a09fff97628f9dbdd6de1bf9b622a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":656370569
+        }
+    ],
     "wof:id":656370569,
-    "wof:lastmodified":1472624960,
+    "wof:lastmodified":1492101325,
     "wof:name":"Bolton Family Medicine",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

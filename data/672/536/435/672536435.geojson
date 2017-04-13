@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.877688,42.424736,-71.877688,42.424736",
     "geom:latitude":42.424736,
     "geom:longitude":-71.877688,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uaumnnCJDUiDb7HWp6K49_42.424736_-71.877688@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721191,
-    "wof:geomhash":"3ffe854be6440911315da573a9d8a61f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"150135c1851bf9e16166c57ad3cd8590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524219,
+            "venue_id":672536435
+        }
+    ],
     "wof:id":672536435,
-    "wof:lastmodified":1472625784,
+    "wof:lastmodified":1492118843,
     "wof:name":"Asmus Engineering Septic Sltns",
     "wof:parent_id":420524219,
     "wof:placetype":"venue",

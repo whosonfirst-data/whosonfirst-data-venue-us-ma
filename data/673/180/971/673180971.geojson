@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.477374,42.644933,-71.477374,42.644933",
     "geom:latitude":42.644933,
     "geom:longitude":-71.477374,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ip4nOE8V0xIFqDtJAjeZR_42.644933_-71.477374@1303262194"
     },
     "wof:country":"US",
     "wof:created":1461735451,
-    "wof:geomhash":"d6fcc114d258f662ecd7fb079b3a0be1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6ad6a9ea7dde2678e5362cba87e4765",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523719,
+            "venue_id":673180971
+        }
+    ],
     "wof:id":673180971,
-    "wof:lastmodified":1472625529,
+    "wof:lastmodified":1492102799,
     "wof:name":"Underwood Sales Corp",
     "wof:parent_id":420523719,
     "wof:placetype":"venue",

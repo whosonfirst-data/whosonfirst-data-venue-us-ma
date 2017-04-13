@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.769542,42.403832,-71.769542,42.403832",
     "geom:latitude":42.403832,
     "geom:longitude":-71.769542,
@@ -31,17 +32,26 @@
         "granite"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_562NIbAcL8TNw6ibL4wBag_42.403832_-71.769542@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724831,
-    "wof:geomhash":"4f64a78be3d3186d3bb981af530be362",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eca268cc2cfa4d0d9b9a36d0fcd1d314",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":672698563
+        }
+    ],
     "wof:id":672698563,
-    "wof:lastmodified":1472625942,
+    "wof:lastmodified":1492105734,
     "wof:name":"Stone Meister",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.97764,42.23441,-70.97764,42.23441",
     "geom:latitude":42.23441,
     "geom:longitude":-70.97764,
@@ -38,7 +39,8 @@
         85633793,
         85950429,
         102084403,
-        85688645
+        85688645,
+        85839281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721696,
-    "wof:geomhash":"61d69ac80cd1e69833dbc308db90609e",
+    "wof:geomhash":"2ee43139964724667d6be1c4560cdd77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85843515,
             "region_id":85688645,
             "venue_id":672559513
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476591,
+            "locality_id":85950429,
+            "neighbourhood_id":85839281,
+            "region_id":85688645,
+            "venue_id":672559513
         }
     ],
     "wof:id":672559513,
-    "wof:lastmodified":1472625817,
+    "wof:lastmodified":1492119253,
     "wof:name":"Caribbean Sun",
-    "wof:parent_id":85843515,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

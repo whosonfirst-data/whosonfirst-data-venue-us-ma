@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.213922,41.749311,-71.213922,41.749311",
     "geom:latitude":41.749311,
     "geom:longitude":-71.213922,
@@ -32,17 +33,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uTSwx9YyLJT9Vj9DW8Ikj_41.749311_-71.213922@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719940,
-    "wof:geomhash":"454520cda651c5869a4b497dca6e9d62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8cb4d34ed3a0eeb43d91c87aaa4340e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":672479999
+        }
+    ],
     "wof:id":672479999,
-    "wof:lastmodified":1472625746,
+    "wof:lastmodified":1492106891,
     "wof:name":"Sears Auto Enter 6274",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

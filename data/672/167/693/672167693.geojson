@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.875746,42.115777,-71.875746,42.115777",
     "geom:latitude":42.115777,
     "geom:longitude":-71.875746,
@@ -33,17 +34,26 @@
         "working"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dX3vn32xFWQYhyACCqbNR_42.115777_-71.875746@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712853,
-    "wof:geomhash":"a07d64fd8178bb155b54a74adfecfc4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fec82e0abc82fcd851267f22b1364007",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524215,
+            "venue_id":672167693
+        }
+    ],
     "wof:id":672167693,
-    "wof:lastmodified":1472625035,
+    "wof:lastmodified":1492106411,
     "wof:name":"Oxford Machinery Co Inc",
     "wof:parent_id":420524215,
     "wof:placetype":"venue",

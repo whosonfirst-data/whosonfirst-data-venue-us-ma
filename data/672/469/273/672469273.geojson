@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.719094,41.931032,-70.719094,41.931032",
     "geom:latitude":41.931032,
     "geom:longitude":-70.719094,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NWYzVLdC26eYUiDmA1cIu_41.931032_-70.719094@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719676,
-    "wof:geomhash":"31e52cc65d84c36089bc93294eec27f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8e56c8d63b113864aa36aebd31966ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672469273
+        }
+    ],
     "wof:id":672469273,
-    "wof:lastmodified":1472625729,
+    "wof:lastmodified":1492119725,
     "wof:name":"Computer Group",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.614169,41.629908,-70.614169,41.629908",
     "geom:latitude":41.629908,
     "geom:longitude":-70.614169,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s6CqjqxZaR3cApRH7Mh3f_41.629908_-70.614169@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729565,
-    "wof:geomhash":"70dfd10ecf51d82e7ee3470a62241fb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57106d783230e83b7aa67c5c3ccfa061",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672927385
+        }
+    ],
     "wof:id":672927385,
-    "wof:lastmodified":1472626142,
+    "wof:lastmodified":1492105518,
     "wof:name":"Tgr Builder",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

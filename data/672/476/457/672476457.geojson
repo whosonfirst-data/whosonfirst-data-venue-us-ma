@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.851803,41.848763,-70.851803,41.848763",
     "geom:latitude":41.848763,
     "geom:longitude":-70.851803,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5voV9hfNNVyqjsb9Rto9K7_41.848763_-70.851803@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719845,
-    "wof:geomhash":"72206465e4124f98348e247c042cfe68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52f1bd8d4443a816c34ba5f47a6a313e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672476457
+        }
+    ],
     "wof:id":672476457,
-    "wof:lastmodified":1472625739,
+    "wof:lastmodified":1492119308,
     "wof:name":"Lawrence Hobart",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

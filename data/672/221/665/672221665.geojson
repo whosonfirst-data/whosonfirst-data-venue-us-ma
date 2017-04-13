@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.47133,41.665102,-70.47133,41.665102",
     "geom:latitude":41.665102,
     "geom:longitude":-70.47133,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02hbYJDB4Xv38aIuaUqyx1_41.665102_-70.471330@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714009,
-    "wof:geomhash":"acbd3d71bfd7e5db7c93793e81fddbc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c26c7c27493460e9c377744ec2cf5d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672221665
+        }
+    ],
     "wof:id":672221665,
-    "wof:lastmodified":1472625237,
+    "wof:lastmodified":1492113615,
     "wof:name":"Distinctive Builders LLC",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

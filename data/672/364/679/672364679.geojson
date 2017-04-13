@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.97921,42.040594,-70.97921,42.040594",
     "geom:latitude":42.040594,
     "geom:longitude":-70.97921,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TP8HqRD4HLqMi2jkRI7Vy_42.040594_-70.979210@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717085,
-    "wof:geomhash":"a2c58984451ddfafb4822a2a15bd6cbd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d5b97d035eaf5ce42dfde1103df0f39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523979,
+            "venue_id":672364679
+        }
+    ],
     "wof:id":672364679,
-    "wof:lastmodified":1472625635,
+    "wof:lastmodified":1492108277,
     "wof:name":"Bassco",
     "wof:parent_id":420523979,
     "wof:placetype":"venue",

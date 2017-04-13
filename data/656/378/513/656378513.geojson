@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.949931,41.851239,-70.949931,41.851239",
     "geom:latitude":41.851239,
     "geom:longitude":-70.949931,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LQfntNbxS5ZOwbXKlZxvP_41.851239_-70.949931@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711555,
-    "wof:geomhash":"fb62dc2a7d05a7dd5c98348a8a343ed7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca8c63389b6a7e42430caaa4c8c98b08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523969,
+            "venue_id":656378513
+        }
+    ],
     "wof:id":656378513,
-    "wof:lastmodified":1472624996,
+    "wof:lastmodified":1492101687,
     "wof:name":"Lakeville Police Dept",
     "wof:parent_id":420523969,
     "wof:placetype":"venue",

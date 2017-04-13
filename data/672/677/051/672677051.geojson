@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.820067,41.976854,-70.820067,41.976854",
     "geom:latitude":41.976854,
     "geom:longitude":-70.820067,
@@ -31,17 +32,26 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xVRkMrr23lS9BscGXmZ3H_41.976854_-70.820067@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724317,
-    "wof:geomhash":"fe548d4de4c76f30a2a50bb14443bd86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31b9979e8afb720ac29bfaaae61e86c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672677051
+        }
+    ],
     "wof:id":672677051,
-    "wof:lastmodified":1472625916,
+    "wof:lastmodified":1492118214,
     "wof:name":"Design & Decor",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

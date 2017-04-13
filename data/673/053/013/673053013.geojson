@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.90857,41.892819,-70.90857,41.892819",
     "geom:latitude":41.892819,
     "geom:longitude":-70.90857,
@@ -31,17 +32,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gs7coGTHM15AKOWBZV5in_41.892801_-70.908323@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732813,
-    "wof:geomhash":"2a576face020d2907254e93e12982c18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33396bc640cab3b7992804b5b73ae0b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":673053013
+        }
+    ],
     "wof:id":673053013,
-    "wof:lastmodified":1472625123,
+    "wof:lastmodified":1492105249,
     "wof:name":"Middleboro House Of Pizza",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

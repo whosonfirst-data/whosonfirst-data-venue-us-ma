@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.039801,42.691792,-72.039801,42.691792",
     "geom:latitude":42.691792,
     "geom:longitude":-72.039801,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JvB78mKetpB2kdYRRPx3X_42.691792_-72.039801@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714841,
-    "wof:geomhash":"79ce3a0145b6fe44dfe24a7eccc939bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd742451adaa54101ecddc9f9e3c254c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524191,
+            "venue_id":672261725
+        }
+    ],
     "wof:id":672261725,
-    "wof:lastmodified":1472625385,
+    "wof:lastmodified":1492112958,
     "wof:name":"Paris & Paris",
     "wof:parent_id":420524191,
     "wof:placetype":"venue",

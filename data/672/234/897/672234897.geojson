@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.426473,42.155324,-72.426473,42.155324",
     "geom:latitude":42.155324,
     "geom:longitude":-72.426473,
@@ -32,17 +33,36 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420523561,
+        102191575,
+        404476379,
+        85633793,
+        85950775,
+        102084627,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CKBsyFe2cAZtti6cHkX0e_42.155324_-72.426473@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714288,
-    "wof:geomhash":"1f04afcf5b16a36060f2d516a4fac32d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5957825e3fc086bfc1ce0190be5999e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476379,
+            "locality_id":85950775,
+            "neighbourhood_id":420523561,
+            "region_id":85688645,
+            "venue_id":672234897
+        }
+    ],
     "wof:id":672234897,
-    "wof:lastmodified":1472625320,
+    "wof:lastmodified":1492106349,
     "wof:name":"Jeff Kern",
     "wof:parent_id":420523561,
     "wof:placetype":"venue",

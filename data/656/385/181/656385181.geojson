@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.911171,41.732054,-70.911171,41.732054",
     "geom:latitude":41.732054,
     "geom:longitude":-70.911171,
@@ -32,17 +33,26 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Qyw18pjSF4NlYqP32XlBn_41.732054_-70.911171@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711694,
-    "wof:geomhash":"10aed03685bcc95aac12de3186780fe9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"595e94d4f64ef75c16b2296ae032d38c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":656385181
+        }
+    ],
     "wof:id":656385181,
-    "wof:lastmodified":1472625004,
+    "wof:lastmodified":1492101753,
     "wof:name":"Mac Disposal",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

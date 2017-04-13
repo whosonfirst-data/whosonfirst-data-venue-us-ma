@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.576132,42.63859,-72.576132,42.63859",
     "geom:latitude":42.63859,
     "geom:longitude":-72.576132,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NoVeeCXgNOlxHF7h8Osh6_42.638590_-72.576132@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716775,
-    "wof:geomhash":"6b53f974b0650e8ae58a31ca11a024fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c0d2bf49ed743176051d50e81042085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672350975
+        }
+    ],
     "wof:id":672350975,
-    "wof:lastmodified":1472625616,
+    "wof:lastmodified":1492111231,
     "wof:name":"Gilman Roofing & Home Remodeli",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

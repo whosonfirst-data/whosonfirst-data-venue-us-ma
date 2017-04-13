@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.622762,41.618995,-70.622762,41.618995",
     "geom:latitude":41.618995,
     "geom:longitude":-70.622762,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02qTtPoaifG06kH0edOLn3_41.618995_-70.622762@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712854,
-    "wof:geomhash":"51f6aec153066c00c1a4562bebb923f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b8a30c078ffc4bac0c82c687bd6c564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":672167719
+        }
+    ],
     "wof:id":672167719,
-    "wof:lastmodified":1472625038,
+    "wof:lastmodified":1492106423,
     "wof:name":"Fred Klein Security",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

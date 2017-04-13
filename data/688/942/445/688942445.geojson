@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.879557,42.294681,-70.879557,42.294681",
     "geom:latitude":42.294681,
     "geom:longitude":-70.879557,
@@ -34,8 +35,8 @@
         85633793,
         85950453,
         102084367,
-        85854819,
-        85804923
+        85804923,
+        85854819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,8 @@
     },
     "wof:country":"US",
     "wof:created":1461736096,
-    "wof:geomhash":"510e4950d51c09c57669d59b4c0cc06b",
+    "wof:geomhash":"2aee5de97274e8bdfaf8f94758db2df3",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "locality_id":85950453,
-            "neighbourhood_id":85854819,
-            "region_id":85688645,
-            "venue_id":688942445
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,12 +54,21 @@
             "neighbourhood_id":85804923,
             "region_id":85688645,
             "venue_id":688942445
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950453,
+            "neighbourhood_id":85854819,
+            "region_id":85688645,
+            "venue_id":688942445
         }
     ],
     "wof:id":688942445,
-    "wof:lastmodified":1472625067,
+    "wof:lastmodified":1492119948,
     "wof:name":"Rocco Taverna",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.24447,42.614353,-71.24447,42.614353",
     "geom:latitude":42.614353,
     "geom:longitude":-71.24447,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85854427,
-        102084643
+        85851973,
+        102084643,
+        85854427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461728858,
-    "wof:geomhash":"51c67c7fcaf83c0897652af97e3d3d5a",
+    "wof:geomhash":"01864234f35bd68567ed89cd3e4ddb5c",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85851973,
+            "region_id":85688645,
+            "venue_id":672891605
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":672891605,
-    "wof:lastmodified":1472626115,
+    "wof:lastmodified":1492107433,
     "wof:name":"Carlino Building Assoc",
-    "wof:parent_id":85854427,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

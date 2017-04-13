@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.336964,41.984322,-71.336964,41.984322",
     "geom:latitude":41.984322,
     "geom:longitude":-71.336964,
@@ -34,17 +35,32 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476133,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76YQTFISMPs6RkogkZBEde_41.984322_-71.336964@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730701,
-    "wof:geomhash":"c51eb92eb79711fabca0da7000e32a5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"135cfc7524e0c09aef65f78406d32cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476133,
+            "region_id":85688645,
+            "venue_id":672967991
+        }
+    ],
     "wof:id":672967991,
-    "wof:lastmodified":1472626176,
+    "wof:lastmodified":1492112328,
     "wof:name":"J K Interior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

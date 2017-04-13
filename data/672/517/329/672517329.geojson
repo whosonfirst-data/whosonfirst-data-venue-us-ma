@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.464959,41.671654,-70.464959,41.671654",
     "geom:latitude":41.671654,
     "geom:longitude":-70.464959,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZnXeqyNCJix6nGnTo4Ojr_41.671654_-70.464959@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720779,
-    "wof:geomhash":"40c8e9afae318c4643a0b141488b7f58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb22a70388002c0d7c3369bc606ce99e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672517329
+        }
+    ],
     "wof:id":672517329,
-    "wof:lastmodified":1472625774,
+    "wof:lastmodified":1492116035,
     "wof:name":"Cleveland Consulting Services",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

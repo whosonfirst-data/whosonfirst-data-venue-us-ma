@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.650435,41.56478,-70.650435,41.56478",
     "geom:latitude":41.56478,
     "geom:longitude":-70.650435,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85848833,
-        102084379
+        102084379,
+        85843561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461715106,
-    "wof:geomhash":"e9f99838895a1c34a61ac6775d348a26",
+    "wof:geomhash":"f984a3ae4c2e0736c26f9cbf4954130a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,19 @@
             "neighbourhood_id":85848833,
             "region_id":85688645,
             "venue_id":672275707
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084379,
+            "neighbourhood_id":85843561,
+            "region_id":85688645,
+            "venue_id":672275707
         }
     ],
     "wof:id":672275707,
-    "wof:lastmodified":1472625432,
+    "wof:lastmodified":1492107461,
     "wof:name":"Cape & Island Movers",
-    "wof:parent_id":85848833,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

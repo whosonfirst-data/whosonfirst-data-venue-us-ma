@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.803972,41.898024,-70.803972,41.898024",
     "geom:latitude":41.898024,
     "geom:longitude":-70.803972,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3i7d2WCntPYb3jjVLuSVif_41.898024_-70.803972@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741000,
-    "wof:geomhash":"b66f16a2ea973d7b99dc72e68eadd2c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60fbecd5b467d783b1c49245cde04442",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689152821
+        }
+    ],
     "wof:id":689152821,
-    "wof:lastmodified":1472625522,
+    "wof:lastmodified":1492101011,
     "wof:name":"Plant Electric",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

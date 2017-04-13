@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.270483,42.140446,-71.270483,42.140446",
     "geom:latitude":42.140446,
     "geom:longitude":-71.270483,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65snlt8HqxIodfHUhAiHFd_42.140446_-71.270483@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717736,
-    "wof:geomhash":"698f6a8f16c71a95e546f5b31992ad23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"730d032bf358a5986ecf44581ba1c1aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523755,
+            "venue_id":672393751
+        }
+    ],
     "wof:id":672393751,
-    "wof:lastmodified":1472625669,
+    "wof:lastmodified":1492114193,
     "wof:name":"Assured Collision Inc",
     "wof:parent_id":420523755,
     "wof:placetype":"venue",

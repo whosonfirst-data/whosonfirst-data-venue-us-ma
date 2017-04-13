@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.636001,42.385776,-71.636001,42.385776",
     "geom:latitude":42.385776,
     "geom:longitude":-71.636001,
@@ -34,17 +35,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524077
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ic4xLTYFheGgG7yVs8yiV_42.385843_-71.635872@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733310,
-    "wof:geomhash":"2b830cca88f0aea067881d587e9b7b5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02eb3bbdef0b16fb36b3d551ae7443ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524077,
+            "venue_id":673078053
+        }
+    ],
     "wof:id":673078053,
-    "wof:lastmodified":1472625201,
+    "wof:lastmodified":1492104508,
     "wof:name":"Wheeler's Garage",
     "wof:parent_id":420524077,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.808558,41.883026,-70.808558,41.883026",
     "geom:latitude":41.883026,
     "geom:longitude":-70.808558,
@@ -31,17 +32,26 @@
         "cranberry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Dl6ybReWHazUuiTIM6qMf_41.883026_-70.808558@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719561,
-    "wof:geomhash":"e7bc20ad91b23acf6158cd9464729c20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed733b62175e54c30e4424352ae12dad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672464937
+        }
+    ],
     "wof:id":672464937,
-    "wof:lastmodified":1472625733,
+    "wof:lastmodified":1492115963,
     "wof:name":"Williams & Alger Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.080403,42.041211,-71.080403,42.041211",
     "geom:latitude":42.041211,
     "geom:longitude":-71.080403,
@@ -31,19 +32,28 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_111fM5LcKT4UKxg3Id2w6l_42.041211_-71.080403@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718958,
-    "wof:geomhash":"46484675fb0b8bd2671794fe8f97cb2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c307acefd76faf9d36e61de7779a0f22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523987,
+            "venue_id":672442257
+        }
+    ],
     "wof:id":672442257,
-    "wof:lastmodified":1472625705,
+    "wof:lastmodified":1492106437,
     "wof:name":"Phoenix Cleaning Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.54653,41.897668,-70.54653,41.897668",
     "geom:latitude":41.897668,
     "geom:longitude":-70.54653,
@@ -31,17 +32,26 @@
         "electrolysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q9xwsfnvd0l0vMrFYHh8H_41.897668_-70.546530@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724901,
-    "wof:geomhash":"4052f8496255c9a433b54141930441c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aef75f012cdd89cd8e67e42a871ce757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523997,
+            "venue_id":672701767
+        }
+    ],
     "wof:id":672701767,
-    "wof:lastmodified":1472625951,
+    "wof:lastmodified":1492118278,
     "wof:name":"Plymouth Bay Electrology",
     "wof:parent_id":420523997,
     "wof:placetype":"venue",

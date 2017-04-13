@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.860464,41.845902,-70.860464,41.845902",
     "geom:latitude":41.845902,
     "geom:longitude":-70.860464,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5po9aqP9ySLzhULFW1HIuh_41.845902_-70.860464@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727148,
-    "wof:geomhash":"7cae22cdb7227ace68350d73e184495a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73dc164b5e7a671000b13b41c9b36c64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672808281
+        }
+    ],
     "wof:id":672808281,
-    "wof:lastmodified":1472626037,
+    "wof:lastmodified":1492106572,
     "wof:name":"Rock Village Church",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

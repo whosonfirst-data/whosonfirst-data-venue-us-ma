@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.612094,42.423929,-71.612094,42.423929",
     "geom:latitude":42.423929,
     "geom:longitude":-71.612094,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qmM0s7XyIkG9G7vppTvov_42.423929_-71.612094@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718081,
-    "wof:geomhash":"df37b274b2db5ac82c1cac605c7da2d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"962ad7de957ba27e4c6313d064724c63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":672407435
+        }
+    ],
     "wof:id":672407435,
-    "wof:lastmodified":1472625673,
+    "wof:lastmodified":1492112982,
     "wof:name":"Maynard Plumbing & Heating Co",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

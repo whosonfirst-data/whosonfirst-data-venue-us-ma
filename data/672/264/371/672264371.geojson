@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.757237,42.176507,-71.757237,42.176507",
     "geom:latitude":42.176507,
     "geom:longitude":-71.757237,
@@ -37,7 +38,8 @@
         85688645,
         85633793,
         85832477,
-        102084655
+        102084655,
+        85807067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461714894,
-    "wof:geomhash":"b1f7a01d4ff4d4b2e7736803a45f21fb",
+    "wof:geomhash":"6d912866768b1d14b89a3e48a7fda1d4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,19 @@
             "neighbourhood_id":85832477,
             "region_id":85688645,
             "venue_id":672264371
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85807067,
+            "region_id":85688645,
+            "venue_id":672264371
         }
     ],
     "wof:id":672264371,
-    "wof:lastmodified":1472625390,
+    "wof:lastmodified":1492116527,
     "wof:name":"Precision Tool Sales Inc",
-    "wof:parent_id":85832477,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

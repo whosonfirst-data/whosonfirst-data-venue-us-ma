@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.778732,41.96006,-70.778732,41.96006",
     "geom:latitude":41.96006,
     "geom:longitude":-70.778732,
@@ -37,17 +38,26 @@
         "companies-bottled"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QTPmMNXqMSKjlI9bM5voB_41.960060_-70.778732@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741217,
-    "wof:geomhash":"a4628fc68f1553bd33fb62d5467bab43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13e148f0031040154305e97a6a48fa64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689161701
+        }
+    ],
     "wof:id":689161701,
-    "wof:lastmodified":1472625528,
+    "wof:lastmodified":1492099165,
     "wof:name":"Rocky Mountain Spring Water Co",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.263152,42.131392,-71.263152,42.131392",
     "geom:latitude":42.131392,
     "geom:longitude":-71.263152,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73OIFJE1UkxoDLMiNUKlgt_42.131392_-71.263152@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721479,
-    "wof:geomhash":"f1ee98c5e851f615cf3dcbc12eec83a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff7cf98f6c7f22d6d0b8afe2074c8784",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672550891
+        }
+    ],
     "wof:id":672550891,
-    "wof:lastmodified":1472625839,
+    "wof:lastmodified":1492111802,
     "wof:name":"Matz Landscape Co",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.271561,42.120975,-71.271561,42.120975",
     "geom:latitude":42.120975,
     "geom:longitude":-71.271561,
@@ -31,17 +32,26 @@
         "engine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bqxM4G7adZGLNQPk7ABsk_42.120975_-71.271561@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712177,
-    "wof:geomhash":"11d7375f5028b35260ee3d4cc7f63a93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0233dcaecb388a9947c6a9dc165e6e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":656408121
+        }
+    ],
     "wof:id":656408121,
-    "wof:lastmodified":1472625118,
+    "wof:lastmodified":1492101246,
     "wof:name":"Mass Diesel Performance",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

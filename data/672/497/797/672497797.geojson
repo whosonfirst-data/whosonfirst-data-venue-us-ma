@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.397468,42.675624,-71.397468,42.675624",
     "geom:latitude":42.675624,
     "geom:longitude":-71.397468,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55n7eW9uPFKeWZh4RZ6TSm_42.675624_-71.397468@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720355,
-    "wof:geomhash":"84f742ebdaf473c442e8f70bfb394220",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e198e3104f28c3300b47e299eb89bbe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523675,
+            "venue_id":672497797
+        }
+    ],
     "wof:id":672497797,
-    "wof:lastmodified":1472625763,
+    "wof:lastmodified":1492105839,
     "wof:name":"Snsl Construction Inc",
     "wof:parent_id":420523675,
     "wof:placetype":"venue",

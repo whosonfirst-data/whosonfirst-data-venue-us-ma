@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.364615,42.320005,-71.364615,42.320005",
     "geom:latitude":42.320005,
     "geom:longitude":-71.364615,
@@ -32,17 +33,34 @@
         "housing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476463,
+        85633793,
+        85950623,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gUBfaPvYtJYrludLMGHOt_42.320005_-71.364615@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713822,
-    "wof:geomhash":"de179487b64bd21aeb3663b5dbfd2a9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"725a982bae4ac6a7420b1e9960135c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476463,
+            "locality_id":85950623,
+            "region_id":85688645,
+            "venue_id":672212967
+        }
+    ],
     "wof:id":672212967,
-    "wof:lastmodified":1472625236,
+    "wof:lastmodified":1492112836,
     "wof:name":"Wayland Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

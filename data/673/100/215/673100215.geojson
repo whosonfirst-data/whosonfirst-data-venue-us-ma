@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.570627,42.212609,-72.570627,42.212609",
     "geom:latitude":42.212609,
     "geom:longitude":-72.570627,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476347,
+        85633793,
+        85950397,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MaNivQaHVQRcVpaMzqAQ6_42.212609_-72.570627@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733761,
-    "wof:geomhash":"5cea5f29dd4ac9b7a455129995b6ba4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a20c075c9e8e4500146bfe20cbb1362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "region_id":85688645,
+            "venue_id":673100215
+        }
+    ],
     "wof:id":673100215,
-    "wof:lastmodified":1472625271,
+    "wof:lastmodified":1492103418,
     "wof:name":"Mason Manor Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

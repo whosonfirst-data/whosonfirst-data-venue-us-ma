@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.614339,42.438229,-71.614339,42.438229",
     "geom:latitude":42.438229,
     "geom:longitude":-71.614339,
@@ -31,17 +32,26 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HDGGMpDf2G4uaq5leknTG_42.438229_-71.614339@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711003,
-    "wof:geomhash":"0456d18f38eefb4065ce44fa78a78221",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e29b6286b16ef66b0f3527f9f5849328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":656351981
+        }
+    ],
     "wof:id":656351981,
-    "wof:lastmodified":1472624930,
+    "wof:lastmodified":1492102027,
     "wof:name":"Bob Plaskon",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

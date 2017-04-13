@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.654478,42.073079,-70.654478,42.073079",
     "geom:latitude":42.073079,
     "geom:longitude":-70.654478,
@@ -32,17 +33,26 @@
         "night"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PHFpLIXoRkLLiYVcr3EAL_42.073079_-70.654478@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723257,
-    "wof:geomhash":"ceeb92a968a4edf8855d47d940c7631e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"110d80f1dd83da86e9e3394ff4425f90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":672628309
+        }
+    ],
     "wof:id":672628309,
-    "wof:lastmodified":1472625874,
+    "wof:lastmodified":1492106741,
     "wof:name":"Ranch House",
     "wof:parent_id":420523971,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.839015,42.262184,-71.839015,42.262184",
     "geom:latitude":42.262184,
     "geom:longitude":-71.839015,
@@ -38,7 +39,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85827691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461721126,
-    "wof:geomhash":"74c630f4244729693ad646e976957003",
+    "wof:geomhash":"d66d139627053f199f5f5580546644a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85851649,
             "region_id":85688645,
             "venue_id":672533169
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85827691,
+            "region_id":85688645,
+            "venue_id":672533169
         }
     ],
     "wof:id":672533169,
-    "wof:lastmodified":1472625778,
+    "wof:lastmodified":1492111622,
     "wof:name":"Tech Brothers Temp Inc",
-    "wof:parent_id":85851649,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

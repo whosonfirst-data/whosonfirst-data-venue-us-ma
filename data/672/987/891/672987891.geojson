@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.060376,42.226771,-72.060376,42.226771",
     "geom:latitude":42.226771,
     "geom:longitude":-72.060376,
@@ -28,17 +29,34 @@
     "sg:postcode":"01515",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476071,
+        85633793,
+        85950721,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_203HbV5dNeUEMI9DWgpg5k_42.226771_-72.060376@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731256,
-    "wof:geomhash":"f88ba4804433dc12f8ad863f632091e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"961e40c67a6a0ac8b88fe24e9d57cceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476071,
+            "locality_id":85950721,
+            "region_id":85688645,
+            "venue_id":672987891
+        }
+    ],
     "wof:id":672987891,
-    "wof:lastmodified":1472626201,
+    "wof:lastmodified":1492117036,
     "wof:name":"Sparrow Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

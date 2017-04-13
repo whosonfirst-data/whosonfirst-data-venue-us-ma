@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.498342,41.674479,-70.498342,41.674479",
     "geom:latitude":41.674479,
     "geom:longitude":-70.498342,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3m6uElTAKKo7CvsWjsMDEB_41.674479_-70.498342@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724426,
-    "wof:geomhash":"5017e1bdc2a4307b1d420b3988894333",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46b62762b9b377a0562aebe8efc5d677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672681471
+        }
+    ],
     "wof:id":672681471,
-    "wof:lastmodified":1472625928,
+    "wof:lastmodified":1492117834,
     "wof:name":"Sean Coutinho",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.886198,41.641418,-70.886198,41.641418",
     "geom:latitude":41.641418,
     "geom:longitude":-70.886198,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ByHpq2O09wNKftRRJXQwR_41.641418_-70.886198@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713378,
-    "wof:geomhash":"88bca9b1dcb57821dbb367b96320dd72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6d7cf78479cfc2cc7d96bd04d2c519a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672191867
+        }
+    ],
     "wof:id":672191867,
-    "wof:lastmodified":1472625155,
+    "wof:lastmodified":1492116082,
     "wof:name":"Vacations Plus",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

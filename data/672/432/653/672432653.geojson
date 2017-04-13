@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.112565,42.348873,-71.112565,42.348873",
     "geom:latitude":42.348873,
     "geom:longitude":-71.112565,
@@ -31,17 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XukpsgQBlzBjJXTnVHvm5_42.348873_-71.112565@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718707,
-    "wof:geomhash":"f4eb300a3ad4870283198db669243713",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45ef944428c5d1a456c53c195db98cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "region_id":85688645,
+            "venue_id":672432653
+        }
+    ],
     "wof:id":672432653,
-    "wof:lastmodified":1472625702,
+    "wof:lastmodified":1492116231,
     "wof:name":"Peter Berger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.788376,42.08263,-70.788376,42.08263",
     "geom:latitude":42.08263,
     "geom:longitude":-70.788376,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ISXi8wjdBXaftd4KnlVMk_42.082630_-70.788376@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718932,
-    "wof:geomhash":"70331ffdd72e5562ea8af469ed960698",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8503c3ff6e7501ea9b6e06eb6571d16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":672441385
+        }
+    ],
     "wof:id":672441385,
-    "wof:lastmodified":1472625705,
+    "wof:lastmodified":1492119851,
     "wof:name":"CMX Travel",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

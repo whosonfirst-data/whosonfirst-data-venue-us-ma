@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.227131,41.681382,-70.227131,41.681382",
     "geom:latitude":41.681382,
     "geom:longitude":-70.227131,
@@ -32,17 +33,26 @@
         "promoter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5S9naGURn6nb18XORhXYjr_41.681382_-70.227131@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727139,
-    "wof:geomhash":"9dee4daa680c16830937e7f4470f180f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1171ced3075e86c78af748565495d8a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":672807805
+        }
+    ],
     "wof:id":672807805,
-    "wof:lastmodified":1472626045,
+    "wof:lastmodified":1492112800,
     "wof:name":"Denorscia Promotions Ltd",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

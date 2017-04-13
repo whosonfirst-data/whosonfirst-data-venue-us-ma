@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.694403,41.918803,-70.694403,41.918803",
     "geom:latitude":41.918803,
     "geom:longitude":-70.694403,
@@ -32,17 +33,26 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HYUfF47AI7HYfTyfCBUPD_41.918803_-70.694403@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731781,
-    "wof:geomhash":"b8f972a12f9ba95889e479830280df9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"828547d92173e91574c9476ba4fc7ed6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":673009161
+        }
+    ],
     "wof:id":673009161,
-    "wof:lastmodified":1472624926,
+    "wof:lastmodified":1492103383,
     "wof:name":"Mazzilli Pool Svc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

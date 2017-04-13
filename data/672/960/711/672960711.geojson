@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.026778,42.297604,-71.026778,42.297604",
     "geom:latitude":42.297604,
     "geom:longitude":-71.026778,
@@ -33,17 +34,34 @@
         "cover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476591,
+        85633793,
+        85950429,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mdZMAjyMyf8XFL0ILylJF_42.297604_-71.026778@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730451,
-    "wof:geomhash":"be3f73d3f09180af4bfb58768268ccb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df498fa1b38171b5fd0c269811d0bc4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476591,
+            "locality_id":85950429,
+            "region_id":85688645,
+            "venue_id":672960711
+        }
+    ],
     "wof:id":672960711,
-    "wof:lastmodified":1472626173,
+    "wof:lastmodified":1492110126,
     "wof:name":"Doc Mender",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

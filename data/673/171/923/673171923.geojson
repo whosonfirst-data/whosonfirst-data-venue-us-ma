@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.936474,42.733792,-70.936474,42.733792",
     "geom:latitude":42.733792,
     "geom:longitude":-70.936474,
@@ -32,17 +33,26 @@
         "registry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1847NKy7RZcV14fQkijMi1_42.733792_-70.936474@1303262192"
     },
     "wof:country":"US",
     "wof:created":1461735266,
-    "wof:geomhash":"ca0ee5a828eb299b46d5112b066b818e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca32b42b579e2fb1eadc1ea7316db6eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":673171923
+        }
+    ],
     "wof:id":673171923,
-    "wof:lastmodified":1472625479,
+    "wof:lastmodified":1492103728,
     "wof:name":"Maglio Consulting",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

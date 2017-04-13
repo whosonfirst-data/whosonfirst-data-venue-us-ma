@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.030405,41.589856,-71.030405,41.589856",
     "geom:latitude":41.589856,
     "geom:longitude":-71.030405,
@@ -28,19 +29,38 @@
     "sg:postcode":"02747",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523295,
+        85688645,
+        85846457,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UTx7CmVhKeL3z0mUOCV3m_41.589856_-71.030405@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721541,
-    "wof:geomhash":"de4ed2134145e3776e792a57535d7c32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7dd8be0fb771cb985e3e97684de43354",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523295,
+            "venue_id":672553709
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85846457,
+            "region_id":85688645,
+            "venue_id":672553709
+        }
+    ],
     "wof:id":672553709,
-    "wof:lastmodified":1472625834,
+    "wof:lastmodified":1492118351,
     "wof:name":"Dartmouth Town Florist",
-    "wof:parent_id":420523295,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

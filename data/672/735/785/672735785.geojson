@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.741019,42.045633,-70.741019,42.045633",
     "geom:latitude":42.045633,
     "geom:longitude":-70.741019,
@@ -32,17 +33,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N9YfgtPcqQUnNI9h7Hsli_42.045633_-70.741019@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725636,
-    "wof:geomhash":"04914e4f6642997438731cc6c404f9c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16b16ee7878f5de07ee243740da6053d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":672735785
+        }
+    ],
     "wof:id":672735785,
-    "wof:lastmodified":1472625982,
+    "wof:lastmodified":1492108630,
     "wof:name":"R & D Assoc",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

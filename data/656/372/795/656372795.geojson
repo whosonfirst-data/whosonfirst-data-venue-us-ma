@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.803192,42.290972,-71.803192,42.290972",
     "geom:latitude":42.290972,
     "geom:longitude":-71.803192,
@@ -38,7 +39,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85810327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461711436,
-    "wof:geomhash":"dc5cc32b8f637eec82d482eac063b6b2",
+    "wof:geomhash":"7eaa4bc39eae25799e04677e7cd6c956",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85881873,
             "region_id":85688645,
             "venue_id":656372795
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85810327,
+            "region_id":85688645,
+            "venue_id":656372795
         }
     ],
     "wof:id":656372795,
-    "wof:lastmodified":1472625013,
+    "wof:lastmodified":1492101580,
     "wof:name":"Honey Dew Donuts",
-    "wof:parent_id":85881873,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

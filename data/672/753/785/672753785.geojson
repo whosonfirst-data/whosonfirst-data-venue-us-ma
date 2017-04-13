@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.794282,42.27187,-71.794282,42.27187",
     "geom:latitude":42.27187,
     "geom:longitude":-71.794282,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805637,
+        85810369,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85805637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461726013,
-    "wof:geomhash":"921f2a3a11f79d985e3344267dbb437c",
+    "wof:geomhash":"502693f4c8f63c44bae6c185279df993",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85810369,
+            "region_id":85688645,
+            "venue_id":672753785
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":672753785,
-    "wof:lastmodified":1472625998,
+    "wof:lastmodified":1492110772,
     "wof:name":"Andrew Conlan",
-    "wof:parent_id":85805637,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

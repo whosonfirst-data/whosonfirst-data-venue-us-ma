@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.901518,42.368246,-71.901518,42.368246",
     "geom:latitude":42.368246,
     "geom:longitude":-71.901518,
@@ -31,17 +32,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LP6qH52b8UBOkzZ6kuE3u_42.368246_-71.901518@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711210,
-    "wof:geomhash":"8ceef96cb149206d556989b847532aab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87d75d512f05301b96f54d8a605e553c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524223,
+            "venue_id":656362325
+        }
+    ],
     "wof:id":656362325,
-    "wof:lastmodified":1472624929,
+    "wof:lastmodified":1492102344,
     "wof:name":"Harrington Hardwood",
     "wof:parent_id":420524223,
     "wof:placetype":"venue",

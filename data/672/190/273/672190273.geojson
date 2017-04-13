@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.052827,42.429397,-71.052827,42.429397",
     "geom:latitude":42.429397,
     "geom:longitude":-71.052827,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523709,
+        85832357,
         102191575,
         404476399,
         85633793,
         85950349,
         102084643,
-        85688645
+        85688645,
+        420523709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461713339,
-    "wof:geomhash":"4e1b855beaf23fda8f6cc1be9552a282",
+    "wof:geomhash":"06b0bf994287665fec59d325873ca6dd",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476399,
+            "locality_id":85950349,
+            "neighbourhood_id":85832357,
+            "region_id":85688645,
+            "venue_id":672190273
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":672190273,
-    "wof:lastmodified":1472625137,
+    "wof:lastmodified":1492113104,
     "wof:name":"7 Days A Week Locksmith",
-    "wof:parent_id":420523709,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

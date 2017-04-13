@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101931,42.124635,-71.101931,42.124635",
     "geom:latitude":42.124635,
     "geom:longitude":-71.101931,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tTUfdcTUpmh4m9T5HegTT_42.124635_-71.101931@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712458,
-    "wof:geomhash":"2966e3e1217c35e96338f659cbe80ec0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be8aaaddb0a4b713564c90c4360af48c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672150377
+        }
+    ],
     "wof:id":672150377,
-    "wof:lastmodified":1472624950,
+    "wof:lastmodified":1492116675,
     "wof:name":"Medical Pharmacy",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

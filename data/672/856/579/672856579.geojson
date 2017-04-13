@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.833574,42.244974,-71.833574,42.244974",
     "geom:latitude":42.244974,
     "geom:longitude":-71.833574,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854949,
+        85850233,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85854949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461728116,
-    "wof:geomhash":"90081e70e0cb5e7c8a32f79121840b8b",
+    "wof:geomhash":"6d0af762b7a02d4065ba4cc7a7dc8a5e",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85850233,
+            "region_id":85688645,
+            "venue_id":672856579
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":672856579,
-    "wof:lastmodified":1472626082,
+    "wof:lastmodified":1492115536,
     "wof:name":"Four Square Church",
-    "wof:parent_id":85854949,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

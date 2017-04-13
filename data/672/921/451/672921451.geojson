@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.273498,42.121988,-71.273498,42.121988",
     "geom:latitude":42.121988,
     "geom:longitude":-71.273498,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bYl1C0uI7jgOceqlY6hVf_42.121988_-71.273498@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729458,
-    "wof:geomhash":"aaddbd2869e10d42b7d57edac0a742b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d81842cfc107ed49003b5c25216bd7a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523805,
+            "venue_id":672921451
+        }
+    ],
     "wof:id":672921451,
-    "wof:lastmodified":1472626138,
+    "wof:lastmodified":1492114998,
     "wof:name":"Chris' Service Ctr Inc",
     "wof:parent_id":420523805,
     "wof:placetype":"venue",

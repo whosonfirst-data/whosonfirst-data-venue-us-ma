@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.066482,42.019366,-71.066482,42.019366",
     "geom:latitude":42.019366,
     "geom:longitude":-71.066482,
@@ -32,19 +33,28 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_008WdH9JeHyWgIrbQ9cXqT_42.019366_-71.066482@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723363,
-    "wof:geomhash":"79c9c73b2be9aa410c4e3c4b8d60a5dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74b5bf6b11ef605746e4e06ac62c0876",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523987,
+            "venue_id":672633627
+        }
+    ],
     "wof:id":672633627,
-    "wof:lastmodified":1472625885,
+    "wof:lastmodified":1492112471,
     "wof:name":"Martineau Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

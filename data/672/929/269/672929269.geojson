@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.083649,42.049492,-71.083649,42.049492",
     "geom:latitude":42.049492,
     "geom:longitude":-71.083649,
@@ -31,8 +32,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85813383,
-        102084407
+        85835343,
+        102084407,
+        85813383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +42,15 @@
     },
     "wof:country":"US",
     "wof:created":1461729610,
-    "wof:geomhash":"7f3e5bc577f661674243dc16407b4e17",
+    "wof:geomhash":"f1beed8bc99412994790c5b0dd68b749",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85835343,
+            "region_id":85688645,
+            "venue_id":672929269
+        },
         {
             "country_id":85633793,
             "county_id":102084407,
@@ -51,9 +60,9 @@
         }
     ],
     "wof:id":672929269,
-    "wof:lastmodified":1472626142,
+    "wof:lastmodified":1492114898,
     "wof:name":"CVS Pharmacy",
-    "wof:parent_id":85813383,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

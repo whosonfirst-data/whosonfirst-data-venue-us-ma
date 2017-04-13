@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.888558,41.641435,-70.888558,41.641435",
     "geom:latitude":41.641435,
     "geom:longitude":-70.888558,
@@ -46,17 +47,26 @@
         "medicine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bWgCUU98dVxIaC9fjxxsG_41.641435_-70.888558@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742354,
-    "wof:geomhash":"55dea42c6f812e2ea68548f6ad29efc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"798714cca9f8f7d2946fac710182f233",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":689214557
+        }
+    ],
     "wof:id":689214557,
-    "wof:lastmodified":1472625620,
+    "wof:lastmodified":1492097501,
     "wof:name":"Family Medical Center Inc",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

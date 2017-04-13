@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.622621,42.087015,-72.622621,42.087015",
     "geom:latitude":42.087015,
     "geom:longitude":-72.622621,
@@ -38,7 +39,10 @@
         85633793,
         85950399,
         102084627,
-        85688645
+        85688645,
+        85837161,
+        404476377,
+        85950389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461723741,
-    "wof:geomhash":"cd54f48560605d1cb09d578f967c50bc",
+    "wof:geomhash":"18dd106cb305a75aad272e2a0840c810",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +61,22 @@
             "neighbourhood_id":420523613,
             "region_id":85688645,
             "venue_id":672651349
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476377,
+            "locality_id":85950389,
+            "neighbourhood_id":85837161,
+            "region_id":85688645,
+            "venue_id":672651349
         }
     ],
     "wof:id":672651349,
-    "wof:lastmodified":1472625900,
+    "wof:lastmodified":1492108217,
     "wof:name":"Alan L Ferrigno",
-    "wof:parent_id":420523613,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

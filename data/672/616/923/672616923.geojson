@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.700027,42.18405,-72.700027,42.18405",
     "geom:latitude":42.18405,
     "geom:longitude":-72.700027,
@@ -34,17 +35,34 @@
         "award"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476375,
+        85633793,
+        85950391,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31DyDtP2bpYRZ29DeqVfwE_42.184050_-72.700027@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722991,
-    "wof:geomhash":"44e33e284270872f6fa6e48178dfc1c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b693408c411d75fdee275feeab53662c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476375,
+            "locality_id":85950391,
+            "region_id":85688645,
+            "venue_id":672616923
+        }
+    ],
     "wof:id":672616923,
-    "wof:lastmodified":1472625873,
+    "wof:lastmodified":1492105827,
     "wof:name":"Northeast Awards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

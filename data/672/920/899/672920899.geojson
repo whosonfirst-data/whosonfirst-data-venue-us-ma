@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.690997,42.035342,-70.690997,42.035342",
     "geom:latitude":42.035342,
     "geom:longitude":-70.690997,
@@ -39,7 +40,8 @@
         85633793,
         85950445,
         102084367,
-        85688645
+        85688645,
+        420523827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461729446,
-    "wof:geomhash":"d192f0e4d7146f54f34ffca0ab828443",
+    "wof:geomhash":"4e7ed47bf362a641ef00ed5fa4991428",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,17 @@
             "neighbourhood_id":420523891,
             "region_id":85688645,
             "venue_id":672920899
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523827,
+            "venue_id":672920899
         }
     ],
     "wof:id":672920899,
-    "wof:lastmodified":1472626142,
+    "wof:lastmodified":1492111838,
     "wof:name":"Duxbury Water Dept",
-    "wof:parent_id":420523891,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

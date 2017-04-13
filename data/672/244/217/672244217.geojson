@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.344325,41.823736,-71.344325,41.823736",
     "geom:latitude":41.823736,
     "geom:longitude":-71.344325,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85816693,
+        102191575,
+        404488363,
         85633793,
-        85831719,
-        102084407
+        101720571,
+        102081597,
+        85688509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,20 +48,23 @@
     },
     "wof:country":"US",
     "wof:created":1461714494,
-    "wof:geomhash":"d0976f79ba12496fdd0768cde4ed1957",
+    "wof:geomhash":"6a319f338563b0b5cbe20396458e6fc7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084407,
-            "neighbourhood_id":85831719,
-            "region_id":85688645,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85816693,
+            "region_id":85688509,
             "venue_id":672244217
         }
     ],
     "wof:id":672244217,
-    "wof:lastmodified":1472625336,
+    "wof:lastmodified":1492118949,
     "wof:name":"T N Asphalt Sealing",
-    "wof:parent_id":85831719,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

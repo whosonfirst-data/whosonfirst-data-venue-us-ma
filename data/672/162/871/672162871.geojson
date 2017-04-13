@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.022043,41.964379,-71.022043,41.964379",
     "geom:latitude":41.964379,
     "geom:longitude":-71.022043,
@@ -31,17 +32,26 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75vXY3zo8qTgRArwCU24mm_41.964379_-71.022043@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712725,
-    "wof:geomhash":"5a611b1aad010dcd1dea9f6e7e0465ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4239a2dc326ec76dd7de63a62f55a18e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672162871
+        }
+    ],
     "wof:id":672162871,
-    "wof:lastmodified":1472625035,
+    "wof:lastmodified":1492119074,
     "wof:name":"Canavan Builders",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

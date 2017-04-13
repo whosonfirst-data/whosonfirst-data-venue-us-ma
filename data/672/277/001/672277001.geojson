@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.8157,41.957447,-70.8157,41.957447",
     "geom:latitude":41.957447,
     "geom:longitude":-70.8157,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bJ0cvBXvBu07WUpkYm0Cw_41.957447_-70.815700@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715142,
-    "wof:geomhash":"76501e9e3c61482cc8034ba0cbf1ad7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f225b96524c9174daee854470712754",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":672277001
+        }
+    ],
     "wof:id":672277001,
-    "wof:lastmodified":1472625437,
+    "wof:lastmodified":1492112556,
     "wof:name":"Plympton Town Ambulance",
     "wof:parent_id":420523949,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.927492,42.05713,-70.927492,42.05713",
     "geom:latitude":42.05713,
     "geom:longitude":-70.927492,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0U2H8duEm7Lzii40X6HIHB_42.057130_-70.927492@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722923,
-    "wof:geomhash":"8c8f13857b34e0d9fb7f86074ad002f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8368eef3492897b41d1f4b779566651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523881,
+            "venue_id":672613823
+        }
+    ],
     "wof:id":672613823,
-    "wof:lastmodified":1472625867,
+    "wof:lastmodified":1492108993,
     "wof:name":"Total Auto Repair",
     "wof:parent_id":420523881,
     "wof:placetype":"venue",

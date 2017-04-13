@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.103641,41.524669,-71.103641,41.524669",
     "geom:latitude":41.524669,
     "geom:longitude":-71.103641,
@@ -31,19 +32,28 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540493
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2grwRPaniS19Lls3YjmMvX_41.524669_-71.103641@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729483,
-    "wof:geomhash":"25959221e09639737cd644967287d2a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ed3a6deb8c6e68fa638dfccada8f89b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540493,
+            "venue_id":672922929
+        }
+    ],
     "wof:id":672922929,
-    "wof:lastmodified":1472626145,
+    "wof:lastmodified":1492116351,
     "wof:name":"Amcare Medical",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

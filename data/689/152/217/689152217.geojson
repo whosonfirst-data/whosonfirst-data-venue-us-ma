@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.013191,41.970122,-71.013191,41.970122",
     "geom:latitude":41.970122,
     "geom:longitude":-71.013191,
@@ -38,17 +39,26 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5la0tg2WCrvcLuU67zjbN1_41.970122_-71.013191@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740988,
-    "wof:geomhash":"8855b42185db8e6b723d90111dac5135",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04111963ddb38261189719921de83cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":689152217
+        }
+    ],
     "wof:id":689152217,
-    "wof:lastmodified":1472625490,
+    "wof:lastmodified":1492101012,
     "wof:name":"Reis Real Estate & Co",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

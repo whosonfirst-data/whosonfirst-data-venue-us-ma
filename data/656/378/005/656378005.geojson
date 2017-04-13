@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.881317,41.734742,-70.881317,41.734742",
     "geom:latitude":41.734742,
     "geom:longitude":-70.881317,
@@ -31,17 +32,26 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Z22Ay8IinI1b65hecddOi_41.734742_-70.881317@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711546,
-    "wof:geomhash":"447078d9792146f2c984c6dc8d45d27f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e01554ad6a5a8c776f7e2f9a3383c54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":656378005
+        }
+    ],
     "wof:id":656378005,
-    "wof:lastmodified":1472624985,
+    "wof:lastmodified":1492101679,
     "wof:name":"Inspection Consultant Svc",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

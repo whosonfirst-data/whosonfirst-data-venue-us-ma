@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.883029,42.467764,-72.883029,42.467764",
     "geom:latitude":42.467764,
     "geom:longitude":-72.883029,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yU87A6yP7tdN4gwjNLcen_42.467764_-72.883029@1303262183"
     },
     "wof:country":"US",
     "wof:created":1461733769,
-    "wof:geomhash":"d10647d5961640ea45201cab2f2a1f5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b36a743a7b2d02ae6619f229e2aac21c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523653,
+            "venue_id":673100479
+        }
+    ],
     "wof:id":673100479,
-    "wof:lastmodified":1472625275,
+    "wof:lastmodified":1492103407,
     "wof:name":"P&M Marcoux",
     "wof:parent_id":420523653,
     "wof:placetype":"venue",

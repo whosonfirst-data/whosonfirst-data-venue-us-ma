@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.25558,42.27621,-71.25558,42.27621",
     "geom:latitude":42.27621,
     "geom:longitude":-71.25558,
@@ -38,7 +39,10 @@
         85633793,
         85950835,
         102084403,
-        85688645
+        85688645,
+        85891553,
+        404476601,
+        85950847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461728154,
-    "wof:geomhash":"3790479bb9d97a2f68776c21132bf0d2",
+    "wof:geomhash":"00ac69dfb7add7007dc3480e44bec2e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +61,22 @@
             "neighbourhood_id":85836459,
             "region_id":85688645,
             "venue_id":672858659
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476601,
+            "locality_id":85950847,
+            "neighbourhood_id":85891553,
+            "region_id":85688645,
+            "venue_id":672858659
         }
     ],
     "wof:id":672858659,
-    "wof:lastmodified":1472626087,
+    "wof:lastmodified":1492113415,
     "wof:name":"Lightline Technologies Inc",
-    "wof:parent_id":85836459,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

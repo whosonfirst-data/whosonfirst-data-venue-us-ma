@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.782304,42.077418,-70.782304,42.077418",
     "geom:latitude":42.077418,
     "geom:longitude":-70.782304,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cjxxCNJPUYDkH4EHSkgpb_42.077418_-70.782304@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723828,
-    "wof:geomhash":"2d5b397901d5e207a657fb4dcd8d2993",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65d832922dba108926add44c61ed4c4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":672655213
+        }
+    ],
     "wof:id":672655213,
-    "wof:lastmodified":1472625893,
+    "wof:lastmodified":1492119865,
     "wof:name":"Donovan Electric Construction",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

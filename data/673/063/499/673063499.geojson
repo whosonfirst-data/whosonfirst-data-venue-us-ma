@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.731955,42.245208,-71.731955,42.245208",
     "geom:latitude":42.245208,
     "geom:longitude":-71.731955,
@@ -32,17 +33,26 @@
         "mason"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55bbWvQODm0rIuGoYawnZw_42.245140_-71.732306@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733017,
-    "wof:geomhash":"871ca5915c85d8150b6739853d0ac995",
-    "wof:hierarchy":[],
+    "wof:geomhash":"658b490fbcf7000243e428b69e4ca063",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524151,
+            "venue_id":673063499
+        }
+    ],
     "wof:id":673063499,
-    "wof:lastmodified":1472625164,
+    "wof:lastmodified":1492105395,
     "wof:name":"Designed Masonry",
     "wof:parent_id":420524151,
     "wof:placetype":"venue",

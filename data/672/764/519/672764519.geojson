@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.395811,42.665169,-71.395811,42.665169",
     "geom:latitude":42.665169,
     "geom:longitude":-71.395811,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QzZCuIrQBrDLLrNCcH1Iw_42.665169_-71.395811@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726245,
-    "wof:geomhash":"942b8ea8fc3debb8b9cd05877a86b736",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8425811355bcfefa4789efcdef1f60b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672764519
+        }
+    ],
     "wof:id":672764519,
-    "wof:lastmodified":1472626000,
+    "wof:lastmodified":1492106559,
     "wof:name":"Pete's Garage",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

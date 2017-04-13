@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.062896,42.31086,-73.062896,42.31086",
     "geom:latitude":42.31086,
     "geom:longitude":-73.062896,
@@ -31,17 +32,26 @@
         "pottery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523247
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_171rOABVG9jm6S3eS524dg_42.310860_-73.062896@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716281,
-    "wof:geomhash":"7ea4399d3dfe2a973a1a9ae707293297",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7027ab123969ec8fb4804d9b6912457d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523247,
+            "venue_id":672332087
+        }
+    ],
     "wof:id":672332087,
-    "wof:lastmodified":1472625551,
+    "wof:lastmodified":1492107083,
     "wof:name":"East Knoll North Pottery",
     "wof:parent_id":420523247,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.879876,41.650355,-70.879876,41.650355",
     "geom:latitude":41.650355,
     "geom:longitude":-70.879876,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sXqHbWpsaZ2guERgNtqXp_41.650355_-70.879876@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725974,
-    "wof:geomhash":"ea37ce47f1e71e752c050d03b26b510a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c703435ecfc4229ab45df9a678a0e99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":672751753
+        }
+    ],
     "wof:id":672751753,
-    "wof:lastmodified":1472625995,
+    "wof:lastmodified":1492106102,
     "wof:name":"R M Electric",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.743625,41.739646,-70.743625,41.739646",
     "geom:latitude":41.739646,
     "geom:longitude":-70.743625,
@@ -32,17 +33,26 @@
         "diagnostic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19MQlrZe5MD78vV09REXM1_41.739646_-70.743625@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731124,
-    "wof:geomhash":"e0b29b6b037beddc90febee76a90cdaf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc57b02316a945e946491498ddc92eac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523897,
+            "venue_id":672983295
+        }
+    ],
     "wof:id":672983295,
-    "wof:lastmodified":1472626191,
+    "wof:lastmodified":1492106372,
     "wof:name":"Dyson's Auto",
     "wof:parent_id":420523897,
     "wof:placetype":"venue",

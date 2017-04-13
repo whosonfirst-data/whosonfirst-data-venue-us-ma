@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.892402,42.219285,-70.892402,42.219285",
     "geom:latitude":42.219285,
     "geom:longitude":-70.892402,
@@ -48,17 +49,26 @@
         "kitchen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nqqvk1zc69Tsj8Z4mVvIn_42.219285_-70.892402@1303262198"
     },
     "wof:country":"US",
     "wof:created":1461736081,
-    "wof:geomhash":"2a3d85ccf8560c67978b2ec4578cde79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f3c4e9557c1ce1ad30df3b0d22d5f29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523905,
+            "venue_id":688941733
+        }
+    ],
     "wof:id":688941733,
-    "wof:lastmodified":1472625109,
+    "wof:lastmodified":1492120732,
     "wof:name":"Sterling Cabinet Makers",
     "wof:parent_id":420523905,
     "wof:placetype":"venue",

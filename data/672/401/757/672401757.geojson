@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.933034,41.710241,-70.933034,41.710241",
     "geom:latitude":41.710241,
     "geom:longitude":-70.933034,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_497Hjrl7VB97S2d0c1jjeC_41.710241_-70.933034@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717915,
-    "wof:geomhash":"5cacb6226319a5a1279f17022230354c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e8a3505a163096c64ca606f2cc4adda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":672401757
+        }
+    ],
     "wof:id":672401757,
-    "wof:lastmodified":1472625680,
+    "wof:lastmodified":1492109272,
     "wof:name":"Capital Wiring Systems",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

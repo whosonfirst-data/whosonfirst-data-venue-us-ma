@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.312335,42.062305,-73.312335,42.062305",
     "geom:latitude":42.062305,
     "geom:longitude":-73.312335,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B5UknArUIRxcEWwl1O27a_42.062305_-73.312335@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727826,
-    "wof:geomhash":"f644dfe628f767fd4b2f2cefe9e5f4c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c18f8d871e054bae3cdbb58714496af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672841399
+        }
+    ],
     "wof:id":672841399,
-    "wof:lastmodified":1472626067,
+    "wof:lastmodified":1492112665,
     "wof:name":"D & S Automotive",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.113517,42.624176,-73.113517,42.624176",
     "geom:latitude":42.624176,
     "geom:longitude":-73.113517,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hypqLpPiJwMgTbezsa19o_42.624176_-73.113517@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720558,
-    "wof:geomhash":"77f1d3314515aa19baeb026e795fd418",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1973a1b07a3699bd9a52e365463fa6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523249,
+            "venue_id":672506671
+        }
+    ],
     "wof:id":672506671,
-    "wof:lastmodified":1472625772,
+    "wof:lastmodified":1492109432,
     "wof:name":"Monarch Realty",
     "wof:parent_id":420523249,
     "wof:placetype":"venue",

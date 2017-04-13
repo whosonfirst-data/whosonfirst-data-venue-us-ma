@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.393538,42.641591,-71.393538,42.641591",
     "geom:latitude":42.641591,
     "geom:longitude":-71.393538,
@@ -32,17 +33,26 @@
         "treatment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02K0QtRvBcQ4RTSyP9jeq1_42.641591_-71.393538@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711627,
-    "wof:geomhash":"8dd0b4a590cf54321bbb0f1dcddd53cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"059c9afbc8fd6a25d8ed8a5130a10efc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":656382183
+        }
+    ],
     "wof:id":656382183,
-    "wof:lastmodified":1472624994,
+    "wof:lastmodified":1492101301,
     "wof:name":"Process Services Co",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

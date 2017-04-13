@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.587025,42.60892,-72.587025,42.60892",
     "geom:latitude":42.60892,
     "geom:longitude":-72.587025,
@@ -35,13 +36,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834871,
+        85816365,
         102191575,
-        404476243,
+        404476235,
         85633793,
-        85950763,
+        85950383,
         102084457,
-        85688645
+        85688645,
+        85834871,
+        404476243,
+        85950763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +53,18 @@
     },
     "wof:country":"US",
     "wof:created":1461728865,
-    "wof:geomhash":"2e13836006a980ef13723134ec693155",
+    "wof:geomhash":"1672302ae205024127c871455381d5e0",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084457,
+            "localadmin_id":404476235,
+            "locality_id":85950383,
+            "neighbourhood_id":85816365,
+            "region_id":85688645,
+            "venue_id":672891943
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -63,9 +77,9 @@
         }
     ],
     "wof:id":672891943,
-    "wof:lastmodified":1472626117,
+    "wof:lastmodified":1492107435,
     "wof:name":"Audrey's Wigs",
-    "wof:parent_id":85834871,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

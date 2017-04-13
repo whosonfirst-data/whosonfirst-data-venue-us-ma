@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.115428,42.447263,-73.115428,42.447263",
     "geom:latitude":42.447263,
     "geom:longitude":-73.115428,
@@ -33,17 +34,32 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475915,
+        85633793,
+        102084369
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tSVWHSxzJmmAnHtmKWPcF_42.447263_-73.115428@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731110,
-    "wof:geomhash":"6237058ba3e49ab2e59aa90f94a621f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"609c468c159019a581107805be694227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084369,
+            "localadmin_id":404475915,
+            "region_id":85688645,
+            "venue_id":672982619
+        }
+    ],
     "wof:id":672982619,
-    "wof:lastmodified":1472626193,
+    "wof:lastmodified":1492118612,
     "wof:name":"Country Road Co-Op Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

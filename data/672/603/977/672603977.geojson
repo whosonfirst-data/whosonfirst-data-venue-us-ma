@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.698228,42.065741,-70.698228,42.065741",
     "geom:latitude":42.065741,
     "geom:longitude":-70.698228,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OxhP5L3CwDsgLI1R52Ae9_42.065741_-70.698228@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722690,
-    "wof:geomhash":"0391120fac688ee882d5e32c2265ed45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0deed9af23d9b78da75c38f6ab394047",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":672603977
+        }
+    ],
     "wof:id":672603977,
-    "wof:lastmodified":1472625860,
+    "wof:lastmodified":1492117896,
     "wof:name":"Consumers Medical Resource",
     "wof:parent_id":420523971,
     "wof:placetype":"venue",

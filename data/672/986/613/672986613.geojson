@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.218239,42.321793,-71.218239,42.321793",
     "geom:latitude":42.321793,
     "geom:longitude":-71.218239,
@@ -31,17 +32,34 @@
         "psychotherapist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476411,
+        85633793,
+        85950341,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gDvcfbYRJRsyrA7hd88Us_42.321793_-71.218239@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731205,
-    "wof:geomhash":"66671d2b9dd7fa7d61c81f9e6d6007cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df339c036011bbb9de800d9249555ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476411,
+            "locality_id":85950341,
+            "region_id":85688645,
+            "venue_id":672986613
+        }
+    ],
     "wof:id":672986613,
-    "wof:lastmodified":1472626195,
+    "wof:lastmodified":1492108956,
     "wof:name":"New Standard Psychotherapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

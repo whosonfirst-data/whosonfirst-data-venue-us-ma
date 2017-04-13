@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.229183,42.591865,-72.229183,42.591865",
     "geom:latitude":42.591865,
     "geom:longitude":-72.229183,
@@ -31,17 +32,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476527,
+        85633793,
+        85950709,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78E08ux114NchNM9HsKMbr_42.591865_-72.229183@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728183,
-    "wof:geomhash":"b452ad0251a677da7de01f38bc9f61bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ec1ee62e713667962f05cfb381bcec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476527,
+            "locality_id":85950709,
+            "region_id":85688645,
+            "venue_id":672860291
+        }
+    ],
     "wof:id":672860291,
-    "wof:lastmodified":1472626077,
+    "wof:lastmodified":1492115065,
     "wof:name":"General Transportation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.862345,41.926879,-70.862345,41.926879",
     "geom:latitude":41.926879,
     "geom:longitude":-70.862345,
@@ -31,17 +32,26 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NVsAEAVZZiGOIFaQFAyZP_41.926879_-70.862345@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717328,
-    "wof:geomhash":"a5fe17ee1ad630ea3286fd03663408ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e57f287abf08d0a0f55bcf76ff88b8c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523895,
+            "venue_id":672375219
+        }
+    ],
     "wof:id":672375219,
-    "wof:lastmodified":1472625644,
+    "wof:lastmodified":1492107145,
     "wof:name":"Bulkhead Man",
     "wof:parent_id":420523895,
     "wof:placetype":"venue",

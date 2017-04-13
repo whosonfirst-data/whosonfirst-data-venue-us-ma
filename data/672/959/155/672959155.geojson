@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.331041,42.103733,-73.331041,42.103733",
     "geom:latitude":42.103733,
     "geom:longitude":-73.331041,
@@ -31,17 +32,26 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5at3EqYKGsvnOJ0DyM0G7R_42.103733_-73.331041@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730403,
-    "wof:geomhash":"c25fd134adf64492bd3b983eb7c1bda1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c82ffb38127867da921f4c1a14f979d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672959155
+        }
+    ],
     "wof:id":672959155,
-    "wof:lastmodified":1472626166,
+    "wof:lastmodified":1492115475,
     "wof:name":"Landscaper",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

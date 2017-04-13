@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.083743,42.325438,-73.083743,42.325438",
     "geom:latitude":42.325438,
     "geom:longitude":-73.083743,
@@ -32,19 +33,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523247
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Hxzh4wHZUcG5mNvRv68bf_42.325438_-73.083743@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732279,
-    "wof:geomhash":"7fe3a60978e995606ce119c0ef560a98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f244a45077208ace58e5494bfe9b8d25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523247,
+            "venue_id":673028291
+        }
+    ],
     "wof:id":673028291,
-    "wof:lastmodified":1472625016,
+    "wof:lastmodified":1492103304,
     "wof:name":"Lavoie Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

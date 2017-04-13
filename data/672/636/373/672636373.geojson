@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.980095,42.028865,-70.980095,42.028865",
     "geom:latitude":42.028865,
     "geom:longitude":-70.980095,
@@ -33,17 +34,26 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zFWHdsuHXgjDQS19I7T6l_42.028865_-70.980095@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723426,
-    "wof:geomhash":"25a9d0350ec2dd0370baf3bef809f818",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74769beccf8afa259ac3e800fbea4727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523939,
+            "venue_id":672636373
+        }
+    ],
     "wof:id":672636373,
-    "wof:lastmodified":1472625884,
+    "wof:lastmodified":1492118641,
     "wof:name":"Scenic Art Studios",
     "wof:parent_id":420523939,
     "wof:placetype":"venue",

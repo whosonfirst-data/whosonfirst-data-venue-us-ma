@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.227202,41.67533,-70.227202,41.67533",
     "geom:latitude":41.67533,
     "geom:longitude":-70.227202,
@@ -31,17 +32,26 @@
         "condominium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QDuLgp5yyGYHF5HpxcRbj_41.675330_-70.227202@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711594,
-    "wof:geomhash":"08a02b747e267617cf006407378ad68b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"505d6002535526e03876bd80ba49cfb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":656380795
+        }
+    ],
     "wof:id":656380795,
-    "wof:lastmodified":1472625018,
+    "wof:lastmodified":1492101516,
     "wof:name":"Buck Island Village Condo Trst",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

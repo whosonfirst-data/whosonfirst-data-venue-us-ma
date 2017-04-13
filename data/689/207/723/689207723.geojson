@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.467628,41.656609,-70.467628,41.656609",
     "geom:latitude":41.656609,
     "geom:longitude":-70.467628,
@@ -33,17 +34,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tUt9iHi3miYTymJXSGcWL_41.656609_-70.467628@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742212,
-    "wof:geomhash":"52acc074afb8c25375e26efb517b4e98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c971b788649fe9ee921b9982a8deb200",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":689207723
+        }
+    ],
     "wof:id":689207723,
-    "wof:lastmodified":1472625612,
+    "wof:lastmodified":1492099836,
     "wof:name":"B.A. Perazim Inc.",
     "wof:parent_id":420523231,
     "wof:placetype":"venue",

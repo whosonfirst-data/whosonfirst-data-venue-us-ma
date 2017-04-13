@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.076553,42.040809,-71.076553,42.040809",
     "geom:latitude":42.040809,
     "geom:longitude":-71.076553,
@@ -31,19 +32,28 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0j4tkvh5CYduNnyQgNQiUD_42.040809_-71.076553@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722116,
-    "wof:geomhash":"fb05d8e7bf90ae7415be6499ed3221da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe68a11a97ca3163e4a9b21f34f8f076",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":672579653
+        }
+    ],
     "wof:id":672579653,
-    "wof:lastmodified":1472625833,
+    "wof:lastmodified":1492112605,
     "wof:name":"Robert O Kirk DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

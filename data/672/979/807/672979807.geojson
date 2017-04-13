@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.018126,42.403378,-71.018126,42.403378",
     "geom:latitude":42.403378,
     "geom:longitude":-71.018126,
@@ -33,13 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891487,
+        85891301,
         102191575,
-        404476577,
+        404476575,
         85633793,
-        85950357,
+        85950359,
         102084423,
-        85688645
+        85688645,
+        85891487,
+        404476577,
+        85950357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +51,18 @@
     },
     "wof:country":"US",
     "wof:created":1461731029,
-    "wof:geomhash":"4567fb83453459a1aa9f60f420ff0bba",
+    "wof:geomhash":"81a9a12ab5df22355af50cedd651b2cc",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084423,
+            "localadmin_id":404476575,
+            "locality_id":85950359,
+            "neighbourhood_id":85891301,
+            "region_id":85688645,
+            "venue_id":672979807
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +75,9 @@
         }
     ],
     "wof:id":672979807,
-    "wof:lastmodified":1472626193,
+    "wof:lastmodified":1492117027,
     "wof:name":"Occupational Health Ctr",
-    "wof:parent_id":85891487,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

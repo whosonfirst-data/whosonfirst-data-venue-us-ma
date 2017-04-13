@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.018057,42.749053,-71.018057,42.749053",
     "geom:latitude":42.749053,
     "geom:longitude":-71.018057,
@@ -37,7 +38,9 @@
         85688645,
         85633793,
         85849709,
-        102084463
+        102084463,
+        85950417,
+        85845023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461713088,
-    "wof:geomhash":"88fa7711314d3a4c555a8c7a72c3c57e",
+    "wof:geomhash":"ec9923827aa5541ff3acd6ee57ff4af9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,20 @@
             "neighbourhood_id":85849709,
             "region_id":85688645,
             "venue_id":672178859
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950417,
+            "neighbourhood_id":85845023,
+            "region_id":85688645,
+            "venue_id":672178859
         }
     ],
     "wof:id":672178859,
-    "wof:lastmodified":1472625103,
+    "wof:lastmodified":1492108934,
     "wof:name":"Gebrauchshund Shepherds",
-    "wof:parent_id":85849709,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

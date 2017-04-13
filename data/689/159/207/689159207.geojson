@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.552236,41.819074,-70.552236,41.819074",
     "geom:latitude":41.819074,
     "geom:longitude":-70.552236,
@@ -32,17 +33,26 @@
         "consignment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZcheWkxOGNjYe03v9p6Ss_41.819074_-70.552236@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741154,
-    "wof:geomhash":"8356139308a458d2df1f2d879000f0cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"daaf120514c2f2449c02c89cf16cd710",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":689159207
+        }
+    ],
     "wof:id":689159207,
-    "wof:lastmodified":1472625500,
+    "wof:lastmodified":1492097581,
     "wof:name":"Next In LIne Quality Consignmens",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

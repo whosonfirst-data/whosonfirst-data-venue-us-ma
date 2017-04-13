@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.108088,42.047618,-71.108088,42.047618",
     "geom:latitude":42.047618,
     "geom:longitude":-71.108088,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85817073,
-        102084407
+        85813383,
+        102084407,
+        85817073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,15 @@
     },
     "wof:country":"US",
     "wof:created":1461717096,
-    "wof:geomhash":"30b72176b68101c961c7c6d9229eaf1e",
+    "wof:geomhash":"6b89e557b015b58a3cae739b2b34f839",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85813383,
+            "region_id":85688645,
+            "venue_id":672365279
+        },
         {
             "country_id":85633793,
             "county_id":102084407,
@@ -54,9 +63,9 @@
         }
     ],
     "wof:id":672365279,
-    "wof:lastmodified":1472625635,
+    "wof:lastmodified":1492112872,
     "wof:name":"Bristol Associates",
-    "wof:parent_id":85817073,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

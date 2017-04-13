@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.047616,42.40078,-71.047616,42.40078",
     "geom:latitude":42.40078,
     "geom:longitude":-71.047616,
@@ -31,17 +32,34 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476487,
+        85633793,
+        85950331,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4t5n7pBP4QqhWZVevtcJ69_42.400780_-71.047616@1303262220"
     },
     "wof:country":"US",
     "wof:created":1461739569,
-    "wof:geomhash":"3fcbb38166b9309cece703412644ae17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41d36e25a366df3fca86ac37c67d1f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476487,
+            "locality_id":85950331,
+            "region_id":85688645,
+            "venue_id":689108353
+        }
+    ],
     "wof:id":689108353,
-    "wof:lastmodified":1472625381,
+    "wof:lastmodified":1492098597,
     "wof:name":"Davidson G S Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

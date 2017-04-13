@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.927678,42.312479,-71.927678,42.312479",
     "geom:latitude":42.312479,
     "geom:longitude":-71.927678,
@@ -37,17 +38,26 @@
         "churches-catholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nCanmnSsKgAmcKBxtrRLM_42.312479_-71.927678@1303262188"
     },
     "wof:country":"US",
     "wof:created":1461734481,
-    "wof:geomhash":"84f8016319c75938c22cd94664240768",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1be8610bb1abb55e81e9d7818f17f5b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":673134521
+        }
+    ],
     "wof:id":673134521,
-    "wof:lastmodified":1472625379,
+    "wof:lastmodified":1492103040,
     "wof:name":"St Columbus Church",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

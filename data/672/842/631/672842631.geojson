@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.950386,41.853882,-70.950386,41.853882",
     "geom:latitude":41.853882,
     "geom:longitude":-70.950386,
@@ -31,17 +32,26 @@
         "fence"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oLVFpZtoMJmq6JRL8r5xy_41.853882_-70.950386@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727849,
-    "wof:geomhash":"b2b7d36062497d49414e401cd86395ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6064efd98cc98aa50321c430c4ccb75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523969,
+            "venue_id":672842631
+        }
+    ],
     "wof:id":672842631,
-    "wof:lastmodified":1472626080,
+    "wof:lastmodified":1492108551,
     "wof:name":"South East Fence Co",
     "wof:parent_id":420523969,
     "wof:placetype":"venue",

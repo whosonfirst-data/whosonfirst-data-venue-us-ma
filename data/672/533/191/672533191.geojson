@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.726046,42.152156,-72.726046,42.152156",
     "geom:latitude":42.152156,
     "geom:longitude":-72.726046,
@@ -31,17 +32,34 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476375,
+        85633793,
+        85950391,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AT3n2h25RMkiwR5QPp9H5_42.152156_-72.726046@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721127,
-    "wof:geomhash":"f17ace247c05fb39032f7e8ca798117b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1888c1d42ea98842701caa4bca963309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476375,
+            "locality_id":85950391,
+            "region_id":85688645,
+            "venue_id":672533191
+        }
+    ],
     "wof:id":672533191,
-    "wof:lastmodified":1472625777,
+    "wof:lastmodified":1492111631,
     "wof:name":"Dave Brill's Auto Repair Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

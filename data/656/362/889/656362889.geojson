@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.305341,42.130031,-73.305341,42.130031",
     "geom:latitude":42.130031,
     "geom:longitude":-73.305341,
@@ -33,17 +34,26 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lb0FkxNWWwTdoFsUm6Rb0_42.130031_-73.305341@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711222,
-    "wof:geomhash":"b8b86397a2987bc5fb0b3d981f6bb1f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b4a65e8bc8f1530255f4c3bf5abb5f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":656362889
+        }
+    ],
     "wof:id":656362889,
-    "wof:lastmodified":1472624975,
+    "wof:lastmodified":1492102355,
     "wof:name":"City Moves Warehouse",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

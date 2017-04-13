@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.543583,42.656428,-72.543583,42.656428",
     "geom:latitude":42.656428,
     "geom:longitude":-72.543583,
@@ -32,17 +33,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bB67nCVswBpSS5rsALOsx_42.656428_-72.543583@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713996,
-    "wof:geomhash":"c3d3f27f4b5282bdfe4008ea1415cdd7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49f083b93706ae346805649de397ff40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672221195
+        }
+    ],
     "wof:id":672221195,
-    "wof:lastmodified":1472625224,
+    "wof:lastmodified":1492113618,
     "wof:name":"Snap-On Tools",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

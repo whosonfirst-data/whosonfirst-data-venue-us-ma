@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.799603,42.238293,-70.799603,42.238293",
     "geom:latitude":42.238293,
     "geom:longitude":-70.799603,
@@ -33,17 +34,26 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WwKCjKyFKFQTLCRZ9FTh1_42.238293_-70.799603@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712313,
-    "wof:geomhash":"6fd9f19c1a06b24108f4ef955b7fdf94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97e9f6c76c4d2a6b9ead3cbf1730ca0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672143133
+        }
+    ],
     "wof:id":672143133,
-    "wof:lastmodified":1472624920,
+    "wof:lastmodified":1492112616,
     "wof:name":"Saltmarsh Farm",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

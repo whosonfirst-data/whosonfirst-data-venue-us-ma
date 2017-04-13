@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.63749,42.629473,-70.63749,42.629473",
     "geom:latitude":42.629473,
     "geom:longitude":-70.63749,
@@ -39,7 +40,8 @@
         85633793,
         85950419,
         102084463,
-        85688645
+        85688645,
+        85804703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461714843,
-    "wof:geomhash":"62d4b8c765c4a51e0eb7463bf53ba287",
+    "wof:geomhash":"917184d0dcb6fc0329de7bc47bf4e8c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,22 @@
             "neighbourhood_id":85816353,
             "region_id":85688645,
             "venue_id":672261865
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476197,
+            "locality_id":85950419,
+            "neighbourhood_id":85804703,
+            "region_id":85688645,
+            "venue_id":672261865
         }
     ],
     "wof:id":672261865,
-    "wof:lastmodified":1472625388,
+    "wof:lastmodified":1492112957,
     "wof:name":"Spin Design",
-    "wof:parent_id":85816353,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

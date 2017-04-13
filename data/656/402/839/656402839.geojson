@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.560254,42.103311,-71.560254,42.103311",
     "geom:latitude":42.103311,
     "geom:longitude":-71.560254,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"US",
     "wof:created":1461712066,
-    "wof:geomhash":"59ef3892565b515560ad7de2ef123e95",
+    "wof:geomhash":"b856a2cbac94441a5efe618fff3972c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":656402839
         }
     ],
     "wof:id":656402839,
-    "wof:lastmodified":1472625106,
+    "wof:lastmodified":1492101809,
     "wof:name":"Fino Chrysler Plymouth Dodge",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

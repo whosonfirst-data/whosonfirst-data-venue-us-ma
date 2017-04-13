@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.642578,41.943126,-70.642578,41.943126",
     "geom:latitude":41.943126,
     "geom:longitude":-70.642578,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85827215,
+        102191575,
+        404476561,
         85633793,
-        85810861,
-        102084367
+        85950483,
+        102084367,
+        85688645,
+        85810861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461711998,
-    "wof:geomhash":"a9dfe12cc9ac283e9c2d629009be0fe9",
+    "wof:geomhash":"88b3bda56417da7d7db734df84201770",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476561,
+            "locality_id":85950483,
+            "neighbourhood_id":85827215,
+            "region_id":85688645,
+            "venue_id":656399193
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -54,9 +69,9 @@
         }
     ],
     "wof:id":656399193,
-    "wof:lastmodified":1472625075,
+    "wof:lastmodified":1492101830,
     "wof:name":"Fugazzi Party Rental",
-    "wof:parent_id":85810861,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

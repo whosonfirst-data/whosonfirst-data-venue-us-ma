@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.340361,42.63834,-71.340361,42.63834",
     "geom:latitude":42.63834,
     "geom:longitude":-71.340361,
@@ -40,7 +41,8 @@
         85633793,
         85950327,
         102084643,
-        85688645
+        85688645,
+        85891407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461725168,
-    "wof:geomhash":"3ca1474f68b91e474ec6009e730f560a",
+    "wof:geomhash":"52bb40e0116b6700bed38fd180c703c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,22 @@
             "neighbourhood_id":85825227,
             "region_id":85688645,
             "venue_id":672714203
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476397,
+            "locality_id":85950327,
+            "neighbourhood_id":85891407,
+            "region_id":85688645,
+            "venue_id":672714203
         }
     ],
     "wof:id":672714203,
-    "wof:lastmodified":1472625953,
+    "wof:lastmodified":1492118048,
     "wof:name":"Mechanics Direct Inc",
-    "wof:parent_id":85825227,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.025637,42.719162,-71.025637,42.719162",
     "geom:latitude":42.719162,
     "geom:longitude":-71.025637,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43kOvhhIvBNRUsy0IxMYo8_42.719162_-71.025637@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719926,
-    "wof:geomhash":"d78396a3e3db59e6b3345a305eadf2a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15d954a106471534836bb54582c049b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672479327
+        }
+    ],
     "wof:id":672479327,
-    "wof:lastmodified":1472625739,
+    "wof:lastmodified":1492106892,
     "wof:name":"Georgetown Town Office",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

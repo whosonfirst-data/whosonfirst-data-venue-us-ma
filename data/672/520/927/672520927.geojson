@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.64824,42.130133,-71.64824,42.130133",
     "geom:latitude":42.130133,
     "geom:longitude":-71.64824,
@@ -33,17 +34,26 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524169
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uDK2Pi0JZh1HrmlHRThC2_42.130133_-71.648240@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720852,
-    "wof:geomhash":"4e410a535baee828774386db6e542cba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75d100a6273df37d62b2e3cc5e2fbf38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524169,
+            "venue_id":672520927
+        }
+    ],
     "wof:id":672520927,
-    "wof:lastmodified":1472625796,
+    "wof:lastmodified":1492119288,
     "wof:name":"3rd Generation",
     "wof:parent_id":420524169,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.576017,41.836244,-70.576017,41.836244",
     "geom:latitude":41.836244,
     "geom:longitude":-70.576017,
@@ -31,19 +32,32 @@
         "payroll"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85868737,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33R65SiCZiEVFtFMk3BkDH_41.836244_-70.576017@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712367,
-    "wof:geomhash":"b53304f5ec6f792bdc4c7f3d3f62526c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc611b2d137ef93e9780da6461702cd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85868737,
+            "region_id":85688645,
+            "venue_id":672145837
+        }
+    ],
     "wof:id":672145837,
-    "wof:lastmodified":1472624956,
+    "wof:lastmodified":1492119410,
     "wof:name":"Paychex Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

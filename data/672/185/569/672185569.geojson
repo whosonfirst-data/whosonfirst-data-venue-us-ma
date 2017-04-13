@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.150509,41.710457,-70.150509,41.710457",
     "geom:latitude":41.710457,
     "geom:longitude":-70.150509,
@@ -38,7 +39,10 @@
         85633793,
         85950575,
         102084379,
-        85688645
+        85688645,
+        85891517,
+        404475899,
+        85950509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461713239,
-    "wof:geomhash":"a3a7928b95974f9027a84e5f90aef22c",
+    "wof:geomhash":"d2a2be4732aeae57e2325f62b1831850",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +61,22 @@
             "neighbourhood_id":420523235,
             "region_id":85688645,
             "venue_id":672185569
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404475899,
+            "locality_id":85950509,
+            "neighbourhood_id":85891517,
+            "region_id":85688645,
+            "venue_id":672185569
         }
     ],
     "wof:id":672185569,
-    "wof:lastmodified":1472625128,
+    "wof:lastmodified":1492111590,
     "wof:name":"Cape Cod Healthcare Inc",
-    "wof:parent_id":420523235,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

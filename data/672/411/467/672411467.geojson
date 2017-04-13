@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.900403,42.198581,-71.900403,42.198581",
     "geom:latitude":42.198581,
     "geom:longitude":-71.900403,
@@ -35,7 +36,8 @@
         85688645,
         85633793,
         85812007,
-        102084655
+        102084655,
+        420524147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461718203,
-    "wof:geomhash":"0d3af58a5df0fb914ceb6ebc25c8d581",
+    "wof:geomhash":"ec6e7a60f789847b3c42a764320f642d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,17 @@
             "neighbourhood_id":85812007,
             "region_id":85688645,
             "venue_id":672411467
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":672411467
         }
     ],
     "wof:id":672411467,
-    "wof:lastmodified":1472625680,
+    "wof:lastmodified":1492117456,
     "wof:name":"Sherblom Construction Co",
-    "wof:parent_id":85812007,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

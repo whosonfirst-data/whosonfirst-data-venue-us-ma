@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.535985,41.866076,-70.535985,41.866076",
     "geom:latitude":41.866076,
     "geom:longitude":-70.535985,
@@ -31,17 +32,26 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0je5AMgtuXSn4PUQiBtdRV_41.866076_-70.535985@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714674,
-    "wof:geomhash":"59f4c42c33a56be47075aee076c9873a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2429cd0e96d5787745130c3b07acd70f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523845,
+            "venue_id":672253203
+        }
+    ],
     "wof:id":672253203,
-    "wof:lastmodified":1472625337,
+    "wof:lastmodified":1492111824,
     "wof:name":"Mario Artiano",
     "wof:parent_id":420523845,
     "wof:placetype":"venue",

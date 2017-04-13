@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.927945,42.468888,-70.927945,42.468888",
     "geom:latitude":42.468888,
     "geom:longitude":-70.927945,
@@ -39,7 +40,8 @@
         85633793,
         85950413,
         102084463,
-        85688645
+        85688645,
+        85816553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461723480,
-    "wof:geomhash":"5723cf0b25b1d78158c2956989241442",
+    "wof:geomhash":"f6fcfd8e21624a872a9c6e32a9e5d78c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,22 @@
             "neighbourhood_id":420523431,
             "region_id":85688645,
             "venue_id":672638927
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476207,
+            "locality_id":85950413,
+            "neighbourhood_id":85816553,
+            "region_id":85688645,
+            "venue_id":672638927
         }
     ],
     "wof:id":672638927,
-    "wof:lastmodified":1472625897,
+    "wof:lastmodified":1492114552,
     "wof:name":"Seacoast Lock & Safe Co",
-    "wof:parent_id":420523431,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

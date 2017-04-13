@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.560553,42.50004,-71.560553,42.50004",
     "geom:latitude":42.50004,
     "geom:longitude":-71.560553,
@@ -34,10 +35,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85809037,
-        102084655,
         85950627,
-        85824179
+        102084655,
+        85824179,
+        85809037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +46,8 @@
     },
     "wof:country":"US",
     "wof:created":1461732252,
-    "wof:geomhash":"48234a11ababe5c66332b3b98c81a60c",
+    "wof:geomhash":"1617d936adf31a793bac658a4e15f375",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85809037,
-            "region_id":85688645,
-            "venue_id":673027505
-        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -61,12 +55,19 @@
             "neighbourhood_id":85824179,
             "region_id":85688645,
             "venue_id":673027505
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85809037,
+            "region_id":85688645,
+            "venue_id":673027505
         }
     ],
     "wof:id":673027505,
-    "wof:lastmodified":1472625017,
+    "wof:lastmodified":1492104992,
     "wof:name":"Oak Ridge Observatory",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

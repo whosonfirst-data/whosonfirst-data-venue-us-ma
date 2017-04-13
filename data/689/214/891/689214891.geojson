@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.892805,41.644305,-70.892805,41.644305",
     "geom:latitude":41.644305,
     "geom:longitude":-70.892805,
@@ -33,17 +34,26 @@
     "sg:postcode":"02719",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6f4UuVjSOJgiJaCMRHcPVk_41.644305_-70.892805@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742361,
-    "wof:geomhash":"c5ba50f7f2c352596878073ba559fa80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86c73a97ceb15c48a8cc8da8ff1cf2cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":689214891
+        }
+    ],
     "wof:id":689214891,
-    "wof:lastmodified":1472625625,
+    "wof:lastmodified":1492097486,
     "wof:name":"Ice Chest Bar & Grill",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.598905,41.795994,-70.598905,41.795994",
     "geom:latitude":41.795994,
     "geom:longitude":-70.598905,
@@ -31,17 +32,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476561,
+        85633793,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nOmCy9BsN62Rv141CuntA_41.795994_-70.598905@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726046,
-    "wof:geomhash":"58ac13afc20982e8e1298b354a57a53d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a7d75abde83b60236d26300349961ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476561,
+            "region_id":85688645,
+            "venue_id":672755507
+        }
+    ],
     "wof:id":672755507,
-    "wof:lastmodified":1472625994,
+    "wof:lastmodified":1492113201,
     "wof:name":"JWT Investment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

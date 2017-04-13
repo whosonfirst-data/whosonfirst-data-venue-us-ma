@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.538847,41.862767,-70.538847,41.862767",
     "geom:latitude":41.862767,
     "geom:longitude":-70.538847,
@@ -45,17 +46,26 @@
         "equipment-testing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KY78YeWWL89k9JVZnaBym_41.862767_-70.538847@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741160,
-    "wof:geomhash":"993a174b557a70d3fc992091dee69482",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b48be8b7f06c6542a3b0fdd9a57001f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523845,
+            "venue_id":689159501
+        }
+    ],
     "wof:id":689159501,
-    "wof:lastmodified":1472625510,
+    "wof:lastmodified":1492097585,
     "wof:name":"Smith Electric Co",
     "wof:parent_id":420523845,
     "wof:placetype":"venue",

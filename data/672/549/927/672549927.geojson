@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.762012,42.436323,-71.762012,42.436323",
     "geom:latitude":42.436323,
     "geom:longitude":-71.762012,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LCEEtYZv4rHfD7z4lWehR_42.436323_-71.762012@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721462,
-    "wof:geomhash":"40269f22b025f60a41c34c6ad85585a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8153aa7b1b6488bdda7bb55a3f03492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524087,
+            "venue_id":672549927
+        }
+    ],
     "wof:id":672549927,
-    "wof:lastmodified":1472625839,
+    "wof:lastmodified":1492108782,
     "wof:name":"Centrum Travel",
     "wof:parent_id":420524087,
     "wof:placetype":"venue",

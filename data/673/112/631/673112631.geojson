@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.513293,42.67386,-72.513293,42.67386",
     "geom:latitude":42.67386,
     "geom:longitude":-72.513293,
@@ -32,17 +33,26 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523521
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sqZTsoc60asIv2nsIrCeD_42.673860_-72.513293@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734032,
-    "wof:geomhash":"1c971a595118828db7f1a849edd7a262",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d221ec963e2236b44d1b299f3186eb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523521,
+            "venue_id":673112631
+        }
+    ],
     "wof:id":673112631,
-    "wof:lastmodified":1472625316,
+    "wof:lastmodified":1492103731,
     "wof:name":"Ross, Rick D",
     "wof:parent_id":420523521,
     "wof:placetype":"venue",

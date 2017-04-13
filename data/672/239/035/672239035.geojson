@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.678341,42.656904,-72.678341,42.656904",
     "geom:latitude":42.656904,
     "geom:longitude":-72.678341,
@@ -39,7 +40,8 @@
         85633793,
         85950759,
         102084457,
-        85688645
+        85688645,
+        85816767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461714393,
-    "wof:geomhash":"2d6d3b1ef091f9f78590576c07a30d89",
+    "wof:geomhash":"4cb7e65a0d646f2fce6f8b00f3764088",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,19 @@
             "neighbourhood_id":420523527,
             "region_id":85688645,
             "venue_id":672239035
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084457,
+            "neighbourhood_id":85816767,
+            "region_id":85688645,
+            "venue_id":672239035
         }
     ],
     "wof:id":672239035,
-    "wof:lastmodified":1472625285,
+    "wof:lastmodified":1492106317,
     "wof:name":"Pine Hill Orchard",
-    "wof:parent_id":420523527,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

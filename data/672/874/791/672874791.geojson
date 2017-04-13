@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.251992,42.169664,-71.251992,42.169664",
     "geom:latitude":42.169664,
     "geom:longitude":-71.251992,
@@ -36,7 +37,10 @@
         85633793,
         85950845,
         102084403,
-        85842399
+        85842399,
+        85817849,
+        85950839,
+        85891471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461728531,
-    "wof:geomhash":"ce61d60b5bfd0a3797bf3434ef4826bd",
+    "wof:geomhash":"f7ce493ce8ddc36eb7b08420c6d69cfd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +57,27 @@
             "neighbourhood_id":85842399,
             "region_id":85688645,
             "venue_id":672874791
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85817849,
+            "region_id":85688645,
+            "venue_id":672874791
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "locality_id":85950839,
+            "neighbourhood_id":85891471,
+            "region_id":85688645,
+            "venue_id":672874791
         }
     ],
     "wof:id":672874791,
-    "wof:lastmodified":1472626102,
+    "wof:lastmodified":1492114276,
     "wof:name":"Barry GF Remodeling",
-    "wof:parent_id":85842399,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

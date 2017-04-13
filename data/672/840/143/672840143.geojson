@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.078095,41.660189,-71.078095,41.660189",
     "geom:latitude":41.660189,
     "geom:longitude":-71.078095,
@@ -32,17 +33,26 @@
         "radiotelephone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LztI84r1Z5HlhEnLZzMA1_41.660189_-71.078095@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727796,
-    "wof:geomhash":"eedce2ed4da4152a36367bf01df11c4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"893748f2595ec14cada19d2efe4884f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672840143
+        }
+    ],
     "wof:id":672840143,
-    "wof:lastmodified":1472626059,
+    "wof:lastmodified":1492115246,
     "wof:name":"Ajf Communications Plus",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

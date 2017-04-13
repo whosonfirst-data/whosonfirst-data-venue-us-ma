@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.117102,42.333414,-71.117102,42.333414",
     "geom:latitude":42.333414,
     "geom:longitude":-71.117102,
@@ -36,17 +37,34 @@
         "trainer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476429,
+        85633793,
+        85950817,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56OznQVp1DVAvuFxShTMnU_42.333414_-71.117102@1303262228"
     },
     "wof:country":"US",
     "wof:created":1461741434,
-    "wof:geomhash":"6d24d4fdde51d2d75dcccadc447928ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6fb351130a6e7768baa6a9067dbf56f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476429,
+            "locality_id":85950817,
+            "region_id":85688645,
+            "venue_id":689171135
+        }
+    ],
     "wof:id":689171135,
-    "wof:lastmodified":1472625541,
+    "wof:lastmodified":1492099042,
     "wof:name":"Primary Care Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

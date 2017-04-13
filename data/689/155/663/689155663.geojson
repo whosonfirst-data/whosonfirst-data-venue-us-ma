@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.858243,41.85446,-70.858243,41.85446",
     "geom:latitude":41.85446,
     "geom:longitude":-70.858243,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rtcRMhayoblm1qCaJQ3v9_41.854460_-70.858243@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741066,
-    "wof:geomhash":"9c197224699e7ee3fb765a66875107b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1db6f7f410fc2fd3ba938371b33fcba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":689155663
+        }
+    ],
     "wof:id":689155663,
-    "wof:lastmodified":1472625512,
+    "wof:lastmodified":1492100392,
     "wof:name":"Desroche John Electric Co",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

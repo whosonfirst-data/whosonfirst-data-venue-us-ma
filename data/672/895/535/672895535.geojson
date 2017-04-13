@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.895538,41.854054,-70.895538,41.854054",
     "geom:latitude":41.854054,
     "geom:longitude":-70.895538,
@@ -32,17 +33,26 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y2AK0qC4ocDtHigKaHAnr_41.854054_-70.895538@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728937,
-    "wof:geomhash":"c7ce9ead354888cef2b03eea2b6004cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1783ccd62d924acf7291f9f3fe904f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672895535
+        }
+    ],
     "wof:id":672895535,
-    "wof:lastmodified":1472626113,
+    "wof:lastmodified":1492106004,
     "wof:name":"Mad Lad Video",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

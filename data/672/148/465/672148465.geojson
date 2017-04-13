@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.043922,42.572069,-73.043922,42.572069",
     "geom:latitude":42.572069,
     "geom:longitude":-73.043922,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CLHTrwRgyD6Mv3vUkmMyC_42.572069_-73.043922@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712423,
-    "wof:geomhash":"bc0b6c010d4da6352e143f42165246f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a1531d79a69e6d0828947acba9f678d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523243,
+            "venue_id":672148465
+        }
+    ],
     "wof:id":672148465,
-    "wof:lastmodified":1472624957,
+    "wof:lastmodified":1492111608,
     "wof:name":"Monterey United Church-Christ",
     "wof:parent_id":420523243,
     "wof:placetype":"venue",

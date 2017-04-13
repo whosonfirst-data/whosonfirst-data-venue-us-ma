@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.962889,42.418373,-71.962889,42.418373",
     "geom:latitude":42.418373,
     "geom:longitude":-71.962889,
@@ -32,17 +33,26 @@
         "fence-sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k3eLg3bbdJRxmBqZO2g34_42.418373_-71.962889@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734273,
-    "wof:geomhash":"4209d3f48f05ab590cf494645c740fdd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3335c1b6ecd7bd7c5295c9eef1a39f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524203,
+            "venue_id":673124173
+        }
+    ],
     "wof:id":673124173,
-    "wof:lastmodified":1472625338,
+    "wof:lastmodified":1492103998,
     "wof:name":"Commonwealth Fence And Stone Inc",
     "wof:parent_id":420524203,
     "wof:placetype":"venue",

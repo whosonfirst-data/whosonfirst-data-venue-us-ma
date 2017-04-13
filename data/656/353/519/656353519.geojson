@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.130991,41.681779,-71.130991,41.681779",
     "geom:latitude":41.681779,
     "geom:longitude":-71.130991,
@@ -34,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85829343,
+        102084407,
         85818859,
         102191575,
         404476177,
-        85633793,
-        85950371,
-        102084407,
-        85688645
+        85950371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +50,15 @@
     },
     "wof:country":"US",
     "wof:created":1461711030,
-    "wof:geomhash":"09b064f1ea931441e52a59a1562ef39b",
+    "wof:geomhash":"22c52190ef4d1e6ce54f3556f316a193",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85829343,
+            "region_id":85688645,
+            "venue_id":656353519
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,9 +71,9 @@
         }
     ],
     "wof:id":656353519,
-    "wof:lastmodified":1472624917,
+    "wof:lastmodified":1492101284,
     "wof:name":"Glixn Inc",
-    "wof:parent_id":85818859,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

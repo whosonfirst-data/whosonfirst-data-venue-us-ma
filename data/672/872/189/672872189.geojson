@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.870526,41.845102,-70.870526,41.845102",
     "geom:latitude":41.845102,
     "geom:longitude":-70.870526,
@@ -33,17 +34,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66gOxdEKrmFjHIeRBORrjn_41.845102_-70.870526@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728483,
-    "wof:geomhash":"bab406f4cd973749a7791ddbcd0feaab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29d8d2a26908d48097f34ab2034b452b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672872189
+        }
+    ],
     "wof:id":672872189,
-    "wof:lastmodified":1472626093,
+    "wof:lastmodified":1492110728,
     "wof:name":"Konish Construction Co Inc",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

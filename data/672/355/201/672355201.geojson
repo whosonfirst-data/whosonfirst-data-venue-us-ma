@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.825302,42.269804,-71.825302,42.269804",
     "geom:latitude":42.269804,
     "geom:longitude":-71.825302,
@@ -29,14 +30,15 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805121,
+        85857275,
         102191575,
         404476639,
         85633793,
         85950375,
         102084655,
         85688645,
-        85857275
+        85805121,
+        420558779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,18 @@
     },
     "wof:country":"US",
     "wof:created":1461716860,
-    "wof:geomhash":"e676c6ebc6605d1ff6baa6e3da2d2fe4",
+    "wof:geomhash":"19960b8759d75aeb3f4a94686bd12f58",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85857275,
+            "region_id":85688645,
+            "venue_id":672355201
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,15 +74,15 @@
             "county_id":102084655,
             "localadmin_id":404476639,
             "locality_id":85950375,
-            "neighbourhood_id":85857275,
+            "neighbourhood_id":420558779,
             "region_id":85688645,
             "venue_id":672355201
         }
     ],
     "wof:id":672355201,
-    "wof:lastmodified":1472625609,
+    "wof:lastmodified":1492108913,
     "wof:name":"Gregory M Avedissian DC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

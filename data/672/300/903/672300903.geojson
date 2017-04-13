@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.712209,42.151188,-71.712209,42.151188",
     "geom:latitude":42.151188,
     "geom:longitude":-71.712209,
@@ -32,17 +33,26 @@
         "massage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524081
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u0iBNZJ0yIQKPjYI67YFG_42.151188_-71.712209@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715630,
-    "wof:geomhash":"eb3c9e9d1e74e8c09f0085a6aa91286d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7ccf80135eab2656f11254c19dc5b31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524081,
+            "venue_id":672300903
+        }
+    ],
     "wof:id":672300903,
-    "wof:lastmodified":1472625513,
+    "wof:lastmodified":1492114945,
     "wof:name":"Integrated Therapies",
     "wof:parent_id":420524081,
     "wof:placetype":"venue",

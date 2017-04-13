@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.417026,42.250103,-72.417026,42.250103",
     "geom:latitude":42.250103,
     "geom:longitude":-72.417026,
@@ -36,17 +37,26 @@
         "bookkeeping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FF2f1hk3gsDkhk30kzK5P_42.250103_-72.417026@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728235,
-    "wof:geomhash":"c3574f471e0b29f9244c6198410cb61d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f08b4fc61d568a111d9cefae9e6a6ab2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523629,
+            "venue_id":672863089
+        }
+    ],
     "wof:id":672863089,
-    "wof:lastmodified":1472626076,
+    "wof:lastmodified":1492115995,
     "wof:name":"Small Business Solutions",
     "wof:parent_id":420523629,
     "wof:placetype":"venue",

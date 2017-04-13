@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.631005,42.149158,-71.631005,42.149158",
     "geom:latitude":42.149158,
     "geom:longitude":-71.631005,
@@ -31,17 +32,26 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524169
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BhlvhAuSIAh7bFHknYooJ_42.149158_-71.631005@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734258,
-    "wof:geomhash":"374373b4023d4771c80b9e5c819db3b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"237058704c7ab4aa32464aefed98bb87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524169,
+            "venue_id":673123335
+        }
+    ],
     "wof:id":673123335,
-    "wof:lastmodified":1472625355,
+    "wof:lastmodified":1492102916,
     "wof:name":"Joseph N Wilson",
     "wof:parent_id":420524169,
     "wof:placetype":"venue",

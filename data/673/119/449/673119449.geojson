@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.988245,42.145435,-71.988245,42.145435",
     "geom:latitude":42.145435,
     "geom:longitude":-71.988245,
@@ -28,17 +29,26 @@
     "sg:postcode":"01507",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wws2WeT71RgYsDFwhi4p1_42.145435_-71.988245@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734183,
-    "wof:geomhash":"cfce2e65aa8a26235158d50e9471aced",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a67811601e18a81b78141657913283d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":673119449
+        }
+    ],
     "wof:id":673119449,
-    "wof:lastmodified":1472625344,
+    "wof:lastmodified":1492104083,
     "wof:name":"McDonald's",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

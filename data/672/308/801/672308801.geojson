@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.956863,42.720157,-70.956863,42.720157",
     "geom:latitude":42.720157,
     "geom:longitude":-70.956863,
@@ -30,8 +31,9 @@
     "sg:website":"www.babbittrepair.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523475,
+        85688645,
         85845839,
         102084463
     ],
@@ -41,8 +43,13 @@
     },
     "wof:country":"US",
     "wof:created":1461715775,
-    "wof:geomhash":"fbd6cc268d09d54f32303614543286fe",
+    "wof:geomhash":"92b236c5597d70fc69326ec5b4627346",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":672308801
+        },
         {
             "country_id":85633793,
             "county_id":102084463,
@@ -52,9 +59,9 @@
         }
     ],
     "wof:id":672308801,
-    "wof:lastmodified":1472625534,
+    "wof:lastmodified":1492109374,
     "wof:name":"American Power Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

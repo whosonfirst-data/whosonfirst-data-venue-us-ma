@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.24677,42.06435,-71.24677,42.06435",
     "geom:latitude":42.06435,
     "geom:longitude":-71.24677,
@@ -40,7 +41,11 @@
         85688645,
         85633793,
         85820489,
-        102084403
+        102084403,
+        85809067,
+        102191575,
+        404476025,
+        85950825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461711917,
-    "wof:geomhash":"b443719d3a55544b40937319cc3e7339",
+    "wof:geomhash":"3e4945ad6acf4bc76c1cf06222040b03",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +61,22 @@
             "neighbourhood_id":85820489,
             "region_id":85688645,
             "venue_id":656395459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476025,
+            "locality_id":85950825,
+            "neighbourhood_id":85809067,
+            "region_id":85688645,
+            "venue_id":656395459
         }
     ],
     "wof:id":656395459,
-    "wof:lastmodified":1472625054,
+    "wof:lastmodified":1492102168,
     "wof:name":"Compu Med Inc",
-    "wof:parent_id":85820489,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

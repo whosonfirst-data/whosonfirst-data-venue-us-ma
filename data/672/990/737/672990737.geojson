@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.871019,41.79333,-70.871019,41.79333",
     "geom:latitude":41.79333,
     "geom:longitude":-70.871019,
@@ -28,17 +29,26 @@
     "sg:postcode":"02770",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15ClmfLwOKeFeZ5zpFWcte_41.793330_-70.871019@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731344,
-    "wof:geomhash":"5ac8907bcff106e87517aea6a67014f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdd52be2f163b644807ade30740a01d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523869,
+            "venue_id":672990737
+        }
+    ],
     "wof:id":672990737,
-    "wof:lastmodified":1472626202,
+    "wof:lastmodified":1492106237,
     "wof:name":"Real Estate",
     "wof:parent_id":420523869,
     "wof:placetype":"venue",

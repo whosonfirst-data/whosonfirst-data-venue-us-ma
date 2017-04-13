@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.400253,42.629915,-71.400253,42.629915",
     "geom:latitude":42.629915,
     "geom:longitude":-71.400253,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ygChXqNRc7OzQWROcojnE_42.629915_-71.400253@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728136,
-    "wof:geomhash":"12fbd59527b53f723a4f862ccc6aba3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3701d427af679596ae4170f06cd01e86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672857777
+        }
+    ],
     "wof:id":672857777,
-    "wof:lastmodified":1472626089,
+    "wof:lastmodified":1492113072,
     "wof:name":"Kohl Landscape Construction",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

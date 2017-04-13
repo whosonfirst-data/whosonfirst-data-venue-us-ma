@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.528469,42.379803,-71.528469,42.379803",
     "geom:latitude":42.379803,
     "geom:longitude":-71.528469,
@@ -31,17 +32,26 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JoodH0msqwXlmQDaOIcfi_42.379803_-71.528469@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727877,
-    "wof:geomhash":"923a5bf39985438e8f657b65e0a66b86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89efd773118e700284ef47835addb18e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672844125
+        }
+    ],
     "wof:id":672844125,
-    "wof:lastmodified":1472626066,
+    "wof:lastmodified":1492108041,
     "wof:name":"Vals Digital Darkroom",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

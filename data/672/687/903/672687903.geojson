@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.937776,42.874905,-70.937776,42.874905",
     "geom:latitude":42.874905,
     "geom:longitude":-70.937776,
@@ -32,17 +33,34 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476283,
+        85633793,
+        85950401,
+        102084463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KTa5VjIdq5CA0SvtSwABI_42.874905_-70.937776@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724586,
-    "wof:geomhash":"b5ddd1dfc654c2ca778d7f284bdb7e4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da4e23e36145ff5b61e0f80bdc811f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476283,
+            "locality_id":85950401,
+            "region_id":85688645,
+            "venue_id":672687903
+        }
+    ],
     "wof:id":672687903,
-    "wof:lastmodified":1472625939,
+    "wof:lastmodified":1492112399,
     "wof:name":"Campbell Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

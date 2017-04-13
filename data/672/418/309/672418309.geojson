@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.868849,42.065912,-70.868849,42.065912",
     "geom:latitude":42.065912,
     "geom:longitude":-70.868849,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07Gy1xHmg0MmVlzFt41rWZ_42.065912_-70.868849@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718360,
-    "wof:geomhash":"8aef046591127438045d93fca390e47f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af40e23a57836f0596070506b0f6dcfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523995,
+            "venue_id":672418309
+        }
+    ],
     "wof:id":672418309,
-    "wof:lastmodified":1472625683,
+    "wof:lastmodified":1492118864,
     "wof:name":"Hanson Appeal Board",
     "wof:parent_id":420523995,
     "wof:placetype":"venue",

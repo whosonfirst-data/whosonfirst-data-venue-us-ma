@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.552728,42.106661,-71.552728,42.106661",
     "geom:latitude":42.106661,
     "geom:longitude":-71.552728,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461715614,
-    "wof:geomhash":"b1f936bc3b7eb0ca1084d65538bfb81e",
+    "wof:geomhash":"7799d18f687646160bd2e78ebe07a232",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672299995
         }
     ],
     "wof:id":672299995,
-    "wof:lastmodified":1472625518,
+    "wof:lastmodified":1492109002,
     "wof:name":"First Baptist Church In Mendon",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

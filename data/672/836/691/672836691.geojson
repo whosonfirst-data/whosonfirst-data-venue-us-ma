@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.459754,42.581004,-71.459754,42.581004",
     "geom:latitude":42.581004,
     "geom:longitude":-71.459754,
@@ -36,7 +37,8 @@
         85688645,
         85633793,
         85856907,
-        102084643
+        102084643,
+        85816545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461727728,
-    "wof:geomhash":"ef95a9a6f2acf67dd239a46f7e492335",
+    "wof:geomhash":"fdf02af9f72aed5ec0efef3ad712fcfd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,19 @@
             "neighbourhood_id":85856907,
             "region_id":85688645,
             "venue_id":672836691
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85816545,
+            "region_id":85688645,
+            "venue_id":672836691
         }
     ],
     "wof:id":672836691,
-    "wof:lastmodified":1472626069,
+    "wof:lastmodified":1492117979,
     "wof:name":"Chelmsford Plumbing & Heating",
-    "wof:parent_id":85856907,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.86893,42.0991,-70.86893,42.0991",
     "geom:latitude":42.0991,
     "geom:longitude":-70.86893,
@@ -33,17 +34,26 @@
         "vacuum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A7jS9ANCu7Kqa3KXsRkL9_42.099100_-70.868930@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711848,
-    "wof:geomhash":"87bf67b7e7387bd3c667444c2895be7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"078eb7a2a0f6121a404d40ef2c269e50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523919,
+            "venue_id":656392233
+        }
+    ],
     "wof:id":656392233,
-    "wof:lastmodified":1472625009,
+    "wof:lastmodified":1492101379,
     "wof:name":"Eastern Scientific Co Vacuum",
     "wof:parent_id":420523919,
     "wof:placetype":"venue",

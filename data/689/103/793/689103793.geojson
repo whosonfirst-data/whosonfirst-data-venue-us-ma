@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.028082,42.430565,-71.028082,42.430565",
     "geom:latitude":42.430565,
     "geom:longitude":-71.028082,
@@ -40,17 +41,34 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476399,
+        85633793,
+        85950349,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BlrVQbjGbuRyTBiHDZL7D_42.430565_-71.028082@1303262219"
     },
     "wof:country":"US",
     "wof:created":1461739460,
-    "wof:geomhash":"be0885203e5ded5669b5d7593e8c62c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97baab74d57a85fb6e6894aede7f9d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476399,
+            "locality_id":85950349,
+            "region_id":85688645,
+            "venue_id":689103793
+        }
+    ],
     "wof:id":689103793,
-    "wof:lastmodified":1472625379,
+    "wof:lastmodified":1492099541,
     "wof:name":"Max Utilities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

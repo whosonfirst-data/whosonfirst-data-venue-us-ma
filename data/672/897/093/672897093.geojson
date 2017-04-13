@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.179017,41.711161,-70.179017,41.711161",
     "geom:latitude":41.711161,
     "geom:longitude":-70.179017,
@@ -32,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85891517,
+        85836559,
         102191575,
         404475899,
         85633793,
-        85950509,
+        85950539,
         102084379,
-        85688645
+        85688645,
+        85891517,
+        85950509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461728965,
-    "wof:geomhash":"1dbdaff62738e5df635ec1883559e48a",
+    "wof:geomhash":"30115b0d5424443a610b66a7ccd012d6",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084379,
+            "localadmin_id":404475899,
+            "locality_id":85950539,
+            "neighbourhood_id":85836559,
+            "region_id":85688645,
+            "venue_id":672897093
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +73,9 @@
         }
     ],
     "wof:id":672897093,
-    "wof:lastmodified":1472626110,
+    "wof:lastmodified":1492111250,
     "wof:name":"Connell & Sons",
-    "wof:parent_id":85891517,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

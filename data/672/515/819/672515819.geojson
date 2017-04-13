@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.886652,42.544864,-70.886652,42.544864",
     "geom:latitude":42.544864,
     "geom:longitude":-70.886652,
@@ -39,7 +40,8 @@
         85633793,
         85950421,
         102084463,
-        85688645
+        85688645,
+        85844369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461720741,
-    "wof:geomhash":"c7519edcf5bb5be47d81ba35ea823e9a",
+    "wof:geomhash":"59ef2541ded2f2907fcc906361c42a24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,22 @@
             "neighbourhood_id":420523401,
             "region_id":85688645,
             "venue_id":672515819
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476287,
+            "locality_id":85950421,
+            "neighbourhood_id":85844369,
+            "region_id":85688645,
+            "venue_id":672515819
         }
     ],
     "wof:id":672515819,
-    "wof:lastmodified":1472625784,
+    "wof:lastmodified":1492113931,
     "wof:name":"River Street Self Storage",
-    "wof:parent_id":420523401,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

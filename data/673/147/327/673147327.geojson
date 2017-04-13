@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.492535,42.148405,-71.492535,42.148405",
     "geom:latitude":42.148405,
     "geom:longitude":-71.492535,
@@ -36,17 +37,34 @@
         "employer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476665,
+        85633793,
+        85950733,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oyowyk1fb7sB2XOmbbmFb_42.148405_-71.492535@1303262189"
     },
     "wof:country":"US",
     "wof:created":1461734744,
-    "wof:geomhash":"0ed5e07622eaa470c450f3c23f3b673a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a92fcf76275b65ad4df33a7d5677a2d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476665,
+            "locality_id":85950733,
+            "region_id":85688645,
+            "venue_id":673147327
+        }
+    ],
     "wof:id":673147327,
-    "wof:lastmodified":1472625404,
+    "wof:lastmodified":1492104614,
     "wof:name":"United Steelworkers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

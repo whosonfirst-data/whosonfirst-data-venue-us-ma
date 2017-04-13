@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.595411,42.019988,-71.595411,42.019988",
     "geom:latitude":42.019988,
     "geom:longitude":-71.595411,
@@ -33,19 +34,32 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85810765,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MplKVX0keRadWQGzEIJXP_42.019988_-71.595411@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711510,
-    "wof:geomhash":"1f7a90ee0ce45931b35b2a2616beb90d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed1b52d98234353e5beef7bc18667a93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85810765,
+            "region_id":85688645,
+            "venue_id":656376095
+        }
+    ],
     "wof:id":656376095,
-    "wof:lastmodified":1472624982,
+    "wof:lastmodified":1492102177,
     "wof:name":"U-Haul Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

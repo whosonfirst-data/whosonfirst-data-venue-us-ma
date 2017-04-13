@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.920879,42.03832,-70.920879,42.03832",
     "geom:latitude":42.03832,
     "geom:longitude":-70.920879,
@@ -32,17 +33,26 @@
         "iron"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SgJFZ2OSWnyBuZnQCWO8R_42.038320_-70.920879@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722999,
-    "wof:geomhash":"3eed8002b060fdcaffa25112db286167",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54531326d4c6fb01b125bc7d281c17dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523881,
+            "venue_id":672617327
+        }
+    ],
     "wof:id":672617327,
-    "wof:lastmodified":1472625865,
+    "wof:lastmodified":1492113837,
     "wof:name":"Central Casting",
     "wof:parent_id":420523881,
     "wof:placetype":"venue",

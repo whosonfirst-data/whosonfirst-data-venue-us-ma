@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.892199,41.907503,-70.892199,41.907503",
     "geom:latitude":41.907503,
     "geom:longitude":-70.892199,
@@ -33,17 +34,26 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rSBlkvgEzhRzrXKDIiF77_41.907503_-70.892199@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716495,
-    "wof:geomhash":"17421bdb1e0db66f917bd0156d7ddb79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41f5402f42ce6b3d80da9489832181cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672340097
+        }
+    ],
     "wof:id":672340097,
-    "wof:lastmodified":1472625568,
+    "wof:lastmodified":1492112643,
     "wof:name":"Middleboro Council On Aging",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.430052,42.24943,-71.430052,42.24943",
     "geom:latitude":42.24943,
     "geom:longitude":-71.430052,
@@ -33,17 +34,26 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Y5CKhf4QbffaSKAXe42Ik_42.249430_-71.430052@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725544,
-    "wof:geomhash":"9c283a1f34b499b2f42e873de45a3157",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bd8d04d41041e2ce9e3a1975b06e77d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523707,
+            "venue_id":672731211
+        }
+    ],
     "wof:id":672731211,
-    "wof:lastmodified":1472625965,
+    "wof:lastmodified":1492107364,
     "wof:name":"U-Haul Co",
     "wof:parent_id":420523707,
     "wof:placetype":"venue",

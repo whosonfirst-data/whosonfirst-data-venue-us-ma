@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.989317,42.145109,-71.989317,42.145109",
     "geom:latitude":42.145109,
     "geom:longitude":-71.989317,
@@ -29,17 +30,26 @@
     "sg:province":"MA",
     "sg:website":"www.dunkindonuts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VwN4kbff1jVFLColxBNpp_42.145109_-71.989317@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734203,
-    "wof:geomhash":"61ade09947824139c0f5bb14b9f4f693",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f90bcc58ac35cd0fc9a25a8544f567d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524177,
+            "venue_id":673120217
+        }
+    ],
     "wof:id":673120217,
-    "wof:lastmodified":1472625333,
+    "wof:lastmodified":1492102462,
     "wof:name":"Dunkin Donuts",
     "wof:parent_id":420524177,
     "wof:placetype":"venue",

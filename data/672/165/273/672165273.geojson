@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.82603,42.050539,-70.82603,42.050539",
     "geom:latitude":42.050539,
     "geom:longitude":-70.82603,
@@ -32,19 +33,38 @@
         "ecological"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85839511,
+        102084367,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l7OIrJl4PnYISIedR0fua_42.050539_-70.826030@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712798,
-    "wof:geomhash":"fda3c11b580095989af9a294ef4b154f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7de6829d18a191122e37d4fa680a9f96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85839511,
+            "region_id":85688645,
+            "venue_id":672165273
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672165273
+        }
+    ],
     "wof:id":672165273,
-    "wof:lastmodified":1472625011,
+    "wof:lastmodified":1492110925,
     "wof:name":"Environmental Resources",
-    "wof:parent_id":420523817,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.9851,41.966994,-70.9851,41.966994",
     "geom:latitude":41.966994,
     "geom:longitude":-70.9851,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xEMemShGx3IaMsvlZYS6X_41.966994_-70.985100@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721373,
-    "wof:geomhash":"86d2c9ccac1e601f84d24517054aa51e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73de0a5f230d399245eb82701c001796",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672545699
+        }
+    ],
     "wof:id":672545699,
-    "wof:lastmodified":1472625827,
+    "wof:lastmodified":1492114337,
     "wof:name":"Balsamo Construction",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

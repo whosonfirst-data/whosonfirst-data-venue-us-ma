@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.80357,42.24097,-70.80357,42.24097",
     "geom:latitude":42.24097,
     "geom:longitude":-70.80357,
@@ -34,8 +35,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
         85633793,
+        420523773,
+        85688645,
         85806299,
         102084403
     ],
@@ -45,8 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1461723810,
-    "wof:geomhash":"09d81af7cc9450da709a6ee298faa002",
+    "wof:geomhash":"d6c217bae7507f053b91b36333746171",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672654557
+        },
         {
             "country_id":85633793,
             "county_id":102084403,
@@ -56,9 +63,9 @@
         }
     ],
     "wof:id":672654557,
-    "wof:lastmodified":1472625902,
+    "wof:lastmodified":1492117321,
     "wof:name":"Dramatic Kitchens & Sunroom",
-    "wof:parent_id":85806299,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

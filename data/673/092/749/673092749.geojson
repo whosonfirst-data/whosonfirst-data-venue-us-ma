@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.068276,41.975291,-71.068276,41.975291",
     "geom:latitude":41.975291,
     "geom:longitude":-71.068276,
@@ -49,17 +50,32 @@
         "pastry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476139,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LzYVdu9k8p4t2JMJT0tx2_41.975291_-71.068276@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461733620,
-    "wof:geomhash":"9353b0d51226bbc69edc90846aaaf60c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe2155e0d0b6562807456e9169d0104a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476139,
+            "region_id":85688645,
+            "venue_id":673092749
+        }
+    ],
     "wof:id":673092749,
-    "wof:lastmodified":1472625258,
+    "wof:lastmodified":1492103020,
     "wof:name":"Dunkin' Donuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

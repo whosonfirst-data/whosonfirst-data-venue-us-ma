@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.866145,41.85673,-70.866145,41.85673",
     "geom:latitude":41.85673,
     "geom:longitude":-70.866145,
@@ -32,17 +33,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hQtUWxwk69lUu2nlQiqto_41.856730_-70.866145@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461710903,
-    "wof:geomhash":"0352f2c47e1b1019e255af29ca599446",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a041d2db315f5153e6cc0f25a25509b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":656347619
+        }
+    ],
     "wof:id":656347619,
-    "wof:lastmodified":1472624916,
+    "wof:lastmodified":1492102097,
     "wof:name":"Andy's Machine Inc",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

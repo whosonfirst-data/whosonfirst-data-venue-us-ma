@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.803258,41.920409,-70.803258,41.920409",
     "geom:latitude":41.920409,
     "geom:longitude":-70.803258,
@@ -28,17 +29,26 @@
     "sg:postcode":"02330",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vNLqN9670aVsF6nby0gXM_41.920409_-70.803258@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741013,
-    "wof:geomhash":"a8497b08b1d88f284c2e11e9078b2194",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b94268c950364734726ea8b7394b0000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689153259
+        }
+    ],
     "wof:id":689153259,
-    "wof:lastmodified":1472625496,
+    "wof:lastmodified":1492097470,
     "wof:name":"Cumberland Farms",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

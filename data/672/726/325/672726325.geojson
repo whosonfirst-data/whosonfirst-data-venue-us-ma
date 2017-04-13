@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.798097,41.949361,-70.798097,41.949361",
     "geom:latitude":41.949361,
     "geom:longitude":-70.798097,
@@ -31,17 +32,26 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Lgl2M2Z0gOUr3goxFz6sW_41.949361_-70.798097@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725425,
-    "wof:geomhash":"b6b3bb6641c46c2339b93d4576a91f55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aab03a13beb41b63aecc6dcbe4747e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":672726325
+        }
+    ],
     "wof:id":672726325,
-    "wof:lastmodified":1472625962,
+    "wof:lastmodified":1492111741,
     "wof:name":"Twin Cedars Farm and Trust",
     "wof:parent_id":420523949,
     "wof:placetype":"venue",

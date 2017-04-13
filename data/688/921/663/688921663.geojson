@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.993249,42.687935,-70.993249,42.687935",
     "geom:latitude":42.687935,
     "geom:longitude":-70.993249,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3apNHjenIHRMCRhWfWyGp7_42.687935_-70.993249@1303262195"
     },
     "wof:country":"US",
     "wof:created":1461735687,
-    "wof:geomhash":"0697bb6ea11b43a0146bcf26326e1ce6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79d6936ea121122d4760bb7e9f24e62d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523475,
+            "venue_id":688921663
+        }
+    ],
     "wof:id":688921663,
-    "wof:lastmodified":1472624958,
+    "wof:lastmodified":1492120643,
     "wof:name":"Reduction Technologies, Inc.",
     "wof:parent_id":420523475,
     "wof:placetype":"venue",

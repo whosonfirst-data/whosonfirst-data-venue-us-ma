@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.173565,42.736694,-71.173565,42.736694",
     "geom:latitude":42.736694,
     "geom:longitude":-71.173565,
@@ -29,13 +30,14 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832653,
+        85891373,
         102191575,
         404475949,
         85633793,
         85950411,
         102084463,
-        85688645
+        85688645,
+        85832653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1461728829,
-    "wof:geomhash":"a224f0be8f94b4df4338e65aa6a4cd56",
+    "wof:geomhash":"ce48e646ec98c996a074c3bf187be775",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404475949,
+            "locality_id":85950411,
+            "neighbourhood_id":85891373,
+            "region_id":85688645,
+            "venue_id":672889895
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":672889895,
-    "wof:lastmodified":1472626118,
+    "wof:lastmodified":1492119386,
     "wof:name":"Pleasant Valley School",
-    "wof:parent_id":85832653,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

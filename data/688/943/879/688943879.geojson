@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.713197,42.119301,-70.713197,42.119301",
     "geom:latitude":42.119301,
     "geom:longitude":-70.713197,
@@ -33,17 +34,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ylljviuxvMCcOuAL0y5iB_42.119301_-70.713197@1303262198"
     },
     "wof:country":"US",
     "wof:created":1461736123,
-    "wof:geomhash":"d3118b350a5c43c6a56f59fe5bc15f26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f1bd2de4eefaeeb40e1912ff44cb25e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523925,
+            "venue_id":688943879
+        }
+    ],
     "wof:id":688943879,
-    "wof:lastmodified":1472625109,
+    "wof:lastmodified":1492120575,
     "wof:name":"Sequin Assoc",
     "wof:parent_id":420523925,
     "wof:placetype":"venue",

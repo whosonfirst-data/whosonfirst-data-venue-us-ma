@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.902669,41.888637,-70.902669,41.888637",
     "geom:latitude":41.888637,
     "geom:longitude":-70.902669,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hLxIhIfNvkA4hFMdVG5M7_41.888637_-70.902669@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729023,
-    "wof:geomhash":"b21d3020c38a599b80467b5c1a297db8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03944ab6062c9eed5b61a541cb1c263d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523819,
+            "venue_id":672899939
+        }
+    ],
     "wof:id":672899939,
-    "wof:lastmodified":1472626126,
+    "wof:lastmodified":1492105606,
     "wof:name":"Langone Consulting",
     "wof:parent_id":420523819,
     "wof:placetype":"venue",

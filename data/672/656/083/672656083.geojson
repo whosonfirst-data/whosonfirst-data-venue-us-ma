@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.739106,42.053164,-70.739106,42.053164",
     "geom:latitude":42.053164,
     "geom:longitude":-70.739106,
@@ -33,17 +34,26 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39fdxaoGNhhgslUVkHkYCb_42.053164_-70.739106@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723848,
-    "wof:geomhash":"7915ae8f8f921c2035e84238906f2340",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e146e7ac1960065434b0822713da5036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523943,
+            "venue_id":672656083
+        }
+    ],
     "wof:id":672656083,
-    "wof:lastmodified":1472625894,
+    "wof:lastmodified":1492109386,
     "wof:name":"Foster's Central Vac Systems",
     "wof:parent_id":420523943,
     "wof:placetype":"venue",

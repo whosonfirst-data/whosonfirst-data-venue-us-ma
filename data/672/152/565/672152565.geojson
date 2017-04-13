@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.091187,41.573966,-71.091187,41.573966",
     "geom:latitude":41.573966,
     "geom:longitude":-71.091187,
@@ -32,17 +33,26 @@
         "massage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YQbK51jy7RY1fcqlgbbzA_41.573966_-71.091187@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712501,
-    "wof:geomhash":"640968609f448a735208a16da7ca5ec5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fee39af62ca8a8bcc5dd7020fbca0d8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":672152565
+        }
+    ],
     "wof:id":672152565,
-    "wof:lastmodified":1472624959,
+    "wof:lastmodified":1492119261,
     "wof:name":"Adamsville Therapeutic Massage",
     "wof:parent_id":420523293,
     "wof:placetype":"venue",

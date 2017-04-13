@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.914231,42.233109,-71.914231,42.233109",
     "geom:latitude":42.233109,
     "geom:longitude":-71.914231,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zTupEyeDlTF7fehIt1Kt7_42.233109_-71.914231@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719144,
-    "wof:geomhash":"96092e5bc4dcff81df684b286e55f3d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a3beccd11127baed196f4fc115af4e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524147,
+            "venue_id":672448749
+        }
+    ],
     "wof:id":672448749,
-    "wof:lastmodified":1472625716,
+    "wof:lastmodified":1492111067,
     "wof:name":"Db Tile Co",
     "wof:parent_id":420524147,
     "wof:placetype":"venue",

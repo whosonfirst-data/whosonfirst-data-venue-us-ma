@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.737774,41.748766,-70.737774,41.748766",
     "geom:latitude":41.748766,
     "geom:longitude":-70.737774,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uNMvXtLrjdrE4686dd0cy_41.748766_-70.737774@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711686,
-    "wof:geomhash":"8215c48da558b642ecd1f93e1430085f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"689ec783d86c0c7c17d835dc4b3895b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523897,
+            "venue_id":656384871
+        }
+    ],
     "wof:id":656384871,
-    "wof:lastmodified":1472625023,
+    "wof:lastmodified":1492102116,
     "wof:name":"Marion Auto Sales",
     "wof:parent_id":420523897,
     "wof:placetype":"venue",

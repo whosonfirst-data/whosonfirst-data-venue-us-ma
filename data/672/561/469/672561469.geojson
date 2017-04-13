@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.130682,42.447427,-73.130682,42.447427",
     "geom:latitude":42.447427,
     "geom:longitude":-73.130682,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6f3a20Acgg1soG3RUQk4Ff_42.447427_-73.130682@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721736,
-    "wof:geomhash":"d9f6d160d535368414fed1ab88f47f72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edd825e916f638f9e57a9ca8019553d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523267,
+            "venue_id":672561469
+        }
+    ],
     "wof:id":672561469,
-    "wof:lastmodified":1472625823,
+    "wof:lastmodified":1492117915,
     "wof:name":"Wetherell's Hinsdale Garage",
     "wof:parent_id":420523267,
     "wof:placetype":"venue",

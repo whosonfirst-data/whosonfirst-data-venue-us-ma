@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.717987,42.023116,-70.717987,42.023116",
     "geom:latitude":42.023116,
     "geom:longitude":-70.717987,
@@ -34,17 +35,26 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2O70VCLQrUAlXDAX6rFbin_42.023116_-70.717987@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718975,
-    "wof:geomhash":"f9a901cf7918bea21f5de9f7040ef9a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b640bd8026931ea65bd5a85978584fb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523827,
+            "venue_id":672442603
+        }
+    ],
     "wof:id":672442603,
-    "wof:lastmodified":1472625708,
+    "wof:lastmodified":1492106440,
     "wof:name":"Grapevine Interiors",
     "wof:parent_id":420523827,
     "wof:placetype":"venue",

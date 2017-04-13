@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.804912,42.435031,-71.804912,42.435031",
     "geom:latitude":42.435031,
     "geom:longitude":-71.804912,
@@ -31,17 +32,26 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524139
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_600YBuxRIE0CXZn3RTR25p_42.435031_-71.804912@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721291,
-    "wof:geomhash":"a03b314b83d2c0477a00558ab9d2ca2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18de030fff052c6fe40573686850f474",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524139,
+            "venue_id":672541611
+        }
+    ],
     "wof:id":672541611,
-    "wof:lastmodified":1472625811,
+    "wof:lastmodified":1492118578,
     "wof:name":"Sterling Overhead Door",
     "wof:parent_id":420524139,
     "wof:placetype":"venue",

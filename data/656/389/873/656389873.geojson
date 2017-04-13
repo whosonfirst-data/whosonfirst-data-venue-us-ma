@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101645,42.132873,-71.101645,42.132873",
     "geom:latitude":42.132873,
     "geom:longitude":-71.101645,
@@ -31,17 +32,26 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jPPjalhF1EqESDpSG2ItT_42.132873_-71.101645@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711799,
-    "wof:geomhash":"5eda2a48e6120977c343239b40faf5c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"232e37d8c76f144c21d0edccac62b6bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":656389873
+        }
+    ],
     "wof:id":656389873,
-    "wof:lastmodified":1472625037,
+    "wof:lastmodified":1492101945,
     "wof:name":"Keystone Building Services",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

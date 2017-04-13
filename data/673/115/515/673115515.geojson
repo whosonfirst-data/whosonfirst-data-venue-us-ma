@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.582658,42.463311,-71.582658,42.463311",
     "geom:latitude":42.463311,
     "geom:longitude":-71.582658,
@@ -32,17 +33,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5roxzIW84MuBN3vZbI4UJW_42.463311_-71.582658@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734097,
-    "wof:geomhash":"b57f976c5afa1be4e11149300776deaf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e034121f69b3f4f9ce2ad9131a173069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524143,
+            "venue_id":673115515
+        }
+    ],
     "wof:id":673115515,
-    "wof:lastmodified":1472625346,
+    "wof:lastmodified":1492103097,
     "wof:name":"Eastern Special Risk Insurance",
     "wof:parent_id":420524143,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.932104,41.706417,-70.932104,41.706417",
     "geom:latitude":41.706417,
     "geom:longitude":-70.932104,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523313
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XEuu4MCkKfDtzWALU1N5q_41.706417_-70.932104@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721041,
-    "wof:geomhash":"69fbd61a1690f1a85b0eeb684e7ffb8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c84e8105fa5451df48e5efe3d21bae38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523313,
+            "venue_id":672529209
+        }
+    ],
     "wof:id":672529209,
-    "wof:lastmodified":1472625782,
+    "wof:lastmodified":1492107105,
     "wof:name":"Pete's Auto Repair",
     "wof:parent_id":420523313,
     "wof:placetype":"venue",

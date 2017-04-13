@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.778294,42.016365,-70.778294,42.016365",
     "geom:latitude":42.016365,
     "geom:longitude":-70.778294,
@@ -33,17 +34,26 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12kCcELaUXydN8ERglbKg1_42.016365_-70.778294@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741186,
-    "wof:geomhash":"d36fdbd877b9ca7e629a71d10cb4c7ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72250048683a8a3ce69df9de9347ab30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689160929
+        }
+    ],
     "wof:id":689160929,
-    "wof:lastmodified":1472625536,
+    "wof:lastmodified":1492101090,
     "wof:name":"M & S Mechanical Cooling And H",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

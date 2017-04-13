@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.838062,41.916909,-70.838062,41.916909",
     "geom:latitude":41.916909,
     "geom:longitude":-70.838062,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qGwv7SKI72xaMqgWp8txC_41.916909_-70.838062@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725028,
-    "wof:geomhash":"7c8f55b088b54f2b66d9eb00de1aefbe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"610c5872b7f7c136c1b351b4370e67bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672707543
+        }
+    ],
     "wof:id":672707543,
-    "wof:lastmodified":1472625948,
+    "wof:lastmodified":1492112363,
     "wof:name":"George M Soule Builder",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.822295,41.732512,-70.822295,41.732512",
     "geom:latitude":41.732512,
     "geom:longitude":-70.822295,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476563,
+        85633793,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4D0U6C2lJQXi74mk1o9Jkj_41.732512_-70.822295@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711581,
-    "wof:geomhash":"5a92a4f17c23430dc3871b908840ce2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"949a64f6f44b6510ea18bb14548364fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476563,
+            "region_id":85688645,
+            "venue_id":656380011
+        }
+    ],
     "wof:id":656380011,
-    "wof:lastmodified":1472624981,
+    "wof:lastmodified":1492101518,
     "wof:name":"First Congregational Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

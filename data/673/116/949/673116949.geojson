@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.744063,42.609358,-71.744063,42.609358",
     "geom:latitude":42.609358,
     "geom:longitude":-71.744063,
@@ -46,17 +47,32 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476067,
+        85633793,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qZh7kBNYhyTLNqfCM1bXD_42.609358_-71.744063@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734127,
-    "wof:geomhash":"ba7344048e8edd22655d087f7108d77e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4bad0c8c32f70bc7e33f22622528ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476067,
+            "region_id":85688645,
+            "venue_id":673116949
+        }
+    ],
     "wof:id":673116949,
-    "wof:lastmodified":1472625380,
+    "wof:lastmodified":1492104451,
     "wof:name":"ursa minor kennel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.018495,41.96946,-71.018495,41.96946",
     "geom:latitude":41.96946,
     "geom:longitude":-71.018495,
@@ -31,17 +32,26 @@
         "sprinkler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1K3zDMOPTVZqi08GZBXAKm_41.969460_-71.018495@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720554,
-    "wof:geomhash":"7be2d9c9973ad6b961b67ff958abf470",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2aa67165329b77e9fc87441fc50630c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672506521
+        }
+    ],
     "wof:id":672506521,
-    "wof:lastmodified":1472625776,
+    "wof:lastmodified":1492109436,
     "wof:name":"Sprinkler House",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

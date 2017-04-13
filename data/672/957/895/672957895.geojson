@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.863402,42.351015,-71.863402,42.351015",
     "geom:latitude":42.351015,
     "geom:longitude":-71.863402,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mZdbrJLtY0v09gWKM0jgr_42.351015_-71.863402@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730369,
-    "wof:geomhash":"68e2feec0b36a62ca661d99fcdcf9150",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e013dda9ef6d49c4e60be3c3d2f0be88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":672957895
+        }
+    ],
     "wof:id":672957895,
-    "wof:lastmodified":1472626176,
+    "wof:lastmodified":1492112405,
     "wof:name":"First Cong Chr - Holden Nrsy",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

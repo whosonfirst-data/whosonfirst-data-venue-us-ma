@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.214463,42.66385,-71.214463,42.66385",
     "geom:latitude":42.66385,
     "geom:longitude":-71.214463,
@@ -29,19 +30,28 @@
     "sg:province":"MA",
     "sg:website":"www.aps1.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523395
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MubRS17mB0OQhkCAst7zT_42.663850_-71.214463@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728240,
-    "wof:geomhash":"50bb463620343433e3af3e4b258c71e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8fe9a815cfe300fd9950d18919248c87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523395,
+            "venue_id":672863377
+        }
+    ],
     "wof:id":672863377,
-    "wof:lastmodified":1472626084,
+    "wof:lastmodified":1492115990,
     "wof:name":"Wood Hill Middle School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

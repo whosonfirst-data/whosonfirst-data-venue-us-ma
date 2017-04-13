@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.533462,42.130643,-71.533462,42.130643",
     "geom:latitude":42.130643,
     "geom:longitude":-71.533462,
@@ -30,10 +31,13 @@
     "sg:website":"www.hopedale.k12.ma.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,18 +45,21 @@
     },
     "wof:country":"US",
     "wof:created":1461726559,
-    "wof:geomhash":"074110a74563de7b84ff088ac17b5e5b",
+    "wof:geomhash":"74d31425fe9c32f2af8f1c6f428526c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672778867
         }
     ],
     "wof:id":672778867,
-    "wof:lastmodified":1472626022,
+    "wof:lastmodified":1492113388,
     "wof:name":"Hopedale Junior Senior High",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

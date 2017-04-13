@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.887181,41.64653,-70.887181,41.64653",
     "geom:latitude":41.64653,
     "geom:longitude":-70.887181,
@@ -31,17 +32,26 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lPmZ48OS4hg7aAnEXF9nM_41.646530_-70.887181@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711340,
-    "wof:geomhash":"fb71c695b9aee317aec73271b76baeba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cd877c780086256e7c53535ae734f40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523315,
+            "venue_id":656368345
+        }
+    ],
     "wof:id":656368345,
-    "wof:lastmodified":1472624943,
+    "wof:lastmodified":1492101971,
     "wof:name":"Outdoor Connection",
     "wof:parent_id":420523315,
     "wof:placetype":"venue",

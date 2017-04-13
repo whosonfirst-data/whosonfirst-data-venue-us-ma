@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.950814,41.898108,-70.950814,41.898108",
     "geom:latitude":41.898108,
     "geom:longitude":-70.950814,
@@ -31,19 +32,32 @@
         "monument"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85854565,
+        102084367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29RM0NWAUeY8Wq4hZvusYz_41.898108_-70.950814@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712770,
-    "wof:geomhash":"b0bc6bfa9187a17641f2ec631406eb91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e01f70287b1c1f85628b64df2125cc90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85854565,
+            "region_id":85688645,
+            "venue_id":672164113
+        }
+    ],
     "wof:id":672164113,
-    "wof:lastmodified":1472625001,
+    "wof:lastmodified":1492109423,
     "wof:name":"Barnicoat Monuments",
-    "wof:parent_id":-1,
+    "wof:parent_id":85854565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

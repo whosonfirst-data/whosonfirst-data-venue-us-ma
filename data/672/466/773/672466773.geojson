@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.753367,41.743759,-70.753367,41.743759",
     "geom:latitude":41.743759,
     "geom:longitude":-70.753367,
@@ -31,17 +32,26 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DpAtrDgCudsNiQdCryMvi_41.743759_-70.753367@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719606,
-    "wof:geomhash":"905e66882186e70b6d531c86a3e400e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcfbe3cae66a170910615672c523cb7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523897,
+            "venue_id":672466773
+        }
+    ],
     "wof:id":672466773,
-    "wof:lastmodified":1472625740,
+    "wof:lastmodified":1492113907,
     "wof:name":"James Silva",
     "wof:parent_id":420523897,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.995914,41.984133,-70.995914,41.984133",
     "geom:latitude":41.984133,
     "geom:longitude":-70.995914,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FBcp1kmw2dTFXz7macZ3O_41.984133_-70.995914@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724909,
-    "wof:geomhash":"18e6acdca0e8b9e607451a2eb380f635",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5492a3bbb73037fe342d7e5b93de7ae3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672702171
+        }
+    ],
     "wof:id":672702171,
-    "wof:lastmodified":1472625940,
+    "wof:lastmodified":1492111663,
     "wof:name":"Scotland United Ch Of Christ",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

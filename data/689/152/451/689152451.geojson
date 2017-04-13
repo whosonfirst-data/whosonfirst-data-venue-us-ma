@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.041193,41.960795,-71.041193,41.960795",
     "geom:latitude":41.960795,
     "geom:longitude":-71.041193,
@@ -31,17 +32,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zInVylxjo3XP7YqU5ICar_41.960795_-71.041193@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461740992,
-    "wof:geomhash":"293651ff2e538b735dcb6ac425678312",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de89e0ed8e318e3427f05599fd09159f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":689152451
+        }
+    ],
     "wof:id":689152451,
-    "wof:lastmodified":1472625497,
+    "wof:lastmodified":1492101002,
     "wof:name":"Nick's & Angelo Pizza Place",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

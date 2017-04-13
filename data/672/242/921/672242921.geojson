@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.811297,42.269632,-71.811297,42.269632",
     "geom:latitude":42.269632,
     "geom:longitude":-71.811297,
@@ -35,7 +36,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85805637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461714470,
-    "wof:geomhash":"9e6975121cb668854247483134fc7e4c",
+    "wof:geomhash":"6b1193ec78ddaf84f5f7682ce10c1756",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,22 @@
             "neighbourhood_id":85881863,
             "region_id":85688645,
             "venue_id":672242921
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85805637,
+            "region_id":85688645,
+            "venue_id":672242921
         }
     ],
     "wof:id":672242921,
-    "wof:lastmodified":1472625380,
+    "wof:lastmodified":1492107174,
     "wof:name":"American Federation of Te",
-    "wof:parent_id":85881863,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

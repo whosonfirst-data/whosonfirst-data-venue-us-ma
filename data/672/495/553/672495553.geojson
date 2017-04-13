@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.580294,42.092226,-72.580294,42.092226",
     "geom:latitude":42.092226,
     "geom:longitude":-72.580294,
@@ -32,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849631,
+        420523597,
         102191575,
-        404476341,
+        404476369,
         85633793,
-        85950399,
+        85950393,
         102084627,
-        85688645
+        85688645,
+        85849631,
+        404476341,
+        85950399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,18 @@
     },
     "wof:country":"US",
     "wof:created":1461720305,
-    "wof:geomhash":"5b78d998ce2eac5b228ee252bbf4378a",
+    "wof:geomhash":"b19a4f6c94afdc4f66c10e15313669ab",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476369,
+            "locality_id":85950393,
+            "neighbourhood_id":420523597,
+            "region_id":85688645,
+            "venue_id":672495553
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +74,9 @@
         }
     ],
     "wof:id":672495553,
-    "wof:lastmodified":1472625758,
+    "wof:lastmodified":1492111284,
     "wof:name":"Kayrouze Jewelry",
-    "wof:parent_id":85849631,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.137619,42.139412,-71.137619,42.139412",
     "geom:latitude":42.139412,
     "geom:longitude":-71.137619,
@@ -31,17 +32,26 @@
         "newspaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KjzwpwZIMhh8My3acd4nz_42.139412_-71.137619@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731025,
-    "wof:geomhash":"8c09a8b1fcc5cd01056278a30323ae8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7937ffdcfd1adc6ee02a36c5a0ab9a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672979601
+        }
+    ],
     "wof:id":672979601,
-    "wof:lastmodified":1472626192,
+    "wof:lastmodified":1492117033,
     "wof:name":"Hockey USA Newspaper",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

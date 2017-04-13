@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.807339,42.034539,-70.807339,42.034539",
     "geom:latitude":42.034539,
     "geom:longitude":-70.807339,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4z901Ux4npRJSd2PFEdTsX_42.034539_-70.807339@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713413,
-    "wof:geomhash":"f0544c8953f1864b8ad57341b0abe757",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e1cc488cb6db94cf95ef243406d9a42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672193583
+        }
+    ],
     "wof:id":672193583,
-    "wof:lastmodified":1472625155,
+    "wof:lastmodified":1492109833,
     "wof:name":"O'Reilly & O'Reilly",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

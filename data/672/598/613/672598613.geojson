@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.799415,41.90331,-70.799415,41.90331",
     "geom:latitude":41.90331,
     "geom:longitude":-70.799415,
@@ -31,17 +32,26 @@
         "taping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hBHVERX558jIBHegJxb30_41.903310_-70.799415@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722562,
-    "wof:geomhash":"d5ad9ab55d8828f95eda044a69f5b8a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbf486e3c86ada49ce28079f0c85cd33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672598613
+        }
+    ],
     "wof:id":672598613,
-    "wof:lastmodified":1472625852,
+    "wof:lastmodified":1492113206,
     "wof:name":"Freeze Frame Productions",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

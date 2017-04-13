@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.42664,42.160629,-72.42664,42.160629",
     "geom:latitude":42.160629,
     "geom:longitude":-72.42664,
@@ -28,17 +29,26 @@
     "sg:postcode":"01056",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523549
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XJAjVBoAumH7JIGMnAS83_42.160629_-72.426640@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732323,
-    "wof:geomhash":"359bd6bf5f616c2ed13a570e821aeb5c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27747d737ca0db1d2c6f52692ada0d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523549,
+            "venue_id":673029633
+        }
+    ],
     "wof:id":673029633,
-    "wof:lastmodified":1472625029,
+    "wof:lastmodified":1492104802,
     "wof:name":"Town Pizza",
     "wof:parent_id":420523549,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.377373,42.681658,-71.377373,42.681658",
     "geom:latitude":42.681658,
     "geom:longitude":-71.377373,
@@ -32,17 +33,26 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RliEbZQncaMKPeUflTV7x_42.681658_-71.377373@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715550,
-    "wof:geomhash":"558da058158a963f7f80b33545076442",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3488f8ebddf0cf60fe3c209ee73c637d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523675,
+            "venue_id":672297035
+        }
+    ],
     "wof:id":672297035,
-    "wof:lastmodified":1472625488,
+    "wof:lastmodified":1492118490,
     "wof:name":"Lakeview Lounge",
     "wof:parent_id":420523675,
     "wof:placetype":"venue",

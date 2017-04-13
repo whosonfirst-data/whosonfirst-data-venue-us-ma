@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.616684,41.648947,-70.616684,41.648947",
     "geom:latitude":41.648947,
     "geom:longitude":-70.616684,
@@ -31,17 +32,26 @@
         "diner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Elai9Bh532C84N20mMuwE_41.648947_-70.616684@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741934,
-    "wof:geomhash":"3b04a07e65038ddb794884a069ef1817",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d5f7f54e28b1a56467473245287e87b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":689194591
+        }
+    ],
     "wof:id":689194591,
-    "wof:lastmodified":1472625594,
+    "wof:lastmodified":1492099907,
     "wof:name":"Tin Man Diner",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

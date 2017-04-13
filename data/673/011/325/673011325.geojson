@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.323763,42.516176,-71.323763,42.516176",
     "geom:latitude":42.516176,
     "geom:longitude":-71.323763,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85837157,
-        102084643
+        85844659,
+        102084643,
+        85837157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461731835,
-    "wof:geomhash":"7b74fbe82dd8e829a48774138035620b",
+    "wof:geomhash":"2712d012e2a59501ebcf39506753def6",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85844659,
+            "region_id":85688645,
+            "venue_id":673011325
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":673011325,
-    "wof:lastmodified":1472624944,
+    "wof:lastmodified":1492103963,
     "wof:name":"Puritan Specialty Co",
-    "wof:parent_id":85837157,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

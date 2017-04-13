@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.768746,42.196746,-70.768746,42.196746",
     "geom:latitude":42.196746,
     "geom:longitude":-70.768746,
@@ -32,10 +33,17 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85847363,
+        102191575,
+        404476565,
         85633793,
-        85848267,
-        102084367
+        85950485,
+        102084367,
+        85688645,
+        85835985,
+        85950475,
+        85832207,
+        85848267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +51,38 @@
     },
     "wof:country":"US",
     "wof:created":1461731497,
-    "wof:geomhash":"eb90a8ed8ca9899084fede2abac17c5c",
+    "wof:geomhash":"3ade1ea7c88b616d5426c1b6e454d79f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476565,
+            "locality_id":85950485,
+            "neighbourhood_id":85847363,
+            "region_id":85688645,
+            "venue_id":672996155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476565,
+            "locality_id":85950475,
+            "neighbourhood_id":85835985,
+            "region_id":85688645,
+            "venue_id":672996155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "localadmin_id":404476565,
+            "locality_id":85950475,
+            "neighbourhood_id":85832207,
+            "region_id":85688645,
+            "venue_id":672996155
+        },
         {
             "country_id":85633793,
             "county_id":102084367,
@@ -54,9 +92,9 @@
         }
     ],
     "wof:id":672996155,
-    "wof:lastmodified":1472626197,
+    "wof:lastmodified":1492107280,
     "wof:name":"Scituate Police Dept",
-    "wof:parent_id":85848267,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.382398,42.547335,-71.382398,42.547335",
     "geom:latitude":42.547335,
     "geom:longitude":-71.382398,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85809503,
-        102084643
+        85837157,
+        102084643,
+        85809503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,15 @@
     },
     "wof:country":"US",
     "wof:created":1461726871,
-    "wof:geomhash":"512d3f302a15588cc3df5880905d7e7e",
+    "wof:geomhash":"d3fd4785ed4c7dcffcf68c4ba0e9d28e",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85837157,
+            "region_id":85688645,
+            "venue_id":672794431
+        },
         {
             "country_id":85633793,
             "county_id":102084643,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":672794431,
-    "wof:lastmodified":1472626026,
+    "wof:lastmodified":1492118597,
     "wof:name":"Lasalle Sreet Securities",
-    "wof:parent_id":85809503,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

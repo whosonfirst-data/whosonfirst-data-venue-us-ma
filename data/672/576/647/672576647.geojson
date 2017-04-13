@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.937282,42.10466,-71.937282,42.10466",
     "geom:latitude":42.10466,
     "geom:longitude":-71.937282,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524095
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AMJn82gDBMC0MtHTldRBO_42.104660_-71.937282@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722048,
-    "wof:geomhash":"40b42b9fcfb530668ed561bbf01be45c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17ff4bed335a10137b3f8746b20206ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524095,
+            "venue_id":672576647
+        }
+    ],
     "wof:id":672576647,
-    "wof:lastmodified":1472625819,
+    "wof:lastmodified":1492116199,
     "wof:name":"Kenneth Perron Builder",
     "wof:parent_id":420524095,
     "wof:placetype":"venue",

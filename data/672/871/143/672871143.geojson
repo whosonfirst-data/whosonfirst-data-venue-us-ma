@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101902,42.127782,-71.101902,42.127782",
     "geom:latitude":42.127782,
     "geom:longitude":-71.101902,
@@ -32,17 +33,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61nB3lIz0fIKSHn46mWiYS_42.127782_-71.101902@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728461,
-    "wof:geomhash":"5354b401a7eff1ed8121879c12c83f82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38f51f145640152a794a779b07e1b11f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672871143
+        }
+    ],
     "wof:id":672871143,
-    "wof:lastmodified":1472626093,
+    "wof:lastmodified":1492111324,
     "wof:name":"Catalina Marketing Corp",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

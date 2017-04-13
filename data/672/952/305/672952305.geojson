@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.014023,41.967411,-71.014023,41.967411",
     "geom:latitude":41.967411,
     "geom:longitude":-71.014023,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6e75sEeonQNRIUgovSICJq_41.967411_-71.014023@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730193,
-    "wof:geomhash":"5cb513b99a3012c5084f4f3cf54b1db1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ead02287bae5f76987243294792b12a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523831,
+            "venue_id":672952305
+        }
+    ],
     "wof:id":672952305,
-    "wof:lastmodified":1472626158,
+    "wof:lastmodified":1492111438,
     "wof:name":"Brown Electric",
     "wof:parent_id":420523831,
     "wof:placetype":"venue",

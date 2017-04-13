@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.425489,42.090861,-71.425489,42.090861",
     "geom:latitude":42.090861,
     "geom:longitude":-71.425489,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420523783,
+        85853105,
         102191575,
         404476439,
         85633793,
         85950431,
         102084403,
-        85688645
+        85688645,
+        420523783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461721171,
-    "wof:geomhash":"48a45992b1a952b9c955b0d95eb60f24",
+    "wof:geomhash":"af4c5f323644f9d4323d6c2387bd6f1a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476439,
+            "locality_id":85950431,
+            "neighbourhood_id":85853105,
+            "region_id":85688645,
+            "venue_id":672535321
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":672535321,
-    "wof:lastmodified":1472625784,
+    "wof:lastmodified":1492119612,
     "wof:name":"Masi Electrical Contracting",
-    "wof:parent_id":420523783,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

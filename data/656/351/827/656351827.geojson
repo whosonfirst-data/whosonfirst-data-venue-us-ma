@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.087413,41.570141,-71.087413,41.570141",
     "geom:latitude":41.570141,
     "geom:longitude":-71.087413,
@@ -37,7 +38,8 @@
         85688645,
         85633793,
         85823799,
-        102084407
+        102084407,
+        420523293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461711000,
-    "wof:geomhash":"f94b429d17da83a63397b9975c16c75f",
+    "wof:geomhash":"eb12dc246176f8273d96235fe629c518",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,17 @@
             "neighbourhood_id":85823799,
             "region_id":85688645,
             "venue_id":656351827
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523293,
+            "venue_id":656351827
         }
     ],
     "wof:id":656351827,
-    "wof:lastmodified":1472624917,
+    "wof:lastmodified":1492102027,
     "wof:name":"Handy Hill Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

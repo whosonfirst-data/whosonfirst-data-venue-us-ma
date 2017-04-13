@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.839013,41.9031,-70.839013,41.9031",
     "geom:latitude":41.9031,
     "geom:longitude":-70.839013,
@@ -39,17 +40,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18dfVLdgudRbUeVT6JDkhB_41.903100_-70.839013@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741064,
-    "wof:geomhash":"52f716da51c0ad7c64bc2d3ef6aefacf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9dc4c246f4fd89248892f07885ea8c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689155559
+        }
+    ],
     "wof:id":689155559,
-    "wof:lastmodified":1472625507,
+    "wof:lastmodified":1492100400,
     "wof:name":"Electronics Md",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

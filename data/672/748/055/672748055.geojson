@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.824727,42.319637,-71.824727,42.319637",
     "geom:latitude":42.319637,
     "geom:longitude":-71.824727,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4huOt455T7RciqnS3CALTp_42.319637_-71.824727@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725901,
-    "wof:geomhash":"a335ff01d2891b0379b185cb96b14df8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a01d56723d476e0fc27002c375e95e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524085,
+            "venue_id":672748055
+        }
+    ],
     "wof:id":672748055,
-    "wof:lastmodified":1472625977,
+    "wof:lastmodified":1492116778,
     "wof:name":"Weeping Willows Ministry Inc",
     "wof:parent_id":420524085,
     "wof:placetype":"venue",

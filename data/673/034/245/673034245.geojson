@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.541532,41.895916,-70.541532,41.895916",
     "geom:latitude":41.895916,
     "geom:longitude":-70.541532,
@@ -29,7 +30,8 @@
         85688645,
         85633793,
         85832137,
-        102084367
+        102084367,
+        420523997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461732412,
-    "wof:geomhash":"82e61a92a489d503bfd5ed35e10c10f9",
+    "wof:geomhash":"22ce5e6f3f17eb731c005df1d5b3228a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,12 +47,17 @@
             "neighbourhood_id":85832137,
             "region_id":85688645,
             "venue_id":673034245
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523997,
+            "venue_id":673034245
         }
     ],
     "wof:id":673034245,
-    "wof:lastmodified":1472625050,
+    "wof:lastmodified":1492103946,
     "wof:name":"Phinney Fuel Co",
-    "wof:parent_id":85832137,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

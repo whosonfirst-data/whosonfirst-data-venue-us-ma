@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.854095,42.042673,-70.854095,42.042673",
     "geom:latitude":42.042673,
     "geom:longitude":-70.854095,
@@ -31,17 +32,26 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2i09HHRSRW5Vgizx2C5M2U_42.042673_-70.854095@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719806,
-    "wof:geomhash":"fa59b0432b2217ecab4285b8e3d8b92c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa608f40a2f4ba98b11efcb938ab3f3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672474759
+        }
+    ],
     "wof:id":672474759,
-    "wof:lastmodified":1472625743,
+    "wof:lastmodified":1492117676,
     "wof:name":"Stitch'n Time",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

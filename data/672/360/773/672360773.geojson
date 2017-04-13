@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.947704,41.848231,-70.947704,41.848231",
     "geom:latitude":41.848231,
     "geom:longitude":-70.947704,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rULDbNt5NTXgFW9P0CdRV_41.848231_-70.947704@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716990,
-    "wof:geomhash":"3b761752c4557ee53502183af44e8950",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ecc1d5c9d456ff2d36103e2f3a45f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523969,
+            "venue_id":672360773
+        }
+    ],
     "wof:id":672360773,
-    "wof:lastmodified":1472625630,
+    "wof:lastmodified":1492111251,
     "wof:name":"Lakeville Town Assessor's Ofc",
     "wof:parent_id":420523969,
     "wof:placetype":"venue",

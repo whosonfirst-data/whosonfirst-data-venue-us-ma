@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.673033,42.072573,-70.673033,42.072573",
     "geom:latitude":42.072573,
     "geom:longitude":-70.673033,
@@ -31,19 +32,40 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950461,
+        102084367,
+        85819249,
+        420523971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i6oUxpk3r2a9jSnfEHs4T_42.072573_-70.673033@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719660,
-    "wof:geomhash":"32f9948d83cf11e030fd7dac66979e11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cd94c2ae9ba4641f98ba30fce3b1619",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950461,
+            "neighbourhood_id":85819249,
+            "region_id":85688645,
+            "venue_id":672468539
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523971,
+            "venue_id":672468539
+        }
+    ],
     "wof:id":672468539,
-    "wof:lastmodified":1472625732,
+    "wof:lastmodified":1492116067,
     "wof:name":"J R Holmes Jewelers Inc",
-    "wof:parent_id":420523971,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.550108,41.822988,-70.550108,41.822988",
     "geom:latitude":41.822988,
     "geom:longitude":-70.550108,
@@ -35,17 +36,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EPwtthDZCLbHAnX3qipBD_41.822988_-70.550108@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712790,
-    "wof:geomhash":"96320990ed8cdc762a9006410a95755f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea8e8783edc37af04c1d96eb8199ed6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":672164923
+        }
+    ],
     "wof:id":672164923,
-    "wof:lastmodified":1472625044,
+    "wof:lastmodified":1492109428,
     "wof:name":"Protech Service Center",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

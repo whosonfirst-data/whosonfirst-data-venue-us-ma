@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.778789,41.894791,-70.778789,41.894791",
     "geom:latitude":41.894791,
     "geom:longitude":-70.778789,
@@ -32,17 +33,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Yq6jmykB2l3A2C8dI4RMB_41.894791_-70.778789@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728787,
-    "wof:geomhash":"c6ae1150a2cf983ae067e6991442afed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59d1c5ff44cff45a22b14e891b11f9b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523937,
+            "venue_id":672887963
+        }
+    ],
     "wof:id":672887963,
-    "wof:lastmodified":1472626113,
+    "wof:lastmodified":1492113686,
     "wof:name":"Country Rentals",
     "wof:parent_id":420523937,
     "wof:placetype":"venue",

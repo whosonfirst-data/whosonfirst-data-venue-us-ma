@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101791,42.136561,-71.101791,42.136561",
     "geom:latitude":42.136561,
     "geom:longitude":-71.101791,
@@ -31,17 +32,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17JpTTJOhkfAM2OK3ah93r_42.136561_-71.101791@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728868,
-    "wof:geomhash":"e18312b6e6a27a78f1626d511775f4eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"728775fee884ece60bd0197e12f4746a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672892087
+        }
+    ],
     "wof:id":672892087,
-    "wof:lastmodified":1472626109,
+    "wof:lastmodified":1492110405,
     "wof:name":"Stoughton Mobil Mart",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

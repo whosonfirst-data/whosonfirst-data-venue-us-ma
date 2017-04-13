@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.552437,41.81893,-70.552437,41.81893",
     "geom:latitude":41.81893,
     "geom:longitude":-70.552437,
@@ -32,17 +33,26 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QnT3p3btQqRdbseyzqCLI_41.818930_-70.552437@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741170,
-    "wof:geomhash":"e13983b0f22ddfe0406303085b2c463c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82014bc289407e7b3f1e707dc0079ad1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":689160061
+        }
+    ],
     "wof:id":689160061,
-    "wof:lastmodified":1472625500,
+    "wof:lastmodified":1492101077,
     "wof:name":"Stockton Turner Llc Mortgage Broker",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

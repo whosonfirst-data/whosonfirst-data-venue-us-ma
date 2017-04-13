@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.417891,42.10738,-71.417891,42.10738",
     "geom:latitude":42.10738,
     "geom:longitude":-71.417891,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857157,
+        420523783,
         102191575,
         404476439,
         85633793,
         85950431,
         102084403,
-        85688645
+        85688645,
+        85857157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,18 @@
     },
     "wof:country":"US",
     "wof:created":1461714346,
-    "wof:geomhash":"a2d14381e6ccdd119d82acc9e7ce4fa5",
+    "wof:geomhash":"bea4336bb4228585c59acd16f1952133",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084403,
+            "localadmin_id":404476439,
+            "locality_id":85950431,
+            "neighbourhood_id":420523783,
+            "region_id":85688645,
+            "venue_id":672237573
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":672237573,
-    "wof:lastmodified":1472625315,
+    "wof:lastmodified":1492119381,
     "wof:name":"Fenway Films Inc",
-    "wof:parent_id":85857157,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

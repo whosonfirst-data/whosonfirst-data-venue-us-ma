@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.822807,42.049459,-70.822807,42.049459",
     "geom:latitude":42.049459,
     "geom:longitude":-70.822807,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6s9WLwAHT7stiegp8ZiPsU_42.049459_-70.822807@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712723,
-    "wof:geomhash":"b38d068fc3618918440f0da952f866de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f922d3574ac9e6a21b5aec961812761",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672162755
+        }
+    ],
     "wof:id":672162755,
-    "wof:lastmodified":1472625032,
+    "wof:lastmodified":1492119077,
     "wof:name":"Pete S Painting To Perfec",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

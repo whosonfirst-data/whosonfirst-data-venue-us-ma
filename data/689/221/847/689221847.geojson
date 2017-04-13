@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.317072,41.829072,-71.317072,41.829072",
     "geom:latitude":41.829072,
     "geom:longitude":-71.317072,
@@ -32,17 +33,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3z6wmsegovXwdVLJYUEW4t_41.829072_-71.317072@1303262235"
     },
     "wof:country":"US",
     "wof:created":1461742522,
-    "wof:geomhash":"8422073d1243bea6d2e8146e9f0b93d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc5264169e05aa7e44e2afa380c8a024",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523341,
+            "venue_id":689221847
+        }
+    ],
     "wof:id":689221847,
-    "wof:lastmodified":1472625632,
+    "wof:lastmodified":1492099586,
     "wof:name":"Durand Insurance Agency",
     "wof:parent_id":420523341,
     "wof:placetype":"venue",

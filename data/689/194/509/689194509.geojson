@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.613702,41.640611,-70.613702,41.640611",
     "geom:latitude":41.640611,
     "geom:longitude":-70.613702,
@@ -31,17 +32,26 @@
         "dermatologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hkn81B8PvxzIZlDE8S3iX_41.640611_-70.613702@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741933,
-    "wof:geomhash":"7ff02a3249a70e27bef67f34ad57beac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97059a29df69d7a79add105b5c6e76ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523223,
+            "venue_id":689194509
+        }
+    ],
     "wof:id":689194509,
-    "wof:lastmodified":1472625591,
+    "wof:lastmodified":1492099909,
     "wof:name":"Dermatology of Cape Cod",
     "wof:parent_id":420523223,
     "wof:placetype":"venue",

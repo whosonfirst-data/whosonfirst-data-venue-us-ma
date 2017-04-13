@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.110692,42.124623,-71.110692,42.124623",
     "geom:latitude":42.124623,
     "geom:longitude":-71.110692,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rgi5R6uunRkwcHcrnl7lb_42.124623_-71.110692@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731359,
-    "wof:geomhash":"93c036ccd2c25195b182adcda81192b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"336dd0b506693b7ba990a02381924e3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672991147
+        }
+    ],
     "wof:id":672991147,
-    "wof:lastmodified":1472626193,
+    "wof:lastmodified":1492107197,
     "wof:name":"McCabe Construction",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

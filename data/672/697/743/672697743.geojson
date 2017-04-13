@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.0743,41.654813,-71.0743,41.654813",
     "geom:latitude":41.654813,
     "geom:longitude":-71.0743,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qV2JCCVWkZpXlOoV0lu7i_41.654813_-71.074300@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724810,
-    "wof:geomhash":"fbcf8f477711bb833c22dd6d6cc0d7c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77e9686286d581f2a1a6bd7f37c6ef86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672697743
+        }
+    ],
     "wof:id":672697743,
-    "wof:lastmodified":1472625948,
+    "wof:lastmodified":1492116970,
     "wof:name":"Val's Auto Sales",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

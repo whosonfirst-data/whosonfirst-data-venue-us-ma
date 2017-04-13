@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101434,42.123107,-71.101434,42.123107",
     "geom:latitude":42.123107,
     "geom:longitude":-71.101434,
@@ -32,17 +33,26 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ArNj5TeSlnWxeY7j5kPmk_42.123107_-71.101434@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718429,
-    "wof:geomhash":"5dc9cd676b0896fd627841241fc43dc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"048e48b6dadc23e6d115a122e2fc986a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672420985
+        }
+    ],
     "wof:id":672420985,
-    "wof:lastmodified":1472625687,
+    "wof:lastmodified":1492108476,
     "wof:name":"Premier Properties Better Home",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

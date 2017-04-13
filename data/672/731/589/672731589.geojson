@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.812298,41.94282,-70.812298,41.94282",
     "geom:latitude":41.94282,
     "geom:longitude":-70.812298,
@@ -34,19 +35,34 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523949,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68MSYEL9UK3Ub12OKLuyMw_41.942820_-70.812298@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725551,
-    "wof:geomhash":"690a3b044cf16569c914e531eb10a093",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b0563723a9d9a0f6357dd4868ffabb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523949,
+            "venue_id":672731589
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672731589
+        }
+    ],
     "wof:id":672731589,
-    "wof:lastmodified":1472625970,
+    "wof:lastmodified":1492107374,
     "wof:name":"Springer Flooring & Constr",
-    "wof:parent_id":420523949,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

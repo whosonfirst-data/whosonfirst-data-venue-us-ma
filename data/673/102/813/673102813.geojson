@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.449765,42.160818,-72.449765,42.160818",
     "geom:latitude":42.160818,
     "geom:longitude":-72.449765,
@@ -40,17 +41,36 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420523561,
+        102191575,
+        404476379,
+        85633793,
+        85950775,
+        102084627,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pt4qaJbIK4DWxKazorQcQ_42.160818_-72.449765@1303262184"
     },
     "wof:country":"US",
     "wof:created":1461733826,
-    "wof:geomhash":"12cb2a5b6f7ea946681a97b353c9944e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36f9992935b1b66794dbe0d37f211f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476379,
+            "locality_id":85950775,
+            "neighbourhood_id":420523561,
+            "region_id":85688645,
+            "venue_id":673102813
+        }
+    ],
     "wof:id":673102813,
-    "wof:lastmodified":1472625292,
+    "wof:lastmodified":1492104766,
     "wof:name":"Commercial Construction Services",
     "wof:parent_id":420523561,
     "wof:placetype":"venue",

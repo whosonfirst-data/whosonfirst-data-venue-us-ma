@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.124272,42.131475,-71.124272,42.131475",
     "geom:latitude":42.131475,
     "geom:longitude":-71.124272,
@@ -37,17 +38,26 @@
     ],
     "sg:website":"www.puritrust.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6s7zSmnsZYjZ4bgEsU9DLX_42.131475_-71.124272@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736323,
-    "wof:geomhash":"d1c415ae6448fb78ed31b232f694bccb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33b02cc47de1cc07f8223d21e1d57bcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688953823
+        }
+    ],
     "wof:id":688953823,
-    "wof:lastmodified":1472625173,
+    "wof:lastmodified":1492120229,
     "wof:name":"PuriTrust Inc.",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

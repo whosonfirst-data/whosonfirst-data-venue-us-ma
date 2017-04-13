@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.96578,42.426213,-71.96578,42.426213",
     "geom:latitude":42.426213,
     "geom:longitude":-71.96578,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524203
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GNmkTiGGOK6aJ1QDK2ea3_42.426213_-71.965780@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461713774,
-    "wof:geomhash":"108be603360379cd5c54cf7c43aefda6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a6595285d36702968b3c976a5d2078b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524203,
+            "venue_id":672210201
+        }
+    ],
     "wof:id":672210201,
-    "wof:lastmodified":1472625202,
+    "wof:lastmodified":1492108899,
     "wof:name":"Center Auto Body",
     "wof:parent_id":420524203,
     "wof:placetype":"venue",

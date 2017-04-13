@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.715744,42.132423,-70.715744,42.132423",
     "geom:latitude":42.132423,
     "geom:longitude":-70.715744,
@@ -33,17 +34,26 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07NET449uNZJVLjTDHHsQr_42.132423_-70.715744@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719041,
-    "wof:geomhash":"57b4941f5192c55972d012b9640c9ccf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"057fa4a32f6a666776d81c6c4b6f7c8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523925,
+            "venue_id":672444719
+        }
+    ],
     "wof:id":672444719,
-    "wof:lastmodified":1472625713,
+    "wof:lastmodified":1492108582,
     "wof:name":"Allan T Griffin",
     "wof:parent_id":420523925,
     "wof:placetype":"venue",

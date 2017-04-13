@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.890316,41.706414,-70.890316,41.706414",
     "geom:latitude":41.706414,
     "geom:longitude":-70.890316,
@@ -33,17 +34,26 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UZTo2MSgr4zNgGzE6rTq6_41.706414_-70.890316@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742382,
-    "wof:geomhash":"ee69b8c73a11b80858368cbf326cbffe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1f7b9e1345a57e76701163749c635f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":689216035
+        }
+    ],
     "wof:id":689216035,
-    "wof:lastmodified":1472625601,
+    "wof:lastmodified":1492097685,
     "wof:name":"Rochelle's Restaurant",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

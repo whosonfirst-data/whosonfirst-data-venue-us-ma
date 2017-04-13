@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101678,42.133798,-71.101678,42.133798",
     "geom:latitude":42.133798,
     "geom:longitude":-71.101678,
@@ -53,17 +54,26 @@
     ],
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4p6HOjTGnqMOtHkSDU1WCF_42.133798_-71.101678@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736303,
-    "wof:geomhash":"0feb891c6569a9dd5b34c08cd21e1e7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7491fdfbf7eade327c259d81ad505f69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688952681
+        }
+    ],
     "wof:id":688952681,
-    "wof:lastmodified":1472625165,
+    "wof:lastmodified":1492120332,
     "wof:name":"T-Mobile",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

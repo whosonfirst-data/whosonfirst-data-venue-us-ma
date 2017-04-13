@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.514043,42.379938,-71.514043,42.379938",
     "geom:latitude":42.379938,
     "geom:longitude":-71.514043,
@@ -31,17 +32,26 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28SEUZjRlxkLeFajKHV1wa_42.379938_-71.514043@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727824,
-    "wof:geomhash":"855d66b9de5e2466ca21e6cff752d8e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2cf402a5053df056983cba0f5d16a63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":672841267
+        }
+    ],
     "wof:id":672841267,
-    "wof:lastmodified":1472626064,
+    "wof:lastmodified":1492112664,
     "wof:name":"Burco Forest Products",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

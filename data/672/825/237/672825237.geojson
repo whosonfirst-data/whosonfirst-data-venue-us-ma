@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.202349,42.43677,-73.202349,42.43677",
     "geom:latitude":42.43677,
     "geom:longitude":-73.202349,
@@ -32,14 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
-        85859313,
-        102084369,
         85829545,
         102191575,
         404476123,
-        85950325
+        85633793,
+        85950325,
+        102084369,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461727501,
-    "wof:geomhash":"049a930c4761050aa8006b46407473e4",
+    "wof:geomhash":"ac0748f6ba698a4a2d457b2953692408",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084369,
-            "neighbourhood_id":85859313,
-            "region_id":85688645,
-            "venue_id":672825237
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -68,9 +61,9 @@
         }
     ],
     "wof:id":672825237,
-    "wof:lastmodified":1472626050,
+    "wof:lastmodified":1492114840,
     "wof:name":"Barthe Building & Remodeling",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

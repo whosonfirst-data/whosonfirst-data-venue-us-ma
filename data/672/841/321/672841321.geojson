@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.933696,42.498505,-72.933696,42.498505",
     "geom:latitude":42.498505,
     "geom:longitude":-72.933696,
@@ -31,17 +32,26 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HyENlc6Fn53xKhOUOzhYS_42.498505_-72.933696@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727825,
-    "wof:geomhash":"0b3795fb1a4b067addecc49e3c80c781",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7eba6953ed9c56c4ec6dcd8f4f0f1947",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523653,
+            "venue_id":672841321
+        }
+    ],
     "wof:id":672841321,
-    "wof:lastmodified":1472626066,
+    "wof:lastmodified":1492112659,
     "wof:name":"William W Adams",
     "wof:parent_id":420523653,
     "wof:placetype":"venue",

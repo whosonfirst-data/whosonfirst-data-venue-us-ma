@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.804107,42.042237,-70.804107,42.042237",
     "geom:latitude":42.042237,
     "geom:longitude":-70.804107,
@@ -31,17 +32,26 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hDwiSJ3AVIG1YSWm5fnHK_42.042237_-70.804107@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726195,
-    "wof:geomhash":"9d7997ac5d68983b2e6a34bb86a37119",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f46eabe8768ad897b0d6b896cbcf0144",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":672761865
+        }
+    ],
     "wof:id":672761865,
-    "wof:lastmodified":1472626003,
+    "wof:lastmodified":1492118913,
     "wof:name":"Bonafide Home Inspections",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

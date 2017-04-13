@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.949979,42.307359,-71.949979,42.307359",
     "geom:latitude":42.307359,
     "geom:longitude":-71.949979,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0THcmUavS13xYWItwCqDdk_42.307359_-71.949979@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718264,
-    "wof:geomhash":"a58293d66fb865b3cef90b95803f9a26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69469ccbe79513db9503df7e7eae7200",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672413857
+        }
+    ],
     "wof:id":672413857,
-    "wof:lastmodified":1472625684,
+    "wof:lastmodified":1492116878,
     "wof:name":"Sansoucy Contracting",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

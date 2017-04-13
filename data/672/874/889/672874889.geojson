@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.13407,42.138479,-71.13407,42.138479",
     "geom:latitude":42.138479,
     "geom:longitude":-71.13407,
@@ -37,19 +38,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85850681,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Mz3acc0p4XKgQknIbTtO9_42.138479_-71.134070@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728533,
-    "wof:geomhash":"1a1e3276b488fb7bca0f96b4051642c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"571a49d7fcd28484e4888cf441a3c647",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85850681,
+            "region_id":85688645,
+            "venue_id":672874889
+        }
+    ],
     "wof:id":672874889,
-    "wof:lastmodified":1472626104,
+    "wof:lastmodified":1492114283,
     "wof:name":"Neo Contemporary Co",
-    "wof:parent_id":420523771,
+    "wof:parent_id":85850681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

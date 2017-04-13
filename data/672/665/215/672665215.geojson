@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.39017,42.643706,-71.39017,42.643706",
     "geom:latitude":42.643706,
     "geom:longitude":-71.39017,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3htiBDN7fYfSqmEeM1m0kG_42.643706_-71.390170@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724066,
-    "wof:geomhash":"a830f5df2ebafe91cc737eeeb8d938f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d165f8618f2b100a51411f1118f7a95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523711,
+            "venue_id":672665215
+        }
+    ],
     "wof:id":672665215,
-    "wof:lastmodified":1472625909,
+    "wof:lastmodified":1492114888,
     "wof:name":"Cowgill Auto Svc",
     "wof:parent_id":420523711,
     "wof:placetype":"venue",

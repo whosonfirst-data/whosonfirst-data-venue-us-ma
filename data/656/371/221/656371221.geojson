@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.776035,41.988571,-70.776035,41.988571",
     "geom:latitude":41.988571,
     "geom:longitude":-70.776035,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Jt5Vm1lWVaJ3bW94ELZFo_41.988571_-70.776035@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711401,
-    "wof:geomhash":"ba5c0c9b87e121f4812a0aea3b7c37e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3037a5577d4efd093e1c588368a88bbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":656371221
+        }
+    ],
     "wof:id":656371221,
-    "wof:lastmodified":1472624979,
+    "wof:lastmodified":1492101405,
     "wof:name":"Ketcham Construction",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

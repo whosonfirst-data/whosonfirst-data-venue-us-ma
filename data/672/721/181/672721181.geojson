@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.725438,41.936437,-70.725438,41.936437",
     "geom:latitude":41.936437,
     "geom:longitude":-70.725438,
@@ -31,17 +32,26 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4n6rPsMQe13SBSsQ710Ybr_41.936437_-70.725438@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725323,
-    "wof:geomhash":"5a5bd3216ee7bc3a7ac1e956bab1a3c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"882959dff89ec091b5b2f5046916684a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672721181
+        }
+    ],
     "wof:id":672721181,
-    "wof:lastmodified":1472625955,
+    "wof:lastmodified":1492112430,
     "wof:name":"Miles Investigation",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

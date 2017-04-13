@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.102432,42.125368,-71.102432,42.125368",
     "geom:latitude":42.125368,
     "geom:longitude":-71.102432,
@@ -32,17 +33,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bkZ4zIi83EkSCMNZOEPkS_42.125368_-71.102432@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736292,
-    "wof:geomhash":"0a6e6e590ed1845a5a96b26de5b39cb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"032c107ad5d70250b7c38fac6b2e8776",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688952019
+        }
+    ],
     "wof:id":688952019,
-    "wof:lastmodified":1472625121,
+    "wof:lastmodified":1492120324,
     "wof:name":"Fernandes Insurance",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

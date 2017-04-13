@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.23925,41.754387,-71.23925,41.754387",
     "geom:latitude":41.754387,
     "geom:longitude":-71.23925,
@@ -32,17 +33,26 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I3nCBymIEcHRqeULO6EHq_41.754387_-71.239250@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714958,
-    "wof:geomhash":"996b76d28443fd826f5109a7571d249c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"896862afb897468435bc8ae11925c10a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523365,
+            "venue_id":672267729
+        }
+    ],
     "wof:id":672267729,
-    "wof:lastmodified":1472625413,
+    "wof:lastmodified":1492112720,
     "wof:name":"Sensible Car Rental",
     "wof:parent_id":420523365,
     "wof:placetype":"venue",

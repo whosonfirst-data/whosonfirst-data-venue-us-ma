@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.577262,42.209279,-72.577262,42.209279",
     "geom:latitude":42.209279,
     "geom:longitude":-72.577262,
@@ -31,17 +32,34 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476347,
+        85633793,
+        85950397,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24lKzD0bbjsKe1H0THbfMP_42.209279_-72.577262@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731646,
-    "wof:geomhash":"f519445b7be5322870788b2e6fe81e0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f99475bb25a2ad4868b039324bf8993e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476347,
+            "locality_id":85950397,
+            "region_id":85688645,
+            "venue_id":673003625
+        }
+    ],
     "wof:id":673003625,
-    "wof:lastmodified":1472624934,
+    "wof:lastmodified":1492105112,
     "wof:name":"Mytebyte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

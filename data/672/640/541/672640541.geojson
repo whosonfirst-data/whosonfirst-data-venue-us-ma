@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.740406,42.033884,-70.740406,42.033884",
     "geom:latitude":42.033884,
     "geom:longitude":-70.740406,
@@ -32,17 +33,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mYUHwYaYp7aHPvNEJlkvK_42.033884_-70.740406@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723510,
-    "wof:geomhash":"1e706ab216bd189cebe629fe668c2d2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a332d7d8ead71f47c43c22e579fbcfcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":672640541
+        }
+    ],
     "wof:id":672640541,
-    "wof:lastmodified":1472625890,
+    "wof:lastmodified":1492109572,
     "wof:name":"Duxbury Green",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

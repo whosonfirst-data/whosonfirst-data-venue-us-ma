@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.750369,42.060916,-70.750369,42.060916",
     "geom:latitude":42.060916,
     "geom:longitude":-70.750369,
@@ -33,17 +34,26 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hdJLymuCVC0cTCrkvCtNW_42.060916_-70.750369@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712943,
-    "wof:geomhash":"8ba5d553ab014d1e50dff0f8e0833fa9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2739f3474fa3932ca44c0addaf90f04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523943,
+            "venue_id":672171893
+        }
+    ],
     "wof:id":672171893,
-    "wof:lastmodified":1472625103,
+    "wof:lastmodified":1492111857,
     "wof:name":"Critter Corner",
     "wof:parent_id":420523943,
     "wof:placetype":"venue",

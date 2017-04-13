@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.706627,42.107106,-71.706627,42.107106",
     "geom:latitude":42.107106,
     "geom:longitude":-71.706627,
@@ -35,10 +36,10 @@
     "wof:belongsto":[
         85688645,
         85633793,
-        85850129,
-        102084655,
         85950701,
-        85843073
+        102084655,
+        85843073,
+        85850129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461728512,
-    "wof:geomhash":"c35dcd897342342038583fe23935846a",
+    "wof:geomhash":"406616cdcb7f6ca1c200430f77e4ff20",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85850129,
-            "region_id":85688645,
-            "venue_id":672873749
-        },
         {
             "country_id":85633793,
             "county_id":102084655,
@@ -62,12 +56,19 @@
             "neighbourhood_id":85843073,
             "region_id":85688645,
             "venue_id":672873749
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85850129,
+            "region_id":85688645,
+            "venue_id":672873749
         }
     ],
     "wof:id":672873749,
-    "wof:lastmodified":1472626103,
+    "wof:lastmodified":1492111052,
     "wof:name":"BWP Distributors Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

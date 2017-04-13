@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.905745,41.721624,-70.905745,41.721624",
     "geom:latitude":41.721624,
     "geom:longitude":-70.905745,
@@ -33,17 +34,26 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kk33IZkyuOyoRy1pwMaWV_41.721624_-70.905745@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728843,
-    "wof:geomhash":"c77ab59d72cfaaf343d46034ea8d5003",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1482a034d5a052c3f97066452510f3e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523359,
+            "venue_id":672890695
+        }
+    ],
     "wof:id":672890695,
-    "wof:lastmodified":1472626116,
+    "wof:lastmodified":1492111569,
     "wof:name":"Acushnet Public Works Dept",
     "wof:parent_id":420523359,
     "wof:placetype":"venue",

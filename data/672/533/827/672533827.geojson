@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.139794,42.540538,-71.139794,42.540538",
     "geom:latitude":42.540538,
     "geom:longitude":-71.139794,
@@ -33,19 +34,38 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85843915,
+        102191575,
+        404476415,
+        85633793,
+        85950649,
+        102084643,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KlKunXIAyuJ2756ZQbe28_42.540538_-71.139794@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721142,
-    "wof:geomhash":"d0ad53dcf66e24c3c418f88b22378dcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00dd1976df9b418d5dadfd35a93687b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476415,
+            "locality_id":85950649,
+            "neighbourhood_id":85843915,
+            "region_id":85688645,
+            "venue_id":672533827
+        }
+    ],
     "wof:id":672533827,
-    "wof:lastmodified":1472625792,
+    "wof:lastmodified":1492111634,
     "wof:name":"Syds Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":85843915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

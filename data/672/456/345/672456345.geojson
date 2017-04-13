@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.809095,42.20724,-71.809095,42.20724",
     "geom:latitude":42.20724,
     "geom:longitude":-71.809095,
@@ -33,7 +34,8 @@
         85688645,
         85633793,
         85838999,
-        102084655
+        102084655,
+        420524071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461719348,
-    "wof:geomhash":"03382d266281addfca26361d522d843d",
+    "wof:geomhash":"08d0d9bfa6ce4e2c3c687856b96f7152",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,12 +51,17 @@
             "neighbourhood_id":85838999,
             "region_id":85688645,
             "venue_id":672456345
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672456345
         }
     ],
     "wof:id":672456345,
-    "wof:lastmodified":1472625724,
+    "wof:lastmodified":1492109668,
     "wof:name":"PC-Plus Learning Ctr",
-    "wof:parent_id":85838999,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

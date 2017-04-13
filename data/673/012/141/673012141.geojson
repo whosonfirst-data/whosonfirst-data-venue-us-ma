@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.072276,42.033121,-71.072276,42.033121",
     "geom:latitude":42.033121,
     "geom:longitude":-71.072276,
@@ -32,19 +33,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZgERMF4W9J3ggDOjMYnhO_42.033121_-71.072276@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731853,
-    "wof:geomhash":"c2c04386a0148155fc19d7b6ac6928c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"caf5cedd0a83e994958da2b0eed567c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523935,
+            "venue_id":673012141
+        }
+    ],
     "wof:id":673012141,
-    "wof:lastmodified":1472624932,
+    "wof:lastmodified":1492103614,
     "wof:name":"Fairway Lawn Care & Landscape",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

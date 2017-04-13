@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.090908,42.476592,-71.090908,42.476592",
     "geom:latitude":42.476592,
     "geom:longitude":-71.090908,
@@ -29,13 +30,17 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859261,
+        85891525,
         102191575,
         404476015,
         85633793,
         85950653,
         102084643,
-        85688645
+        85688645,
+        85833725,
+        404476455,
+        85950659,
+        85859261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +48,28 @@
     },
     "wof:country":"US",
     "wof:created":1461728835,
-    "wof:geomhash":"8c1d6a0e83423f3d671c5bfa7207c700",
+    "wof:geomhash":"fece97bc30145127f1810c638fb7adfd",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476015,
+            "locality_id":85950653,
+            "neighbourhood_id":85891525,
+            "region_id":85688645,
+            "venue_id":672890235
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476455,
+            "locality_id":85950659,
+            "neighbourhood_id":85833725,
+            "region_id":85688645,
+            "venue_id":672890235
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +82,9 @@
         }
     ],
     "wof:id":672890235,
-    "wof:lastmodified":1472626109,
+    "wof:lastmodified":1492111571,
     "wof:name":"Wholesale Products",
-    "wof:parent_id":85859261,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

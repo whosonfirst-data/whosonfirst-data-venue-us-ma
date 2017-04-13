@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.787654,42.04838,-70.787654,42.04838",
     "geom:latitude":42.04838,
     "geom:longitude":-70.787654,
@@ -32,17 +33,26 @@
         "association"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kHCdM9bqVidw0UfMvCOpr_42.048380_-70.787654@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732375,
-    "wof:geomhash":"d178230394d9e783e39fba214ad23af1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"676918e7850001b46a3194c5418549ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523871,
+            "venue_id":673032263
+        }
+    ],
     "wof:id":673032263,
-    "wof:lastmodified":1472625053,
+    "wof:lastmodified":1492103013,
     "wof:name":"Old Colony Sportsmens Assn",
     "wof:parent_id":420523871,
     "wof:placetype":"venue",

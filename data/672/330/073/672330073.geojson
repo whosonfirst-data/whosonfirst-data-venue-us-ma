@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.524469,42.597784,-72.524469,42.597784",
     "geom:latitude":42.597784,
     "geom:longitude":-72.524469,
@@ -38,7 +39,8 @@
         85633793,
         85950753,
         102084457,
-        85823247
+        85823247,
+        85844959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461716236,
-    "wof:geomhash":"ddeb80bccfea77f1d8d30a2c1830a2ac",
+    "wof:geomhash":"390483af4627f5b41fd5c01774ca7921",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +57,19 @@
             "neighbourhood_id":85823247,
             "region_id":85688645,
             "venue_id":672330073
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084457,
+            "neighbourhood_id":85844959,
+            "region_id":85688645,
+            "venue_id":672330073
         }
     ],
     "wof:id":672330073,
-    "wof:lastmodified":1472625546,
+    "wof:lastmodified":1492118133,
     "wof:name":"Mayhew Steel Products Inc",
-    "wof:parent_id":85823247,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.709068,42.356562,-72.709068,42.356562",
     "geom:latitude":42.356562,
     "geom:longitude":-72.709068,
@@ -38,7 +39,8 @@
         85633793,
         85950433,
         102084459,
-        85688645
+        85688645,
+        420523635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722198,
-    "wof:geomhash":"36d2c9bef0b12353d2450220f12268c4",
+    "wof:geomhash":"42299851bd0221dfd970e7343a764e7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,17 @@
             "neighbourhood_id":85837609,
             "region_id":85688645,
             "venue_id":672583179
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523635,
+            "venue_id":672583179
         }
     ],
     "wof:id":672583179,
-    "wof:lastmodified":1472625815,
+    "wof:lastmodified":1492106683,
     "wof:name":"Custom Metal Fabrication",
-    "wof:parent_id":85837609,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

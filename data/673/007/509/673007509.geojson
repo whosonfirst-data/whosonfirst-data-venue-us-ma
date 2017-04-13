@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.82682,42.25367,-70.82682,42.25367",
     "geom:latitude":42.25367,
     "geom:longitude":-70.82682,
@@ -31,19 +32,38 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523765,
+        85688645,
+        85806299,
+        102084403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40XHYScUphI8NVLP4Prltl_42.253670_-70.826820@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731743,
-    "wof:geomhash":"2ab4301593bbc3428a62058f38b6c234",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92e2b228d1e8c27931a1f5205a5bbcee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523765,
+            "venue_id":673007509
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084403,
+            "neighbourhood_id":85806299,
+            "region_id":85688645,
+            "venue_id":673007509
+        }
+    ],
     "wof:id":673007509,
-    "wof:lastmodified":1472624945,
+    "wof:lastmodified":1492102674,
     "wof:name":"Leasings Partners Capital",
-    "wof:parent_id":420523765,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

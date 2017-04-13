@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.882117,42.781397,-70.882117,42.781397",
     "geom:latitude":42.781397,
     "geom:longitude":-70.882117,
@@ -32,17 +33,26 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523473
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eu3jBwttGMWaC1860F4pg_42.781397_-70.882117@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725005,
-    "wof:geomhash":"a8375d6abf44668788927107eed53bc1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b436e3b4c7f4d3195b17994b2e538e83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523473,
+            "venue_id":672706559
+        }
+    ],
     "wof:id":672706559,
-    "wof:lastmodified":1472625949,
+    "wof:lastmodified":1492118513,
     "wof:name":"Bourgoie Addison",
     "wof:parent_id":420523473,
     "wof:placetype":"venue",

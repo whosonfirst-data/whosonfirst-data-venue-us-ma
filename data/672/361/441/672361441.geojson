@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.387758,42.680732,-71.387758,42.680732",
     "geom:latitude":42.680732,
     "geom:longitude":-71.387758,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pzpW1ZeISzGz2sOGefxXU_42.680732_-71.387758@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717004,
-    "wof:geomhash":"462739491cf5cd143c581c67ea0f99f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09acb08d35b779bc31930260a2b7f49c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523675,
+            "venue_id":672361441
+        }
+    ],
     "wof:id":672361441,
-    "wof:lastmodified":1472625625,
+    "wof:lastmodified":1492114459,
     "wof:name":"Downeast Painting Inc",
     "wof:parent_id":420523675,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.227701,41.795782,-71.227701,41.795782",
     "geom:latitude":41.795782,
     "geom:longitude":-71.227701,
@@ -40,17 +41,32 @@
         "dvds-rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404475933,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UUEMoTrZgrNmqzFatdNGH_41.795782_-71.227701@1303262234"
     },
     "wof:country":"US",
     "wof:created":1461742486,
-    "wof:geomhash":"6b682952c4ac0ae459e0591eb71f0c35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4a75755885b1f95a3ca48b7ba0d5029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404475933,
+            "region_id":85688645,
+            "venue_id":689220415
+        }
+    ],
     "wof:id":689220415,
-    "wof:lastmodified":1472625619,
+    "wof:lastmodified":1492098376,
     "wof:name":"Showtime Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

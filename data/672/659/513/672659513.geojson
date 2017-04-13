@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.056337,42.034675,-71.056337,42.034675",
     "geom:latitude":42.034675,
     "geom:longitude":-71.056337,
@@ -31,17 +32,26 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50LueQTcigB3AllZS1ZWbG_42.034675_-71.056337@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723931,
-    "wof:geomhash":"2def1c0e0ab9340f0e2b607950388dc5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b40ba798b554bdc4ba7a98f114ef4c3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523999,
+            "venue_id":672659513
+        }
+    ],
     "wof:id":672659513,
-    "wof:lastmodified":1472625909,
+    "wof:lastmodified":1492108267,
     "wof:name":"TCPC",
     "wof:parent_id":420523999,
     "wof:placetype":"venue",

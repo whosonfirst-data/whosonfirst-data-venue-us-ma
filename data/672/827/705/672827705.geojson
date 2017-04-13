@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.762342,42.024377,-70.762342,42.024377",
     "geom:latitude":42.024377,
     "geom:longitude":-70.762342,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0meJgYvALAFCWiSiNRWXgA_42.024377_-70.762342@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727558,
-    "wof:geomhash":"a00f9759c4fcba3e2d2db4d89da5e6e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa20206a30bd0b1a403fbfa2ffcf9167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672827705
+        }
+    ],
     "wof:id":672827705,
-    "wof:lastmodified":1472626062,
+    "wof:lastmodified":1492118446,
     "wof:name":"Millpond Consulting Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

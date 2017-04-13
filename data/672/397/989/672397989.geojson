@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.450797,42.616063,-71.450797,42.616063",
     "geom:latitude":42.616063,
     "geom:longitude":-71.450797,
@@ -31,19 +32,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85851651,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mdeEL0IMbZh4hkc5I7I6Q_42.616063_-71.450797@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717821,
-    "wof:geomhash":"e749c0851713f3ece3be9256531a31d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9a4e702facfa906bca0e888a16854f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85851651,
+            "region_id":85688645,
+            "venue_id":672397989
+        }
+    ],
     "wof:id":672397989,
-    "wof:lastmodified":1472625676,
+    "wof:lastmodified":1492115429,
     "wof:name":"Westford Getty",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

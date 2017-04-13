@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.935627,42.371585,-71.935627,42.371585",
     "geom:latitude":42.371585,
     "geom:longitude":-71.935627,
@@ -31,17 +32,26 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NVAMH2eY78x91YJOWtLfv_42.371585_-71.935627@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719234,
-    "wof:geomhash":"93c39503e06e8b30a970d2bf8d60af0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1668898e789d5208425d0e6b1d4c899",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524223,
+            "venue_id":672452117
+        }
+    ],
     "wof:id":672452117,
-    "wof:lastmodified":1472625708,
+    "wof:lastmodified":1492110432,
     "wof:name":"Wachusett Home Inspection",
     "wof:parent_id":420524223,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.145882,41.74478,-71.145882,41.74478",
     "geom:latitude":41.74478,
     "geom:longitude":-71.145882,
@@ -32,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850987,
+        85842967,
         102191575,
-        404476177,
+        404476145,
         85633793,
-        85950371,
+        85950687,
         102084407,
-        85688645
+        85688645,
+        85850987,
+        404476177,
+        85950371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,18 @@
     },
     "wof:country":"US",
     "wof:created":1461711634,
-    "wof:geomhash":"99e26a013927f502b3276cfc6b8d8454",
+    "wof:geomhash":"0e79b4a29072db8499d76bce510883eb",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476145,
+            "locality_id":85950687,
+            "neighbourhood_id":85842967,
+            "region_id":85688645,
+            "venue_id":656382549
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +74,9 @@
         }
     ],
     "wof:id":656382549,
-    "wof:lastmodified":1472625000,
+    "wof:lastmodified":1492101291,
     "wof:name":"Golden Donuts",
-    "wof:parent_id":85850987,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

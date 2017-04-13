@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.870093,42.261851,-71.870093,42.261851",
     "geom:latitude":42.261851,
     "geom:longitude":-71.870093,
@@ -37,7 +38,10 @@
         85633793,
         85950375,
         102084655,
-        85827341
+        85827341,
+        85851649,
+        102191575,
+        404476639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461728028,
-    "wof:geomhash":"d27bdd6f23b854ce97097acda238bcba",
+    "wof:geomhash":"b0dd10ffdc0b3919fbbe8ddc310d7454",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +58,22 @@
             "neighbourhood_id":85827341,
             "region_id":85688645,
             "venue_id":672851749
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85851649,
+            "region_id":85688645,
+            "venue_id":672851749
         }
     ],
     "wof:id":672851749,
-    "wof:lastmodified":1472626087,
+    "wof:lastmodified":1492119085,
     "wof:name":"LA Vigne Inc",
-    "wof:parent_id":85827341,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

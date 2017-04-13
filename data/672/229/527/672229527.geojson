@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.551082,41.905558,-70.551082,41.905558",
     "geom:latitude":41.905558,
     "geom:longitude":-70.551082,
@@ -28,19 +29,38 @@
     "sg:postcode":"02360",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85832139,
+        102084367,
+        420523823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lk5YF7fVFNiG0LO9y2IZh_41.905558_-70.551082@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714169,
-    "wof:geomhash":"b187eb9d0fef873ee6275c7b318b918e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f107dea4f55b3fc24723e8bf607aae59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85832139,
+            "region_id":85688645,
+            "venue_id":672229527
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523823,
+            "venue_id":672229527
+        }
+    ],
     "wof:id":672229527,
-    "wof:lastmodified":1472625265,
+    "wof:lastmodified":1492110295,
     "wof:name":"Ming Dynasty",
-    "wof:parent_id":420523823,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

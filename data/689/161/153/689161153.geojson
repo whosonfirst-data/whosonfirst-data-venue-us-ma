@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.785606,41.98526,-70.785606,41.98526",
     "geom:latitude":41.98526,
     "geom:longitude":-70.785606,
@@ -32,17 +33,26 @@
         "private"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6U2qUdB7eJLUOEuPLseZDg_41.985260_-70.785606@1303262227"
     },
     "wof:country":"US",
     "wof:created":1461741195,
-    "wof:geomhash":"dcf295f99ce451482f56fc176ebc8016",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5bfe7a6718ac25a6313627c21848468",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689161153
+        }
+    ],
     "wof:id":689161153,
-    "wof:lastmodified":1472625505,
+    "wof:lastmodified":1492099153,
     "wof:name":"Kingston School Of Music",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

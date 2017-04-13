@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.882127,41.878206,-70.882127,41.878206",
     "geom:latitude":41.878206,
     "geom:longitude":-70.882127,
@@ -32,17 +33,26 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2APV62XUokX15ZLbJYCXYI_41.878206_-70.882127@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725847,
-    "wof:geomhash":"1c5ea6d5cad2ec6ffb7b04f6448d50f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"994f3e5805ad4a62e91a681951ac8421",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672745289
+        }
+    ],
     "wof:id":672745289,
-    "wof:lastmodified":1472625978,
+    "wof:lastmodified":1492117082,
     "wof:name":"Wayne's Well Drilling Inc",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

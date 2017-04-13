@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.34153,42.284751,-71.34153,42.284751",
     "geom:latitude":42.284751,
     "geom:longitude":-71.34153,
@@ -32,17 +33,32 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476409,
+        85633793,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HHEP9tAamvB0y9QokORDj_42.284751_-71.341530@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714846,
-    "wof:geomhash":"b12cdf014c0602e910d442b90a60e4a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4dff3cb920b6960deccfca75f112ade6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476409,
+            "region_id":85688645,
+            "venue_id":672262019
+        }
+    ],
     "wof:id":672262019,
-    "wof:lastmodified":1472625343,
+    "wof:lastmodified":1492118701,
     "wof:name":"Military Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

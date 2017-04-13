@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.740502,42.028031,-70.740502,42.028031",
     "geom:latitude":42.028031,
     "geom:longitude":-70.740502,
@@ -31,17 +32,26 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lmWyAEdwqgAW9WDbvuV87_42.028031_-70.740502@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712041,
-    "wof:geomhash":"34f16e04c525f974d206728a8dbd809d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48a3712835a56d2b27882cb0042eeebe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523967,
+            "venue_id":656401405
+        }
+    ],
     "wof:id":656401405,
-    "wof:lastmodified":1472625077,
+    "wof:lastmodified":1492101453,
     "wof:name":"Steven P Anderson CPA",
     "wof:parent_id":420523967,
     "wof:placetype":"venue",

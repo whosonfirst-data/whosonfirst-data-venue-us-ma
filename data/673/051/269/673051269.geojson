@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.978827,42.547945,-70.978827,42.547945",
     "geom:latitude":42.547945,
     "geom:longitude":-70.978827,
@@ -27,13 +28,17 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856097,
+        85851821,
         102191575,
-        404476253,
+        404476291,
         85633793,
-        85950407,
+        85950789,
         102084463,
-        85688645
+        85688645,
+        420523399,
+        404476253,
+        85950407,
+        85856097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +46,28 @@
     },
     "wof:country":"US",
     "wof:created":1461732779,
-    "wof:geomhash":"43ac5670480c7c726be10592e2df84b5",
+    "wof:geomhash":"281f415faa7b80015b2038862f53299c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476291,
+            "locality_id":85950789,
+            "neighbourhood_id":85851821,
+            "region_id":85688645,
+            "venue_id":673051269
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476253,
+            "locality_id":85950407,
+            "neighbourhood_id":420523399,
+            "region_id":85688645,
+            "venue_id":673051269
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +80,9 @@
         }
     ],
     "wof:id":673051269,
-    "wof:lastmodified":1472625133,
+    "wof:lastmodified":1492105320,
     "wof:name":"Wholesale Marketplace",
-    "wof:parent_id":85856097,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.600376,42.646854,-72.600376,42.646854",
     "geom:latitude":42.646854,
     "geom:longitude":-72.600376,
@@ -31,17 +32,26 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_261dxj9YLil6Bsg0KuKgpd_42.646854_-72.600376@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725455,
-    "wof:geomhash":"c7d9f58cc2a5d82cd4b7820e7e35bfd1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b60f7aa2b9f2f334171333d7ca2f4ce6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672727613
+        }
+    ],
     "wof:id":672727613,
-    "wof:lastmodified":1472625975,
+    "wof:lastmodified":1492116360,
     "wof:name":"S & S Vending",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

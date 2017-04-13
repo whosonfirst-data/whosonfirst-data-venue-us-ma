@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.112483,41.626036,-71.112483,41.626036",
     "geom:latitude":41.626036,
     "geom:longitude":-71.112483,
@@ -32,19 +33,28 @@
         "asphalt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DUI8XLdnUYqtUBKlkTTEc_41.626036_-71.112483@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715425,
-    "wof:geomhash":"a0e7e737fb6e341e0d8391ee2af275c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03ebc816c9cb82584d126bff255e2d7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":672291183
+        }
+    ],
     "wof:id":672291183,
-    "wof:lastmodified":1472625467,
+    "wof:lastmodified":1492112912,
     "wof:name":"J R & Sons Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.856978,42.080379,-70.856978,42.080379",
     "geom:latitude":42.080379,
     "geom:longitude":-70.856978,
@@ -35,7 +36,8 @@
         85633793,
         85950449,
         102084367,
-        85688645
+        85688645,
+        420523915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722411,
-    "wof:geomhash":"04955afefbf20efa4423f087507d3566",
+    "wof:geomhash":"1bbd71d4f27a864c682c5461261dfa7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,17 @@
             "neighbourhood_id":420523921,
             "region_id":85688645,
             "venue_id":672592029
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523915,
+            "venue_id":672592029
         }
     ],
     "wof:id":672592029,
-    "wof:lastmodified":1472625844,
+    "wof:lastmodified":1492114074,
     "wof:name":"Walking Horse Depot Inc",
-    "wof:parent_id":420523921,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

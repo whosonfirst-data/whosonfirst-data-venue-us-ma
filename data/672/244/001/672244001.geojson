@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.3122,42.14096,-71.3122,42.14096",
     "geom:latitude":42.14096,
     "geom:longitude":-71.3122,
@@ -32,19 +33,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523809
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RPyLoygejEOiBXhlabz8m_42.140960_-71.312200@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714490,
-    "wof:geomhash":"be6bff8ea96ba0b5938c5b464abc645c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1dbff5ec2f24494e0d3afd88332de0d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523809,
+            "venue_id":672244001
+        }
+    ],
     "wof:id":672244001,
-    "wof:lastmodified":1472625326,
+    "wof:lastmodified":1492118944,
     "wof:name":"Javco Plumbing & Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":420523809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101948,42.127655,-71.101948,42.127655",
     "geom:latitude":42.127655,
     "geom:longitude":-71.101948,
@@ -31,17 +32,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yRBgt8bwCZeYTDsRhr67x_42.127655_-71.101948@1303262199"
     },
     "wof:country":"US",
     "wof:created":1461736324,
-    "wof:geomhash":"2e8fda274c55fbb5a4d01053c1964acc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5696e9bbb25678647d41519ef494e82c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":688953903
+        }
+    ],
     "wof:id":688953903,
-    "wof:lastmodified":1472625182,
+    "wof:lastmodified":1492120231,
     "wof:name":"Old Country Pizzeria",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

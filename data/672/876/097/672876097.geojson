@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.928079,42.311325,-71.928079,42.311325",
     "geom:latitude":42.311325,
     "geom:longitude":-71.928079,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Xvc68NOC0sJnMWPV1Ewzp_42.311325_-71.928079@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728559,
-    "wof:geomhash":"be809acc1804b8d4aeea08bf6b0b9a4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1afa0964750d5a1f763ce1706b605ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524131,
+            "venue_id":672876097
+        }
+    ],
     "wof:id":672876097,
-    "wof:lastmodified":1472626093,
+    "wof:lastmodified":1492112358,
     "wof:name":"Paxton Police Dept",
     "wof:parent_id":420524131,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.569099,42.675991,-71.569099,42.675991",
     "geom:latitude":42.675991,
     "geom:longitude":-71.569099,
@@ -36,17 +37,26 @@
         "churches-non-denominational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523693
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3U2qIPLQqw4Xm7RH96W1NA_42.675991_-71.569099@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734133,
-    "wof:geomhash":"870790c365bbcb1d2a8592e9fd306ddc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5693b940bb24f1dd709d437a50734d04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523693,
+            "venue_id":673117323
+        }
+    ],
     "wof:id":673117323,
-    "wof:lastmodified":1472625340,
+    "wof:lastmodified":1492104391,
     "wof:name":"Faith Worship Center",
     "wof:parent_id":420523693,
     "wof:placetype":"venue",

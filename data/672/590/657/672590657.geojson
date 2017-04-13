@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.948146,41.874164,-70.948146,41.874164",
     "geom:latitude":41.874164,
     "geom:longitude":-70.948146,
@@ -39,7 +40,11 @@
         85633793,
         85950469,
         102084367,
-        85688645
+        85688645,
+        85843067,
+        404476147,
+        85950365,
+        102084407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722378,
-    "wof:geomhash":"2cb1034b808bf6221ba060537f07cd07",
+    "wof:geomhash":"30dd44ac6796c30f75ec14edff282911",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +63,22 @@
             "neighbourhood_id":85853233,
             "region_id":85688645,
             "venue_id":672590657
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476147,
+            "locality_id":85950365,
+            "neighbourhood_id":85843067,
+            "region_id":85688645,
+            "venue_id":672590657
         }
     ],
     "wof:id":672590657,
-    "wof:lastmodified":1472625842,
+    "wof:lastmodified":1492110802,
     "wof:name":"A & N Plumbing & Heating Inc",
-    "wof:parent_id":85853233,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

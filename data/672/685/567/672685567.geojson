@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.85044,41.852933,-70.85044,41.852933",
     "geom:latitude":41.852933,
     "geom:longitude":-70.85044,
@@ -33,17 +34,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jjtSqgNluUfr2oXKGcjho_41.852933_-70.850440@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724531,
-    "wof:geomhash":"a16e40ec6a15603e2b015ea1c4267612",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db081a1f9494d30fabf1a146b34208e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523885,
+            "venue_id":672685567
+        }
+    ],
     "wof:id":672685567,
-    "wof:lastmodified":1472625928,
+    "wof:lastmodified":1492107825,
     "wof:name":"Goss IV Enterprises",
     "wof:parent_id":420523885,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.730003,41.941294,-70.730003,41.941294",
     "geom:latitude":41.941294,
     "geom:longitude":-70.730003,
@@ -31,17 +32,26 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DSaXbejoQEstTipXJNyEZ_41.941294_-70.730003@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715522,
-    "wof:geomhash":"78b8310639bfa27943237986632b799e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c743d6310fe38b59ba76f09c12192488",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":672295393
+        }
+    ],
     "wof:id":672295393,
-    "wof:lastmodified":1472625470,
+    "wof:lastmodified":1492115570,
     "wof:name":"J Clark Building Svc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

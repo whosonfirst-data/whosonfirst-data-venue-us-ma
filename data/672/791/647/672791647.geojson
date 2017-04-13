@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.851283,42.096125,-70.851283,42.096125",
     "geom:latitude":42.096125,
     "geom:longitude":-70.851283,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZaIpLqG2t5mZTNqgT2bE5_42.096125_-70.851283@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726820,
-    "wof:geomhash":"c09939a7f3d4716f79497dbe3325f9cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a519004c2db277b595efab671960073e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523915,
+            "venue_id":672791647
+        }
+    ],
     "wof:id":672791647,
-    "wof:lastmodified":1472626031,
+    "wof:lastmodified":1492113749,
     "wof:name":"AAM & C Plumbing & Heating",
     "wof:parent_id":420523915,
     "wof:placetype":"venue",

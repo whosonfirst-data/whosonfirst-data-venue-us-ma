@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.799942,42.035791,-70.799942,42.035791",
     "geom:latitude":42.035791,
     "geom:longitude":-70.799942,
@@ -41,17 +42,26 @@
         "grocers-specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73mJo3zCDvEf0sw1OOcrXg_42.035791_-70.799942@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741115,
-    "wof:geomhash":"4421a909bdd98da2d8cefd9338b4d357",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e63fbd1d9588324435b11a14150f583",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689157159
+        }
+    ],
     "wof:id":689157159,
-    "wof:lastmodified":1472625499,
+    "wof:lastmodified":1492099692,
     "wof:name":"Country Corner Store Ii Inc",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.326122,42.167487,-72.326122,42.167487",
     "geom:latitude":42.167487,
     "geom:longitude":-72.326122,
@@ -29,11 +30,13 @@
     "sg:province":"MA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85851933,
+        102191575,
+        404476365,
         85633793,
         85950385,
         102084627,
-        85851933
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1461728799,
-    "wof:geomhash":"0133df2993e10c63f2ae39a2104b3807",
+    "wof:geomhash":"14e217490ee8fc8e7fd2894576302998",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084627,
+            "localadmin_id":404476365,
             "locality_id":85950385,
             "neighbourhood_id":85851933,
             "region_id":85688645,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":672888615,
-    "wof:lastmodified":1472626112,
+    "wof:lastmodified":1492106827,
     "wof:name":"Gary Wolf OD",
     "wof:parent_id":85851933,
     "wof:placetype":"venue",

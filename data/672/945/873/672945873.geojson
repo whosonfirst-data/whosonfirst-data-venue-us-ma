@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.705698,42.220219,-71.705698,42.220219",
     "geom:latitude":42.220219,
     "geom:longitude":-71.705698,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uW9VUWEqXQIPwl9dEmMiL_42.220219_-71.705698@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730018,
-    "wof:geomhash":"915103415ff9de0dd63cc8ac38fac31d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d689299e143785a80ac5927e84649a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524183,
+            "venue_id":672945873
+        }
+    ],
     "wof:id":672945873,
-    "wof:lastmodified":1472626165,
+    "wof:lastmodified":1492117625,
     "wof:name":"Kenbar Inc",
     "wof:parent_id":420524183,
     "wof:placetype":"venue",

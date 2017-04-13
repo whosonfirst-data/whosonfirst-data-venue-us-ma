@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.088701,41.595344,-71.088701,41.595344",
     "geom:latitude":41.595344,
     "geom:longitude":-71.088701,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Av8c1R05wpZfxR0GzKDlN_41.595344_-71.088701@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720276,
-    "wof:geomhash":"cc2e1e53da12869cff80e0e78ed9181f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"914d42ea9b7749e39bf489cf1b70c2d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523285,
+            "venue_id":672494289
+        }
+    ],
     "wof:id":672494289,
-    "wof:lastmodified":1472625754,
+    "wof:lastmodified":1492110463,
     "wof:name":"Laubi Devin Foundation",
     "wof:parent_id":420523285,
     "wof:placetype":"venue",

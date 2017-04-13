@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.716146,42.253113,-71.716146,42.253113",
     "geom:latitude":42.253113,
     "geom:longitude":-71.716146,
@@ -28,19 +29,32 @@
     "sg:postcode":"01545",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85850089,
+        102084655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wVP8zyjwjOiU0hCMKQaPB_42.253113_-71.716146@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724005,
-    "wof:geomhash":"934d67de2123b776f0cbe136341cf6e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00249fdf5a65fd41a2255b970b30fe7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85850089,
+            "region_id":85688645,
+            "venue_id":672662611
+        }
+    ],
     "wof:id":672662611,
-    "wof:lastmodified":1472625910,
+    "wof:lastmodified":1492114586,
     "wof:name":"J Polito Realty Inc",
-    "wof:parent_id":420524151,
+    "wof:parent_id":85850089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.066746,41.269564,-70.066746,41.269564",
     "geom:latitude":41.269564,
     "geom:longitude":-70.066746,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85848411,
-        102084641
+        102191575,
+        404476421,
+        85633793,
+        85950503,
+        102084641,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"US",
     "wof:created":1461741922,
-    "wof:geomhash":"508004275329cdf30dbf8eb3146f7a5f",
+    "wof:geomhash":"74f0d6b8555ad9e0a5991056b4023472",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084641,
+            "localadmin_id":404476421,
+            "locality_id":85950503,
             "neighbourhood_id":85848411,
             "region_id":85688645,
             "venue_id":689193919
         }
     ],
     "wof:id":689193919,
-    "wof:lastmodified":1472625599,
+    "wof:lastmodified":1492098518,
     "wof:name":"Island Landscape & Tree",
     "wof:parent_id":85848411,
     "wof:placetype":"venue",

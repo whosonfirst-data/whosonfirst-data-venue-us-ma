@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.729754,42.146728,-72.729754,42.146728",
     "geom:latitude":42.146728,
     "geom:longitude":-72.729754,
@@ -32,17 +33,34 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476375,
+        85633793,
+        85950391,
+        102084627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aCI2jpyvibH73zJDlOJo4_42.146728_-72.729754@1303262184"
     },
     "wof:country":"US",
     "wof:created":1461733885,
-    "wof:geomhash":"3c7bd77a7570fc1eb7e88731a604498d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72aa934d2cdc7041232945b57a2c0045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476375,
+            "locality_id":85950391,
+            "region_id":85688645,
+            "venue_id":673105209
+        }
+    ],
     "wof:id":673105209,
-    "wof:lastmodified":1472625278,
+    "wof:lastmodified":1492102415,
     "wof:name":"Community Partnership For Children",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

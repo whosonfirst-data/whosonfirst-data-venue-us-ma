@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.173751,41.766785,-71.173751,41.766785",
     "geom:latitude":41.766785,
     "geom:longitude":-71.173751,
@@ -38,7 +39,8 @@
         85633793,
         85950687,
         102084407,
-        85688645
+        85688645,
+        85851661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461715909,
-    "wof:geomhash":"616a6333c1b0a58606f6b9a832a8c984",
+    "wof:geomhash":"2686c4c61cb888055b0baf4cd1d0ac24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,19 @@
             "neighbourhood_id":420523383,
             "region_id":85688645,
             "venue_id":672314853
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "neighbourhood_id":85851661,
+            "region_id":85688645,
+            "venue_id":672314853
         }
     ],
     "wof:id":672314853,
-    "wof:lastmodified":1472625537,
+    "wof:lastmodified":1492106092,
     "wof:name":"Avon At Peg's",
-    "wof:parent_id":420523383,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

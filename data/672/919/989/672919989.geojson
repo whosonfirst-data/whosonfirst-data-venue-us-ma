@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.663125,42.069801,-72.663125,42.069801",
     "geom:latitude":42.069801,
     "geom:longitude":-72.663125,
@@ -40,7 +41,8 @@
         85633793,
         85950399,
         102084627,
-        85688645
+        85688645,
+        85827527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461729430,
-    "wof:geomhash":"7a398d3307cbe135c5f82d8ac658e134",
+    "wof:geomhash":"3eca02c3dd00e15c3e33688a4c6b40a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,22 @@
             "neighbourhood_id":420523565,
             "region_id":85688645,
             "venue_id":672919989
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476341,
+            "locality_id":85950399,
+            "neighbourhood_id":85827527,
+            "region_id":85688645,
+            "venue_id":672919989
         }
     ],
     "wof:id":672919989,
-    "wof:lastmodified":1472626141,
+    "wof:lastmodified":1492108162,
     "wof:name":"Malkoon Motors",
-    "wof:parent_id":420523565,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

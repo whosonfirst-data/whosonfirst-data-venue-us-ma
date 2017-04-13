@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.885302,42.2934,-70.885302,42.2934",
     "geom:latitude":42.2934,
     "geom:longitude":-70.885302,
@@ -38,8 +39,8 @@
         85633793,
         85950453,
         102084367,
-        85854819,
-        85804923
+        85804923,
+        85854819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461726095,
-    "wof:geomhash":"dd14ea84a7a96dc57871a0ff1113b912",
+    "wof:geomhash":"7afdd9394ec602408a6700ee0528f588",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "locality_id":85950453,
-            "neighbourhood_id":85854819,
-            "region_id":85688645,
-            "venue_id":672757717
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -66,12 +58,21 @@
             "neighbourhood_id":85804923,
             "region_id":85688645,
             "venue_id":672757717
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950453,
+            "neighbourhood_id":85854819,
+            "region_id":85688645,
+            "venue_id":672757717
         }
     ],
     "wof:id":672757717,
-    "wof:lastmodified":1472625999,
+    "wof:lastmodified":1492116211,
     "wof:name":"Mclaughlin-Dodge Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

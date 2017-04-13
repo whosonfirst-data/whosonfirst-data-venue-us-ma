@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.986921,41.79153,-69.986921,41.79153",
     "geom:latitude":41.79153,
     "geom:longitude":-69.986921,
@@ -33,10 +34,13 @@
     "sg:website":"www.oldlamp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85845359,
+        102191575,
+        404476187,
         85633793,
-        85852345,
-        102084379
+        85950577,
+        102084379,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,20 +48,23 @@
     },
     "wof:country":"US",
     "wof:created":1461713522,
-    "wof:geomhash":"084e5190d89c46ebd4d7b0636e930bbc",
+    "wof:geomhash":"9ba23a1f9593166424fca96d290612df",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084379,
-            "neighbourhood_id":85852345,
+            "localadmin_id":404476187,
+            "locality_id":85950577,
+            "neighbourhood_id":85845359,
             "region_id":85688645,
             "venue_id":672198051
         }
     ],
     "wof:id":672198051,
-    "wof:lastmodified":1472625132,
+    "wof:lastmodified":1492117486,
     "wof:name":"Continuum",
-    "wof:parent_id":85852345,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

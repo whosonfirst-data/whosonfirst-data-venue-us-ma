@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.835819,42.186896,-71.835819,42.186896",
     "geom:latitude":42.186896,
     "geom:longitude":-71.835819,
@@ -31,17 +32,26 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eYfo2WdnlsSqX1NpwuZn2_42.186896_-71.835819@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461730044,
-    "wof:geomhash":"3a4627982ba6370d99054bc150428444",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7152bd4d7a2a71e865bbc7fd5fb47fa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524071,
+            "venue_id":672947203
+        }
+    ],
     "wof:id":672947203,
-    "wof:lastmodified":1472626153,
+    "wof:lastmodified":1492115141,
     "wof:name":"Activetruck Service",
     "wof:parent_id":420524071,
     "wof:placetype":"venue",

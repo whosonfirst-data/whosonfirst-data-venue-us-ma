@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.188487,42.727135,-71.188487,42.727135",
     "geom:latitude":42.727135,
     "geom:longitude":-71.188487,
@@ -32,19 +33,38 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85849813,
+        102191575,
+        404476205,
+        85633793,
+        85950415,
+        102084463,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5T05P7wjqUfqGBce2Xtc5h_42.727135_-71.188487@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722090,
-    "wof:geomhash":"ea6932b23215f9c0d2b1d9a1b3b185fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d95c5a18d9c75ec87764cd56da839408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476205,
+            "locality_id":85950415,
+            "neighbourhood_id":85849813,
+            "region_id":85688645,
+            "venue_id":672578575
+        }
+    ],
     "wof:id":672578575,
-    "wof:lastmodified":1472625833,
+    "wof:lastmodified":1492114015,
     "wof:name":"Shadi's Restaurant & Lounge",
-    "wof:parent_id":-1,
+    "wof:parent_id":85849813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.101021,42.129232,-71.101021,42.129232",
     "geom:latitude":42.129232,
     "geom:longitude":-71.101021,
@@ -33,17 +34,26 @@
         "railing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PmlIs8EmwMT91coc0ZVVB_42.129232_-71.101021@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714971,
-    "wof:geomhash":"dae965376412a17368c144c8c84ec397",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b66770ea00e6e8c1fa7ab232fd713a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":672268309
+        }
+    ],
     "wof:id":672268309,
-    "wof:lastmodified":1472625401,
+    "wof:lastmodified":1492113175,
     "wof:name":"Mario's Railing",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

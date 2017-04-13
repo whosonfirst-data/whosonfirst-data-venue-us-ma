@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.224383,42.44385,-71.224383,42.44385",
     "geom:latitude":42.44385,
     "geom:longitude":-71.224383,
@@ -28,19 +29,49 @@
     "sg:postcode":"02421",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85836041,
+        102191575,
+        404476393,
+        85633793,
+        85950637,
+        102084643,
+        85688645,
+        420523723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43otjEFXJllxzGSqhtTDZR_42.443850_-71.224383@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461724328,
-    "wof:geomhash":"abc3686a056d35465c6eaa969a0cce01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1b1c46ea762aaf01bc8a22a2680cc5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476393,
+            "locality_id":85950637,
+            "neighbourhood_id":85836041,
+            "region_id":85688645,
+            "venue_id":672677661
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476393,
+            "locality_id":85950637,
+            "neighbourhood_id":420523723,
+            "region_id":85688645,
+            "venue_id":672677661
+        }
+    ],
     "wof:id":672677661,
-    "wof:lastmodified":1472625928,
+    "wof:lastmodified":1492118201,
     "wof:name":"Judith G Singer",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

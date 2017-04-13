@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.934084,42.379232,-71.934084,42.379232",
     "geom:latitude":42.379232,
     "geom:longitude":-71.934084,
@@ -32,17 +33,26 @@
         "preparation-business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53kwCmlzItde6DUX75rh8E_42.379232_-71.934084@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734274,
-    "wof:geomhash":"1dbcd7702cadf4d1d06b66033b2cc034",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ce6bb5badef4b0f5434ce3db6b527ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524223,
+            "venue_id":673124239
+        }
+    ],
     "wof:id":673124239,
-    "wof:lastmodified":1472625345,
+    "wof:lastmodified":1492103990,
     "wof:name":"The Tax Break",
     "wof:parent_id":420524223,
     "wof:placetype":"venue",

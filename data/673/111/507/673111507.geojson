@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.233704,42.101002,-73.233704,42.101002",
     "geom:latitude":42.101002,
     "geom:longitude":-73.233704,
@@ -28,17 +29,26 @@
     "sg:postcode":"01259",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67goFV1CVCdOKL6ibjL2Jt_42.101002_-73.233704@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734011,
-    "wof:geomhash":"88d9691c43297863215f34f41850d0d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ab35c79f3f33013fd5c7c10ffb739cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":673111507
+        }
+    ],
     "wof:id":673111507,
-    "wof:lastmodified":1472625308,
+    "wof:lastmodified":1492105209,
     "wof:name":"United States Government",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.942299,42.108002,-71.942299,42.108002",
     "geom:latitude":42.108002,
     "geom:longitude":-71.942299,
@@ -31,17 +32,26 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524095
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FMrHmLFYrz3BvAF1XkCXm_42.108002_-71.942299@1303262186"
     },
     "wof:country":"US",
     "wof:created":1461734183,
-    "wof:geomhash":"882297ecfacba2e57d7dbdc876d9e896",
-    "wof:hierarchy":[],
+    "wof:geomhash":"792cf6f3836175b9bb48ad00bb3bd94b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524095,
+            "venue_id":673119431
+        }
+    ],
     "wof:id":673119431,
-    "wof:lastmodified":1472625344,
+    "wof:lastmodified":1492104072,
     "wof:name":"Mark's Electrical Service - CLOSED",
     "wof:parent_id":420524095,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.491131,41.69777,-70.491131,41.69777",
     "geom:latitude":41.69777,
     "geom:longitude":-70.491131,
@@ -32,7 +33,8 @@
         85688645,
         85633793,
         85809011,
-        102084379
+        102084379,
+        420523231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461717383,
-    "wof:geomhash":"d190fb696622d29638743b60e431d784",
+    "wof:geomhash":"0902371c48bb1b4497691ab8a01f9ec3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +50,17 @@
             "neighbourhood_id":85809011,
             "region_id":85688645,
             "venue_id":672378175
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523231,
+            "venue_id":672378175
         }
     ],
     "wof:id":672378175,
-    "wof:lastmodified":1472625645,
+    "wof:lastmodified":1492111989,
     "wof:name":"Cuts Fitness For Men",
-    "wof:parent_id":85809011,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

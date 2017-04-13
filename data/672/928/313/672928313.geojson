@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.023207,41.931223,-71.023207,41.931223",
     "geom:latitude":41.931223,
     "geom:longitude":-71.023207,
@@ -32,17 +33,32 @@
         "station"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476139,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_138x3UnbTKpuFHo846hsqE_41.931223_-71.023207@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729581,
-    "wof:geomhash":"7f137603a6a7f2c2d4979bc83a498bd6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8001ec4303294ac91f4ee2fc811738e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476139,
+            "region_id":85688645,
+            "venue_id":672928313
+        }
+    ],
     "wof:id":672928313,
-    "wof:lastmodified":1472626141,
+    "wof:lastmodified":1492111421,
     "wof:name":"RMJ Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

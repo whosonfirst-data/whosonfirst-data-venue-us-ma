@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.248925,41.680186,-70.248925,41.680186",
     "geom:latitude":41.680186,
     "geom:longitude":-70.248925,
@@ -37,17 +38,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y5jDMTS6SBE4wI5eSdJZN_41.680186_-70.248925@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742273,
-    "wof:geomhash":"d37c8520aa547de9c710e1b274f87d65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a39baf8324b35c30346c73d5cda1b6b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523229,
+            "venue_id":689210861
+        }
+    ],
     "wof:id":689210861,
-    "wof:lastmodified":1472625616,
+    "wof:lastmodified":1492098282,
     "wof:name":"New England Reprographic & Supply",
     "wof:parent_id":420523229,
     "wof:placetype":"venue",

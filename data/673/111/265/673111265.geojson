@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.022441,42.560931,-73.022441,42.560931",
     "geom:latitude":42.560931,
     "geom:longitude":-73.022441,
@@ -32,17 +33,26 @@
         "radio-service"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vNqWOLdp2kIWUS0Cir6Mt_42.560931_-73.022441@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734007,
-    "wof:geomhash":"900fcf4a488272e5fe9b2826393adc0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fb2cdc42d74796ecc43c6664b4e2c40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523243,
+            "venue_id":673111265
+        }
+    ],
     "wof:id":673111265,
-    "wof:lastmodified":1472625299,
+    "wof:lastmodified":1492105207,
     "wof:name":"Mountain Electronics",
     "wof:parent_id":420523243,
     "wof:placetype":"venue",

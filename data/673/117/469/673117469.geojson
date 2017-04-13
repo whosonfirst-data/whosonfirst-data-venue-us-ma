@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.665307,42.531157,-71.665307,42.531157",
     "geom:latitude":42.531157,
     "geom:longitude":-71.665307,
@@ -28,17 +29,34 @@
     "sg:postcode":"01464",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476419,
+        85633793,
+        85950651,
+        102084643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qnioCp2wNSfESdfNgFpOZ_42.531157_-71.665307@1303262185"
     },
     "wof:country":"US",
     "wof:created":1461734136,
-    "wof:geomhash":"e31f1d9dae663d9bc3f764261c936947",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d959669b19c2fd7e9a128a1919fc02fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476419,
+            "locality_id":85950651,
+            "region_id":85688645,
+            "venue_id":673117469
+        }
+    ],
     "wof:id":673117469,
-    "wof:lastmodified":1472625352,
+    "wof:lastmodified":1492104399,
     "wof:name":"Airport Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

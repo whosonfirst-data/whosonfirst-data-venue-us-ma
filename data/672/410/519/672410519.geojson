@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.871848,42.277172,-70.871848,42.277172",
     "geom:latitude":42.277172,
     "geom:longitude":-70.871848,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wMShf89yp8QO7CPlFodDG_42.277172_-70.871848@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461718176,
-    "wof:geomhash":"edea597f40edaf3773ac78e0da7ca5d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3fff0f16371d9cbbfda22a8965f1c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523859,
+            "venue_id":672410519
+        }
+    ],
     "wof:id":672410519,
-    "wof:lastmodified":1472625682,
+    "wof:lastmodified":1492108856,
     "wof:name":"Allerton TCG",
     "wof:parent_id":420523859,
     "wof:placetype":"venue",

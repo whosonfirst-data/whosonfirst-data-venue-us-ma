@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.327308,41.995164,-71.327308,41.995164",
     "geom:latitude":41.995164,
     "geom:longitude":-71.327308,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476133,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mMSCHIw7zNUhagUhxpxGU_41.995164_-71.327308@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714517,
-    "wof:geomhash":"e93c1bff61f17ecb179447b3e9861bf3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15c022bb900570fc0ba5e48da54cf9db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476133,
+            "region_id":85688645,
+            "venue_id":672245333
+        }
+    ],
     "wof:id":672245333,
-    "wof:lastmodified":1472625342,
+    "wof:lastmodified":1492111095,
     "wof:name":"Mr Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

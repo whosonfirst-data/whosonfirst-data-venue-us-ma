@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.850443,42.097176,-70.850443,42.097176",
     "geom:latitude":42.097176,
     "geom:longitude":-70.850443,
@@ -31,17 +32,26 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_660FPaUvkGUto9Za9Qy7LM_42.097176_-70.850443@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729779,
-    "wof:geomhash":"0b75496afb06c29792db5d92838743d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7eb0429fa393d23cf7b559156396d6e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523915,
+            "venue_id":672936203
+        }
+    ],
     "wof:id":672936203,
-    "wof:lastmodified":1472626149,
+    "wof:lastmodified":1492106808,
     "wof:name":"Gc Travel",
     "wof:parent_id":420523915,
     "wof:placetype":"venue",

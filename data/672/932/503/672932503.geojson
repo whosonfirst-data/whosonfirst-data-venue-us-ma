@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.715507,42.224404,-71.715507,42.224404",
     "geom:latitude":42.224404,
     "geom:longitude":-71.715507,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524183
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dk9VDwnFaLB9Wsb8zvTfR_42.224404_-71.715507@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729696,
-    "wof:geomhash":"de05614ebd7aac38cc82ff72e0c05602",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1b38d91cce04312b8d79479fc0f92e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524183,
+            "venue_id":672932503
+        }
+    ],
     "wof:id":672932503,
-    "wof:lastmodified":1472626149,
+    "wof:lastmodified":1492113431,
     "wof:name":"Julie Kissam",
     "wof:parent_id":420524183,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.132284,41.601092,-71.132284,41.601092",
     "geom:latitude":41.601092,
     "geom:longitude":-71.132284,
@@ -31,19 +32,28 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Lzyi6rqvs1m3zwqWiCHpS_41.601092_-71.132284@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711603,
-    "wof:geomhash":"9b3317e820f6b02ce8ce9ec369bd2f20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"657b919bf93ccbdf31f436183b3ac472",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":656381283
+        }
+    ],
     "wof:id":656381283,
-    "wof:lastmodified":1472624996,
+    "wof:lastmodified":1492102294,
     "wof:name":"Amaral's Cleaning Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

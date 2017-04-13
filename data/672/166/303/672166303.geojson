@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.975172,41.597489,-70.975172,41.597489",
     "geom:latitude":41.597489,
     "geom:longitude":-70.975172,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523319
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jMoBpfgQ3ZR2Bkr3rL0jx_41.597489_-70.975172@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461712818,
-    "wof:geomhash":"2376651a604c0e296356bc1d55fd96c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2455bc34fd49e1e67ad7bfe24a81ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523319,
+            "venue_id":672166303
+        }
+    ],
     "wof:id":672166303,
-    "wof:lastmodified":1472625021,
+    "wof:lastmodified":1492106111,
     "wof:name":"Same Day Surgery Clinic",
     "wof:parent_id":420523319,
     "wof:placetype":"venue",

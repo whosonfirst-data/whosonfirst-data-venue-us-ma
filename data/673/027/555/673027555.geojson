@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.544073,42.374885,-71.544073,42.374885",
     "geom:latitude":42.374885,
     "geom:longitude":-71.544073,
@@ -32,17 +33,26 @@
         "fabricating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HluHisW0yoG97YlDO9J1U_42.374885_-71.544073@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461732253,
-    "wof:geomhash":"82c304fc7b75ba419dcfc24da6b738fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"629385c183809751bf1b60a1287a944a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523671,
+            "venue_id":673027555
+        }
+    ],
     "wof:id":673027555,
-    "wof:lastmodified":1472625027,
+    "wof:lastmodified":1492105002,
     "wof:name":"Fully Assembled",
     "wof:parent_id":420523671,
     "wof:placetype":"venue",

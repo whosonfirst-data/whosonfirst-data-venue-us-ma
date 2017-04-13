@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.829471,41.915162,-70.829471,41.915162",
     "geom:latitude":41.915162,
     "geom:longitude":-70.829471,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z3CUqS8BTzjDxgCAyZP4q_41.915162_-70.829471@1303262226"
     },
     "wof:country":"US",
     "wof:created":1461741075,
-    "wof:geomhash":"29981c976ae79bf6c7ec2d90b5761414",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17556cbe82d0f8d31d41f4251d86fe1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523817,
+            "venue_id":689156007
+        }
+    ],
     "wof:id":689156007,
-    "wof:lastmodified":1472625489,
+    "wof:lastmodified":1492099213,
     "wof:name":"Palcon Services, Inc.",
     "wof:parent_id":420523817,
     "wof:placetype":"venue",

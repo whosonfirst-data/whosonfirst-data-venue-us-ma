@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.878953,42.294811,-70.878953,42.294811",
     "geom:latitude":42.294811,
     "geom:longitude":-70.878953,
@@ -34,8 +35,8 @@
         85633793,
         85950453,
         102084367,
-        85854819,
-        85804923
+        85804923,
+        85854819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,8 @@
     },
     "wof:country":"US",
     "wof:created":1461736088,
-    "wof:geomhash":"a1061a562a0e36d6a318d24d50cf543f",
+    "wof:geomhash":"fa557320e6079ad93c1ac9afafd39873",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "locality_id":85950453,
-            "neighbourhood_id":85854819,
-            "region_id":85688645,
-            "venue_id":688942149
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,12 +54,21 @@
             "neighbourhood_id":85804923,
             "region_id":85688645,
             "venue_id":688942149
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084367,
+            "locality_id":85950453,
+            "neighbourhood_id":85854819,
+            "region_id":85688645,
+            "venue_id":688942149
         }
     ],
     "wof:id":688942149,
-    "wof:lastmodified":1472625056,
+    "wof:lastmodified":1492119961,
     "wof:name":"Stuff-It, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

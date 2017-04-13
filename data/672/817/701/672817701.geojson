@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.350725,42.111596,-73.350725,42.111596",
     "geom:latitude":42.111596,
     "geom:longitude":-73.350725,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MElxfpnrDXyP9CuEpaCJX_42.111596_-73.350725@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727353,
-    "wof:geomhash":"36758a60caa2deb08bde2a59536ccd1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93b49541fe46c4ef2cfee558871d9552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523241,
+            "venue_id":672817701
+        }
+    ],
     "wof:id":672817701,
-    "wof:lastmodified":1472626054,
+    "wof:lastmodified":1492117780,
     "wof:name":"Stenner Tree Care",
     "wof:parent_id":420523241,
     "wof:placetype":"venue",

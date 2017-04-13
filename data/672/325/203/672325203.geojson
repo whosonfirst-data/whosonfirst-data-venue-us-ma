@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.799324,42.237584,-70.799324,42.237584",
     "geom:latitude":42.237584,
     "geom:longitude":-70.799324,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TNJpGYIST4aJVxAsh6ghM_42.237584_-70.799324@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716130,
-    "wof:geomhash":"2777da631640d497c9f68d1eee23505a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c69fe627f965b1dc1e85be88bb167f91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672325203
+        }
+    ],
     "wof:id":672325203,
-    "wof:lastmodified":1472625544,
+    "wof:lastmodified":1492112674,
     "wof:name":"St Anthony Catholic Church",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

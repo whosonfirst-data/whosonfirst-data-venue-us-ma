@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.857213,42.349709,-71.857213,42.349709",
     "geom:latitude":42.349709,
     "geom:longitude":-71.857213,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4A9mJNG3L5Oa6e9LbGHOQY_42.349709_-71.857213@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461722024,
-    "wof:geomhash":"00f0695bc4c2ed28c5835344a4555666",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7c2e7800295796f83ee3d0a6d2298c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524079,
+            "venue_id":672575493
+        }
+    ],
     "wof:id":672575493,
-    "wof:lastmodified":1472625824,
+    "wof:lastmodified":1492106020,
     "wof:name":"Wachusett Family Practice Inc",
     "wof:parent_id":420524079,
     "wof:placetype":"venue",

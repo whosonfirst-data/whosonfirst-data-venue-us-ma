@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.824423,42.174163,-70.824423,42.174163",
     "geom:latitude":42.174163,
     "geom:longitude":-70.824423,
@@ -32,7 +33,9 @@
         85688645,
         85633793,
         85868753,
-        102084367
+        102084367,
+        85828399,
+        85811123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461722480,
-    "wof:geomhash":"04a9d305dc1acfb2376c7420eb026faf",
+    "wof:geomhash":"2c52fab6d33e674b95b82c678a60a1e9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +51,26 @@
             "neighbourhood_id":85868753,
             "region_id":85688645,
             "venue_id":672595453
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85828399,
+            "region_id":85688645,
+            "venue_id":672595453
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084367,
+            "neighbourhood_id":85811123,
+            "region_id":85688645,
+            "venue_id":672595453
         }
     ],
     "wof:id":672595453,
-    "wof:lastmodified":1472625847,
+    "wof:lastmodified":1492115316,
     "wof:name":"R & S Urban Pest Control Inc",
-    "wof:parent_id":85868753,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

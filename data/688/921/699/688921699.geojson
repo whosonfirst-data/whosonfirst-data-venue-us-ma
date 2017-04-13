@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.997669,42.659281,-70.997669,42.659281",
     "geom:latitude":42.659281,
     "geom:longitude":-70.997669,
@@ -37,17 +38,26 @@
         "painting-production"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523465
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gode6iFvQ36XS6ZZ0Tnlb_42.659281_-70.997669@1303262195"
     },
     "wof:country":"US",
     "wof:created":1461735688,
-    "wof:geomhash":"c59fbb18acac8ea88f4e3149c28d7c32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9601ce324f79281d982757de688e0241",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523465,
+            "venue_id":688921699
+        }
+    ],
     "wof:id":688921699,
-    "wof:lastmodified":1472624955,
+    "wof:lastmodified":1492120644,
     "wof:name":"Paul Chalifour",
     "wof:parent_id":420523465,
     "wof:placetype":"venue",

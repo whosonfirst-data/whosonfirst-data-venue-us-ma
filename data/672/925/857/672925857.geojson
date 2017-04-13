@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.572371,42.131848,-71.572371,42.131848",
     "geom:latitude":42.131848,
     "geom:longitude":-71.572371,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
-        85633793,
         85857429,
-        102084655
+        102191575,
+        404476653,
+        85633793,
+        85950727,
+        102084655,
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1461729537,
-    "wof:geomhash":"1a84a554af1ee9815f86ba8a64f81af7",
+    "wof:geomhash":"46a2ac11a4bf1b51b3a040d38106e7bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084655,
+            "localadmin_id":404476653,
+            "locality_id":85950727,
             "neighbourhood_id":85857429,
             "region_id":85688645,
             "venue_id":672925857
         }
     ],
     "wof:id":672925857,
-    "wof:lastmodified":1472626147,
+    "wof:lastmodified":1492118068,
     "wof:name":"Nipmuck Reg High Plant Mang",
     "wof:parent_id":85857429,
     "wof:placetype":"venue",

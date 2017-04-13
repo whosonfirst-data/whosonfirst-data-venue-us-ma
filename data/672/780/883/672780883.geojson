@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.543666,41.81448,-70.543666,41.81448",
     "geom:latitude":41.81448,
     "geom:longitude":-70.543666,
@@ -31,17 +32,26 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73aHNvbNa2NeD4CECPF5om_41.814480_-70.543666@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461726600,
-    "wof:geomhash":"bd37f4dfcc32e62f78e3ce046cfba30c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5f5c973a6ba244296c7e2819e208bcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523951,
+            "venue_id":672780883
+        }
+    ],
     "wof:id":672780883,
-    "wof:lastmodified":1472626023,
+    "wof:lastmodified":1492108639,
     "wof:name":"Advance Business Equipment",
     "wof:parent_id":420523951,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.129935,41.717442,-70.129935,41.717442",
     "geom:latitude":41.717442,
     "geom:longitude":-70.129935,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688645,
+        85633793,
+        85855243,
+        102084379,
         420523235,
         102191575,
         404476183,
-        85633793,
-        85950575,
-        102084379,
-        85688645
+        85950575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,15 @@
     },
     "wof:country":"US",
     "wof:created":1461715131,
-    "wof:geomhash":"af51893f858bb29c64d58e82ca78c70c",
+    "wof:geomhash":"9c6107cfcca1170846c90398657b41da",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084379,
+            "neighbourhood_id":85855243,
+            "region_id":85688645,
+            "venue_id":672276607
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +70,9 @@
         }
     ],
     "wof:id":672276607,
-    "wof:lastmodified":1472625439,
+    "wof:lastmodified":1492112768,
     "wof:name":"Kenneth W Archambault",
-    "wof:parent_id":420523235,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

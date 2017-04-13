@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.802905,42.2405,-70.802905,42.2405",
     "geom:latitude":42.2405,
     "geom:longitude":-70.802905,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dGTNpSPn8b4CfKANeg63a_42.240500_-70.802905@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716294,
-    "wof:geomhash":"07e2b25a32e5ae2993acec7c64e869ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a467bec911e402c5735b322632a1022c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672332869
+        }
+    ],
     "wof:id":672332869,
-    "wof:lastmodified":1472625574,
+    "wof:lastmodified":1492107083,
     "wof:name":"Health Care South",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

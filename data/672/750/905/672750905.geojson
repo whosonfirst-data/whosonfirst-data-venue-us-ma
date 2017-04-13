@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.562756,42.645118,-72.562756,42.645118",
     "geom:latitude":42.645118,
     "geom:longitude":-72.562756,
@@ -31,17 +32,26 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yGGrI5eznWJRK31DjXDH7_42.645118_-72.562756@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461725957,
-    "wof:geomhash":"7da0eb4295d11005285a0b561e9bb79d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6b957e0e4d53e4f8435c58df9b36539",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523509,
+            "venue_id":672750905
+        }
+    ],
     "wof:id":672750905,
-    "wof:lastmodified":1472625999,
+    "wof:lastmodified":1492107692,
     "wof:name":"North County Veterinary Clinic",
     "wof:parent_id":420523509,
     "wof:placetype":"venue",

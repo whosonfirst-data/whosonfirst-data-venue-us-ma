@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.173008,42.752324,-71.173008,42.752324",
     "geom:latitude":42.752324,
     "geom:longitude":-71.173008,
@@ -40,7 +41,8 @@
         85633793,
         85950411,
         102084463,
-        85688645
+        85688645,
+        420523445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461718057,
-    "wof:geomhash":"e23ee08a9be7e0b0de9b0a3c3024fb3f",
+    "wof:geomhash":"379a7f0f6b98120d50917208166a3032",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,22 @@
             "neighbourhood_id":85832653,
             "region_id":85688645,
             "venue_id":672406097
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404475949,
+            "locality_id":85950411,
+            "neighbourhood_id":420523445,
+            "region_id":85688645,
+            "venue_id":672406097
         }
     ],
     "wof:id":672406097,
-    "wof:lastmodified":1472625667,
+    "wof:lastmodified":1492109876,
     "wof:name":"Tri State Marketing",
-    "wof:parent_id":85832653,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

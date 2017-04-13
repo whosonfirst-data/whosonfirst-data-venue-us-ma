@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.787564,42.244202,-70.787564,42.244202",
     "geom:latitude":42.244202,
     "geom:longitude":-70.787564,
@@ -31,17 +32,26 @@
         "club"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PKKOF1QduUrVEehVN7jpr_42.244202_-70.787564@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461728291,
-    "wof:geomhash":"ec371389c5b62f1020b3c7d9094d3872",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76c240e6ad8f3f7eccd4a809e471a813",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523773,
+            "venue_id":672866029
+        }
+    ],
     "wof:id":672866029,
-    "wof:lastmodified":1472626091,
+    "wof:lastmodified":1492108494,
     "wof:name":"Cohasset Yacht Club",
     "wof:parent_id":420523773,
     "wof:placetype":"venue",

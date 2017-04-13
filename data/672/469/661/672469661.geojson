@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.86571,42.040157,-70.86571,42.040157",
     "geom:latitude":42.040157,
     "geom:longitude":-70.86571,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EC5k1Fy41DruQ3ZIFDKiM_42.040157_-70.865710@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719683,
-    "wof:geomhash":"1d9c03f3220603a563b542901b7a0e53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd021f1091fbb4786daab0395b667759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523995,
+            "venue_id":672469661
+        }
+    ],
     "wof:id":672469661,
-    "wof:lastmodified":1472625736,
+    "wof:lastmodified":1492119719,
     "wof:name":"Pediatric Associates",
     "wof:parent_id":420523995,
     "wof:placetype":"venue",

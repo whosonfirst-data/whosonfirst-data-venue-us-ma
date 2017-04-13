@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.102303,42.124199,-71.102303,42.124199",
     "geom:latitude":42.124199,
     "geom:longitude":-71.102303,
@@ -31,17 +32,26 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QrMrqFHcZ708QR0pDlPL5_42.124295_-71.102660@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732608,
-    "wof:geomhash":"d2edf82f5e1a6768937bb20f63c4fd96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7dd198aee5b44397fd7876e6f19415a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":673042931
+        }
+    ],
     "wof:id":673042931,
-    "wof:lastmodified":1472625116,
+    "wof:lastmodified":1492103070,
     "wof:name":"Stoughton Baking Co",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

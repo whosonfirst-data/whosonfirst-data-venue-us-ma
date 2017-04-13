@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.221773,42.677211,-71.221773,42.677211",
     "geom:latitude":42.677211,
     "geom:longitude":-71.221773,
@@ -36,17 +37,26 @@
         "motion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523395
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25wek8HdWWr84i6mtLLHWr_42.676902_-71.222292@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732659,
-    "wof:geomhash":"3d514df9944b68672e5527425752882f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92d1e818ab426a799600d5ae5369e3b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523395,
+            "venue_id":673045423
+        }
+    ],
     "wof:id":673045423,
-    "wof:lastmodified":1472625073,
+    "wof:lastmodified":1492103288,
     "wof:name":"Chase Productions",
     "wof:parent_id":420523395,
     "wof:placetype":"venue",

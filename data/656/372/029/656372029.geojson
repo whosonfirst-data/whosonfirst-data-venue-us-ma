@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.008271,42.476343,-72.008271,42.476343",
     "geom:latitude":42.476343,
     "geom:longitude":-72.008271,
@@ -28,17 +29,26 @@
     "sg:postcode":"01452",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524165
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UovXQajLGZlqGpoQiGpKA_42.476343_-72.008271@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711422,
-    "wof:geomhash":"19bd1c080f06ab16806173323800f1f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7204fbf22cf8ef4504affba896d49d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524165,
+            "venue_id":656372029
+        }
+    ],
     "wof:id":656372029,
-    "wof:lastmodified":1472624979,
+    "wof:lastmodified":1492101587,
     "wof:name":"Hub Package Store",
     "wof:parent_id":420524165,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.112585,41.626781,-71.112585,41.626781",
     "geom:latitude":41.626781,
     "geom:longitude":-71.112585,
@@ -28,19 +29,28 @@
     "sg:postcode":"02790",
     "sg:province":"MA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420540491
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IBhx2NDDMyiNxhC0bMUIV_41.626781_-71.112585@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721983,
-    "wof:geomhash":"13d11236e52d2d211223bdfb2e9e6155",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e93bac235e199ddcf19df3fdc89c3b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420540491,
+            "venue_id":672573489
+        }
+    ],
     "wof:id":672573489,
-    "wof:lastmodified":1472625829,
+    "wof:lastmodified":1492116955,
     "wof:name":"Westport Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

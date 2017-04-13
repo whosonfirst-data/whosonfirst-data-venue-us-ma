@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.815747,42.434823,-71.815747,42.434823",
     "geom:latitude":42.434823,
     "geom:longitude":-71.815747,
@@ -32,19 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420524139,
+        420524137
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BW1QYc73GvQqlzaZHNX38_42.434823_-71.815747@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717283,
-    "wof:geomhash":"948369ce28a36e325beb82915bebf695",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4744f34bad0497278a2ac1ca24a37106",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524139,
+            "venue_id":672373379
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420524137,
+            "venue_id":672373379
+        }
+    ],
     "wof:id":672373379,
-    "wof:lastmodified":1472625646,
+    "wof:lastmodified":1492119542,
     "wof:name":"D Poulin & Sons Construction",
-    "wof:parent_id":420524137,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

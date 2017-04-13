@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.880287,41.963938,-70.880287,41.963938",
     "geom:latitude":41.963938,
     "geom:longitude":-70.880287,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jfTvfEc2tyOjnamJSGwj4_41.963938_-70.880287@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461721391,
-    "wof:geomhash":"3fd49267ab63e8d68742357b0ec13c8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ad8b024d1a115787f9da2dd10101c7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523907,
+            "venue_id":672546473
+        }
+    ],
     "wof:id":672546473,
-    "wof:lastmodified":1472625823,
+    "wof:lastmodified":1492108047,
     "wof:name":"Keene Contractors",
     "wof:parent_id":420523907,
     "wof:placetype":"venue",

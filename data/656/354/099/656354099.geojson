@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.306281,41.780457,-71.306281,41.780457",
     "geom:latitude":41.780457,
     "geom:longitude":-71.306281,
@@ -31,17 +32,32 @@
         "battery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688645,
+        102191575,
+        404476141,
+        85633793,
+        102084407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XOvtvI7lvrxiZmwW7w7Mm_41.780457_-71.306281@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711043,
-    "wof:geomhash":"f0e90ca39a27051a685402edab7dc977",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b224bd2ea98fedbae4ebdb351977c749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084407,
+            "localadmin_id":404476141,
+            "region_id":85688645,
+            "venue_id":656354099
+        }
+    ],
     "wof:id":656354099,
-    "wof:lastmodified":1472624910,
+    "wof:lastmodified":1492102211,
     "wof:name":"United Battery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

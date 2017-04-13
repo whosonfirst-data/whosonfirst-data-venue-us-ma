@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.800125,42.250929,-71.800125,42.250929",
     "geom:latitude":42.250929,
     "geom:longitude":-71.800125,
@@ -38,7 +39,8 @@
         85633793,
         85950375,
         102084655,
-        85688645
+        85688645,
+        85827117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461715665,
-    "wof:geomhash":"072c6f98a7296024e06fd2b7c286f023",
+    "wof:geomhash":"a742c8fb3f8a4f7489a547c5fc67d08b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,22 @@
             "neighbourhood_id":85881871,
             "region_id":85688645,
             "venue_id":672302875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084655,
+            "localadmin_id":404476639,
+            "locality_id":85950375,
+            "neighbourhood_id":85827117,
+            "region_id":85688645,
+            "venue_id":672302875
         }
     ],
     "wof:id":672302875,
-    "wof:lastmodified":1472625532,
+    "wof:lastmodified":1492119422,
     "wof:name":"Alex Johns & Son Inc",
-    "wof:parent_id":85881871,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.882599,42.713982,-70.882599,42.713982",
     "geom:latitude":42.713982,
     "geom:longitude":-70.882599,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85814805,
+        102191575,
+        404476257,
         85633793,
-        85836261,
-        102084463
+        85950805,
+        102084463,
+        85688645,
+        85836261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +48,18 @@
     },
     "wof:country":"US",
     "wof:created":1461721925,
-    "wof:geomhash":"87661980aeca7c861e4819533868ddfc",
+    "wof:geomhash":"b9875cc3db0da8fb04007824806a9f78",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084463,
+            "localadmin_id":404476257,
+            "locality_id":85950805,
+            "neighbourhood_id":85814805,
+            "region_id":85688645,
+            "venue_id":672570575
+        },
         {
             "country_id":85633793,
             "county_id":102084463,
@@ -54,9 +69,9 @@
         }
     ],
     "wof:id":672570575,
-    "wof:lastmodified":1472625826,
+    "wof:lastmodified":1492108238,
     "wof:name":"Rowley Electric Light Dept",
-    "wof:parent_id":85836261,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],

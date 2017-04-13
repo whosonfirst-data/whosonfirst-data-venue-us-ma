@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.10958,42.127541,-71.10958,42.127541",
     "geom:latitude":42.127541,
     "geom:longitude":-71.10958,
@@ -34,17 +35,26 @@
         "devices"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PlthPHEHmhknD7BW9ErB9_42.127541_-71.109580@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461711230,
-    "wof:geomhash":"330ed53fb8d882aa29a3722e8c235d6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f53d0d3ce87a8a52e0a10271f313de05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523771,
+            "venue_id":656363275
+        }
+    ],
     "wof:id":656363275,
-    "wof:lastmodified":1472624934,
+    "wof:lastmodified":1492101608,
     "wof:name":"Bradco Inc",
     "wof:parent_id":420523771,
     "wof:placetype":"venue",

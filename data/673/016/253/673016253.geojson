@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.031353,42.032742,-71.031353,42.032742",
     "geom:latitude":42.032742,
     "geom:longitude":-71.031353,
@@ -32,17 +33,26 @@
         "technology"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0t6SuhO3yNs7PpT92d0aXw_42.032742_-71.031353@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461731958,
-    "wof:geomhash":"955edf94e215afb73e6e4dce397b2934",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58bd5be92cc2f83f80f739616936095e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523931,
+            "venue_id":673016253
+        }
+    ],
     "wof:id":673016253,
-    "wof:lastmodified":1472624991,
+    "wof:lastmodified":1492103121,
     "wof:name":"Howard Business Anyalist",
     "wof:parent_id":420523931,
     "wof:placetype":"venue",

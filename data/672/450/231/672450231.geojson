@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.609623,42.378396,-72.609623,42.378396",
     "geom:latitude":42.378396,
     "geom:longitude":-72.609623,
@@ -32,17 +33,26 @@
         "engine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420523649
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JOOlfwX3aDvckXDlix9Nb_42.378396_-72.609623@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719182,
-    "wof:geomhash":"244e96860d155925aca75ff8eac4f912",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21df924cd75c2c4489c4f46a59eb73f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420523649,
+            "venue_id":672450231
+        }
+    ],
     "wof:id":672450231,
-    "wof:lastmodified":1472625714,
+    "wof:lastmodified":1492111766,
     "wof:name":"Aldrich Automotive Machine",
     "wof:parent_id":420523649,
     "wof:placetype":"venue",

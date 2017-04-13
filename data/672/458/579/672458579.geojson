@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.974687,42.854363,-70.974687,42.854363",
     "geom:latitude":42.854363,
     "geom:longitude":-70.974687,
@@ -35,7 +36,8 @@
         85633793,
         85950401,
         102084463,
-        85688645
+        85688645,
+        85833865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461719401,
-    "wof:geomhash":"09d4bac636e383785275c0cc5f45838f",
+    "wof:geomhash":"3f48aee424742aa6b339ab1a218eeb39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,19 @@
             "neighbourhood_id":85813287,
             "region_id":85688645,
             "venue_id":672458579
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85833865,
+            "region_id":85688645,
+            "venue_id":672458579
         }
     ],
     "wof:id":672458579,
-    "wof:lastmodified":1472625721,
+    "wof:lastmodified":1492106250,
     "wof:name":"Aimee Chapman Dont Quit Fund",
-    "wof:parent_id":85813287,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
     "wof:superseded_by":[],
