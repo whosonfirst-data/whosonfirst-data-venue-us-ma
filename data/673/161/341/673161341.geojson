@@ -7,6 +7,7 @@
     "addr:postcode":"01803",
     "addr:street":"Middlesex Turnpike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-71.217085,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"Burlington Mall 75 Middlesex Turnpike",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -42,6 +43,7 @@
     "wof:brand_id":1125154965,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2660305074,
         "sg:id":"SG_2dQr4JUPA9SoIYYYoq9bqj_42.480739_-71.217085@1303262191"
     },
     "wof:country":"US",
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":673161341,
-    "wof:lastmodified":1510695241,
+    "wof:lastmodified":1510942106,
     "wof:name":"Anthropologie",
     "wof:parent_id":85858943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        673161847
+    ],
+    "wof:supersedes":[
+        673161847
+    ],
     "wof:tags":[]
 },
   "bbox": [

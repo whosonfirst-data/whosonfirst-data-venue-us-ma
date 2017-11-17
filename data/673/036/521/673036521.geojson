@@ -7,6 +7,7 @@
     "addr:postcode":"02139",
     "addr:street":"Massachusetts Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-71.104173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"655 Massachusetts Ave",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -46,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":981500159,
         "sg:id":"SG_0mMpsF7qc2VWgGOfSU4cGv_42.365561_-71.103952@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732455,
-    "wof:geomhash":"c8224e36c520a055bd937f4aed39a908",
+    "wof:geomhash":"6bed09bc982d22aa3c5db4cc661863ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +67,17 @@
         }
     ],
     "wof:id":673036521,
-    "wof:lastmodified":1489020092,
+    "wof:lastmodified":1510943331,
     "wof:name":"Starbucks",
     "wof:parent_id":85876611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        689082577
+    ],
+    "wof:supersedes":[
+        689082577
+    ],
     "wof:tags":[
         "shop",
         "tea",
