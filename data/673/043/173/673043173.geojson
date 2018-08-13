@@ -2,18 +2,24 @@
   "id": 673043173,
   "type": "Feature",
   "properties": {
-    "addr:full":"532 Massachusetts Ave Boston MA 02118",
+    "addr:city":"Boston",
+    "addr:full":"532 Massachusetts Ave Boston, Ma 02118-1463",
+    "addr:house_number":"532",
     "addr:housenumber":"532",
-    "addr:postcode":"02118",
+    "addr:phone":"+1 617-536-4445",
+    "addr:postcode":"02118-1463",
+    "addr:road":"Massachusetts Ave",
+    "addr:state":"MA",
     "addr:street":"Massachusetts Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.079247,42.338779,-71.079247,42.338779",
-    "geom:latitude":42.338779,
-    "geom:longitude":-71.079247,
+    "geom:bbox":"-71.07908,42.33892,-71.07908,42.33892",
+    "geom:latitude":42.33892,
+    "geom:longitude":-71.07908,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"532 Massachusetts Ave",
     "sg:city":"Boston",
     "sg:classifiers":[
@@ -33,7 +39,11 @@
         "historical"
     ],
     "sg:website":"http://www.southendhistoricalsociety.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526195,
+        102530741
+    ],
     "wof:belongsto":[
         85869669,
         102191575,
@@ -45,11 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500713,
         "sg:id":"SG_1S0qtvjcwsEZ12nZsuRfrS_42.339065_-71.079949@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732612,
-    "wof:geomhash":"65ef2979c69752d603a9521015934d23",
+    "wof:geomhash":"84965e85e552051386fa37e0a8fa87a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,8 +74,8 @@
         }
     ],
     "wof:id":673043173,
-    "wof:lastmodified":1472625074,
-    "wof:name":"South End Historical Society Inc",
+    "wof:lastmodified":1534187495,
+    "wof:name":"South End Historical Society",
     "wof:parent_id":85869669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -77,10 +88,10 @@
     ]
 },
   "bbox": [
-    -71.079247,
-    42.338779,
-    -71.079247,
-    42.338779
+    -71.07908,
+    42.33892,
+    -71.07908,
+    42.33892
 ],
-  "geometry": {"coordinates":[-71.079247,42.338779],"type":"Point"}
+  "geometry": {"coordinates":[-71.07908,42.33892],"type":"Point"}
 }

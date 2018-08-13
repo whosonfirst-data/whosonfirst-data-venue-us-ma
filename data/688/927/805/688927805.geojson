@@ -2,18 +2,24 @@
   "id": 688927805,
   "type": "Feature",
   "properties": {
-    "addr:full":"98 High St Newburyport MA 01950",
+    "addr:city":"Newburyport",
+    "addr:full":"98 High St Newburyport, Ma 01950-3053",
+    "addr:house_number":"98",
     "addr:housenumber":"98",
-    "addr:postcode":"01950",
+    "addr:phone":"+1 850-769-6128",
+    "addr:postcode":"01950-3053",
+    "addr:road":"High St",
+    "addr:state":"MA",
     "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-70.871498,42.807201,-70.871498,42.807201",
-    "geom:latitude":42.807201,
-    "geom:longitude":-70.871498,
+    "geom:bbox":"-70.87168,42.80727,-70.87168,42.80727",
+    "geom:latitude":42.80727,
+    "geom:longitude":-70.87168,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"98 High St",
     "sg:city":"Newburyport",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 978 462 2681",
     "sg:postcode":"01950",
     "sg:province":"MA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527605
+    ],
     "wof:belongsto":[
         85891457,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500295,
         "sg:id":"SG_5wbuspknUZERpGWtpRt43U_42.807201_-70.871498@1303262196"
     },
     "wof:country":"US",
     "wof:created":1461735807,
-    "wof:geomhash":"69cdee0c64c02b312b14915fda4ff78d",
+    "wof:geomhash":"2a535ecd4ae0f9eb76b8c68dc53e4f60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +67,8 @@
         }
     ],
     "wof:id":688927805,
-    "wof:lastmodified":1472625032,
-    "wof:name":"Historical Soc of Old Newbury",
+    "wof:lastmodified":1534187497,
+    "wof:name":"Historical Society Of Old Newbury",
     "wof:parent_id":85891457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.871498,
-    42.807201,
-    -70.871498,
-    42.807201
+    -70.87168,
+    42.80727,
+    -70.87168,
+    42.80727
 ],
-  "geometry": {"coordinates":[-70.871498,42.807201],"type":"Point"}
+  "geometry": {"coordinates":[-70.87168,42.80727],"type":"Point"}
 }

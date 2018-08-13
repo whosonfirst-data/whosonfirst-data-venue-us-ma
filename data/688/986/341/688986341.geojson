@@ -7,6 +7,7 @@
     "addr:postcode":"02110",
     "addr:street":"Federal St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-71.056099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"175 Federal St",
     "sg:city":"Boston",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461736975,
-    "wof:geomhash":"21f5e3529e18c4e17fc126bf573830fe",
+    "wof:geomhash":"e33e128bdc9b26dcca4f8a5a13fd894a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,19 @@
         }
     ],
     "wof:id":688986341,
-    "wof:lastmodified":1491265519,
+    "wof:lastmodified":1534187504,
     "wof:name":"Moran J David Lwyer",
     "wof:parent_id":1108711407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        688985897,
+        688987373,
+        688995193
+    ],
+    "wof:supersedes":[
+        688985457
+    ],
     "wof:tags":[]
 },
   "bbox": [

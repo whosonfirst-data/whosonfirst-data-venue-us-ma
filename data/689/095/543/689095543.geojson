@@ -2,19 +2,25 @@
   "id": 689095543,
   "type": "Feature",
   "properties": {
-    "addr:full":"Somerville Theatre Basement 55 Davis Sq Somerville MA 02143",
+    "addr:city":"Somerville",
+    "addr:full":"55 Davis Sq Somerville, Ma 02144",
+    "addr:house_number":"55",
     "addr:housenumber":"55",
-    "addr:postcode":"02143",
+    "addr:phone":"+1 781-444-6757",
+    "addr:postcode":"02144",
+    "addr:road":"Davis Sq",
+    "addr:state":"MA",
     "addr:street":"Davis Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.122549,42.396509,-71.122549,42.396509",
-    "geom:latitude":42.396509,
-    "geom:longitude":-71.122549,
+    "geom:bbox":"-71.12243,42.39672,-71.12243,42.39672",
+    "geom:latitude":42.39672,
+    "geom:longitude":-71.12243,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Somerville Theatre Basement 55 Davis Sq",
     "sg:city":"Somerville",
     "sg:classifiers":[
@@ -29,7 +35,11 @@
     "sg:postcode":"02143",
     "sg:province":"MA",
     "sg:website":"www.museumofbadart.org/index.html",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526195,
+        102530741
+    ],
     "wof:belongsto":[
         85856399,
         102191575,
@@ -41,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500105,
         "sg:id":"SG_3OnP1dt6m0jZJ8rTFNF1ei_42.396509_-71.122549@1303262218"
     },
     "wof:country":"US",
     "wof:created":1461739296,
-    "wof:geomhash":"e261234ba11a5a1a344fd0c62dfcd359",
+    "wof:geomhash":"8ca3553d5c48c2542e689136570e48ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +70,8 @@
         }
     ],
     "wof:id":689095543,
-    "wof:lastmodified":1489023706,
-    "wof:name":"Museum of Bad Art",
+    "wof:lastmodified":1534187524,
+    "wof:name":"Museum Of Bad Art",
     "wof:parent_id":85856399,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -69,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.122549,
-    42.396509,
-    -71.122549,
-    42.396509
+    -71.12243,
+    42.39672,
+    -71.12243,
+    42.39672
 ],
-  "geometry": {"coordinates":[-71.12254900000001,42.396509],"type":"Point"}
+  "geometry": {"coordinates":[-71.12242999999999,42.39672],"type":"Point"}
 }

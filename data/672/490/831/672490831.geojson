@@ -2,18 +2,23 @@
   "id": 672490831,
   "type": "Feature",
   "properties": {
-    "addr:full":"4 Vestal St Nantucket MA 02554",
+    "addr:city":"Nantucket",
+    "addr:full":"4 Vestal Street Nantucket, Ma 02554",
+    "addr:house_number":"4",
     "addr:housenumber":"4",
     "addr:postcode":"02554",
+    "addr:road":"Vestal Street",
+    "addr:state":"MA",
     "addr:street":"Vestal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-70.105037,41.280447,-70.105037,41.280447",
-    "geom:latitude":41.280447,
-    "geom:longitude":-70.105037,
+    "geom:bbox":"-70.1057,41.28036,-70.1057,41.28036",
+    "geom:latitude":41.28036,
+    "geom:longitude":-70.1057,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4 Vestal St",
     "sg:city":"Nantucket",
     "sg:classifiers":[
@@ -28,7 +33,10 @@
     "sg:postcode":"02554",
     "sg:province":"MA",
     "sg:website":"www.mmo.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525079
+    ],
     "wof:belongsto":[
         85834175,
         102191575,
@@ -40,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500631,
         "sg:id":"SG_2LZN5nIPm1ZynzlIYd4bMs_41.280447_-70.105037@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461720198,
-    "wof:geomhash":"9e098675e11e6276ff3eea14480f564b",
+    "wof:geomhash":"d83391a8ea3903b7b1d479347f131e48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +67,8 @@
         }
     ],
     "wof:id":672490831,
-    "wof:lastmodified":1472625762,
-    "wof:name":"Maria Mitchell Assn",
+    "wof:lastmodified":1534187524,
+    "wof:name":"Maria Mitchell Association",
     "wof:parent_id":85834175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -68,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.105037,
-    41.280447,
-    -70.105037,
-    41.280447
+    -70.1057,
+    41.28036,
+    -70.1057,
+    41.28036
 ],
-  "geometry": {"coordinates":[-70.105037,41.280447],"type":"Point"}
+  "geometry": {"coordinates":[-70.1057,41.28036],"type":"Point"}
 }

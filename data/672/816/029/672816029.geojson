@@ -2,18 +2,24 @@
   "id": 672816029,
   "type": "Feature",
   "properties": {
-    "addr:full":"104 Walker St Lenox MA 01240",
+    "addr:city":"Lenox",
+    "addr:full":"104 Walker St Lenox, Ma 01240-2725",
+    "addr:house_number":"104",
     "addr:housenumber":"104",
-    "addr:postcode":"01240",
+    "addr:phone":"+1 413-637-3206",
+    "addr:postcode":"01240-2725",
+    "addr:road":"Walker St",
+    "addr:state":"MA",
     "addr:street":"Walker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-73.280745,42.354315,-73.280745,42.354315",
-    "geom:latitude":42.354315,
-    "geom:longitude":-73.280745,
+    "geom:bbox":"-73.28191,42.35501,-73.28191,42.35501",
+    "geom:latitude":42.35501,
+    "geom:longitude":-73.28191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"104 Walker St",
     "sg:city":"Lenox",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688645,
+        102084369,
         85633793,
-        85830287,
-        102084369
+        85688645,
+        85830287
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500488,
         "sg:id":"SG_2sFj1xD7dYerOIIBCTooAz_42.354315_-73.280745@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727323,
-    "wof:geomhash":"091e19db211e178a3ccc07c2400e0752",
+    "wof:geomhash":"98ed412c47394df98bcb758480438e6d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,8 +62,8 @@
         }
     ],
     "wof:id":672816029,
-    "wof:lastmodified":1472626041,
-    "wof:name":"Ventford Hall Assn Inc",
+    "wof:lastmodified":1534187524,
+    "wof:name":"Ventfort Hall Association",
     "wof:parent_id":85830287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -66,10 +74,10 @@
     ]
 },
   "bbox": [
-    -73.280745,
-    42.354315,
-    -73.280745,
-    42.354315
+    -73.28191,
+    42.35501,
+    -73.28191,
+    42.35501
 ],
-  "geometry": {"coordinates":[-73.280745,42.354315],"type":"Point"}
+  "geometry": {"coordinates":[-73.28191,42.35501],"type":"Point"}
 }

@@ -2,19 +2,24 @@
   "id": 689195949,
   "type": "Feature",
   "properties": {
-    "addr:full":"67 Grove St Sandwich MA 02563",
+    "addr:city":"Sandwich",
+    "addr:full":"67 Grove Street Sandwich, Ma 02563",
+    "addr:house_number":"67",
     "addr:housenumber":"67",
     "addr:postcode":"02563",
+    "addr:road":"Grove Street",
+    "addr:state":"MA",
     "addr:street":"Grove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.50678,41.750082,-70.50678,41.750082",
-    "geom:latitude":41.750082,
-    "geom:longitude":-70.50678,
+    "geom:bbox":"-70.50187,41.75491,-70.50187,41.75491",
+    "geom:latitude":41.75491,
+    "geom:longitude":-70.50187,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"67 Grove St",
     "sg:city":"Sandwich",
     "sg:classifiers":[
@@ -29,7 +34,11 @@
     "sg:postcode":"02563",
     "sg:province":"MA",
     "sg:website":"http://www.heritagemuseumsandgardens.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529693,
+        102533723
+    ],
     "wof:belongsto":[
         85852115,
         102191575,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502197,
         "sg:id":"SG_5lLgZ9vPjzxn4InzAoHXm0_41.750082_-70.506780@1303262231"
     },
     "wof:country":"US",
     "wof:created":1461741961,
-    "wof:geomhash":"0cc192f3f844650455cc2cab7f63dce5",
+    "wof:geomhash":"5ae5df1699f883618956a078f14ebc24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":689195949,
-    "wof:lastmodified":1492100293,
-    "wof:name":"Heritage Museums And Gardens",
+    "wof:lastmodified":1534187491,
+    "wof:name":"Heritage Museums & Gardens",
     "wof:parent_id":85852115,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.50678,
-    41.750082,
-    -70.50678,
-    41.750082
+    -70.50187,
+    41.75491,
+    -70.50187,
+    41.75491
 ],
-  "geometry": {"coordinates":[-70.50678000000001,41.750082],"type":"Point"}
+  "geometry": {"coordinates":[-70.50187,41.75491],"type":"Point"}
 }

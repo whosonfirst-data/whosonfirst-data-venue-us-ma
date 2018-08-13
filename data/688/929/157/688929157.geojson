@@ -7,6 +7,7 @@
     "addr:postcode":"01950",
     "addr:street":"Harris St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.872101,42.809101,-70.872101,42.809101",
@@ -14,6 +15,7 @@
     "geom:longitude":-70.872101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6 Harris St",
     "sg:city":"Newburyport",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461735834,
-    "wof:geomhash":"100444d19da1769eae69cef274ec24b4",
+    "wof:geomhash":"2fe75b12122668886bfdc42f75804300",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,18 @@
         }
     ],
     "wof:id":688929157,
-    "wof:lastmodified":1472624991,
+    "wof:lastmodified":1534187498,
     "wof:name":"Janos Mark Atty",
     "wof:parent_id":85891457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        688928559,
+        688928789
+    ],
+    "wof:supersedes":[
+        672705493
+    ],
     "wof:tags":[]
 },
   "bbox": [

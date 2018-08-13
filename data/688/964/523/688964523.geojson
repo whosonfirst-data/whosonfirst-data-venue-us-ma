@@ -7,6 +7,7 @@
     "addr:postcode":"02108",
     "addr:street":"Tremont St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-71.060898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"101 Tremont St",
     "sg:city":"Boston",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461736538,
-    "wof:geomhash":"dec225738119c12ad675a3e64e352c29",
+    "wof:geomhash":"d65215aca432ed567a1ee487aeadbd0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,18 @@
         }
     ],
     "wof:id":688964523,
-    "wof:lastmodified":1489011167,
+    "wof:lastmodified":1534187500,
     "wof:name":"Muse & Muse Atty",
     "wof:parent_id":1108703039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        688967879
+    ],
+    "wof:supersedes":[
+        688958025,
+        688962203
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -2,17 +2,22 @@
   "id": 672937021,
   "type": "Feature",
   "properties": {
-    "addr:full":"222 Harrington Way Worcester MA 01604",
+    "addr:city":"Worcester",
+    "addr:full":"222 Harrington Way Worcester, Ma 01604",
+    "addr:house_number":"222",
     "addr:housenumber":"222",
+    "addr:phone":"+1 508-929-2700",
     "addr:postcode":"01604",
+    "addr:road":"Harrington Way",
+    "addr:state":"MA",
     "addr:street":"Harrington Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.770899,42.266646,-71.770899,42.266646",
-    "geom:latitude":42.266646,
-    "geom:longitude":-71.770899,
+    "geom:bbox":"-71.76666,42.26176,-71.76666,42.26176",
+    "geom:latitude":42.26176,
+    "geom:longitude":-71.76666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +35,10 @@
     "sg:postcode":"01604",
     "sg:province":"MA",
     "sg:website":"www.ecotarium.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530919
+    ],
     "wof:belongsto":[
         85806455,
         102191575,
@@ -42,12 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400913,
         "osm:way":117716632,
         "sg:id":"SG_6SX8C5kE1di2wqXVams9k0_42.266646_-71.770899@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729797,
-    "wof:geomhash":"c0cf01a72a2a2685dce4f8fabef78a52",
+    "wof:geomhash":"e08f655d53e07cf2de6dc8a0807b1b80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":672937021,
-    "wof:lastmodified":1510942240,
+    "wof:lastmodified":1534187524,
     "wof:name":"Ecotarium",
     "wof:parent_id":85806455,
     "wof:placetype":"venue",
@@ -71,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.770899,
-    42.266646,
-    -71.770899,
-    42.266646
+    -71.76666,
+    42.26176,
+    -71.76666,
+    42.26176
 ],
-  "geometry": {"coordinates":[-71.770899,42.266646],"type":"Point"}
+  "geometry": {"coordinates":[-71.76666,42.26176],"type":"Point"}
 }

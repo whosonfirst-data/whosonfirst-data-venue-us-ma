@@ -2,19 +2,25 @@
   "id": 689052491,
   "type": "Feature",
   "properties": {
-    "addr:full":"19 N St Boston MA 02127",
+    "addr:city":"Boston",
+    "addr:full":"19 N St Boston, Ma 02127",
+    "addr:house_number":"19",
     "addr:housenumber":"19",
+    "addr:phone":"+1 617-523-1676",
     "addr:postcode":"02127",
+    "addr:road":"N St",
+    "addr:state":"MA",
     "addr:street":"N St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.031197,42.337299,-71.031197,42.337299",
-    "geom:latitude":42.337299,
-    "geom:longitude":-71.031197,
+    "geom:bbox":"-71.03133,42.33697,-71.03133,42.33697",
+    "geom:latitude":42.33697,
+    "geom:longitude":-71.03133,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"19 N St",
     "sg:city":"Boston",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:phone":"+1 617 523 1676",
     "sg:postcode":"02127",
     "sg:province":"MA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530741
+    ],
     "wof:belongsto":[
         1108702003,
         85849485,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500054,
         "sg:id":"SG_0rqaS1gjB48ji02H6pdcAn_42.337299_-71.031197@1303262212"
     },
     "wof:country":"US",
     "wof:created":1461738347,
-    "wof:geomhash":"89756551257dfe97736b688197bf7373",
+    "wof:geomhash":"200f60e1b40475b79563085001558e09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +70,8 @@
         }
     ],
     "wof:id":689052491,
-    "wof:lastmodified":1489011102,
-    "wof:name":"Paul Revere House the",
+    "wof:lastmodified":1534187525,
+    "wof:name":"Paul Revere House",
     "wof:parent_id":1108702003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.031197,
-    42.337299,
-    -71.031197,
-    42.337299
+    -71.03133,
+    42.33697,
+    -71.03133,
+    42.33697
 ],
-  "geometry": {"coordinates":[-71.03119700000001,42.337299],"type":"Point"}
+  "geometry": {"coordinates":[-71.03133,42.33697],"type":"Point"}
 }

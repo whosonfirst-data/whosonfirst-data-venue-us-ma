@@ -7,6 +7,7 @@
     "addr:postcode":"02109",
     "addr:street":"State St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-71.053972,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"60 State St",
     "sg:city":"Boston",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461736771,
-    "wof:geomhash":"d1923d3b05c3649cb6cde87393de3713",
+    "wof:geomhash":"d84faf77ef7f4b6b3a53bbcd4355c5c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,18 @@
         }
     ],
     "wof:id":688977147,
-    "wof:lastmodified":1489009197,
+    "wof:lastmodified":1534187519,
     "wof:name":"Wilmer Cutler Pickering Hale and Dorr, LLP",
     "wof:parent_id":85815133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        688977995,
+        672873529
+    ],
+    "wof:supersedes":[
+        688973749
+    ],
     "wof:tags":[]
 },
   "bbox": [

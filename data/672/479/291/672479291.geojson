@@ -2,18 +2,24 @@
   "id": 672479291,
   "type": "Feature",
   "properties": {
-    "addr:full":"293 Moose Hill St Sharon MA 02067",
+    "addr:city":"Sharon",
+    "addr:full":"293 Moose Hill Street Sharon, Ma 02067",
+    "addr:house_number":"293",
     "addr:housenumber":"293",
+    "addr:phone":"+1 781-784-5691",
     "addr:postcode":"02067",
+    "addr:road":"Moose Hill Street",
+    "addr:state":"MA",
     "addr:street":"Moose Hill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.208957,42.12456,-71.208957,42.12456",
-    "geom:latitude":42.12456,
-    "geom:longitude":-71.208957,
+    "geom:bbox":"-71.20868,42.12418,-71.20868,42.12418",
+    "geom:latitude":42.12418,
+    "geom:longitude":-71.20868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"293 Moose Hill St",
     "sg:city":"Sharon",
     "sg:classifiers":[
@@ -32,21 +38,23 @@
         "org"
     ],
     "sg:website":"www.massaudubon.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688645,
+        85848019,
         85633793,
         85950843,
         102084403,
-        85848019
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402501099,
         "sg:id":"SG_5mg9zMWI1NUPLMklx4kiPQ_42.124560_-71.208957@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461719923,
-    "wof:geomhash":"f41bc005afbafba38ce0a1f72622baba",
+    "wof:geomhash":"366f52dad4a8f81e24547c9be281bdd1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,8 +66,8 @@
         }
     ],
     "wof:id":672479291,
-    "wof:lastmodified":1472625738,
-    "wof:name":"Moose Hill Wildlife Sanctuary",
+    "wof:lastmodified":1534187524,
+    "wof:name":"Mass Audubon - Moose Hill Wildlife Sanctuary",
     "wof:parent_id":85848019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -71,10 +79,10 @@
     ]
 },
   "bbox": [
-    -71.208957,
-    42.12456,
-    -71.208957,
-    42.12456
+    -71.20868,
+    42.12418,
+    -71.20868,
+    42.12418
 ],
-  "geometry": {"coordinates":[-71.208957,42.12456],"type":"Point"}
+  "geometry": {"coordinates":[-71.20868,42.12418],"type":"Point"}
 }

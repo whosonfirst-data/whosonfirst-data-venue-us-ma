@@ -2,19 +2,25 @@
   "id": 673069133,
   "type": "Feature",
   "properties": {
-    "addr:full":"33 Shirley St Roxbury MA 02119",
+    "addr:city":"Roxbury",
+    "addr:full":"33 Shirley Street Roxbury, Ma 02119",
+    "addr:house_number":"33",
     "addr:housenumber":"33",
+    "addr:phone":"+1 617-442-2275",
     "addr:postcode":"02119",
+    "addr:road":"Shirley Street",
+    "addr:state":"MA",
     "addr:street":"Shirley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.072304,42.3237,-71.072304,42.3237",
-    "geom:latitude":42.3237,
-    "geom:longitude":-71.072304,
+    "geom:bbox":"-71.07167,42.32367,-71.07167,42.32367",
+    "geom:latitude":42.32367,
+    "geom:longitude":-71.07167,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"33 Shirley St",
     "sg:city":"Roxbury",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
         "religious",
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530741
+    ],
     "wof:belongsto":[
         85846283,
         102191575,
@@ -44,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500022,
         "sg:id":"SG_5z9zZhDJAiRXeMeZKGcXIi_42.323431_-71.072160@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733124,
-    "wof:geomhash":"e640b8874d1c9af63b042f9c6bed7f4c",
+    "wof:geomhash":"fc06f103f4720a365b888cb157a5e5a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":673069133,
-    "wof:lastmodified":1489010137,
+    "wof:lastmodified":1534187525,
     "wof:name":"Shirley-Eustis House",
     "wof:parent_id":85846283,
     "wof:placetype":"venue",
@@ -75,10 +85,10 @@
     ]
 },
   "bbox": [
-    -71.072304,
-    42.3237,
-    -71.072304,
-    42.3237
+    -71.07167,
+    42.32367,
+    -71.07167,
+    42.32367
 ],
-  "geometry": {"coordinates":[-71.072304,42.3237],"type":"Point"}
+  "geometry": {"coordinates":[-71.07167,42.32367],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 689169661,
   "type": "Feature",
   "properties": {
-    "addr:full":"50 Goddard Avenue Brookline MA 02445",
+    "addr:city":"Brookline",
+    "addr:full":"50 Goddard Ave Brookline, Ma 02445",
+    "addr:house_number":"50",
     "addr:housenumber":"50",
+    "addr:phone":"+1 617-522-2800",
     "addr:postcode":"02445",
+    "addr:road":"Goddard Ave",
+    "addr:state":"MA",
     "addr:street":"Goddard Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.129627,42.318639,-71.129627,42.318639",
-    "geom:latitude":42.318639,
-    "geom:longitude":-71.129627,
+    "geom:bbox":"-71.11127,42.3137,-71.11127,42.3137",
+    "geom:latitude":42.3137,
+    "geom:longitude":-71.11127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"50 Goddard Avenue",
     "sg:city":"Brookline",
     "sg:classifiers":[
@@ -35,7 +41,11 @@
     "sg:tags":[
         "information"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526195,
+        102530741
+    ],
     "wof:belongsto":[
         85876523,
         102191575,
@@ -47,11 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500083,
         "sg:id":"SG_7MP6zVaKwtxo507cI6PHXR_42.318639_-71.129627@1303262228"
     },
     "wof:country":"US",
     "wof:created":1461741407,
-    "wof:geomhash":"e79d3b695b4cd9a7688d897e326c7498",
+    "wof:geomhash":"1f4a4a45a9ad77d89809f1be66c11d30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +76,7 @@
         }
     ],
     "wof:id":689169661,
-    "wof:lastmodified":1472625559,
+    "wof:lastmodified":1534187524,
     "wof:name":"Maliotis Cultural Center",
     "wof:parent_id":85876523,
     "wof:placetype":"venue",
@@ -77,10 +88,10 @@
     ]
 },
   "bbox": [
-    -71.129627,
-    42.318639,
-    -71.129627,
-    42.318639
+    -71.11127,
+    42.3137,
+    -71.11127,
+    42.3137
 ],
-  "geometry": {"coordinates":[-71.129627,42.318639],"type":"Point"}
+  "geometry": {"coordinates":[-71.11127,42.3137],"type":"Point"}
 }

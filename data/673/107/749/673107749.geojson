@@ -2,19 +2,25 @@
   "id": 673107749,
   "type": "Feature",
   "properties": {
-    "addr:full":"697 Longmeadow St Longmeadow MA 01106",
+    "addr:city":"Longmeadow",
+    "addr:full":"697 Longmeadow Street Longmeadow, Ma 01106",
+    "addr:house_number":"697",
     "addr:housenumber":"697",
+    "addr:phone":"+1 413-567-3600",
     "addr:postcode":"01106",
+    "addr:road":"Longmeadow Street",
+    "addr:state":"MA",
     "addr:street":"Longmeadow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-72.582518,42.052094,-72.582518,42.052094",
-    "geom:latitude":42.052094,
-    "geom:longitude":-72.582518,
+    "geom:bbox":"-72.58222,42.05291,-72.58222,42.05291",
+    "geom:latitude":42.05291,
+    "geom:longitude":-72.58222,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"697 Longmeadow St",
     "sg:city":"Longmeadow",
     "sg:classifiers":[
@@ -37,7 +43,11 @@
         "consultant",
         "galleries"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531721,
+        102532701
+    ],
     "wof:belongsto":[
         85688645,
         102191575,
@@ -48,11 +58,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500659,
         "sg:id":"SG_6PGIC00meC4qKnEG7VfTKp_42.052094_-72.582518@1303262184"
     },
     "wof:country":"US",
     "wof:created":1461733932,
-    "wof:geomhash":"b340d9b714c0dba77057e3efe252bc79",
+    "wof:geomhash":"9a4b2c060c00d7bf6b950c31af04c7de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,8 +76,8 @@
         }
     ],
     "wof:id":673107749,
-    "wof:lastmodified":1492103555,
-    "wof:name":"Longmeadow Historical Society, Inc",
+    "wof:lastmodified":1534187524,
+    "wof:name":"Longmeadow Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -78,10 +89,10 @@
     ]
 },
   "bbox": [
-    -72.582518,
-    42.052094,
-    -72.582518,
-    42.052094
+    -72.58222,
+    42.05291,
+    -72.58222,
+    42.05291
 ],
-  "geometry": {"coordinates":[-72.58251799999999,42.052094],"type":"Point"}
+  "geometry": {"coordinates":[-72.58222000000001,42.05291],"type":"Point"}
 }

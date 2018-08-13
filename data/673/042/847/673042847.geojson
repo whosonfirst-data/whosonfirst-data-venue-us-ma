@@ -2,18 +2,24 @@
   "id": 673042847,
   "type": "Feature",
   "properties": {
-    "addr:full":"42 Summer St Plymouth MA 02360",
+    "addr:city":"Plymouth",
+    "addr:full":"42 Summer St Plymouth, Ma 02360-3456",
+    "addr:house_number":"42",
     "addr:housenumber":"42",
-    "addr:postcode":"02360",
+    "addr:phone":"+1 508-747-1240",
+    "addr:postcode":"02360-3456",
+    "addr:road":"Summer St",
+    "addr:state":"MA",
     "addr:street":"Summer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-70.665001,41.954399,-70.665001,41.954399",
-    "geom:latitude":41.954399,
-    "geom:longitude":-70.665001,
+    "geom:bbox":"-70.66453,41.95439,-70.66453,41.95439",
+    "geom:latitude":41.95439,
+    "geom:longitude":-70.66453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"42 Summer St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:postcode":"02360",
     "sg:province":"MA",
     "sg:website":"www.sparrowhouse.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85827215,
         102191575,
@@ -40,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500333,
         "sg:id":"SG_1qeJGIzHKyMRK7SwrFfCJf_41.954021_-70.665173@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732606,
-    "wof:geomhash":"cd4f933e0066d71e98325863ce688846",
+    "wof:geomhash":"3ae94c344d2daa26a76fddca10de68fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +66,8 @@
         }
     ],
     "wof:id":673042847,
-    "wof:lastmodified":1472625117,
-    "wof:name":"Sparrow House Inc",
+    "wof:lastmodified":1534187495,
+    "wof:name":"Richard Sparrow House",
     "wof:parent_id":85827215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -68,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.665001,
-    41.954399,
-    -70.665001,
-    41.954399
+    -70.66453,
+    41.95439,
+    -70.66453,
+    41.95439
 ],
-  "geometry": {"coordinates":[-70.665001,41.954399],"type":"Point"}
+  "geometry": {"coordinates":[-70.66453,41.95439],"type":"Point"}
 }

@@ -2,19 +2,25 @@
   "id": 689008687,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 North Sq Boston MA 02113",
+    "addr:city":"Boston",
+    "addr:full":"1 North Square Boston, Ma 02113-2442",
+    "addr:house_number":"1",
     "addr:housenumber":"1",
-    "addr:postcode":"02113",
+    "addr:phone":"+1 617-720-0100",
+    "addr:postcode":"02113-2442",
+    "addr:road":"North Square",
+    "addr:state":"MA",
     "addr:street":"North Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.053316,42.364197,-71.053316,42.364197",
-    "geom:latitude":42.364197,
-    "geom:longitude":-71.053316,
+    "geom:bbox":"-71.05321,42.36405,-71.05321,42.36405",
+    "geom:latitude":42.36405,
+    "geom:longitude":-71.05321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1 North Sq",
     "sg:city":"Boston",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:phone":"+1 617 720 0100",
     "sg:postcode":"02113",
     "sg:province":"MA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530741
+    ],
     "wof:belongsto":[
         85837591,
         102191575,
@@ -40,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500572,
         "sg:id":"SG_1ZJ90pr8Dpq5MiLeKoV28X_42.364197_-71.053316@1303262206"
     },
     "wof:country":"US",
     "wof:created":1461737441,
-    "wof:geomhash":"83061bcccd0b202d76acb8ce944b6c89",
+    "wof:geomhash":"e0b750733220a255bf2a15132cabd04d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":689008687,
-    "wof:lastmodified":1489002271,
-    "wof:name":"Crosstown Arts",
+    "wof:lastmodified":1534187525,
+    "wof:name":"Crosstown Foundation For The Arts",
     "wof:parent_id":85837591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -68,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.053316,
-    42.364197,
-    -71.053316,
-    42.364197
+    -71.05321,
+    42.36405,
+    -71.05321,
+    42.36405
 ],
-  "geometry": {"coordinates":[-71.053316,42.364197],"type":"Point"}
+  "geometry": {"coordinates":[-71.05321000000001,42.36405],"type":"Point"}
 }

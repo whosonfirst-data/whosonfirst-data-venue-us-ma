@@ -2,18 +2,24 @@
   "id": 672261691,
   "type": "Feature",
   "properties": {
-    "addr:full":"739 Washington St Quincy MA 02169",
+    "addr:city":"Quincy",
+    "addr:full":"739 Washington St Quincy, Ma 02169-7330",
+    "addr:house_number":"739",
     "addr:housenumber":"739",
-    "addr:postcode":"02169",
+    "addr:phone":"+1 617-479-7900",
+    "addr:postcode":"02169-7330",
+    "addr:road":"Washington St",
+    "addr:state":"MA",
     "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-70.968548,42.244832,-70.968548,42.244832",
-    "geom:latitude":42.244832,
-    "geom:longitude":-70.968548,
+    "geom:bbox":"-70.97162,42.24496,-70.97162,42.24496",
+    "geom:latitude":42.24496,
+    "geom:longitude":-70.97162,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"739 Washington St",
     "sg:city":"Quincy",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"02169",
     "sg:province":"MA",
     "sg:website":"www.uss-salem.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530741
+    ],
     "wof:belongsto":[
         85839281,
         102191575,
@@ -40,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500462,
         "sg:id":"SG_5CFtpd9owdguaZCHcIvmBP_42.244832_-70.968548@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461714841,
-    "wof:geomhash":"1e8e6b92a6aa893ecee47d7eef43df4b",
+    "wof:geomhash":"b93ce6bffa3d38655cbe59a38004eb64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":672261691,
-    "wof:lastmodified":1472625387,
-    "wof:name":"U S Naval Ship Building Museum",
+    "wof:lastmodified":1534187525,
+    "wof:name":"United States Naval Shipbuilding Museum",
     "wof:parent_id":85839281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -68,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.968548,
-    42.244832,
-    -70.968548,
-    42.244832
+    -70.97162,
+    42.24496,
+    -70.97162,
+    42.24496
 ],
-  "geometry": {"coordinates":[-70.968548,42.244832],"type":"Point"}
+  "geometry": {"coordinates":[-70.97162,42.24496],"type":"Point"}
 }

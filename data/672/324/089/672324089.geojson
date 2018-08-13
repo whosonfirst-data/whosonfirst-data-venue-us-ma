@@ -2,18 +2,24 @@
   "id": 672324089,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 Union St Manchester MA 01944",
+    "addr:city":"Manchester",
+    "addr:full":"10 Union St Manchester, Ma 01944-1553",
+    "addr:house_number":"10",
     "addr:housenumber":"10",
-    "addr:postcode":"01944",
+    "addr:phone":"+1 978-526-7230",
+    "addr:postcode":"01944-1553",
+    "addr:road":"Union St",
+    "addr:state":"MA",
     "addr:street":"Union St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-70.771312,42.57532,-70.771312,42.57532",
-    "geom:latitude":42.57532,
-    "geom:longitude":-70.771312,
+    "geom:bbox":"-70.77026,42.57524,-70.77026,42.57524",
+    "geom:latitude":42.57524,
+    "geom:longitude":-70.77026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"10 Union St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -31,20 +37,24 @@
         "historical"
     ],
     "sg:website":"www.manchesterhistorical.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527605
+    ],
     "wof:belongsto":[
-        85688645,
+        102084463,
         85633793,
-        85855899,
-        102084463
+        85688645,
+        85855899
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500682,
         "sg:id":"SG_79hKWylMrXrdjxFToFuyYC_42.575320_-70.771312@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461716110,
-    "wof:geomhash":"181aa7d25ac2a0532d6dc7f7e9c4f32c",
+    "wof:geomhash":"db67ab46cfb1db5b8ba82068e61f576f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":672324089,
-    "wof:lastmodified":1472625542,
+    "wof:lastmodified":1534187485,
     "wof:name":"Manchester Historical Society",
     "wof:parent_id":85855899,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     ]
 },
   "bbox": [
-    -70.771312,
-    42.57532,
-    -70.771312,
-    42.57532
+    -70.77026,
+    42.57524,
+    -70.77026,
+    42.57524
 ],
-  "geometry": {"coordinates":[-70.77131199999999,42.57532],"type":"Point"}
+  "geometry": {"coordinates":[-70.77025999999999,42.57524],"type":"Point"}
 }

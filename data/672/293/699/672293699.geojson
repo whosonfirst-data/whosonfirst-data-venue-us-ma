@@ -2,18 +2,24 @@
   "id": 672293699,
   "type": "Feature",
   "properties": {
-    "addr:full":"12 Broad St Lynn MA 01902",
+    "addr:city":"Lynn",
+    "addr:full":"12 Broad St Lynn, Ma 01902",
+    "addr:house_number":"12",
     "addr:housenumber":"12",
+    "addr:phone":"+1 781-593-5634",
     "addr:postcode":"01902",
+    "addr:road":"Broad St",
+    "addr:state":"MA",
     "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-70.934807,42.464179,-70.934807,42.464179",
-    "geom:latitude":42.464179,
-    "geom:longitude":-70.934807,
+    "geom:bbox":"-70.93513,42.46394,-70.93513,42.46394",
+    "geom:latitude":42.46394,
+    "geom:longitude":-70.93513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"12 Broad St",
     "sg:city":"Lynn",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 781 593 5634",
     "sg:postcode":"01902",
     "sg:province":"MA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527605,
+        102530741
+    ],
     "wof:belongsto":[
         420523431,
         102191575,
@@ -39,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500082,
         "sg:id":"SG_5oD8kAhJB9JI400vDecUvL_42.464179_-70.934807@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461715483,
-    "wof:geomhash":"cf6952f2fd2c9f9b4e5aac752fbe1e25",
+    "wof:geomhash":"4107b242a4217762916c539937e4566e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +68,8 @@
         }
     ],
     "wof:id":672293699,
-    "wof:lastmodified":1472625481,
-    "wof:name":"Mary Baker Eddy Historical Hm",
+    "wof:lastmodified":1534187525,
+    "wof:name":"Mary Baker Eddy Historical Home",
     "wof:parent_id":420523431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -67,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.934807,
-    42.464179,
-    -70.934807,
-    42.464179
+    -70.93513,
+    42.46394,
+    -70.93513,
+    42.46394
 ],
-  "geometry": {"coordinates":[-70.93480700000001,42.464179],"type":"Point"}
+  "geometry": {"coordinates":[-70.93513,42.46394],"type":"Point"}
 }

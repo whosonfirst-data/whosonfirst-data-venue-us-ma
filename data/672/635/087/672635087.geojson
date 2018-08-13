@@ -2,18 +2,24 @@
   "id": 672635087,
   "type": "Feature",
   "properties": {
-    "addr:full":"189 Alden St Duxbury MA 02332",
+    "addr:city":"Duxbury",
+    "addr:full":"189 Alden St Duxbury, Ma 02332",
+    "addr:house_number":"189",
     "addr:housenumber":"189",
+    "addr:phone":"+1 781-934-6634",
     "addr:postcode":"02332",
+    "addr:road":"Alden St",
+    "addr:state":"MA",
     "addr:street":"Alden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-70.688726,42.043832,-70.688726,42.043832",
-    "geom:latitude":42.043832,
-    "geom:longitude":-70.688726,
+    "geom:bbox":"-70.68901,42.04329,-70.68901,42.04329",
+    "geom:latitude":42.04329,
+    "geom:longitude":-70.68901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"189 Alden St",
     "sg:city":"Duxbury",
     "sg:classifiers":[
@@ -27,20 +33,22 @@
     "sg:phone":"+1 781 934 6634",
     "sg:postcode":"02332",
     "sg:province":"MA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688645,
+        102084367,
         85633793,
-        85809017,
-        102084367
+        85688645,
+        85809017
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500212,
         "sg:id":"SG_1AAatcusLm9dpnQQ1WA48n_42.043832_-70.688726@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461723395,
-    "wof:geomhash":"76624b6ed850972c366506e7e1eb9a0a",
+    "wof:geomhash":"13cb4cd76c0254980f70347d66bbbfb9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,8 +59,8 @@
         }
     ],
     "wof:id":672635087,
-    "wof:lastmodified":1472625876,
-    "wof:name":"Art Complex Inc At Duxbury",
+    "wof:lastmodified":1534187524,
+    "wof:name":"Art Complex At Duxbury",
     "wof:parent_id":85809017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.688726,
-    42.043832,
-    -70.688726,
-    42.043832
+    -70.68901,
+    42.04329,
+    -70.68901,
+    42.04329
 ],
-  "geometry": {"coordinates":[-70.688726,42.043832],"type":"Point"}
+  "geometry": {"coordinates":[-70.68901,42.04329],"type":"Point"}
 }

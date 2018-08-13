@@ -7,6 +7,7 @@
     "addr:postcode":"02210",
     "addr:street":"Summer St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-71.050301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"268 Summer St",
     "sg:city":"Boston",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461740365,
-    "wof:geomhash":"7458344aa6970f832c35aa4ab4f69748",
+    "wof:geomhash":"02f4347721fc1407cee0427532600034",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,18 @@
         }
     ],
     "wof:id":689140477,
-    "wof:lastmodified":1489011662,
+    "wof:lastmodified":1534187485,
     "wof:name":"Brister & Zandrow Attys",
     "wof:parent_id":1108711411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        689141177,
+        689143539
+    ],
+    "wof:supersedes":[
+        672605565
+    ],
     "wof:tags":[]
 },
   "bbox": [

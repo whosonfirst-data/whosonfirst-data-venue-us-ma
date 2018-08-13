@@ -7,6 +7,7 @@
     "addr:postcode":"02110",
     "addr:street":"High Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-71.054188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"125 High Street",
     "sg:city":"Boston",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461737148,
-    "wof:geomhash":"db8ebcd0a001be72c88ae07bc193e0f4",
+    "wof:geomhash":"06c9291cff7972c5d6f6ebfd827f4416",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,18 @@
         }
     ],
     "wof:id":688993959,
-    "wof:lastmodified":1489011381,
+    "wof:lastmodified":1534187505,
     "wof:name":"Mitchell Kimberley P H Atty",
     "wof:parent_id":1108711407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        688996061
+    ],
+    "wof:supersedes":[
+        688992659,
+        688988793
+    ],
     "wof:tags":[]
 },
   "bbox": [

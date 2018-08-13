@@ -2,19 +2,25 @@
   "id": 673055283,
   "type": "Feature",
   "properties": {
-    "addr:full":"310 Washington St Boston MA 02108",
+    "addr:city":"Boston",
+    "addr:full":"310 Washington Street Boston, Ma 02108",
+    "addr:house_number":"310",
     "addr:housenumber":"310",
+    "addr:phone":"+1 617-482-6439",
     "addr:postcode":"02108",
+    "addr:road":"Washington Street",
+    "addr:state":"MA",
     "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.058724,42.357005,-71.058724,42.357005",
-    "geom:latitude":42.357005,
-    "geom:longitude":-71.058724,
+    "geom:bbox":"-71.05851,42.35708,-71.05851,42.35708",
+    "geom:latitude":42.35708,
+    "geom:longitude":-71.05851,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"310 Washington St",
     "sg:city":"Boston",
     "sg:classifiers":[
@@ -34,7 +40,10 @@
         "attraction"
     ],
     "sg:website":"www.oldsouthmeetinghouse.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530741
+    ],
     "wof:belongsto":[
         1108703039,
         85815133,
@@ -47,11 +56,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500065,
         "sg:id":"SG_3RmkM62Ke3s8TPs443ASbP_42.357042_-71.058603@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461732863,
-    "wof:geomhash":"c937a9e3de0989f3553f55632e15c21e",
+    "wof:geomhash":"fffe8c95958423a70135dfa22f95d9e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +76,7 @@
         }
     ],
     "wof:id":673055283,
-    "wof:lastmodified":1489011286,
+    "wof:lastmodified":1534187497,
     "wof:name":"Old South Meeting House",
     "wof:parent_id":1108703039,
     "wof:placetype":"venue",
@@ -80,10 +90,10 @@
     ]
 },
   "bbox": [
-    -71.058724,
-    42.357005,
-    -71.058724,
-    42.357005
+    -71.05851,
+    42.35708,
+    -71.05851,
+    42.35708
 ],
-  "geometry": {"coordinates":[-71.058724,42.357005],"type":"Point"}
+  "geometry": {"coordinates":[-71.05851,42.35708],"type":"Point"}
 }

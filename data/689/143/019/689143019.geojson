@@ -2,19 +2,25 @@
   "id": 689143019,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Northern Ave Boston MA 02210",
+    "addr:city":"Boston",
+    "addr:full":"100 Northern Ave Boston, Ma 02210-1802",
+    "addr:house_number":"100",
     "addr:housenumber":"100",
-    "addr:postcode":"02210",
+    "addr:phone":"+1 617-478-3100",
+    "addr:postcode":"02210-1802",
+    "addr:road":"Northern Ave",
+    "addr:state":"MA",
     "addr:street":"Northern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.044167,42.3522,-71.044167,42.3522",
-    "geom:latitude":42.3522,
-    "geom:longitude":-71.044167,
+    "geom:bbox":"-71.04204,42.35236,-71.04204,42.35236",
+    "geom:latitude":42.35236,
+    "geom:longitude":-71.04204,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"100 Northern Ave",
     "sg:city":"Boston",
     "sg:classifiers":[
@@ -29,7 +35,10 @@
     "sg:postcode":"02210",
     "sg:province":"MA",
     "sg:website":"www.icaboston.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530741
+    ],
     "wof:belongsto":[
         420780909,
         102191575,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500266,
         "sg:id":"SG_4Uq5GGLcg3B0DCS1fKZCgX_42.352200_-71.044167@1303262224"
     },
     "wof:country":"US",
     "wof:created":1461740440,
-    "wof:geomhash":"4db0791167fc34f37d09397074e3c99c",
+    "wof:geomhash":"4764217381c0dc724c683d3c040c3684",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":689143019,
-    "wof:lastmodified":1489010923,
-    "wof:name":"Institute of Contemporary Art",
+    "wof:lastmodified":1534187485,
+    "wof:name":"Institute Of Contemporary Art",
     "wof:parent_id":420780909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.044167,
-    42.3522,
-    -71.044167,
-    42.3522
+    -71.04204,
+    42.35236,
+    -71.04204,
+    42.35236
 ],
-  "geometry": {"coordinates":[-71.044167,42.3522],"type":"Point"}
+  "geometry": {"coordinates":[-71.04204,42.35236],"type":"Point"}
 }

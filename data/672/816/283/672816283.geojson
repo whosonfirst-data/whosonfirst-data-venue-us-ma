@@ -2,19 +2,25 @@
   "id": 672816283,
   "type": "Feature",
   "properties": {
-    "addr:full":"32 Quincy St Cambridge MA 02138",
+    "addr:city":"Cambridge",
+    "addr:full":"32 Quincy Street Cambridge, Ma 02138",
+    "addr:house_number":"32",
     "addr:housenumber":"32",
+    "addr:phone":"+1 617-495-9400",
     "addr:postcode":"02138",
+    "addr:road":"Quincy Street",
+    "addr:state":"MA",
     "addr:street":"Quincy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.114956,42.372633,-71.114956,42.372633",
-    "geom:latitude":42.372633,
-    "geom:longitude":-71.114956,
+    "geom:bbox":"-71.11216,42.36977,-71.11216,42.36977",
+    "geom:latitude":42.36977,
+    "geom:longitude":-71.11216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"32 Quincy St",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -31,7 +37,11 @@
     "sg:tags":[
         "art"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526195,
+        102530741
+    ],
     "wof:belongsto":[
         85876611,
         102191575,
@@ -43,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409503380,
         "sg:id":"SG_0ZSQ0Tn9Htw9Scb7GNszXS_42.372633_-71.114956@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461727328,
-    "wof:geomhash":"da830908d8e049b9d0f467e0b49aca8d",
+    "wof:geomhash":"96239e2d8638d359ad85db55fe074631",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +72,8 @@
         }
     ],
     "wof:id":672816283,
-    "wof:lastmodified":1489020116,
-    "wof:name":"Harvard University Art Museum",
+    "wof:lastmodified":1534187524,
+    "wof:name":"Harvard University Art Museums",
     "wof:parent_id":85876611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -73,10 +84,10 @@
     ]
 },
   "bbox": [
-    -71.114956,
-    42.372633,
-    -71.114956,
-    42.372633
+    -71.11216,
+    42.36977,
+    -71.11216,
+    42.36977
 ],
-  "geometry": {"coordinates":[-71.11495600000001,42.372633],"type":"Point"}
+  "geometry": {"coordinates":[-71.11216,42.36977],"type":"Point"}
 }

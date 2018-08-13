@@ -7,6 +7,7 @@
     "addr:postcode":"02108",
     "addr:street":"Ashburton Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.061512,42.359279,-71.061512,42.359279",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.061512,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Ashburton Pl",
     "sg:city":"Boston",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461731062,
-    "wof:geomhash":"1e4384b63ac857b8a99caa280499c48a",
+    "wof:geomhash":"ab5f8f508eee0d42dda73a44ddaa8857",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":672981027,
-    "wof:lastmodified":1472626184,
+    "wof:lastmodified":1534187522,
     "wof:name":"Secretary of Commonwealth Mass",
     "wof:parent_id":85815133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        673054339
+    ],
+    "wof:supersedes":[
+        672164633
+    ],
     "wof:tags":[
         "executive"
     ]

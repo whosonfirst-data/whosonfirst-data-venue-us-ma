@@ -2,18 +2,24 @@
   "id": 689211361,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 County St Attleboro MA 02703",
+    "addr:city":"Attleboro",
+    "addr:full":"201 County St Attleboro, Ma 02703-3510",
+    "addr:house_number":"201",
     "addr:housenumber":"201",
-    "addr:postcode":"02703",
+    "addr:phone":"+1 508-222-3047",
+    "addr:postcode":"02703-3510",
+    "addr:road":"County St",
+    "addr:state":"MA",
     "addr:street":"County St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.294174,41.937334,-71.294174,41.937334",
-    "geom:latitude":41.937334,
-    "geom:longitude":-71.294174,
+    "geom:bbox":"-71.29889,41.93495,-71.29889,41.93495",
+    "geom:latitude":41.93495,
+    "geom:longitude":-71.29889,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"201 County St",
     "sg:city":"Attleboro",
     "sg:classifiers":[
@@ -36,7 +42,11 @@
         "attraction"
     ],
     "sg:website":"www.capronparkzoo.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530117,
+        102526855
+    ],
     "wof:belongsto":[
         85814695,
         102191575,
@@ -48,11 +58,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500811,
         "sg:id":"SG_24jN1m5OIL8Tw5CDuTmDgT_41.937334_-71.294174@1303262233"
     },
     "wof:country":"US",
     "wof:created":1461742284,
-    "wof:geomhash":"4a45e0691be31967c51dfd22997cf203",
+    "wof:geomhash":"c0c178a20ef21dcb7167875b369c0a13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +77,7 @@
         }
     ],
     "wof:id":689211361,
-    "wof:lastmodified":1472625603,
+    "wof:lastmodified":1534187494,
     "wof:name":"Capron Park Zoo",
     "wof:parent_id":85814695,
     "wof:placetype":"venue",
@@ -78,10 +89,10 @@
     ]
 },
   "bbox": [
-    -71.294174,
-    41.937334,
-    -71.294174,
-    41.937334
+    -71.29889,
+    41.93495,
+    -71.29889,
+    41.93495
 ],
-  "geometry": {"coordinates":[-71.294174,41.937334],"type":"Point"}
+  "geometry": {"coordinates":[-71.29889,41.93495],"type":"Point"}
 }

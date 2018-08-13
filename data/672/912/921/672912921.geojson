@@ -2,18 +2,24 @@
   "id": 672912921,
   "type": "Feature",
   "properties": {
-    "addr:full":"450 Main St Wilbraham MA 01095",
+    "addr:city":"Wilbraham",
+    "addr:full":"450 Main St Wilbraham, Ma 01095",
+    "addr:house_number":"450",
     "addr:housenumber":"450",
+    "addr:phone":"+1 413-596-4097",
     "addr:postcode":"01095",
+    "addr:road":"Main St",
+    "addr:state":"MA",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.431158,42.122883,-72.431158,42.122883",
-    "geom:latitude":42.122883,
-    "geom:longitude":-72.431158,
+    "geom:bbox":"-72.43112,42.12278,-72.43112,42.12278",
+    "geom:latitude":42.12278,
+    "geom:longitude":-72.43112,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"450 Main St",
     "sg:city":"Wilbraham",
     "sg:classifiers":[
@@ -27,20 +33,24 @@
     "sg:phone":"+1 413 596 4097",
     "sg:postcode":"01095",
     "sg:province":"MA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531721
+    ],
     "wof:belongsto":[
-        85688645,
+        102084627,
         85633793,
-        85834199,
-        102084627
+        85688645,
+        85834199
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500049,
         "sg:id":"SG_7gRYPi1HSPl773IxZTzE5A_42.122883_-72.431158@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461729299,
-    "wof:geomhash":"dcfcabd2bad65734e5ce91665bdf6daa",
+    "wof:geomhash":"94cd2710ed7186045e4948a5fd11d04a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +61,7 @@
         }
     ],
     "wof:id":672912921,
-    "wof:lastmodified":1472626134,
+    "wof:lastmodified":1534187524,
     "wof:name":"Old Meeting House",
     "wof:parent_id":85834199,
     "wof:placetype":"venue",
@@ -61,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.431158,
-    42.122883,
-    -72.431158,
-    42.122883
+    -72.43112,
+    42.12278,
+    -72.43112,
+    42.12278
 ],
-  "geometry": {"coordinates":[-72.431158,42.122883],"type":"Point"}
+  "geometry": {"coordinates":[-72.43112000000001,42.12278],"type":"Point"}
 }

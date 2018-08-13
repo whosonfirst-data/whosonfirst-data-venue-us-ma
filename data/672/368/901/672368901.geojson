@@ -2,19 +2,25 @@
   "id": 672368901,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 Federal St Boston MA 02110",
+    "addr:city":"Boston",
+    "addr:full":"101 Federal St Boston, Ma 02110",
+    "addr:house_number":"101",
     "addr:housenumber":"101",
+    "addr:phone":"+1 617-342-7034",
     "addr:postcode":"02110",
+    "addr:road":"Federal St",
+    "addr:state":"MA",
     "addr:street":"Federal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.056365,42.35462,-71.056365,42.35462",
-    "geom:latitude":42.35462,
-    "geom:longitude":-71.056365,
+    "geom:bbox":"-71.05578,42.35361,-71.05578,42.35361",
+    "geom:latitude":42.35361,
+    "geom:longitude":-71.05578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"101 Federal St",
     "sg:city":"Boston",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:phone":"+1 617 342 7034",
     "sg:postcode":"02110",
     "sg:province":"MA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530741
+    ],
     "wof:belongsto":[
         1108711407,
         85815133,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500127,
         "sg:id":"SG_3vpdJTu3GpH3Kyve5fbdmK_42.354620_-71.056365@1294127905"
     },
     "wof:country":"US",
     "wof:created":1461717180,
-    "wof:geomhash":"ec021ba1c5bb493a225d51fe600206bf",
+    "wof:geomhash":"1e4971c32e1d1b2e5680252e6e399add",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":672368901,
-    "wof:lastmodified":1489011535,
+    "wof:lastmodified":1534187490,
     "wof:name":"Lachase Foundation",
     "wof:parent_id":1108711407,
     "wof:placetype":"venue",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.056365,
-    42.35462,
-    -71.056365,
-    42.35462
+    -71.05578,
+    42.35361,
+    -71.05578,
+    42.35361
 ],
-  "geometry": {"coordinates":[-71.056365,42.35462],"type":"Point"}
+  "geometry": {"coordinates":[-71.05578,42.35361],"type":"Point"}
 }

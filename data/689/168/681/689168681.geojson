@@ -7,6 +7,7 @@
     "addr:postcode":"02445",
     "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-71.115669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"44 Washington St",
     "sg:city":"Brookline",
     "sg:classifiers":[
@@ -76,13 +78,17 @@
         }
     ],
     "wof:id":689168681,
-    "wof:lastmodified":1492100572,
+    "wof:lastmodified":1534187489,
     "wof:name":"Boston Hearing Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        689170981
+    ],
+    "wof:supersedes":[
+        672572179
+    ],
     "wof:tags":[
         "repairing",
         "aids-parts",

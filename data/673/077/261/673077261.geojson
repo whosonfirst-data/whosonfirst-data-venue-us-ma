@@ -2,18 +2,24 @@
   "id": 673077261,
   "type": "Feature",
   "properties": {
-    "addr:full":"193 Salem St Boston MA 02113",
+    "addr:city":"Boston",
+    "addr:full":"193 Salem Street Boston, Ma 02113",
+    "addr:house_number":"193",
     "addr:housenumber":"193",
+    "addr:phone":"+1 617-523-6676",
     "addr:postcode":"02113",
+    "addr:road":"Salem Street",
+    "addr:state":"MA",
     "addr:street":"Salem St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.054604,42.366901,-71.054604,42.366901",
-    "geom:latitude":42.366901,
-    "geom:longitude":-71.054604,
+    "geom:bbox":"-71.05451,42.36649,-71.05451,42.36649",
+    "geom:latitude":42.36649,
+    "geom:longitude":-71.05451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"193 Salem St",
     "sg:city":"Boston",
     "sg:classifiers":[
@@ -34,7 +40,10 @@
         "church"
     ],
     "sg:website":"www.oldnorth.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530741
+    ],
     "wof:belongsto":[
         85837591,
         102191575,
@@ -46,11 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500050,
         "sg:id":"SG_7DTg9SRabbxROjNQw69GVP_42.367004_-71.054212@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733292,
-    "wof:geomhash":"91651d3317f0daa54714ee1b477cec1a",
+    "wof:geomhash":"65d303076ca233003e23c7b18e3db75a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,8 +74,8 @@
         }
     ],
     "wof:id":673077261,
-    "wof:lastmodified":1472625163,
-    "wof:name":"Old North Church",
+    "wof:lastmodified":1534187525,
+    "wof:name":"Old North Church Museum",
     "wof:parent_id":85837591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ma",
@@ -79,10 +89,10 @@
     ]
 },
   "bbox": [
-    -71.054604,
-    42.366901,
-    -71.054604,
-    42.366901
+    -71.05451,
+    42.36649,
+    -71.05451,
+    42.36649
 ],
-  "geometry": {"coordinates":[-71.054604,42.366901],"type":"Point"}
+  "geometry": {"coordinates":[-71.05450999999999,42.36649],"type":"Point"}
 }

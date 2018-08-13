@@ -2,18 +2,24 @@
   "id": 673075699,
   "type": "Feature",
   "properties": {
-    "addr:full":"40 Byam Rd Chelmsford MA 01824",
+    "addr:city":"Chelmsford",
+    "addr:full":"40 Byam Rd Chelmsford, Ma 01824-3827",
+    "addr:house_number":"40",
     "addr:housenumber":"40",
-    "addr:postcode":"01824",
+    "addr:phone":"+1 781-251-5188",
+    "addr:postcode":"01824-3827",
+    "addr:road":"Byam Rd",
+    "addr:state":"MA",
     "addr:street":"Byam Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.370201,42.582199,-71.370201,42.582199",
-    "geom:latitude":42.582199,
-    "geom:longitude":-71.370201,
+    "geom:bbox":"-71.36727,42.58208,-71.36727,42.58208",
+    "geom:latitude":42.58208,
+    "geom:longitude":-71.36727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"40 Byam Rd",
     "sg:city":"Chelmsford",
     "sg:classifiers":[
@@ -27,20 +33,25 @@
     "sg:phone":"+1 978 256 2311",
     "sg:postcode":"01824",
     "sg:province":"MA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526195,
+        102527705
+    ],
     "wof:belongsto":[
-        85688645,
+        102084643,
         85633793,
-        85854471,
-        102084643
+        85688645,
+        85854471
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402500321,
         "sg:id":"SG_6zcjI06amgmWWaYFDuhByN_42.581946_-71.370589@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461733254,
-    "wof:geomhash":"24ad958ebe4af5278af3b2265834bc81",
+    "wof:geomhash":"888d28ca91733bfc7206d1c8d2672728",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +62,7 @@
         }
     ],
     "wof:id":673075699,
-    "wof:lastmodified":1472625186,
+    "wof:lastmodified":1534187524,
     "wof:name":"Chelmsford Historical Society",
     "wof:parent_id":85854471,
     "wof:placetype":"venue",
@@ -61,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.370201,
-    42.582199,
-    -71.370201,
-    42.582199
+    -71.36727,
+    42.58208,
+    -71.36727,
+    42.58208
 ],
-  "geometry": {"coordinates":[-71.37020099999999,42.582199],"type":"Point"}
+  "geometry": {"coordinates":[-71.36727,42.58208],"type":"Point"}
 }
