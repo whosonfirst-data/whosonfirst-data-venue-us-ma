@@ -2,57 +2,61 @@
   "id": 672586885,
   "type": "Feature",
   "properties": {
-    "addr:full":"106 Eastville Ave Oak Bluffs MA 02557",
-    "addr:housenumber":"106",
-    "addr:postcode":"02557",
-    "addr:street":"Eastville Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.58054,41.462285,-70.58054,41.462285",
-    "geom:latitude":41.462285,
-    "geom:longitude":-70.58054,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"106 Eastville Ave",
-    "sg:city":"Oak Bluffs",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Non-profit Organization",
-            "type":"Services"
-        }
+    "addr:full": "106 Eastville Ave Oak Bluffs MA 02557",
+    "addr:housenumber": "106",
+    "addr:postcode": "02557",
+    "addr:street": "Eastville Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.580540,41.462285,-70.580540,41.462285",
+    "geom:latitude": 41.462285,
+    "geom:longitude": -70.58054,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "106 Eastville Ave",
+    "sg:city": "Oak Bluffs",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 693 8539",
-    "sg:postcode":"02557",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_15cHl6Jn5ISPmRwgeqKQPc_41.462285_-70.580540@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 693 8539",
+    "sg:postcode": "02557",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_15cHl6Jn5ISPmRwgeqKQPc_41.462285_-70.580540@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461722304,
-    "wof:geomhash":"d1acccbf0967ccac353c53ba6ed25008",
-    "wof:hierarchy":[],
-    "wof:id":672586885,
-    "wof:lastmodified":1492108403,
-    "wof:name":"Vineyard House",
-    "wof:parent_id":85816119,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461722304,
+    "wof:geomhash": "d1acccbf0967ccac353c53ba6ed25008",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672586885
+      }
+    ],
+    "wof:id": 672586885,
+    "wof:lastmodified": 1724253656,
+    "wof:name": "Vineyard House",
+    "wof:parent_id": 85816119,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.58054,
     41.462285,
     -70.58054,
     41.462285
-],
+  ],
   "geometry": {"coordinates":[-70.58054,41.462285],"type":"Point"}
 }

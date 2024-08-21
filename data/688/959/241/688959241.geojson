@@ -2,58 +2,62 @@
   "id": 688959241,
   "type": "Feature",
   "properties": {
-    "addr:full":"26 Court St Boston MA 02108",
-    "addr:housenumber":"26",
-    "addr:postcode":"02108",
-    "addr:street":"Court St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.058667,42.359069,-71.058667,42.359069",
-    "geom:latitude":42.359069,
-    "geom:longitude":-71.058667,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"26 Court St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "26 Court St Boston MA 02108",
+    "addr:housenumber": "26",
+    "addr:postcode": "02108",
+    "addr:street": "Court St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.058667,42.359069,-71.058667,42.359069",
+    "geom:latitude": 42.359069,
+    "geom:longitude": -71.058667,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "26 Court St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 635 9000",
-    "sg:postcode":"02108",
-    "sg:province":"MA",
-    "sg:website":"boston.k12.ma.us/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_65LPpE2EsLiHB0Wp8fA6QN_42.359069_-71.058667@1303262200"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 635 9000",
+    "sg:postcode": "02108",
+    "sg:province": "MA",
+    "sg:website": "boston.k12.ma.us/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_65LPpE2EsLiHB0Wp8fA6QN_42.359069_-71.058667@1303262200"
     },
-    "wof:country":"US",
-    "wof:created":1461736428,
-    "wof:geomhash":"8c3a85bd608cba2c61dcf60efd9607f9",
-    "wof:hierarchy":[],
-    "wof:id":688959241,
-    "wof:lastmodified":1489011725,
-    "wof:name":"Boston Public Schools",
-    "wof:parent_id":1108711419,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461736428,
+    "wof:geomhash": "f2e0b1ad9ee188ae6f743deabcd7d005",
+    "wof:hierarchy": [
+      {
+        "venue_id": 688959241
+      }
+    ],
+    "wof:id": 688959241,
+    "wof:lastmodified": 1724253629,
+    "wof:name": "Boston Public Schools",
+    "wof:parent_id": 1108711419,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.058667,
     42.359069,
     -71.058667,
     42.359069
-],
+  ],
   "geometry": {"coordinates":[-71.058667,42.359069],"type":"Point"}
 }

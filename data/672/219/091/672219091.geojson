@@ -2,57 +2,61 @@
   "id": 672219091,
   "type": "Feature",
   "properties": {
-    "addr:full":"11 Ridgewood Rd Mattapoisett MA 02739",
-    "addr:housenumber":"11",
-    "addr:postcode":"02739",
-    "addr:street":"Ridgewood Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.828552,41.666574,-70.828552,41.666574",
-    "geom:latitude":41.666574,
-    "geom:longitude":-70.828552,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11 Ridgewood Rd",
-    "sg:city":"Mattapoisett",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Animal Services",
-            "type":"Services"
-        }
+    "addr:full": "11 Ridgewood Rd Mattapoisett MA 02739",
+    "addr:housenumber": "11",
+    "addr:postcode": "02739",
+    "addr:street": "Ridgewood Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.828552,41.666574,-70.828552,41.666574",
+    "geom:latitude": 41.666574,
+    "geom:longitude": -70.828552,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11 Ridgewood Rd",
+    "sg:city": "Mattapoisett",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Animal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 758 9202",
-    "sg:postcode":"02739",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7e12g5oKhScBoCWMB858dt_41.666574_-70.828552@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 758 9202",
+    "sg:postcode": "02739",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7e12g5oKhScBoCWMB858dt_41.666574_-70.828552@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461713952,
-    "wof:geomhash":"d967ac595074dc24a89fe2eeeadb461f",
-    "wof:hierarchy":[],
-    "wof:id":672219091,
-    "wof:lastmodified":1492112999,
-    "wof:name":"Cause For Paws Inc",
-    "wof:parent_id":85809275,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461713952,
+    "wof:geomhash": "d967ac595074dc24a89fe2eeeadb461f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672219091
+      }
+    ],
+    "wof:id": 672219091,
+    "wof:lastmodified": 1724253650,
+    "wof:name": "Cause For Paws Inc",
+    "wof:parent_id": 85809275,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.828552,
     41.666574,
     -70.828552,
     41.666574
-],
+  ],
   "geometry": {"coordinates":[-70.828552,41.666574],"type":"Point"}
 }

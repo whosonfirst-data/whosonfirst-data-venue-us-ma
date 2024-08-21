@@ -2,57 +2,61 @@
   "id": 672716725,
   "type": "Feature",
   "properties": {
-    "addr:full":"89 Main St Edgartown MA 02539",
-    "addr:housenumber":"89",
-    "addr:postcode":"02539",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.514949,41.390272,-70.514949,41.390272",
-    "geom:latitude":41.390272,
-    "geom:longitude":-70.514949,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"89 Main St",
-    "sg:city":"Edgartown",
-    "sg:classifiers":[
-        {
-            "category":"Arts & Performance",
-            "subcategory":"Theater",
-            "type":"Entertainment"
-        }
+    "addr:full": "89 Main St Edgartown MA 02539",
+    "addr:housenumber": "89",
+    "addr:postcode": "02539",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.514949,41.390272,-70.514949,41.390272",
+    "geom:latitude": 41.390272,
+    "geom:longitude": -70.514949,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "89 Main St",
+    "sg:city": "Edgartown",
+    "sg:classifiers": [
+      {
+        "category": "Arts \u0026 Performance",
+        "subcategory": "Theater",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 627 4442",
-    "sg:postcode":"02539",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3g5Ydl1lKs3hRFu9pKkwDv_41.390272_-70.514949@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 627 4442",
+    "sg:postcode": "02539",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3g5Ydl1lKs3hRFu9pKkwDv_41.390272_-70.514949@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461725228,
-    "wof:geomhash":"0e6c5d2484f8fbe650ee3ed0cf2c24b8",
-    "wof:hierarchy":[],
-    "wof:id":672716725,
-    "wof:lastmodified":1492110612,
-    "wof:name":"Old Whaling Church",
-    "wof:parent_id":85811339,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461725228,
+    "wof:geomhash": "0e6c5d2484f8fbe650ee3ed0cf2c24b8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672716725
+      }
+    ],
+    "wof:id": 672716725,
+    "wof:lastmodified": 1724253672,
+    "wof:name": "Old Whaling Church",
+    "wof:parent_id": 85811339,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.514949,
     41.390272,
     -70.514949,
     41.390272
-],
+  ],
   "geometry": {"coordinates":[-70.514949,41.390272],"type":"Point"}
 }

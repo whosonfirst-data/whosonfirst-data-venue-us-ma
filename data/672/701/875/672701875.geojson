@@ -2,62 +2,66 @@
   "id": 672701875,
   "type": "Feature",
   "properties": {
-    "addr:full":"21 Heritage Dr Orleans MA 02653",
-    "addr:housenumber":"21",
-    "addr:postcode":"02653",
-    "addr:street":"Heritage Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-69.98163,41.7545,-69.98163,41.7545",
-    "geom:latitude":41.7545,
-    "geom:longitude":-69.98163,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"21 Heritage Dr",
-    "sg:city":"Orleans",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Special Training",
-            "type":"Public Place"
-        }
+    "addr:full": "21 Heritage Dr Orleans MA 02653",
+    "addr:housenumber": "21",
+    "addr:postcode": "02653",
+    "addr:street": "Heritage Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-69.981630,41.754500,-69.981630,41.754500",
+    "geom:latitude": 41.7545,
+    "geom:longitude": -69.98163,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "21 Heritage Dr",
+    "sg:city": "Orleans",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Special Training",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 255 6610",
-    "sg:postcode":"02653",
-    "sg:province":"MA",
-    "sg:tags":[
-        "educational"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 255 6610",
+    "sg:postcode": "02653",
+    "sg:province": "MA",
+    "sg:tags": [
+      "educational"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0Nmzy4g7pUuzQUe7EUfMTO_41.754500_-69.981630@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0Nmzy4g7pUuzQUe7EUfMTO_41.754500_-69.981630@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461724903,
-    "wof:geomhash":"03f4f906160cabd54d36d6823530fac2",
-    "wof:hierarchy":[],
-    "wof:id":672701875,
-    "wof:lastmodified":1492118278,
-    "wof:name":"New Educational Concepts Inc",
-    "wof:parent_id":85852345,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "educational"
+    "wof:country": "US",
+    "wof:created": 1461724903,
+    "wof:geomhash": "03f4f906160cabd54d36d6823530fac2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672701875
+      }
+    ],
+    "wof:id": 672701875,
+    "wof:lastmodified": 1724253671,
+    "wof:name": "New Educational Concepts Inc",
+    "wof:parent_id": 85852345,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "educational"
     ]
-},
+  },
   "bbox": [
     -69.98163,
     41.7545,
     -69.98163,
     41.7545
-],
+  ],
   "geometry": {"coordinates":[-69.98163,41.7545],"type":"Point"}
 }

@@ -2,57 +2,61 @@
   "id": 672528269,
   "type": "Feature",
   "properties": {
-    "addr:full":"432 Blue Hill Ave Dorchester MA 02121",
-    "addr:housenumber":"432",
-    "addr:postcode":"02121",
-    "addr:street":"Blue Hill Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.082409,42.309687,-71.082409,42.309687",
-    "geom:latitude":42.309687,
-    "geom:longitude":-71.082409,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"432 Blue Hill Ave",
-    "sg:city":"Dorchester",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Furniture",
-            "type":"Retail Goods"
-        }
+    "addr:full": "432 Blue Hill Ave Dorchester MA 02121",
+    "addr:housenumber": "432",
+    "addr:postcode": "02121",
+    "addr:street": "Blue Hill Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.082409,42.309687,-71.082409,42.309687",
+    "geom:latitude": 42.309687,
+    "geom:longitude": -71.082409,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "432 Blue Hill Ave",
+    "sg:city": "Dorchester",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Furniture",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 442 2316",
-    "sg:postcode":"02121",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0XIpxaDwsJ44UpCk8goaSQ_42.309687_-71.082409@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 442 2316",
+    "sg:postcode": "02121",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0XIpxaDwsJ44UpCk8goaSQ_42.309687_-71.082409@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461721021,
-    "wof:geomhash":"528f6761f2320ef139e8e56a64ae4df1",
-    "wof:hierarchy":[],
-    "wof:id":672528269,
-    "wof:lastmodified":1489011743,
-    "wof:name":"Paul's New & Used Furniture",
-    "wof:parent_id":1108711421,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461721021,
+    "wof:geomhash": "74822cd6341e515f972eca5e6e85c5d8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672528269
+      }
+    ],
+    "wof:id": 672528269,
+    "wof:lastmodified": 1724253664,
+    "wof:name": "Paul's New \u0026 Used Furniture",
+    "wof:parent_id": 1108711421,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.082409,
     42.309687,
     -71.082409,
     42.309687
-],
+  ],
   "geometry": {"coordinates":[-71.082409,42.309687],"type":"Point"}
 }

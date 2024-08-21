@@ -2,57 +2,61 @@
   "id": 672568905,
   "type": "Feature",
   "properties": {
-    "addr:full":"11 N Main St Belchertown MA 01007",
-    "addr:housenumber":"11",
-    "addr:postcode":"01007",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.403712,42.280379,-72.403712,42.280379",
-    "geom:latitude":42.280379,
-    "geom:longitude":-72.403712,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11 N Main St",
-    "sg:city":"Belchertown",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "11 N Main St Belchertown MA 01007",
+    "addr:housenumber": "11",
+    "addr:postcode": "01007",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.403712,42.280379,-72.403712,42.280379",
+    "geom:latitude": 42.280379,
+    "geom:longitude": -72.403712,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11 N Main St",
+    "sg:city": "Belchertown",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 323 8228",
-    "sg:postcode":"01007",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_69xcOYoS4fhdgi71NPY4hN_42.280379_-72.403712@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 323 8228",
+    "sg:postcode": "01007",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_69xcOYoS4fhdgi71NPY4hN_42.280379_-72.403712@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461721891,
-    "wof:geomhash":"a9a419803339af9ca71144c002cfb0a5",
-    "wof:hierarchy":[],
-    "wof:id":672568905,
-    "wof:lastmodified":1492116611,
-    "wof:name":"Eastern Dragon",
-    "wof:parent_id":85811671,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461721891,
+    "wof:geomhash": "a9a419803339af9ca71144c002cfb0a5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672568905
+      }
+    ],
+    "wof:id": 672568905,
+    "wof:lastmodified": 1724253666,
+    "wof:name": "Eastern Dragon",
+    "wof:parent_id": 85811671,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -72.403712,
     42.280379,
     -72.403712,
     42.280379
-],
+  ],
   "geometry": {"coordinates":[-72.403712,42.280379],"type":"Point"}
 }

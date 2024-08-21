@@ -2,57 +2,61 @@
   "id": 672384017,
   "type": "Feature",
   "properties": {
-    "addr:full":"137 Myricks St Berkley MA 02718",
-    "addr:housenumber":"137",
-    "addr:postcode":"02718",
-    "addr:street":"Myricks St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.012245,41.83937,-71.012245,41.83937",
-    "geom:latitude":41.83937,
-    "geom:longitude":-71.012245,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"137 Myricks St",
-    "sg:city":"Berkley",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "137 Myricks St Berkley MA 02718",
+    "addr:housenumber": "137",
+    "addr:postcode": "02718",
+    "addr:street": "Myricks St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.012245,41.839370,-71.012245,41.839370",
+    "geom:latitude": 41.83937,
+    "geom:longitude": -71.012245,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "137 Myricks St",
+    "sg:city": "Berkley",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 822 4570",
-    "sg:postcode":"02718",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7KOXt2SPFNcpzIPHAIvrmC_41.839370_-71.012245@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 822 4570",
+    "sg:postcode": "02718",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7KOXt2SPFNcpzIPHAIvrmC_41.839370_-71.012245@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461717509,
-    "wof:geomhash":"f1b26ccaf871ac9d3fd6f03cdb31052e",
-    "wof:hierarchy":[],
-    "wof:id":672384017,
-    "wof:lastmodified":1492116642,
-    "wof:name":"Star Drive-In",
-    "wof:parent_id":85836169,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461717509,
+    "wof:geomhash": "f1b26ccaf871ac9d3fd6f03cdb31052e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672384017
+      }
+    ],
+    "wof:id": 672384017,
+    "wof:lastmodified": 1724253657,
+    "wof:name": "Star Drive-In",
+    "wof:parent_id": 85836169,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.012245,
     41.83937,
     -71.012245,
     41.83937
-],
-  "geometry": {"coordinates":[-71.01224499999999,41.83937],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.012245,41.83937],"type":"Point"}
 }

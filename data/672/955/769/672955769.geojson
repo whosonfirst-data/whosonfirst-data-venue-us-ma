@@ -2,63 +2,67 @@
   "id": 672955769,
   "type": "Feature",
   "properties": {
-    "addr:full":"377 Old Colony Rd Norton MA 02766",
-    "addr:housenumber":"377",
-    "addr:postcode":"02766",
-    "addr:street":"Old Colony Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.236543,41.951841,-71.236543,41.951841",
-    "geom:latitude":41.951841,
-    "geom:longitude":-71.236543,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"377 Old Colony Rd",
-    "sg:city":"Norton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "377 Old Colony Rd Norton MA 02766",
+    "addr:housenumber": "377",
+    "addr:postcode": "02766",
+    "addr:street": "Old Colony Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.236543,41.951841,-71.236543,41.951841",
+    "geom:latitude": 41.951841,
+    "geom:longitude": -71.236543,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "377 Old Colony Rd",
+    "sg:city": "Norton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 222 1074",
-    "sg:postcode":"02766",
-    "sg:province":"MA",
-    "sg:tags":[
-        "home",
-        "convalescent"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 222 1074",
+    "sg:postcode": "02766",
+    "sg:province": "MA",
+    "sg:tags": [
+      "home",
+      "convalescent"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4qQ2KYoxlbtdx9bqVABX4c_41.951841_-71.236543@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4qQ2KYoxlbtdx9bqVABX4c_41.951841_-71.236543@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461730308,
-    "wof:geomhash":"9f699cf10e349affca463971a4915b9d",
-    "wof:hierarchy":[],
-    "wof:id":672955769,
-    "wof:lastmodified":1472626172,
-    "wof:name":"Old Colony Rest Home",
-    "wof:parent_id":420523301,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home",
-        "convalescent"
+    "wof:country": "US",
+    "wof:created": 1461730308,
+    "wof:geomhash": "1a33c66f13ec5e06db18a883e7791fd2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672955769
+      }
+    ],
+    "wof:id": 672955769,
+    "wof:lastmodified": 1724253682,
+    "wof:name": "Old Colony Rest Home",
+    "wof:parent_id": 420523301,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home",
+      "convalescent"
     ]
-},
+  },
   "bbox": [
     -71.236543,
     41.951841,
     -71.236543,
     41.951841
-],
+  ],
   "geometry": {"coordinates":[-71.236543,41.951841],"type":"Point"}
 }

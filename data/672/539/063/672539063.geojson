@@ -2,60 +2,64 @@
   "id": 672539063,
   "type": "Feature",
   "properties": {
-    "addr:full":"12 Cedar St Sturbridge MA 01566",
-    "addr:housenumber":"12",
-    "addr:postcode":"01566",
-    "addr:street":"Cedar St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.097278,42.11428,-72.097278,42.11428",
-    "geom:latitude":42.11428,
-    "geom:longitude":-72.097278,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"12 Cedar St",
-    "sg:city":"Sturbridge",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "12 Cedar St Sturbridge MA 01566",
+    "addr:housenumber": "12",
+    "addr:postcode": "01566",
+    "addr:street": "Cedar St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.097278,42.114280,-72.097278,42.114280",
+    "geom:latitude": 42.11428,
+    "geom:longitude": -72.097278,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "12 Cedar St",
+    "sg:city": "Sturbridge",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 347 5800",
-    "sg:postcode":"01566",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0sdel6kxYTFiWggakGsU6p_42.114280_-72.097278@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 347 5800",
+    "sg:postcode": "01566",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0sdel6kxYTFiWggakGsU6p_42.114280_-72.097278@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461721241,
-    "wof:geomhash":"b5b6a63712b8d199b67819092432fe9e",
-    "wof:hierarchy":[],
-    "wof:id":672539063,
-    "wof:lastmodified":1510941952,
-    "wof:name":"Cedar Street Restaurant",
-    "wof:parent_id":85845279,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        673128231
+    "wof:country": "US",
+    "wof:created": 1461721241,
+    "wof:geomhash": "b5b6a63712b8d199b67819092432fe9e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672539063
+      }
     ],
-    "wof:tags":[]
-},
+    "wof:id": 672539063,
+    "wof:lastmodified": 1724253665,
+    "wof:name": "Cedar Street Restaurant",
+    "wof:parent_id": 85845279,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      673128231
+    ],
+    "wof:tags": []
+  },
   "bbox": [
     -72.097278,
     42.11428,
     -72.097278,
     42.11428
-],
+  ],
   "geometry": {"coordinates":[-72.097278,42.11428],"type":"Point"}
 }

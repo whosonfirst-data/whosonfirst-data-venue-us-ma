@@ -2,62 +2,66 @@
   "id": 672159421,
   "type": "Feature",
   "properties": {
-    "addr:full":"51 Glen St Whitman MA 02382",
-    "addr:housenumber":"51",
-    "addr:postcode":"02382",
-    "addr:street":"Glen St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.943129,42.078586,-70.943129,42.078586",
-    "geom:latitude":42.078586,
-    "geom:longitude":-70.943129,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"51 Glen St",
-    "sg:city":"Whitman",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "51 Glen St Whitman MA 02382",
+    "addr:housenumber": "51",
+    "addr:postcode": "02382",
+    "addr:street": "Glen St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.943129,42.078586,-70.943129,42.078586",
+    "geom:latitude": 42.078586,
+    "geom:longitude": -70.943129,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "51 Glen St",
+    "sg:city": "Whitman",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 447 5000",
-    "sg:postcode":"02382",
-    "sg:province":"MA",
-    "sg:tags":[
-        "airport"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 447 5000",
+    "sg:postcode": "02382",
+    "sg:province": "MA",
+    "sg:tags": [
+      "airport"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5cmNH3YCDLyb3VNClQNwti_42.078586_-70.943129@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5cmNH3YCDLyb3VNClQNwti_42.078586_-70.943129@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461712644,
-    "wof:geomhash":"913fbea72c8e8aba8b3d19dbc5257d6f",
-    "wof:hierarchy":[],
-    "wof:id":672159421,
-    "wof:lastmodified":1492107343,
-    "wof:name":"BNR Airport Svc",
-    "wof:parent_id":85803927,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "airport"
+    "wof:country": "US",
+    "wof:created": 1461712644,
+    "wof:geomhash": "913fbea72c8e8aba8b3d19dbc5257d6f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672159421
+      }
+    ],
+    "wof:id": 672159421,
+    "wof:lastmodified": 1724253635,
+    "wof:name": "BNR Airport Svc",
+    "wof:parent_id": 85803927,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
     ]
-},
+  },
   "bbox": [
     -70.943129,
     42.078586,
     -70.943129,
     42.078586
-],
+  ],
   "geometry": {"coordinates":[-70.943129,42.078586],"type":"Point"}
 }

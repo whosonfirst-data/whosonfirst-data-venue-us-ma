@@ -2,61 +2,65 @@
   "id": 672253163,
   "type": "Feature",
   "properties": {
-    "addr:full":"3 Spring St Marion MA 02738",
-    "addr:housenumber":"3",
-    "addr:postcode":"02738",
-    "addr:street":"Spring St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.766498,41.70248,-70.766498,41.70248",
-    "geom:latitude":41.70248,
-    "geom:longitude":-70.766498,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3 Spring St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "3 Spring St Marion MA 02738",
+    "addr:housenumber": "3",
+    "addr:postcode": "02738",
+    "addr:street": "Spring St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.766498,41.702480,-70.766498,41.702480",
+    "geom:latitude": 41.70248,
+    "geom:longitude": -70.766498,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3 Spring St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 748 0744",
-    "sg:postcode":"02738",
-    "sg:province":"MA",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 748 0744",
+    "sg:postcode": "02738",
+    "sg:province": "MA",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4A6aPTQYcY4uBFWSI3mhQD_41.702480_-70.766498@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4A6aPTQYcY4uBFWSI3mhQD_41.702480_-70.766498@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461714674,
-    "wof:geomhash":"f672b5720def4d5f46cd40e0fd5ca31c",
-    "wof:hierarchy":[],
-    "wof:id":672253163,
-    "wof:lastmodified":1472625334,
-    "wof:name":"Marion Dental Health Assoc",
-    "wof:parent_id":420523877,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461714674,
+    "wof:geomhash": "527eaed6f905b6640624d730d35134c9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672253163
+      }
+    ],
+    "wof:id": 672253163,
+    "wof:lastmodified": 1724253651,
+    "wof:name": "Marion Dental Health Assoc",
+    "wof:parent_id": 420523877,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -70.766498,
     41.70248,
     -70.766498,
     41.70248
-],
+  ],
   "geometry": {"coordinates":[-70.766498,41.70248],"type":"Point"}
 }

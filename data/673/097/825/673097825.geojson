@@ -2,63 +2,67 @@
   "id": 673097825,
   "type": "Feature",
   "properties": {
-    "addr:full":"1379 Fall River Ave Seekonk MA 02771",
-    "addr:housenumber":"1379",
-    "addr:postcode":"02771",
-    "addr:street":"Fall River Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.320148,41.788996,-71.320148,41.788996",
-    "geom:latitude":41.788996,
-    "geom:longitude":-71.320148,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1379 Fall River Ave",
-    "sg:city":"Seekonk",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1379 Fall River Ave Seekonk MA 02771",
+    "addr:housenumber": "1379",
+    "addr:postcode": "02771",
+    "addr:street": "Fall River Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.320148,41.788996,-71.320148,41.788996",
+    "geom:latitude": 41.788996,
+    "geom:longitude": -71.320148,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1379 Fall River Ave",
+    "sg:city": "Seekonk",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/seekonk/249031-titos-cantina/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 336 2400",
-    "sg:postcode":"02771",
-    "sg:province":"MA",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/ma/seekonk/249031-titos-cantina/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 336 2400",
+    "sg:postcode": "02771",
+    "sg:province": "MA",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7XYdoBAEgv7ki7FT2Xf91H_41.788658_-71.320085@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7XYdoBAEgv7ki7FT2Xf91H_41.788658_-71.320085@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461733716,
-    "wof:geomhash":"e8e7a6345b939b045f5fd6cdb2a877a5",
-    "wof:hierarchy":[],
-    "wof:id":673097825,
-    "wof:lastmodified":1492105160,
-    "wof:name":"Tito's Cantina",
-    "wof:parent_id":85850069,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:country": "US",
+    "wof:created": 1461733716,
+    "wof:geomhash": "e8e7a6345b939b045f5fd6cdb2a877a5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673097825
+      }
+    ],
+    "wof:id": 673097825,
+    "wof:lastmodified": 1724253640,
+    "wof:name": "Tito's Cantina",
+    "wof:parent_id": 85850069,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -71.320148,
     41.788996,
     -71.320148,
     41.788996
-],
+  ],
   "geometry": {"coordinates":[-71.320148,41.788996],"type":"Point"}
 }

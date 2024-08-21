@@ -2,57 +2,61 @@
   "id": 672668869,
   "type": "Feature",
   "properties": {
-    "addr:full":"47 Main St Edgartown MA 02539",
-    "addr:housenumber":"47",
-    "addr:postcode":"02539",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.513535,41.389656,-70.513535,41.389656",
-    "geom:latitude":41.389656,
-    "geom:longitude":-70.513535,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"47 Main St",
-    "sg:city":"Edgartown",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Hardware",
-            "type":"Retail Goods"
-        }
+    "addr:full": "47 Main St Edgartown MA 02539",
+    "addr:housenumber": "47",
+    "addr:postcode": "02539",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.513535,41.389656,-70.513535,41.389656",
+    "geom:latitude": 41.389656,
+    "geom:longitude": -70.513535,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "47 Main St",
+    "sg:city": "Edgartown",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Hardware",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 627 4338",
-    "sg:postcode":"02539",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5viHpnDUChBO3BjZVQAnFb_41.389656_-70.513535@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 627 4338",
+    "sg:postcode": "02539",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5viHpnDUChBO3BjZVQAnFb_41.389656_-70.513535@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461724141,
-    "wof:geomhash":"3a3d536d80bc405b7126c68e297f201d",
-    "wof:hierarchy":[],
-    "wof:id":672668869,
-    "wof:lastmodified":1492115871,
-    "wof:name":"Edgartown Hardware Inc",
-    "wof:parent_id":85811339,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461724141,
+    "wof:geomhash": "3a3d536d80bc405b7126c68e297f201d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672668869
+      }
+    ],
+    "wof:id": 672668869,
+    "wof:lastmodified": 1724253669,
+    "wof:name": "Edgartown Hardware Inc",
+    "wof:parent_id": 85811339,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.513535,
     41.389656,
     -70.513535,
     41.389656
-],
+  ],
   "geometry": {"coordinates":[-70.513535,41.389656],"type":"Point"}
 }

@@ -2,57 +2,61 @@
   "id": 672643247,
   "type": "Feature",
   "properties": {
-    "addr:full":"45 Main St Edgartown MA 02539",
-    "addr:housenumber":"45",
-    "addr:postcode":"02539",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.513586,41.389682,-70.513586,41.389682",
-    "geom:latitude":41.389682,
-    "geom:longitude":-70.513586,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"45 Main St",
-    "sg:city":"Edgartown",
-    "sg:classifiers":[
-        {
-            "category":"Cinema",
-            "subcategory":"Movie Theater",
-            "type":"Entertainment"
-        }
+    "addr:full": "45 Main St Edgartown MA 02539",
+    "addr:housenumber": "45",
+    "addr:postcode": "02539",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.513586,41.389682,-70.513586,41.389682",
+    "geom:latitude": 41.389682,
+    "geom:longitude": -70.513586,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "45 Main St",
+    "sg:city": "Edgartown",
+    "sg:classifiers": [
+      {
+        "category": "Cinema",
+        "subcategory": "Movie Theater",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 627 6689",
-    "sg:postcode":"02539",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4VVl7RELI3rWez4uIfuQDF_41.389682_-70.513586@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 627 6689",
+    "sg:postcode": "02539",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4VVl7RELI3rWez4uIfuQDF_41.389682_-70.513586@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461723568,
-    "wof:geomhash":"d4bbb42f7b0c4d12d7803c75b9ec196a",
-    "wof:hierarchy":[],
-    "wof:id":672643247,
-    "wof:lastmodified":1492112079,
-    "wof:name":"At The Movies",
-    "wof:parent_id":85811339,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461723568,
+    "wof:geomhash": "d4bbb42f7b0c4d12d7803c75b9ec196a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672643247
+      }
+    ],
+    "wof:id": 672643247,
+    "wof:lastmodified": 1724253668,
+    "wof:name": "At The Movies",
+    "wof:parent_id": 85811339,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.513586,
     41.389682,
     -70.513586,
     41.389682
-],
+  ],
   "geometry": {"coordinates":[-70.513586,41.389682],"type":"Point"}
 }

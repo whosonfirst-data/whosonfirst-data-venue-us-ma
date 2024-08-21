@@ -2,64 +2,68 @@
   "id": 672343399,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 Granite State Ct Brewster MA 02631",
-    "addr:housenumber":"20",
-    "addr:postcode":"02631",
-    "addr:street":"Granite State Ct",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.008745,41.77458,-70.008745,41.77458",
-    "geom:latitude":41.77458,
-    "geom:longitude":-70.008745,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20 Granite State Ct",
-    "sg:city":"Brewster",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "20 Granite State Ct Brewster MA 02631",
+    "addr:housenumber": "20",
+    "addr:postcode": "02631",
+    "addr:street": "Granite State Ct",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.008745,41.774580,-70.008745,41.774580",
+    "geom:latitude": 41.77458,
+    "geom:longitude": -70.008745,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "20 Granite State Ct",
+    "sg:city": "Brewster",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 255 7200",
-    "sg:postcode":"02631",
-    "sg:province":"MA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 255 7200",
+    "sg:postcode": "02631",
+    "sg:province": "MA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_46lsL7EJo1vp0qjA0NNLDV_41.774580_-70.008745@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_46lsL7EJo1vp0qjA0NNLDV_41.774580_-70.008745@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461716570,
-    "wof:geomhash":"81f2f3ac86ee06e38a14b5b39617378b",
-    "wof:hierarchy":[],
-    "wof:id":672343399,
-    "wof:lastmodified":1492108731,
-    "wof:name":"Brewster Medical Assoc",
-    "wof:parent_id":85836257,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461716570,
+    "wof:geomhash": "81f2f3ac86ee06e38a14b5b39617378b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672343399
+      }
+    ],
+    "wof:id": 672343399,
+    "wof:lastmodified": 1724253655,
+    "wof:name": "Brewster Medical Assoc",
+    "wof:parent_id": 85836257,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -70.008745,
     41.77458,
     -70.008745,
     41.77458
-],
+  ],
   "geometry": {"coordinates":[-70.008745,41.77458],"type":"Point"}
 }

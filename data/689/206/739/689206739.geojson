@@ -2,57 +2,61 @@
   "id": 689206739,
   "type": "Feature",
   "properties": {
-    "addr:full":"1484 Orleans Rd Harwich MA 02645",
-    "addr:housenumber":"1484",
-    "addr:postcode":"02645",
-    "addr:street":"Orleans Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.019203,41.7104,-70.019203,41.7104",
-    "geom:latitude":41.7104,
-    "geom:longitude":-70.019203,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1484 Orleans Rd",
-    "sg:city":"Harwich",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Post Office",
-            "type":"Public Place"
-        }
+    "addr:full": "1484 Orleans Rd Harwich MA 02645",
+    "addr:housenumber": "1484",
+    "addr:postcode": "02645",
+    "addr:street": "Orleans Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.019203,41.710400,-70.019203,41.710400",
+    "geom:latitude": 41.7104,
+    "geom:longitude": -70.019203,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1484 Orleans Rd",
+    "sg:city": "Harwich",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Post Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 430 2530",
-    "sg:postcode":"02645",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3GCRuA54hRXG2qjXlVplnY_41.710400_-70.019203@1303262233"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 430 2530",
+    "sg:postcode": "02645",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3GCRuA54hRXG2qjXlVplnY_41.710400_-70.019203@1303262233"
     },
-    "wof:country":"US",
-    "wof:created":1461742189,
-    "wof:geomhash":"e7b130b376a04954eb4fea30ebbaf0b8",
-    "wof:hierarchy":[],
-    "wof:id":689206739,
-    "wof:lastmodified":1492098392,
-    "wof:name":"Harwich Post Office",
-    "wof:parent_id":85849499,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461742189,
+    "wof:geomhash": "e7b130b376a04954eb4fea30ebbaf0b8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689206739
+      }
+    ],
+    "wof:id": 689206739,
+    "wof:lastmodified": 1724253645,
+    "wof:name": "Harwich Post Office",
+    "wof:parent_id": 85849499,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.019203,
     41.7104,
     -70.019203,
     41.7104
-],
+  ],
   "geometry": {"coordinates":[-70.019203,41.7104],"type":"Point"}
 }

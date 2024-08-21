@@ -2,61 +2,65 @@
   "id": 672573831,
   "type": "Feature",
   "properties": {
-    "addr:full":"79 Augsburg Dr Attleboro MA 02703",
-    "addr:housenumber":"79",
-    "addr:postcode":"02703",
-    "addr:street":"Augsburg Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.225354,41.928705,-71.225354,41.928705",
-    "geom:latitude":41.928705,
-    "geom:longitude":-71.225354,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"79 Augsburg Dr",
-    "sg:city":"Attleboro",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "79 Augsburg Dr Attleboro MA 02703",
+    "addr:housenumber": "79",
+    "addr:postcode": "02703",
+    "addr:street": "Augsburg Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.225354,41.928705,-71.225354,41.928705",
+    "geom:latitude": 41.928705,
+    "geom:longitude": -71.225354,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "79 Augsburg Dr",
+    "sg:city": "Attleboro",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1   ",
-    "sg:postcode":"02703",
-    "sg:province":"MA",
-    "sg:tags":[
-        "residential"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1   ",
+    "sg:postcode": "02703",
+    "sg:province": "MA",
+    "sg:tags": [
+      "residential"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_24aB2k4gOOPjG3fnvCdPAF_41.928705_-71.225354@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_24aB2k4gOOPjG3fnvCdPAF_41.928705_-71.225354@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461721990,
-    "wof:geomhash":"3618a34d26bd7a99b15b2bbe6a80ef3c",
-    "wof:hierarchy":[],
-    "wof:id":672573831,
-    "wof:lastmodified":1472625839,
-    "wof:name":"Amt Construction Inc",
-    "wof:parent_id":420523301,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "residential"
+    "wof:country": "US",
+    "wof:created": 1461721990,
+    "wof:geomhash": "1aa5519e3a5423720e891864502c9927",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672573831
+      }
+    ],
+    "wof:id": 672573831,
+    "wof:lastmodified": 1724253650,
+    "wof:name": "Amt Construction Inc",
+    "wof:parent_id": 420523301,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "residential"
     ]
-},
+  },
   "bbox": [
     -71.225354,
     41.928705,
     -71.225354,
     41.928705
-],
+  ],
   "geometry": {"coordinates":[-71.225354,41.928705],"type":"Point"}
 }

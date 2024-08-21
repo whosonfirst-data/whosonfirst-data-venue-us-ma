@@ -2,64 +2,68 @@
   "id": 672143223,
   "type": "Feature",
   "properties": {
-    "addr:full":"312 Bedford St Whitman MA 02382",
-    "addr:housenumber":"312",
-    "addr:postcode":"02382",
-    "addr:street":"Bedford St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.94962,42.064436,-70.94962,42.064436",
-    "geom:latitude":42.064436,
-    "geom:longitude":-70.94962,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"312 Bedford St",
-    "sg:city":"Whitman",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "312 Bedford St Whitman MA 02382",
+    "addr:housenumber": "312",
+    "addr:postcode": "02382",
+    "addr:street": "Bedford St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.949620,42.064436,-70.949620,42.064436",
+    "geom:latitude": 42.064436,
+    "geom:longitude": -70.94962,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "312 Bedford St",
+    "sg:city": "Whitman",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 447 0943",
-    "sg:postcode":"02382",
-    "sg:province":"MA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 447 0943",
+    "sg:postcode": "02382",
+    "sg:province": "MA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1IYeun2ufzQaXx4ws6HLOT_42.064436_-70.949620@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1IYeun2ufzQaXx4ws6HLOT_42.064436_-70.949620@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461712315,
-    "wof:geomhash":"1602f44d761a3aa3e289403b1820e4cc",
-    "wof:hierarchy":[],
-    "wof:id":672143223,
-    "wof:lastmodified":1492112625,
-    "wof:name":"Compass Medical Urgent Care",
-    "wof:parent_id":85803927,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461712315,
+    "wof:geomhash": "1602f44d761a3aa3e289403b1820e4cc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672143223
+      }
+    ],
+    "wof:id": 672143223,
+    "wof:lastmodified": 1724253629,
+    "wof:name": "Compass Medical Urgent Care",
+    "wof:parent_id": 85803927,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -70.94962,
     42.064436,
     -70.94962,
     42.064436
-],
+  ],
   "geometry": {"coordinates":[-70.94962,42.064436],"type":"Point"}
 }

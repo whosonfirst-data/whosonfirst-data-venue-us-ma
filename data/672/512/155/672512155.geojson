@@ -2,57 +2,61 @@
   "id": 672512155,
   "type": "Feature",
   "properties": {
-    "addr:full":"1460 Fall River Ave Seekonk MA 02771",
-    "addr:housenumber":"1460",
-    "addr:postcode":"02771",
-    "addr:street":"Fall River Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.318532,41.787581,-71.318532,41.787581",
-    "geom:latitude":41.787581,
-    "geom:longitude":-71.318532,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1460 Fall River Ave",
-    "sg:city":"Seekonk",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Agent",
-            "type":"Services"
-        }
+    "addr:full": "1460 Fall River Ave Seekonk MA 02771",
+    "addr:housenumber": "1460",
+    "addr:postcode": "02771",
+    "addr:street": "Fall River Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.318532,41.787581,-71.318532,41.787581",
+    "geom:latitude": 41.787581,
+    "geom:longitude": -71.318532,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1460 Fall River Ave",
+    "sg:city": "Seekonk",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Agent",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 336 4000",
-    "sg:postcode":"02771",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1F1cUgJn9qODEFbJRxJl0G_41.787581_-71.318532@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 336 4000",
+    "sg:postcode": "02771",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1F1cUgJn9qODEFbJRxJl0G_41.787581_-71.318532@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461720667,
-    "wof:geomhash":"4836e17c973ecbb78fb676b7c8f60d46",
-    "wof:hierarchy":[],
-    "wof:id":672512155,
-    "wof:lastmodified":1492107774,
-    "wof:name":"Aubin Corp",
-    "wof:parent_id":85850069,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461720667,
+    "wof:geomhash": "4836e17c973ecbb78fb676b7c8f60d46",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672512155
+      }
+    ],
+    "wof:id": 672512155,
+    "wof:lastmodified": 1724253663,
+    "wof:name": "Aubin Corp",
+    "wof:parent_id": 85850069,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.318532,
     41.787581,
     -71.318532,
     41.787581
-],
+  ],
   "geometry": {"coordinates":[-71.318532,41.787581],"type":"Point"}
 }

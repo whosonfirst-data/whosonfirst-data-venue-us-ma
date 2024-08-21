@@ -2,58 +2,62 @@
   "id": 688958279,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 City Hall Square Room 721 Boston MA 02108",
-    "addr:housenumber":"1;721",
-    "addr:postcode":"02108",
-    "addr:street":"City Hall Square Room",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.058043,42.359377,-71.058043,42.359377",
-    "geom:latitude":42.359377,
-    "geom:longitude":-71.058043,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1 City Hall Square Room 721",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"City Hall",
-            "type":"Public Place"
-        }
+    "addr:full": "1 City Hall Square Room 721 Boston MA 02108",
+    "addr:housenumber": "1;721",
+    "addr:postcode": "02108",
+    "addr:street": "City Hall Square Room",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.058043,42.359377,-71.058043,42.359377",
+    "geom:latitude": 42.359377,
+    "geom:longitude": -71.058043,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1 City Hall Square Room 721",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "City Hall",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 635 4680",
-    "sg:postcode":"02108",
-    "sg:province":"MA",
-    "sg:website":"www.cityofboston.gov/transportation",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Heon2XH6Iq2wjh7D5WmIg_42.359377_-71.058043@1303262200"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 635 4680",
+    "sg:postcode": "02108",
+    "sg:province": "MA",
+    "sg:website": "www.cityofboston.gov/transportation",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3Heon2XH6Iq2wjh7D5WmIg_42.359377_-71.058043@1303262200"
     },
-    "wof:country":"US",
-    "wof:created":1461736411,
-    "wof:geomhash":"39eddb100d94705a6fda8d2a22dd85a6",
-    "wof:hierarchy":[],
-    "wof:id":688958279,
-    "wof:lastmodified":1489011707,
-    "wof:name":"Boston Transportation Department",
-    "wof:parent_id":102526589,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461736411,
+    "wof:geomhash": "ed5827d20a789f00ad46dbcbefc503ea",
+    "wof:hierarchy": [
+      {
+        "venue_id": 688958279
+      }
+    ],
+    "wof:id": 688958279,
+    "wof:lastmodified": 1724253629,
+    "wof:name": "Boston Transportation Department",
+    "wof:parent_id": 102526589,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.058043,
     42.359377,
     -71.058043,
     42.359377
-],
+  ],
   "geometry": {"coordinates":[-71.058043,42.359377],"type":"Point"}
 }

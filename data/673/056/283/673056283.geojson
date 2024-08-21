@@ -2,63 +2,67 @@
   "id": 673056283,
   "type": "Feature",
   "properties": {
-    "addr:full":"41 Union St Boston MA 02108",
-    "addr:housenumber":"41",
-    "addr:postcode":"02108",
-    "addr:street":"Union St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.056889,42.361268,-71.056889,42.361268",
-    "geom:latitude":42.361268,
-    "geom:longitude":-71.056889,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"41 Union St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "41 Union St Boston MA 02108",
+    "addr:housenumber": "41",
+    "addr:postcode": "02108",
+    "addr:street": "Union St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.056889,42.361268,-71.056889,42.361268",
+    "geom:latitude": 42.361268,
+    "geom:longitude": -71.056889,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "41 Union St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 227 2750",
-    "sg:postcode":"02108",
-    "sg:province":"MA",
-    "sg:tags":[
-        "seafood"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 227 2750",
+    "sg:postcode": "02108",
+    "sg:province": "MA",
+    "sg:tags": [
+      "seafood"
     ],
-    "sg:website":"www.unionoysterhouse.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3xgngjf0HD0qZ8duYGGfXc_42.361224_-71.056954@1293134755"
+    "sg:website": "www.unionoysterhouse.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3xgngjf0HD0qZ8duYGGfXc_42.361224_-71.056954@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732881,
-    "wof:geomhash":"b4167418f7122c3ae4624ef80aa1e8bb",
-    "wof:hierarchy":[],
-    "wof:id":673056283,
-    "wof:lastmodified":1491265464,
-    "wof:name":"Union Oyster House",
-    "wof:parent_id":102526589,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "seafood"
+    "wof:country": "US",
+    "wof:created": 1461732881,
+    "wof:geomhash": "778ff0a281268e5bf12cb8424111cc9c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673056283
+      }
+    ],
+    "wof:id": 673056283,
+    "wof:lastmodified": 1724253635,
+    "wof:name": "Union Oyster House",
+    "wof:parent_id": 102526589,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "seafood"
     ]
-},
+  },
   "bbox": [
     -71.056889,
     42.361268,
     -71.056889,
     42.361268
-],
+  ],
   "geometry": {"coordinates":[-71.056889,42.361268],"type":"Point"}
 }

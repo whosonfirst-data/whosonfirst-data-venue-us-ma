@@ -2,57 +2,61 @@
   "id": 689222589,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 N Main St Unit 2 Berkley MA 02779",
-    "addr:housenumber":"1;2",
-    "addr:postcode":"02779",
-    "addr:street":"N Main St Unit",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.082451,41.845081,-71.082451,41.845081",
-    "geom:latitude":41.845081,
-    "geom:longitude":-71.082451,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1 N Main St Unit 2",
-    "sg:city":"Berkley",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "1 N Main St Unit 2 Berkley MA 02779",
+    "addr:housenumber": "1;2",
+    "addr:postcode": "02779",
+    "addr:street": "N Main St Unit",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.082451,41.845081,-71.082451,41.845081",
+    "geom:latitude": 41.845081,
+    "geom:longitude": -71.082451,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1 N Main St Unit 2",
+    "sg:city": "Berkley",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 822 7955",
-    "sg:postcode":"02779",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_15xkVg0285HAe9izC1NTp7_41.845081_-71.082451@1303262235"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 822 7955",
+    "sg:postcode": "02779",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_15xkVg0285HAe9izC1NTp7_41.845081_-71.082451@1303262235"
     },
-    "wof:country":"US",
-    "wof:created":1461742541,
-    "wof:geomhash":"0f0825c1b17501cdbf69b299783ac71e",
-    "wof:hierarchy":[],
-    "wof:id":689222589,
-    "wof:lastmodified":1492100203,
-    "wof:name":"Berkley Assessor's Office",
-    "wof:parent_id":85805853,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461742541,
+    "wof:geomhash": "0f0825c1b17501cdbf69b299783ac71e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689222589
+      }
+    ],
+    "wof:id": 689222589,
+    "wof:lastmodified": 1724253648,
+    "wof:name": "Berkley Assessor's Office",
+    "wof:parent_id": 85805853,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.082451,
     41.845081,
     -71.082451,
     41.845081
-],
-  "geometry": {"coordinates":[-71.08245100000001,41.845081],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.082451,41.845081],"type":"Point"}
 }

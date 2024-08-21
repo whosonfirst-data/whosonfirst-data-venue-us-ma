@@ -2,57 +2,61 @@
   "id": 673040201,
   "type": "Feature",
   "properties": {
-    "addr:full":"751 Fall River Ave Seekonk MA 02771",
-    "addr:housenumber":"751",
-    "addr:postcode":"02771",
-    "addr:street":"Fall River Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.333519,41.806568,-71.333519,41.806568",
-    "geom:latitude":41.806568,
-    "geom:longitude":-71.333519,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"751 Fall River Ave",
-    "sg:city":"Seekonk",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "751 Fall River Ave Seekonk MA 02771",
+    "addr:housenumber": "751",
+    "addr:postcode": "02771",
+    "addr:street": "Fall River Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.333519,41.806568,-71.333519,41.806568",
+    "geom:latitude": 41.806568,
+    "geom:longitude": -71.333519,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "751 Fall River Ave",
+    "sg:city": "Seekonk",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 336 5570",
-    "sg:postcode":"02771",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1aVE3TLrEVxRFz6RUCstBi_41.806552_-71.333772@1293134755"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 336 5570",
+    "sg:postcode": "02771",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1aVE3TLrEVxRFz6RUCstBi_41.806552_-71.333772@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732540,
-    "wof:geomhash":"e1588a7d96acf4cec9e5591d242ad35f",
-    "wof:hierarchy":[],
-    "wof:id":673040201,
-    "wof:lastmodified":1492102843,
-    "wof:name":"De Leo's Breakfast House",
-    "wof:parent_id":85831719,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461732540,
+    "wof:geomhash": "e1588a7d96acf4cec9e5591d242ad35f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673040201
+      }
+    ],
+    "wof:id": 673040201,
+    "wof:lastmodified": 1724253633,
+    "wof:name": "De Leo's Breakfast House",
+    "wof:parent_id": 85831719,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.333519,
     41.806568,
     -71.333519,
     41.806568
-],
+  ],
   "geometry": {"coordinates":[-71.333519,41.806568],"type":"Point"}
 }

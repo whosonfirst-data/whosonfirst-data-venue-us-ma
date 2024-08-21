@@ -2,62 +2,66 @@
   "id": 672823345,
   "type": "Feature",
   "properties": {
-    "addr:full":"68 Pease Point Way Edgartown MA 02539",
-    "addr:housenumber":"68",
-    "addr:postcode":"02539",
-    "addr:street":"Pease Point Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.512898,41.392126,-70.512898,41.392126",
-    "geom:latitude":41.392126,
-    "geom:longitude":-70.512898,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"68 Pease Point Way",
-    "sg:city":"Edgartown",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "68 Pease Point Way Edgartown MA 02539",
+    "addr:housenumber": "68",
+    "addr:postcode": "02539",
+    "addr:street": "Pease Point Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.512898,41.392126,-70.512898,41.392126",
+    "geom:latitude": 41.392126,
+    "geom:longitude": -70.512898,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "68 Pease Point Way",
+    "sg:city": "Edgartown",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 627 5167",
-    "sg:postcode":"02539",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 627 5167",
+    "sg:postcode": "02539",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_27d1aU613XKY8FLki8IycH_41.392126_-70.512898@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_27d1aU613XKY8FLki8IycH_41.392126_-70.512898@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461727462,
-    "wof:geomhash":"92193d9cd6608a8af597ab47b97f8327",
-    "wof:hierarchy":[],
-    "wof:id":672823345,
-    "wof:lastmodified":1492113230,
-    "wof:name":"Edgartown Fire Dept",
-    "wof:parent_id":85811339,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461727462,
+    "wof:geomhash": "92193d9cd6608a8af597ab47b97f8327",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672823345
+      }
+    ],
+    "wof:id": 672823345,
+    "wof:lastmodified": 1724253666,
+    "wof:name": "Edgartown Fire Dept",
+    "wof:parent_id": 85811339,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -70.512898,
     41.392126,
     -70.512898,
     41.392126
-],
-  "geometry": {"coordinates":[-70.51289800000001,41.392126],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.512898,41.392126],"type":"Point"}
 }

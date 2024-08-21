@@ -2,61 +2,65 @@
   "id": 672799213,
   "type": "Feature",
   "properties": {
-    "addr:full":"1314 Main St Leominster MA 01453",
-    "addr:housenumber":"1314",
-    "addr:postcode":"01453",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.747471,42.566266,-71.747471,42.566266",
-    "geom:latitude":42.566266,
-    "geom:longitude":-71.747471,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1314 Main St",
-    "sg:city":"Leominster",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1314 Main St Leominster MA 01453",
+    "addr:housenumber": "1314",
+    "addr:postcode": "01453",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.747471,42.566266,-71.747471,42.566266",
+    "geom:latitude": 42.566266,
+    "geom:longitude": -71.747471,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1314 Main St",
+    "sg:city": "Leominster",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 343 7722",
-    "sg:postcode":"01453",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 343 7722",
+    "sg:postcode": "01453",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_13hoSj4A72mCv3rEXmX3kc_42.566266_-71.747471@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_13hoSj4A72mCv3rEXmX3kc_42.566266_-71.747471@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461726961,
-    "wof:geomhash":"273fb9255c2f18dadd0942d39be7d718",
-    "wof:hierarchy":[],
-    "wof:id":672799213,
-    "wof:lastmodified":1472626027,
-    "wof:name":"Village House Of Pizza",
-    "wof:parent_id":420524195,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1461726961,
+    "wof:geomhash": "0887006be459a8502dd114c58f14a943",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672799213
+      }
+    ],
+    "wof:id": 672799213,
+    "wof:lastmodified": 1724253676,
+    "wof:name": "Village House Of Pizza",
+    "wof:parent_id": 420524195,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.747471,
     42.566266,
     -71.747471,
     42.566266
-],
+  ],
   "geometry": {"coordinates":[-71.747471,42.566266],"type":"Point"}
 }

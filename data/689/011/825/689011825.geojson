@@ -2,57 +2,61 @@
   "id": 689011825,
   "type": "Feature",
   "properties": {
-    "addr:full":"80 Canal St Boston MA 02114",
-    "addr:housenumber":"80",
-    "addr:postcode":"02114",
-    "addr:street":"Canal St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.059502,42.3643,-71.059502,42.3643",
-    "geom:latitude":42.3643,
-    "geom:longitude":-71.059502,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"80 Canal St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "80 Canal St Boston MA 02114",
+    "addr:housenumber": "80",
+    "addr:postcode": "02114",
+    "addr:street": "Canal St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.059502,42.364300,-71.059502,42.364300",
+    "geom:latitude": 42.3643,
+    "geom:longitude": -71.059502,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "80 Canal St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 227 7034",
-    "sg:postcode":"02114",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2mnQDFIl0Onf1wr4Q9kzoy_42.364300_-71.059502@1303262207"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 227 7034",
+    "sg:postcode": "02114",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2mnQDFIl0Onf1wr4Q9kzoy_42.364300_-71.059502@1303262207"
     },
-    "wof:country":"US",
-    "wof:created":1461737509,
-    "wof:geomhash":"962a72c09f277048ffe68599f5ed24c5",
-    "wof:hierarchy":[],
-    "wof:id":689011825,
-    "wof:lastmodified":1489012238,
-    "wof:name":"Canal Street Market",
-    "wof:parent_id":102526589,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461737509,
+    "wof:geomhash": "62ac0cbe93e1668da48b54715b45867e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689011825
+      }
+    ],
+    "wof:id": 689011825,
+    "wof:lastmodified": 1724253632,
+    "wof:name": "Canal Street Market",
+    "wof:parent_id": 102526589,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.059502,
     42.3643,
     -71.059502,
     42.3643
-],
-  "geometry": {"coordinates":[-71.05950199999999,42.3643],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.059502,42.3643],"type":"Point"}
 }

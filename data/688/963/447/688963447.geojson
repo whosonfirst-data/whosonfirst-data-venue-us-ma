@@ -2,66 +2,70 @@
   "id": 688963447,
   "type": "Feature",
   "properties": {
-    "addr:full":"33 Union Street Boston MA 02108",
-    "addr:housenumber":"33",
-    "addr:postcode":"02108",
-    "addr:street":"Union Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.057013,42.361138,-71.057013,42.361138",
-    "geom:latitude":42.361138,
-    "geom:longitude":-71.057013,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"33 Union Street",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "33 Union Street Boston MA 02108",
+    "addr:housenumber": "33",
+    "addr:postcode": "02108",
+    "addr:street": "Union Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.057013,42.361138,-71.057013,42.361138",
+    "geom:latitude": 42.361138,
+    "geom:longitude": -71.057013,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "33 Union Street",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 227 7311",
-    "sg:postcode":"02108",
-    "sg:province":"MA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 227 7311",
+    "sg:postcode": "02108",
+    "sg:province": "MA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3wFQ63O6enpu6fk2ZaPbjJ_42.361138_-71.057013@1303262201"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3wFQ63O6enpu6fk2ZaPbjJ_42.361138_-71.057013@1303262201"
     },
-    "wof:country":"US",
-    "wof:created":1461736514,
-    "wof:geomhash":"20b877e4680043b37a9beee172e16976",
-    "wof:hierarchy":[],
-    "wof:id":688963447,
-    "wof:lastmodified":1491266605,
-    "wof:name":"The Wine Cave",
-    "wof:parent_id":102526589,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:country": "US",
+    "wof:created": 1461736514,
+    "wof:geomhash": "c7d546e1c0244e794034ca3f8b976f21",
+    "wof:hierarchy": [
+      {
+        "venue_id": 688963447
+      }
+    ],
+    "wof:id": 688963447,
+    "wof:lastmodified": 1724253629,
+    "wof:name": "The Wine Cave",
+    "wof:parent_id": 102526589,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -71.057013,
     42.361138,
     -71.057013,
     42.361138
-],
+  ],
   "geometry": {"coordinates":[-71.057013,42.361138],"type":"Point"}
 }

@@ -2,57 +2,61 @@
   "id": 688960145,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 Washington Mall Boston MA 02108",
-    "addr:housenumber":"1",
-    "addr:postcode":"02108",
-    "addr:street":"Washington Mall",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.05781,42.35892,-71.05781,42.35892",
-    "geom:latitude":42.35892,
-    "geom:longitude":-71.05781,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1 Washington Mall",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "1 Washington Mall Boston MA 02108",
+    "addr:housenumber": "1",
+    "addr:postcode": "02108",
+    "addr:street": "Washington Mall",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.057810,42.358920,-71.057810,42.358920",
+    "geom:latitude": 42.35892,
+    "geom:longitude": -71.05781,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1 Washington Mall",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 723 6900",
-    "sg:postcode":"02108",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Ju6VrcM0NVXGGZr2QvFHW_42.358920_-71.057810@1303262200"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 723 6900",
+    "sg:postcode": "02108",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2Ju6VrcM0NVXGGZr2QvFHW_42.358920_-71.057810@1303262200"
     },
-    "wof:country":"US",
-    "wof:created":1461736444,
-    "wof:geomhash":"05659f5f1e98006e8d9a81e11e78f084",
-    "wof:hierarchy":[],
-    "wof:id":688960145,
-    "wof:lastmodified":1489011708,
-    "wof:name":"Yurko & Salvesen PC",
-    "wof:parent_id":1108711419,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461736444,
+    "wof:geomhash": "2775ae0a56133fe1f33b33d3d3656f13",
+    "wof:hierarchy": [
+      {
+        "venue_id": 688960145
+      }
+    ],
+    "wof:id": 688960145,
+    "wof:lastmodified": 1724253629,
+    "wof:name": "Yurko \u0026 Salvesen PC",
+    "wof:parent_id": 1108711419,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.05781,
     42.35892,
     -71.05781,
     42.35892
-],
+  ],
   "geometry": {"coordinates":[-71.05781,42.35892],"type":"Point"}
 }

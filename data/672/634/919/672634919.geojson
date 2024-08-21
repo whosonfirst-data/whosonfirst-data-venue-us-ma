@@ -2,57 +2,61 @@
   "id": 672634919,
   "type": "Feature",
   "properties": {
-    "addr:full":"33 Main St Edgartown MA 02539",
-    "addr:housenumber":"33",
-    "addr:postcode":"02539",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.513893,41.389837,-70.513893,41.389837",
-    "geom:latitude":41.389837,
-    "geom:longitude":-70.513893,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"33 Main St",
-    "sg:city":"Edgartown",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Bicycles & Sporting Goods",
-            "type":"Retail Goods"
-        }
+    "addr:full": "33 Main St Edgartown MA 02539",
+    "addr:housenumber": "33",
+    "addr:postcode": "02539",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.513893,41.389837,-70.513893,41.389837",
+    "geom:latitude": 41.389837,
+    "geom:longitude": -70.513893,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "33 Main St",
+    "sg:city": "Edgartown",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Bicycles \u0026 Sporting Goods",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 627 4700",
-    "sg:postcode":"02539",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3yz5RbtpHa0B065BczuHKQ_41.389837_-70.513893@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 627 4700",
+    "sg:postcode": "02539",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3yz5RbtpHa0B065BczuHKQ_41.389837_-70.513893@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461723392,
-    "wof:geomhash":"87039959f436b58f8e6cdcc0dfc32d84",
-    "wof:hierarchy":[],
-    "wof:id":672634919,
-    "wof:lastmodified":1492117141,
-    "wof:name":"Brickman's Inc",
-    "wof:parent_id":85811339,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461723392,
+    "wof:geomhash": "87039959f436b58f8e6cdcc0dfc32d84",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672634919
+      }
+    ],
+    "wof:id": 672634919,
+    "wof:lastmodified": 1724253668,
+    "wof:name": "Brickman's Inc",
+    "wof:parent_id": 85811339,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.513893,
     41.389837,
     -70.513893,
     41.389837
-],
+  ],
   "geometry": {"coordinates":[-70.513893,41.389837],"type":"Point"}
 }

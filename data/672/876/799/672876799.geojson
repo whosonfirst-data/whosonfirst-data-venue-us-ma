@@ -2,57 +2,61 @@
   "id": 672876799,
   "type": "Feature",
   "properties": {
-    "addr:full":"80 Sunset St Pittsfield MA 01201",
-    "addr:housenumber":"80",
-    "addr:postcode":"01201",
-    "addr:street":"Sunset St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.235632,42.493114,-73.235632,42.493114",
-    "geom:latitude":42.493114,
-    "geom:longitude":-73.235632,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"80 Sunset St",
-    "sg:city":"Pittsfield",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"Child Care",
-            "type":"Services"
-        }
+    "addr:full": "80 Sunset St Pittsfield MA 01201",
+    "addr:housenumber": "80",
+    "addr:postcode": "01201",
+    "addr:street": "Sunset St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.235632,42.493114,-73.235632,42.493114",
+    "geom:latitude": 42.493114,
+    "geom:longitude": -73.235632,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "80 Sunset St",
+    "sg:city": "Pittsfield",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Child Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 445 5534",
-    "sg:postcode":"01201",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5pmtwFnZXjWX3hUMe29SX2_42.493114_-73.235632@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 445 5534",
+    "sg:postcode": "01201",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5pmtwFnZXjWX3hUMe29SX2_42.493114_-73.235632@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461728571,
-    "wof:geomhash":"170d638d8ce5b9a0a0fc9974b79cc781",
-    "wof:hierarchy":[],
-    "wof:id":672876799,
-    "wof:lastmodified":1492112345,
-    "wof:name":"Wee Care 4 Little Ones",
-    "wof:parent_id":85829509,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461728571,
+    "wof:geomhash": "170d638d8ce5b9a0a0fc9974b79cc781",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672876799
+      }
+    ],
+    "wof:id": 672876799,
+    "wof:lastmodified": 1724253679,
+    "wof:name": "Wee Care 4 Little Ones",
+    "wof:parent_id": 85829509,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.235632,
     42.493114,
     -73.235632,
     42.493114
-],
+  ],
   "geometry": {"coordinates":[-73.235632,42.493114],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 672810263,
   "type": "Feature",
   "properties": {
-    "addr:full":"140 Walnut Hill Rd Barre MA 01005",
-    "addr:housenumber":"140",
-    "addr:postcode":"01005",
-    "addr:street":"Walnut Hill Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.08244,42.41646,-72.08244,42.41646",
-    "geom:latitude":42.41646,
-    "geom:longitude":-72.08244,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"140 Walnut Hill Rd",
-    "sg:city":"Barre",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "140 Walnut Hill Rd Barre MA 01005",
+    "addr:housenumber": "140",
+    "addr:postcode": "01005",
+    "addr:street": "Walnut Hill Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.082440,42.416460,-72.082440,42.416460",
+    "geom:latitude": 42.41646,
+    "geom:longitude": -72.08244,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "140 Walnut Hill Rd",
+    "sg:city": "Barre",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 355 6141",
-    "sg:postcode":"01005",
-    "sg:province":"MA",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 355 6141",
+    "sg:postcode": "01005",
+    "sg:province": "MA",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2H63HPXyvUQVjgewLBKOBC_42.416460_-72.082440@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2H63HPXyvUQVjgewLBKOBC_42.416460_-72.082440@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461727196,
-    "wof:geomhash":"a97b88d7fda957cfb5fbaeb9a730fbb5",
-    "wof:hierarchy":[],
-    "wof:id":672810263,
-    "wof:lastmodified":1472626038,
-    "wof:name":"Clark's Self Storage",
-    "wof:parent_id":420524129,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461727196,
+    "wof:geomhash": "637f971c2889bafb25893049f13ac609",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672810263
+      }
+    ],
+    "wof:id": 672810263,
+    "wof:lastmodified": 1724253676,
+    "wof:name": "Clark's Self Storage",
+    "wof:parent_id": 420524129,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -72.08244,
     42.41646,
     -72.08244,
     42.41646
-],
-  "geometry": {"coordinates":[-72.08244000000001,42.41646],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-72.08244,42.41646],"type":"Point"}
 }

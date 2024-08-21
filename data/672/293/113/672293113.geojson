@@ -2,56 +2,60 @@
   "id": 672293113,
   "type": "Feature",
   "properties": {
-    "addr:full":"413 Wareham Rd Marion MA 02738",
-    "addr:housenumber":"413",
-    "addr:postcode":"02738",
-    "addr:street":"Wareham Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.771423,41.714223,-70.771423,41.714223",
-    "geom:latitude":41.714223,
-    "geom:longitude":-70.771423,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"413 Wareham Rd",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "413 Wareham Rd Marion MA 02738",
+    "addr:housenumber": "413",
+    "addr:postcode": "02738",
+    "addr:street": "Wareham Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.771423,41.714223,-70.771423,41.714223",
+    "geom:latitude": 41.714223,
+    "geom:longitude": -70.771423,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "413 Wareham Rd",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 748 2382",
-    "sg:postcode":"02738",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7N1uAWlpZps0sdMTAK1Ck0_41.714223_-70.771423@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 748 2382",
+    "sg:postcode": "02738",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7N1uAWlpZps0sdMTAK1Ck0_41.714223_-70.771423@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715467,
-    "wof:geomhash":"9cac3a7f46f395b14f967d2a577aadb2",
-    "wof:hierarchy":[],
-    "wof:id":672293113,
-    "wof:lastmodified":1472625461,
-    "wof:name":"Christy's Of Cape Cod",
-    "wof:parent_id":420523877,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461715467,
+    "wof:geomhash": "980bb0db7f9f60b75d7a45f38e582af3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672293113
+      }
+    ],
+    "wof:id": 672293113,
+    "wof:lastmodified": 1724253653,
+    "wof:name": "Christy's Of Cape Cod",
+    "wof:parent_id": 420523877,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.771423,
     41.714223,
     -70.771423,
     41.714223
-],
+  ],
   "geometry": {"coordinates":[-70.771423,41.714223],"type":"Point"}
 }

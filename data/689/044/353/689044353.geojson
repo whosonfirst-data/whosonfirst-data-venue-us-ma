@@ -2,62 +2,66 @@
   "id": 689044353,
   "type": "Feature",
   "properties": {
-    "addr:full":"90 Washington St Dorchester MA 02121",
-    "addr:housenumber":"90",
-    "addr:postcode":"02121",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.081062,42.305851,-71.081062,42.305851",
-    "geom:latitude":42.305851,
-    "geom:longitude":-71.081062,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"90 Washington St",
-    "sg:city":"Dorchester",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Testing Lab",
-            "type":"Services"
-        }
+    "addr:full": "90 Washington St Dorchester MA 02121",
+    "addr:housenumber": "90",
+    "addr:postcode": "02121",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.081062,42.305851,-71.081062,42.305851",
+    "geom:latitude": 42.305851,
+    "geom:longitude": -71.081062,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "90 Washington St",
+    "sg:city": "Dorchester",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Testing Lab",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 989 6100",
-    "sg:postcode":"02121",
-    "sg:province":"MA",
-    "sg:tags":[
-        "laboratory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 989 6100",
+    "sg:postcode": "02121",
+    "sg:province": "MA",
+    "sg:tags": [
+      "laboratory"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0LUbTCFdiR3rRVcE4drEKP_42.305851_-71.081062@1303262211"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0LUbTCFdiR3rRVcE4drEKP_42.305851_-71.081062@1303262211"
     },
-    "wof:country":"US",
-    "wof:created":1461738174,
-    "wof:geomhash":"a1afc2486b5fc27ce3b874995160c04c",
-    "wof:hierarchy":[],
-    "wof:id":689044353,
-    "wof:lastmodified":1489011744,
-    "wof:name":"Massachusetts Dept Of Public Health",
-    "wof:parent_id":1108711421,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "laboratory"
+    "wof:country": "US",
+    "wof:created": 1461738174,
+    "wof:geomhash": "05ff01e2d421006f5be08b6bbfd0163f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689044353
+      }
+    ],
+    "wof:id": 689044353,
+    "wof:lastmodified": 1724253634,
+    "wof:name": "Massachusetts Dept Of Public Health",
+    "wof:parent_id": 1108711421,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "laboratory"
     ]
-},
+  },
   "bbox": [
     -71.081062,
     42.305851,
     -71.081062,
     42.305851
-],
+  ],
   "geometry": {"coordinates":[-71.081062,42.305851],"type":"Point"}
 }

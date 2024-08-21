@@ -2,57 +2,61 @@
   "id": 673032849,
   "type": "Feature",
   "properties": {
-    "addr:full":"405 Blue Hill Ave Dorchester MA 02121",
-    "addr:housenumber":"405",
-    "addr:postcode":"02121",
-    "addr:street":"Blue Hill Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.0811,42.311199,-71.0811,42.311199",
-    "geom:latitude":42.311199,
-    "geom:longitude":-71.0811,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"405 Blue Hill Ave",
-    "sg:city":"Dorchester",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Barber",
-            "type":"Services"
-        }
+    "addr:full": "405 Blue Hill Ave Dorchester MA 02121",
+    "addr:housenumber": "405",
+    "addr:postcode": "02121",
+    "addr:street": "Blue Hill Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.081100,42.311199,-71.081100,42.311199",
+    "geom:latitude": 42.311199,
+    "geom:longitude": -71.0811,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "405 Blue Hill Ave",
+    "sg:city": "Dorchester",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Barber",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 541 4592",
-    "sg:postcode":"02121",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_00C8WYeFjRQDgPnGodv5EE_42.311175_-71.081458@1293134755"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 541 4592",
+    "sg:postcode": "02121",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_00C8WYeFjRQDgPnGodv5EE_42.311175_-71.081458@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732385,
-    "wof:geomhash":"2e781dcde1c6eb8a4c8aac0a8be361ba",
-    "wof:hierarchy":[],
-    "wof:id":673032849,
-    "wof:lastmodified":1489011741,
-    "wof:name":"Finest Cuts Barber Shop",
-    "wof:parent_id":1108711421,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461732385,
+    "wof:geomhash": "0f754c233a25ca1c54d6b174465c5d31",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673032849
+      }
+    ],
+    "wof:id": 673032849,
+    "wof:lastmodified": 1724253632,
+    "wof:name": "Finest Cuts Barber Shop",
+    "wof:parent_id": 1108711421,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.0811,
     42.311199,
     -71.0811,
     42.311199
-],
-  "geometry": {"coordinates":[-71.08110000000001,42.311199],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.0811,42.311199],"type":"Point"}
 }
