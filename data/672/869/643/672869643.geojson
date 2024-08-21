@@ -2,71 +2,74 @@
   "id": 672869643,
   "type": "Feature",
   "properties": {
-    "addr:full":"113 Lakeview Ave Falmouth MA 02540",
-    "addr:housenumber":"113",
-    "addr:postcode":"02540",
-    "addr:street":"Lakeview Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.616114,41.557003,-70.616114,41.557003",
-    "geom:latitude":41.557003,
-    "geom:longitude":-70.616114,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"113 Lakeview Ave",
-    "sg:city":"Falmouth",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "113 Lakeview Ave Falmouth MA 02540",
+    "addr:housenumber": "113",
+    "addr:postcode": "02540",
+    "addr:street": "Lakeview Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.616114,41.557003,-70.616114,41.557003",
+    "geom:latitude": 41.557003,
+    "geom:longitude": -70.616114,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Lawrence School, 113 Lakeview Ave Falmouth MA US",
+    "ovtr:similarity": 2.5196828842163086,
+    "sg:address": "113 Lakeview Ave",
+    "sg:city": "Falmouth",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 548 0606",
-    "sg:postcode":"02540",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950553,
-        102084379,
-        85818889
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 548 0606",
+    "sg:postcode": "02540",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950553,
+      102084379,
+      85818889
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_61SEsCEZ97y2iinWCwIbfW_41.557003_-70.616114@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a316122950ed039e90a3c4ba4c1c",
+      "sg:id": "SG_61SEsCEZ97y2iinWCwIbfW_41.557003_-70.616114@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461728437,
-    "wof:geomhash":"7776149e33c210f7d292e9a8b0b48672",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "locality_id":85950553,
-            "neighbourhood_id":85818889,
-            "region_id":85688645,
-            "venue_id":672869643
-        }
+    "wof:country": "US",
+    "wof:created": 1461728437,
+    "wof:geomhash": "4481d3cbe3e0cf2c0ad97e535e5562d1",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "locality_id": 85950553,
+        "neighbourhood_id": 85818889,
+        "region_id": 85688645,
+        "venue_id": 672869643
+      }
     ],
-    "wof:id":672869643,
-    "wof:lastmodified":1472626099,
-    "wof:name":"Lawrence School",
-    "wof:parent_id":85818889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672869643,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Lawrence School",
+    "wof:parent_id": 85818889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.616114,
     41.557003,
     -70.616114,
     41.557003
-],
+  ],
   "geometry": {"coordinates":[-70.616114,41.557003],"type":"Point"}
 }

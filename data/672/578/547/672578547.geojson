@@ -2,76 +2,79 @@
   "id": 672578547,
   "type": "Feature",
   "properties": {
-    "addr:full":"5 Industrial Dr Mashpee MA 02649",
-    "addr:housenumber":"5",
-    "addr:postcode":"02649",
-    "addr:street":"Industrial Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.494895,41.604734,-70.494895,41.604734",
-    "geom:latitude":41.604734,
-    "geom:longitude":-70.494895,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5 Industrial Dr",
-    "sg:city":"Mashpee",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "5 Industrial Dr Mashpee MA 02649",
+    "addr:housenumber": "5",
+    "addr:postcode": "02649",
+    "addr:street": "Industrial Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.494895,41.604734,-70.494895,41.604734",
+    "geom:latitude": 41.604734,
+    "geom:longitude": -70.494895,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Mashpee Family Medicine, 5 Industrial Dr Mashpee MA US",
+    "ovtr:similarity": 3.8159549236297607,
+    "sg:address": "5 Industrial Dr",
+    "sg:city": "Mashpee",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 539 6208",
-    "sg:postcode":"02649",
-    "sg:province":"MA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 539 6208",
+    "sg:postcode": "02649",
+    "sg:province": "MA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85841877,
-        102084379
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85841877,
+      102084379
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6fe8rP1M3xrKPsyW2j2Yiq_41.604734_-70.494895@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a31635cc34b103a8faf517d67bd0",
+      "sg:id": "SG_6fe8rP1M3xrKPsyW2j2Yiq_41.604734_-70.494895@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461722090,
-    "wof:geomhash":"ecda7b84ba405278fe30778bf408ecdf",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "neighbourhood_id":85841877,
-            "region_id":85688645,
-            "venue_id":672578547
-        }
+    "wof:country": "US",
+    "wof:created": 1461722090,
+    "wof:geomhash": "7ce2cb2c24b0429c99dfdd450e5afad0",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "neighbourhood_id": 85841877,
+        "region_id": 85688645,
+        "venue_id": 672578547
+      }
     ],
-    "wof:id":672578547,
-    "wof:lastmodified":1472625831,
-    "wof:name":"Mashpee Family Medicine",
-    "wof:parent_id":85841877,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 672578547,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Mashpee Family Medicine",
+    "wof:parent_id": 85841877,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -70.494895,
     41.604734,
     -70.494895,
     41.604734
-],
+  ],
   "geometry": {"coordinates":[-70.494895,41.604734],"type":"Point"}
 }

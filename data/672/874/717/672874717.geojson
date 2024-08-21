@@ -2,75 +2,78 @@
   "id": 672874717,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 Lewis St Lynn MA 01902",
-    "addr:housenumber":"123",
-    "addr:postcode":"01902",
-    "addr:street":"Lewis St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.929942,42.466022,-70.929942,42.466022",
-    "geom:latitude":42.466022,
-    "geom:longitude":-70.929942,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 Lewis St",
-    "sg:city":"Lynn",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "123 Lewis St Lynn MA 01902",
+    "addr:housenumber": "123",
+    "addr:postcode": "01902",
+    "addr:street": "Lewis St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.929942,42.466022,-70.929942,42.466022",
+    "geom:latitude": 42.466022,
+    "geom:longitude": -70.929942,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Brickett Elementary School, 123 Lewis St Lynn MA US",
+    "ovtr:similarity": 2.2362449169158936,
+    "sg:address": "123 Lewis St",
+    "sg:city": "Lynn",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 477 7333",
-    "sg:postcode":"01902",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523431,
-        102191575,
-        404476207,
-        85633793,
-        85950413,
-        102084463,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 477 7333",
+    "sg:postcode": "01902",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523431,
+      102191575,
+      404476207,
+      85633793,
+      85950413,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6EXxGbzysIBdstRgTTnrAY_42.466022_-70.929942@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3076c55394e030fc57d049a887e",
+      "sg:id": "SG_6EXxGbzysIBdstRgTTnrAY_42.466022_-70.929942@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461728530,
-    "wof:geomhash":"9d465499a8b2c69acf8efc81b766ddb5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476207,
-            "locality_id":85950413,
-            "neighbourhood_id":420523431,
-            "region_id":85688645,
-            "venue_id":672874717
-        }
+    "wof:country": "US",
+    "wof:created": 1461728530,
+    "wof:geomhash": "4dd1d31741db14ea7b4c8728af528f19",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476207,
+        "locality_id": 85950413,
+        "neighbourhood_id": 420523431,
+        "region_id": 85688645,
+        "venue_id": 672874717
+      }
     ],
-    "wof:id":672874717,
-    "wof:lastmodified":1472626101,
-    "wof:name":"Brickett Elementary School",
-    "wof:parent_id":420523431,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672874717,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Brickett Elementary School",
+    "wof:parent_id": 420523431,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.929942,
     42.466022,
     -70.929942,
     42.466022
-],
+  ],
   "geometry": {"coordinates":[-70.929942,42.466022],"type":"Point"}
 }

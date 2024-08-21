@@ -2,83 +2,86 @@
   "id": 689200331,
   "type": "Feature",
   "properties": {
-    "addr:full":"474 Main St Hyannis MA 02601",
-    "addr:housenumber":"474",
-    "addr:postcode":"02601",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.285698,41.6521,-70.285698,41.6521",
-    "geom:latitude":41.6521,
-    "geom:longitude":-70.285698,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"474 Main St",
-    "sg:city":"Hyannis",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Candy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "474 Main St Hyannis MA 02601",
+    "addr:housenumber": "474",
+    "addr:postcode": "02601",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.285698,41.652100,-70.285698,41.652100",
+    "geom:latitude": 41.6521,
+    "geom:longitude": -70.285698,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Kandy Korner, 474 Main St Hyannis MA US",
+    "ovtr:similarity": 1.8074480295181274,
+    "sg:address": "474 Main St",
+    "sg:city": "Hyannis",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Candy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 771 5313",
-    "sg:postcode":"02601",
-    "sg:province":"MA",
-    "sg:tags":[
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 771 5313",
+    "sg:postcode": "02601",
+    "sg:province": "MA",
+    "sg:tags": [
+      "store"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811889,
-        102191575,
-        404475893,
-        85633793,
-        85950321,
-        102084379,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811889,
+      102191575,
+      404475893,
+      85633793,
+      85950321,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4948018125,
-        "sg:id":"SG_1SCk8i3LadsXhJMKvr9xek_41.652100_-70.285698@1303262232"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4948018125,
+      "ovtr:id": "08f2a3172d06b589036e28d61e9ffadd",
+      "sg:id": "SG_1SCk8i3LadsXhJMKvr9xek_41.652100_-70.285698@1303262232"
     },
-    "wof:country":"US",
-    "wof:created":1461742045,
-    "wof:geomhash":"6413dfeed589f5c25d57140be041e03b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475893,
-            "locality_id":85950321,
-            "neighbourhood_id":85811889,
-            "region_id":85688645,
-            "venue_id":689200331
-        }
+    "wof:country": "US",
+    "wof:created": 1461742045,
+    "wof:geomhash": "6413dfeed589f5c25d57140be041e03b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475893,
+        "locality_id": 85950321,
+        "neighbourhood_id": 85811889,
+        "region_id": 85688645,
+        "venue_id": 689200331
+      }
     ],
-    "wof:id":689200331,
-    "wof:lastmodified":1510942907,
-    "wof:name":"Kandy Korner",
-    "wof:parent_id":85811889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "store"
+    "wof:id": 689200331,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Kandy Korner",
+    "wof:parent_id": 85811889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "store"
     ]
-},
+  },
   "bbox": [
     -70.285698,
     41.6521,
     -70.285698,
     41.6521
-],
+  ],
   "geometry": {"coordinates":[-70.285698,41.6521],"type":"Point"}
 }

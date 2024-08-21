@@ -2,75 +2,78 @@
   "id": 673068715,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 Jefferson Ave Salem MA 01970",
-    "addr:housenumber":"10",
-    "addr:postcode":"01970",
-    "addr:street":"Jefferson Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.89849,42.515197,-70.89849,42.515197",
-    "geom:latitude":42.515197,
-    "geom:longitude":-70.89849,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10 Jefferson Ave",
-    "sg:city":"Salem",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "10 Jefferson Ave Salem MA 01970",
+    "addr:housenumber": "10",
+    "addr:postcode": "01970",
+    "addr:street": "Jefferson Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.898490,42.515197,-70.898490,42.515197",
+    "geom:latitude": 42.515197,
+    "geom:longitude": -70.89849,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Maria's Place, 10 Jefferson Ave Salem MA US",
+    "ovtr:similarity": 2.908083915710449,
+    "sg:address": "10 Jefferson Ave",
+    "sg:city": "Salem",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 744 1817",
-    "sg:postcode":"01970",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523451,
-        102191575,
-        404476213,
-        85633793,
-        85950403,
-        102084463,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 744 1817",
+    "sg:postcode": "01970",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523451,
+      102191575,
+      404476213,
+      85633793,
+      85950403,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5wZdbR6a0vaarHb7EuR2oV_42.515010_-70.899011@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a300cba8968903815d4189968e2d",
+      "sg:id": "SG_5wZdbR6a0vaarHb7EuR2oV_42.515010_-70.899011@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733116,
-    "wof:geomhash":"ebf571711b268833a353101150390b78",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476213,
-            "locality_id":85950403,
-            "neighbourhood_id":420523451,
-            "region_id":85688645,
-            "venue_id":673068715
-        }
+    "wof:country": "US",
+    "wof:created": 1461733116,
+    "wof:geomhash": "082855d29590b4af88639c80d4d2ca18",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476213,
+        "locality_id": 85950403,
+        "neighbourhood_id": 420523451,
+        "region_id": 85688645,
+        "venue_id": 673068715
+      }
     ],
-    "wof:id":673068715,
-    "wof:lastmodified":1472625171,
-    "wof:name":"Maria's Place",
-    "wof:parent_id":420523451,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673068715,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Maria's Place",
+    "wof:parent_id": 420523451,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.89849,
     42.515197,
     -70.89849,
     42.515197
-],
+  ],
   "geometry": {"coordinates":[-70.89849,42.515197],"type":"Point"}
 }

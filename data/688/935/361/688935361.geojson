@@ -2,80 +2,83 @@
   "id": 688935361,
   "type": "Feature",
   "properties": {
-    "addr:full":"618 Washington Street Canton MA 02021",
-    "addr:housenumber":"618",
-    "addr:postcode":"02021",
-    "addr:street":"Washington Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.145897,42.154202,-71.145897,42.154202",
-    "geom:latitude":42.154202,
-    "geom:longitude":-71.145897,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"618 Washington Street",
-    "sg:city":"Canton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "618 Washington Street Canton MA 02021",
+    "addr:housenumber": "618",
+    "addr:postcode": "02021",
+    "addr:street": "Washington Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.145897,42.154202,-71.145897,42.154202",
+    "geom:latitude": 42.154202,
+    "geom:longitude": -71.145897,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "D \u0026 E Pizza \u0026 Subs, 618 Washington St Canton MA US",
+    "ovtr:similarity": 3.0815229415893555,
+    "sg:address": "618 Washington Street",
+    "sg:city": "Canton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:postcode":"02021",
-    "sg:province":"MA",
-    "sg:tags":[
-        "sandwich",
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:postcode": "02021",
+    "sg:province": "MA",
+    "sg:tags": [
+      "sandwich",
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85850681,
-        102084403
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85850681,
+      102084403
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2LWeiNEZjcyuKDHw1u2DWC_42.154202_-71.145897@1303262197"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a339a9213470031b2c60c87320b1",
+      "sg:id": "SG_2LWeiNEZjcyuKDHw1u2DWC_42.154202_-71.145897@1303262197"
     },
-    "wof:country":"US",
-    "wof:created":1461735957,
-    "wof:geomhash":"687f0b9769cd33eae448665bcb8adf2e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084403,
-            "neighbourhood_id":85850681,
-            "region_id":85688645,
-            "venue_id":688935361
-        }
+    "wof:country": "US",
+    "wof:created": 1461735957,
+    "wof:geomhash": "ee0cff08e8773fc860eb93aae6df7c8a",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "neighbourhood_id": 85850681,
+        "region_id": 85688645,
+        "venue_id": 688935361
+      }
     ],
-    "wof:id":688935361,
-    "wof:lastmodified":1472625011,
-    "wof:name":"D & E Pizza & Subs",
-    "wof:parent_id":85850681,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sandwich",
-        "pizza"
+    "wof:id": 688935361,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "D \u0026 E Pizza \u0026 Subs",
+    "wof:parent_id": 85850681,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sandwich",
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.145897,
     42.154202,
     -71.145897,
     42.154202
-],
-  "geometry": {"coordinates":[-71.14589700000001,42.154202],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.145897,42.154202],"type":"Point"}
 }

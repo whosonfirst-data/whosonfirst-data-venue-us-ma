@@ -2,80 +2,83 @@
   "id": 672831957,
   "type": "Feature",
   "properties": {
-    "addr:full":"36 State Rd Great Barrington MA 01230",
-    "addr:housenumber":"36",
-    "addr:postcode":"01230",
-    "addr:street":"State Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-73.355009,42.20191,-73.355009,42.20191",
-    "geom:latitude":42.20191,
-    "geom:longitude":-73.355009,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"36 State Rd",
-    "sg:city":"Great Barrington",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "36 State Rd Great Barrington MA 01230",
+    "addr:housenumber": "36",
+    "addr:postcode": "01230",
+    "addr:street": "State Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-73.355009,42.201910,-73.355009,42.201910",
+    "geom:latitude": 42.20191,
+    "geom:longitude": -73.355009,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Great Barrington Pizza House, 36 State Rd Great Barrington MA US",
+    "ovtr:similarity": 2.893328905105591,
+    "sg:address": "36 State Rd",
+    "sg:city": "Great Barrington",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 528 0260",
-    "sg:postcode":"01230",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 528 0260",
+    "sg:postcode": "01230",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85805357,
-        102191575,
-        404476103,
-        85633793,
-        85950599,
-        102084369,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85805357,
+      102191575,
+      404476103,
+      85633793,
+      85950599,
+      102084369,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1qPBTCXEuM4E3H6hx5iLKh_42.201910_-73.355009@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a14ca3ca98a90394108ecaff6194",
+      "sg:id": "SG_1qPBTCXEuM4E3H6hx5iLKh_42.201910_-73.355009@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461727638,
-    "wof:geomhash":"d960374e38bc2197d53d1dd5c956923e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084369,
-            "localadmin_id":404476103,
-            "locality_id":85950599,
-            "neighbourhood_id":85805357,
-            "region_id":85688645,
-            "venue_id":672831957
-        }
+    "wof:country": "US",
+    "wof:created": 1461727638,
+    "wof:geomhash": "eb4e03dd74c983e7954285005b0d81db",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084369,
+        "localadmin_id": 404476103,
+        "locality_id": 85950599,
+        "neighbourhood_id": 85805357,
+        "region_id": 85688645,
+        "venue_id": 672831957
+      }
     ],
-    "wof:id":672831957,
-    "wof:lastmodified":1472626078,
-    "wof:name":"Great Barrington Pizza House",
-    "wof:parent_id":85805357,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 672831957,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Great Barrington Pizza House",
+    "wof:parent_id": 85805357,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -73.355009,
     42.20191,
     -73.355009,
     42.20191
-],
+  ],
   "geometry": {"coordinates":[-73.355009,42.20191],"type":"Point"}
 }

@@ -2,83 +2,86 @@
   "id": 672277757,
   "type": "Feature",
   "properties": {
-    "addr:full":"49 E Main St Milford MA 01757",
-    "addr:housenumber":"49",
-    "addr:postcode":"01757",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.511967,42.145593,-71.511967,42.145593",
-    "geom:latitude":42.145593,
-    "geom:longitude":-71.511967,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"49 E Main St",
-    "sg:city":"Milford",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "49 E Main St Milford MA 01757",
+    "addr:housenumber": "49",
+    "addr:postcode": "01757",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.511967,42.145593,-71.511967,42.145593",
+    "geom:latitude": 42.145593,
+    "geom:longitude": -71.511967,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Bob's Motor Workshop, 49 E Main St Milford MA US",
+    "ovtr:similarity": 2.9134910106658936,
+    "sg:address": "49 E Main St",
+    "sg:city": "Milford",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 473 8383",
-    "sg:postcode":"01757",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 473 8383",
+    "sg:postcode": "01757",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "sg:website":"www.bobsmotorworkshop.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85849895,
-        102191575,
-        404476665,
-        85633793,
-        85950733,
-        102084655,
-        85688645
+    "sg:website": "www.bobsmotorworkshop.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85849895,
+      102191575,
+      404476665,
+      85633793,
+      85950733,
+      102084655,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_46bGfn7mkIjzSQSt4Z2zoi_42.145593_-71.511967@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33d59406754032f2c2f53cbc1cc",
+      "sg:id": "SG_46bGfn7mkIjzSQSt4Z2zoi_42.145593_-71.511967@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715155,
-    "wof:geomhash":"3516b2dba396d05973d76f329e7afd8c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476665,
-            "locality_id":85950733,
-            "neighbourhood_id":85849895,
-            "region_id":85688645,
-            "venue_id":672277757
-        }
+    "wof:country": "US",
+    "wof:created": 1461715155,
+    "wof:geomhash": "dca50cf32a864e0ecc6f27cf0baef2c9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "localadmin_id": 404476665,
+        "locality_id": 85950733,
+        "neighbourhood_id": 85849895,
+        "region_id": 85688645,
+        "venue_id": 672277757
+      }
     ],
-    "wof:id":672277757,
-    "wof:lastmodified":1472625451,
-    "wof:name":"Bob's Motor Workshop",
-    "wof:parent_id":85849895,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 672277757,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Bob's Motor Workshop",
+    "wof:parent_id": 85849895,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -71.511967,
     42.145593,
     -71.511967,
     42.145593
-],
+  ],
   "geometry": {"coordinates":[-71.511967,42.145593],"type":"Point"}
 }

@@ -2,77 +2,80 @@
   "id": 673164203,
   "type": "Feature",
   "properties": {
-    "addr:full":"365 Boston Rd Ste 207 Billerica MA 01821",
-    "addr:housenumber":"365",
-    "addr:postcode":"01821",
-    "addr:street":"Boston Rd Ste 207",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.271088,42.563679,-71.271088,42.563679",
-    "geom:latitude":42.563679,
-    "geom:longitude":-71.271088,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"365 Boston Rd Ste 207",
-    "sg:city":"Billerica",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "365 Boston Rd Ste 207 Billerica MA 01821",
+    "addr:housenumber": "365",
+    "addr:postcode": "01821",
+    "addr:street": "Boston Rd Ste 207",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.271088,42.563679,-71.271088,42.563679",
+    "geom:latitude": 42.563679,
+    "geom:longitude": -71.271088,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Billerica Public Schools, 365 Boston Rd Billerica MA US",
+    "ovtr:similarity": 3.9710609912872314,
+    "sg:address": "365 Boston Rd Ste 207",
+    "sg:city": "Billerica",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 436 9500",
-    "sg:postcode":"01821",
-    "sg:province":"MA",
-    "sg:tags":[
-        "k-",
-        "private"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 436 9500",
+    "sg:postcode": "01821",
+    "sg:province": "MA",
+    "sg:tags": [
+      "k-",
+      "private"
     ],
-    "sg:website":"http://www.billerica.mec.edu",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85844755,
-        102084643
+    "sg:website": "http://www.billerica.mec.edu",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85844755,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3EuJ5FQTfzxMNdP5QT5ftK_42.563679_-71.271088@1303262191"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a307ab8aec120348cc1aaa716007",
+      "sg:id": "SG_3EuJ5FQTfzxMNdP5QT5ftK_42.563679_-71.271088@1303262191"
     },
-    "wof:country":"US",
-    "wof:created":1461735103,
-    "wof:geomhash":"4c624684f0eba295887d9e6b9122321e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85844755,
-            "region_id":85688645,
-            "venue_id":673164203
-        }
+    "wof:country": "US",
+    "wof:created": 1461735103,
+    "wof:geomhash": "c1667fdd0ada365ce29d980442d7befe",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85844755,
+        "region_id": 85688645,
+        "venue_id": 673164203
+      }
     ],
-    "wof:id":673164203,
-    "wof:lastmodified":1472625455,
-    "wof:name":"Billerica Public Schools",
-    "wof:parent_id":85844755,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "k-",
-        "private"
+    "wof:id": 673164203,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Billerica Public Schools",
+    "wof:parent_id": 85844755,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "k-",
+      "private"
     ]
-},
+  },
   "bbox": [
     -71.271088,
     42.563679,
     -71.271088,
     42.563679
-],
-  "geometry": {"coordinates":[-71.27108800000001,42.563679],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.271088,42.563679],"type":"Point"}
 }

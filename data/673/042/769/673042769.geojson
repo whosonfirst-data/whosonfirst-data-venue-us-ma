@@ -2,80 +2,83 @@
   "id": 673042769,
   "type": "Feature",
   "properties": {
-    "addr:full":"15 Charles St Hyannis MA 02601",
-    "addr:housenumber":"15",
-    "addr:postcode":"02601",
-    "addr:street":"Charles St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.284302,41.656898,-70.284302,41.656898",
-    "geom:latitude":41.656898,
-    "geom:longitude":-70.284302,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"15 Charles St",
-    "sg:city":"Hyannis",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "15 Charles St Hyannis MA 02601",
+    "addr:housenumber": "15",
+    "addr:postcode": "02601",
+    "addr:street": "Charles St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.284302,41.656898,-70.284302,41.656898",
+    "geom:latitude": 41.656898,
+    "geom:longitude": -70.284302,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Willow Tree Market, 15 Charles St Hyannis MA US",
+    "ovtr:similarity": 2.5764429569244385,
+    "sg:address": "15 Charles St",
+    "sg:city": "Hyannis",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 790 1177",
-    "sg:postcode":"02601",
-    "sg:province":"MA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 790 1177",
+    "sg:postcode": "02601",
+    "sg:province": "MA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811889,
-        102191575,
-        404475893,
-        85633793,
-        85950321,
-        102084379,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811889,
+      102191575,
+      404475893,
+      85633793,
+      85950321,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1PmgNO98SXqhuUCsoySdln_41.656789_-70.284213@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3172d8d9cee03362d786b2d3f80",
+      "sg:id": "SG_1PmgNO98SXqhuUCsoySdln_41.656789_-70.284213@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732604,
-    "wof:geomhash":"328389abb66e078e976d3a7c0725f5a5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475893,
-            "locality_id":85950321,
-            "neighbourhood_id":85811889,
-            "region_id":85688645,
-            "venue_id":673042769
-        }
+    "wof:country": "US",
+    "wof:created": 1461732604,
+    "wof:geomhash": "b7f91abb4665d657111de3ed5f871d5d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475893,
+        "locality_id": 85950321,
+        "neighbourhood_id": 85811889,
+        "region_id": 85688645,
+        "venue_id": 673042769
+      }
     ],
-    "wof:id":673042769,
-    "wof:lastmodified":1472625115,
-    "wof:name":"Willow Tree Market",
-    "wof:parent_id":85811889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 673042769,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Willow Tree Market",
+    "wof:parent_id": 85811889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -70.284302,
     41.656898,
     -70.284302,
     41.656898
-],
+  ],
   "geometry": {"coordinates":[-70.284302,41.656898],"type":"Point"}
 }

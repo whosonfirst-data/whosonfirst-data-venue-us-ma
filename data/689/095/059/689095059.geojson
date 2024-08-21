@@ -2,80 +2,83 @@
   "id": 689095059,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 Somerville Avenue Somerville MA 02143",
-    "addr:housenumber":"401",
-    "addr:postcode":"02143",
-    "addr:street":"Somerville Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.10076,42.381458,-71.10076,42.381458",
-    "geom:latitude":42.381458,
-    "geom:longitude":-71.10076,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"401 Somerville Avenue",
-    "sg:city":"Somerville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "401 Somerville Avenue Somerville MA 02143",
+    "addr:housenumber": "401",
+    "addr:postcode": "02143",
+    "addr:street": "Somerville Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.100760,42.381458,-71.100760,42.381458",
+    "geom:latitude": 42.381458,
+    "geom:longitude": -71.10076,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Caesar's Pizza \u0026 Subs, 401 Somerville Ave Somerville MA US",
+    "ovtr:similarity": 3.439953088760376,
+    "sg:address": "401 Somerville Avenue",
+    "sg:city": "Somerville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 776 9942",
-    "sg:postcode":"02143",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 776 9942",
+    "sg:postcode": "02143",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85881031,
-        102191575,
-        404476445,
-        85633793,
-        85950339,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85881031,
+      102191575,
+      404476445,
+      85633793,
+      85950339,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_26uVb0DBbPjYjwFj4DfJoJ_42.381458_-71.100760@1303262218"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30675acc11a0302f3be2bc9b7e3",
+      "sg:id": "SG_26uVb0DBbPjYjwFj4DfJoJ_42.381458_-71.100760@1303262218"
     },
-    "wof:country":"US",
-    "wof:created":1461739287,
-    "wof:geomhash":"f0c1fd556af7f3ef76696c13e80b442a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476445,
-            "locality_id":85950339,
-            "neighbourhood_id":85881031,
-            "region_id":85688645,
-            "venue_id":689095059
-        }
+    "wof:country": "US",
+    "wof:created": 1461739287,
+    "wof:geomhash": "e9573439a62cbf4ac19f383bf502b4f2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476445,
+        "locality_id": 85950339,
+        "neighbourhood_id": 85881031,
+        "region_id": 85688645,
+        "venue_id": 689095059
+      }
     ],
-    "wof:id":689095059,
-    "wof:lastmodified":1472625329,
-    "wof:name":"Caesar's Pizza & Subs",
-    "wof:parent_id":85881031,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 689095059,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Caesar's Pizza \u0026 Subs",
+    "wof:parent_id": 85881031,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.10076,
     42.381458,
     -71.10076,
     42.381458
-],
-  "geometry": {"coordinates":[-71.10075999999999,42.381458],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.10076,42.381458],"type":"Point"}
 }

@@ -2,73 +2,76 @@
   "id": 672191545,
   "type": "Feature",
   "properties": {
-    "addr:full":"129 West St Lenox MA 01240",
-    "addr:housenumber":"129",
-    "addr:postcode":"01240",
-    "addr:street":"West St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.296311,42.356662,-73.296311,42.356662",
-    "geom:latitude":42.356662,
-    "geom:longitude":-73.296311,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"129 West St",
-    "sg:city":"Lenox",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "129 West St Lenox MA 01240",
+    "addr:housenumber": "129",
+    "addr:postcode": "01240",
+    "addr:street": "West St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.296311,42.356662,-73.296311,42.356662",
+    "geom:latitude": 42.356662,
+    "geom:longitude": -73.296311,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Morris Elementary School, 129 West St Lenox MA US",
+    "ovtr:similarity": 3.234049081802368,
+    "sg:address": "129 West St",
+    "sg:city": "Lenox",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 637 5570",
-    "sg:postcode":"01240",
-    "sg:province":"MA",
-    "sg:website":"www.lenoxps.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85830287,
-        102084369
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 637 5570",
+    "sg:postcode": "01240",
+    "sg:province": "MA",
+    "sg:website": "www.lenoxps.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85830287,
+      102084369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":29785025,
-        "sg:id":"SG_1lMZ9xjkFVQsncUOvQRzAP_42.356662_-73.296311@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 29785025,
+      "ovtr:id": "08f2a14db1d89c2d03f2db7fb00a8187",
+      "sg:id": "SG_1lMZ9xjkFVQsncUOvQRzAP_42.356662_-73.296311@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461713368,
-    "wof:geomhash":"818e6b99bf6a8a7208c5dd4bea878214",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084369,
-            "neighbourhood_id":85830287,
-            "region_id":85688645,
-            "venue_id":672191545
-        }
+    "wof:country": "US",
+    "wof:created": 1461713368,
+    "wof:geomhash": "818e6b99bf6a8a7208c5dd4bea878214",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084369,
+        "neighbourhood_id": 85830287,
+        "region_id": 85688645,
+        "venue_id": 672191545
+      }
     ],
-    "wof:id":672191545,
-    "wof:lastmodified":1510942346,
-    "wof:name":"Morris Elementary School",
-    "wof:parent_id":85830287,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672191545,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Morris Elementary School",
+    "wof:parent_id": 85830287,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.296311,
     42.356662,
     -73.296311,
     42.356662
-],
+  ],
   "geometry": {"coordinates":[-73.296311,42.356662],"type":"Point"}
 }

@@ -2,75 +2,78 @@
   "id": 672153249,
   "type": "Feature",
   "properties": {
-    "addr:full":"129 Rockland St Hanover MA 02339",
-    "addr:housenumber":"129",
-    "addr:postcode":"02339",
-    "addr:street":"Rockland St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.82354,42.114377,-70.82354,42.114377",
-    "geom:latitude":42.114377,
-    "geom:longitude":-70.82354,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"129 Rockland St",
-    "sg:city":"Hanover",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "129 Rockland St Hanover MA 02339",
+    "addr:housenumber": "129",
+    "addr:postcode": "02339",
+    "addr:street": "Rockland St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.823540,42.114377,-70.823540,42.114377",
+    "geom:latitude": 42.114377,
+    "geom:longitude": -70.82354,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Hanover Police Department, 129 Rockland St Hanover MA US",
+    "ovtr:similarity": 3.1686930656433105,
+    "sg:address": "129 Rockland St",
+    "sg:city": "Hanover",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 826 3231",
-    "sg:postcode":"02339",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 826 3231",
+    "sg:postcode": "02339",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "sg:website":"www.hanoverpolice.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85823821,
-        102084367
+    "sg:website": "www.hanoverpolice.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85823821,
+      102084367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_517NCF38YSoW0JtA6JKK28_42.114377_-70.823540@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33965d531090331f0f622161642",
+      "sg:id": "SG_517NCF38YSoW0JtA6JKK28_42.114377_-70.823540@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461712513,
-    "wof:geomhash":"1cc9710229b5e71059b4a120cd63eb96",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "neighbourhood_id":85823821,
-            "region_id":85688645,
-            "venue_id":672153249
-        }
+    "wof:country": "US",
+    "wof:created": 1461712513,
+    "wof:geomhash": "66d8088914c6ceb8471588de6803b4fa",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "neighbourhood_id": 85823821,
+        "region_id": 85688645,
+        "venue_id": 672153249
+      }
     ],
-    "wof:id":672153249,
-    "wof:lastmodified":1472624949,
-    "wof:name":"Hanover Police Dept",
-    "wof:parent_id":85823821,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 672153249,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Hanover Police Dept",
+    "wof:parent_id": 85823821,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -70.82354,
     42.114377,
     -70.82354,
     42.114377
-],
-  "geometry": {"coordinates":[-70.82353999999999,42.114377],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.82354,42.114377],"type":"Point"}
 }

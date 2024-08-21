@@ -2,80 +2,83 @@
   "id": 672986485,
   "type": "Feature",
   "properties": {
-    "addr:full":"17 Clark St Easthampton MA 01027",
-    "addr:housenumber":"17",
-    "addr:postcode":"01027",
-    "addr:street":"Clark St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.663001,42.263991,-72.663001,42.263991",
-    "geom:latitude":42.263991,
-    "geom:longitude":-72.663001,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"17 Clark St",
-    "sg:city":"Easthampton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "17 Clark St Easthampton MA 01027",
+    "addr:housenumber": "17",
+    "addr:postcode": "01027",
+    "addr:street": "Clark St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.663001,42.263991,-72.663001,42.263991",
+    "geom:latitude": 42.263991,
+    "geom:longitude": -72.663001,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "O'Brien Funeral Home, 17 Clark St Easthampton MA US",
+    "ovtr:similarity": 2.353693962097168,
+    "sg:address": "17 Clark St",
+    "sg:city": "Easthampton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 527 0222",
-    "sg:postcode":"01027",
-    "sg:province":"MA",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 527 0222",
+    "sg:postcode": "01027",
+    "sg:province": "MA",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85841755,
-        102191575,
-        404476303,
-        85633793,
-        85950433,
-        102084459,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85841755,
+      102191575,
+      404476303,
+      85633793,
+      85950433,
+      102084459,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6ZPy61ESP5n4V1MVmowkGe_42.263991_-72.663001@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3264a0b469603b850087dd8c826",
+      "sg:id": "SG_6ZPy61ESP5n4V1MVmowkGe_42.263991_-72.663001@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461731198,
-    "wof:geomhash":"1333e31c2e6cdd42e024c8dcbcdccba0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084459,
-            "localadmin_id":404476303,
-            "locality_id":85950433,
-            "neighbourhood_id":85841755,
-            "region_id":85688645,
-            "venue_id":672986485
-        }
+    "wof:country": "US",
+    "wof:created": 1461731198,
+    "wof:geomhash": "611d71e785adee9727aa54b54087cdb9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084459,
+        "localadmin_id": 404476303,
+        "locality_id": 85950433,
+        "neighbourhood_id": 85841755,
+        "region_id": 85688645,
+        "venue_id": 672986485
+      }
     ],
-    "wof:id":672986485,
-    "wof:lastmodified":1472626192,
-    "wof:name":"O'Brien Funeral Home",
-    "wof:parent_id":85841755,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:id": 672986485,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "O'Brien Funeral Home",
+    "wof:parent_id": 85841755,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -72.663001,
     42.263991,
     -72.663001,
     42.263991
-],
-  "geometry": {"coordinates":[-72.66300099999999,42.263991],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-72.663001,42.263991],"type":"Point"}
 }

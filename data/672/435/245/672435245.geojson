@@ -2,69 +2,72 @@
   "id": 672435245,
   "type": "Feature",
   "properties": {
-    "addr:full":"284 Cotuit Rd Sandwich MA 02563",
-    "addr:housenumber":"284",
-    "addr:postcode":"02563",
-    "addr:street":"Cotuit Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.485541,41.705707,-70.485541,41.705707",
-    "geom:latitude":41.705707,
-    "geom:longitude":-70.485541,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"284 Cotuit Rd",
-    "sg:city":"Sandwich",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "284 Cotuit Rd Sandwich MA 02563",
+    "addr:housenumber": "284",
+    "addr:postcode": "02563",
+    "addr:street": "Cotuit Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.485541,41.705707,-70.485541,41.705707",
+    "geom:latitude": 41.705707,
+    "geom:longitude": -70.485541,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Sandwich Montessori School, 284 Cotuit Rd Sandwich MA US",
+    "ovtr:similarity": 2.8842499256134033,
+    "sg:address": "284 Cotuit Rd",
+    "sg:city": "Sandwich",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 888 4222",
-    "sg:postcode":"02563",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85809011,
-        102084379
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 888 4222",
+    "sg:postcode": "02563",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85809011,
+      102084379
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7mWkDZBM4ayjMMcw81w0tS_41.705707_-70.485541@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a317162141660368639f62c07fe5",
+      "sg:id": "SG_7mWkDZBM4ayjMMcw81w0tS_41.705707_-70.485541@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461718790,
-    "wof:geomhash":"4df47c08750a996a910461efbff5e6d4",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "neighbourhood_id":85809011,
-            "region_id":85688645,
-            "venue_id":672435245
-        }
+    "wof:country": "US",
+    "wof:created": 1461718790,
+    "wof:geomhash": "98ef11d35bba15469c7a831992209fc0",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "neighbourhood_id": 85809011,
+        "region_id": 85688645,
+        "venue_id": 672435245
+      }
     ],
-    "wof:id":672435245,
-    "wof:lastmodified":1472625698,
-    "wof:name":"Sandwich Montessori School",
-    "wof:parent_id":85809011,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672435245,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Sandwich Montessori School",
+    "wof:parent_id": 85809011,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.485541,
     41.705707,
     -70.485541,
     41.705707
-],
+  ],
   "geometry": {"coordinates":[-70.485541,41.705707],"type":"Point"}
 }

@@ -2,85 +2,88 @@
   "id": 689097047,
   "type": "Feature",
   "properties": {
-    "addr:full":"163 Washington St Somerville MA 02143",
-    "addr:housenumber":"163",
-    "addr:postcode":"02143",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.09041,42.380235,-71.09041,42.380235",
-    "geom:latitude":42.380235,
-    "geom:longitude":-71.09041,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"163 Washington St",
-    "sg:city":"Somerville",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "163 Washington St Somerville MA 02143",
+    "addr:housenumber": "163",
+    "addr:postcode": "02143",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.090410,42.380235,-71.090410,42.380235",
+    "geom:latitude": 42.380235,
+    "geom:longitude": -71.09041,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Liquor Zone, 163 Washington St Somerville MA US",
+    "ovtr:similarity": 2.1228549480438232,
+    "sg:address": "163 Washington St",
+    "sg:city": "Somerville",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 718 0754",
-    "sg:postcode":"02143",
-    "sg:province":"MA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 718 0754",
+    "sg:postcode": "02143",
+    "sg:province": "MA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85881043,
-        102191575,
-        404476445,
-        85633793,
-        85950339,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85881043,
+      102191575,
+      404476445,
+      85633793,
+      85950339,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0WCWDLDRFpsewBBxaxOgRf_42.380235_-71.090410@1303262218"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306666c41860350314568c3f355",
+      "sg:id": "SG_0WCWDLDRFpsewBBxaxOgRf_42.380235_-71.090410@1303262218"
     },
-    "wof:country":"US",
-    "wof:created":1461739324,
-    "wof:geomhash":"052297afea68b24e786bc1cc124dcfa6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476445,
-            "locality_id":85950339,
-            "neighbourhood_id":85881043,
-            "region_id":85688645,
-            "venue_id":689097047
-        }
+    "wof:country": "US",
+    "wof:created": 1461739324,
+    "wof:geomhash": "0f7dc8e1b28bb93bd13db29f7918f8e5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476445,
+        "locality_id": 85950339,
+        "neighbourhood_id": 85881043,
+        "region_id": 85688645,
+        "venue_id": 689097047
+      }
     ],
-    "wof:id":689097047,
-    "wof:lastmodified":1489023806,
-    "wof:name":"Liquor Zone",
-    "wof:parent_id":85881043,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 689097047,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Liquor Zone",
+    "wof:parent_id": 85881043,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -71.09041,
     42.380235,
     -71.09041,
     42.380235
-],
-  "geometry": {"coordinates":[-71.09041000000001,42.380235],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.09041,42.380235],"type":"Point"}
 }

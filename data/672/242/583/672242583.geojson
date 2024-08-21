@@ -2,80 +2,83 @@
   "id": 672242583,
   "type": "Feature",
   "properties": {
-    "addr:full":"87 Dartmouth St New Bedford MA 02740",
-    "addr:housenumber":"87",
-    "addr:postcode":"02740",
-    "addr:street":"Dartmouth St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.931766,41.624866,-70.931766,41.624866",
-    "geom:latitude":41.624866,
-    "geom:longitude":-70.931766,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"87 Dartmouth St",
-    "sg:city":"New Bedford",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "87 Dartmouth St New Bedford MA 02740",
+    "addr:housenumber": "87",
+    "addr:postcode": "02740",
+    "addr:street": "Dartmouth St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.931766,41.624866,-70.931766,41.624866",
+    "geom:latitude": 41.624866,
+    "geom:longitude": -70.931766,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Butcher Shop, 123 Dartmouth St New Bedford MA US",
+    "ovtr:similarity": 3.859750986099243,
+    "sg:address": "87 Dartmouth St",
+    "sg:city": "New Bedford",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 994 4942",
-    "sg:postcode":"02740",
-    "sg:province":"MA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 994 4942",
+    "sg:postcode": "02740",
+    "sg:province": "MA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85806427,
-        102191575,
-        404476131,
-        85633793,
-        85950367,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85806427,
+      102191575,
+      404476131,
+      85633793,
+      85950367,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1hPosIQyHO1EpmOUwiodkS_41.624866_-70.931766@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33a74ceb55003f23ed8425de52d",
+      "sg:id": "SG_1hPosIQyHO1EpmOUwiodkS_41.624866_-70.931766@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461714464,
-    "wof:geomhash":"a37c21bfd33f12484a79f82f6d13fe5d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476131,
-            "locality_id":85950367,
-            "neighbourhood_id":85806427,
-            "region_id":85688645,
-            "venue_id":672242583
-        }
+    "wof:country": "US",
+    "wof:created": 1461714464,
+    "wof:geomhash": "98279d37e3841b9a28593fc5525cda69",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476131,
+        "locality_id": 85950367,
+        "neighbourhood_id": 85806427,
+        "region_id": 85688645,
+        "venue_id": 672242583
+      }
     ],
-    "wof:id":672242583,
-    "wof:lastmodified":1472625356,
-    "wof:name":"Butcher Shop",
-    "wof:parent_id":85806427,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 672242583,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Butcher Shop",
+    "wof:parent_id": 85806427,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -70.931766,
     41.624866,
     -70.931766,
     41.624866
-],
+  ],
   "geometry": {"coordinates":[-70.931766,41.624866],"type":"Point"}
 }

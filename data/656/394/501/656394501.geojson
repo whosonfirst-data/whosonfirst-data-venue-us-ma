@@ -2,65 +2,72 @@
   "id": 656394501,
   "type": "Feature",
   "properties": {
-    "addr:full":"631 Harwich Rd Brewster MA 02631",
-    "addr:housenumber":"631",
-    "addr:postcode":"02631",
-    "addr:street":"Harwich Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.080985,41.744108,-70.080985,41.744108",
-    "geom:latitude":41.744108,
-    "geom:longitude":-70.080985,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"631 Harwich Rd",
-    "sg:city":"Brewster",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "631 Harwich Rd Brewster MA 02631",
+    "addr:housenumber": "631",
+    "addr:postcode": "02631",
+    "addr:street": "Harwich Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.080985,41.744108,-70.080985,41.744108",
+    "geom:latitude": 41.744108,
+    "geom:longitude": -70.080985,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Brewster Police Department, 631 Harwich Rd Brewster MA US",
+    "ovtr:similarity": 2.3707640171051025,
+    "sg:address": "631 Harwich Rd",
+    "sg:city": "Brewster",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 896 7011",
-    "sg:postcode":"02631",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department",
-        "protection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 896 7011",
+    "sg:postcode": "02631",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department",
+      "protection"
     ],
-    "sg:website":"www.brewsterpolice.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1kIM2Jd5e59jXcJgeaVLKJ_41.744108_-70.080985@1294127905"
+    "sg:website": "www.brewsterpolice.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3100aa124020307ed09cf3b57e6",
+      "sg:id": "SG_1kIM2Jd5e59jXcJgeaVLKJ_41.744108_-70.080985@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711896,
-    "wof:geomhash":"675eaa21698da6859675de2c2daa1860",
-    "wof:hierarchy":[],
-    "wof:id":656394501,
-    "wof:lastmodified":1492101508,
-    "wof:name":"Brewster Police Dept",
-    "wof:parent_id":85849499,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department",
-        "protection"
+    "wof:country": "US",
+    "wof:created": 1461711896,
+    "wof:geomhash": "675eaa21698da6859675de2c2daa1860",
+    "wof:hierarchy": [
+      {
+        "venue_id": 656394501
+      }
+    ],
+    "wof:id": 656394501,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Brewster Police Dept",
+    "wof:parent_id": 85849499,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department",
+      "protection"
     ]
-},
+  },
   "bbox": [
     -70.080985,
     41.744108,
     -70.080985,
     41.744108
-],
+  ],
   "geometry": {"coordinates":[-70.080985,41.744108],"type":"Point"}
 }

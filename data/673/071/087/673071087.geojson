@@ -2,83 +2,86 @@
   "id": 673071087,
   "type": "Feature",
   "properties": {
-    "addr:full":"182 Main St Medford MA 02155",
-    "addr:housenumber":"182",
-    "addr:postcode":"02155",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.110741,42.413042,-71.110741,42.413042",
-    "geom:latitude":42.413042,
-    "geom:longitude":-71.110741,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"182 Main St",
-    "sg:city":"Medford",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "182 Main St Medford MA 02155",
+    "addr:housenumber": "182",
+    "addr:postcode": "02155",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.110741,42.413042,-71.110741,42.413042",
+    "geom:latitude": 42.413042,
+    "geom:longitude": -71.110741,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Sei Bar, 182 Main St Medford MA US",
+    "ovtr:similarity": 1.9316070079803467,
+    "sg:address": "182 Main St",
+    "sg:city": "Medford",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 391 4363",
-    "sg:postcode":"02155",
-    "sg:province":"MA",
-    "sg:tags":[
-        "sushi",
-        "bar"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 391 4363",
+    "sg:postcode": "02155",
+    "sg:province": "MA",
+    "sg:tags": [
+      "sushi",
+      "bar"
     ],
-    "sg:website":"www.seibar.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891445,
-        102191575,
-        404476403,
-        85633793,
-        85950347,
-        102084643,
-        85688645
+    "sg:website": "www.seibar.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85891445,
+      102191575,
+      404476403,
+      85633793,
+      85950347,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6DpkuHkVazMyBKlY7AMq9e_42.413452_-71.110733@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306749644f10381f5df8e7ef45e",
+      "sg:id": "SG_6DpkuHkVazMyBKlY7AMq9e_42.413452_-71.110733@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733161,
-    "wof:geomhash":"da549900b83b362f1f9cc6ccbc6bd82c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476403,
-            "locality_id":85950347,
-            "neighbourhood_id":85891445,
-            "region_id":85688645,
-            "venue_id":673071087
-        }
+    "wof:country": "US",
+    "wof:created": 1461733161,
+    "wof:geomhash": "247b1191e2b823ca7819f704325e1fc8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476403,
+        "locality_id": 85950347,
+        "neighbourhood_id": 85891445,
+        "region_id": 85688645,
+        "venue_id": 673071087
+      }
     ],
-    "wof:id":673071087,
-    "wof:lastmodified":1472625139,
-    "wof:name":"Sei Bar",
-    "wof:parent_id":85891445,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sushi",
-        "bar"
+    "wof:id": 673071087,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Sei Bar",
+    "wof:parent_id": 85891445,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sushi",
+      "bar"
     ]
-},
+  },
   "bbox": [
     -71.110741,
     42.413042,
     -71.110741,
     42.413042
-],
+  ],
   "geometry": {"coordinates":[-71.110741,42.413042],"type":"Point"}
 }

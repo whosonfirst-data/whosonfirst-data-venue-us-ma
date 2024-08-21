@@ -2,84 +2,87 @@
   "id": 673056433,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 Custom House St Boston MA 02110",
-    "addr:housenumber":"20",
-    "addr:postcode":"02110",
-    "addr:street":"Custom House St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.05296,42.358018,-71.05296,42.358018",
-    "geom:latitude":42.358018,
-    "geom:longitude":-71.05296,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20 Custom House St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "20 Custom House St Boston MA 02110",
+    "addr:housenumber": "20",
+    "addr:postcode": "02110",
+    "addr:street": "Custom House St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.052960,42.358018,-71.052960,42.358018",
+    "geom:latitude": 42.358018,
+    "geom:longitude": -71.05296,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Bean \u0026 Leaf Cafe, 20 Custom House St Boston MA US",
+    "ovtr:similarity": 2.6405489444732666,
+    "sg:address": "20 Custom House St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 261 4727",
-    "sg:postcode":"02110",
-    "sg:province":"MA",
-    "sg:tags":[
-        "sandwich"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 261 4727",
+    "sg:postcode": "02110",
+    "sg:province": "MA",
+    "sg:tags": [
+      "sandwich"
     ],
-    "sg:website":"www.beanandleafcafe.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108711407,
-        85815133,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "www.beanandleafcafe.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108711407,
+      85815133,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Y28vwj9FUgDcHyA1f6ogf_42.358255_-71.052846@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30661c1336e034d7ef5d421c85d",
+      "sg:id": "SG_3Y28vwj9FUgDcHyA1f6ogf_42.358255_-71.052846@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732883,
-    "wof:geomhash":"5270317561380df16d8a94520f177004",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "microhood_id":1108711407,
-            "neighbourhood_id":85815133,
-            "region_id":85688645,
-            "venue_id":673056433
-        }
+    "wof:country": "US",
+    "wof:created": 1461732883,
+    "wof:geomhash": "dbe2b8f77ce424a2084eb4cbe45eb28d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "microhood_id": 1108711407,
+        "neighbourhood_id": 85815133,
+        "region_id": 85688645,
+        "venue_id": 673056433
+      }
     ],
-    "wof:id":673056433,
-    "wof:lastmodified":1491264379,
-    "wof:name":"Bean & Leaf Cafe",
-    "wof:parent_id":1108711407,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sandwich"
+    "wof:id": 673056433,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Bean \u0026 Leaf Cafe",
+    "wof:parent_id": 1108711407,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -71.05296,
     42.358018,
     -71.05296,
     42.358018
-],
+  ],
   "geometry": {"coordinates":[-71.05296,42.358018],"type":"Point"}
 }

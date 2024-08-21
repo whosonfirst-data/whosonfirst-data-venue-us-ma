@@ -2,71 +2,74 @@
   "id": 672573425,
   "type": "Feature",
   "properties": {
-    "addr:full":"220 Scranton Ave Falmouth MA 02540",
-    "addr:housenumber":"220",
-    "addr:postcode":"02540",
-    "addr:street":"Scranton Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.604434,41.547965,-70.604434,41.547965",
-    "geom:latitude":41.547965,
-    "geom:longitude":-70.604434,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"220 Scranton Ave",
-    "sg:city":"Falmouth",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "220 Scranton Ave Falmouth MA 02540",
+    "addr:housenumber": "220",
+    "addr:postcode": "02540",
+    "addr:street": "Scranton Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.604434,41.547965,-70.604434,41.547965",
+    "geom:latitude": 41.547965,
+    "geom:longitude": -70.604434,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Flying Bridge Restaurant, 220 Scranton Ave Falmouth MA US",
+    "ovtr:similarity": 2.1358940601348877,
+    "sg:address": "220 Scranton Ave",
+    "sg:city": "Falmouth",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 548 2700",
-    "sg:postcode":"02540",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950553,
-        102084379,
-        85818889
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 548 2700",
+    "sg:postcode": "02540",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950553,
+      102084379,
+      85818889
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3FJ6GQZWYqOxE3ZCRYJi0O_41.547965_-70.604434@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a31613571242039f8358ea5e51d8",
+      "sg:id": "SG_3FJ6GQZWYqOxE3ZCRYJi0O_41.547965_-70.604434@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461721982,
-    "wof:geomhash":"06d9b3d899080afdfc72341242a7a2e2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "locality_id":85950553,
-            "neighbourhood_id":85818889,
-            "region_id":85688645,
-            "venue_id":672573425
-        }
+    "wof:country": "US",
+    "wof:created": 1461721982,
+    "wof:geomhash": "3de1740809bdcd062be5e96e6dffce51",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "locality_id": 85950553,
+        "neighbourhood_id": 85818889,
+        "region_id": 85688645,
+        "venue_id": 672573425
+      }
     ],
-    "wof:id":672573425,
-    "wof:lastmodified":1472625825,
-    "wof:name":"Flying Bridge Restaurant",
-    "wof:parent_id":85818889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672573425,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Flying Bridge Restaurant",
+    "wof:parent_id": 85818889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.604434,
     41.547965,
     -70.604434,
     41.547965
-],
+  ],
   "geometry": {"coordinates":[-70.604434,41.547965],"type":"Point"}
 }

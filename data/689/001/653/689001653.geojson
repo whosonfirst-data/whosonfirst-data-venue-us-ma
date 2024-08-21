@@ -2,88 +2,91 @@
   "id": 689001653,
   "type": "Feature",
   "properties": {
-    "addr:full":"36 Chauncy St Boston MA 02111",
-    "addr:housenumber":"36",
-    "addr:postcode":"02111",
-    "addr:street":"Chauncy St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.059898,42.354,-71.059898,42.354",
-    "geom:latitude":42.354,
-    "geom:longitude":-71.059898,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"36 Chauncy St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Dentist",
-            "type":"Services"
-        }
+    "addr:full": "36 Chauncy St Boston MA 02111",
+    "addr:housenumber": "36",
+    "addr:postcode": "02111",
+    "addr:street": "Chauncy St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.059898,42.354000,-71.059898,42.354000",
+    "geom:latitude": 42.354,
+    "geom:longitude": -71.059898,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Boston Dental, 36 Chauncy St Boston MA US",
+    "ovtr:similarity": 3.340183973312378,
+    "sg:address": "36 Chauncy St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Dentist",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 338 5000",
-    "sg:postcode":"02111",
-    "sg:province":"MA",
-    "sg:tags":[
-        "clinic",
-        "dental",
-        "dentists-orthodontists"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 338 5000",
+    "sg:postcode": "02111",
+    "sg:province": "MA",
+    "sg:tags": [
+      "clinic",
+      "dental",
+      "dentists-orthodontists"
     ],
-    "sg:website":"bostondental.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108703039,
-        85815133,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "bostondental.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108703039,
+      85815133,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_20hq8FappTzjJHIiHlbmoK_42.354000_-71.059898@1303262205"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30661422cac036e578ce60d8612",
+      "sg:id": "SG_20hq8FappTzjJHIiHlbmoK_42.354000_-71.059898@1303262205"
     },
-    "wof:country":"US",
-    "wof:created":1461737298,
-    "wof:geomhash":"3e7a44776bf7da31de5a2c5c005b8ad9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "microhood_id":1108703039,
-            "neighbourhood_id":85815133,
-            "region_id":85688645,
-            "venue_id":689001653
-        }
+    "wof:country": "US",
+    "wof:created": 1461737298,
+    "wof:geomhash": "8c5a9975d1efdf43f1a2296f475020a7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "microhood_id": 1108703039,
+        "neighbourhood_id": 85815133,
+        "region_id": 85688645,
+        "venue_id": 689001653
+      }
     ],
-    "wof:id":689001653,
-    "wof:lastmodified":1489011278,
-    "wof:name":"Boston Dental",
-    "wof:parent_id":1108703039,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic",
-        "dental",
-        "dentists-orthodontists"
+    "wof:id": 689001653,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Boston Dental",
+    "wof:parent_id": 1108703039,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic",
+      "dental",
+      "dentists-orthodontists"
     ]
-},
+  },
   "bbox": [
     -71.059898,
     42.354,
     -71.059898,
     42.354
-],
+  ],
   "geometry": {"coordinates":[-71.059898,42.354],"type":"Point"}
 }

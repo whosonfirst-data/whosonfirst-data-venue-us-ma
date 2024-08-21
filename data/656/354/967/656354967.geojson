@@ -2,75 +2,78 @@
   "id": 656354967,
   "type": "Feature",
   "properties": {
-    "addr:full":"38 Main St Gardner MA 01440",
-    "addr:housenumber":"38",
-    "addr:postcode":"01440",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.994986,42.575717,-71.994986,42.575717",
-    "geom:latitude":42.575717,
-    "geom:longitude":-71.994986,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"38 Main St",
-    "sg:city":"Gardner",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Bicycles & Sporting Goods",
-            "type":"Retail Goods"
-        }
+    "addr:full": "38 Main St Gardner MA 01440",
+    "addr:housenumber": "38",
+    "addr:postcode": "01440",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.994986,42.575717,-71.994986,42.575717",
+    "geom:latitude": 42.575717,
+    "geom:longitude": -71.994986,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "John's Sport Shop, 38 Main St Gardner MA US",
+    "ovtr:similarity": 2.7987051010131836,
+    "sg:address": "38 Main St",
+    "sg:city": "Gardner",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Bicycles \u0026 Sporting Goods",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 632 0620",
-    "sg:postcode":"01440",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85849693,
-        102191575,
-        404476553,
-        85633793,
-        85950379,
-        102084655,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 632 0620",
+    "sg:postcode": "01440",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85849693,
+      102191575,
+      404476553,
+      85633793,
+      85950379,
+      102084655,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_03aqujcaaUdRstPLMA8Of5_42.575717_-71.994986@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32a83863b2b0307c9e03102be00",
+      "sg:id": "SG_03aqujcaaUdRstPLMA8Of5_42.575717_-71.994986@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711061,
-    "wof:geomhash":"9453e19d670b841958f61a65bb006e0c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476553,
-            "locality_id":85950379,
-            "neighbourhood_id":85849693,
-            "region_id":85688645,
-            "venue_id":656354967
-        }
+    "wof:country": "US",
+    "wof:created": 1461711061,
+    "wof:geomhash": "5eee0e62a72424952d8423b7d5260e1e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "localadmin_id": 404476553,
+        "locality_id": 85950379,
+        "neighbourhood_id": 85849693,
+        "region_id": 85688645,
+        "venue_id": 656354967
+      }
     ],
-    "wof:id":656354967,
-    "wof:lastmodified":1472624967,
-    "wof:name":"John's Sport Shop",
-    "wof:parent_id":85849693,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 656354967,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "John's Sport Shop",
+    "wof:parent_id": 85849693,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.994986,
     42.575717,
     -71.994986,
     42.575717
-],
+  ],
   "geometry": {"coordinates":[-71.994986,42.575717],"type":"Point"}
 }

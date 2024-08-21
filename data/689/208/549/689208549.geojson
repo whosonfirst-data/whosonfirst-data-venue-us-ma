@@ -2,62 +2,69 @@
   "id": 689208549,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 S Orleans Rd Orleans MA 02653",
-    "addr:housenumber":"1",
-    "addr:postcode":"02653",
-    "addr:street":"S Orleans Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-69.986847,41.791721,-69.986847,41.791721",
-    "geom:latitude":41.791721,
-    "geom:longitude":-69.986847,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1 S Orleans Rd",
-    "sg:city":"Orleans",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1 S Orleans Rd Orleans MA 02653",
+    "addr:housenumber": "1",
+    "addr:postcode": "02653",
+    "addr:street": "S Orleans Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-69.986847,41.791721,-69.986847,41.791721",
+    "geom:latitude": 41.791721,
+    "geom:longitude": -69.986847,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Cooke's Seafood, 1 S Orleans Rd Orleans MA US",
+    "ovtr:similarity": 2.764906883239746,
+    "sg:address": "1 S Orleans Rd",
+    "sg:city": "Orleans",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 255 5518",
-    "sg:postcode":"02653",
-    "sg:province":"MA",
-    "sg:tags":[
-        "seafood"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 255 5518",
+    "sg:postcode": "02653",
+    "sg:province": "MA",
+    "sg:tags": [
+      "seafood"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1yXsPBySnNlushGYBPdsiX_41.791721_-69.986847@1303262233"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a310289a12a60316d7501bf434c4",
+      "sg:id": "SG_1yXsPBySnNlushGYBPdsiX_41.791721_-69.986847@1303262233"
     },
-    "wof:country":"US",
-    "wof:created":1461742229,
-    "wof:geomhash":"93af86f9dc6d6de8e6e198b0a213db95",
-    "wof:hierarchy":[],
-    "wof:id":689208549,
-    "wof:lastmodified":1492098405,
-    "wof:name":"Cooke's Seafood",
-    "wof:parent_id":85852345,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "seafood"
+    "wof:country": "US",
+    "wof:created": 1461742229,
+    "wof:geomhash": "93af86f9dc6d6de8e6e198b0a213db95",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689208549
+      }
+    ],
+    "wof:id": 689208549,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Cooke's Seafood",
+    "wof:parent_id": 85852345,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "seafood"
     ]
-},
+  },
   "bbox": [
     -69.986847,
     41.791721,
     -69.986847,
     41.791721
-],
+  ],
   "geometry": {"coordinates":[-69.986847,41.791721],"type":"Point"}
 }

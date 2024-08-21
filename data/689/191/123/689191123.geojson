@@ -2,69 +2,72 @@
   "id": 689191123,
   "type": "Feature",
   "properties": {
-    "addr:full":"249 Main St Buzzards Bay MA 02532",
-    "addr:housenumber":"249",
-    "addr:postcode":"02532",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.605904,41.748901,-70.605904,41.748901",
-    "geom:latitude":41.748901,
-    "geom:longitude":-70.605904,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"249 Main St",
-    "sg:city":"Buzzards Bay",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "249 Main St Buzzards Bay MA 02532",
+    "addr:housenumber": "249",
+    "addr:postcode": "02532",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.605904,41.748901,-70.605904,41.748901",
+    "geom:latitude": 41.748901,
+    "geom:longitude": -70.605904,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Leo's Breakfast Restaurant, 249 Main St Buzzards Bay MA US",
+    "ovtr:similarity": 2.212224006652832,
+    "sg:address": "249 Main St",
+    "sg:city": "Buzzards Bay",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 759 7557",
-    "sg:postcode":"02532",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85806811,
-        102084379
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 759 7557",
+    "sg:postcode": "02532",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85806811,
+      102084379
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4QWnCvTtOkdIo7k641OA3J_41.748901_-70.605904@1303262231"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a317b4150aa603d09c9ae99d0dbf",
+      "sg:id": "SG_4QWnCvTtOkdIo7k641OA3J_41.748901_-70.605904@1303262231"
     },
-    "wof:country":"US",
-    "wof:created":1461741865,
-    "wof:geomhash":"7836327cdab00798d537293711c39e58",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "neighbourhood_id":85806811,
-            "region_id":85688645,
-            "venue_id":689191123
-        }
+    "wof:country": "US",
+    "wof:created": 1461741865,
+    "wof:geomhash": "7542fc3214166225a9f36255bf0f958e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "neighbourhood_id": 85806811,
+        "region_id": 85688645,
+        "venue_id": 689191123
+      }
     ],
-    "wof:id":689191123,
-    "wof:lastmodified":1472625587,
-    "wof:name":"Leo's Breakfast Restaurant",
-    "wof:parent_id":85806811,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 689191123,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Leo's Breakfast Restaurant",
+    "wof:parent_id": 85806811,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.605904,
     41.748901,
     -70.605904,
     41.748901
-],
+  ],
   "geometry": {"coordinates":[-70.605904,41.748901],"type":"Point"}
 }

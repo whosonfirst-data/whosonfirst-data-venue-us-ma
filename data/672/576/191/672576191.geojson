@@ -2,61 +2,68 @@
   "id": 672576191,
   "type": "Feature",
   "properties": {
-    "addr:full":"429 Electric Ave Lunenburg MA 01462",
-    "addr:housenumber":"429",
-    "addr:postcode":"01462",
-    "addr:street":"Electric Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.749631,42.579973,-71.749631,42.579973",
-    "geom:latitude":42.579973,
-    "geom:longitude":-71.749631,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"429 Electric Ave",
-    "sg:city":"Lunenburg",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "429 Electric Ave Lunenburg MA 01462",
+    "addr:housenumber": "429",
+    "addr:postcode": "01462",
+    "addr:street": "Electric Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.749631,42.579973,-71.749631,42.579973",
+    "geom:latitude": 42.579973,
+    "geom:longitude": -71.749631,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Presto Pizza, 429 Electric Ave Lunenburg MA US",
+    "ovtr:similarity": 1.871271014213562,
+    "sg:address": "429 Electric Ave",
+    "sg:city": "Lunenburg",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 348 2020",
-    "sg:postcode":"01462",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 348 2020",
+    "sg:postcode": "01462",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6tfxHvSdAsSnCwWHMlj114_42.579973_-71.749631@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32a018420a503884d56d4bea59e",
+      "sg:id": "SG_6tfxHvSdAsSnCwWHMlj114_42.579973_-71.749631@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461722037,
-    "wof:geomhash":"ad28a45e58c4635cb4e35503df3de147",
-    "wof:hierarchy":[],
-    "wof:id":672576191,
-    "wof:lastmodified":1472625807,
-    "wof:name":"Presto Pizza",
-    "wof:parent_id":420524195,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1461722037,
+    "wof:geomhash": "28dfba3b857a696b743676a791930f39",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672576191
+      }
+    ],
+    "wof:id": 672576191,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Presto Pizza",
+    "wof:parent_id": 420524195,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.749631,
     42.579973,
     -71.749631,
     42.579973
-],
-  "geometry": {"coordinates":[-71.74963099999999,42.579973],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.749631,42.579973],"type":"Point"}
 }

@@ -2,80 +2,83 @@
   "id": 672449905,
   "type": "Feature",
   "properties": {
-    "addr:full":"106 Lynn St Peabody MA 01960",
-    "addr:housenumber":"106",
-    "addr:postcode":"01960",
-    "addr:street":"Lynn St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.946959,42.512549,-70.946959,42.512549",
-    "geom:latitude":42.512549,
-    "geom:longitude":-70.946959,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"106 Lynn St",
-    "sg:city":"Peabody",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "106 Lynn St Peabody MA 01960",
+    "addr:housenumber": "106",
+    "addr:postcode": "01960",
+    "addr:street": "Lynn St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.946959,42.512549,-70.946959,42.512549",
+    "geom:latitude": 42.512549,
+    "geom:longitude": -70.946959,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Toomey's Cleaners, 106 Lynn St Peabody MA US",
+    "ovtr:similarity": 2.4097580909729004,
+    "sg:address": "106 Lynn St",
+    "sg:city": "Peabody",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 531 2782",
-    "sg:postcode":"01960",
-    "sg:province":"MA",
-    "sg:tags":[
-        "cleaners"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 531 2782",
+    "sg:postcode": "01960",
+    "sg:province": "MA",
+    "sg:tags": [
+      "cleaners"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85849939,
-        102191575,
-        404476253,
-        85633793,
-        85950407,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85849939,
+      102191575,
+      404476253,
+      85633793,
+      85950407,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_21vNKvAY85gmtCr1L1M2Kj_42.512549_-70.946959@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a307646c12d603c08b99914a7711",
+      "sg:id": "SG_21vNKvAY85gmtCr1L1M2Kj_42.512549_-70.946959@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461719173,
-    "wof:geomhash":"09be821874a5f486a22661fd5245f1e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476253,
-            "locality_id":85950407,
-            "neighbourhood_id":85849939,
-            "region_id":85688645,
-            "venue_id":672449905
-        }
+    "wof:country": "US",
+    "wof:created": 1461719173,
+    "wof:geomhash": "612c3b5e56b0f26ecadc83c7c54675cf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476253,
+        "locality_id": 85950407,
+        "neighbourhood_id": 85849939,
+        "region_id": 85688645,
+        "venue_id": 672449905
+      }
     ],
-    "wof:id":672449905,
-    "wof:lastmodified":1472625716,
-    "wof:name":"Toomey's Cleaners",
-    "wof:parent_id":85849939,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cleaners"
+    "wof:id": 672449905,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Toomey's Cleaners",
+    "wof:parent_id": 85849939,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cleaners"
     ]
-},
+  },
   "bbox": [
     -70.946959,
     42.512549,
     -70.946959,
     42.512549
-],
-  "geometry": {"coordinates":[-70.94695900000001,42.512549],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.946959,42.512549],"type":"Point"}
 }

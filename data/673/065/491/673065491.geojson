@@ -2,80 +2,83 @@
   "id": 673065491,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 Centre Ave Abington MA 02351",
-    "addr:housenumber":"123",
-    "addr:postcode":"02351",
-    "addr:street":"Centre Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.938961,42.106967,-70.938961,42.106967",
-    "geom:latitude":42.106967,
-    "geom:longitude":-70.938961,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 Centre Ave",
-    "sg:city":"Abington",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "123 Centre Ave Abington MA 02351",
+    "addr:housenumber": "123",
+    "addr:postcode": "02351",
+    "addr:street": "Centre Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.938961,42.106967,-70.938961,42.106967",
+    "geom:latitude": 42.106967,
+    "geom:longitude": -70.938961,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Spencer's Pizza, 123 Centre Ave Abington MA US",
+    "ovtr:similarity": 2.521162986755371,
+    "sg:address": "123 Centre Ave",
+    "sg:city": "Abington",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 871 2823",
-    "sg:postcode":"02351",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 871 2823",
+    "sg:postcode": "02351",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85837151,
-        102191575,
-        404476499,
-        85633793,
-        85950439,
-        102084367,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85837151,
+      102191575,
+      404476499,
+      85633793,
+      85950439,
+      102084367,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5I8WcJ9G83Ut5eNsyau2ZB_42.106846_-70.939168@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33973b954d8033537116eb7343d",
+      "sg:id": "SG_5I8WcJ9G83Ut5eNsyau2ZB_42.106846_-70.939168@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733053,
-    "wof:geomhash":"c482390711ad6ecd053f8f99b71a96ea",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476499,
-            "locality_id":85950439,
-            "neighbourhood_id":85837151,
-            "region_id":85688645,
-            "venue_id":673065491
-        }
+    "wof:country": "US",
+    "wof:created": 1461733053,
+    "wof:geomhash": "baf24cc91add3b03460baa0da52be174",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476499,
+        "locality_id": 85950439,
+        "neighbourhood_id": 85837151,
+        "region_id": 85688645,
+        "venue_id": 673065491
+      }
     ],
-    "wof:id":673065491,
-    "wof:lastmodified":1472625170,
-    "wof:name":"Spencer's Pizza",
-    "wof:parent_id":85837151,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 673065491,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Spencer's Pizza",
+    "wof:parent_id": 85837151,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -70.938961,
     42.106967,
     -70.938961,
     42.106967
-],
-  "geometry": {"coordinates":[-70.93896100000001,42.106967],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.938961,42.106967],"type":"Point"}
 }

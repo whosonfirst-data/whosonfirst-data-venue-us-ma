@@ -2,90 +2,93 @@
   "id": 689176193,
   "type": "Feature",
   "properties": {
-    "addr:full":"279 Harvard St Brookline MA 02446",
-    "addr:housenumber":"279",
-    "addr:postcode":"02446",
-    "addr:street":"Harvard St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.122956,42.343106,-71.122956,42.343106",
-    "geom:latitude":42.343106,
-    "geom:longitude":-71.122956,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"279 Harvard St",
-    "sg:city":"Brookline",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Books",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Wholesale",
-            "subcategory":"Stationery",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "279 Harvard St Brookline MA 02446",
+    "addr:housenumber": "279",
+    "addr:postcode": "02446",
+    "addr:street": "Harvard St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.122956,42.343106,-71.122956,42.343106",
+    "geom:latitude": 42.343106,
+    "geom:longitude": -71.122956,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Brookline Booksmith, 279 Harvard St Brookline MA US",
+    "ovtr:similarity": 2.9368810653686523,
+    "sg:address": "279 Harvard St",
+    "sg:city": "Brookline",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Books",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Stationery",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 566 6660",
-    "sg:postcode":"02446",
-    "sg:province":"MA",
-    "sg:tags":[
-        "bookstore",
-        "card"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 566 6660",
+    "sg:postcode": "02446",
+    "sg:province": "MA",
+    "sg:tags": [
+      "bookstore",
+      "card"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85812173,
-        102191575,
-        404476429,
-        85633793,
-        85950817,
-        102084403,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85812173,
+      102191575,
+      404476429,
+      85633793,
+      85950817,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2389024798,
-        "sg:id":"SG_4c0fW1rPtt8p7kqgzDquTW_42.343106_-71.122956@1303262229"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2389024798,
+      "ovtr:id": "08f2a306446c497103a550533bf0782a",
+      "sg:id": "SG_4c0fW1rPtt8p7kqgzDquTW_42.343106_-71.122956@1303262229"
     },
-    "wof:country":"US",
-    "wof:created":1461741541,
-    "wof:geomhash":"3d72efa6f7c36b30bc07820e48934ca7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476429,
-            "locality_id":85950817,
-            "neighbourhood_id":85812173,
-            "region_id":85688645,
-            "venue_id":689176193
-        }
+    "wof:country": "US",
+    "wof:created": 1461741541,
+    "wof:geomhash": "3d72efa6f7c36b30bc07820e48934ca7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476429,
+        "locality_id": 85950817,
+        "neighbourhood_id": 85812173,
+        "region_id": 85688645,
+        "venue_id": 689176193
+      }
     ],
-    "wof:id":689176193,
-    "wof:lastmodified":1510942029,
-    "wof:name":"Brookline Booksmith",
-    "wof:parent_id":85812173,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bookstore",
-        "card"
+    "wof:id": 689176193,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Brookline Booksmith",
+    "wof:parent_id": 85812173,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bookstore",
+      "card"
     ]
-},
+  },
   "bbox": [
     -71.122956,
     42.343106,
     -71.122956,
     42.343106
-],
+  ],
   "geometry": {"coordinates":[-71.122956,42.343106],"type":"Point"}
 }

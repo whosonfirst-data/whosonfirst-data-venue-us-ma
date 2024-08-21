@@ -2,80 +2,83 @@
   "id": 673058803,
   "type": "Feature",
   "properties": {
-    "addr:full":"28 Broadway Malden MA 02148",
-    "addr:housenumber":"28",
-    "addr:postcode":"02148",
-    "addr:street":"Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.042652,42.424201,-71.042652,42.424201",
-    "geom:latitude":42.424201,
-    "geom:longitude":-71.042652,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"28 Broadway",
-    "sg:city":"Malden",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Automobile Sales",
-            "type":"Retail Goods"
-        }
+    "addr:full": "28 Broadway Malden MA 02148",
+    "addr:housenumber": "28",
+    "addr:postcode": "02148",
+    "addr:street": "Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.042652,42.424201,-71.042652,42.424201",
+    "geom:latitude": 42.424201,
+    "geom:longitude": -71.042652,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Green Leaf Auto Sales, 28 Broadway Malden MA US",
+    "ovtr:similarity": 2.8075408935546875,
+    "sg:address": "28 Broadway",
+    "sg:city": "Malden",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Automobile Sales",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 322 0000",
-    "sg:postcode":"02148",
-    "sg:province":"MA",
-    "sg:tags":[
-        "car"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 322 0000",
+    "sg:postcode": "02148",
+    "sg:province": "MA",
+    "sg:tags": [
+      "car"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85832357,
-        102191575,
-        404476399,
-        85633793,
-        85950349,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85832357,
+      102191575,
+      404476399,
+      85633793,
+      85950349,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4EcsC8Zlp6L9Fh66j5Izn2_42.424501_-71.042371@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3075d1483860303f85c9f6a0fdb",
+      "sg:id": "SG_4EcsC8Zlp6L9Fh66j5Izn2_42.424501_-71.042371@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732925,
-    "wof:geomhash":"ffdb8f45aaeb4cd70b8031b6d9a1da7d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476399,
-            "locality_id":85950349,
-            "neighbourhood_id":85832357,
-            "region_id":85688645,
-            "venue_id":673058803
-        }
+    "wof:country": "US",
+    "wof:created": 1461732925,
+    "wof:geomhash": "b9180940d2f05bbf9e4cdfa9791775db",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476399,
+        "locality_id": 85950349,
+        "neighbourhood_id": 85832357,
+        "region_id": 85688645,
+        "venue_id": 673058803
+      }
     ],
-    "wof:id":673058803,
-    "wof:lastmodified":1472625171,
-    "wof:name":"Green Leaf Auto Sales",
-    "wof:parent_id":85832357,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "car"
+    "wof:id": 673058803,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Green Leaf Auto Sales",
+    "wof:parent_id": 85832357,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "car"
     ]
-},
+  },
   "bbox": [
     -71.042652,
     42.424201,
     -71.042652,
     42.424201
-],
+  ],
   "geometry": {"coordinates":[-71.042652,42.424201],"type":"Point"}
 }

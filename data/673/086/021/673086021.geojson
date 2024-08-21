@@ -2,85 +2,88 @@
   "id": 673086021,
   "type": "Feature",
   "properties": {
-    "addr:full":"738 Broadway Saugus MA 01906",
-    "addr:housenumber":"738",
-    "addr:postcode":"01906",
-    "addr:street":"Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.023218,42.476653,-71.023218,42.476653",
-    "geom:latitude":42.476653,
-    "geom:longitude":-71.023218,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"738 Broadway",
-    "sg:city":"Saugus",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "738 Broadway Saugus MA 01906",
+    "addr:housenumber": "738",
+    "addr:postcode": "01906",
+    "addr:street": "Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.023218,42.476653,-71.023218,42.476653",
+    "geom:latitude": 42.476653,
+    "geom:longitude": -71.023218,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "McDonald's, 738 Broadway Saugus MA US",
+    "ovtr:similarity": 2.8389129638671875,
+    "sg:address": "738 Broadway",
+    "sg:city": "Saugus",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/saugus/188711-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"01906",
-    "sg:province":"MA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ma/saugus/188711-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "01906",
+    "sg:province": "MA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85839005,
-        102191575,
-        404476265,
-        85633793,
-        85950809,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85839005,
+      102191575,
+      404476265,
+      85633793,
+      85950809,
+      102084463,
+      85688645
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3nSXnGximnWO8fEVgRR0rN_42.476653_-71.023218@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3074634cc6c03e8e69d998c6a34",
+      "sg:id": "SG_3nSXnGximnWO8fEVgRR0rN_42.476653_-71.023218@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461733479,
-    "wof:geomhash":"c08d75e08a08b9359e298b14ff8791e0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476265,
-            "locality_id":85950809,
-            "neighbourhood_id":85839005,
-            "region_id":85688645,
-            "venue_id":673086021
-        }
+    "wof:country": "US",
+    "wof:created": 1461733479,
+    "wof:geomhash": "c08d75e08a08b9359e298b14ff8791e0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476265,
+        "locality_id": 85950809,
+        "neighbourhood_id": 85839005,
+        "region_id": 85688645,
+        "venue_id": 673086021
+      }
     ],
-    "wof:id":673086021,
-    "wof:lastmodified":1512142885,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85839005,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 673086021,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85839005,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -71.023218,
     42.476653,
     -71.023218,
     42.476653
-],
+  ],
   "geometry": {"coordinates":[-71.023218,42.476653],"type":"Point"}
 }

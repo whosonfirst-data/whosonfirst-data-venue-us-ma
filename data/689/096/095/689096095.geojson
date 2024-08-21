@@ -2,84 +2,87 @@
   "id": 689096095,
   "type": "Feature",
   "properties": {
-    "addr:full":"145 Elm St Somerville MA 02143",
-    "addr:housenumber":"145",
-    "addr:postcode":"02143",
-    "addr:street":"Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.118599,42.391102,-71.118599,42.391102",
-    "geom:latitude":42.391102,
-    "geom:longitude":-71.118599,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"145 Elm St",
-    "sg:city":"Somerville",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Bicycles & Sporting Goods",
-            "type":"Retail Goods"
-        }
+    "addr:full": "145 Elm St Somerville MA 02143",
+    "addr:housenumber": "145",
+    "addr:postcode": "02143",
+    "addr:street": "Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.118599,42.391102,-71.118599,42.391102",
+    "geom:latitude": 42.391102,
+    "geom:longitude": -71.118599,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Ace Wheelworks, 145 Elm St Somerville MA US",
+    "ovtr:similarity": 2.4307239055633545,
+    "sg:address": "145 Elm St",
+    "sg:city": "Somerville",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Bicycles \u0026 Sporting Goods",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 776 2100",
-    "sg:postcode":"02143",
-    "sg:province":"MA",
-    "sg:tags":[
-        "bike"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 776 2100",
+    "sg:postcode": "02143",
+    "sg:province": "MA",
+    "sg:tags": [
+      "bike"
     ],
-    "sg:website":"www.wheelworks.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85850575,
-        102191575,
-        404476445,
-        85633793,
-        85950339,
-        102084643,
-        85688645
+    "sg:website": "www.wheelworks.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85850575,
+      102191575,
+      404476445,
+      85633793,
+      85950339,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":29635533,
-        "sg:id":"SG_5xwA8588i74cE4iQYCwjMh_42.391102_-71.118599@1303262218"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 29635533,
+      "ovtr:id": "08f2a30675556aa203ff01c5e89ed07b",
+      "sg:id": "SG_5xwA8588i74cE4iQYCwjMh_42.391102_-71.118599@1303262218"
     },
-    "wof:country":"US",
-    "wof:created":1461739305,
-    "wof:geomhash":"64fdf1740219a1c8bd703a6282a5b248",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476445,
-            "locality_id":85950339,
-            "neighbourhood_id":85850575,
-            "region_id":85688645,
-            "venue_id":689096095
-        }
+    "wof:country": "US",
+    "wof:created": 1461739305,
+    "wof:geomhash": "64fdf1740219a1c8bd703a6282a5b248",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476445,
+        "locality_id": 85950339,
+        "neighbourhood_id": 85850575,
+        "region_id": 85688645,
+        "venue_id": 689096095
+      }
     ],
-    "wof:id":689096095,
-    "wof:lastmodified":1510942585,
-    "wof:name":"Ace Wheelworks",
-    "wof:parent_id":85850575,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bike"
+    "wof:id": 689096095,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Ace Wheelworks",
+    "wof:parent_id": 85850575,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bike"
     ]
-},
+  },
   "bbox": [
     -71.118599,
     42.391102,
     -71.118599,
     42.391102
-],
+  ],
   "geometry": {"coordinates":[-71.118599,42.391102],"type":"Point"}
 }

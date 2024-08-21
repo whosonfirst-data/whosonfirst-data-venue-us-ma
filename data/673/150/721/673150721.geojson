@@ -2,89 +2,92 @@
   "id": 673150721,
   "type": "Feature",
   "properties": {
-    "addr:full":"400 Cambridge Rd Woburn MA 01801",
-    "addr:housenumber":"400",
-    "addr:postcode":"01801",
-    "addr:street":"Cambridge Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.1651,42.460602,-71.1651,42.460602",
-    "geom:latitude":42.460602,
-    "geom:longitude":-71.1651,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"400 Cambridge Rd",
-    "sg:city":"Woburn",
-    "sg:classifiers":[
-        {
-            "category":"Insurance",
-            "subcategory":"Health Insurance",
-            "type":"Services"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "400 Cambridge Rd Woburn MA 01801",
+    "addr:housenumber": "400",
+    "addr:postcode": "01801",
+    "addr:street": "Cambridge Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.165100,42.460602,-71.165100,42.460602",
+    "geom:latitude": 42.460602,
+    "geom:longitude": -71.1651,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Whole Foods Market, 400 Cambridge Rd Woburn MA US",
+    "ovtr:similarity": 2.7167930603027344,
+    "sg:address": "400 Cambridge Rd",
+    "sg:city": "Woburn",
+    "sg:classifiers": [
+      {
+        "category": "Insurance",
+        "subcategory": "Health Insurance",
+        "type": "Services"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 376 9600",
-    "sg:postcode":"01801",
-    "sg:province":"MA",
-    "sg:tags":[
-        "market"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 376 9600",
+    "sg:postcode": "01801",
+    "sg:province": "MA",
+    "sg:tags": [
+      "market"
     ],
-    "sg:website":"www.wholefoodsmarket.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85858437,
-        102191575,
-        404476469,
-        85633793,
-        85950353,
-        102084643,
-        85688645
+    "sg:website": "www.wholefoodsmarket.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85858437,
+      102191575,
+      404476469,
+      85633793,
+      85950353,
+      102084643,
+      85688645
     ],
-    "wof:brand_id":1125150113,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_23Thwkt0OxhlG2dx90CnJ3_42.460602_-71.165100@1303262190"
+    "wof:brand_id": 1125150113,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3062ea8509203e3dbfaf1ae5a35",
+      "sg:id": "SG_23Thwkt0OxhlG2dx90CnJ3_42.460602_-71.165100@1303262190"
     },
-    "wof:country":"US",
-    "wof:created":1461734816,
-    "wof:geomhash":"1748b113abca2717886ce20d2a5328a5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476469,
-            "locality_id":85950353,
-            "neighbourhood_id":85858437,
-            "region_id":85688645,
-            "venue_id":673150721
-        }
+    "wof:country": "US",
+    "wof:created": 1461734816,
+    "wof:geomhash": "1748b113abca2717886ce20d2a5328a5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476469,
+        "locality_id": 85950353,
+        "neighbourhood_id": 85858437,
+        "region_id": 85688645,
+        "venue_id": 673150721
+      }
     ],
-    "wof:id":673150721,
-    "wof:lastmodified":1510697248,
-    "wof:name":"Whole Foods Market",
-    "wof:parent_id":85858437,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "market"
+    "wof:id": 673150721,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Whole Foods Market",
+    "wof:parent_id": 85858437,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "market"
     ]
-},
+  },
   "bbox": [
     -71.1651,
     42.460602,
     -71.1651,
     42.460602
-],
+  ],
   "geometry": {"coordinates":[-71.1651,42.460602],"type":"Point"}
 }

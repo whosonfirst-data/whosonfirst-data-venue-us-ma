@@ -2,69 +2,76 @@
   "id": 673127999,
   "type": "Feature",
   "properties": {
-    "addr:full":"140 Main St Sturbridge MA 01566",
-    "addr:housenumber":"140",
-    "addr:postcode":"01566",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.067852,42.093699,-72.067852,42.093699",
-    "geom:latitude":42.093699,
-    "geom:longitude":-72.067852,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"140 Main St",
-    "sg:city":"Sturbridge",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "140 Main St Sturbridge MA 01566",
+    "addr:housenumber": "140",
+    "addr:postcode": "01566",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.067852,42.093699,-72.067852,42.093699",
+    "geom:latitude": 42.093699,
+    "geom:longitude": -72.067852,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Annie's Country Kitchen, 140 Main St Sturbridge MA US",
+    "ovtr:similarity": 2.786881923675537,
+    "sg:address": "140 Main St",
+    "sg:city": "Sturbridge",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 347 2320",
-    "sg:postcode":"01566",
-    "sg:province":"MA",
-    "sg:tags":[
-        "diner"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 347 2320",
+    "sg:postcode": "01566",
+    "sg:province": "MA",
+    "sg:tags": [
+      "diner"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":216279572,
-        "sg:id":"SG_3HZae2yuWPXp2Y0eoJTyhZ_42.093699_-72.067852@1303262187"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 216279572,
+      "ovtr:id": "08f2a33510d259630324e95a4bb66b0e",
+      "sg:id": "SG_3HZae2yuWPXp2Y0eoJTyhZ_42.093699_-72.067852@1303262187"
     },
-    "wof:country":"US",
-    "wof:created":1461734353,
-    "wof:geomhash":"8fa302b70d37fe189a78677593381c97",
-    "wof:hierarchy":[],
-    "wof:id":673127999,
-    "wof:lastmodified":1510944159,
-    "wof:name":"Annie's Country Kitchen",
-    "wof:parent_id":85845279,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "diner"
+    "wof:country": "US",
+    "wof:created": 1461734353,
+    "wof:geomhash": "8fa302b70d37fe189a78677593381c97",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673127999
+      }
+    ],
+    "wof:id": 673127999,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Annie's Country Kitchen",
+    "wof:parent_id": 85845279,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "diner"
     ]
-},
+  },
   "bbox": [
     -72.067852,
     42.093699,
     -72.067852,
     42.093699
-],
+  ],
   "geometry": {"coordinates":[-72.067852,42.093699],"type":"Point"}
 }

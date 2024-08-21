@@ -2,84 +2,87 @@
   "id": 673093397,
   "type": "Feature",
   "properties": {
-    "addr:full":"456 Sumner Ave Springfield MA 01108",
-    "addr:housenumber":"456",
-    "addr:postcode":"01108",
-    "addr:street":"Sumner Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.559939,42.085784,-72.559939,42.085784",
-    "geom:latitude":42.085784,
-    "geom:longitude":-72.559939,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"456 Sumner Ave",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "456 Sumner Ave Springfield MA 01108",
+    "addr:housenumber": "456",
+    "addr:postcode": "01108",
+    "addr:street": "Sumner Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.559939,42.085784,-72.559939,42.085784",
+    "geom:latitude": 42.085784,
+    "geom:longitude": -72.559939,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Taco Bell, 456 Sumner Ave Springfield MA US",
+    "ovtr:similarity": 2.5448288917541504,
+    "sg:address": "456 Sumner Ave",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/springfield/207630-taco-bell/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 739 8674",
-    "sg:postcode":"01108",
-    "sg:province":"MA",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/ma/springfield/207630-taco-bell/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 739 8674",
+    "sg:postcode": "01108",
+    "sg:province": "MA",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85852131,
-        102191575,
-        404476369,
-        85633793,
-        85950393,
-        102084627,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85852131,
+      102191575,
+      404476369,
+      85633793,
+      85950393,
+      102084627,
+      85688645
     ],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5upcrCgjiGIkIokuyA4E5t_42.085761_-72.560219@1294127905"
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a148256da64203783dda3eab4ed9",
+      "sg:id": "SG_5upcrCgjiGIkIokuyA4E5t_42.085761_-72.560219@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461733630,
-    "wof:geomhash":"7ec8f3854daae568e8f3a3205a8f1a4b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084627,
-            "localadmin_id":404476369,
-            "locality_id":85950393,
-            "neighbourhood_id":85852131,
-            "region_id":85688645,
-            "venue_id":673093397
-        }
+    "wof:country": "US",
+    "wof:created": 1461733630,
+    "wof:geomhash": "7ec8f3854daae568e8f3a3205a8f1a4b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "localadmin_id": 404476369,
+        "locality_id": 85950393,
+        "neighbourhood_id": 85852131,
+        "region_id": 85688645,
+        "venue_id": 673093397
+      }
     ],
-    "wof:id":673093397,
-    "wof:lastmodified":1511321243,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":85852131,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:id": 673093397,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": 85852131,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -72.559939,
     42.085784,
     -72.559939,
     42.085784
-],
+  ],
   "geometry": {"coordinates":[-72.559939,42.085784],"type":"Point"}
 }

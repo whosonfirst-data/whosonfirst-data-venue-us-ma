@@ -2,75 +2,78 @@
   "id": 672445959,
   "type": "Feature",
   "properties": {
-    "addr:full":"208 Elm St South Dartmouth MA 02748",
-    "addr:housenumber":"208",
-    "addr:postcode":"02748",
-    "addr:street":"Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.942655,41.58565,-70.942655,41.58565",
-    "geom:latitude":41.58565,
-    "geom:longitude":-70.942655,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"208 Elm St",
-    "sg:city":"South Dartmouth",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "208 Elm St South Dartmouth MA 02748",
+    "addr:housenumber": "208",
+    "addr:postcode": "02748",
+    "addr:street": "Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.942655,41.585650,-70.942655,41.585650",
+    "geom:latitude": 41.58565,
+    "geom:longitude": -70.942655,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "New Bedford Yacht Club, 208 Elm St South Dartmouth MA US",
+    "ovtr:similarity": 2.806734085083008,
+    "sg:address": "208 Elm St",
+    "sg:city": "South Dartmouth",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 997 0762",
-    "sg:postcode":"02748",
-    "sg:province":"MA",
-    "sg:tags":[
-        "club"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 997 0762",
+    "sg:postcode": "02748",
+    "sg:province": "MA",
+    "sg:tags": [
+      "club"
     ],
-    "sg:website":"www.nbyc.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85844119,
-        102084407
+    "sg:website": "www.nbyc.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85844119,
+      102084407
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0ccvZMHSrBHOVfXfVJI4Xu_41.585650_-70.942655@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33a71412046039e01f774bd11fb",
+      "sg:id": "SG_0ccvZMHSrBHOVfXfVJI4Xu_41.585650_-70.942655@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461719074,
-    "wof:geomhash":"31ab24693780dd7af74bbce72c0c895d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084407,
-            "neighbourhood_id":85844119,
-            "region_id":85688645,
-            "venue_id":672445959
-        }
+    "wof:country": "US",
+    "wof:created": 1461719074,
+    "wof:geomhash": "eb7953d0ededf56b21dd66df49ea8a7f",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "neighbourhood_id": 85844119,
+        "region_id": 85688645,
+        "venue_id": 672445959
+      }
     ],
-    "wof:id":672445959,
-    "wof:lastmodified":1472625717,
-    "wof:name":"New Bedford Yacht Club",
-    "wof:parent_id":85844119,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club"
+    "wof:id": 672445959,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "New Bedford Yacht Club",
+    "wof:parent_id": 85844119,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
     ]
-},
+  },
   "bbox": [
     -70.942655,
     41.58565,
     -70.942655,
     41.58565
-],
+  ],
   "geometry": {"coordinates":[-70.942655,41.58565],"type":"Point"}
 }

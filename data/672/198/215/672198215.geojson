@@ -2,75 +2,78 @@
   "id": 672198215,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 Orange St Springfield MA 01108",
-    "addr:housenumber":"10",
-    "addr:postcode":"01108",
-    "addr:street":"Orange St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.568419,42.093096,-72.568419,42.093096",
-    "geom:latitude":42.093096,
-    "geom:longitude":-72.568419,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10 Orange St",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "10 Orange St Springfield MA 01108",
+    "addr:housenumber": "10",
+    "addr:postcode": "01108",
+    "addr:street": "Orange St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.568419,42.093096,-72.568419,42.093096",
+    "geom:latitude": 42.093096,
+    "geom:longitude": -72.568419,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Red Apple, 10 Orange St Springfield MA US",
+    "ovtr:similarity": 2.8938119411468506,
+    "sg:address": "10 Orange St",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 731 7722",
-    "sg:postcode":"01108",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85881109,
-        102191575,
-        404475977,
-        85633793,
-        85950771,
-        102084627,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 731 7722",
+    "sg:postcode": "01108",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85881109,
+      102191575,
+      404475977,
+      85633793,
+      85950771,
+      102084627,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3SVRTpsKp3l3zPobD1NZo5_42.093096_-72.568419@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a14820b892340378779561bf18f8",
+      "sg:id": "SG_3SVRTpsKp3l3zPobD1NZo5_42.093096_-72.568419@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461713526,
-    "wof:geomhash":"bd3867be4a6b9f5f47ae4859e60fb245",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084627,
-            "localadmin_id":404475977,
-            "locality_id":85950771,
-            "neighbourhood_id":85881109,
-            "region_id":85688645,
-            "venue_id":672198215
-        }
+    "wof:country": "US",
+    "wof:created": 1461713526,
+    "wof:geomhash": "87d204b0e78ac32047bff945da2af711",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "localadmin_id": 404475977,
+        "locality_id": 85950771,
+        "neighbourhood_id": 85881109,
+        "region_id": 85688645,
+        "venue_id": 672198215
+      }
     ],
-    "wof:id":672198215,
-    "wof:lastmodified":1472625141,
-    "wof:name":"Red Apple",
-    "wof:parent_id":85881109,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672198215,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Red Apple",
+    "wof:parent_id": 85881109,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -72.568419,
     42.093096,
     -72.568419,
     42.093096
-],
-  "geometry": {"coordinates":[-72.56841900000001,42.093096],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-72.568419,42.093096],"type":"Point"}
 }

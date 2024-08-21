@@ -2,75 +2,78 @@
   "id": 672849553,
   "type": "Feature",
   "properties": {
-    "addr:full":"503 Main St Medfield MA 02052",
-    "addr:housenumber":"503",
-    "addr:postcode":"02052",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.30651,42.1862,-71.30651,42.1862",
-    "geom:latitude":42.1862,
-    "geom:longitude":-71.30651,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"503 Main St",
-    "sg:city":"Medfield",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Self-service Laundry",
-            "type":"Services"
-        }
+    "addr:full": "503 Main St Medfield MA 02052",
+    "addr:housenumber": "503",
+    "addr:postcode": "02052",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.306510,42.186200,-71.306510,42.186200",
+    "geom:latitude": 42.1862,
+    "geom:longitude": -71.30651,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Medfield Coin Laundry, 503 Main St Medfield MA US",
+    "ovtr:similarity": 2.4202330112457275,
+    "sg:address": "503 Main St",
+    "sg:city": "Medfield",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Self-service Laundry",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 359 4463",
-    "sg:postcode":"02052",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85823933,
-        102191575,
-        404476441,
-        85633793,
-        85950829,
-        102084403,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 359 4463",
+    "sg:postcode": "02052",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85823933,
+      102191575,
+      404476441,
+      85633793,
+      85950829,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5DjFSSzigIvNxIfp2ygvcf_42.186200_-71.306510@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3399e8333800351c2cf755eda3a",
+      "sg:id": "SG_5DjFSSzigIvNxIfp2ygvcf_42.186200_-71.306510@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461727985,
-    "wof:geomhash":"bf776105ace81bf82acbc4fde186f49d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476441,
-            "locality_id":85950829,
-            "neighbourhood_id":85823933,
-            "region_id":85688645,
-            "venue_id":672849553
-        }
+    "wof:country": "US",
+    "wof:created": 1461727985,
+    "wof:geomhash": "0d3ff5bc69d48219c5c3a8620dcfbf71",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476441,
+        "locality_id": 85950829,
+        "neighbourhood_id": 85823933,
+        "region_id": 85688645,
+        "venue_id": 672849553
+      }
     ],
-    "wof:id":672849553,
-    "wof:lastmodified":1472626081,
-    "wof:name":"Medfield Coin Laundry",
-    "wof:parent_id":85823933,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672849553,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Medfield Coin Laundry",
+    "wof:parent_id": 85823933,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.30651,
     42.1862,
     -71.30651,
     42.1862
-],
+  ],
   "geometry": {"coordinates":[-71.30651,42.1862],"type":"Point"}
 }

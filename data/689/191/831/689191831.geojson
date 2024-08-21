@@ -2,74 +2,77 @@
   "id": 689191831,
   "type": "Feature",
   "properties": {
-    "addr:full":"1337 County Rd Cataumet MA 02534",
-    "addr:housenumber":"1337",
-    "addr:postcode":"02534",
-    "addr:street":"County Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.613899,41.6661,-70.613899,41.6661",
-    "geom:latitude":41.6661,
-    "geom:longitude":-70.613899,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1337 County Rd",
-    "sg:city":"Cataumet",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"Nightclub",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1337 County Rd Cataumet MA 02534",
+    "addr:housenumber": "1337",
+    "addr:postcode": "02534",
+    "addr:street": "County Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.613899,41.666100,-70.613899,41.666100",
+    "geom:latitude": 41.6661,
+    "geom:longitude": -70.613899,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Courtyard Restaurant \u0026 Pub, 1337 County Rd Cataumet MA US",
+    "ovtr:similarity": 2.3901100158691406,
+    "sg:address": "1337 County Rd",
+    "sg:city": "Cataumet",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "Nightclub",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 563 1818",
-    "sg:postcode":"02534",
-    "sg:province":"MA",
-    "sg:tags":[
-        "nightlife"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 563 1818",
+    "sg:postcode": "02534",
+    "sg:province": "MA",
+    "sg:tags": [
+      "nightlife"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85849953,
-        102084379
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85849953,
+      102084379
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5scgLnnTyfrYuxlynzbxfH_41.666100_-70.613899@1303262231"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3178159c676032657fc8188825e",
+      "sg:id": "SG_5scgLnnTyfrYuxlynzbxfH_41.666100_-70.613899@1303262231"
     },
-    "wof:country":"US",
-    "wof:created":1461741879,
-    "wof:geomhash":"3fb922d37ac8aecdfd1d124b3e7d000e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "neighbourhood_id":85849953,
-            "region_id":85688645,
-            "venue_id":689191831
-        }
+    "wof:country": "US",
+    "wof:created": 1461741879,
+    "wof:geomhash": "fed0cf03e5286fa9a4d60a6726fdd381",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "neighbourhood_id": 85849953,
+        "region_id": 85688645,
+        "venue_id": 689191831
+      }
     ],
-    "wof:id":689191831,
-    "wof:lastmodified":1472625599,
-    "wof:name":"Courtyard Restaurant & Pub",
-    "wof:parent_id":85849953,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "nightlife"
+    "wof:id": 689191831,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Courtyard Restaurant \u0026 Pub",
+    "wof:parent_id": 85849953,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "nightlife"
     ]
-},
+  },
   "bbox": [
     -70.613899,
     41.6661,
     -70.613899,
     41.6661
-],
+  ],
   "geometry": {"coordinates":[-70.613899,41.6661],"type":"Point"}
 }

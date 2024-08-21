@@ -2,78 +2,81 @@
   "id": 672990817,
   "type": "Feature",
   "properties": {
-    "addr:full":"958 County St Fall River MA 02723",
-    "addr:housenumber":"958",
-    "addr:postcode":"02723",
-    "addr:street":"County St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.126477,41.689792,-71.126477,41.689792",
-    "geom:latitude":41.689792,
-    "geom:longitude":-71.126477,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"958 County St",
-    "sg:city":"Fall River",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "958 County St Fall River MA 02723",
+    "addr:housenumber": "958",
+    "addr:postcode": "02723",
+    "addr:street": "County St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.126477,41.689792,-71.126477,41.689792",
+    "geom:latitude": 41.689792,
+    "geom:longitude": -71.126477,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "County Street Collision, 958 County St Fall River MA US",
+    "ovtr:similarity": 2.9529030323028564,
+    "sg:address": "958 County St",
+    "sg:city": "Fall River",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 676 7921",
-    "sg:postcode":"02723",
-    "sg:province":"MA",
-    "sg:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 676 7921",
+    "sg:postcode": "02723",
+    "sg:province": "MA",
+    "sg:tags": [
+      "body",
+      "automobile",
+      "painting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85829343,
-        102084407
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85829343,
+      102084407
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_11dQ7dWOrOlbsMkwGCDEsB_41.689792_-71.126477@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33a12a652ab03ec67744bd8f1da",
+      "sg:id": "SG_11dQ7dWOrOlbsMkwGCDEsB_41.689792_-71.126477@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461731347,
-    "wof:geomhash":"2753734d391e043e13d6b2b5ae02099a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084407,
-            "neighbourhood_id":85829343,
-            "region_id":85688645,
-            "venue_id":672990817
-        }
+    "wof:country": "US",
+    "wof:created": 1461731347,
+    "wof:geomhash": "069656412bf54ef79eba66fd5716c51b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "neighbourhood_id": 85829343,
+        "region_id": 85688645,
+        "venue_id": 672990817
+      }
     ],
-    "wof:id":672990817,
-    "wof:lastmodified":1472626203,
-    "wof:name":"County Street Collision",
-    "wof:parent_id":85829343,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "wof:id": 672990817,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "County Street Collision",
+    "wof:parent_id": 85829343,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "automobile",
+      "painting"
     ]
-},
+  },
   "bbox": [
     -71.126477,
     41.689792,
     -71.126477,
     41.689792
-],
-  "geometry": {"coordinates":[-71.12647699999999,41.689792],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.126477,41.689792],"type":"Point"}
 }

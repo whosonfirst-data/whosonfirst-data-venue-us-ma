@@ -2,70 +2,73 @@
   "id": 672980691,
   "type": "Feature",
   "properties": {
-    "addr:full":"495 Main St North Andover MA 01845",
-    "addr:housenumber":"495",
-    "addr:postcode":"01845",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.120998,42.693527,-71.120998,42.693527",
-    "geom:latitude":42.693527,
-    "geom:longitude":-71.120998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"495 Main St",
-    "sg:city":"North Andover",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "495 Main St North Andover MA 01845",
+    "addr:housenumber": "495",
+    "addr:postcode": "01845",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.120998,42.693527,-71.120998,42.693527",
+    "geom:latitude": 42.693527,
+    "geom:longitude": -71.120998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "North Andover Middle School, 495 Main St North Andover MA US",
+    "ovtr:similarity": 3.5932509899139404,
+    "sg:address": "495 Main St",
+    "sg:city": "North Andover",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 794 1870",
-    "sg:postcode":"01845",
-    "sg:province":"MA",
-    "sg:website":"www.nandover.mec.edu",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85851041,
-        102084463
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 794 1870",
+    "sg:postcode": "01845",
+    "sg:province": "MA",
+    "sg:website": "www.nandover.mec.edu",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85851041,
+      102084463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1xnnOU12Jbb8uRCwm1i05o_42.693527_-71.120998@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3046986147603b3ba405151b52d",
+      "sg:id": "SG_1xnnOU12Jbb8uRCwm1i05o_42.693527_-71.120998@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461731049,
-    "wof:geomhash":"eb3cbe7479e8edd7f3284ad6d5921e69",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85851041,
-            "region_id":85688645,
-            "venue_id":672980691
-        }
+    "wof:country": "US",
+    "wof:created": 1461731049,
+    "wof:geomhash": "e624ecb7ec274dd068962f1d8fc8bbba",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "neighbourhood_id": 85851041,
+        "region_id": 85688645,
+        "venue_id": 672980691
+      }
     ],
-    "wof:id":672980691,
-    "wof:lastmodified":1472626192,
-    "wof:name":"North Andover Middle School",
-    "wof:parent_id":85851041,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672980691,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "North Andover Middle School",
+    "wof:parent_id": 85851041,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.120998,
     42.693527,
     -71.120998,
     42.693527
-],
+  ],
   "geometry": {"coordinates":[-71.120998,42.693527],"type":"Point"}
 }

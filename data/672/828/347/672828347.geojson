@@ -2,82 +2,85 @@
   "id": 672828347,
   "type": "Feature",
   "properties": {
-    "addr:full":"235 Cypress St Brookline MA 02445",
-    "addr:housenumber":"235",
-    "addr:postcode":"02445",
-    "addr:street":"Cypress St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.123817,42.326581,-71.123817,42.326581",
-    "geom:latitude":42.326581,
-    "geom:longitude":-71.123817,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"235 Cypress St",
-    "sg:city":"Brookline",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "235 Cypress St Brookline MA 02445",
+    "addr:housenumber": "235",
+    "addr:postcode": "02445",
+    "addr:street": "Cypress St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.123817,42.326581,-71.123817,42.326581",
+    "geom:latitude": 42.326581,
+    "geom:longitude": -71.123817,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Longwood Plastic Surgery, 235 Cypress St Brookline MA US",
+    "ovtr:similarity": 2.472651958465576,
+    "sg:address": "235 Cypress St",
+    "sg:city": "Brookline",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 383 6098",
-    "sg:postcode":"02445",
-    "sg:province":"MA",
-    "sg:tags":[
-        "surgery",
-        "cosmetic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 383 6098",
+    "sg:postcode": "02445",
+    "sg:province": "MA",
+    "sg:tags": [
+      "surgery",
+      "cosmetic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523743,
-        102191575,
-        404476429,
-        85633793,
-        85950817,
-        102084403,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523743,
+      102191575,
+      404476429,
+      85633793,
+      85950817,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6bx9MQxF9KkKE2eXJN5NMG_42.326581_-71.123817@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30640310824036ec21f6c5151e5",
+      "sg:id": "SG_6bx9MQxF9KkKE2eXJN5NMG_42.326581_-71.123817@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461727571,
-    "wof:geomhash":"977f35a1d05074718122a6376ce2b72b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476429,
-            "locality_id":85950817,
-            "neighbourhood_id":420523743,
-            "region_id":85688645,
-            "venue_id":672828347
-        }
+    "wof:country": "US",
+    "wof:created": 1461727571,
+    "wof:geomhash": "bcf58590ced9bda6d7e5fad3dce00918",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476429,
+        "locality_id": 85950817,
+        "neighbourhood_id": 420523743,
+        "region_id": 85688645,
+        "venue_id": 672828347
+      }
     ],
-    "wof:id":672828347,
-    "wof:lastmodified":1472626052,
-    "wof:name":"Longwood Plastic Surgery",
-    "wof:parent_id":420523743,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "surgery",
-        "cosmetic"
+    "wof:id": 672828347,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Longwood Plastic Surgery",
+    "wof:parent_id": 420523743,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "surgery",
+      "cosmetic"
     ]
-},
+  },
   "bbox": [
     -71.123817,
     42.326581,
     -71.123817,
     42.326581
-],
+  ],
   "geometry": {"coordinates":[-71.123817,42.326581],"type":"Point"}
 }

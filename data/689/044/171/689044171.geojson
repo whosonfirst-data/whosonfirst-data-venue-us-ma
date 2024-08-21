@@ -2,62 +2,69 @@
   "id": 689044171,
   "type": "Feature",
   "properties": {
-    "addr:full":"46 Washington Street Dorchester MA 02121",
-    "addr:housenumber":"46",
-    "addr:postcode":"02121",
-    "addr:street":"Washington Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.082404,42.307023,-71.082404,42.307023",
-    "geom:latitude":42.307023,
-    "geom:longitude":-71.082404,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"46 Washington Street",
-    "sg:city":"Dorchester",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "46 Washington Street Dorchester MA 02121",
+    "addr:housenumber": "46",
+    "addr:postcode": "02121",
+    "addr:street": "Washington Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.082404,42.307023,-71.082404,42.307023",
+    "geom:latitude": 42.307023,
+    "geom:longitude": -71.082404,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Sun Pizza, 46 Washington St Dorchester MA US",
+    "ovtr:similarity": 2.8624720573425293,
+    "sg:address": "46 Washington Street",
+    "sg:city": "Dorchester",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 541 1991",
-    "sg:postcode":"02121",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 541 1991",
+    "sg:postcode": "02121",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5VuLs0A5QO0H0qfWxCW5Rl_42.307023_-71.082404@1303262211"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3066a38268a037feb180b74ad84",
+      "sg:id": "SG_5VuLs0A5QO0H0qfWxCW5Rl_42.307023_-71.082404@1303262211"
     },
-    "wof:country":"US",
-    "wof:created":1461738169,
-    "wof:geomhash":"23b0b553bd97d33945f94fc66e0ec7d0",
-    "wof:hierarchy":[],
-    "wof:id":689044171,
-    "wof:lastmodified":1489011748,
-    "wof:name":"Sun Pizza",
-    "wof:parent_id":1108711421,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1461738169,
+    "wof:geomhash": "f47aec8f8414fc935ec213c6c3b19b16",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689044171
+      }
+    ],
+    "wof:id": 689044171,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Sun Pizza",
+    "wof:parent_id": 1108711421,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.082404,
     42.307023,
     -71.082404,
     42.307023
-],
+  ],
   "geometry": {"coordinates":[-71.082404,42.307023],"type":"Point"}
 }

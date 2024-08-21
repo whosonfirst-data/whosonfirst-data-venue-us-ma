@@ -2,69 +2,72 @@
   "id": 672442007,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 W Boylston St West Boylston MA 01583",
-    "addr:housenumber":"101",
-    "addr:postcode":"01583",
-    "addr:street":"W Boylston St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.784285,42.35737,-71.784285,42.35737",
-    "geom:latitude":42.35737,
-    "geom:longitude":-71.784285,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 W Boylston St",
-    "sg:city":"West Boylston",
-    "sg:classifiers":[
-        {
-            "category":"Cinema",
-            "subcategory":"Movie Theater",
-            "type":"Entertainment"
-        }
+    "addr:full": "101 W Boylston St West Boylston MA 01583",
+    "addr:housenumber": "101",
+    "addr:postcode": "01583",
+    "addr:street": "W Boylston St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.784285,42.357370,-71.784285,42.357370",
+    "geom:latitude": 42.35737,
+    "geom:longitude": -71.784285,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "West Boylston Cinema, 101 W Boylston St West Boylston MA US",
+    "ovtr:similarity": 3.0857460498809814,
+    "sg:address": "101 W Boylston St",
+    "sg:city": "West Boylston",
+    "sg:classifiers": [
+      {
+        "category": "Cinema",
+        "subcategory": "Movie Theater",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 835 8888",
-    "sg:postcode":"01583",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85842321,
-        102084655
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 835 8888",
+    "sg:postcode": "01583",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85842321,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0SagoB8A5RMY4g3aT2Bb1B_42.357370_-71.784285@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33d869a0d1203dbc5c391ed6ebd",
+      "sg:id": "SG_0SagoB8A5RMY4g3aT2Bb1B_42.357370_-71.784285@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461718953,
-    "wof:geomhash":"812b3143f55e23222a56cb79122329e0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85842321,
-            "region_id":85688645,
-            "venue_id":672442007
-        }
+    "wof:country": "US",
+    "wof:created": 1461718953,
+    "wof:geomhash": "f87d10adbdb325d5952cfddb70410439",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85842321,
+        "region_id": 85688645,
+        "venue_id": 672442007
+      }
     ],
-    "wof:id":672442007,
-    "wof:lastmodified":1472625699,
-    "wof:name":"West Boylston Cinema",
-    "wof:parent_id":85842321,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672442007,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "West Boylston Cinema",
+    "wof:parent_id": 85842321,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.784285,
     42.35737,
     -71.784285,
     42.35737
-],
+  ],
   "geometry": {"coordinates":[-71.784285,42.35737],"type":"Point"}
 }

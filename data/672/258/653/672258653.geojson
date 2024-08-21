@@ -2,76 +2,79 @@
   "id": 672258653,
   "type": "Feature",
   "properties": {
-    "addr:full":"169 Davis St Douglas MA 01516",
-    "addr:housenumber":"169",
-    "addr:postcode":"01516",
-    "addr:street":"Davis St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.686456,42.0581,-71.686456,42.0581",
-    "geom:latitude":42.0581,
-    "geom:longitude":-71.686456,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"169 Davis St",
-    "sg:city":"Douglas",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Automobile Sales",
-            "type":"Retail Goods"
-        }
+    "addr:full": "169 Davis St Douglas MA 01516",
+    "addr:housenumber": "169",
+    "addr:postcode": "01516",
+    "addr:street": "Davis St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.686456,42.058100,-71.686456,42.058100",
+    "geom:latitude": 42.0581,
+    "geom:longitude": -71.686456,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Douglas Auto \u0026 Truck Sales, 169 Davis St Douglas MA US",
+    "ovtr:similarity": 3.205540895462036,
+    "sg:address": "169 Davis St",
+    "sg:city": "Douglas",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Automobile Sales",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 476 1129",
-    "sg:postcode":"01516",
-    "sg:province":"MA",
-    "sg:tags":[
-        "car",
-        "dealer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 476 1129",
+    "sg:postcode": "01516",
+    "sg:province": "MA",
+    "sg:tags": [
+      "car",
+      "dealer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85823547,
-        102084655
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85823547,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Dpe3i2wb9FUhtOfe9ncdz_42.058100_-71.686456@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33cec2a93ae03c7e919e1a1607f",
+      "sg:id": "SG_5Dpe3i2wb9FUhtOfe9ncdz_42.058100_-71.686456@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461714778,
-    "wof:geomhash":"c546137e95d08c3658232fe6f0df5d39",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85823547,
-            "region_id":85688645,
-            "venue_id":672258653
-        }
+    "wof:country": "US",
+    "wof:created": 1461714778,
+    "wof:geomhash": "e9e9191c74afabf540082f1e5d2da3fd",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85823547,
+        "region_id": 85688645,
+        "venue_id": 672258653
+      }
     ],
-    "wof:id":672258653,
-    "wof:lastmodified":1472625358,
-    "wof:name":"Douglas Auto & Truck Sales",
-    "wof:parent_id":85823547,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "car",
-        "dealer"
+    "wof:id": 672258653,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Douglas Auto \u0026 Truck Sales",
+    "wof:parent_id": 85823547,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "car",
+      "dealer"
     ]
-},
+  },
   "bbox": [
     -71.686456,
     42.0581,
     -71.686456,
     42.0581
-],
-  "geometry": {"coordinates":[-71.68645600000001,42.0581],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.686456,42.0581],"type":"Point"}
 }

@@ -2,69 +2,72 @@
   "id": 672777203,
   "type": "Feature",
   "properties": {
-    "addr:full":"140 Washington St North Easton MA 02356",
-    "addr:housenumber":"140",
-    "addr:postcode":"02356",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.089464,42.080839,-71.089464,42.080839",
-    "geom:latitude":42.080839,
-    "geom:longitude":-71.089464,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"140 Washington St",
-    "sg:city":"North Easton",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "140 Washington St North Easton MA 02356",
+    "addr:housenumber": "140",
+    "addr:postcode": "02356",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.089464,42.080839,-71.089464,42.080839",
+    "geom:latitude": 42.080839,
+    "geom:longitude": -71.089464,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Dance Workshop, 285 Washington St North Easton MA US",
+    "ovtr:similarity": 3.466093063354492,
+    "sg:address": "140 Washington St",
+    "sg:city": "North Easton",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 238 8922",
-    "sg:postcode":"02356",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85813383,
-        102084407
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 238 8922",
+    "sg:postcode": "02356",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85813383,
+      102084407
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_29LybHdvND7rJ0TbxsahHZ_42.080839_-71.089464@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33805b0c1b403cc3e3aecb288dc",
+      "sg:id": "SG_29LybHdvND7rJ0TbxsahHZ_42.080839_-71.089464@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461726524,
-    "wof:geomhash":"9bdf2229a1a09d00bd9617851de34504",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084407,
-            "neighbourhood_id":85813383,
-            "region_id":85688645,
-            "venue_id":672777203
-        }
+    "wof:country": "US",
+    "wof:created": 1461726524,
+    "wof:geomhash": "0e0cb917de9b91f7e0d59b2efb196074",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "neighbourhood_id": 85813383,
+        "region_id": 85688645,
+        "venue_id": 672777203
+      }
     ],
-    "wof:id":672777203,
-    "wof:lastmodified":1472626008,
-    "wof:name":"Dance Workshop",
-    "wof:parent_id":85813383,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672777203,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Dance Workshop",
+    "wof:parent_id": 85813383,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.089464,
     42.080839,
     -71.089464,
     42.080839
-],
-  "geometry": {"coordinates":[-71.08946400000001,42.080839],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.089464,42.080839],"type":"Point"}
 }

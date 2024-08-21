@@ -2,86 +2,89 @@
   "id": 673068091,
   "type": "Feature",
   "properties": {
-    "addr:full":"193 Somerville Ave Somerville MA 02143",
-    "addr:housenumber":"193",
-    "addr:postcode":"02143",
-    "addr:street":"Somerville Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.0903,42.377735,-71.0903,42.377735",
-    "geom:latitude":42.377735,
-    "geom:longitude":-71.0903,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"193 Somerville Ave",
-    "sg:city":"Somerville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "193 Somerville Ave Somerville MA 02143",
+    "addr:housenumber": "193",
+    "addr:postcode": "02143",
+    "addr:street": "Somerville Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.090300,42.377735,-71.090300,42.377735",
+    "geom:latitude": 42.377735,
+    "geom:longitude": -71.0903,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Somerville Auto Center, 193 Somerville Ave Somerville MA US",
+    "ovtr:similarity": 3.7737700939178467,
+    "sg:address": "193 Somerville Ave",
+    "sg:city": "Somerville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 863 0979",
-    "sg:postcode":"02143",
-    "sg:province":"MA",
-    "sg:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 863 0979",
+    "sg:postcode": "02143",
+    "sg:province": "MA",
+    "sg:tags": [
+      "body",
+      "automobile",
+      "painting"
     ],
-    "sg:website":"www.somervilleautocenter.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85881043,
-        102191575,
-        404476445,
-        85633793,
-        85950339,
-        102084643,
-        85688645
+    "sg:website": "www.somervilleautocenter.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85881043,
+      102191575,
+      404476445,
+      85633793,
+      85950339,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5uBJdcmMeuUFkWxPrmdLdx_42.377871_-71.090513@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3066299653103af99a3012e83d4",
+      "sg:id": "SG_5uBJdcmMeuUFkWxPrmdLdx_42.377871_-71.090513@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733102,
-    "wof:geomhash":"892fda939551a4565fe252e0edb0613c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476445,
-            "locality_id":85950339,
-            "neighbourhood_id":85881043,
-            "region_id":85688645,
-            "venue_id":673068091
-        }
+    "wof:country": "US",
+    "wof:created": 1461733102,
+    "wof:geomhash": "d98f804cc3e3590b50a2c56336800687",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476445,
+        "locality_id": 85950339,
+        "neighbourhood_id": 85881043,
+        "region_id": 85688645,
+        "venue_id": 673068091
+      }
     ],
-    "wof:id":673068091,
-    "wof:lastmodified":1489023811,
-    "wof:name":"Somerville Auto Center",
-    "wof:parent_id":85881043,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "wof:id": 673068091,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Somerville Auto Center",
+    "wof:parent_id": 85881043,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "automobile",
+      "painting"
     ]
-},
+  },
   "bbox": [
     -71.0903,
     42.377735,
     -71.0903,
     42.377735
-],
+  ],
   "geometry": {"coordinates":[-71.0903,42.377735],"type":"Point"}
 }

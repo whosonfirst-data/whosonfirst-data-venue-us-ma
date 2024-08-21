@@ -2,83 +2,86 @@
   "id": 673074301,
   "type": "Feature",
   "properties": {
-    "addr:full":"400 Harvard St Cambridge MA 02138",
-    "addr:housenumber":"400",
-    "addr:postcode":"02138",
-    "addr:street":"Harvard St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.114278,42.372057,-71.114278,42.372057",
-    "geom:latitude":42.372057,
-    "geom:longitude":-71.114278,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"400 Harvard St",
-    "sg:city":"Cambridge",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Non-profit Organization",
-            "type":"Services"
-        }
+    "addr:full": "400 Harvard St Cambridge MA 02138",
+    "addr:housenumber": "400",
+    "addr:postcode": "02138",
+    "addr:street": "Harvard St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.114278,42.372057,-71.114278,42.372057",
+    "geom:latitude": 42.372057,
+    "geom:longitude": -71.114278,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "José Mateo Ballet Theatre, 400 Harvard St Cambridge MA US",
+    "ovtr:similarity": 3.710530996322632,
+    "sg:address": "400 Harvard St",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 354 7467",
-    "sg:postcode":"02138",
-    "sg:province":"MA",
-    "sg:tags":[
-        "performing",
-        "art"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 354 7467",
+    "sg:postcode": "02138",
+    "sg:province": "MA",
+    "sg:tags": [
+      "performing",
+      "art"
     ],
-    "sg:website":"www.ballettheatre.org/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85876611,
-        102191575,
-        404476475,
-        85633793,
-        85950329,
-        102084643,
-        85688645
+    "sg:website": "www.ballettheatre.org/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85876611,
+      102191575,
+      404476475,
+      85633793,
+      85950329,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6slmG5ji4yXS2AEfxYj5yg_42.372216_-71.115122@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30671845aa103097244df20ff73",
+      "sg:id": "SG_6slmG5ji4yXS2AEfxYj5yg_42.372216_-71.115122@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733227,
-    "wof:geomhash":"e5979f971c3eac94136061977da9b040",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476475,
-            "locality_id":85950329,
-            "neighbourhood_id":85876611,
-            "region_id":85688645,
-            "venue_id":673074301
-        }
+    "wof:country": "US",
+    "wof:created": 1461733227,
+    "wof:geomhash": "10274f9aed1b94245298d6ef309f4426",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476475,
+        "locality_id": 85950329,
+        "neighbourhood_id": 85876611,
+        "region_id": 85688645,
+        "venue_id": 673074301
+      }
     ],
-    "wof:id":673074301,
-    "wof:lastmodified":1472625155,
-    "wof:name":"Jose Mateo's Ballet Theatre",
-    "wof:parent_id":85876611,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "performing",
-        "art"
+    "wof:id": 673074301,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Jose Mateo's Ballet Theatre",
+    "wof:parent_id": 85876611,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "performing",
+      "art"
     ]
-},
+  },
   "bbox": [
     -71.114278,
     42.372057,
     -71.114278,
     42.372057
-],
+  ],
   "geometry": {"coordinates":[-71.114278,42.372057],"type":"Point"}
 }

@@ -2,74 +2,77 @@
   "id": 672254747,
   "type": "Feature",
   "properties": {
-    "addr:full":"6 Main St Stockbridge MA 01262",
-    "addr:housenumber":"6",
-    "addr:postcode":"01262",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-73.312826,42.282532,-73.312826,42.282532",
-    "geom:latitude":42.282532,
-    "geom:longitude":-73.312826,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6 Main St",
-    "sg:city":"Stockbridge",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "6 Main St Stockbridge MA 01262",
+    "addr:housenumber": "6",
+    "addr:postcode": "01262",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-73.312826,42.282532,-73.312826,42.282532",
+    "geom:latitude": 42.282532,
+    "geom:longitude": -73.312826,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Stockbridge Golf Club, 6 Main St Stockbridge MA US",
+    "ovtr:similarity": 3.542280912399292,
+    "sg:address": "6 Main St",
+    "sg:city": "Stockbridge",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 298 3310",
-    "sg:postcode":"01262",
-    "sg:province":"MA",
-    "sg:tags":[
-        "club"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 298 3310",
+    "sg:postcode": "01262",
+    "sg:province": "MA",
+    "sg:tags": [
+      "club"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85829835,
-        102084369
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85829835,
+      102084369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_591sZDfycfIA7l2oYZDP5C_42.282532_-73.312826@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a14d8368cc8b0375b928ccc9c258",
+      "sg:id": "SG_591sZDfycfIA7l2oYZDP5C_42.282532_-73.312826@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461714701,
-    "wof:geomhash":"c4c05ecc4bdec99f5b4c105c6399094c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084369,
-            "neighbourhood_id":85829835,
-            "region_id":85688645,
-            "venue_id":672254747
-        }
+    "wof:country": "US",
+    "wof:created": 1461714701,
+    "wof:geomhash": "b4a2d94489ae9b49b37ede44143b9275",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084369,
+        "neighbourhood_id": 85829835,
+        "region_id": 85688645,
+        "venue_id": 672254747
+      }
     ],
-    "wof:id":672254747,
-    "wof:lastmodified":1472625371,
-    "wof:name":"Stockbridge Golf Club",
-    "wof:parent_id":85829835,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club"
+    "wof:id": 672254747,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Stockbridge Golf Club",
+    "wof:parent_id": 85829835,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
     ]
-},
+  },
   "bbox": [
     -73.312826,
     42.282532,
     -73.312826,
     42.282532
-],
+  ],
   "geometry": {"coordinates":[-73.312826,42.282532],"type":"Point"}
 }

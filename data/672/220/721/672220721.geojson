@@ -2,62 +2,69 @@
   "id": 672220721,
   "type": "Feature",
   "properties": {
-    "addr:full":"50 Main St Vineyard Haven MA 02568",
-    "addr:housenumber":"50",
-    "addr:postcode":"02568",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.602829,41.4553,-70.602829,41.4553",
-    "geom:latitude":41.4553,
-    "geom:longitude":-70.602829,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"50 Main St",
-    "sg:city":"Vineyard Haven",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Gifts & Souvenirs",
-            "type":"Retail Goods"
-        }
+    "addr:full": "50 Main St Vineyard Haven MA 02568",
+    "addr:housenumber": "50",
+    "addr:postcode": "02568",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.602829,41.455300,-70.602829,41.455300",
+    "geom:latitude": 41.4553,
+    "geom:longitude": -70.602829,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Mardells Gifts \u0026 Jewelry, 50 Main St Vineyard Haven MA US",
+    "ovtr:similarity": 2.0438649654388428,
+    "sg:address": "50 Main St",
+    "sg:city": "Vineyard Haven",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Gifts \u0026 Souvenirs",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 693 0049",
-    "sg:postcode":"02568",
-    "sg:province":"MA",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 693 0049",
+    "sg:postcode": "02568",
+    "sg:province": "MA",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7aN0ZatsDutaBvkvhFQwQ4_41.455300_-70.602829@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a316f1865d4003c44cdc4623f353",
+      "sg:id": "SG_7aN0ZatsDutaBvkvhFQwQ4_41.455300_-70.602829@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461713981,
-    "wof:geomhash":"91c7076a526bac7909caa10d27aab232",
-    "wof:hierarchy":[],
-    "wof:id":672220721,
-    "wof:lastmodified":1492109116,
-    "wof:name":"Mardells Gifts & Jewelry",
-    "wof:parent_id":85839269,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461713981,
+    "wof:geomhash": "91c7076a526bac7909caa10d27aab232",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672220721
+      }
+    ],
+    "wof:id": 672220721,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Mardells Gifts \u0026 Jewelry",
+    "wof:parent_id": 85839269,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -70.602829,
     41.4553,
     -70.602829,
     41.4553
-],
+  ],
   "geometry": {"coordinates":[-70.602829,41.4553],"type":"Point"}
 }

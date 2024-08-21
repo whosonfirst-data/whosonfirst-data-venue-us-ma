@@ -2,88 +2,91 @@
   "id": 688963137,
   "type": "Feature",
   "properties": {
-    "addr:full":"255 Washington St Boston MA 02108",
-    "addr:housenumber":"255",
-    "addr:postcode":"02108",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.05799,42.357965,-71.05799,42.357965",
-    "geom:latitude":42.357965,
-    "geom:longitude":-71.05799,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"255 Washington St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "255 Washington St Boston MA 02108",
+    "addr:housenumber": "255",
+    "addr:postcode": "02108",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.057990,42.357965,-71.057990,42.357965",
+    "geom:latitude": 42.357965,
+    "geom:longitude": -71.05799,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "B.GOOD, 255 Washington St Boston MA US",
+    "ovtr:similarity": 2.663831949234009,
+    "sg:address": "255 Washington St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 999 9999",
-    "sg:postcode":"02108",
-    "sg:province":"MA",
-    "sg:tags":[
-        "take"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 999 9999",
+    "sg:postcode": "02108",
+    "sg:province": "MA",
+    "sg:tags": [
+      "take"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85815133,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85815133,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4883669724,
-        "sg:id":"SG_6gSaHZlAVPcXpYSPoccB4j_42.357965_-71.057990@1303262201"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4883669724,
+      "ovtr:id": "08f2a3066026d46103363fa02553fe97",
+      "sg:id": "SG_6gSaHZlAVPcXpYSPoccB4j_42.357965_-71.057990@1303262201"
     },
-    "wof:country":"US",
-    "wof:created":1461736507,
-    "wof:geomhash":"ec73442322d26eaeba404737c9932ba6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85815133,
-            "region_id":85688645,
-            "venue_id":688963137
-        }
+    "wof:country": "US",
+    "wof:created": 1461736507,
+    "wof:geomhash": "ec73442322d26eaeba404737c9932ba6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85815133,
+        "region_id": 85688645,
+        "venue_id": 688963137
+      }
     ],
-    "wof:id":688963137,
-    "wof:lastmodified":1510941598,
-    "wof:name":"B.Good",
-    "wof:parent_id":85815133,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "take"
+    "wof:id": 688963137,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "B.Good",
+    "wof:parent_id": 85815133,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "take"
     ]
-},
+  },
   "bbox": [
     -71.05799,
     42.357965,
     -71.05799,
     42.357965
-],
+  ],
   "geometry": {"coordinates":[-71.05799,42.357965],"type":"Point"}
 }

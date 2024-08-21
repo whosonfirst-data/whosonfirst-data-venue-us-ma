@@ -2,93 +2,96 @@
   "id": 688968049,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 Massachusetts Ave Boston MA 02108",
-    "addr:housenumber":"301",
-    "addr:postcode":"02108",
-    "addr:street":"Massachusetts Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.085689,42.342843,-71.085689,42.342843",
-    "geom:latitude":42.342843,
-    "geom:longitude":-71.085689,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"301 Massachusetts Ave",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Arts & Performance",
-            "subcategory":"Arts Center",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Arts & Performance",
-            "subcategory":"Music",
-            "type":"Entertainment"
-        }
+    "addr:full": "301 Massachusetts Ave Boston MA 02108",
+    "addr:housenumber": "301",
+    "addr:postcode": "02108",
+    "addr:street": "Massachusetts Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.085689,42.342843,-71.085689,42.342843",
+    "geom:latitude": 42.342843,
+    "geom:longitude": -71.085689,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Symphony Hall, 301 Massachusetts Ave Boston MA US",
+    "ovtr:similarity": 3.217272996902466,
+    "sg:address": "301 Massachusetts Ave",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Arts \u0026 Performance",
+        "subcategory": "Arts Center",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Arts \u0026 Performance",
+        "subcategory": "Music",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 266 1492",
-    "sg:postcode":"02108",
-    "sg:province":"MA",
-    "sg:tags":[
-        "performing",
-        "venue"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 266 1492",
+    "sg:postcode": "02108",
+    "sg:province": "MA",
+    "sg:tags": [
+      "performing",
+      "venue"
     ],
-    "sg:website":"www.bso.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108711981,
-        85869235,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "www.bso.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108711981,
+      85869235,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":29560864,
-        "sg:id":"SG_5XzsTvvKSlX8AVq7oLon94_42.342843_-71.085689@1303262201"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 29560864,
+      "ovtr:id": "08f2a306636603ac03af6bf2a240aee1",
+      "sg:id": "SG_5XzsTvvKSlX8AVq7oLon94_42.342843_-71.085689@1303262201"
     },
-    "wof:country":"US",
-    "wof:created":1461736612,
-    "wof:geomhash":"a91d4696fa80dc91b901c641c512e478",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "microhood_id":1108711981,
-            "neighbourhood_id":85869235,
-            "region_id":85688645,
-            "venue_id":688968049
-        }
+    "wof:country": "US",
+    "wof:created": 1461736612,
+    "wof:geomhash": "a91d4696fa80dc91b901c641c512e478",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "microhood_id": 1108711981,
+        "neighbourhood_id": 85869235,
+        "region_id": 85688645,
+        "venue_id": 688968049
+      }
     ],
-    "wof:id":688968049,
-    "wof:lastmodified":1510942250,
-    "wof:name":"Symphony Hall",
-    "wof:parent_id":1108711981,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "performing",
-        "venue"
+    "wof:id": 688968049,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Symphony Hall",
+    "wof:parent_id": 1108711981,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "performing",
+      "venue"
     ]
-},
+  },
   "bbox": [
     -71.085689,
     42.342843,
     -71.085689,
     42.342843
-],
+  ],
   "geometry": {"coordinates":[-71.085689,42.342843],"type":"Point"}
 }

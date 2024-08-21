@@ -2,85 +2,88 @@
   "id": 689209419,
   "type": "Feature",
   "properties": {
-    "addr:full":"2952 Falmouth Rd Osterville MA 02655",
-    "addr:housenumber":"2952",
-    "addr:postcode":"02655",
-    "addr:street":"Falmouth Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.391701,41.6534,-70.391701,41.6534",
-    "geom:latitude":41.6534,
-    "geom:longitude":-70.391701,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"2952 Falmouth Rd",
-    "sg:city":"Osterville",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Meat & Fish",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2952 Falmouth Rd Osterville MA 02655",
+    "addr:housenumber": "2952",
+    "addr:postcode": "02655",
+    "addr:street": "Falmouth Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.391701,41.653400,-70.391701,41.653400",
+    "geom:latitude": 41.6534,
+    "geom:longitude": -70.391701,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Osterville Fish Market, 2952 Falmouth Rd Osterville MA US",
+    "ovtr:similarity": 2.5531930923461914,
+    "sg:address": "2952 Falmouth Rd",
+    "sg:city": "Osterville",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Meat \u0026 Fish",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 420 0500",
-    "sg:postcode":"02655",
-    "sg:province":"MA",
-    "sg:tags":[
-        "seafood",
-        "market"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 420 0500",
+    "sg:postcode": "02655",
+    "sg:province": "MA",
+    "sg:tags": [
+      "seafood",
+      "market"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85857655,
-        102191575,
-        404475893,
-        85633793,
-        85950321,
-        102084379,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85857655,
+      102191575,
+      404475893,
+      85633793,
+      85950321,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2909357127,
-        "sg:id":"SG_64V1cpKqiC82HPv37x3jWI_41.653400_-70.391701@1303262233"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2909357127,
+      "ovtr:id": "08f2a317017b22a30324a66417c8d1bf",
+      "sg:id": "SG_64V1cpKqiC82HPv37x3jWI_41.653400_-70.391701@1303262233"
     },
-    "wof:country":"US",
-    "wof:created":1461742246,
-    "wof:geomhash":"6a7392a76840d4bbfbb5d2e54fb74860",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475893,
-            "locality_id":85950321,
-            "neighbourhood_id":85857655,
-            "region_id":85688645,
-            "venue_id":689209419
-        }
+    "wof:country": "US",
+    "wof:created": 1461742246,
+    "wof:geomhash": "6a7392a76840d4bbfbb5d2e54fb74860",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475893,
+        "locality_id": 85950321,
+        "neighbourhood_id": 85857655,
+        "region_id": 85688645,
+        "venue_id": 689209419
+      }
     ],
-    "wof:id":689209419,
-    "wof:lastmodified":1510943230,
-    "wof:name":"Osterville Fish Market",
-    "wof:parent_id":85857655,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "seafood",
-        "market"
+    "wof:id": 689209419,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Osterville Fish Market",
+    "wof:parent_id": 85857655,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "seafood",
+      "market"
     ]
-},
+  },
   "bbox": [
     -70.391701,
     41.6534,
     -70.391701,
     41.6534
-],
+  ],
   "geometry": {"coordinates":[-70.391701,41.6534],"type":"Point"}
 }

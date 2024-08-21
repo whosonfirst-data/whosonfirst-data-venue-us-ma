@@ -2,84 +2,87 @@
   "id": 672211245,
   "type": "Feature",
   "properties": {
-    "addr:full":"1456 N Shore Rd Revere MA 02151",
-    "addr:housenumber":"1456",
-    "addr:postcode":"02151",
-    "addr:street":"N Shore Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.993089,42.411573,-70.993089,42.411573",
-    "geom:latitude":42.411573,
-    "geom:longitude":-70.993089,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1456 N Shore Rd",
-    "sg:city":"Revere",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1456 N Shore Rd Revere MA 02151",
+    "addr:housenumber": "1456",
+    "addr:postcode": "02151",
+    "addr:street": "N Shore Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.993089,42.411573,-70.993089,42.411573",
+    "geom:latitude": 42.411573,
+    "geom:longitude": -70.993089,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Bob's Auto Body, 1456 North Shore Rd Revere MA US",
+    "ovtr:similarity": 3.4414010047912598,
+    "sg:address": "1456 N Shore Rd",
+    "sg:city": "Revere",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 289 1300",
-    "sg:postcode":"02151",
-    "sg:province":"MA",
-    "sg:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 289 1300",
+    "sg:postcode": "02151",
+    "sg:province": "MA",
+    "sg:tags": [
+      "body",
+      "automobile",
+      "painting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85812837,
-        102191575,
-        404476577,
-        85633793,
-        85950357,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85812837,
+      102191575,
+      404476577,
+      85633793,
+      85950357,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4AYphZV6Gr34M4prevRvXk_42.411573_-70.993089@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a307488ecc1d0300fda62d210f4f",
+      "sg:id": "SG_4AYphZV6Gr34M4prevRvXk_42.411573_-70.993089@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461713791,
-    "wof:geomhash":"422e340426eb9d0edb432be6cc401e09",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476577,
-            "locality_id":85950357,
-            "neighbourhood_id":85812837,
-            "region_id":85688645,
-            "venue_id":672211245
-        }
+    "wof:country": "US",
+    "wof:created": 1461713791,
+    "wof:geomhash": "cb4078b9ef10fe606f4a9e14e5395617",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476577,
+        "locality_id": 85950357,
+        "neighbourhood_id": 85812837,
+        "region_id": 85688645,
+        "venue_id": 672211245
+      }
     ],
-    "wof:id":672211245,
-    "wof:lastmodified":1472625204,
-    "wof:name":"Bob's Auto Body",
-    "wof:parent_id":85812837,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "wof:id": 672211245,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Bob's Auto Body",
+    "wof:parent_id": 85812837,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "automobile",
+      "painting"
     ]
-},
+  },
   "bbox": [
     -70.993089,
     42.411573,
     -70.993089,
     42.411573
-],
+  ],
   "geometry": {"coordinates":[-70.993089,42.411573],"type":"Point"}
 }

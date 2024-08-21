@@ -2,75 +2,78 @@
   "id": 673043703,
   "type": "Feature",
   "properties": {
-    "addr:full":"555 Massachusetts Ave Acton MA 01720",
-    "addr:housenumber":"555",
-    "addr:postcode":"01720",
-    "addr:street":"Massachusetts Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.472604,42.476106,-71.472604,42.476106",
-    "geom:latitude":42.476106,
-    "geom:longitude":-71.472604,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"555 Massachusetts Ave",
-    "sg:city":"Acton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "555 Massachusetts Ave Acton MA 01720",
+    "addr:housenumber": "555",
+    "addr:postcode": "01720",
+    "addr:street": "Massachusetts Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.472604,42.476106,-71.472604,42.476106",
+    "geom:latitude": 42.476106,
+    "geom:longitude": -71.472604,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Acton New London Style Pizza, 555 Massachusetts Ave Acton MA US",
+    "ovtr:similarity": 2.170145034790039,
+    "sg:address": "555 Massachusetts Ave",
+    "sg:city": "Acton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 263 3033",
-    "sg:postcode":"01720",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 263 3033",
+    "sg:postcode": "01720",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "sg:website":"http://newlondonpizzaacton.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85827961,
-        102084643
+    "sg:website": "http://newlondonpizzaacton.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85827961,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1ur6Xmrkwmjrv3xhjnab41_42.476154_-71.472484@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3068662266b03a5fea3901c4313",
+      "sg:id": "SG_1ur6Xmrkwmjrv3xhjnab41_42.476154_-71.472484@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732622,
-    "wof:geomhash":"6eb8868305cfef2fc4af7e30ce2803d8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85827961,
-            "region_id":85688645,
-            "venue_id":673043703
-        }
+    "wof:country": "US",
+    "wof:created": 1461732622,
+    "wof:geomhash": "c3c5107de4a6d0edbae32e4a5273f791",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85827961,
+        "region_id": 85688645,
+        "venue_id": 673043703
+      }
     ],
-    "wof:id":673043703,
-    "wof:lastmodified":1472625109,
-    "wof:name":"Acton New London Style Pizza",
-    "wof:parent_id":85827961,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 673043703,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Acton New London Style Pizza",
+    "wof:parent_id": 85827961,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.472604,
     42.476106,
     -71.472604,
     42.476106
-],
+  ],
   "geometry": {"coordinates":[-71.472604,42.476106],"type":"Point"}
 }

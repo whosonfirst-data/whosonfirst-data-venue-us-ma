@@ -2,77 +2,80 @@
   "id": 689140927,
   "type": "Feature",
   "properties": {
-    "addr:full":"306 Northern Avenue Boston MA 02210",
-    "addr:housenumber":"306",
-    "addr:postcode":"02210",
-    "addr:street":"Northern Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.033843,42.3465,-71.033843,42.3465",
-    "geom:latitude":42.3465,
-    "geom:longitude":-71.033843,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"306 Northern Avenue",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Brewery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "306 Northern Avenue Boston MA 02210",
+    "addr:housenumber": "306",
+    "addr:postcode": "02210",
+    "addr:street": "Northern Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.033843,42.346500,-71.033843,42.346500",
+    "geom:latitude": 42.3465,
+    "geom:longitude": -71.033843,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Harpoon Brewery, 306 Northern Ave Boston MA US",
+    "ovtr:similarity": 2.0839951038360596,
+    "sg:address": "306 Northern Avenue",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Brewery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 574 9551",
-    "sg:postcode":"02210",
-    "sg:province":"MA",
-    "sg:website":"www.harpoonbrewery.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420780909,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 574 9551",
+    "sg:postcode": "02210",
+    "sg:province": "MA",
+    "sg:website": "www.harpoonbrewery.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420780909,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4LUe0FMX5ZkJtI7kintPeH_42.346500_-71.033843@1303262224"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30661b4331c03875bc21c28810e",
+      "sg:id": "SG_4LUe0FMX5ZkJtI7kintPeH_42.346500_-71.033843@1303262224"
     },
-    "wof:country":"US",
-    "wof:created":1461740376,
-    "wof:geomhash":"f2c0963671a578ba797714744944771b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420780909,
-            "region_id":85688645,
-            "venue_id":689140927
-        }
+    "wof:country": "US",
+    "wof:created": 1461740376,
+    "wof:geomhash": "6b527a356477a8c8188542cb0a1249e2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 420780909,
+        "region_id": 85688645,
+        "venue_id": 689140927
+      }
     ],
-    "wof:id":689140927,
-    "wof:lastmodified":1489010902,
-    "wof:name":"Harpoon Brewery",
-    "wof:parent_id":420780909,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 689140927,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Harpoon Brewery",
+    "wof:parent_id": 420780909,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.033843,
     42.3465,
     -71.033843,
     42.3465
-],
+  ],
   "geometry": {"coordinates":[-71.033843,42.3465],"type":"Point"}
 }

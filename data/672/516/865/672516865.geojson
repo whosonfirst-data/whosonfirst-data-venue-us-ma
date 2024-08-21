@@ -2,71 +2,74 @@
   "id": 672516865,
   "type": "Feature",
   "properties": {
-    "addr:full":"45 Depot St Duxbury MA 02332",
-    "addr:housenumber":"45",
-    "addr:postcode":"02332",
-    "addr:street":"Depot St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.683311,42.023125,-70.683311,42.023125",
-    "geom:latitude":42.023125,
-    "geom:longitude":-70.683311,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"45 Depot St",
-    "sg:city":"Duxbury",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "45 Depot St Duxbury MA 02332",
+    "addr:housenumber": "45",
+    "addr:postcode": "02332",
+    "addr:street": "Depot St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.683311,42.023125,-70.683311,42.023125",
+    "geom:latitude": 42.023125,
+    "geom:longitude": -70.683311,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Tsang's Cafe, 45 Depot St Duxbury MA US",
+    "ovtr:similarity": 2.6560099124908447,
+    "sg:address": "45 Depot St",
+    "sg:city": "Duxbury",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 934 8222",
-    "sg:postcode":"02332",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950487,
-        102084367,
-        85849611
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 934 8222",
+    "sg:postcode": "02332",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950487,
+      102084367,
+      85849611
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4d9BetGNhUunbGvtJD1DvI_42.023125_-70.683311@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3158c60228503cd2b4a7423aee1",
+      "sg:id": "SG_4d9BetGNhUunbGvtJD1DvI_42.023125_-70.683311@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461720766,
-    "wof:geomhash":"c066e1ba9d8f2dd00bf3acdd4000c5a9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "locality_id":85950487,
-            "neighbourhood_id":85849611,
-            "region_id":85688645,
-            "venue_id":672516865
-        }
+    "wof:country": "US",
+    "wof:created": 1461720766,
+    "wof:geomhash": "ace98262fbdec051f158038c62565e09",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "locality_id": 85950487,
+        "neighbourhood_id": 85849611,
+        "region_id": 85688645,
+        "venue_id": 672516865
+      }
     ],
-    "wof:id":672516865,
-    "wof:lastmodified":1472625794,
-    "wof:name":"Tsang's Cafe",
-    "wof:parent_id":85849611,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672516865,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Tsang's Cafe",
+    "wof:parent_id": 85849611,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.683311,
     42.023125,
     -70.683311,
     42.023125
-],
+  ],
   "geometry": {"coordinates":[-70.683311,42.023125],"type":"Point"}
 }

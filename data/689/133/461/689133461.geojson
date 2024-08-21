@@ -2,80 +2,83 @@
   "id": 689133461,
   "type": "Feature",
   "properties": {
-    "addr:full":"232 Main Street Stoneham MA 02180",
-    "addr:housenumber":"232",
-    "addr:postcode":"02180",
-    "addr:street":"Main Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.100266,42.486285,-71.100266,42.486285",
-    "geom:latitude":42.486285,
-    "geom:longitude":-71.100266,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"232 Main Street",
-    "sg:city":"Stoneham",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "232 Main Street Stoneham MA 02180",
+    "addr:housenumber": "232",
+    "addr:postcode": "02180",
+    "addr:street": "Main Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.100266,42.486285,-71.100266,42.486285",
+    "geom:latitude": 42.486285,
+    "geom:longitude": -71.100266,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Stoneham Pizza, 232 Main St Stoneham MA US",
+    "ovtr:similarity": 3.285111904144287,
+    "sg:address": "232 Main Street",
+    "sg:city": "Stoneham",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 438 9800",
-    "sg:postcode":"02180",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 438 9800",
+    "sg:postcode": "02180",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523701,
-        102191575,
-        404476015,
-        85633793,
-        85950653,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523701,
+      102191575,
+      404476015,
+      85633793,
+      85950653,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1s6nY7cYAiedsMLjg5Igoz_42.486285_-71.100266@1303262223"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a307505768f003ed261aee91647c",
+      "sg:id": "SG_1s6nY7cYAiedsMLjg5Igoz_42.486285_-71.100266@1303262223"
     },
-    "wof:country":"US",
-    "wof:created":1461740185,
-    "wof:geomhash":"613e0a4700bb19fea13f4ef4a175f6d9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476015,
-            "locality_id":85950653,
-            "neighbourhood_id":420523701,
-            "region_id":85688645,
-            "venue_id":689133461
-        }
+    "wof:country": "US",
+    "wof:created": 1461740185,
+    "wof:geomhash": "13a19dacefa9300eb4be3931624d854a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476015,
+        "locality_id": 85950653,
+        "neighbourhood_id": 420523701,
+        "region_id": 85688645,
+        "venue_id": 689133461
+      }
     ],
-    "wof:id":689133461,
-    "wof:lastmodified":1472625447,
-    "wof:name":"Stoneham Pizza",
-    "wof:parent_id":420523701,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 689133461,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Stoneham Pizza",
+    "wof:parent_id": 420523701,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.100266,
     42.486285,
     -71.100266,
     42.486285
-],
+  ],
   "geometry": {"coordinates":[-71.100266,42.486285],"type":"Point"}
 }

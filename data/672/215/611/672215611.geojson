@@ -2,80 +2,83 @@
   "id": 672215611,
   "type": "Feature",
   "properties": {
-    "addr:full":"634 Boston Rd Springfield MA 01119",
-    "addr:housenumber":"634",
-    "addr:postcode":"01119",
-    "addr:street":"Boston Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.523948,42.1349,-72.523948,42.1349",
-    "geom:latitude":42.1349,
-    "geom:longitude":-72.523948,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"634 Boston Rd",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "634 Boston Rd Springfield MA 01119",
+    "addr:housenumber": "634",
+    "addr:postcode": "01119",
+    "addr:street": "Boston Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.523948,42.134900,-72.523948,42.134900",
+    "geom:latitude": 42.1349,
+    "geom:longitude": -72.523948,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Five Star Cleaners, 634 Boston Rd Springfield MA US",
+    "ovtr:similarity": 2.1165969371795654,
+    "sg:address": "634 Boston Rd",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 796 1495",
-    "sg:postcode":"01119",
-    "sg:province":"MA",
-    "sg:tags":[
-        "cleaners"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 796 1495",
+    "sg:postcode": "01119",
+    "sg:province": "MA",
+    "sg:tags": [
+      "cleaners"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85841837,
-        102191575,
-        404476369,
-        85633793,
-        85950393,
-        102084627,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85841837,
+      102191575,
+      404476369,
+      85633793,
+      85950393,
+      102084627,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3LqgCKO8ZGu3IhUEjTO1dj_42.134900_-72.523948@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a149085430d603b10b109d1713f1",
+      "sg:id": "SG_3LqgCKO8ZGu3IhUEjTO1dj_42.134900_-72.523948@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461713881,
-    "wof:geomhash":"7e4d8cfc677e2180f1e80a9b1e14c990",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084627,
-            "localadmin_id":404476369,
-            "locality_id":85950393,
-            "neighbourhood_id":85841837,
-            "region_id":85688645,
-            "venue_id":672215611
-        }
+    "wof:country": "US",
+    "wof:created": 1461713881,
+    "wof:geomhash": "2e4445f1782e6a3c78f2ecee9fd44927",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "localadmin_id": 404476369,
+        "locality_id": 85950393,
+        "neighbourhood_id": 85841837,
+        "region_id": 85688645,
+        "venue_id": 672215611
+      }
     ],
-    "wof:id":672215611,
-    "wof:lastmodified":1472625222,
-    "wof:name":"Five Star Cleaners",
-    "wof:parent_id":85841837,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cleaners"
+    "wof:id": 672215611,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Five Star Cleaners",
+    "wof:parent_id": 85841837,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cleaners"
     ]
-},
+  },
   "bbox": [
     -72.523948,
     42.1349,
     -72.523948,
     42.1349
-],
+  ],
   "geometry": {"coordinates":[-72.523948,42.1349],"type":"Point"}
 }

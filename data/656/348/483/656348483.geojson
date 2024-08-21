@@ -2,80 +2,83 @@
   "id": 656348483,
   "type": "Feature",
   "properties": {
-    "addr:full":"215 Maple St Marlborough MA 01752",
-    "addr:housenumber":"215",
-    "addr:postcode":"01752",
-    "addr:street":"Maple St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.54255,42.340327,-71.54255,42.340327",
-    "geom:latitude":42.340327,
-    "geom:longitude":-71.54255,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"215 Maple St",
-    "sg:city":"Marlborough",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "215 Maple St Marlborough MA 01752",
+    "addr:housenumber": "215",
+    "addr:postcode": "01752",
+    "addr:street": "Maple St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.542550,42.340327,-71.542550,42.340327",
+    "geom:latitude": 42.340327,
+    "geom:longitude": -71.54255,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Marlborough MA Fire Department, 215 Maple St Marlborough MA US",
+    "ovtr:similarity": 3.503648042678833,
+    "sg:address": "215 Maple St",
+    "sg:city": "Marlborough",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 485 2323",
-    "sg:postcode":"01752",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 485 2323",
+    "sg:postcode": "01752",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85832551,
-        102191575,
-        404476401,
-        85633793,
-        85950343,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85832551,
+      102191575,
+      404476401,
+      85633793,
+      85950343,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Oyy704ToGWJpKsVrhf2dt_42.340327_-71.542550@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33d04219da403ce699654505d0b",
+      "sg:id": "SG_2Oyy704ToGWJpKsVrhf2dt_42.340327_-71.542550@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461710924,
-    "wof:geomhash":"a816f22f0b51088430cf91dc3755f416",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476401,
-            "locality_id":85950343,
-            "neighbourhood_id":85832551,
-            "region_id":85688645,
-            "venue_id":656348483
-        }
+    "wof:country": "US",
+    "wof:created": 1461710924,
+    "wof:geomhash": "10784ff42b4d795fb6c42d316d3e635a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476401,
+        "locality_id": 85950343,
+        "neighbourhood_id": 85832551,
+        "region_id": 85688645,
+        "venue_id": 656348483
+      }
     ],
-    "wof:id":656348483,
-    "wof:lastmodified":1472624907,
-    "wof:name":"Marlborough Fire Dept",
-    "wof:parent_id":85832551,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 656348483,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Marlborough Fire Dept",
+    "wof:parent_id": 85832551,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -71.54255,
     42.340327,
     -71.54255,
     42.340327
-],
-  "geometry": {"coordinates":[-71.54255000000001,42.340327],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.54255,42.340327],"type":"Point"}
 }

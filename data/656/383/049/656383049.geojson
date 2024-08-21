@@ -2,76 +2,79 @@
   "id": 656383049,
   "type": "Feature",
   "properties": {
-    "addr:full":"129 Martin St Lowell MA 01854",
-    "addr:housenumber":"129",
-    "addr:postcode":"01854",
-    "addr:street":"Martin St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.320819,42.659176,-71.320819,42.659176",
-    "geom:latitude":42.659176,
-    "geom:longitude":-71.320819,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"129 Martin St",
-    "sg:city":"Lowell",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "129 Martin St Lowell MA 01854",
+    "addr:housenumber": "129",
+    "addr:postcode": "01854",
+    "addr:street": "Martin St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.320819,42.659176,-71.320819,42.659176",
+    "geom:latitude": 42.659176,
+    "geom:longitude": -71.320819,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Hank's Garage, 129 Martin St Lowell MA US",
+    "ovtr:similarity": 2.7767601013183594,
+    "sg:address": "129 Martin St",
+    "sg:city": "Lowell",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 454 0272",
-    "sg:postcode":"01854",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 454 0272",
+    "sg:postcode": "01854",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85840943,
-        102084643
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85840943,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5mIMj9tmF9eojIrFTa80TR_42.659176_-71.320819@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a307b5d5c96803b1e5e9e4bb5d03",
+      "sg:id": "SG_5mIMj9tmF9eojIrFTa80TR_42.659176_-71.320819@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711644,
-    "wof:geomhash":"a11c2f7579aa85d7d1c22f064f608598",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85840943,
-            "region_id":85688645,
-            "venue_id":656383049
-        }
+    "wof:country": "US",
+    "wof:created": 1461711644,
+    "wof:geomhash": "e22ee9c0325fd88ef3e84332702c614d",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85840943,
+        "region_id": 85688645,
+        "venue_id": 656383049
+      }
     ],
-    "wof:id":656383049,
-    "wof:lastmodified":1472624985,
-    "wof:name":"Hank's Garage",
-    "wof:parent_id":85840943,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 656383049,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Hank's Garage",
+    "wof:parent_id": 85840943,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -71.320819,
     42.659176,
     -71.320819,
     42.659176
-],
+  ],
   "geometry": {"coordinates":[-71.320819,42.659176],"type":"Point"}
 }

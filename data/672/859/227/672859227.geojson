@@ -2,82 +2,85 @@
   "id": 672859227,
   "type": "Feature",
   "properties": {
-    "addr:full":"2 Spring St Kingston MA 02364",
-    "addr:housenumber":"2",
-    "addr:postcode":"02364",
-    "addr:street":"Spring St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.713796,41.988623,-70.713796,41.988623",
-    "geom:latitude":41.988623,
-    "geom:longitude":-70.713796,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2 Spring St",
-    "sg:city":"Kingston",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Car Wash",
-            "type":"Services"
-        }
+    "addr:full": "2 Spring St Kingston MA 02364",
+    "addr:housenumber": "2",
+    "addr:postcode": "02364",
+    "addr:street": "Spring St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.713796,41.988623,-70.713796,41.988623",
+    "geom:latitude": 41.988623,
+    "geom:longitude": -70.713796,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Kingston Car Wash, 2 Spring St Kingston MA US",
+    "ovtr:similarity": 3.257174015045166,
+    "sg:address": "2 Spring St",
+    "sg:city": "Kingston",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Car Wash",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 585 2020",
-    "sg:postcode":"02364",
-    "sg:province":"MA",
-    "sg:tags":[
-        "polishing",
-        "washing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 585 2020",
+    "sg:postcode": "02364",
+    "sg:province": "MA",
+    "sg:tags": [
+      "polishing",
+      "washing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85845601,
-        102191575,
-        404476039,
-        85633793,
-        85950455,
-        102084367,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85845601,
+      102191575,
+      404476039,
+      85633793,
+      85950455,
+      102084367,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4usUJu2neB4YU0DAzhYXBh_41.988623_-70.713796@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3158b6020e2035cc331baf8d5ea",
+      "sg:id": "SG_4usUJu2neB4YU0DAzhYXBh_41.988623_-70.713796@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461728164,
-    "wof:geomhash":"90c271494bc2d6f7a4e68d5c5e0fc712",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476039,
-            "locality_id":85950455,
-            "neighbourhood_id":85845601,
-            "region_id":85688645,
-            "venue_id":672859227
-        }
+    "wof:country": "US",
+    "wof:created": 1461728164,
+    "wof:geomhash": "d97dc5756e104ccfa86ae8b2f0667ef4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476039,
+        "locality_id": 85950455,
+        "neighbourhood_id": 85845601,
+        "region_id": 85688645,
+        "venue_id": 672859227
+      }
     ],
-    "wof:id":672859227,
-    "wof:lastmodified":1472626075,
-    "wof:name":"Kingston Car Wash",
-    "wof:parent_id":85845601,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "polishing",
-        "washing"
+    "wof:id": 672859227,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Kingston Car Wash",
+    "wof:parent_id": 85845601,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "polishing",
+      "washing"
     ]
-},
+  },
   "bbox": [
     -70.713796,
     41.988623,
     -70.713796,
     41.988623
-],
+  ],
   "geometry": {"coordinates":[-70.713796,41.988623],"type":"Point"}
 }

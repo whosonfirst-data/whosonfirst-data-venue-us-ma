@@ -2,75 +2,78 @@
   "id": 672525447,
   "type": "Feature",
   "properties": {
-    "addr:full":"219 Walden St Concord MA 01742",
-    "addr:housenumber":"219",
-    "addr:postcode":"01742",
-    "addr:street":"Walden St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.343802,42.452682,-71.343802,42.452682",
-    "geom:latitude":42.452682,
-    "geom:longitude":-71.343802,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"219 Walden St",
-    "sg:city":"Concord",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "219 Walden St Concord MA 01742",
+    "addr:housenumber": "219",
+    "addr:postcode": "01742",
+    "addr:street": "Walden St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.343802,42.452682,-71.343802,42.452682",
+    "geom:latitude": 42.452682,
+    "geom:longitude": -71.343802,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Concord MA Police Department, 219 Walden St Concord MA US",
+    "ovtr:similarity": 2.985102891921997,
+    "sg:address": "219 Walden St",
+    "sg:city": "Concord",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 318 3400",
-    "sg:postcode":"01742",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 318 3400",
+    "sg:postcode": "01742",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "sg:website":"www.concordnet.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85833807,
-        102084643
+    "sg:website": "www.concordnet.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85833807,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1LM9H6mp5jqrbDaL2IMLQl_42.452682_-71.343802@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306aca5990c03e927dca3732e31",
+      "sg:id": "SG_1LM9H6mp5jqrbDaL2IMLQl_42.452682_-71.343802@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461720956,
-    "wof:geomhash":"63e492c91785c6fd704fca82a3d607a4",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85833807,
-            "region_id":85688645,
-            "venue_id":672525447
-        }
+    "wof:country": "US",
+    "wof:created": 1461720956,
+    "wof:geomhash": "48114f60a5fce2ee2388e740562f0f63",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85833807,
+        "region_id": 85688645,
+        "venue_id": 672525447
+      }
     ],
-    "wof:id":672525447,
-    "wof:lastmodified":1472625778,
-    "wof:name":"Concord Police Dept",
-    "wof:parent_id":85833807,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 672525447,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Concord Police Dept",
+    "wof:parent_id": 85833807,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -71.343802,
     42.452682,
     -71.343802,
     42.452682
-],
+  ],
   "geometry": {"coordinates":[-71.343802,42.452682],"type":"Point"}
 }

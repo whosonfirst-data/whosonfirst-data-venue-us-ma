@@ -2,76 +2,79 @@
   "id": 672366985,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 Stone St Walpole MA 02081",
-    "addr:housenumber":"20",
-    "addr:postcode":"02081",
-    "addr:street":"Stone St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.252596,42.145413,-71.252596,42.145413",
-    "geom:latitude":42.145413,
-    "geom:longitude":-71.252596,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20 Stone St",
-    "sg:city":"Walpole",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "20 Stone St Walpole MA 02081",
+    "addr:housenumber": "20",
+    "addr:postcode": "02081",
+    "addr:street": "Stone St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.252596,42.145413,-71.252596,42.145413",
+    "geom:latitude": 42.145413,
+    "geom:longitude": -71.252596,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Walpole Fire Department, 20 Stone St Walpole MA US",
+    "ovtr:similarity": 2.838365077972412,
+    "sg:address": "20 Stone St",
+    "sg:city": "Walpole",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 668 0260",
-    "sg:postcode":"02081",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 668 0260",
+    "sg:postcode": "02081",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950845,
-        102084403,
-        85842399
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950845,
+      102084403,
+      85842399
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4swCIc6lcbUExVi90xsyxO_42.145413_-71.252596@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3398a103951036e6e13bd076cf3",
+      "sg:id": "SG_4swCIc6lcbUExVi90xsyxO_42.145413_-71.252596@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461717134,
-    "wof:geomhash":"13222ba9ae48cf334275c79fa301d4ca",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084403,
-            "locality_id":85950845,
-            "neighbourhood_id":85842399,
-            "region_id":85688645,
-            "venue_id":672366985
-        }
+    "wof:country": "US",
+    "wof:created": 1461717134,
+    "wof:geomhash": "db9670b496057ed3d921ec09266bfd3f",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "locality_id": 85950845,
+        "neighbourhood_id": 85842399,
+        "region_id": 85688645,
+        "venue_id": 672366985
+      }
     ],
-    "wof:id":672366985,
-    "wof:lastmodified":1472625645,
-    "wof:name":"Walpole Fire Dept",
-    "wof:parent_id":85842399,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 672366985,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Walpole Fire Dept",
+    "wof:parent_id": 85842399,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -71.252596,
     42.145413,
     -71.252596,
     42.145413
-],
+  ],
   "geometry": {"coordinates":[-71.252596,42.145413],"type":"Point"}
 }

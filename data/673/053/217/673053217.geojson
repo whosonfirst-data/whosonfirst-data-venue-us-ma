@@ -2,78 +2,81 @@
   "id": 673053217,
   "type": "Feature",
   "properties": {
-    "addr:full":"637 Main St Walpole MA 02081",
-    "addr:housenumber":"637",
-    "addr:postcode":"02081",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.245102,42.1553,-71.245102,42.1553",
-    "geom:latitude":42.1553,
-    "geom:longitude":-71.245102,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"637 Main St",
-    "sg:city":"Walpole",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "637 Main St Walpole MA 02081",
+    "addr:housenumber": "637",
+    "addr:postcode": "02081",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.245102,42.155300,-71.245102,42.155300",
+    "geom:latitude": 42.1553,
+    "geom:longitude": -71.245102,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Family Pizzeria, 637 Main St Walpole MA US",
+    "ovtr:similarity": 2.0994179248809814,
+    "sg:address": "637 Main St",
+    "sg:city": "Walpole",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 660 0045",
-    "sg:postcode":"02081",
-    "sg:province":"MA",
-    "sg:tags":[
-        "eating",
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 660 0045",
+    "sg:postcode": "02081",
+    "sg:province": "MA",
+    "sg:tags": [
+      "eating",
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950845,
-        102084403,
-        85842399
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950845,
+      102084403,
+      85842399
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3HVeRa9UzGV8dV4ukwkQfX_42.154728_-71.245661@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3398e67562a035d3cad48879dba",
+      "sg:id": "SG_3HVeRa9UzGV8dV4ukwkQfX_42.154728_-71.245661@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732822,
-    "wof:geomhash":"3f7a710f968437cc588df215e4488590",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084403,
-            "locality_id":85950845,
-            "neighbourhood_id":85842399,
-            "region_id":85688645,
-            "venue_id":673053217
-        }
+    "wof:country": "US",
+    "wof:created": 1461732822,
+    "wof:geomhash": "eee59ece65f4e901bc9f485509ca0bcf",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "locality_id": 85950845,
+        "neighbourhood_id": 85842399,
+        "region_id": 85688645,
+        "venue_id": 673053217
+      }
     ],
-    "wof:id":673053217,
-    "wof:lastmodified":1472625131,
-    "wof:name":"Family Pizzeria",
-    "wof:parent_id":85842399,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating",
-        "pizza"
+    "wof:id": 673053217,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Family Pizzeria",
+    "wof:parent_id": 85842399,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating",
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.245102,
     42.1553,
     -71.245102,
     42.1553
-],
+  ],
   "geometry": {"coordinates":[-71.245102,42.1553],"type":"Point"}
 }

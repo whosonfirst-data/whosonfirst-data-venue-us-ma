@@ -2,84 +2,87 @@
   "id": 672272781,
   "type": "Feature",
   "properties": {
-    "addr:full":"9 North St Randolph MA 02368",
-    "addr:housenumber":"9",
-    "addr:postcode":"02368",
-    "addr:street":"North St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.041138,42.162822,-71.041138,42.162822",
-    "geom:latitude":42.162822,
-    "geom:longitude":-71.041138,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9 North St",
-    "sg:city":"Randolph",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "9 North St Randolph MA 02368",
+    "addr:housenumber": "9",
+    "addr:postcode": "02368",
+    "addr:street": "North St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.041138,42.162822,-71.041138,42.162822",
+    "geom:latitude": 42.162822,
+    "geom:longitude": -71.041138,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Woodlawn Autobody, 9 North St Randolph MA US",
+    "ovtr:similarity": 3.7925870418548584,
+    "sg:address": "9 North St",
+    "sg:city": "Randolph",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 963 6629",
-    "sg:postcode":"02368",
-    "sg:province":"MA",
-    "sg:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 963 6629",
+    "sg:postcode": "02368",
+    "sg:province": "MA",
+    "sg:tags": [
+      "body",
+      "automobile",
+      "painting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891483,
-        102191575,
-        404476593,
-        85633793,
-        85950841,
-        102084403,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85891483,
+      102191575,
+      404476593,
+      85633793,
+      85950841,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2j7isdt1YCnloBoI2P8LfT_42.162822_-71.041138@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3391db316c803ebf41aef96c7c8",
+      "sg:id": "SG_2j7isdt1YCnloBoI2P8LfT_42.162822_-71.041138@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715052,
-    "wof:geomhash":"c27068faa50b667c75789b51cb7312fe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476593,
-            "locality_id":85950841,
-            "neighbourhood_id":85891483,
-            "region_id":85688645,
-            "venue_id":672272781
-        }
+    "wof:country": "US",
+    "wof:created": 1461715052,
+    "wof:geomhash": "f5da1391f8a6c3ba29b91df0ae488e4a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476593,
+        "locality_id": 85950841,
+        "neighbourhood_id": 85891483,
+        "region_id": 85688645,
+        "venue_id": 672272781
+      }
     ],
-    "wof:id":672272781,
-    "wof:lastmodified":1472625432,
-    "wof:name":"Woodlawn Autobody Inc",
-    "wof:parent_id":85891483,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "wof:id": 672272781,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Woodlawn Autobody Inc",
+    "wof:parent_id": 85891483,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "automobile",
+      "painting"
     ]
-},
+  },
   "bbox": [
     -71.041138,
     42.162822,
     -71.041138,
     42.162822
-],
+  ],
   "geometry": {"coordinates":[-71.041138,42.162822],"type":"Point"}
 }

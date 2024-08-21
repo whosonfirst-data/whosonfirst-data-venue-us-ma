@@ -2,71 +2,74 @@
   "id": 672213257,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 Main St West Newbury MA 01985",
-    "addr:housenumber":"401",
-    "addr:postcode":"01985",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.995388,42.796697,-70.995388,42.796697",
-    "geom:latitude":42.796697,
-    "geom:longitude":-70.995388,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"401 Main St",
-    "sg:city":"West Newbury",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "401 Main St West Newbury MA 01985",
+    "addr:housenumber": "401",
+    "addr:postcode": "01985",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.995388,42.796697,-70.995388,42.796697",
+    "geom:latitude": 42.796697,
+    "geom:longitude": -70.995388,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "West Newbury Fire Department, 401 Main St West Newbury MA US",
+    "ovtr:similarity": 3.1942319869995117,
+    "sg:address": "401 Main St",
+    "sg:city": "West Newbury",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 363 1111",
-    "sg:postcode":"01985",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 363 1111",
+    "sg:postcode": "01985",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        420523475
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633793,
+      420523475
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_76bKM5O3bff5F7QS2PAkTF_42.796697_-70.995388@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3019b7b34760336e846d4b9d5cb",
+      "sg:id": "SG_76bKM5O3bff5F7QS2PAkTF_42.796697_-70.995388@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461713830,
-    "wof:geomhash":"534fbfc85cfe4b126e098afd0223782e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "neighbourhood_id":420523475,
-            "venue_id":672213257
-        }
+    "wof:country": "US",
+    "wof:created": 1461713830,
+    "wof:geomhash": "534fbfc85cfe4b126e098afd0223782e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "neighbourhood_id": 420523475,
+        "venue_id": 672213257
+      }
     ],
-    "wof:id":672213257,
-    "wof:lastmodified":1492109711,
-    "wof:name":"West Newbury Fire Dept",
-    "wof:parent_id":420523475,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 672213257,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "West Newbury Fire Dept",
+    "wof:parent_id": 420523475,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -70.995388,
     42.796697,
     -70.995388,
     42.796697
-],
-  "geometry": {"coordinates":[-70.99538800000001,42.796697],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.995388,42.796697],"type":"Point"}
 }

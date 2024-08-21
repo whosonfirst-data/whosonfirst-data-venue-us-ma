@@ -2,78 +2,81 @@
   "id": 672389247,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 Willow Ave Somerville MA 02144",
-    "addr:housenumber":"201",
-    "addr:postcode":"02144",
-    "addr:street":"Willow Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.114584,42.39704,-71.114584,42.39704",
-    "geom:latitude":42.39704,
-    "geom:longitude":-71.114584,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"201 Willow Ave",
-    "sg:city":"Somerville",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "201 Willow Ave Somerville MA 02144",
+    "addr:housenumber": "201",
+    "addr:postcode": "02144",
+    "addr:street": "Willow Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.114584,42.397040,-71.114584,42.397040",
+    "geom:latitude": 42.39704,
+    "geom:longitude": -71.114584,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Benjamin G Brown School, 201 Willow Ave Somerville MA US",
+    "ovtr:similarity": 2.849761962890625,
+    "sg:address": "201 Willow Ave",
+    "sg:city": "Somerville",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 666 5700",
-    "sg:postcode":"02144",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85881041,
-        102191575,
-        404476445,
-        85633793,
-        85950339,
-        102084643,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 666 5700",
+    "sg:postcode": "02144",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85881041,
+      102191575,
+      404476445,
+      85633793,
+      85950339,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":29682418,
-        "sg:id":"SG_4ZPeFH0vyyVvCBQhOZ5spI_42.397040_-71.114584@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 29682418,
+      "ovtr:id": "08f2a30675d88371033405b7e6982259",
+      "sg:id": "SG_4ZPeFH0vyyVvCBQhOZ5spI_42.397040_-71.114584@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461717626,
-    "wof:geomhash":"90562d682e5ce45082844f24f87e932f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476445,
-            "locality_id":85950339,
-            "neighbourhood_id":85881041,
-            "region_id":85688645,
-            "venue_id":672389247
-        }
+    "wof:country": "US",
+    "wof:created": 1461717626,
+    "wof:geomhash": "90562d682e5ce45082844f24f87e932f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476445,
+        "locality_id": 85950339,
+        "neighbourhood_id": 85881041,
+        "region_id": 85688645,
+        "venue_id": 672389247
+      }
     ],
-    "wof:id":672389247,
-    "wof:lastmodified":1510943392,
-    "wof:name":"Benjamin G Brown School",
-    "wof:parent_id":85881041,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672389247,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Benjamin G Brown School",
+    "wof:parent_id": 85881041,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.114584,
     42.39704,
     -71.114584,
     42.39704
-],
-  "geometry": {"coordinates":[-71.11458399999999,42.39704],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.114584,42.39704],"type":"Point"}
 }

@@ -2,80 +2,83 @@
   "id": 673075789,
   "type": "Feature",
   "properties": {
-    "addr:full":"32 Main St Topsfield MA 01983",
-    "addr:housenumber":"32",
-    "addr:postcode":"01983",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.95068,42.63921,-70.95068,42.63921",
-    "geom:latitude":42.63921,
-    "geom:longitude":-70.95068,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"32 Main St",
-    "sg:city":"Topsfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "32 Main St Topsfield MA 01983",
+    "addr:housenumber": "32",
+    "addr:postcode": "01983",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.950680,42.639210,-70.950680,42.639210",
+    "geom:latitude": 42.63921,
+    "geom:longitude": -70.95068,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Topsfield House of Pizza, 32 Main St Topsfield MA US",
+    "ovtr:similarity": 3.2817530632019043,
+    "sg:address": "32 Main St",
+    "sg:city": "Topsfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 887 9642",
-    "sg:postcode":"01983",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 887 9642",
+    "sg:postcode": "01983",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85828503,
-        102191575,
-        404476267,
-        85633793,
-        85950813,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85828503,
+      102191575,
+      404476267,
+      85633793,
+      85950813,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_70EFq2QGFl2rBUAGNCQCdn_42.639557_-70.950514@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a300d497527103ed1295f571e79e",
+      "sg:id": "SG_70EFq2QGFl2rBUAGNCQCdn_42.639557_-70.950514@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733258,
-    "wof:geomhash":"07aa7456ca034bb1f7953ac8039ef9f4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476267,
-            "locality_id":85950813,
-            "neighbourhood_id":85828503,
-            "region_id":85688645,
-            "venue_id":673075789
-        }
+    "wof:country": "US",
+    "wof:created": 1461733258,
+    "wof:geomhash": "f5936d7524aa992184ee565e53fca521",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476267,
+        "locality_id": 85950813,
+        "neighbourhood_id": 85828503,
+        "region_id": 85688645,
+        "venue_id": 673075789
+      }
     ],
-    "wof:id":673075789,
-    "wof:lastmodified":1472625197,
-    "wof:name":"Topsfield House Of Pizza",
-    "wof:parent_id":85828503,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 673075789,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Topsfield House Of Pizza",
+    "wof:parent_id": 85828503,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -70.95068,
     42.63921,
     -70.95068,
     42.63921
-],
-  "geometry": {"coordinates":[-70.95068000000001,42.63921],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.95068,42.63921],"type":"Point"}
 }

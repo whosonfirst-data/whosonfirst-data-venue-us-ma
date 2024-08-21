@@ -2,81 +2,84 @@
   "id": 673054899,
   "type": "Feature",
   "properties": {
-    "addr:full":"80 Sandwich St Plymouth MA 02360",
-    "addr:housenumber":"80",
-    "addr:postcode":"02360",
-    "addr:street":"Sandwich St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.659798,41.953098,-70.659798,41.953098",
-    "geom:latitude":41.953098,
-    "geom:longitude":-70.659798,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"80 Sandwich St",
-    "sg:city":"Plymouth",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "80 Sandwich St Plymouth MA 02360",
+    "addr:housenumber": "80",
+    "addr:postcode": "02360",
+    "addr:street": "Sandwich St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.659798,41.953098,-70.659798,41.953098",
+    "geom:latitude": 41.953098,
+    "geom:longitude": -70.659798,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Cat Clinic of Plymouth, 80 Sandwich St Plymouth MA US",
+    "ovtr:similarity": 2.452868938446045,
+    "sg:address": "80 Sandwich St",
+    "sg:city": "Plymouth",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 746 8580",
-    "sg:postcode":"02360",
-    "sg:province":"MA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 746 8580",
+    "sg:postcode": "02360",
+    "sg:province": "MA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "sg:website":"www.catclinicofplymouth.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85827215,
-        102191575,
-        404476561,
-        85633793,
-        85950483,
-        102084367,
-        85688645
+    "sg:website": "www.catclinicofplymouth.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85827215,
+      102191575,
+      404476561,
+      85633793,
+      85950483,
+      102084367,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3PpfaQtZ9O1H6XXv4kKGVm_41.953174_-70.659731@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a31410b634f003a438bcc38746e4",
+      "sg:id": "SG_3PpfaQtZ9O1H6XXv4kKGVm_41.953174_-70.659731@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732857,
-    "wof:geomhash":"f8bc059284ce19c856d7fc380de13c33",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476561,
-            "locality_id":85950483,
-            "neighbourhood_id":85827215,
-            "region_id":85688645,
-            "venue_id":673054899
-        }
+    "wof:country": "US",
+    "wof:created": 1461732857,
+    "wof:geomhash": "2be9d9f96d73907d1ffa2c4802707b70",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476561,
+        "locality_id": 85950483,
+        "neighbourhood_id": 85827215,
+        "region_id": 85688645,
+        "venue_id": 673054899
+      }
     ],
-    "wof:id":673054899,
-    "wof:lastmodified":1472625174,
-    "wof:name":"Cat Clinic of Plymouth",
-    "wof:parent_id":85827215,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 673054899,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Cat Clinic of Plymouth",
+    "wof:parent_id": 85827215,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -70.659798,
     41.953098,
     -70.659798,
     41.953098
-],
-  "geometry": {"coordinates":[-70.65979799999999,41.953098],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.659798,41.953098],"type":"Point"}
 }

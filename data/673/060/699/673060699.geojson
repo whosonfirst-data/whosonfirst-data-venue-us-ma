@@ -2,82 +2,85 @@
   "id": 673060699,
   "type": "Feature",
   "properties": {
-    "addr:full":"166 King St Northampton MA 01060",
-    "addr:housenumber":"166",
-    "addr:postcode":"01060",
-    "addr:street":"King St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.633244,42.32558,-72.633244,42.32558",
-    "geom:latitude":42.32558,
-    "geom:longitude":-72.633244,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"166 King St",
-    "sg:city":"Northampton",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Meat & Fish",
-            "type":"Retail Goods"
-        }
+    "addr:full": "166 King St Northampton MA 01060",
+    "addr:housenumber": "166",
+    "addr:postcode": "01060",
+    "addr:street": "King St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.633244,42.325580,-72.633244,42.325580",
+    "geom:latitude": 42.32558,
+    "geom:longitude": -72.633244,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "North Shore Seafood Co, 166 King St Northampton MA US",
+    "ovtr:similarity": 2.294347047805786,
+    "sg:address": "166 King St",
+    "sg:city": "Northampton",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Meat \u0026 Fish",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 584 1953",
-    "sg:postcode":"01060",
-    "sg:province":"MA",
-    "sg:tags":[
-        "seafood",
-        "restaurant"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 584 1953",
+    "sg:postcode": "01060",
+    "sg:province": "MA",
+    "sg:tags": [
+      "seafood",
+      "restaurant"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85841755,
-        102191575,
-        404476303,
-        85633793,
-        85950433,
-        102084459,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85841755,
+      102191575,
+      404476303,
+      85633793,
+      85950433,
+      102084459,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4nvHt9ckF2ON1GrxuBB8r7_42.325213_-72.633254@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32640806c5a03446b6f2cfb32dd",
+      "sg:id": "SG_4nvHt9ckF2ON1GrxuBB8r7_42.325213_-72.633254@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732967,
-    "wof:geomhash":"7b832eaa591f43a6e21fc09dcf2229d2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084459,
-            "localadmin_id":404476303,
-            "locality_id":85950433,
-            "neighbourhood_id":85841755,
-            "region_id":85688645,
-            "venue_id":673060699
-        }
+    "wof:country": "US",
+    "wof:created": 1461732967,
+    "wof:geomhash": "9c2f831ff40454556140cf501bba7f9d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084459,
+        "localadmin_id": 404476303,
+        "locality_id": 85950433,
+        "neighbourhood_id": 85841755,
+        "region_id": 85688645,
+        "venue_id": 673060699
+      }
     ],
-    "wof:id":673060699,
-    "wof:lastmodified":1472625171,
-    "wof:name":"North Shore Seafood Co",
-    "wof:parent_id":85841755,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "seafood",
-        "restaurant"
+    "wof:id": 673060699,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "North Shore Seafood Co",
+    "wof:parent_id": 85841755,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "seafood",
+      "restaurant"
     ]
-},
+  },
   "bbox": [
     -72.633244,
     42.32558,
     -72.633244,
     42.32558
-],
+  ],
   "geometry": {"coordinates":[-72.633244,42.32558],"type":"Point"}
 }

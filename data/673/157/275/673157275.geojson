@@ -2,79 +2,82 @@
   "id": 673157275,
   "type": "Feature",
   "properties": {
-    "addr:full":"45 Center Street Burlington MA 01803",
-    "addr:housenumber":"45",
-    "addr:postcode":"01803",
-    "addr:street":"Center Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.1924,42.5054,-71.1924,42.5054",
-    "geom:latitude":42.5054,
-    "geom:longitude":-71.1924,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"45 Center Street",
-    "sg:city":"Burlington",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"City Hall",
-            "type":"Public Place"
-        }
+    "addr:full": "45 Center Street Burlington MA 01803",
+    "addr:housenumber": "45",
+    "addr:postcode": "01803",
+    "addr:street": "Center Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.192400,42.505400,-71.192400,42.505400",
+    "geom:latitude": 42.5054,
+    "geom:longitude": -71.1924,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Burlington Police Department, 45 Center St Burlington MA US",
+    "ovtr:similarity": 3.632014036178589,
+    "sg:address": "45 Center Street",
+    "sg:city": "Burlington",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "City Hall",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 272 1212",
-    "sg:postcode":"01803",
-    "sg:province":"MA",
-    "sg:website":"www.bpd.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85824255,
-        102191575,
-        404476473,
-        85633793,
-        85950619,
-        102084643,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 272 1212",
+    "sg:postcode": "01803",
+    "sg:province": "MA",
+    "sg:website": "www.bpd.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85824255,
+      102191575,
+      404476473,
+      85633793,
+      85950619,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":212279574,
-        "sg:id":"SG_5tgsJjCT5b3F6nDzMvNJt1_42.505400_-71.192400@1303262191"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 212279574,
+      "ovtr:id": "08f2a3062281d73403d6f53bc9d12d06",
+      "sg:id": "SG_5tgsJjCT5b3F6nDzMvNJt1_42.505400_-71.192400@1303262191"
     },
-    "wof:country":"US",
-    "wof:created":1461734962,
-    "wof:geomhash":"b32f1ef466eedd03f4f43f641c2802bf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476473,
-            "locality_id":85950619,
-            "neighbourhood_id":85824255,
-            "region_id":85688645,
-            "venue_id":673157275
-        }
+    "wof:country": "US",
+    "wof:created": 1461734962,
+    "wof:geomhash": "b32f1ef466eedd03f4f43f641c2802bf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476473,
+        "locality_id": 85950619,
+        "neighbourhood_id": 85824255,
+        "region_id": 85688645,
+        "venue_id": 673157275
+      }
     ],
-    "wof:id":673157275,
-    "wof:lastmodified":1510943852,
-    "wof:name":"Burlington Police Department",
-    "wof:parent_id":85824255,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673157275,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Burlington Police Department",
+    "wof:parent_id": 85824255,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.1924,
     42.5054,
     -71.1924,
     42.5054
-],
-  "geometry": {"coordinates":[-71.19240000000001,42.5054],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.1924,42.5054],"type":"Point"}
 }

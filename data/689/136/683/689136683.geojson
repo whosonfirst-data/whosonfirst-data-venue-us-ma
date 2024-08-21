@@ -2,87 +2,90 @@
   "id": 689136683,
   "type": "Feature",
   "properties": {
-    "addr:full":"409 Washington St Weymouth MA 02188",
-    "addr:housenumber":"409",
-    "addr:postcode":"02188",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.957927,42.208642,-70.957927,42.208642",
-    "geom:latitude":42.208642,
-    "geom:longitude":-70.957927,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"409 Washington St",
-    "sg:city":"Weymouth",
-    "sg:classifiers":[
-        {
-            "category":"Deli",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "409 Washington St Weymouth MA 02188",
+    "addr:housenumber": "409",
+    "addr:postcode": "02188",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.957927,42.208642,-70.957927,42.208642",
+    "geom:latitude": 42.208642,
+    "geom:longitude": -70.957927,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Main Street Deli \u0026 Pizza Inc, 380 Washington St Weymouth MA US",
+    "ovtr:similarity": 3.3753719329833984,
+    "sg:address": "409 Washington St",
+    "sg:city": "Weymouth",
+    "sg:classifiers": [
+      {
+        "category": "Deli",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 340 0731",
-    "sg:postcode":"02188",
-    "sg:province":"MA",
-    "sg:tags":[
-        "delicatessen",
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 340 0731",
+    "sg:postcode": "02188",
+    "sg:province": "MA",
+    "sg:tags": [
+      "delicatessen",
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85816023,
-        102191575,
-        404476603,
-        85633793,
-        85950427,
-        102084403,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85816023,
+      102191575,
+      404476603,
+      85633793,
+      85950427,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2LYkuDBYMHXJdhbpVWE6jL_42.208642_-70.957927@1303262223"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3392ed23b5503f21619f616843f",
+      "sg:id": "SG_2LYkuDBYMHXJdhbpVWE6jL_42.208642_-70.957927@1303262223"
     },
-    "wof:country":"US",
-    "wof:created":1461740272,
-    "wof:geomhash":"5e805093f4a1230f4da2d851ed19487b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476603,
-            "locality_id":85950427,
-            "neighbourhood_id":85816023,
-            "region_id":85688645,
-            "venue_id":689136683
-        }
+    "wof:country": "US",
+    "wof:created": 1461740272,
+    "wof:geomhash": "57c7b34748e31eba8e0ce2fe8637f3c0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476603,
+        "locality_id": 85950427,
+        "neighbourhood_id": 85816023,
+        "region_id": 85688645,
+        "venue_id": 689136683
+      }
     ],
-    "wof:id":689136683,
-    "wof:lastmodified":1472625467,
-    "wof:name":"Main Street Deli & Pizza Inc",
-    "wof:parent_id":85816023,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "delicatessen",
-        "pizza"
+    "wof:id": 689136683,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Main Street Deli \u0026 Pizza Inc",
+    "wof:parent_id": 85816023,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "delicatessen",
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -70.957927,
     42.208642,
     -70.957927,
     42.208642
-],
+  ],
   "geometry": {"coordinates":[-70.957927,42.208642],"type":"Point"}
 }

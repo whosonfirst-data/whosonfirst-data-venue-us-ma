@@ -2,87 +2,90 @@
   "id": 673060103,
   "type": "Feature",
   "properties": {
-    "addr:full":"30 W Main St Norton MA 02766",
-    "addr:housenumber":"30",
-    "addr:postcode":"02766",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.189348,41.965768,-71.189348,41.965768",
-    "geom:latitude":41.965768,
-    "geom:longitude":-71.189348,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"30 W Main St",
-    "sg:city":"Norton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "30 W Main St Norton MA 02766",
+    "addr:housenumber": "30",
+    "addr:postcode": "02766",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.189348,41.965768,-71.189348,41.965768",
+    "geom:latitude": 41.965768,
+    "geom:longitude": -71.189348,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Wendell's, 30 W Main St Norton MA US",
+    "ovtr:similarity": 2.297960042953491,
+    "sg:address": "30 W Main St",
+    "sg:city": "Norton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 285 5555",
-    "sg:postcode":"02766",
-    "sg:province":"MA",
-    "sg:tags":[
-        "lounge",
-        "chicken",
-        "wing",
-        "cocktail"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 285 5555",
+    "sg:postcode": "02766",
+    "sg:province": "MA",
+    "sg:tags": [
+      "lounge",
+      "chicken",
+      "wing",
+      "cocktail"
     ],
-    "sg:website":"www.wendellspub.net",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85810265,
-        102191575,
-        404476135,
-        85633793,
-        85950679,
-        102084407,
-        85688645
+    "sg:website": "www.wendellspub.net",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85810265,
+      102191575,
+      404476135,
+      85633793,
+      85950679,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4KTuLFYQvsioLTlEIguG7s_41.965361_-71.189526@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a338e39b4b40032cc1428de19eef",
+      "sg:id": "SG_4KTuLFYQvsioLTlEIguG7s_41.965361_-71.189526@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732955,
-    "wof:geomhash":"5c89eff6db3c218777ae2b8bd9f2e63f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476135,
-            "locality_id":85950679,
-            "neighbourhood_id":85810265,
-            "region_id":85688645,
-            "venue_id":673060103
-        }
+    "wof:country": "US",
+    "wof:created": 1461732955,
+    "wof:geomhash": "e83377b8eb045eabff8ac4e816db84f1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476135,
+        "locality_id": 85950679,
+        "neighbourhood_id": 85810265,
+        "region_id": 85688645,
+        "venue_id": 673060103
+      }
     ],
-    "wof:id":673060103,
-    "wof:lastmodified":1472625129,
-    "wof:name":"Wendell's",
-    "wof:parent_id":85810265,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "lounge",
-        "chicken",
-        "wing",
-        "cocktail"
+    "wof:id": 673060103,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Wendell's",
+    "wof:parent_id": 85810265,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "lounge",
+      "chicken",
+      "wing",
+      "cocktail"
     ]
-},
+  },
   "bbox": [
     -71.189348,
     41.965768,
     -71.189348,
     41.965768
-],
+  ],
   "geometry": {"coordinates":[-71.189348,41.965768],"type":"Point"}
 }

@@ -2,65 +2,72 @@
   "id": 689193061,
   "type": "Feature",
   "properties": {
-    "addr:full":"29 Dock St Edgartown MA 02539",
-    "addr:housenumber":"29",
-    "addr:postcode":"02539",
-    "addr:street":"Dock St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.511459,41.389297,-70.511459,41.389297",
-    "geom:latitude":41.389297,
-    "geom:longitude":-70.511459,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"29 Dock St",
-    "sg:city":"Edgartown",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "29 Dock St Edgartown MA 02539",
+    "addr:housenumber": "29",
+    "addr:postcode": "02539",
+    "addr:street": "Dock St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.511459,41.389297,-70.511459,41.389297",
+    "geom:latitude": 41.389297,
+    "geom:longitude": -70.511459,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Quarterdeck Restaurant, 29 Dock St Edgartown MA US",
+    "ovtr:similarity": 1.9678839445114136,
+    "sg:address": "29 Dock St",
+    "sg:city": "Edgartown",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 627 5346",
-    "sg:postcode":"02539",
-    "sg:province":"MA",
-    "sg:tags":[
-        "style",
-        "family"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 627 5346",
+    "sg:postcode": "02539",
+    "sg:province": "MA",
+    "sg:tags": [
+      "style",
+      "family"
     ],
-    "sg:website":"http://www.davidalton.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6rpGYdfkKF5Jm5PZnptOEn_41.389297_-70.511459@1303262231"
+    "sg:website": "http://www.davidalton.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a316ed38c96203d4b1739f838a8e",
+      "sg:id": "SG_6rpGYdfkKF5Jm5PZnptOEn_41.389297_-70.511459@1303262231"
     },
-    "wof:country":"US",
-    "wof:created":1461741906,
-    "wof:geomhash":"367ecf649c1d3b3e3986faa5b125c1d5",
-    "wof:hierarchy":[],
-    "wof:id":689193061,
-    "wof:lastmodified":1492098516,
-    "wof:name":"Quarterdeck Restaurant",
-    "wof:parent_id":85811339,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "style",
-        "family"
+    "wof:country": "US",
+    "wof:created": 1461741906,
+    "wof:geomhash": "367ecf649c1d3b3e3986faa5b125c1d5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689193061
+      }
+    ],
+    "wof:id": 689193061,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Quarterdeck Restaurant",
+    "wof:parent_id": 85811339,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "style",
+      "family"
     ]
-},
+  },
   "bbox": [
     -70.511459,
     41.389297,
     -70.511459,
     41.389297
-],
+  ],
   "geometry": {"coordinates":[-70.511459,41.389297],"type":"Point"}
 }

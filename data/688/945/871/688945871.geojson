@@ -2,69 +2,72 @@
   "id": 688945871,
   "type": "Feature",
   "properties": {
-    "addr:full":"64 South St Norwell MA 02061",
-    "addr:housenumber":"64",
-    "addr:postcode":"02061",
-    "addr:street":"South St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.834606,42.15113,-70.834606,42.15113",
-    "geom:latitude":42.15113,
-    "geom:longitude":-70.834606,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"64 South St",
-    "sg:city":"Norwell",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "64 South St Norwell MA 02061",
+    "addr:housenumber": "64",
+    "addr:postcode": "02061",
+    "addr:street": "South St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.834606,42.151130,-70.834606,42.151130",
+    "geom:latitude": 42.15113,
+    "geom:longitude": -70.834606,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Norwell Public Library, 64 South St Norwell MA US",
+    "ovtr:similarity": 3.3218491077423096,
+    "sg:address": "64 South St",
+    "sg:city": "Norwell",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 659 2015",
-    "sg:postcode":"02061",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85833789,
-        102084367
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 659 2015",
+    "sg:postcode": "02061",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85833789,
+      102084367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5dDDxm1dYT55rKDMXJTNJG_42.151130_-70.834606@1303262198"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a302dd2e6bac03df1bd9d068681f",
+      "sg:id": "SG_5dDDxm1dYT55rKDMXJTNJG_42.151130_-70.834606@1303262198"
     },
-    "wof:country":"US",
-    "wof:created":1461736166,
-    "wof:geomhash":"3f9ee3ac6a8b7200d8f2cb39acda0880",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "neighbourhood_id":85833789,
-            "region_id":85688645,
-            "venue_id":688945871
-        }
+    "wof:country": "US",
+    "wof:created": 1461736166,
+    "wof:geomhash": "07c88aeed8bcb9255bd81f575020d788",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "neighbourhood_id": 85833789,
+        "region_id": 85688645,
+        "venue_id": 688945871
+      }
     ],
-    "wof:id":688945871,
-    "wof:lastmodified":1472625109,
-    "wof:name":"Norwell Public Library",
-    "wof:parent_id":85833789,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 688945871,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Norwell Public Library",
+    "wof:parent_id": 85833789,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.834606,
     42.15113,
     -70.834606,
     42.15113
-],
-  "geometry": {"coordinates":[-70.83460599999999,42.15113],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.834606,42.15113],"type":"Point"}
 }

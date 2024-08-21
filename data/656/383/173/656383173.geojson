@@ -2,58 +2,65 @@
   "id": 656383173,
   "type": "Feature",
   "properties": {
-    "addr:full":"71 Main St Vineyard Haven MA 02568",
-    "addr:housenumber":"71",
-    "addr:postcode":"02568",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.602835,41.454844,-70.602835,41.454844",
-    "geom:latitude":41.454844,
-    "geom:longitude":-70.602835,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"71 Main St",
-    "sg:city":"Vineyard Haven",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Clothing, Apparel, & Fashions",
-            "type":"Retail Goods"
-        }
+    "addr:full": "71 Main St Vineyard Haven MA 02568",
+    "addr:housenumber": "71",
+    "addr:postcode": "02568",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.602835,41.454844,-70.602835,41.454844",
+    "geom:latitude": 41.454844,
+    "geom:longitude": -70.602835,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "The Green Room, 71 Main St Vineyard Haven MA US",
+    "ovtr:similarity": 3.415081024169922,
+    "sg:address": "71 Main St",
+    "sg:city": "Vineyard Haven",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Clothing, Apparel, \u0026 Fashions",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 693 6888",
-    "sg:postcode":"02568",
-    "sg:province":"MA",
-    "sg:website":"www.vineyardsurf.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_16kxZsc3PF1JRUFjytLEMA_41.454844_-70.602835@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 693 6888",
+    "sg:postcode": "02568",
+    "sg:province": "MA",
+    "sg:website": "www.vineyardsurf.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a316f194e20a03618d29f814a066",
+      "sg:id": "SG_16kxZsc3PF1JRUFjytLEMA_41.454844_-70.602835@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711646,
-    "wof:geomhash":"591df29c3541bd4a096478b5dc710bc9",
-    "wof:hierarchy":[],
-    "wof:id":656383173,
-    "wof:lastmodified":1492101700,
-    "wof:name":"Green Room",
-    "wof:parent_id":85839269,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461711646,
+    "wof:geomhash": "591df29c3541bd4a096478b5dc710bc9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 656383173
+      }
+    ],
+    "wof:id": 656383173,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Green Room",
+    "wof:parent_id": 85839269,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.602835,
     41.454844,
     -70.602835,
     41.454844
-],
+  ],
   "geometry": {"coordinates":[-70.602835,41.454844],"type":"Point"}
 }

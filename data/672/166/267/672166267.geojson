@@ -2,63 +2,70 @@
   "id": 672166267,
   "type": "Feature",
   "properties": {
-    "addr:full":"156 River Rd New Bedford MA 02745",
-    "addr:housenumber":"156",
-    "addr:postcode":"02745",
-    "addr:street":"River Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.918148,41.677158,-70.918148,41.677158",
-    "geom:latitude":41.677158,
-    "geom:longitude":-70.918148,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"156 River Rd",
-    "sg:city":"New Bedford",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Bicycles & Sporting Goods",
-            "type":"Retail Goods"
-        }
+    "addr:full": "156 River Rd New Bedford MA 02745",
+    "addr:housenumber": "156",
+    "addr:postcode": "02745",
+    "addr:street": "River Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.918148,41.677158,-70.918148,41.677158",
+    "geom:latitude": 41.677158,
+    "geom:longitude": -70.918148,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "John's Bait \u0026 Tackle, 156 River Rd New Bedford MA US",
+    "ovtr:similarity": 2.194056987762451,
+    "sg:address": "156 River Rd",
+    "sg:city": "New Bedford",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Bicycles \u0026 Sporting Goods",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 998 8886",
-    "sg:postcode":"02745",
-    "sg:province":"MA",
-    "sg:tags":[
-        "bait",
-        "fishing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 998 8886",
+    "sg:postcode": "02745",
+    "sg:province": "MA",
+    "sg:tags": [
+      "bait",
+      "fishing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4d58UgfYYpodMid6Q1gigN_41.677158_-70.918148@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33b5356c6d103c715ea87336cc8",
+      "sg:id": "SG_4d58UgfYYpodMid6Q1gigN_41.677158_-70.918148@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461712817,
-    "wof:geomhash":"67ae7774a2f92ff17cc1ca1a11d94346",
-    "wof:hierarchy":[],
-    "wof:id":672166267,
-    "wof:lastmodified":1472625013,
-    "wof:name":"John's Bait & Tackle",
-    "wof:parent_id":420558431,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bait",
-        "fishing"
+    "wof:country": "US",
+    "wof:created": 1461712817,
+    "wof:geomhash": "ef4f29a6fd36040738014c0f7f2eccc7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672166267
+      }
+    ],
+    "wof:id": 672166267,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "John's Bait \u0026 Tackle",
+    "wof:parent_id": 420558431,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bait",
+      "fishing"
     ]
-},
+  },
   "bbox": [
     -70.918148,
     41.677158,
     -70.918148,
     41.677158
-],
+  ],
   "geometry": {"coordinates":[-70.918148,41.677158],"type":"Point"}
 }

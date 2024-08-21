@@ -2,80 +2,83 @@
   "id": 672852025,
   "type": "Feature",
   "properties": {
-    "addr:full":"151 Stedman St Lowell MA 01851",
-    "addr:housenumber":"151",
-    "addr:postcode":"01851",
-    "addr:street":"Stedman St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.351946,42.623199,-71.351946,42.623199",
-    "geom:latitude":42.623199,
-    "geom:longitude":-71.351946,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"151 Stedman St",
-    "sg:city":"Lowell",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "151 Stedman St Lowell MA 01851",
+    "addr:housenumber": "151",
+    "addr:postcode": "01851",
+    "addr:street": "Stedman St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.351946,42.623199,-71.351946,42.623199",
+    "geom:latitude": 42.623199,
+    "geom:longitude": -71.351946,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Merrimack Animal Hospital, 151 Stedman St Lowell MA US",
+    "ovtr:similarity": 2.5365920066833496,
+    "sg:address": "151 Stedman St",
+    "sg:city": "Lowell",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 453 3277",
-    "sg:postcode":"01851",
-    "sg:province":"MA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 453 3277",
+    "sg:postcode": "01851",
+    "sg:province": "MA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85825227,
-        102191575,
-        404476397,
-        85633793,
-        85950327,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85825227,
+      102191575,
+      404476397,
+      85633793,
+      85950327,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3vrD4xm2rrnCIYxxsQxBSA_42.623199_-71.351946@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a307b168b90c039a58dcca54a944",
+      "sg:id": "SG_3vrD4xm2rrnCIYxxsQxBSA_42.623199_-71.351946@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461728035,
-    "wof:geomhash":"6f963c018a1e1e3f276ff05840520741",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476397,
-            "locality_id":85950327,
-            "neighbourhood_id":85825227,
-            "region_id":85688645,
-            "venue_id":672852025
-        }
+    "wof:country": "US",
+    "wof:created": 1461728035,
+    "wof:geomhash": "d63acb2a22be03d646dc613dadc86157",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476397,
+        "locality_id": 85950327,
+        "neighbourhood_id": 85825227,
+        "region_id": 85688645,
+        "venue_id": 672852025
+      }
     ],
-    "wof:id":672852025,
-    "wof:lastmodified":1472626069,
-    "wof:name":"Merrimack Animal Hospital",
-    "wof:parent_id":85825227,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 672852025,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Merrimack Animal Hospital",
+    "wof:parent_id": 85825227,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -71.351946,
     42.623199,
     -71.351946,
     42.623199
-],
+  ],
   "geometry": {"coordinates":[-71.351946,42.623199],"type":"Point"}
 }

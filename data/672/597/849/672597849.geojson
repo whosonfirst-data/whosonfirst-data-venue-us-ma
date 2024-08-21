@@ -2,69 +2,72 @@
   "id": 672597849,
   "type": "Feature",
   "properties": {
-    "addr:full":"13 Main St Hopkinton MA 01748",
-    "addr:housenumber":"13",
-    "addr:postcode":"01748",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.519956,42.228902,-71.519956,42.228902",
-    "geom:latitude":42.228902,
-    "geom:longitude":-71.519956,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"13 Main St",
-    "sg:city":"Hopkinton",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "13 Main St Hopkinton MA 01748",
+    "addr:housenumber": "13",
+    "addr:postcode": "01748",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.519956,42.228902,-71.519956,42.228902",
+    "geom:latitude": 42.228902,
+    "geom:longitude": -71.519956,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Hopkinton Public Library, 13 Main St Hopkinton MA US",
+    "ovtr:similarity": 3.7944130897521973,
+    "sg:address": "13 Main St",
+    "sg:city": "Hopkinton",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 497 9777",
-    "sg:postcode":"01748",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85824331,
-        102084643
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 497 9777",
+    "sg:postcode": "01748",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85824331,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2AZ4uKcexoJ0hWclfK0BKq_42.228902_-71.519956@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33d546656a4036bc6692350dc92",
+      "sg:id": "SG_2AZ4uKcexoJ0hWclfK0BKq_42.228902_-71.519956@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461722543,
-    "wof:geomhash":"5bc34970247ec21830e0abe18cc371d0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85824331,
-            "region_id":85688645,
-            "venue_id":672597849
-        }
+    "wof:country": "US",
+    "wof:created": 1461722543,
+    "wof:geomhash": "0b7febf882ad0868bb1e13e90a3e117c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85824331,
+        "region_id": 85688645,
+        "venue_id": 672597849
+      }
     ],
-    "wof:id":672597849,
-    "wof:lastmodified":1472625855,
-    "wof:name":"Hopkinton Public Library",
-    "wof:parent_id":85824331,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672597849,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Hopkinton Public Library",
+    "wof:parent_id": 85824331,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.519956,
     42.228902,
     -71.519956,
     42.228902
-],
-  "geometry": {"coordinates":[-71.51995599999999,42.228902],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.519956,42.228902],"type":"Point"}
 }

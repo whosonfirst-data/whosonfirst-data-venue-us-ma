@@ -2,69 +2,72 @@
   "id": 672194505,
   "type": "Feature",
   "properties": {
-    "addr:full":"757 Brock Ave New Bedford MA 02744",
-    "addr:housenumber":"757",
-    "addr:postcode":"02744",
-    "addr:street":"Brock Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.914358,41.611567,-70.914358,41.611567",
-    "geom:latitude":41.611567,
-    "geom:longitude":-70.914358,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"757 Brock Ave",
-    "sg:city":"New Bedford",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "757 Brock Ave New Bedford MA 02744",
+    "addr:housenumber": "757",
+    "addr:postcode": "02744",
+    "addr:street": "Brock Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.914358,41.611567,-70.914358,41.611567",
+    "geom:latitude": 41.611567,
+    "geom:longitude": -70.914358,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Jimmy's Pizza, 757 Brock Ave New Bedford MA US",
+    "ovtr:similarity": 2.4398701190948486,
+    "sg:address": "757 Brock Ave",
+    "sg:city": "New Bedford",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 996 3939",
-    "sg:postcode":"02744",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85823881,
-        102084407
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 996 3939",
+    "sg:postcode": "02744",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85823881,
+      102084407
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_24KxfkAWq7gJTMmKESZOCV_41.611567_-70.914358@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33a75d018950379ab830e4ad916",
+      "sg:id": "SG_24KxfkAWq7gJTMmKESZOCV_41.611567_-70.914358@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461713433,
-    "wof:geomhash":"893213a1d2337c0034ce62e0db8fbfb3",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084407,
-            "neighbourhood_id":85823881,
-            "region_id":85688645,
-            "venue_id":672194505
-        }
+    "wof:country": "US",
+    "wof:created": 1461713433,
+    "wof:geomhash": "db32f35d10249479acd74d22040917f6",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "neighbourhood_id": 85823881,
+        "region_id": 85688645,
+        "venue_id": 672194505
+      }
     ],
-    "wof:id":672194505,
-    "wof:lastmodified":1472625148,
-    "wof:name":"Jimmy's Pizza",
-    "wof:parent_id":85823881,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672194505,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Jimmy's Pizza",
+    "wof:parent_id": 85823881,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.914358,
     41.611567,
     -70.914358,
     41.611567
-],
-  "geometry": {"coordinates":[-70.91435799999999,41.611567],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.914358,41.611567],"type":"Point"}
 }

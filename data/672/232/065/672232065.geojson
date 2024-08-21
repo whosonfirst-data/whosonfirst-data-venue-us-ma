@@ -2,69 +2,76 @@
   "id": 672232065,
   "type": "Feature",
   "properties": {
-    "addr:full":"488 South Ave Whitman MA 02382",
-    "addr:housenumber":"488",
-    "addr:postcode":"02382",
-    "addr:street":"South Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.920116,42.0842,-70.920116,42.0842",
-    "geom:latitude":42.0842,
-    "geom:longitude":-70.920116,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"488 South Ave",
-    "sg:city":"Whitman",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Automobile Sales",
-            "type":"Retail Goods"
-        }
+    "addr:full": "488 South Ave Whitman MA 02382",
+    "addr:housenumber": "488",
+    "addr:postcode": "02382",
+    "addr:street": "South Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.920116,42.084200,-70.920116,42.084200",
+    "geom:latitude": 42.0842,
+    "geom:longitude": -70.920116,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Tony's Auto Works, 488 South Ave Whitman MA US",
+    "ovtr:similarity": 2.478260040283203,
+    "sg:address": "488 South Ave",
+    "sg:city": "Whitman",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Automobile Sales",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 447 8669",
-    "sg:postcode":"02382",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repair",
-        "used",
-        "dealer",
-        "car"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 447 8669",
+    "sg:postcode": "02382",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repair",
+      "used",
+      "dealer",
+      "car"
     ],
-    "sg:website":"www.tonysautoworks.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2c3fnTF6o349HXD7uabQTF_42.084200_-70.920116@1294127905"
+    "sg:website": "www.tonysautoworks.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33946a2a92b0336401c632f7c8b",
+      "sg:id": "SG_2c3fnTF6o349HXD7uabQTF_42.084200_-70.920116@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461714224,
-    "wof:geomhash":"988a1ce2a827bdfa519c76a65f9c3ebd",
-    "wof:hierarchy":[],
-    "wof:id":672232065,
-    "wof:lastmodified":1492105657,
-    "wof:name":"Tony's Auto Works",
-    "wof:parent_id":85846519,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repair",
-        "used",
-        "dealer",
-        "car"
+    "wof:country": "US",
+    "wof:created": 1461714224,
+    "wof:geomhash": "988a1ce2a827bdfa519c76a65f9c3ebd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672232065
+      }
+    ],
+    "wof:id": 672232065,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Tony's Auto Works",
+    "wof:parent_id": 85846519,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repair",
+      "used",
+      "dealer",
+      "car"
     ]
-},
+  },
   "bbox": [
     -70.920116,
     42.0842,
     -70.920116,
     42.0842
-],
-  "geometry": {"coordinates":[-70.92011599999999,42.0842],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.920116,42.0842],"type":"Point"}
 }

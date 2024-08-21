@@ -2,80 +2,83 @@
   "id": 672972305,
   "type": "Feature",
   "properties": {
-    "addr:full":"155 Winthrop St Taunton MA 02780",
-    "addr:housenumber":"155",
-    "addr:postcode":"02780",
-    "addr:street":"Winthrop St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.105858,41.89381,-71.105858,41.89381",
-    "geom:latitude":41.89381,
-    "geom:longitude":-71.105858,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"155 Winthrop St",
-    "sg:city":"Taunton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "155 Winthrop St Taunton MA 02780",
+    "addr:housenumber": "155",
+    "addr:postcode": "02780",
+    "addr:street": "Winthrop St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.105858,41.893810,-71.105858,41.893810",
+    "geom:latitude": 41.89381,
+    "geom:longitude": -71.105858,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Taunton Small Animal Clinic, 155 Winthrop St Taunton MA US",
+    "ovtr:similarity": 2.6451640129089355,
+    "sg:address": "155 Winthrop St",
+    "sg:city": "Taunton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 823 0796",
-    "sg:postcode":"02780",
-    "sg:province":"MA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 823 0796",
+    "sg:postcode": "02780",
+    "sg:province": "MA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85857627,
-        102191575,
-        404476147,
-        85633793,
-        85950365,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85857627,
+      102191575,
+      404476147,
+      85633793,
+      85950365,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5v7Lmp4CtwHUjjLnMhDT2z_41.893810_-71.105858@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3385869e426031a13ac446b44ed",
+      "sg:id": "SG_5v7Lmp4CtwHUjjLnMhDT2z_41.893810_-71.105858@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461730829,
-    "wof:geomhash":"13b8862cd5251861b39c7b0cbced50e0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476147,
-            "locality_id":85950365,
-            "neighbourhood_id":85857627,
-            "region_id":85688645,
-            "venue_id":672972305
-        }
+    "wof:country": "US",
+    "wof:created": 1461730829,
+    "wof:geomhash": "daa50e669d0a56da52d4d5a4110cd3dc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476147,
+        "locality_id": 85950365,
+        "neighbourhood_id": 85857627,
+        "region_id": 85688645,
+        "venue_id": 672972305
+      }
     ],
-    "wof:id":672972305,
-    "wof:lastmodified":1472626181,
-    "wof:name":"Taunton Small Animal Clinic",
-    "wof:parent_id":85857627,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 672972305,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Taunton Small Animal Clinic",
+    "wof:parent_id": 85857627,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -71.105858,
     41.89381,
     -71.105858,
     41.89381
-],
+  ],
   "geometry": {"coordinates":[-71.105858,41.89381],"type":"Point"}
 }

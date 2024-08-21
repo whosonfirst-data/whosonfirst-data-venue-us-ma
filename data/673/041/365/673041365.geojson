@@ -2,82 +2,85 @@
   "id": 673041365,
   "type": "Feature",
   "properties": {
-    "addr:full":"1724 Massachusetts Ave Cambridge MA 02138",
-    "addr:housenumber":"1724",
-    "addr:postcode":"02138",
-    "addr:street":"Massachusetts Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.119537,42.384099,-71.119537,42.384099",
-    "geom:latitude":42.384099,
-    "geom:longitude":-71.119537,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1724 Massachusetts Ave",
-    "sg:city":"Cambridge",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "1724 Massachusetts Ave Cambridge MA 02138",
+    "addr:housenumber": "1724",
+    "addr:postcode": "02138",
+    "addr:street": "Massachusetts Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.119537,42.384099,-71.119537,42.384099",
+    "geom:latitude": 42.384099,
+    "geom:longitude": -71.119537,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Cambridge Veterinary Care, 1724 Massachusetts Ave Cambridge MA US",
+    "ovtr:similarity": 3.1800639629364014,
+    "sg:address": "1724 Massachusetts Ave",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 661 6255",
-    "sg:postcode":"02138",
-    "sg:province":"MA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 661 6255",
+    "sg:postcode": "02138",
+    "sg:province": "MA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "sg:website":"www.cambridgevet.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108712243,
-        102191575,
-        404476475,
-        85633793,
-        85950329,
-        102084643,
-        85688645
+    "sg:website": "www.cambridgevet.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108712243,
+      102191575,
+      404476475,
+      85633793,
+      85950329,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1h1ARelHmCZfGYHshyNtWa_42.384460_-71.119501@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3067563618903eb052ae1880bf0",
+      "sg:id": "SG_1h1ARelHmCZfGYHshyNtWa_42.384460_-71.119501@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732573,
-    "wof:geomhash":"b0c708e7263e67124a76c7051e29a716",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476475,
-            "locality_id":85950329,
-            "neighbourhood_id":1108712243,
-            "region_id":85688645,
-            "venue_id":673041365
-        }
+    "wof:country": "US",
+    "wof:created": 1461732573,
+    "wof:geomhash": "97724e5b08b48dde00cc565e34f7608e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476475,
+        "locality_id": 85950329,
+        "neighbourhood_id": 1108712243,
+        "region_id": 85688645,
+        "venue_id": 673041365
+      }
     ],
-    "wof:id":673041365,
-    "wof:lastmodified":1489020213,
-    "wof:name":"Cambridge Veterinary Care",
-    "wof:parent_id":1108712243,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 673041365,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Cambridge Veterinary Care",
+    "wof:parent_id": 1108712243,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -71.119537,
     42.384099,
     -71.119537,
     42.384099
-],
-  "geometry": {"coordinates":[-71.11953699999999,42.384099],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.119537,42.384099],"type":"Point"}
 }

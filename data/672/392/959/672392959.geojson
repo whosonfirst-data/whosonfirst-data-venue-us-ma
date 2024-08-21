@@ -2,62 +2,69 @@
   "id": 672392959,
   "type": "Feature",
   "properties": {
-    "addr:full":"224 Mill Valley Rd Belchertown MA 01007",
-    "addr:housenumber":"224",
-    "addr:postcode":"01007",
-    "addr:street":"Mill Valley Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.382942,42.267396,-72.382942,42.267396",
-    "geom:latitude":42.267396,
-    "geom:longitude":-72.382942,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"224 Mill Valley Rd",
-    "sg:city":"Belchertown",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "224 Mill Valley Rd Belchertown MA 01007",
+    "addr:housenumber": "224",
+    "addr:postcode": "01007",
+    "addr:street": "Mill Valley Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.382942,42.267396,-72.382942,42.267396",
+    "geom:latitude": 42.267396,
+    "geom:longitude": -72.382942,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Mill Valley Veterinary Clinic, 224 Mill Valley Rd Belchertown MA US",
+    "ovtr:similarity": 2.3795580863952637,
+    "sg:address": "224 Mill Valley Rd",
+    "sg:city": "Belchertown",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 323 9201",
-    "sg:postcode":"01007",
-    "sg:province":"MA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 323 9201",
+    "sg:postcode": "01007",
+    "sg:province": "MA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4dif7xgEtcWXUhnyPEn6AD_42.267396_-72.382942@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3228d0850b3034bf75f273f109f",
+      "sg:id": "SG_4dif7xgEtcWXUhnyPEn6AD_42.267396_-72.382942@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461717719,
-    "wof:geomhash":"e92353ea48c36119778161454067142f",
-    "wof:hierarchy":[],
-    "wof:id":672392959,
-    "wof:lastmodified":1492108073,
-    "wof:name":"Mill Valley Veterinary Clinic",
-    "wof:parent_id":85811671,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461717719,
+    "wof:geomhash": "e92353ea48c36119778161454067142f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672392959
+      }
+    ],
+    "wof:id": 672392959,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Mill Valley Veterinary Clinic",
+    "wof:parent_id": 85811671,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -72.382942,
     42.267396,
     -72.382942,
     42.267396
-],
+  ],
   "geometry": {"coordinates":[-72.382942,42.267396],"type":"Point"}
 }

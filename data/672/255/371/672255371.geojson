@@ -2,82 +2,85 @@
   "id": 672255371,
   "type": "Feature",
   "properties": {
-    "addr:full":"926 Church St New Bedford MA 02745",
-    "addr:housenumber":"926",
-    "addr:postcode":"02745",
-    "addr:street":"Church St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.940918,41.690854,-70.940918,41.690854",
-    "geom:latitude":41.690854,
-    "geom:longitude":-70.940918,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"926 Church St",
-    "sg:city":"New Bedford",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "926 Church St New Bedford MA 02745",
+    "addr:housenumber": "926",
+    "addr:postcode": "02745",
+    "addr:street": "Church St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.940918,41.690854,-70.940918,41.690854",
+    "geom:latitude": 41.690854,
+    "geom:longitude": -70.940918,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Glassman Automotive, 947 Church St New Bedford MA US",
+    "ovtr:similarity": 3.075834035873413,
+    "sg:address": "926 Church St",
+    "sg:city": "New Bedford",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 995 2624",
-    "sg:postcode":"02745",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 995 2624",
+    "sg:postcode": "02745",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85812593,
-        102191575,
-        404476163,
-        85633793,
-        85950667,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85812593,
+      102191575,
+      404476163,
+      85633793,
+      85950667,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ZpHoAcn776NyDWuxa4FXi_41.690854_-70.940918@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33b527924a103eb5c5d7eb230ee",
+      "sg:id": "SG_4ZpHoAcn776NyDWuxa4FXi_41.690854_-70.940918@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461714713,
-    "wof:geomhash":"233dc7ece74132857c728aee7b157296",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476163,
-            "locality_id":85950667,
-            "neighbourhood_id":85812593,
-            "region_id":85688645,
-            "venue_id":672255371
-        }
+    "wof:country": "US",
+    "wof:created": 1461714713,
+    "wof:geomhash": "2394a66e38684406b23b582f6ee6ce99",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476163,
+        "locality_id": 85950667,
+        "neighbourhood_id": 85812593,
+        "region_id": 85688645,
+        "venue_id": 672255371
+      }
     ],
-    "wof:id":672255371,
-    "wof:lastmodified":1472625356,
-    "wof:name":"Glassman Automotives",
-    "wof:parent_id":85812593,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 672255371,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Glassman Automotives",
+    "wof:parent_id": 85812593,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -70.940918,
     41.690854,
     -70.940918,
     41.690854
-],
+  ],
   "geometry": {"coordinates":[-70.940918,41.690854],"type":"Point"}
 }

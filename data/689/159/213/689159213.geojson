@@ -2,80 +2,83 @@
   "id": 689159213,
   "type": "Feature",
   "properties": {
-    "addr:full":"72 Samoset St Plymouth MA 02360",
-    "addr:housenumber":"72",
-    "addr:postcode":"02360",
-    "addr:street":"Samoset St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.677902,41.956501,-70.677902,41.956501",
-    "geom:latitude":41.956501,
-    "geom:longitude":-70.677902,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"72 Samoset St",
-    "sg:city":"Plymouth",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "72 Samoset St Plymouth MA 02360",
+    "addr:housenumber": "72",
+    "addr:postcode": "02360",
+    "addr:street": "Samoset St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.677902,41.956501,-70.677902,41.956501",
+    "geom:latitude": 41.956501,
+    "geom:longitude": -70.677902,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Pilgrim Animal Hospital, 72 Samoset St Plymouth MA US",
+    "ovtr:similarity": 2.4161460399627686,
+    "sg:address": "72 Samoset St",
+    "sg:city": "Plymouth",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 746 5003",
-    "sg:postcode":"02360",
-    "sg:province":"MA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 746 5003",
+    "sg:postcode": "02360",
+    "sg:province": "MA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85837907,
-        102191575,
-        404476561,
-        85633793,
-        85950483,
-        102084367,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85837907,
+      102191575,
+      404476561,
+      85633793,
+      85950483,
+      102084367,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Z01d8xhq5vsT3nPIfNcvW_41.956501_-70.677902@1303262226"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3141003008303132c4b6d950f4d",
+      "sg:id": "SG_7Z01d8xhq5vsT3nPIfNcvW_41.956501_-70.677902@1303262226"
     },
-    "wof:country":"US",
-    "wof:created":1461741154,
-    "wof:geomhash":"fae7b27ae1578b911618a41cedc509e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476561,
-            "locality_id":85950483,
-            "neighbourhood_id":85837907,
-            "region_id":85688645,
-            "venue_id":689159213
-        }
+    "wof:country": "US",
+    "wof:created": 1461741154,
+    "wof:geomhash": "41bd0791be73b7213809e17553d4e4f9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476561,
+        "locality_id": 85950483,
+        "neighbourhood_id": 85837907,
+        "region_id": 85688645,
+        "venue_id": 689159213
+      }
     ],
-    "wof:id":689159213,
-    "wof:lastmodified":1472625501,
-    "wof:name":"Pilgrim Animal Hospital",
-    "wof:parent_id":85837907,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 689159213,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Pilgrim Animal Hospital",
+    "wof:parent_id": 85837907,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -70.677902,
     41.956501,
     -70.677902,
     41.956501
-],
+  ],
   "geometry": {"coordinates":[-70.677902,41.956501],"type":"Point"}
 }

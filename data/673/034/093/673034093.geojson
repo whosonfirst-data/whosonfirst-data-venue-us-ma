@@ -2,61 +2,68 @@
   "id": 673034093,
   "type": "Feature",
   "properties": {
-    "addr:full":"342 Main St Fairhaven MA 02719",
-    "addr:housenumber":"342",
-    "addr:postcode":"02719",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.908562,41.656818,-70.908562,41.656818",
-    "geom:latitude":41.656818,
-    "geom:longitude":-70.908562,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"342 Main St",
-    "sg:city":"Fairhaven",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "342 Main St Fairhaven MA 02719",
+    "addr:housenumber": "342",
+    "addr:postcode": "02719",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.908562,41.656818,-70.908562,41.656818",
+    "geom:latitude": 41.656818,
+    "geom:longitude": -70.908562,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Galaxy Pizza House, 342 Main St Fairhaven MA US",
+    "ovtr:similarity": 2.3922228813171387,
+    "sg:address": "342 Main St",
+    "sg:city": "Fairhaven",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 997 7587",
-    "sg:postcode":"02719",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 997 7587",
+    "sg:postcode": "02719",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0AXNEYB1rASVtpAI7OJ9Qm_41.656617_-70.908630@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33b5e45e4b503fd0760cc098ffa",
+      "sg:id": "SG_0AXNEYB1rASVtpAI7OJ9Qm_41.656617_-70.908630@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732409,
-    "wof:geomhash":"96f48cee4c0719da0027e94654837107",
-    "wof:hierarchy":[],
-    "wof:id":673034093,
-    "wof:lastmodified":1472625047,
-    "wof:name":"Galaxy Pizza House",
-    "wof:parent_id":420558431,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1461732409,
+    "wof:geomhash": "a39966d1ca6afdd08c4cc4855db1ac9f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673034093
+      }
+    ],
+    "wof:id": 673034093,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Galaxy Pizza House",
+    "wof:parent_id": 420558431,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -70.908562,
     41.656818,
     -70.908562,
     41.656818
-],
+  ],
   "geometry": {"coordinates":[-70.908562,41.656818],"type":"Point"}
 }

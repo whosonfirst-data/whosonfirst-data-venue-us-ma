@@ -2,78 +2,81 @@
   "id": 673064381,
   "type": "Feature",
   "properties": {
-    "addr:full":"256 Federal St Greenfield MA 01301",
-    "addr:housenumber":"256",
-    "addr:postcode":"01301",
-    "addr:street":"Federal St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.596123,42.598438,-72.596123,42.598438",
-    "geom:latitude":42.598438,
-    "geom:longitude":-72.596123,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"256 Federal St",
-    "sg:city":"Greenfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "256 Federal St Greenfield MA 01301",
+    "addr:housenumber": "256",
+    "addr:postcode": "01301",
+    "addr:street": "Federal St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.596123,42.598438,-72.596123,42.598438",
+    "geom:latitude": 42.598438,
+    "geom:longitude": -72.596123,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Goodies Restaurant, 256 Federal St Greenfield MA US",
+    "ovtr:similarity": 2.0769450664520264,
+    "sg:address": "256 Federal St",
+    "sg:city": "Greenfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 772 2586",
-    "sg:postcode":"01301",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85816365,
-        102191575,
-        404476235,
-        85633793,
-        85950383,
-        102084457,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 772 2586",
+    "sg:postcode": "01301",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85816365,
+      102191575,
+      404476235,
+      85633793,
+      85950383,
+      102084457,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2320253805,
-        "sg:id":"SG_5CnA2RYUiiUYzV0FqAfgCM_42.598448_-72.596126@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2320253805,
+      "ovtr:id": "08f2a327233a5c650335a504d4665c9c",
+      "sg:id": "SG_5CnA2RYUiiUYzV0FqAfgCM_42.598448_-72.596126@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733033,
-    "wof:geomhash":"354dbf3053bded62851e9ee51e51a0e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084457,
-            "localadmin_id":404476235,
-            "locality_id":85950383,
-            "neighbourhood_id":85816365,
-            "region_id":85688645,
-            "venue_id":673064381
-        }
+    "wof:country": "US",
+    "wof:created": 1461733033,
+    "wof:geomhash": "354dbf3053bded62851e9ee51e51a0e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084457,
+        "localadmin_id": 404476235,
+        "locality_id": 85950383,
+        "neighbourhood_id": 85816365,
+        "region_id": 85688645,
+        "venue_id": 673064381
+      }
     ],
-    "wof:id":673064381,
-    "wof:lastmodified":1510943820,
-    "wof:name":"Goodies Restaurant",
-    "wof:parent_id":85816365,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673064381,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Goodies Restaurant",
+    "wof:parent_id": 85816365,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -72.596123,
     42.598438,
     -72.596123,
     42.598438
-],
-  "geometry": {"coordinates":[-72.59612300000001,42.598438],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-72.596123,42.598438],"type":"Point"}
 }

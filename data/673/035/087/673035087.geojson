@@ -2,58 +2,65 @@
   "id": 673035087,
   "type": "Feature",
   "properties": {
-    "addr:full":"47 South Ave Whitman MA 02382",
-    "addr:housenumber":"47",
-    "addr:postcode":"02382",
-    "addr:street":"South Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.935478,42.08078,-70.935478,42.08078",
-    "geom:latitude":42.08078,
-    "geom:longitude":-70.935478,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"47 South Ave",
-    "sg:city":"Whitman",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "47 South Ave Whitman MA 02382",
+    "addr:housenumber": "47",
+    "addr:postcode": "02382",
+    "addr:street": "South Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.935478,42.080780,-70.935478,42.080780",
+    "geom:latitude": 42.08078,
+    "geom:longitude": -70.935478,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Venus Cafe, 47 South Ave Whitman MA US",
+    "ovtr:similarity": 2.377639055252075,
+    "sg:address": "47 South Ave",
+    "sg:city": "Whitman",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 447 0494",
-    "sg:postcode":"02382",
-    "sg:province":"MA",
-    "sg:website":"http://www.venuscafe.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0fVkGtzuUHJfnfwGqWr04A_42.080769_-70.935246@1293134755"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 447 0494",
+    "sg:postcode": "02382",
+    "sg:province": "MA",
+    "sg:website": "http://www.venuscafe.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a339462b68e903ef6bc1598ee001",
+      "sg:id": "SG_0fVkGtzuUHJfnfwGqWr04A_42.080769_-70.935246@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732426,
-    "wof:geomhash":"655035d79fd81b26de4ed672e31d902f",
-    "wof:hierarchy":[],
-    "wof:id":673035087,
-    "wof:lastmodified":1492103826,
-    "wof:name":"Venus Cafe",
-    "wof:parent_id":85803927,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461732426,
+    "wof:geomhash": "655035d79fd81b26de4ed672e31d902f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673035087
+      }
+    ],
+    "wof:id": 673035087,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Venus Cafe",
+    "wof:parent_id": 85803927,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.935478,
     42.08078,
     -70.935478,
     42.08078
-],
+  ],
   "geometry": {"coordinates":[-70.935478,42.08078],"type":"Point"}
 }

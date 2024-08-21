@@ -2,82 +2,85 @@
   "id": 672137771,
   "type": "Feature",
   "properties": {
-    "addr:full":"1415 Edgell Rd Framingham MA 01701",
-    "addr:housenumber":"1415",
-    "addr:postcode":"01701",
-    "addr:street":"Edgell Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.438409,42.340657,-71.438409,42.340657",
-    "geom:latitude":42.340657,
-    "geom:longitude":-71.438409,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1415 Edgell Rd",
-    "sg:city":"Framingham",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "1415 Edgell Rd Framingham MA 01701",
+    "addr:housenumber": "1415",
+    "addr:postcode": "01701",
+    "addr:street": "Edgell Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.438409,42.340657,-71.438409,42.340657",
+    "geom:latitude": 42.340657,
+    "geom:longitude": -71.438409,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Framingham Animal Hospital, 1415 Edgell Rd Framingham MA US",
+    "ovtr:similarity": 3.2421629428863525,
+    "sg:address": "1415 Edgell Rd",
+    "sg:city": "Framingham",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 877 0900",
-    "sg:postcode":"01701",
-    "sg:province":"MA",
-    "sg:tags":[
-        "hospital",
-        "animal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 877 0900",
+    "sg:postcode": "01701",
+    "sg:province": "MA",
+    "sg:tags": [
+      "hospital",
+      "animal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85837033,
-        102191575,
-        404476489,
-        85633793,
-        85950629,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85837033,
+      102191575,
+      404476489,
+      85633793,
+      85950629,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4CBUqfCYXYpWgAKnurOr8p_42.340657_-71.438409@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306d2b5e2c203331fd444867365",
+      "sg:id": "SG_4CBUqfCYXYpWgAKnurOr8p_42.340657_-71.438409@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461712196,
-    "wof:geomhash":"88cf8dc8dc03017dd163372d910bc075",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476489,
-            "locality_id":85950629,
-            "neighbourhood_id":85837033,
-            "region_id":85688645,
-            "venue_id":672137771
-        }
+    "wof:country": "US",
+    "wof:created": 1461712196,
+    "wof:geomhash": "127bae2943290f94bbef70e621f69128",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476489,
+        "locality_id": 85950629,
+        "neighbourhood_id": 85837033,
+        "region_id": 85688645,
+        "venue_id": 672137771
+      }
     ],
-    "wof:id":672137771,
-    "wof:lastmodified":1472624913,
-    "wof:name":"Framingham Animal Hospital Inc",
-    "wof:parent_id":85837033,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospital",
-        "animal"
+    "wof:id": 672137771,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Framingham Animal Hospital Inc",
+    "wof:parent_id": 85837033,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospital",
+      "animal"
     ]
-},
+  },
   "bbox": [
     -71.438409,
     42.340657,
     -71.438409,
     42.340657
-],
-  "geometry": {"coordinates":[-71.43840899999999,42.340657],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.438409,42.340657],"type":"Point"}
 }

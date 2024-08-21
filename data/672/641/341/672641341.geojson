@@ -2,82 +2,85 @@
   "id": 672641341,
   "type": "Feature",
   "properties": {
-    "addr:full":"4 Whiting Rd Dover MA 02030",
-    "addr:housenumber":"4",
-    "addr:postcode":"02030",
-    "addr:street":"Whiting Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.281894,42.244298,-71.281894,42.244298",
-    "geom:latitude":42.244298,
-    "geom:longitude":-71.281894,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4 Whiting Rd",
-    "sg:city":"Dover",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "4 Whiting Rd Dover MA 02030",
+    "addr:housenumber": "4",
+    "addr:postcode": "02030",
+    "addr:street": "Whiting Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.281894,42.244298,-71.281894,42.244298",
+    "geom:latitude": 42.244298,
+    "geom:longitude": -71.281894,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Dover Automotive, 4 Whiting Rd Dover MA US",
+    "ovtr:similarity": 2.8989601135253906,
+    "sg:address": "4 Whiting Rd",
+    "sg:city": "Dover",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 785 0242",
-    "sg:postcode":"02030",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 785 0242",
+    "sg:postcode": "02030",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85836459,
-        102191575,
-        404476585,
-        85633793,
-        85950835,
-        102084403,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85836459,
+      102191575,
+      404476585,
+      85633793,
+      85950835,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_49Ib7VuOcff5CLbJL5sqXL_42.244298_-71.281894@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a339b22cd943030c98cc38c8224b",
+      "sg:id": "SG_49Ib7VuOcff5CLbJL5sqXL_42.244298_-71.281894@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461723527,
-    "wof:geomhash":"8033b868ccebc5968f123ed6e85b3355",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476585,
-            "locality_id":85950835,
-            "neighbourhood_id":85836459,
-            "region_id":85688645,
-            "venue_id":672641341
-        }
+    "wof:country": "US",
+    "wof:created": 1461723527,
+    "wof:geomhash": "61005ff3d5368c2be858b3d074f648fe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476585,
+        "locality_id": 85950835,
+        "neighbourhood_id": 85836459,
+        "region_id": 85688645,
+        "venue_id": 672641341
+      }
     ],
-    "wof:id":672641341,
-    "wof:lastmodified":1472625883,
-    "wof:name":"Dover Automotive",
-    "wof:parent_id":85836459,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 672641341,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Dover Automotive",
+    "wof:parent_id": 85836459,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -71.281894,
     42.244298,
     -71.281894,
     42.244298
-],
-  "geometry": {"coordinates":[-71.28189399999999,42.244298],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.281894,42.244298],"type":"Point"}
 }

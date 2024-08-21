@@ -2,70 +2,73 @@
   "id": 673041707,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 W Grove St Middleboro MA 02346",
-    "addr:housenumber":"500",
-    "addr:postcode":"02346",
-    "addr:street":"W Grove St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.953062,41.899411,-70.953062,41.899411",
-    "geom:latitude":41.899411,
-    "geom:longitude":-70.953062,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"500 W Grove St",
-    "sg:city":"Middleboro",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "500 W Grove St Middleboro MA 02346",
+    "addr:housenumber": "500",
+    "addr:postcode": "02346",
+    "addr:street": "W Grove St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.953062,41.899411,-70.953062,41.899411",
+    "geom:latitude": 41.899411,
+    "geom:longitude": -70.953062,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Lorenzo's Italian Restaurant, 500 W Grove St Middleboro MA US",
+    "ovtr:similarity": 2.203993082046509,
+    "sg:address": "500 W Grove St",
+    "sg:city": "Middleboro",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 947 3000",
-    "sg:postcode":"02346",
-    "sg:province":"MA",
-    "sg:website":"www.lorenzos.net",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85854565,
-        102084367
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 947 3000",
+    "sg:postcode": "02346",
+    "sg:province": "MA",
+    "sg:website": "www.lorenzos.net",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85854565,
+      102084367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1j0klp4HCZEkXGr5hP5Itz_41.899462_-70.953052@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3386bb296ed035ab145e07dbb8f",
+      "sg:id": "SG_1j0klp4HCZEkXGr5hP5Itz_41.899462_-70.953052@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732581,
-    "wof:geomhash":"7e0a2aaaddcdde7dc17b6c5ffb76ab57",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "neighbourhood_id":85854565,
-            "region_id":85688645,
-            "venue_id":673041707
-        }
+    "wof:country": "US",
+    "wof:created": 1461732581,
+    "wof:geomhash": "83757219f4e01f028211172942b527e3",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "neighbourhood_id": 85854565,
+        "region_id": 85688645,
+        "venue_id": 673041707
+      }
     ],
-    "wof:id":673041707,
-    "wof:lastmodified":1472625112,
-    "wof:name":"Lorenzo's Italian Restaurant",
-    "wof:parent_id":85854565,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673041707,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Lorenzo's Italian Restaurant",
+    "wof:parent_id": 85854565,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.953062,
     41.899411,
     -70.953062,
     41.899411
-],
+  ],
   "geometry": {"coordinates":[-70.953062,41.899411],"type":"Point"}
 }

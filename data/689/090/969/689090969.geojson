@@ -2,80 +2,83 @@
   "id": 689090969,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 Spring Street Cambridge MA 02141",
-    "addr:housenumber":"105",
-    "addr:postcode":"02141",
-    "addr:street":"Spring Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.083235,42.369219,-71.083235,42.369219",
-    "geom:latitude":42.369219,
-    "geom:longitude":-71.083235,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"105 Spring Street",
-    "sg:city":"Cambridge",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"Child Care",
-            "type":"Services"
-        }
+    "addr:full": "105 Spring Street Cambridge MA 02141",
+    "addr:housenumber": "105",
+    "addr:postcode": "02141",
+    "addr:street": "Spring Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.083235,42.369219,-71.083235,42.369219",
+    "geom:latitude": 42.369219,
+    "geom:longitude": -71.083235,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "East End House, 105 Spring St Cambridge MA US",
+    "ovtr:similarity": 3.2377870082855225,
+    "sg:address": "105 Spring Street",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Child Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 876 4444",
-    "sg:postcode":"02141",
-    "sg:province":"MA",
-    "sg:tags":[
-        "day"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 876 4444",
+    "sg:postcode": "02141",
+    "sg:province": "MA",
+    "sg:tags": [
+      "day"
     ],
-    "sg:website":"www.eastendhouse.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        102191575,
-        404476475,
-        85633793,
-        85950329,
-        102084643
+    "sg:website": "www.eastendhouse.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      102191575,
+      404476475,
+      85633793,
+      85950329,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6ZciWMxhxuYHLoIeMdEfCa_42.369219_-71.083235@1303262217"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30662b1546203536a3964b15bc9",
+      "sg:id": "SG_6ZciWMxhxuYHLoIeMdEfCa_42.369219_-71.083235@1303262217"
     },
-    "wof:country":"US",
-    "wof:created":1461739197,
-    "wof:geomhash":"d031cc11de163315bab50eee33064255",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476475,
-            "locality_id":85950329,
-            "region_id":85688645,
-            "venue_id":689090969
-        }
+    "wof:country": "US",
+    "wof:created": 1461739197,
+    "wof:geomhash": "edc3e894747a7a86c5fbca082531574f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476475,
+        "locality_id": 85950329,
+        "region_id": 85688645,
+        "venue_id": 689090969
+      }
     ],
-    "wof:id":689090969,
-    "wof:lastmodified":1491273738,
-    "wof:name":"East End House",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "day"
+    "wof:id": 689090969,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "East End House",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "day"
     ]
-},
+  },
   "bbox": [
     -71.083235,
     42.369219,
     -71.083235,
     42.369219
-],
+  ],
   "geometry": {"coordinates":[-71.083235,42.369219],"type":"Point"}
 }

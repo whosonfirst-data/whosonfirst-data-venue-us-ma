@@ -2,64 +2,71 @@
   "id": 673048009,
   "type": "Feature",
   "properties": {
-    "addr:full":"1890 Columbus Ave Roxbury MA 02119",
-    "addr:housenumber":"1890",
-    "addr:postcode":"02119",
-    "addr:street":"Columbus Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.0977,42.3176,-71.0977,42.3176",
-    "geom:latitude":42.3176,
-    "geom:longitude":-71.0977,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1890 Columbus Ave",
-    "sg:city":"Roxbury",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1890 Columbus Ave Roxbury MA 02119",
+    "addr:housenumber": "1890",
+    "addr:postcode": "02119",
+    "addr:street": "Columbus Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.097700,42.317600,-71.097700,42.317600",
+    "geom:latitude": 42.3176,
+    "geom:longitude": -71.0977,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Walgreens, 1890 Columbus Ave Roxbury MA US",
+    "ovtr:similarity": 2.5045390129089355,
+    "sg:address": "1890 Columbus Ave",
+    "sg:city": "Roxbury",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 442 7810",
-    "sg:postcode":"02119",
-    "sg:province":"MA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 442 7810",
+    "sg:postcode": "02119",
+    "sg:province": "MA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573797,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2kx6YxW327SiybvdPwzUEp_42.317338_-71.098219@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573797,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3064196bd1803a77e1ef5fd9677",
+      "sg:id": "SG_2kx6YxW327SiybvdPwzUEp_42.317338_-71.098219@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732719,
-    "wof:geomhash":"5d3b6d68caf8d0642969aeb5541b2d77",
-    "wof:hierarchy":[],
-    "wof:id":673048009,
-    "wof:lastmodified":1511322344,
-    "wof:name":"Walgreens",
-    "wof:parent_id":1108705213,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:country": "US",
+    "wof:created": 1461732719,
+    "wof:geomhash": "5d3b6d68caf8d0642969aeb5541b2d77",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673048009
+      }
+    ],
+    "wof:id": 673048009,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Walgreens",
+    "wof:parent_id": 1108705213,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -71.0977,
     42.3176,
     -71.0977,
     42.3176
-],
+  ],
   "geometry": {"coordinates":[-71.0977,42.3176],"type":"Point"}
 }

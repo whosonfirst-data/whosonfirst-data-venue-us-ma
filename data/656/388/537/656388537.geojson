@@ -2,80 +2,83 @@
   "id": 656388537,
   "type": "Feature",
   "properties": {
-    "addr:full":"638 Rogers St Lowell MA 01852",
-    "addr:housenumber":"638",
-    "addr:postcode":"01852",
-    "addr:street":"Rogers St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.281391,42.63097,-71.281391,42.63097",
-    "geom:latitude":42.63097,
-    "geom:longitude":-71.281391,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"638 Rogers St",
-    "sg:city":"Lowell",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "638 Rogers St Lowell MA 01852",
+    "addr:housenumber": "638",
+    "addr:postcode": "01852",
+    "addr:street": "Rogers St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.281391,42.630970,-71.281391,42.630970",
+    "geom:latitude": 42.63097,
+    "geom:longitude": -71.281391,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Michelle's Cleaners, 638 Rogers St Lowell MA US",
+    "ovtr:similarity": 2.1813690662384033,
+    "sg:address": "638 Rogers St",
+    "sg:city": "Lowell",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 459 0399",
-    "sg:postcode":"01852",
-    "sg:province":"MA",
-    "sg:tags":[
-        "cleaners"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 459 0399",
+    "sg:postcode": "01852",
+    "sg:province": "MA",
+    "sg:tags": [
+      "cleaners"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85805681,
-        102191575,
-        404476397,
-        85633793,
-        85950327,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85805681,
+      102191575,
+      404476397,
+      85633793,
+      85950327,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Uokd9jhE0XFNNqyMgj57A_42.630970_-71.281391@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a307a009b710030d3d7e6000cac1",
+      "sg:id": "SG_6Uokd9jhE0XFNNqyMgj57A_42.630970_-71.281391@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711773,
-    "wof:geomhash":"00eeca040242b78ff0e72df2544adf6d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476397,
-            "locality_id":85950327,
-            "neighbourhood_id":85805681,
-            "region_id":85688645,
-            "venue_id":656388537
-        }
+    "wof:country": "US",
+    "wof:created": 1461711773,
+    "wof:geomhash": "b12a47cb4f422c79bc4b38ccfa843d54",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476397,
+        "locality_id": 85950327,
+        "neighbourhood_id": 85805681,
+        "region_id": 85688645,
+        "venue_id": 656388537
+      }
     ],
-    "wof:id":656388537,
-    "wof:lastmodified":1472625035,
-    "wof:name":"Michelle's Cleaners",
-    "wof:parent_id":85805681,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cleaners"
+    "wof:id": 656388537,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Michelle's Cleaners",
+    "wof:parent_id": 85805681,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cleaners"
     ]
-},
+  },
   "bbox": [
     -71.281391,
     42.63097,
     -71.281391,
     42.63097
-],
+  ],
   "geometry": {"coordinates":[-71.281391,42.63097],"type":"Point"}
 }

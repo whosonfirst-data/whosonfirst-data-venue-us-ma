@@ -2,84 +2,87 @@
   "id": 672454247,
   "type": "Feature",
   "properties": {
-    "addr:full":"1000 Plymouth St Bridgewater MA 02324",
-    "addr:housenumber":"1000",
-    "addr:postcode":"02324",
-    "addr:street":"Plymouth St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.938566,41.99331,-70.938566,41.99331",
-    "geom:latitude":41.99331,
-    "geom:longitude":-70.938566,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1000 Plymouth St",
-    "sg:city":"Bridgewater",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1000 Plymouth St Bridgewater MA 02324",
+    "addr:housenumber": "1000",
+    "addr:postcode": "02324",
+    "addr:street": "Plymouth St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.938566,41.993310,-70.938566,41.993310",
+    "geom:latitude": 41.99331,
+    "geom:longitude": -70.938566,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Bridgewater Farm Supply, 1000 Plymouth St Bridgewater MA US",
+    "ovtr:similarity": 2.9869329929351807,
+    "sg:address": "1000 Plymouth St",
+    "sg:city": "Bridgewater",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 697 0357",
-    "sg:postcode":"02324",
-    "sg:province":"MA",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 697 0357",
+    "sg:postcode": "02324",
+    "sg:province": "MA",
+    "sg:tags": [
+      "trucking"
     ],
-    "sg:website":"www.bridgewaterfarm.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85817953,
-        102084367,
-        85849503
+    "sg:website": "www.bridgewaterfarm.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85817953,
+      102084367,
+      85849503
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7PDyWRpohE5oCqYfUjM61z_41.993310_-70.938566@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33864b13634031435ea2f8627c6",
+      "sg:id": "SG_7PDyWRpohE5oCqYfUjM61z_41.993310_-70.938566@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461719297,
-    "wof:geomhash":"df94f49aaeeb419d80056c6e9fda87eb",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "neighbourhood_id":85817953,
-            "region_id":85688645,
-            "venue_id":672454247
-        },
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "neighbourhood_id":85849503,
-            "region_id":85688645,
-            "venue_id":672454247
-        }
+    "wof:country": "US",
+    "wof:created": 1461719297,
+    "wof:geomhash": "df94f49aaeeb419d80056c6e9fda87eb",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "neighbourhood_id": 85817953,
+        "region_id": 85688645,
+        "venue_id": 672454247
+      },
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "neighbourhood_id": 85849503,
+        "region_id": 85688645,
+        "venue_id": 672454247
+      }
     ],
-    "wof:id":672454247,
-    "wof:lastmodified":1492115679,
-    "wof:name":"Bridgewater Farm Supply Co",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:id": 672454247,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Bridgewater Farm Supply Co",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -70.938566,
     41.99331,
     -70.938566,
     41.99331
-],
-  "geometry": {"coordinates":[-70.93856599999999,41.99331],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.938566,41.99331],"type":"Point"}
 }

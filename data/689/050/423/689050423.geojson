@@ -2,79 +2,82 @@
   "id": 689050423,
   "type": "Feature",
   "properties": {
-    "addr:full":"673 Morton St Boston MA 02126",
-    "addr:housenumber":"673",
-    "addr:postcode":"02126",
-    "addr:street":"Morton St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.093,42.2847,-71.093,42.2847",
-    "geom:latitude":42.2847,
-    "geom:longitude":-71.093,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"673 Morton St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "673 Morton St Boston MA 02126",
+    "addr:housenumber": "673",
+    "addr:postcode": "02126",
+    "addr:street": "Morton St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.093000,42.284700,-71.093000,42.284700",
+    "geom:latitude": 42.2847,
+    "geom:longitude": -71.093,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Suds Laundromat, 673 Morton St Boston MA US",
+    "ovtr:similarity": 2.2243399620056152,
+    "sg:address": "673 Morton St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 296 0555",
-    "sg:postcode":"02126",
-    "sg:province":"MA",
-    "sg:website":"www.sudslaundromat.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108712095,
-        85832891,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 296 0555",
+    "sg:postcode": "02126",
+    "sg:province": "MA",
+    "sg:website": "www.sudslaundromat.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108712095,
+      85832891,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0N2EdeR7UqqP9gI4DeXiZE_42.284700_-71.093000@1303262212"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3064c27695003775d343382f860",
+      "sg:id": "SG_0N2EdeR7UqqP9gI4DeXiZE_42.284700_-71.093000@1303262212"
     },
-    "wof:country":"US",
-    "wof:created":1461738308,
-    "wof:geomhash":"3fce6078b1b67d76fa4266d9b83e8480",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "microhood_id":1108712095,
-            "neighbourhood_id":85832891,
-            "region_id":85688645,
-            "venue_id":689050423
-        }
+    "wof:country": "US",
+    "wof:created": 1461738308,
+    "wof:geomhash": "43f3d0b2bc9d040094c1c4bd08f604eb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "microhood_id": 1108712095,
+        "neighbourhood_id": 85832891,
+        "region_id": 85688645,
+        "venue_id": 689050423
+      }
     ],
-    "wof:id":689050423,
-    "wof:lastmodified":1489012188,
-    "wof:name":"Suds Laundromat",
-    "wof:parent_id":1108712095,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 689050423,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Suds Laundromat",
+    "wof:parent_id": 1108712095,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.093,
     42.2847,
     -71.093,
     42.2847
-],
+  ],
   "geometry": {"coordinates":[-71.093,42.2847],"type":"Point"}
 }

@@ -2,76 +2,79 @@
   "id": 688954125,
   "type": "Feature",
   "properties": {
-    "addr:full":"1209 Washington St Stoughton MA 02072",
-    "addr:housenumber":"1209",
-    "addr:postcode":"02072",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.098801,42.105,-71.098801,42.105",
-    "geom:latitude":42.105,
-    "geom:longitude":-71.098801,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1209 Washington St",
-    "sg:city":"Stoughton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1209 Washington St Stoughton MA 02072",
+    "addr:housenumber": "1209",
+    "addr:postcode": "02072",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.098801,42.105000,-71.098801,42.105000",
+    "geom:latitude": 42.105,
+    "geom:longitude": -71.098801,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Ace Auto Body, 1209 Washington St Stoughton MA US",
+    "ovtr:similarity": 2.3630850315093994,
+    "sg:address": "1209 Washington St",
+    "sg:city": "Stoughton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 344 5950",
-    "sg:postcode":"02072",
-    "sg:province":"MA",
-    "sg:tags":[
-        "body",
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 344 5950",
+    "sg:postcode": "02072",
+    "sg:province": "MA",
+    "sg:tags": [
+      "body",
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85850111,
-        102084403
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85850111,
+      102084403
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5XVV8n8FPM6bSlUdwTGQkV_42.105000_-71.098801@1303262200"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33822c75a8803454be26d8b0cc1",
+      "sg:id": "SG_5XVV8n8FPM6bSlUdwTGQkV_42.105000_-71.098801@1303262200"
     },
-    "wof:country":"US",
-    "wof:created":1461736328,
-    "wof:geomhash":"1909c421516ba49b620f5de7061633d2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084403,
-            "neighbourhood_id":85850111,
-            "region_id":85688645,
-            "venue_id":688954125
-        }
+    "wof:country": "US",
+    "wof:created": 1461736328,
+    "wof:geomhash": "568ce01b57a4295159aa709c07be0c83",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "neighbourhood_id": 85850111,
+        "region_id": 85688645,
+        "venue_id": 688954125
+      }
     ],
-    "wof:id":688954125,
-    "wof:lastmodified":1472625129,
-    "wof:name":"Ace Auto Body",
-    "wof:parent_id":85850111,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "shop"
+    "wof:id": 688954125,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Ace Auto Body",
+    "wof:parent_id": 85850111,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "shop"
     ]
-},
+  },
   "bbox": [
     -71.098801,
     42.105,
     -71.098801,
     42.105
-],
-  "geometry": {"coordinates":[-71.09880099999999,42.105],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.098801,42.105],"type":"Point"}
 }

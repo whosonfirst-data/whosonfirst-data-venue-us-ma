@@ -2,83 +2,86 @@
   "id": 672425093,
   "type": "Feature",
   "properties": {
-    "addr:full":"65 Libby St Brockton MA 02302",
-    "addr:housenumber":"65",
-    "addr:postcode":"02302",
-    "addr:street":"Libby St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.989504,42.086751,-70.989504,42.086751",
-    "geom:latitude":42.086751,
-    "geom:longitude":-70.989504,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"65 Libby St",
-    "sg:city":"Brockton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "65 Libby St Brockton MA 02302",
+    "addr:housenumber": "65",
+    "addr:postcode": "02302",
+    "addr:street": "Libby St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.989504,42.086751,-70.989504,42.086751",
+    "geom:latitude": 42.086751,
+    "geom:longitude": -70.989504,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Brockton Pediatrics Inc, 65 Libby St Brockton MA US",
+    "ovtr:similarity": 2.5824170112609863,
+    "sg:address": "65 Libby St",
+    "sg:city": "Brockton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 584 6060",
-    "sg:postcode":"02302",
-    "sg:province":"MA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 584 6060",
+    "sg:postcode": "02302",
+    "sg:province": "MA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85855157,
-        102191575,
-        404476503,
-        85633793,
-        85950319,
-        102084367,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85855157,
+      102191575,
+      404476503,
+      85633793,
+      85950319,
+      102084367,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Jf9ciFDaXpGytCwGscfFB_42.086751_-70.989504@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3395017415303e5ae2819ad82ef",
+      "sg:id": "SG_4Jf9ciFDaXpGytCwGscfFB_42.086751_-70.989504@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461718534,
-    "wof:geomhash":"9f3be3a083c627d9e700c4446e4e6974",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476503,
-            "locality_id":85950319,
-            "neighbourhood_id":85855157,
-            "region_id":85688645,
-            "venue_id":672425093
-        }
+    "wof:country": "US",
+    "wof:created": 1461718534,
+    "wof:geomhash": "9f3be3a083c627d9e700c4446e4e6974",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476503,
+        "locality_id": 85950319,
+        "neighbourhood_id": 85855157,
+        "region_id": 85688645,
+        "venue_id": 672425093
+      }
     ],
-    "wof:id":672425093,
-    "wof:lastmodified":1492113373,
-    "wof:name":"Brockton Pediatrics Inc",
-    "wof:parent_id":85855157,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 672425093,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Brockton Pediatrics Inc",
+    "wof:parent_id": 85855157,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -70.989504,
     42.086751,
     -70.989504,
     42.086751
-],
+  ],
   "geometry": {"coordinates":[-70.989504,42.086751],"type":"Point"}
 }

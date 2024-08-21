@@ -2,58 +2,65 @@
   "id": 673111329,
   "type": "Feature",
   "properties": {
-    "addr:full":"854 S Undermountain Rd Sheffield MA 01257",
-    "addr:housenumber":"854",
-    "addr:postcode":"01257",
-    "addr:street":"S Undermountain Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.412145,42.084946,-73.412145,42.084946",
-    "geom:latitude":42.084946,
-    "geom:longitude":-73.412145,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"854 S Undermountain Rd",
-    "sg:city":"Sheffield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "854 S Undermountain Rd Sheffield MA 01257",
+    "addr:housenumber": "854",
+    "addr:postcode": "01257",
+    "addr:street": "S Undermountain Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.412145,42.084946,-73.412145,42.084946",
+    "geom:latitude": 42.084946,
+    "geom:longitude": -73.412145,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "The Stagecoach Tavern, 854 S Undermountain Rd Sheffield MA US",
+    "ovtr:similarity": 2.5545530319213867,
+    "sg:address": "854 S Undermountain Rd",
+    "sg:city": "Sheffield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 229 8585",
-    "sg:postcode":"01257",
-    "sg:province":"MA",
-    "sg:website":"www.stagecoachtavern.net",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1fHhgxGW23EGhNnTmIMfV8_42.084946_-73.412145@1303262185"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 229 8585",
+    "sg:postcode": "01257",
+    "sg:province": "MA",
+    "sg:website": "www.stagecoachtavern.net",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a14525ce944d0392f46ca25af52b",
+      "sg:id": "SG_1fHhgxGW23EGhNnTmIMfV8_42.084946_-73.412145@1303262185"
     },
-    "wof:country":"US",
-    "wof:created":1461734008,
-    "wof:geomhash":"59b377387ef210bd425254fc61b47312",
-    "wof:hierarchy":[],
-    "wof:id":673111329,
-    "wof:lastmodified":1492105209,
-    "wof:name":"Stagecoach Tavern",
-    "wof:parent_id":85802573,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461734008,
+    "wof:geomhash": "59b377387ef210bd425254fc61b47312",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673111329
+      }
+    ],
+    "wof:id": 673111329,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Stagecoach Tavern",
+    "wof:parent_id": 85802573,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.412145,
     42.084946,
     -73.412145,
     42.084946
-],
+  ],
   "geometry": {"coordinates":[-73.412145,42.084946],"type":"Point"}
 }

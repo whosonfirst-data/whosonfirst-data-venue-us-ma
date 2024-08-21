@@ -2,82 +2,85 @@
   "id": 672362081,
   "type": "Feature",
   "properties": {
-    "addr:full":"242 Commercial St Provincetown MA 02657",
-    "addr:housenumber":"242",
-    "addr:postcode":"02657",
-    "addr:street":"Commercial St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.187906,42.050409,-70.187906,42.050409",
-    "geom:latitude":42.050409,
-    "geom:longitude":-70.187906,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"242 Commercial St",
-    "sg:city":"Provincetown",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Used Merchandise",
-            "type":"Retail Goods"
-        }
+    "addr:full": "242 Commercial St Provincetown MA 02657",
+    "addr:housenumber": "242",
+    "addr:postcode": "02657",
+    "addr:street": "Commercial St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.187906,42.050409,-70.187906,42.050409",
+    "geom:latitude": 42.050409,
+    "geom:longitude": -70.187906,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Tim's Used Books, 242 Commercial St Provincetown MA US",
+    "ovtr:similarity": 2.1288750171661377,
+    "sg:address": "242 Commercial St",
+    "sg:city": "Provincetown",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Used Merchandise",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 487 0005",
-    "sg:postcode":"02657",
-    "sg:province":"MA",
-    "sg:tags":[
-        "book",
-        "rare",
-        "dealer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 487 0005",
+    "sg:postcode": "02657",
+    "sg:province": "MA",
+    "sg:tags": [
+      "book",
+      "rare",
+      "dealer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        102191575,
-        85633793,
-        85950587,
-        102084379,
-        85858505
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      102191575,
+      85633793,
+      85950587,
+      102084379,
+      85858505
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1JtYNOP7vh0PLaZxlwRIYb_42.050409_-70.187906@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a31ce88565030310946131893018",
+      "sg:id": "SG_1JtYNOP7vh0PLaZxlwRIYb_42.050409_-70.187906@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461717019,
-    "wof:geomhash":"771e76d6c6ab56617a3a7e1b14067415",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "locality_id":85950587,
-            "neighbourhood_id":85858505,
-            "region_id":85688645,
-            "venue_id":672362081
-        }
+    "wof:country": "US",
+    "wof:created": 1461717019,
+    "wof:geomhash": "67fb175c05131079669586db7fb329d2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "locality_id": 85950587,
+        "neighbourhood_id": 85858505,
+        "region_id": 85688645,
+        "venue_id": 672362081
+      }
     ],
-    "wof:id":672362081,
-    "wof:lastmodified":1472625614,
-    "wof:name":"Tim's Used Books",
-    "wof:parent_id":85858505,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "book",
-        "rare",
-        "dealer"
+    "wof:id": 672362081,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Tim's Used Books",
+    "wof:parent_id": 85858505,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "book",
+      "rare",
+      "dealer"
     ]
-},
+  },
   "bbox": [
     -70.187906,
     42.050409,
     -70.187906,
     42.050409
-],
+  ],
   "geometry": {"coordinates":[-70.187906,42.050409],"type":"Point"}
 }

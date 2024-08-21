@@ -2,69 +2,72 @@
   "id": 673172345,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 Washington St Groveland MA 01834",
-    "addr:housenumber":"201",
-    "addr:postcode":"01834",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.044403,42.738098,-71.044403,42.738098",
-    "geom:latitude":42.738098,
-    "geom:longitude":-71.044403,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"201 Washington St",
-    "sg:city":"Groveland",
-    "sg:classifiers":[
-        {
-            "category":"Park",
-            "subcategory":"",
-            "type":"Public Place"
-        }
+    "addr:full": "201 Washington St Groveland MA 01834",
+    "addr:housenumber": "201",
+    "addr:postcode": "01834",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.044403,42.738098,-71.044403,42.738098",
+    "geom:latitude": 42.738098,
+    "geom:longitude": -71.044403,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Veasey Memorial Park, 201 Washington St Groveland MA US",
+    "ovtr:similarity": 2.7999420166015625,
+    "sg:address": "201 Washington St",
+    "sg:city": "Groveland",
+    "sg:classifiers": [
+      {
+        "category": "Park",
+        "subcategory": "",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 521 9345",
-    "sg:postcode":"01834",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85849709,
-        102084463
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 521 9345",
+    "sg:postcode": "01834",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85849709,
+      102084463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2EbKzhqPFUbXN5YWsEhftq_42.738098_-71.044403@1303262192"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30082c9b6630361db1dd8771c11",
+      "sg:id": "SG_2EbKzhqPFUbXN5YWsEhftq_42.738098_-71.044403@1303262192"
     },
-    "wof:country":"US",
-    "wof:created":1461735273,
-    "wof:geomhash":"8911f419b63e4feec36e381afdad70c3",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85849709,
-            "region_id":85688645,
-            "venue_id":673172345
-        }
+    "wof:country": "US",
+    "wof:created": 1461735273,
+    "wof:geomhash": "d5a2672c5d23bc9658bfa437919e0b20",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "neighbourhood_id": 85849709,
+        "region_id": 85688645,
+        "venue_id": 673172345
+      }
     ],
-    "wof:id":673172345,
-    "wof:lastmodified":1472625473,
-    "wof:name":"Veasey Memorial Park",
-    "wof:parent_id":85849709,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673172345,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Veasey Memorial Park",
+    "wof:parent_id": 85849709,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.044403,
     42.738098,
     -71.044403,
     42.738098
-],
+  ],
   "geometry": {"coordinates":[-71.044403,42.738098],"type":"Point"}
 }

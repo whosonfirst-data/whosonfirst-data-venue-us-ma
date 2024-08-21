@@ -2,73 +2,76 @@
   "id": 673165301,
   "type": "Feature",
   "properties": {
-    "addr:full":"15 Concord Rd Billerica MA 01821",
-    "addr:housenumber":"15",
-    "addr:postcode":"01821",
-    "addr:street":"Concord Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.2698,42.5584,-71.2698,42.5584",
-    "geom:latitude":42.5584,
-    "geom:longitude":-71.2698,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"15 Concord Rd",
-    "sg:city":"Billerica",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "15 Concord Rd Billerica MA 01821",
+    "addr:housenumber": "15",
+    "addr:postcode": "01821",
+    "addr:street": "Concord Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.269800,42.558400,-71.269800,42.558400",
+    "geom:latitude": 42.5584,
+    "geom:longitude": -71.2698,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Billerica Public Library, 15 Concord Rd Billerica MA US",
+    "ovtr:similarity": 3.1146039962768555,
+    "sg:address": "15 Concord Rd",
+    "sg:city": "Billerica",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 671 0948",
-    "sg:postcode":"01821",
-    "sg:province":"MA",
-    "sg:website":"www.billericalibrary.org/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85844755,
-        102084643
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 671 0948",
+    "sg:postcode": "01821",
+    "sg:province": "MA",
+    "sg:website": "www.billericalibrary.org/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85844755,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":212084184,
-        "sg:id":"SG_7l5QkA567gjgwmK8kSUgsN_42.558400_-71.269800@1303262192"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 212084184,
+      "ovtr:id": "08f2a307ab8c950b03dadb6cf013d0e6",
+      "sg:id": "SG_7l5QkA567gjgwmK8kSUgsN_42.558400_-71.269800@1303262192"
     },
-    "wof:country":"US",
-    "wof:created":1461735123,
-    "wof:geomhash":"c3fab952d9f7f13e468f2b55ca51a7b6",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85844755,
-            "region_id":85688645,
-            "venue_id":673165301
-        }
+    "wof:country": "US",
+    "wof:created": 1461735123,
+    "wof:geomhash": "c3fab952d9f7f13e468f2b55ca51a7b6",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85844755,
+        "region_id": 85688645,
+        "venue_id": 673165301
+      }
     ],
-    "wof:id":673165301,
-    "wof:lastmodified":1510943526,
-    "wof:name":"Billerica Public Library",
-    "wof:parent_id":85844755,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673165301,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Billerica Public Library",
+    "wof:parent_id": 85844755,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.2698,
     42.5584,
     -71.2698,
     42.5584
-],
+  ],
   "geometry": {"coordinates":[-71.2698,42.5584],"type":"Point"}
 }

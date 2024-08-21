@@ -2,78 +2,81 @@
   "id": 689152785,
   "type": "Feature",
   "properties": {
-    "addr:full":"128 Main St Carver MA 02330",
-    "addr:housenumber":"128",
-    "addr:postcode":"02330",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.766154,41.884963,-70.766154,41.884963",
-    "geom:latitude":41.884963,
-    "geom:longitude":-70.766154,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"128 Main St",
-    "sg:city":"Carver",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "128 Main St Carver MA 02330",
+    "addr:housenumber": "128",
+    "addr:postcode": "02330",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.766154,41.884963,-70.766154,41.884963",
+    "geom:latitude": 41.884963,
+    "geom:longitude": -70.766154,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Carver Square Wine \u0026 Spirits, 128 Main St Carver MA US",
+    "ovtr:similarity": 3.1876258850097656,
+    "sg:address": "128 Main St",
+    "sg:city": "Carver",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 866 7727",
-    "sg:postcode":"02330",
-    "sg:province":"MA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 866 7727",
+    "sg:postcode": "02330",
+    "sg:province": "MA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85826411,
-        102084367
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85826411,
+      102084367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7enflICdulOKm0NE9R0d7I_41.884963_-70.766154@1303262226"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3148d89538103880f2d07001601",
+      "sg:id": "SG_7enflICdulOKm0NE9R0d7I_41.884963_-70.766154@1303262226"
     },
-    "wof:country":"US",
-    "wof:created":1461740998,
-    "wof:geomhash":"d647b01a2c1eb5706fdde9e18df8e798",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "neighbourhood_id":85826411,
-            "region_id":85688645,
-            "venue_id":689152785
-        }
+    "wof:country": "US",
+    "wof:created": 1461740998,
+    "wof:geomhash": "66216dc6dd95078aa7f98c8588474b34",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "neighbourhood_id": 85826411,
+        "region_id": 85688645,
+        "venue_id": 689152785
+      }
     ],
-    "wof:id":689152785,
-    "wof:lastmodified":1472625518,
-    "wof:name":"Carver Square Wine & Spirits",
-    "wof:parent_id":85826411,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 689152785,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Carver Square Wine \u0026 Spirits",
+    "wof:parent_id": 85826411,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -70.766154,
     41.884963,
     -70.766154,
     41.884963
-],
+  ],
   "geometry": {"coordinates":[-70.766154,41.884963],"type":"Point"}
 }

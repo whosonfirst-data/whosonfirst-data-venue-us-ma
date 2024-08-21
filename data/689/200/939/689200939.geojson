@@ -2,80 +2,83 @@
   "id": 689200939,
   "type": "Feature",
   "properties": {
-    "addr:full":"657 W Main St Hyannis MA 02601",
-    "addr:housenumber":"657",
-    "addr:postcode":"02601",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.317299,41.652,-70.317299,41.652",
-    "geom:latitude":41.652,
-    "geom:longitude":-70.317299,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"657 W Main St",
-    "sg:city":"Hyannis",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Travel",
-            "subcategory":"Bed & Breakfast",
-            "type":"Entertainment"
-        }
+    "addr:full": "657 W Main St Hyannis MA 02601",
+    "addr:housenumber": "657",
+    "addr:postcode": "02601",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.317299,41.652000,-70.317299,41.652000",
+    "geom:latitude": 41.652,
+    "geom:longitude": -70.317299,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Cape Winds Resort, 657 W Main St Hyannis MA US",
+    "ovtr:similarity": 1.8644239902496338,
+    "sg:address": "657 W Main St",
+    "sg:city": "Hyannis",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Travel",
+        "subcategory": "Bed \u0026 Breakfast",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 778 4949",
-    "sg:postcode":"02601",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85812731,
-        102191575,
-        404475893,
-        85633793,
-        85950321,
-        102084379,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 778 4949",
+    "sg:postcode": "02601",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85812731,
+      102191575,
+      404475893,
+      85633793,
+      85950321,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_16XLr6jYHVy39oDv2TM7Ic_41.652000_-70.317299@1303262232"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3172805e56603bd7e0d28f78585",
+      "sg:id": "SG_16XLr6jYHVy39oDv2TM7Ic_41.652000_-70.317299@1303262232"
     },
-    "wof:country":"US",
-    "wof:created":1461742057,
-    "wof:geomhash":"41a391907936d6fe4073a9080dd748b6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475893,
-            "locality_id":85950321,
-            "neighbourhood_id":85812731,
-            "region_id":85688645,
-            "venue_id":689200939
-        }
+    "wof:country": "US",
+    "wof:created": 1461742057,
+    "wof:geomhash": "92d57eb7e15f6957e7bcd9feeef50d38",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475893,
+        "locality_id": 85950321,
+        "neighbourhood_id": 85812731,
+        "region_id": 85688645,
+        "venue_id": 689200939
+      }
     ],
-    "wof:id":689200939,
-    "wof:lastmodified":1472625619,
-    "wof:name":"Cape Winds Resort",
-    "wof:parent_id":85812731,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 689200939,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Cape Winds Resort",
+    "wof:parent_id": 85812731,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.317299,
     41.652,
     -70.317299,
     41.652
-],
-  "geometry": {"coordinates":[-70.31729900000001,41.652],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.317299,41.652],"type":"Point"}
 }

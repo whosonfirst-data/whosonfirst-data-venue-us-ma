@@ -2,75 +2,78 @@
   "id": 689213831,
   "type": "Feature",
   "properties": {
-    "addr:full":"300 County St Attleboro MA 02703",
-    "addr:housenumber":"300",
-    "addr:postcode":"02703",
-    "addr:street":"County St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.299599,41.934502,-71.299599,41.934502",
-    "geom:latitude":41.934502,
-    "geom:longitude":-71.299599,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"300 County St",
-    "sg:city":"Attleboro",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "300 County St Attleboro MA 02703",
+    "addr:housenumber": "300",
+    "addr:postcode": "02703",
+    "addr:street": "County St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.299599,41.934502,-71.299599,41.934502",
+    "geom:latitude": 41.934502,
+    "geom:longitude": -71.299599,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "123 Mobile, 300 County St Attleboro MA US",
+    "ovtr:similarity": 2.8820180892944336,
+    "sg:address": "300 County St",
+    "sg:city": "Attleboro",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 226 1676",
-    "sg:postcode":"02703",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85814695,
-        102191575,
-        404476165,
-        85633793,
-        85950363,
-        102084407,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 226 1676",
+    "sg:postcode": "02703",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85814695,
+      102191575,
+      404476165,
+      85633793,
+      85950363,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7iTgwTNA4cn2gFzBQ0xXPg_41.934502_-71.299599@1303262234"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a338d106d50803bb8ab4113f342b",
+      "sg:id": "SG_7iTgwTNA4cn2gFzBQ0xXPg_41.934502_-71.299599@1303262234"
     },
-    "wof:country":"US",
-    "wof:created":1461742336,
-    "wof:geomhash":"e807392ec910063e9a14d965d8284f0b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476165,
-            "locality_id":85950363,
-            "neighbourhood_id":85814695,
-            "region_id":85688645,
-            "venue_id":689213831
-        }
+    "wof:country": "US",
+    "wof:created": 1461742336,
+    "wof:geomhash": "424ff6a587c8f4e32ec33f4dccf9d396",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476165,
+        "locality_id": 85950363,
+        "neighbourhood_id": 85814695,
+        "region_id": 85688645,
+        "venue_id": 689213831
+      }
     ],
-    "wof:id":689213831,
-    "wof:lastmodified":1472625625,
-    "wof:name":"123 Mobile",
-    "wof:parent_id":85814695,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 689213831,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "123 Mobile",
+    "wof:parent_id": 85814695,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.299599,
     41.934502,
     -71.299599,
     41.934502
-],
+  ],
   "geometry": {"coordinates":[-71.299599,41.934502],"type":"Point"}
 }

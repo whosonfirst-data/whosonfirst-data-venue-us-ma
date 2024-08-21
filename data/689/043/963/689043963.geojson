@@ -2,73 +2,80 @@
   "id": 689043963,
   "type": "Feature",
   "properties": {
-    "addr:full":"468 Blue Hill Avenue Dorchester MA 02121",
-    "addr:housenumber":"468",
-    "addr:postcode":"02121",
-    "addr:street":"Blue Hill Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.082944,42.309017,-71.082944,42.309017",
-    "geom:latitude":42.309017,
-    "geom:longitude":-71.082944,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"468 Blue Hill Avenue",
-    "sg:city":"Dorchester",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "468 Blue Hill Avenue Dorchester MA 02121",
+    "addr:housenumber": "468",
+    "addr:postcode": "02121",
+    "addr:street": "Blue Hill Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.082944,42.309017,-71.082944,42.309017",
+    "geom:latitude": 42.309017,
+    "geom:longitude": -71.082944,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "CVS Pharmacy, 468 Blue Hill Ave Dorchester MA US",
+    "ovtr:similarity": 2.1702589988708496,
+    "sg:address": "468 Blue Hill Avenue",
+    "sg:city": "Dorchester",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 427 7806",
-    "sg:postcode":"02121",
-    "sg:province":"MA",
-    "sg:tags":[
-        "photography",
-        "drugstore",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 427 7806",
+    "sg:postcode": "02121",
+    "sg:province": "MA",
+    "sg:tags": [
+      "photography",
+      "drugstore",
+      "store"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573805,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7l96OK2K1xiv6xsmGKbPRA_42.309017_-71.082944@1303262211"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573805,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3066a3b6016033581855b7e3c99",
+      "sg:id": "SG_7l96OK2K1xiv6xsmGKbPRA_42.309017_-71.082944@1303262211"
     },
-    "wof:country":"US",
-    "wof:created":1461738162,
-    "wof:geomhash":"3b5138dea41f6ed66c4b3be54257ccae",
-    "wof:hierarchy":[],
-    "wof:id":689043963,
-    "wof:lastmodified":1512142717,
-    "wof:name":"Cvs Pharmacy",
-    "wof:parent_id":1108711421,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photography",
-        "drugstore",
-        "store"
+    "wof:country": "US",
+    "wof:created": 1461738162,
+    "wof:geomhash": "3b5138dea41f6ed66c4b3be54257ccae",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689043963
+      }
+    ],
+    "wof:id": 689043963,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Cvs Pharmacy",
+    "wof:parent_id": 1108711421,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photography",
+      "drugstore",
+      "store"
     ]
-},
+  },
   "bbox": [
     -71.082944,
     42.309017,
     -71.082944,
     42.309017
-],
+  ],
   "geometry": {"coordinates":[-71.082944,42.309017],"type":"Point"}
 }

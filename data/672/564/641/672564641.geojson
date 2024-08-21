@@ -2,80 +2,83 @@
   "id": 672564641,
   "type": "Feature",
   "properties": {
-    "addr:full":"99 Lynn St Peabody MA 01960",
-    "addr:housenumber":"99",
-    "addr:postcode":"01960",
-    "addr:street":"Lynn St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.948113,42.511063,-70.948113,42.511063",
-    "geom:latitude":42.511063,
-    "geom:longitude":-70.948113,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"99 Lynn St",
-    "sg:city":"Peabody",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Barber",
-            "type":"Services"
-        }
+    "addr:full": "99 Lynn St Peabody MA 01960",
+    "addr:housenumber": "99",
+    "addr:postcode": "01960",
+    "addr:street": "Lynn St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.948113,42.511063,-70.948113,42.511063",
+    "geom:latitude": 42.511063,
+    "geom:longitude": -70.948113,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Tim's Barber Shop, 99 Lynn St Peabody MA US",
+    "ovtr:similarity": 2.556011915206909,
+    "sg:address": "99 Lynn St",
+    "sg:city": "Peabody",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Barber",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 531 9760",
-    "sg:postcode":"01960",
-    "sg:province":"MA",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 531 9760",
+    "sg:postcode": "01960",
+    "sg:province": "MA",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85849939,
-        102191575,
-        404476253,
-        85633793,
-        85950407,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85849939,
+      102191575,
+      404476253,
+      85633793,
+      85950407,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6vYKhSt6pUlbCP6cgJf29P_42.511063_-70.948113@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a307646c3a4d03f6a239e776ee7e",
+      "sg:id": "SG_6vYKhSt6pUlbCP6cgJf29P_42.511063_-70.948113@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461721811,
-    "wof:geomhash":"4737c376324ec60065508714a41fec3e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476253,
-            "locality_id":85950407,
-            "neighbourhood_id":85849939,
-            "region_id":85688645,
-            "venue_id":672564641
-        }
+    "wof:country": "US",
+    "wof:created": 1461721811,
+    "wof:geomhash": "cb105ddc2da1ac7b5e2c61d8e2f33fab",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476253,
+        "locality_id": 85950407,
+        "neighbourhood_id": 85849939,
+        "region_id": 85688645,
+        "venue_id": 672564641
+      }
     ],
-    "wof:id":672564641,
-    "wof:lastmodified":1472625826,
-    "wof:name":"Tim's Barber Shop",
-    "wof:parent_id":85849939,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:id": 672564641,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Tim's Barber Shop",
+    "wof:parent_id": 85849939,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -70.948113,
     42.511063,
     -70.948113,
     42.511063
-],
-  "geometry": {"coordinates":[-70.94811300000001,42.511063],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.948113,42.511063],"type":"Point"}
 }

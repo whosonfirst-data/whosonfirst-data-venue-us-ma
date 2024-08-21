@@ -2,81 +2,84 @@
   "id": 689213525,
   "type": "Feature",
   "properties": {
-    "addr:full":"1120 Newport Ave Attleboro MA 02703",
-    "addr:housenumber":"1120",
-    "addr:postcode":"02703",
-    "addr:street":"Newport Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.354962,41.89952,-71.354962,41.89952",
-    "geom:latitude":41.89952,
-    "geom:longitude":-71.354962,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1120 Newport Ave",
-    "sg:city":"Attleboro",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Furniture",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1120 Newport Ave Attleboro MA 02703",
+    "addr:housenumber": "1120",
+    "addr:postcode": "02703",
+    "addr:street": "Newport Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.354962,41.899520,-71.354962,41.899520",
+    "geom:latitude": 41.89952,
+    "geom:longitude": -71.354962,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Bob's Discount Furniture, 1120 Newport Ave Attleboro MA US",
+    "ovtr:similarity": 2.0771119594573975,
+    "sg:address": "1120 Newport Ave",
+    "sg:city": "Attleboro",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Furniture",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 915 5000",
-    "sg:postcode":"02703",
-    "sg:province":"MA",
-    "sg:tags":[
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 915 5000",
+    "sg:postcode": "02703",
+    "sg:province": "MA",
+    "sg:tags": [
+      "store"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85803891,
-        102191575,
-        404476165,
-        85633793,
-        85950363,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85803891,
+      102191575,
+      404476165,
+      85633793,
+      85950363,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_45bdDV08QJeuDCQXdxeMk0_41.899520_-71.354962@1303262234"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a338da48ab4503199abe0d2d5565",
+      "sg:id": "SG_45bdDV08QJeuDCQXdxeMk0_41.899520_-71.354962@1303262234"
     },
-    "wof:country":"US",
-    "wof:created":1461742329,
-    "wof:geomhash":"90820d6768d7c720f77a8260b892c3a5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476165,
-            "locality_id":85950363,
-            "neighbourhood_id":85803891,
-            "region_id":85688645,
-            "venue_id":689213525
-        }
+    "wof:country": "US",
+    "wof:created": 1461742329,
+    "wof:geomhash": "90820d6768d7c720f77a8260b892c3a5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476165,
+        "locality_id": 85950363,
+        "neighbourhood_id": 85803891,
+        "region_id": 85688645,
+        "venue_id": 689213525
+      }
     ],
-    "wof:id":689213525,
-    "wof:lastmodified":1492098472,
-    "wof:name":"Bob's Discount Furniture",
-    "wof:parent_id":85803891,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "store"
+    "wof:id": 689213525,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Bob's Discount Furniture",
+    "wof:parent_id": 85803891,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "store"
     ]
-},
+  },
   "bbox": [
     -71.354962,
     41.89952,
     -71.354962,
     41.89952
-],
+  ],
   "geometry": {"coordinates":[-71.354962,41.89952],"type":"Point"}
 }

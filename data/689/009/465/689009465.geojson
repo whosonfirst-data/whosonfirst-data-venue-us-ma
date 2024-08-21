@@ -2,75 +2,78 @@
   "id": 689009465,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Charles River Plz Boston MA 02114",
-    "addr:housenumber":"100",
-    "addr:postcode":"02114",
-    "addr:street":"Charles River Plz",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.071257,42.35971,-71.071257,42.35971",
-    "geom:latitude":42.35971,
-    "geom:longitude":-71.071257,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"100 Charles River Plz",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        }
+    "addr:full": "100 Charles River Plz Boston MA 02114",
+    "addr:housenumber": "100",
+    "addr:postcode": "02114",
+    "addr:street": "Charles River Plz",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.071257,42.359710,-71.071257,42.359710",
+    "geom:latitude": 42.35971,
+    "geom:longitude": -71.071257,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "MGH Beacon Hill Primary Care, 100 Charles River Plz Boston MA US",
+    "ovtr:similarity": 3.943418025970459,
+    "sg:address": "100 Charles River Plz",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 726 4900",
-    "sg:postcode":"02114",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85805015,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 726 4900",
+    "sg:postcode": "02114",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85805015,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6lhaFY22Xwf9AVq78lozAl_42.359710_-71.071257@1303262206"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306602a006e03adcc5bb5bc72fb",
+      "sg:id": "SG_6lhaFY22Xwf9AVq78lozAl_42.359710_-71.071257@1303262206"
     },
-    "wof:country":"US",
-    "wof:created":1461737462,
-    "wof:geomhash":"d583b9b1dc0cca01d380142ab0d6da54",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85805015,
-            "region_id":85688645,
-            "venue_id":689009465
-        }
+    "wof:country": "US",
+    "wof:created": 1461737462,
+    "wof:geomhash": "27a8bfb42a0659e970b9395a33b16f01",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85805015,
+        "region_id": 85688645,
+        "venue_id": 689009465
+      }
     ],
-    "wof:id":689009465,
-    "wof:lastmodified":1472624955,
-    "wof:name":"MGH Beacon Hill Primary Care Associates",
-    "wof:parent_id":85805015,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 689009465,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "MGH Beacon Hill Primary Care Associates",
+    "wof:parent_id": 85805015,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.071257,
     42.35971,
     -71.071257,
     42.35971
-],
+  ],
   "geometry": {"coordinates":[-71.071257,42.35971],"type":"Point"}
 }

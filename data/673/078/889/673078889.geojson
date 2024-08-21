@@ -2,76 +2,79 @@
   "id": 673078889,
   "type": "Feature",
   "properties": {
-    "addr:full":"374 Main St Falmouth MA 02540",
-    "addr:housenumber":"374",
-    "addr:postcode":"02540",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.612137,41.55217,-70.612137,41.55217",
-    "geom:latitude":41.55217,
-    "geom:longitude":-70.612137,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"374 Main St",
-    "sg:city":"Falmouth",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "374 Main St Falmouth MA 02540",
+    "addr:housenumber": "374",
+    "addr:postcode": "02540",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.612137,41.552170,-70.612137,41.552170",
+    "geom:latitude": 41.55217,
+    "geom:longitude": -70.612137,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Steve's Pizzeria \u0026 More, 374 Main St Falmouth MA US",
+    "ovtr:similarity": 2.260409116744995,
+    "sg:address": "374 Main St",
+    "sg:city": "Falmouth",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 457 9454",
-    "sg:postcode":"02540",
-    "sg:province":"MA",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 457 9454",
+    "sg:postcode": "02540",
+    "sg:province": "MA",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950553,
-        102084379,
-        85818889
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950553,
+      102084379,
+      85818889
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7lnVb3TjQ9cVmS6Hpbl2R6_41.552180_-70.612077@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a316122c565c03d2cde9a73af4eb",
+      "sg:id": "SG_7lnVb3TjQ9cVmS6Hpbl2R6_41.552180_-70.612077@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733332,
-    "wof:geomhash":"7b88410194ad5752ff97dce2fe38b699",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "locality_id":85950553,
-            "neighbourhood_id":85818889,
-            "region_id":85688645,
-            "venue_id":673078889
-        }
+    "wof:country": "US",
+    "wof:created": 1461733332,
+    "wof:geomhash": "5868c8b6eec70c0ff7eb1fd8025f6f00",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "locality_id": 85950553,
+        "neighbourhood_id": 85818889,
+        "region_id": 85688645,
+        "venue_id": 673078889
+      }
     ],
-    "wof:id":673078889,
-    "wof:lastmodified":1472625227,
-    "wof:name":"Steve's Pizzeria & More",
-    "wof:parent_id":85818889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:id": 673078889,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Steve's Pizzeria \u0026 More",
+    "wof:parent_id": 85818889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -70.612137,
     41.55217,
     -70.612137,
     41.55217
-],
+  ],
   "geometry": {"coordinates":[-70.612137,41.55217],"type":"Point"}
 }

@@ -2,56 +2,63 @@
   "id": 672586017,
   "type": "Feature",
   "properties": {
-    "addr:full":"560 Summer St Barre MA 01005",
-    "addr:housenumber":"560",
-    "addr:postcode":"01005",
-    "addr:street":"Summer St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.097903,42.410669,-72.097903,42.410669",
-    "geom:latitude":42.410669,
-    "geom:longitude":-72.097903,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"560 Summer St",
-    "sg:city":"Barre",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "560 Summer St Barre MA 01005",
+    "addr:housenumber": "560",
+    "addr:postcode": "01005",
+    "addr:street": "Summer St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.097903,42.410669,-72.097903,42.410669",
+    "geom:latitude": 42.410669,
+    "geom:longitude": -72.097903,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Athol Savings Bank, 560 Summer St Barre MA US",
+    "ovtr:similarity": 3.3661890029907227,
+    "sg:address": "560 Summer St",
+    "sg:city": "Barre",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 355 0066",
-    "sg:postcode":"01005",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3fluARdlwX9r399UHxPhLb_42.410669_-72.097903@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 355 0066",
+    "sg:postcode": "01005",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3230e25298303b8419f537218f9",
+      "sg:id": "SG_3fluARdlwX9r399UHxPhLb_42.410669_-72.097903@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461722287,
-    "wof:geomhash":"93c49b568b01262c8c30c63c468d6857",
-    "wof:hierarchy":[],
-    "wof:id":672586017,
-    "wof:lastmodified":1472625809,
-    "wof:name":"Athol Savings Bank",
-    "wof:parent_id":420524129,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461722287,
+    "wof:geomhash": "9faf0c7748cf6445bf70baf6560cc183",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672586017
+      }
+    ],
+    "wof:id": 672586017,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Athol Savings Bank",
+    "wof:parent_id": 420524129,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -72.097903,
     42.410669,
     -72.097903,
     42.410669
-],
+  ],
   "geometry": {"coordinates":[-72.097903,42.410669],"type":"Point"}
 }

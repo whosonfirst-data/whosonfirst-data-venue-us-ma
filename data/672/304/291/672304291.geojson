@@ -2,69 +2,72 @@
   "id": 672304291,
   "type": "Feature",
   "properties": {
-    "addr:full":"80 Martha Jones Rd Westwood MA 02090",
-    "addr:housenumber":"80",
-    "addr:postcode":"02090",
-    "addr:street":"Martha Jones Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.231927,42.201498,-71.231927,42.201498",
-    "geom:latitude":42.201498,
-    "geom:longitude":-71.231927,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"80 Martha Jones Rd",
-    "sg:city":"Westwood",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "80 Martha Jones Rd Westwood MA 02090",
+    "addr:housenumber": "80",
+    "addr:postcode": "02090",
+    "addr:street": "Martha Jones Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.231927,42.201498,-71.231927,42.201498",
+    "geom:latitude": 42.201498,
+    "geom:longitude": -71.231927,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Martha Jones School, 80 Martha Jones Rd Westwood MA US",
+    "ovtr:similarity": 3.1464619636535645,
+    "sg:address": "80 Martha Jones Rd",
+    "sg:city": "Westwood",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 326 7500",
-    "sg:postcode":"02090",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85817849,
-        102084403
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 326 7500",
+    "sg:postcode": "02090",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85817849,
+      102084403
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6hNuKi64v32IdrSa6WfnoZ_42.201498_-71.231927@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33980150402037f85725ed41bb0",
+      "sg:id": "SG_6hNuKi64v32IdrSa6WfnoZ_42.201498_-71.231927@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715688,
-    "wof:geomhash":"e3dc5e3882d0e30fd5c96587a2755057",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084403,
-            "neighbourhood_id":85817849,
-            "region_id":85688645,
-            "venue_id":672304291
-        }
+    "wof:country": "US",
+    "wof:created": 1461715688,
+    "wof:geomhash": "85f11ddb4ae9911411a54f820f199c04",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "neighbourhood_id": 85817849,
+        "region_id": 85688645,
+        "venue_id": 672304291
+      }
     ],
-    "wof:id":672304291,
-    "wof:lastmodified":1472625507,
-    "wof:name":"Martha Jones School",
-    "wof:parent_id":85817849,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672304291,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Martha Jones School",
+    "wof:parent_id": 85817849,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.231927,
     42.201498,
     -71.231927,
     42.201498
-],
+  ],
   "geometry": {"coordinates":[-71.231927,42.201498],"type":"Point"}
 }

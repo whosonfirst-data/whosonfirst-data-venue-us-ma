@@ -2,84 +2,87 @@
   "id": 689050697,
   "type": "Feature",
   "properties": {
-    "addr:full":"647 Summer St Ste B South Boston MA 02127",
-    "addr:housenumber":"647",
-    "addr:postcode":"02127",
-    "addr:street":"Summer St Ste B",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.0438,42.3413,-71.0438,42.3413",
-    "geom:latitude":42.3413,
-    "geom:longitude":-71.0438,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"647 Summer St Ste B",
-    "sg:city":"South Boston",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "647 Summer St Ste B South Boston MA 02127",
+    "addr:housenumber": "647",
+    "addr:postcode": "02127",
+    "addr:street": "Summer St Ste B",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.043800,42.341300,-71.043800,42.341300",
+    "geom:latitude": 42.3413,
+    "geom:longitude": -71.0438,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "UPS Customer Center, 647 Summer St Boston MA US",
+    "ovtr:similarity": 3.2836830615997314,
+    "sg:address": "647 Summer St Ste B",
+    "sg:city": "South Boston",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 800 742 5877",
-    "sg:postcode":"02127",
-    "sg:province":"MA",
-    "sg:tags":[
-        "delivery",
-        "courier"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 800 742 5877",
+    "sg:postcode": "02127",
+    "sg:province": "MA",
+    "sg:tags": [
+      "delivery",
+      "courier"
     ],
-    "sg:website":"www.ups.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420780909,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "www.ups.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420780909,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_67EZMD12QRyd2doPandPhw_42.341300_-71.043800@1303262212"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3066ccb25ab036037a754862e0e",
+      "sg:id": "SG_67EZMD12QRyd2doPandPhw_42.341300_-71.043800@1303262212"
     },
-    "wof:country":"US",
-    "wof:created":1461738315,
-    "wof:geomhash":"d1f66c6928986fa7bf4fcc3d93564224",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":420780909,
-            "region_id":85688645,
-            "venue_id":689050697
-        }
+    "wof:country": "US",
+    "wof:created": 1461738315,
+    "wof:geomhash": "c2f34e184c97163d9348f6e9fe07b73e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 420780909,
+        "region_id": 85688645,
+        "venue_id": 689050697
+      }
     ],
-    "wof:id":689050697,
-    "wof:lastmodified":1489010913,
-    "wof:name":"UPS Customer Center",
-    "wof:parent_id":420780909,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "delivery",
-        "courier"
+    "wof:id": 689050697,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "UPS Customer Center",
+    "wof:parent_id": 420780909,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "delivery",
+      "courier"
     ]
-},
+  },
   "bbox": [
     -71.0438,
     42.3413,
     -71.0438,
     42.3413
-],
+  ],
   "geometry": {"coordinates":[-71.0438,42.3413],"type":"Point"}
 }

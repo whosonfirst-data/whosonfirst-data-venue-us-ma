@@ -2,74 +2,77 @@
   "id": 689158655,
   "type": "Feature",
   "properties": {
-    "addr:full":"736 State Rd Plymouth MA 02360",
-    "addr:housenumber":"736",
-    "addr:postcode":"02360",
-    "addr:street":"State Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.554525,41.91495,-70.554525,41.91495",
-    "geom:latitude":41.91495,
-    "geom:longitude":-70.554525,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"736 State Rd",
-    "sg:city":"Plymouth",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "736 State Rd Plymouth MA 02360",
+    "addr:housenumber": "736",
+    "addr:postcode": "02360",
+    "addr:street": "State Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.554525,41.914950,-70.554525,41.914950",
+    "geom:latitude": 41.91495,
+    "geom:longitude": -70.554525,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Lukes Liquors - Plymouth, 736 State Rd Plymouth MA US",
+    "ovtr:similarity": 3.5195610523223877,
+    "sg:address": "736 State Rd",
+    "sg:city": "Plymouth",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 224 6766",
-    "sg:postcode":"02360",
-    "sg:province":"MA",
-    "sg:tags":[
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 224 6766",
+    "sg:postcode": "02360",
+    "sg:province": "MA",
+    "sg:tags": [
+      "store"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85832139,
-        102084367
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85832139,
+      102084367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4iJplH4gCHJbNdfc58CPOZ_41.914950_-70.554525@1303262226"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3142a05363103c9a8679a48890e",
+      "sg:id": "SG_4iJplH4gCHJbNdfc58CPOZ_41.914950_-70.554525@1303262226"
     },
-    "wof:country":"US",
-    "wof:created":1461741143,
-    "wof:geomhash":"7a0af8dbd429fdd16e7e574b71c0afbc",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "neighbourhood_id":85832139,
-            "region_id":85688645,
-            "venue_id":689158655
-        }
+    "wof:country": "US",
+    "wof:created": 1461741143,
+    "wof:geomhash": "b60f9a407eacd65c76b36522dac15b5a",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "neighbourhood_id": 85832139,
+        "region_id": 85688645,
+        "venue_id": 689158655
+      }
     ],
-    "wof:id":689158655,
-    "wof:lastmodified":1472625521,
-    "wof:name":"Lukes Liquors",
-    "wof:parent_id":85832139,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "store"
+    "wof:id": 689158655,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Lukes Liquors",
+    "wof:parent_id": 85832139,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "store"
     ]
-},
+  },
   "bbox": [
     -70.554525,
     41.91495,
     -70.554525,
     41.91495
-],
+  ],
   "geometry": {"coordinates":[-70.554525,41.91495],"type":"Point"}
 }

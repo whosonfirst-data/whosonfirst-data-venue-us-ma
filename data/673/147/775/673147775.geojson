@@ -2,81 +2,84 @@
   "id": 673147775,
   "type": "Feature",
   "properties": {
-    "addr:full":"135 W Central St Natick MA 01760",
-    "addr:housenumber":"135",
-    "addr:postcode":"01760",
-    "addr:street":"W Central St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.375809,42.282558,-71.375809,42.282558",
-    "geom:latitude":42.282558,
-    "geom:longitude":-71.375809,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"135 W Central St",
-    "sg:city":"Natick",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "135 W Central St Natick MA 01760",
+    "addr:housenumber": "135",
+    "addr:postcode": "01760",
+    "addr:street": "W Central St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.375809,42.282558,-71.375809,42.282558",
+    "geom:latitude": 42.282558,
+    "geom:longitude": -71.375809,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Pierce Collision Inc, 135 W Central St Natick MA US",
+    "ovtr:similarity": 1.9341139793395996,
+    "sg:address": "135 W Central St",
+    "sg:city": "Natick",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 653 8810",
-    "sg:postcode":"01760",
-    "sg:province":"MA",
-    "sg:tags":[
-        "body",
-        "painting",
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 653 8810",
+    "sg:postcode": "01760",
+    "sg:province": "MA",
+    "sg:tags": [
+      "body",
+      "painting",
+      "repairing",
+      "automobile"
     ],
-    "sg:website":"http://www.piercecollision.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85855993,
-        102084643
+    "sg:website": "http://www.piercecollision.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85855993,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6HYgttpvc8glG2Fuf2CdM6_42.282558_-71.375809@1303262189"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306dd2f5aac036b796e5905e62d",
+      "sg:id": "SG_6HYgttpvc8glG2Fuf2CdM6_42.282558_-71.375809@1303262189"
     },
-    "wof:country":"US",
-    "wof:created":1461734753,
-    "wof:geomhash":"1c60e040f505c2735d0dd39a67f18253",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85855993,
-            "region_id":85688645,
-            "venue_id":673147775
-        }
+    "wof:country": "US",
+    "wof:created": 1461734753,
+    "wof:geomhash": "416587e6fcc7fc0e230267f96dc84c2b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85855993,
+        "region_id": 85688645,
+        "venue_id": 673147775
+      }
     ],
-    "wof:id":673147775,
-    "wof:lastmodified":1472625423,
-    "wof:name":"Pierce Collision Inc",
-    "wof:parent_id":85855993,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "painting",
-        "repairing",
-        "automobile"
+    "wof:id": 673147775,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Pierce Collision Inc",
+    "wof:parent_id": 85855993,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "painting",
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -71.375809,
     42.282558,
     -71.375809,
     42.282558
-],
+  ],
   "geometry": {"coordinates":[-71.375809,42.282558],"type":"Point"}
 }

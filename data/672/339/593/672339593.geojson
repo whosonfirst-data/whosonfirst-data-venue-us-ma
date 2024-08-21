@@ -2,74 +2,77 @@
   "id": 672339593,
   "type": "Feature",
   "properties": {
-    "addr:full":"25 N Main St Ipswich MA 01938",
-    "addr:housenumber":"25",
-    "addr:postcode":"01938",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.836326,42.680723,-70.836326,42.680723",
-    "geom:latitude":42.680723,
-    "geom:longitude":-70.836326,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"25 N Main St",
-    "sg:city":"Ipswich",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "25 N Main St Ipswich MA 01938",
+    "addr:housenumber": "25",
+    "addr:postcode": "01938",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.836326,42.680723,-70.836326,42.680723",
+    "geom:latitude": 42.680723,
+    "geom:longitude": -70.836326,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Ipswich Public Library, 25 N Main St Ipswich MA US",
+    "ovtr:similarity": 3.500736951828003,
+    "sg:address": "25 N Main St",
+    "sg:city": "Ipswich",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 356 6648",
-    "sg:postcode":"01938",
-    "sg:province":"MA",
-    "sg:tags":[
-        "executive"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 356 6648",
+    "sg:postcode": "01938",
+    "sg:province": "MA",
+    "sg:tags": [
+      "executive"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85836261,
-        102084463
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85836261,
+      102084463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0g6FCHmxu7zMwrAqEGYAGE_42.680723_-70.836326@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3001d6d801a03dad9c17eb0b506",
+      "sg:id": "SG_0g6FCHmxu7zMwrAqEGYAGE_42.680723_-70.836326@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461716481,
-    "wof:geomhash":"ea3e53dab8e0dd298903b8cebe5b3431",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85836261,
-            "region_id":85688645,
-            "venue_id":672339593
-        }
+    "wof:country": "US",
+    "wof:created": 1461716481,
+    "wof:geomhash": "e4f259a90799c99c36796a13c284966c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "neighbourhood_id": 85836261,
+        "region_id": 85688645,
+        "venue_id": 672339593
+      }
     ],
-    "wof:id":672339593,
-    "wof:lastmodified":1472625580,
-    "wof:name":"Ipswich Public Library",
-    "wof:parent_id":85836261,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "executive"
+    "wof:id": 672339593,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Ipswich Public Library",
+    "wof:parent_id": 85836261,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "executive"
     ]
-},
+  },
   "bbox": [
     -70.836326,
     42.680723,
     -70.836326,
     42.680723
-],
+  ],
   "geometry": {"coordinates":[-70.836326,42.680723],"type":"Point"}
 }

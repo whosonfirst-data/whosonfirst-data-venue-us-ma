@@ -2,81 +2,84 @@
   "id": 672612873,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 Condor St Boston MA 02128",
-    "addr:housenumber":"101",
-    "addr:postcode":"02128",
-    "addr:street":"Condor St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.038043,42.382527,-71.038043,42.382527",
-    "geom:latitude":42.382527,
-    "geom:longitude":-71.038043,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 Condor St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "101 Condor St Boston MA 02128",
+    "addr:housenumber": "101",
+    "addr:postcode": "02128",
+    "addr:street": "Condor St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.038043,42.382527,-71.038043,42.382527",
+    "geom:latitude": 42.382527,
+    "geom:longitude": -71.038043,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Todisco Towing, 94 Condor St Boston MA US",
+    "ovtr:similarity": 3.35829496383667,
+    "sg:address": "101 Condor St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 567 0700",
-    "sg:postcode":"02128",
-    "sg:province":"MA",
-    "sg:tags":[
-        "wrecker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 567 0700",
+    "sg:postcode": "02128",
+    "sg:province": "MA",
+    "sg:tags": [
+      "wrecker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85815995,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85815995,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5CniijXFFFQcztlaka1SmK_42.382527_-71.038043@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30664a51b7003f957e82661794f",
+      "sg:id": "SG_5CniijXFFFQcztlaka1SmK_42.382527_-71.038043@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461722894,
-    "wof:geomhash":"fab8276882110e6c341104011e9e12f6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85815995,
-            "region_id":85688645,
-            "venue_id":672612873
-        }
+    "wof:country": "US",
+    "wof:created": 1461722894,
+    "wof:geomhash": "37afc56bc87a8a8ae360cccfd69ccad7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85815995,
+        "region_id": 85688645,
+        "venue_id": 672612873
+      }
     ],
-    "wof:id":672612873,
-    "wof:lastmodified":1489009789,
-    "wof:name":"Todisco's Towing",
-    "wof:parent_id":85815995,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wrecker"
+    "wof:id": 672612873,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Todisco's Towing",
+    "wof:parent_id": 85815995,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wrecker"
     ]
-},
+  },
   "bbox": [
     -71.038043,
     42.382527,
     -71.038043,
     42.382527
-],
+  ],
   "geometry": {"coordinates":[-71.038043,42.382527],"type":"Point"}
 }

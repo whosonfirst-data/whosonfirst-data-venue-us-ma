@@ -2,78 +2,81 @@
   "id": 672702037,
   "type": "Feature",
   "properties": {
-    "addr:full":"300 East St Pittsfield MA 01201",
-    "addr:housenumber":"300",
-    "addr:postcode":"01201",
-    "addr:street":"East St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.247353,42.447321,-73.247353,42.447321",
-    "geom:latitude":42.447321,
-    "geom:longitude":-73.247353,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"300 East St",
-    "sg:city":"Pittsfield",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "300 East St Pittsfield MA 01201",
+    "addr:housenumber": "300",
+    "addr:postcode": "01201",
+    "addr:street": "East St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.247353,42.447321,-73.247353,42.447321",
+    "geom:latitude": 42.447321,
+    "geom:longitude": -73.247353,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Pittsfield High School, 300 East St Pittsfield MA US",
+    "ovtr:similarity": 3.8777120113372803,
+    "sg:address": "300 East St",
+    "sg:city": "Pittsfield",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 499 9535",
-    "sg:postcode":"01201",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85829545,
-        102191575,
-        404476123,
-        85633793,
-        85950325,
-        102084369,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 499 9535",
+    "sg:postcode": "01201",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85829545,
+      102191575,
+      404476123,
+      85633793,
+      85950325,
+      102084369,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":29687496,
-        "sg:id":"SG_3jA3RIwsTk8nJ9Yh53HA5u_42.447321_-73.247353@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 29687496,
+      "ovtr:id": "08f2b89a51c4556903a5b3fdb5d4e430",
+      "sg:id": "SG_3jA3RIwsTk8nJ9Yh53HA5u_42.447321_-73.247353@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461724906,
-    "wof:geomhash":"a97fa59eacccb41fd3672bfc73e7bc98",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084369,
-            "localadmin_id":404476123,
-            "locality_id":85950325,
-            "neighbourhood_id":85829545,
-            "region_id":85688645,
-            "venue_id":672702037
-        }
+    "wof:country": "US",
+    "wof:created": 1461724906,
+    "wof:geomhash": "a97fa59eacccb41fd3672bfc73e7bc98",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084369,
+        "localadmin_id": 404476123,
+        "locality_id": 85950325,
+        "neighbourhood_id": 85829545,
+        "region_id": 85688645,
+        "venue_id": 672702037
+      }
     ],
-    "wof:id":672702037,
-    "wof:lastmodified":1510943693,
-    "wof:name":"Pittsfield High School",
-    "wof:parent_id":85829545,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672702037,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Pittsfield High School",
+    "wof:parent_id": 85829545,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.247353,
     42.447321,
     -73.247353,
     42.447321
-],
+  ],
   "geometry": {"coordinates":[-73.247353,42.447321],"type":"Point"}
 }

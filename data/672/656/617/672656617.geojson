@@ -2,71 +2,74 @@
   "id": 672656617,
   "type": "Feature",
   "properties": {
-    "addr:full":"11 Industrial Dr Holden MA 01520",
-    "addr:housenumber":"11",
-    "addr:postcode":"01520",
-    "addr:street":"Industrial Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.843007,42.341585,-71.843007,42.341585",
-    "geom:latitude":42.341585,
-    "geom:longitude":-71.843007,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11 Industrial Dr",
-    "sg:city":"Holden",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "11 Industrial Dr Holden MA 01520",
+    "addr:housenumber": "11",
+    "addr:postcode": "01520",
+    "addr:street": "Industrial Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.843007,42.341585,-71.843007,42.341585",
+    "geom:latitude": 42.341585,
+    "geom:longitude": -71.843007,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Holden Veterinary Clinic, 11 Industrial Dr Holden MA US",
+    "ovtr:similarity": 3.474458932876587,
+    "sg:address": "11 Industrial Dr",
+    "sg:city": "Holden",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 829 6368",
-    "sg:postcode":"01520",
-    "sg:province":"MA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 829 6368",
+    "sg:postcode": "01520",
+    "sg:province": "MA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        420524085
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633793,
+      420524085
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7VricLSZ90O3BafQNiXCuc_42.341585_-71.843007@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33d90aebadb0302023dbd3d013f",
+      "sg:id": "SG_7VricLSZ90O3BafQNiXCuc_42.341585_-71.843007@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461723868,
-    "wof:geomhash":"b764b1239955b812f30ba88e0392109d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "neighbourhood_id":420524085,
-            "venue_id":672656617
-        }
+    "wof:country": "US",
+    "wof:created": 1461723868,
+    "wof:geomhash": "b764b1239955b812f30ba88e0392109d",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "neighbourhood_id": 420524085,
+        "venue_id": 672656617
+      }
     ],
-    "wof:id":672656617,
-    "wof:lastmodified":1492109390,
-    "wof:name":"Holden Veterinary Clinic",
-    "wof:parent_id":420524085,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 672656617,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Holden Veterinary Clinic",
+    "wof:parent_id": 420524085,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -71.843007,
     42.341585,
     -71.843007,
     42.341585
-],
+  ],
   "geometry": {"coordinates":[-71.843007,42.341585],"type":"Point"}
 }

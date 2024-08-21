@@ -2,56 +2,63 @@
   "id": 656375167,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 Dawson St New Bedford MA 02745",
-    "addr:housenumber":"120",
-    "addr:postcode":"02745",
-    "addr:street":"Dawson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.921852,41.680528,-70.921852,41.680528",
-    "geom:latitude":41.680528,
-    "geom:longitude":-70.921852,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"120 Dawson St",
-    "sg:city":"New Bedford",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "120 Dawson St New Bedford MA 02745",
+    "addr:housenumber": "120",
+    "addr:postcode": "02745",
+    "addr:street": "Dawson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.921852,41.680528,-70.921852,41.680528",
+    "geom:latitude": 41.680528,
+    "geom:longitude": -70.921852,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "New Bedford Credit Union, 120 Dawson St New Bedford MA US",
+    "ovtr:similarity": 2.765233039855957,
+    "sg:address": "120 Dawson St",
+    "sg:city": "New Bedford",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 998 9115",
-    "sg:postcode":"02745",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_58KdbsR4Mnm1slT0Rf1UhP_41.680528_-70.921852@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 998 9115",
+    "sg:postcode": "02745",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33b53503a0e030a7fc627459a9a",
+      "sg:id": "SG_58KdbsR4Mnm1slT0Rf1UhP_41.680528_-70.921852@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711488,
-    "wof:geomhash":"c0aa90f1001e6827921af40805bf5921",
-    "wof:hierarchy":[],
-    "wof:id":656375167,
-    "wof:lastmodified":1472624991,
-    "wof:name":"New Bedford Credit Union",
-    "wof:parent_id":420558431,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461711488,
+    "wof:geomhash": "f8b5a7186740aa7ef9f2ef2955ec06fd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 656375167
+      }
+    ],
+    "wof:id": 656375167,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "New Bedford Credit Union",
+    "wof:parent_id": 420558431,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.921852,
     41.680528,
     -70.921852,
     41.680528
-],
+  ],
   "geometry": {"coordinates":[-70.921852,41.680528],"type":"Point"}
 }

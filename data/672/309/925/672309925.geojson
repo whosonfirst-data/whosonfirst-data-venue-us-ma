@@ -2,79 +2,82 @@
   "id": 672309925,
   "type": "Feature",
   "properties": {
-    "addr:full":"30 Pleasant St Dunstable MA 01827",
-    "addr:housenumber":"30",
-    "addr:postcode":"01827",
-    "addr:street":"Pleasant St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.483989,42.67306,-71.483989,42.67306",
-    "geom:latitude":42.67306,
-    "geom:longitude":-71.483989,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"30 Pleasant St",
-    "sg:city":"Dunstable",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "30 Pleasant St Dunstable MA 01827",
+    "addr:housenumber": "30",
+    "addr:postcode": "01827",
+    "addr:street": "Pleasant St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.483989,42.673060,-71.483989,42.673060",
+    "geom:latitude": 42.67306,
+    "geom:longitude": -71.483989,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "West Auto Repair, 30 Pleasant St Dunstable MA US",
+    "ovtr:similarity": 2.580151081085205,
+    "sg:address": "30 Pleasant St",
+    "sg:city": "Dunstable",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 649 7036",
-    "sg:postcode":"01827",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 649 7036",
+    "sg:postcode": "01827",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        102191575,
-        404476485,
-        85633793,
-        102084643
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      102191575,
+      404476485,
+      85633793,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4DWAaxpLJPbT1X4p8a4f08_42.673060_-71.483989@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a304d98521600357463de172cb4f",
+      "sg:id": "SG_4DWAaxpLJPbT1X4p8a4f08_42.673060_-71.483989@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715799,
-    "wof:geomhash":"1a8c7d7ced4fb2470fb45d020a75c2e7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476485,
-            "region_id":85688645,
-            "venue_id":672309925
-        }
+    "wof:country": "US",
+    "wof:created": 1461715799,
+    "wof:geomhash": "1a8c7d7ced4fb2470fb45d020a75c2e7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476485,
+        "region_id": 85688645,
+        "venue_id": 672309925
+      }
     ],
-    "wof:id":672309925,
-    "wof:lastmodified":1492111315,
-    "wof:name":"West Auto Repair",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 672309925,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "West Auto Repair",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -71.483989,
     42.67306,
     -71.483989,
     42.67306
-],
-  "geometry": {"coordinates":[-71.48398899999999,42.67306],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.483989,42.67306],"type":"Point"}
 }

@@ -2,84 +2,87 @@
   "id": 673095245,
   "type": "Feature",
   "properties": {
-    "addr:full":"281 Franklin St Boston MA 02110",
-    "addr:housenumber":"281",
-    "addr:postcode":"02110",
-    "addr:street":"Franklin St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.053245,42.356899,-71.053245,42.356899",
-    "geom:latitude":42.356899,
-    "geom:longitude":-71.053245,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"281 Franklin St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "281 Franklin St Boston MA 02110",
+    "addr:housenumber": "281",
+    "addr:postcode": "02110",
+    "addr:street": "Franklin St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.053245,42.356899,-71.053245,42.356899",
+    "geom:latitude": 42.356899,
+    "geom:longitude": -71.053245,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Mediterranean Grill Boston, 281 Franklin St Boston MA US",
+    "ovtr:similarity": 3.1154589653015137,
+    "sg:address": "281 Franklin St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/boston/871-mediterranean-grill/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 338 4507",
-    "sg:postcode":"02110",
-    "sg:province":"MA",
-    "sg:tags":[
-        "mediterranean"
+    "sg:menulink": "http://www.allmenus.com/ma/boston/871-mediterranean-grill/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 338 4507",
+    "sg:postcode": "02110",
+    "sg:province": "MA",
+    "sg:tags": [
+      "mediterranean"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108711407,
-        85815133,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108711407,
+      85815133,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1hXHpUdSfFdfW47vfsvx2q_42.357155_-71.052819@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30661cf5931031ed0adde1ff304",
+      "sg:id": "SG_1hXHpUdSfFdfW47vfsvx2q_42.357155_-71.052819@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733663,
-    "wof:geomhash":"45caa7db591e2d58e3c59d54e9790640",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "microhood_id":1108711407,
-            "neighbourhood_id":85815133,
-            "region_id":85688645,
-            "venue_id":673095245
-        }
+    "wof:country": "US",
+    "wof:created": 1461733663,
+    "wof:geomhash": "a2fc3deedad404c6ff3b713aa87f3ed5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "microhood_id": 1108711407,
+        "neighbourhood_id": 85815133,
+        "region_id": 85688645,
+        "venue_id": 673095245
+      }
     ],
-    "wof:id":673095245,
-    "wof:lastmodified":1491264265,
-    "wof:name":"Mediterranean Grill",
-    "wof:parent_id":1108711407,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mediterranean"
+    "wof:id": 673095245,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Mediterranean Grill",
+    "wof:parent_id": 1108711407,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mediterranean"
     ]
-},
+  },
   "bbox": [
     -71.053245,
     42.356899,
     -71.053245,
     42.356899
-],
+  ],
   "geometry": {"coordinates":[-71.053245,42.356899],"type":"Point"}
 }

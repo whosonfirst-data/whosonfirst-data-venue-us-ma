@@ -2,75 +2,78 @@
   "id": 673185515,
   "type": "Feature",
   "properties": {
-    "addr:full":"741 Main St Winchester MA 01890",
-    "addr:housenumber":"741",
-    "addr:postcode":"01890",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.139137,42.457913,-71.139137,42.457913",
-    "geom:latitude":42.457913,
-    "geom:longitude":-71.139137,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"741 Main St",
-    "sg:city":"Winchester",
-    "sg:classifiers":[
-        {
-            "category":"Winery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "741 Main St Winchester MA 01890",
+    "addr:housenumber": "741",
+    "addr:postcode": "01890",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.139137,42.457913,-71.139137,42.457913",
+    "geom:latitude": 42.457913,
+    "geom:longitude": -71.139137,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Wine Country Winchester, 741 Main St Winchester MA US",
+    "ovtr:similarity": 3.4303829669952393,
+    "sg:address": "741 Main St",
+    "sg:city": "Winchester",
+    "sg:classifiers": [
+      {
+        "category": "Winery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 721 1045",
-    "sg:postcode":"01890",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85858139,
-        102191575,
-        404476467,
-        85633793,
-        85950665,
-        102084643,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 721 1045",
+    "sg:postcode": "01890",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85858139,
+      102191575,
+      404476467,
+      85633793,
+      85950665,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4517Z16jAyVQCZieSAI3kU_42.457913_-71.139137@1303262194"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3062c3ae15c038c0e699ffb2f82",
+      "sg:id": "SG_4517Z16jAyVQCZieSAI3kU_42.457913_-71.139137@1303262194"
     },
-    "wof:country":"US",
-    "wof:created":1461735536,
-    "wof:geomhash":"18dcb4734b8e533eb009530c644ea724",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476467,
-            "locality_id":85950665,
-            "neighbourhood_id":85858139,
-            "region_id":85688645,
-            "venue_id":673185515
-        }
+    "wof:country": "US",
+    "wof:created": 1461735536,
+    "wof:geomhash": "328e4aee1c4c9889abf665f059209e5d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476467,
+        "locality_id": 85950665,
+        "neighbourhood_id": 85858139,
+        "region_id": 85688645,
+        "venue_id": 673185515
+      }
     ],
-    "wof:id":673185515,
-    "wof:lastmodified":1472625519,
-    "wof:name":"Wine Country",
-    "wof:parent_id":85858139,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673185515,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Wine Country",
+    "wof:parent_id": 85858139,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.139137,
     42.457913,
     -71.139137,
     42.457913
-],
-  "geometry": {"coordinates":[-71.13913700000001,42.457913],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.139137,42.457913],"type":"Point"}
 }

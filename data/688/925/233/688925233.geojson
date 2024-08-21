@@ -2,74 +2,77 @@
   "id": 688925233,
   "type": "Feature",
   "properties": {
-    "addr:full":"43 Lincoln St Manchester MA 01944",
-    "addr:housenumber":"43",
-    "addr:postcode":"01944",
-    "addr:street":"Lincoln St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.765373,42.580608,-70.765373,42.580608",
-    "geom:latitude":42.580608,
-    "geom:longitude":-70.765373,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"43 Lincoln St",
-    "sg:city":"Manchester",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "43 Lincoln St Manchester MA 01944",
+    "addr:housenumber": "43",
+    "addr:postcode": "01944",
+    "addr:street": "Lincoln St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.765373,42.580608,-70.765373,42.580608",
+    "geom:latitude": 42.580608,
+    "geom:longitude": -70.765373,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Manchester Memorial Elementary School, 43 Lincoln St Manchester MA US",
+    "ovtr:similarity": 3.5971789360046387,
+    "sg:address": "43 Lincoln St",
+    "sg:city": "Manchester",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 526 1908",
-    "sg:postcode":"01944",
-    "sg:province":"MA",
-    "sg:tags":[
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 526 1908",
+    "sg:postcode": "01944",
+    "sg:province": "MA",
+    "sg:tags": [
+      "elementary"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85855899,
-        102084463
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85855899,
+      102084463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4749AJcWGMx9qvUbKUkGyV_42.580608_-70.765373@1303262196"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3005e11606003988d9afd034647",
+      "sg:id": "SG_4749AJcWGMx9qvUbKUkGyV_42.580608_-70.765373@1303262196"
     },
-    "wof:country":"US",
-    "wof:created":1461735760,
-    "wof:geomhash":"fd6c3281c04cb0d31ac798d7b34c5325",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85855899,
-            "region_id":85688645,
-            "venue_id":688925233
-        }
+    "wof:country": "US",
+    "wof:created": 1461735760,
+    "wof:geomhash": "438c238d04d823d15031c4c960f4b93d",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "neighbourhood_id": 85855899,
+        "region_id": 85688645,
+        "venue_id": 688925233
+      }
     ],
-    "wof:id":688925233,
-    "wof:lastmodified":1472624991,
-    "wof:name":"Manchester Memorial Elementary School",
-    "wof:parent_id":85855899,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "elementary"
+    "wof:id": 688925233,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Manchester Memorial Elementary School",
+    "wof:parent_id": 85855899,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -70.765373,
     42.580608,
     -70.765373,
     42.580608
-],
+  ],
   "geometry": {"coordinates":[-70.765373,42.580608],"type":"Point"}
 }

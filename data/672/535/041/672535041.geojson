@@ -2,80 +2,83 @@
   "id": 672535041,
   "type": "Feature",
   "properties": {
-    "addr:full":"145 High St Newburyport MA 01950",
-    "addr:housenumber":"145",
-    "addr:postcode":"01950",
-    "addr:street":"High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.874512,42.808829,-70.874512,42.808829",
-    "geom:latitude":42.808829,
-    "geom:longitude":-70.874512,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"145 High St",
-    "sg:city":"Newburyport",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Court House",
-            "type":"Public Place"
-        }
+    "addr:full": "145 High St Newburyport MA 01950",
+    "addr:housenumber": "145",
+    "addr:postcode": "01950",
+    "addr:street": "High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.874512,42.808829,-70.874512,42.808829",
+    "geom:latitude": 42.808829,
+    "geom:longitude": -70.874512,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Essex County Superior Court, 145 High St Newburyport MA US",
+    "ovtr:similarity": 1.8970259428024292,
+    "sg:address": "145 High St",
+    "sg:city": "Newburyport",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Court House",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 462 4474",
-    "sg:postcode":"01950",
-    "sg:province":"MA",
-    "sg:tags":[
-        "county"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 462 4474",
+    "sg:postcode": "01950",
+    "sg:province": "MA",
+    "sg:tags": [
+      "county"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891457,
-        102191575,
-        404476251,
-        85633793,
-        85950409,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85891457,
+      102191575,
+      404476251,
+      85633793,
+      85950409,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5BYFJZ2YhT0Au5AWj5jtic_42.808829_-70.874512@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3018880224a031b4c300a6a4a33",
+      "sg:id": "SG_5BYFJZ2YhT0Au5AWj5jtic_42.808829_-70.874512@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461721164,
-    "wof:geomhash":"eb5c31d4c2bf983eaf8e006ccea43a5e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476251,
-            "locality_id":85950409,
-            "neighbourhood_id":85891457,
-            "region_id":85688645,
-            "venue_id":672535041
-        }
+    "wof:country": "US",
+    "wof:created": 1461721164,
+    "wof:geomhash": "de6a14bfa6c2f60fa810613a70d1d28b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476251,
+        "locality_id": 85950409,
+        "neighbourhood_id": 85891457,
+        "region_id": 85688645,
+        "venue_id": 672535041
+      }
     ],
-    "wof:id":672535041,
-    "wof:lastmodified":1472625777,
-    "wof:name":"Essex County Superior Court",
-    "wof:parent_id":85891457,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "county"
+    "wof:id": 672535041,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Essex County Superior Court",
+    "wof:parent_id": 85891457,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "county"
     ]
-},
+  },
   "bbox": [
     -70.874512,
     42.808829,
     -70.874512,
     42.808829
-],
+  ],
   "geometry": {"coordinates":[-70.874512,42.808829],"type":"Point"}
 }

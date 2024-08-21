@@ -2,74 +2,77 @@
   "id": 672592127,
   "type": "Feature",
   "properties": {
-    "addr:full":"31 Railroad Ave South Hamilton MA 01982",
-    "addr:housenumber":"31",
-    "addr:postcode":"01982",
-    "addr:street":"Railroad Ave South",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.875087,42.610692,-70.875087,42.610692",
-    "geom:latitude":42.610692,
-    "geom:longitude":-70.875087,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"31 Railroad Ave",
-    "sg:city":"South Hamilton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "31 Railroad Ave South Hamilton MA 01982",
+    "addr:housenumber": "31",
+    "addr:postcode": "01982",
+    "addr:street": "Railroad Ave South",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.875087,42.610692,-70.875087,42.610692",
+    "geom:latitude": 42.610692,
+    "geom:longitude": -70.875087,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Hamilton Wenham Vet Clinic, 31 Railroad Ave South Hamilton MA US",
+    "ovtr:similarity": 2.5883469581604004,
+    "sg:address": "31 Railroad Ave",
+    "sg:city": "South Hamilton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 468 4408",
-    "sg:postcode":"01982",
-    "sg:province":"MA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 468 4408",
+    "sg:postcode": "01982",
+    "sg:province": "MA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85803695,
-        102084463
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85803695,
+      102084463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0iHe4lV1yXd8ZvT5q36wQK_42.610692_-70.875087@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a300c4a2b91803b86a988c067127",
+      "sg:id": "SG_0iHe4lV1yXd8ZvT5q36wQK_42.610692_-70.875087@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461722413,
-    "wof:geomhash":"16ee37582cd60f7a009f42862fdf64d8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85803695,
-            "region_id":85688645,
-            "venue_id":672592127
-        }
+    "wof:country": "US",
+    "wof:created": 1461722413,
+    "wof:geomhash": "9d8dc938f483add0be07239453434a01",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "neighbourhood_id": 85803695,
+        "region_id": 85688645,
+        "venue_id": 672592127
+      }
     ],
-    "wof:id":672592127,
-    "wof:lastmodified":1472625845,
-    "wof:name":"Hamilton Wenham Vet Clinic",
-    "wof:parent_id":85803695,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 672592127,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Hamilton Wenham Vet Clinic",
+    "wof:parent_id": 85803695,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -70.875087,
     42.610692,
     -70.875087,
     42.610692
-],
-  "geometry": {"coordinates":[-70.87508699999999,42.610692],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.875087,42.610692],"type":"Point"}
 }

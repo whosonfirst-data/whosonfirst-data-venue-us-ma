@@ -2,81 +2,84 @@
   "id": 688943843,
   "type": "Feature",
   "properties": {
-    "addr:full":"490 Plain St Marshfield MA 02050",
-    "addr:housenumber":"490",
-    "addr:postcode":"02050",
-    "addr:street":"Plain St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.735694,42.104605,-70.735694,42.104605",
-    "geom:latitude":42.104605,
-    "geom:longitude":-70.735694,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"490 Plain St",
-    "sg:city":"Marshfield",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "490 Plain St Marshfield MA 02050",
+    "addr:housenumber": "490",
+    "addr:postcode": "02050",
+    "addr:street": "Plain St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.735694,42.104605,-70.735694,42.104605",
+    "geom:latitude": 42.104605,
+    "geom:longitude": -70.735694,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Marshfield Animal Hospital, 490 Plain St Marshfield MA US",
+    "ovtr:similarity": 3.0719668865203857,
+    "sg:address": "490 Plain St",
+    "sg:city": "Marshfield",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 837 5005",
-    "sg:postcode":"02050",
-    "sg:province":"MA",
-    "sg:tags":[
-        "clinic",
-        "hospital",
-        "veterinarian",
-        "specialty"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 837 5005",
+    "sg:postcode": "02050",
+    "sg:province": "MA",
+    "sg:tags": [
+      "clinic",
+      "hospital",
+      "veterinarian",
+      "specialty"
     ],
-    "sg:website":"http://www.MarshfieldVet.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85850893,
-        102084367
+    "sg:website": "http://www.MarshfieldVet.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85850893,
+      102084367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Om2x3Mk5qsndQ2KpP5I6P_42.104605_-70.735694@1303262198"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a315b30ab10b03bf425a520674f2",
+      "sg:id": "SG_6Om2x3Mk5qsndQ2KpP5I6P_42.104605_-70.735694@1303262198"
     },
-    "wof:country":"US",
-    "wof:created":1461736122,
-    "wof:geomhash":"90995321f15d7a82e6d3f865fb669114",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "neighbourhood_id":85850893,
-            "region_id":85688645,
-            "venue_id":688943843
-        }
+    "wof:country": "US",
+    "wof:created": 1461736122,
+    "wof:geomhash": "842d181da7dd124652fbc00dda4d1c68",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "neighbourhood_id": 85850893,
+        "region_id": 85688645,
+        "venue_id": 688943843
+      }
     ],
-    "wof:id":688943843,
-    "wof:lastmodified":1472625111,
-    "wof:name":"Marshfield Animal Hospital",
-    "wof:parent_id":85850893,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic",
-        "hospital",
-        "veterinarian",
-        "specialty"
+    "wof:id": 688943843,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Marshfield Animal Hospital",
+    "wof:parent_id": 85850893,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic",
+      "hospital",
+      "veterinarian",
+      "specialty"
     ]
-},
+  },
   "bbox": [
     -70.735694,
     42.104605,
     -70.735694,
     42.104605
-],
+  ],
   "geometry": {"coordinates":[-70.735694,42.104605],"type":"Point"}
 }

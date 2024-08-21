@@ -2,85 +2,88 @@
   "id": 673080573,
   "type": "Feature",
   "properties": {
-    "addr:full":"4150 Washington St Roslindale MA 02131",
-    "addr:housenumber":"4150",
-    "addr:postcode":"02131",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.126198,42.288502,-71.126198,42.288502",
-    "geom:latitude":42.288502,
-    "geom:longitude":-71.126198,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4150 Washington St",
-    "sg:city":"Roslindale",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "4150 Washington St Roslindale MA 02131",
+    "addr:housenumber": "4150",
+    "addr:postcode": "02131",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.126198,42.288502,-71.126198,42.288502",
+    "geom:latitude": 42.288502,
+    "geom:longitude": -71.126198,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Ron's Automotive, 4150 Washington St Roslindale MA US",
+    "ovtr:similarity": 2.163311004638672,
+    "sg:address": "4150 Washington St",
+    "sg:city": "Roslindale",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 323 9725",
-    "sg:postcode":"02131",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 323 9725",
+    "sg:postcode": "02131",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108712125,
-        85846101,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108712125,
+      85846101,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Yo7YDZQrrhdSYLBgKyt2M_42.288269_-71.126124@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3064e3ac2400368b67948a531c9",
+      "sg:id": "SG_7Yo7YDZQrrhdSYLBgKyt2M_42.288269_-71.126124@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733365,
-    "wof:geomhash":"409a7cd6da505e1058a5e579db015037",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "microhood_id":1108712125,
-            "neighbourhood_id":85846101,
-            "region_id":85688645,
-            "venue_id":673080573
-        }
+    "wof:country": "US",
+    "wof:created": 1461733365,
+    "wof:geomhash": "4471e6257c2addebdfac2826f09cf4ab",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "microhood_id": 1108712125,
+        "neighbourhood_id": 85846101,
+        "region_id": 85688645,
+        "venue_id": 673080573
+      }
     ],
-    "wof:id":673080573,
-    "wof:lastmodified":1489012282,
-    "wof:name":"Ron's Automotive",
-    "wof:parent_id":1108712125,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 673080573,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Ron's Automotive",
+    "wof:parent_id": 1108712125,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -71.126198,
     42.288502,
     -71.126198,
     42.288502
-],
+  ],
   "geometry": {"coordinates":[-71.126198,42.288502],"type":"Point"}
 }

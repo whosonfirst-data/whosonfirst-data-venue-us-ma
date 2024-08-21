@@ -2,71 +2,78 @@
   "id": 673127995,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Charlton Rd Sturbridge MA 01566",
-    "addr:housenumber":"100",
-    "addr:postcode":"01566",
-    "addr:street":"Charlton Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.058666,42.127904,-72.058666,42.127904",
-    "geom:latitude":42.127904,
-    "geom:longitude":-72.058666,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"100 Charlton Rd",
-    "sg:city":"Sturbridge",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Mobile Phones",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "100 Charlton Rd Sturbridge MA 01566",
+    "addr:housenumber": "100",
+    "addr:postcode": "01566",
+    "addr:street": "Charlton Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.058666,42.127904,-72.058666,42.127904",
+    "geom:latitude": 42.127904,
+    "geom:longitude": -72.058666,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Walmart Sturbridge, 100 Charlton Rd Sturbridge MA US",
+    "ovtr:similarity": 3.6689670085906982,
+    "sg:address": "100 Charlton Rd",
+    "sg:city": "Sturbridge",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Mobile Phones",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 347 4993",
-    "sg:postcode":"01566",
-    "sg:province":"MA",
-    "sg:website":"walmart.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420575293,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4436886896,
-        "sg:id":"SG_7BYtSUJ2lC3rHdXIRx04hO_42.127904_-72.058666@1303262187"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 347 4993",
+    "sg:postcode": "01566",
+    "sg:province": "MA",
+    "sg:website": "walmart.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420575293,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4436886896,
+      "ovtr:id": "08f2a32249915c6a036f60c0c83d9098",
+      "sg:id": "SG_7BYtSUJ2lC3rHdXIRx04hO_42.127904_-72.058666@1303262187"
     },
-    "wof:country":"US",
-    "wof:created":1461734353,
-    "wof:geomhash":"3e93af9e405ce7d95a302c80687c2a6c",
-    "wof:hierarchy":[],
-    "wof:id":673127995,
-    "wof:lastmodified":1511319248,
-    "wof:name":"Walmart",
-    "wof:parent_id":85845279,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461734353,
+    "wof:geomhash": "3e93af9e405ce7d95a302c80687c2a6c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673127995
+      }
+    ],
+    "wof:id": 673127995,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Walmart",
+    "wof:parent_id": 85845279,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -72.058666,
     42.127904,
     -72.058666,
     42.127904
-],
+  ],
   "geometry": {"coordinates":[-72.058666,42.127904],"type":"Point"}
 }

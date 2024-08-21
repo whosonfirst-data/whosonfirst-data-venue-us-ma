@@ -2,85 +2,88 @@
   "id": 689213327,
   "type": "Feature",
   "properties": {
-    "addr:full":"220 S Main St Attleboro MA 02703",
-    "addr:housenumber":"220",
-    "addr:postcode":"02703",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.285103,41.935299,-71.285103,41.935299",
-    "geom:latitude":41.935299,
-    "geom:longitude":-71.285103,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"220 S Main St",
-    "sg:city":"Attleboro",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Supermarket",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "220 S Main St Attleboro MA 02703",
+    "addr:housenumber": "220",
+    "addr:postcode": "02703",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.285103,41.935299,-71.285103,41.935299",
+    "geom:latitude": 41.935299,
+    "geom:longitude": -71.285103,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Dairy Carousel, 220 S Main St Attleboro MA US",
+    "ovtr:similarity": 2.0472888946533203,
+    "sg:address": "220 S Main St",
+    "sg:city": "Attleboro",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Supermarket",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 222 2036",
-    "sg:postcode":"02703",
-    "sg:province":"MA",
-    "sg:tags":[
-        "super"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 222 2036",
+    "sg:postcode": "02703",
+    "sg:province": "MA",
+    "sg:tags": [
+      "super"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85814695,
-        102191575,
-        404476165,
-        85633793,
-        85950363,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85814695,
+      102191575,
+      404476165,
+      85633793,
+      85950363,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3U096T3xfwprqSOzueTfmR_41.935299_-71.285103@1303262234"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a338c27b000b03b8621ccb0bc0fe",
+      "sg:id": "SG_3U096T3xfwprqSOzueTfmR_41.935299_-71.285103@1303262234"
     },
-    "wof:country":"US",
-    "wof:created":1461742325,
-    "wof:geomhash":"1de4793704658e3619b85815ddd133cc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476165,
-            "locality_id":85950363,
-            "neighbourhood_id":85814695,
-            "region_id":85688645,
-            "venue_id":689213327
-        }
+    "wof:country": "US",
+    "wof:created": 1461742325,
+    "wof:geomhash": "32f3265a473a515ad859daa349611634",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476165,
+        "locality_id": 85950363,
+        "neighbourhood_id": 85814695,
+        "region_id": 85688645,
+        "venue_id": 689213327
+      }
     ],
-    "wof:id":689213327,
-    "wof:lastmodified":1472625606,
-    "wof:name":"Dairy Carousel",
-    "wof:parent_id":85814695,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "super"
+    "wof:id": 689213327,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Dairy Carousel",
+    "wof:parent_id": 85814695,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "super"
     ]
-},
+  },
   "bbox": [
     -71.285103,
     41.935299,
     -71.285103,
     41.935299
-],
-  "geometry": {"coordinates":[-71.28510300000001,41.935299],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.285103,41.935299],"type":"Point"}
 }

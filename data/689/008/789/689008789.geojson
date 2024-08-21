@@ -2,86 +2,89 @@
   "id": 689008789,
   "type": "Feature",
   "properties": {
-    "addr:full":"363 Hanover St Boston MA 02113",
-    "addr:housenumber":"363",
-    "addr:postcode":"02113",
-    "addr:street":"Hanover St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.053101,42.364899,-71.053101,42.364899",
-    "geom:latitude":42.364899,
-    "geom:longitude":-71.053101,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"363 Hanover St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "363 Hanover St Boston MA 02113",
+    "addr:housenumber": "363",
+    "addr:postcode": "02113",
+    "addr:street": "Hanover St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.053101,42.364899,-71.053101,42.364899",
+    "geom:latitude": 42.364899,
+    "geom:longitude": -71.053101,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Hanover Wine \u0026 Spirits, 363 Hanover St Boston MA US",
+    "ovtr:similarity": 3.4936180114746094,
+    "sg:address": "363 Hanover St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 723 3663",
-    "sg:postcode":"02113",
-    "sg:province":"MA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 723 3663",
+    "sg:postcode": "02113",
+    "sg:province": "MA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "sg:website":"www.hanoverwineandspirits.com/in...",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85837591,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "www.hanoverwineandspirits.com/in...",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85837591,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_61BwqDWsrzjagbYRozKLyr_42.364899_-71.053101@1303262206"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30660a0baa503c47ddec9bb60cb",
+      "sg:id": "SG_61BwqDWsrzjagbYRozKLyr_42.364899_-71.053101@1303262206"
     },
-    "wof:country":"US",
-    "wof:created":1461737443,
-    "wof:geomhash":"69e8bcde83df4779875922c74e9763f6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85837591,
-            "region_id":85688645,
-            "venue_id":689008789
-        }
+    "wof:country": "US",
+    "wof:created": 1461737443,
+    "wof:geomhash": "a501940f8e231628b9af4940d14d9f9f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85837591,
+        "region_id": 85688645,
+        "venue_id": 689008789
+      }
     ],
-    "wof:id":689008789,
-    "wof:lastmodified":1489003973,
-    "wof:name":"Hanover Wine & Liquor",
-    "wof:parent_id":85837591,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 689008789,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Hanover Wine \u0026 Liquor",
+    "wof:parent_id": 85837591,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -71.053101,
     42.364899,
     -71.053101,
     42.364899
-],
+  ],
   "geometry": {"coordinates":[-71.053101,42.364899],"type":"Point"}
 }

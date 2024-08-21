@@ -2,75 +2,78 @@
   "id": 673178349,
   "type": "Feature",
   "properties": {
-    "addr:full":"431 Main St Reading MA 01867",
-    "addr:housenumber":"431",
-    "addr:postcode":"01867",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.103155,42.519381,-71.103155,42.519381",
-    "geom:latitude":42.519381,
-    "geom:longitude":-71.103155,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"431 Main St",
-    "sg:city":"Reading",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "431 Main St Reading MA 01867",
+    "addr:housenumber": "431",
+    "addr:postcode": "01867",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.103155,42.519381,-71.103155,42.519381",
+    "geom:latitude": 42.519381,
+    "geom:longitude": -71.103155,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Reading Petroleum, 459 Main St Reading MA US",
+    "ovtr:similarity": 3.9576849937438965,
+    "sg:address": "431 Main St",
+    "sg:city": "Reading",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 944 9705",
-    "sg:postcode":"01867",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891485,
-        102191575,
-        404476415,
-        85633793,
-        85950649,
-        102084643,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 944 9705",
+    "sg:postcode": "01867",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85891485,
+      102191575,
+      404476415,
+      85633793,
+      85950649,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6M4ZIFOMKTFsiU2tLdsc3Q_42.519381_-71.103155@1303262193"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3070940a94b03148391923b8811",
+      "sg:id": "SG_6M4ZIFOMKTFsiU2tLdsc3Q_42.519381_-71.103155@1303262193"
     },
-    "wof:country":"US",
-    "wof:created":1461735402,
-    "wof:geomhash":"3eb39f61ceb18282ecd67c425e362344",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476415,
-            "locality_id":85950649,
-            "neighbourhood_id":85891485,
-            "region_id":85688645,
-            "venue_id":673178349
-        }
+    "wof:country": "US",
+    "wof:created": 1461735402,
+    "wof:geomhash": "4d310d9aba34013541810bc53f1c2bf3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476415,
+        "locality_id": 85950649,
+        "neighbourhood_id": 85891485,
+        "region_id": 85688645,
+        "venue_id": 673178349
+      }
     ],
-    "wof:id":673178349,
-    "wof:lastmodified":1472625504,
-    "wof:name":"Reading Petroleum",
-    "wof:parent_id":85891485,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673178349,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Reading Petroleum",
+    "wof:parent_id": 85891485,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.103155,
     42.519381,
     -71.103155,
     42.519381
-],
+  ],
   "geometry": {"coordinates":[-71.103155,42.519381],"type":"Point"}
 }

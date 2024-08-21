@@ -2,90 +2,93 @@
   "id": 673052907,
   "type": "Feature",
   "properties": {
-    "addr:full":"869 Sumner Ave Springfield MA 01108",
-    "addr:housenumber":"869",
-    "addr:postcode":"01108",
-    "addr:street":"Sumner Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.545295,42.088647,-72.545295,42.088647",
-    "geom:latitude":42.088647,
-    "geom:longitude":-72.545295,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"869 Sumner Ave",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Musical Instruments",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Education",
-            "subcategory":"Special Training",
-            "type":"Public Place"
-        }
+    "addr:full": "869 Sumner Ave Springfield MA 01108",
+    "addr:housenumber": "869",
+    "addr:postcode": "01108",
+    "addr:street": "Sumner Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.545295,42.088647,-72.545295,42.088647",
+    "geom:latitude": 42.088647,
+    "geom:longitude": -72.545295,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Springfield Conservatory of Music, 869 Sumner Ave Springfield MA US",
+    "ovtr:similarity": 2.749501943588257,
+    "sg:address": "869 Sumner Ave",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Musical Instruments",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Education",
+        "subcategory": "Special Training",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 733 2713",
-    "sg:postcode":"01108",
-    "sg:province":"MA",
-    "sg:tags":[
-        "instruction-vocal",
-        "instruction",
-        "music"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 733 2713",
+    "sg:postcode": "01108",
+    "sg:province": "MA",
+    "sg:tags": [
+      "instruction-vocal",
+      "instruction",
+      "music"
     ],
-    "sg:website":"http://www.springfieldconservatoryofmusic.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85852131,
-        102191575,
-        404476369,
-        85633793,
-        85950393,
-        102084627,
-        85688645
+    "sg:website": "http://www.springfieldconservatoryofmusic.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85852131,
+      102191575,
+      404476369,
+      85633793,
+      85950393,
+      102084627,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3G8zbn0Gq3Fl7myTYtKvVf_42.088488_-72.545418@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a148252308dc0386bbf9abc313f6",
+      "sg:id": "SG_3G8zbn0Gq3Fl7myTYtKvVf_42.088488_-72.545418@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732811,
-    "wof:geomhash":"6b6dbb6ce46ac70cef42ff4a016f84a6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084627,
-            "localadmin_id":404476369,
-            "locality_id":85950393,
-            "neighbourhood_id":85852131,
-            "region_id":85688645,
-            "venue_id":673052907
-        }
+    "wof:country": "US",
+    "wof:created": 1461732811,
+    "wof:geomhash": "8f02776c2676f81413567f24630427cd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "localadmin_id": 404476369,
+        "locality_id": 85950393,
+        "neighbourhood_id": 85852131,
+        "region_id": 85688645,
+        "venue_id": 673052907
+      }
     ],
-    "wof:id":673052907,
-    "wof:lastmodified":1472625177,
-    "wof:name":"Springfield Conservatory of Music",
-    "wof:parent_id":85852131,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction-vocal",
-        "instruction",
-        "music"
+    "wof:id": 673052907,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Springfield Conservatory of Music",
+    "wof:parent_id": 85852131,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction-vocal",
+      "instruction",
+      "music"
     ]
-},
+  },
   "bbox": [
     -72.545295,
     42.088647,
     -72.545295,
     42.088647
-],
+  ],
   "geometry": {"coordinates":[-72.545295,42.088647],"type":"Point"}
 }

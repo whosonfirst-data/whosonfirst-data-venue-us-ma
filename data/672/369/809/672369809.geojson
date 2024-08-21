@@ -2,84 +2,87 @@
   "id": 672369809,
   "type": "Feature",
   "properties": {
-    "addr:full":"1642 Pleasant St Fall River MA 02723",
-    "addr:housenumber":"1642",
-    "addr:postcode":"02723",
-    "addr:street":"Pleasant St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.13151,41.688516,-71.13151,41.688516",
-    "geom:latitude":41.688516,
-    "geom:longitude":-71.13151,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1642 Pleasant St",
-    "sg:city":"Fall River",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Food",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "1642 Pleasant St Fall River MA 02723",
+    "addr:housenumber": "1642",
+    "addr:postcode": "02723",
+    "addr:street": "Pleasant St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.131510,41.688516,-71.131510,41.688516",
+    "geom:latitude": 41.688516,
+    "geom:longitude": -71.13151,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "White Rose Bakery, 1642 Pleasant St Fall River MA US",
+    "ovtr:similarity": 2.46846604347229,
+    "sg:address": "1642 Pleasant St",
+    "sg:city": "Fall River",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Food",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 676 7673",
-    "sg:postcode":"02723",
-    "sg:province":"MA",
-    "sg:tags":[
-        "bakery",
-        "prod",
-        "cookie"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 676 7673",
+    "sg:postcode": "02723",
+    "sg:province": "MA",
+    "sg:tags": [
+      "bakery",
+      "prod",
+      "cookie"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85818859,
-        102191575,
-        404476177,
-        85633793,
-        85950371,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85818859,
+      102191575,
+      404476177,
+      85633793,
+      85950371,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_65NNbO93Xi5EqS6iiCgVlo_41.688516_-71.131510@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33a12aea899035b798a84d0aa7e",
+      "sg:id": "SG_65NNbO93Xi5EqS6iiCgVlo_41.688516_-71.131510@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461717201,
-    "wof:geomhash":"94addc0bca40236369b5a463fa0df94a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476177,
-            "locality_id":85950371,
-            "neighbourhood_id":85818859,
-            "region_id":85688645,
-            "venue_id":672369809
-        }
+    "wof:country": "US",
+    "wof:created": 1461717201,
+    "wof:geomhash": "a95f0bce41706acfaf3e9af554bed2fa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476177,
+        "locality_id": 85950371,
+        "neighbourhood_id": 85818859,
+        "region_id": 85688645,
+        "venue_id": 672369809
+      }
     ],
-    "wof:id":672369809,
-    "wof:lastmodified":1472625644,
-    "wof:name":"White Rose Bakery",
-    "wof:parent_id":85818859,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bakery",
-        "prod",
-        "cookie"
+    "wof:id": 672369809,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "White Rose Bakery",
+    "wof:parent_id": 85818859,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bakery",
+      "prod",
+      "cookie"
     ]
-},
+  },
   "bbox": [
     -71.13151,
     41.688516,
     -71.13151,
     41.688516
-],
-  "geometry": {"coordinates":[-71.13151000000001,41.688516],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.13151,41.688516],"type":"Point"}
 }

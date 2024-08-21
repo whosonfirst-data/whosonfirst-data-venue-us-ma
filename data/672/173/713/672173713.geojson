@@ -2,64 +2,71 @@
   "id": 672173713,
   "type": "Feature",
   "properties": {
-    "addr:full":"8 Town Hall Dr Princeton MA 01541",
-    "addr:housenumber":"8",
-    "addr:postcode":"01541",
-    "addr:street":"Town Hall Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.877503,42.44867,-71.877503,42.44867",
-    "geom:latitude":42.44867,
-    "geom:longitude":-71.877503,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"8 Town Hall Dr",
-    "sg:city":"Princeton",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "8 Town Hall Dr Princeton MA 01541",
+    "addr:housenumber": "8",
+    "addr:postcode": "01541",
+    "addr:street": "Town Hall Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.877503,42.448670,-71.877503,42.448670",
+    "geom:latitude": 42.44867,
+    "geom:longitude": -71.877503,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Princeton Fire Department, 8 Town Hall Dr Princeton MA US",
+    "ovtr:similarity": 3.757301092147827,
+    "sg:address": "8 Town Hall Dr",
+    "sg:city": "Princeton",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 464 2707",
-    "sg:postcode":"01541",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 464 2707",
+    "sg:postcode": "01541",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574749,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Su5OiB086jaS9TT3NHWZK_42.448670_-71.877503@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574749,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32ac02714f503b81b90248e34ad",
+      "sg:id": "SG_3Su5OiB086jaS9TT3NHWZK_42.448670_-71.877503@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461712979,
-    "wof:geomhash":"7083bc2110138caed3c964e442911909",
-    "wof:hierarchy":[],
-    "wof:id":672173713,
-    "wof:lastmodified":1511323146,
-    "wof:name":"Fire Dept",
-    "wof:parent_id":85843155,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461712979,
+    "wof:geomhash": "7083bc2110138caed3c964e442911909",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672173713
+      }
+    ],
+    "wof:id": 672173713,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Fire Dept",
+    "wof:parent_id": 85843155,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -71.877503,
     42.44867,
     -71.877503,
     42.44867
-],
+  ],
   "geometry": {"coordinates":[-71.877503,42.44867],"type":"Point"}
 }

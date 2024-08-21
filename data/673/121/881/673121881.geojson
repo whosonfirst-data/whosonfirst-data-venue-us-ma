@@ -2,82 +2,85 @@
   "id": 673121881,
   "type": "Feature",
   "properties": {
-    "addr:full":"12 Old Common Rd Lancaster MA 01523",
-    "addr:housenumber":"12",
-    "addr:postcode":"01523",
-    "addr:street":"Old Common Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.666256,42.443645,-71.666256,42.443645",
-    "geom:latitude":42.443645,
-    "geom:longitude":-71.666256,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12 Old Common Rd",
-    "sg:city":"Lancaster",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Travel",
-            "subcategory":"Bed & Breakfast",
-            "type":"Entertainment"
-        }
+    "addr:full": "12 Old Common Rd Lancaster MA 01523",
+    "addr:housenumber": "12",
+    "addr:postcode": "01523",
+    "addr:street": "Old Common Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.666256,42.443645,-71.666256,42.443645",
+    "geom:latitude": 42.443645,
+    "geom:longitude": -71.666256,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "College Town Inn, 12 Old Common Rd Lancaster MA US",
+    "ovtr:similarity": 2.5340259075164795,
+    "sg:address": "12 Old Common Rd",
+    "sg:city": "Lancaster",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Travel",
+        "subcategory": "Bed \u0026 Breakfast",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 368 7000",
-    "sg:postcode":"01523",
-    "sg:province":"MA",
-    "sg:tags":[
-        "inn",
-        "lodging"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 368 7000",
+    "sg:postcode": "01523",
+    "sg:province": "MA",
+    "sg:tags": [
+      "inn",
+      "lodging"
     ],
-    "sg:website":"http://www.collegetowninn.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85819423,
-        102084655
+    "sg:website": "http://www.collegetowninn.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85819423,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4C4c6KfVk3qqxSLHDsm2Zc_42.443645_-71.666256@1303262186"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32a4148914103d1442fa4045728",
+      "sg:id": "SG_4C4c6KfVk3qqxSLHDsm2Zc_42.443645_-71.666256@1303262186"
     },
-    "wof:country":"US",
-    "wof:created":1461734234,
-    "wof:geomhash":"bd8356af919446b4da9e55c6e17043b9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85819423,
-            "region_id":85688645,
-            "venue_id":673121881
-        }
+    "wof:country": "US",
+    "wof:created": 1461734234,
+    "wof:geomhash": "51e25699bb8bca089a3801f9c28dfbd4",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85819423,
+        "region_id": 85688645,
+        "venue_id": 673121881
+      }
     ],
-    "wof:id":673121881,
-    "wof:lastmodified":1472625378,
-    "wof:name":"College Town Inn",
-    "wof:parent_id":85819423,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "inn",
-        "lodging"
+    "wof:id": 673121881,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "College Town Inn",
+    "wof:parent_id": 85819423,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "inn",
+      "lodging"
     ]
-},
+  },
   "bbox": [
     -71.666256,
     42.443645,
     -71.666256,
     42.443645
-],
+  ],
   "geometry": {"coordinates":[-71.666256,42.443645],"type":"Point"}
 }

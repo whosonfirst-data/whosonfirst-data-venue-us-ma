@@ -2,88 +2,91 @@
   "id": 689171437,
   "type": "Feature",
   "properties": {
-    "addr:full":"34 Philbrick Road Brookline MA 02445",
-    "addr:housenumber":"34",
-    "addr:postcode":"02445",
-    "addr:street":"Philbrick Road",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.12921,42.329738,-71.12921,42.329738",
-    "geom:latitude":42.329738,
-    "geom:longitude":-71.12921,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"34 Philbrick Road",
-    "sg:city":"Brookline",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "34 Philbrick Road Brookline MA 02445",
+    "addr:housenumber": "34",
+    "addr:postcode": "02445",
+    "addr:street": "Philbrick Road",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.129210,42.329738,-71.129210,42.329738",
+    "geom:latitude": 42.329738,
+    "geom:longitude": -71.12921,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Maimonides School, 34 Philbrick Rd Brookline MA US",
+    "ovtr:similarity": 2.2426021099090576,
+    "sg:address": "34 Philbrick Road",
+    "sg:city": "Brookline",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 232 4414",
-    "sg:postcode":"02445",
-    "sg:province":"MA",
-    "sg:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 232 4414",
+    "sg:postcode": "02445",
+    "sg:province": "MA",
+    "sg:tags": [
+      "high",
+      "middle",
+      "elementary"
     ],
-    "sg:website":"www.maimonides.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85876511,
-        102191575,
-        404476429,
-        85633793,
-        85950817,
-        102084403,
-        85688645
+    "sg:website": "www.maimonides.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85876511,
+      102191575,
+      404476429,
+      85633793,
+      85950817,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":312602864,
-        "sg:id":"SG_4rwekXtrCYp3kjLO3fVe3d_42.329738_-71.129210@1303262228"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 312602864,
+      "ovtr:id": "08f2a3064008d2480375cccbe3e4d7af",
+      "sg:id": "SG_4rwekXtrCYp3kjLO3fVe3d_42.329738_-71.129210@1303262228"
     },
-    "wof:country":"US",
-    "wof:created":1461741439,
-    "wof:geomhash":"d95881b2422818e2e91fb47c86c039ed",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476429,
-            "locality_id":85950817,
-            "neighbourhood_id":85876511,
-            "region_id":85688645,
-            "venue_id":689171437
-        }
+    "wof:country": "US",
+    "wof:created": 1461741439,
+    "wof:geomhash": "d95881b2422818e2e91fb47c86c039ed",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476429,
+        "locality_id": 85950817,
+        "neighbourhood_id": 85876511,
+        "region_id": 85688645,
+        "venue_id": 689171437
+      }
     ],
-    "wof:id":689171437,
-    "wof:lastmodified":1510941623,
-    "wof:name":"Maimonides School",
-    "wof:parent_id":85876511,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "wof:id": 689171437,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Maimonides School",
+    "wof:parent_id": 85876511,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "high",
+      "middle",
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -71.12921,
     42.329738,
     -71.12921,
     42.329738
-],
+  ],
   "geometry": {"coordinates":[-71.12921,42.329738],"type":"Point"}
 }

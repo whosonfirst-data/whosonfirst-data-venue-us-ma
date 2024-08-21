@@ -2,80 +2,83 @@
   "id": 672589913,
   "type": "Feature",
   "properties": {
-    "addr:full":"103 School St Salem MA 01970",
-    "addr:housenumber":"103",
-    "addr:postcode":"01970",
-    "addr:street":"School St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.908801,42.527228,-70.908801,42.527228",
-    "geom:latitude":42.527228,
-    "geom:longitude":-70.908801,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"103 School St",
-    "sg:city":"Salem",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "103 School St Salem MA 01970",
+    "addr:housenumber": "103",
+    "addr:postcode": "01970",
+    "addr:street": "School St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.908801,42.527228,-70.908801,42.527228",
+    "geom:latitude": 42.527228,
+    "geom:longitude": -70.908801,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Your Neighborhood Market, 103 School St Salem MA US",
+    "ovtr:similarity": 2.3667619228363037,
+    "sg:address": "103 School St",
+    "sg:city": "Salem",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 741 0406",
-    "sg:postcode":"01970",
-    "sg:province":"MA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 741 0406",
+    "sg:postcode": "01970",
+    "sg:province": "MA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523453,
-        102191575,
-        404476213,
-        85633793,
-        85950403,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523453,
+      102191575,
+      404476213,
+      85633793,
+      85950403,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0njavgNDjvWwlMlurRaA4P_42.527228_-70.908801@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a300cbc1aace033582bb5559aa50",
+      "sg:id": "SG_0njavgNDjvWwlMlurRaA4P_42.527228_-70.908801@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461722362,
-    "wof:geomhash":"172f5b35f4e07ddaa9bf48013ed8d1bb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476213,
-            "locality_id":85950403,
-            "neighbourhood_id":420523453,
-            "region_id":85688645,
-            "venue_id":672589913
-        }
+    "wof:country": "US",
+    "wof:created": 1461722362,
+    "wof:geomhash": "bfea9f2d4b38565a3ce638fb2aca8aa8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476213,
+        "locality_id": 85950403,
+        "neighbourhood_id": 420523453,
+        "region_id": 85688645,
+        "venue_id": 672589913
+      }
     ],
-    "wof:id":672589913,
-    "wof:lastmodified":1472625844,
-    "wof:name":"Your Neighborhood Market",
-    "wof:parent_id":420523453,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 672589913,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Your Neighborhood Market",
+    "wof:parent_id": 420523453,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -70.908801,
     42.527228,
     -70.908801,
     42.527228
-],
+  ],
   "geometry": {"coordinates":[-70.908801,42.527228],"type":"Point"}
 }

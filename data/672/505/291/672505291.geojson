@@ -2,69 +2,72 @@
   "id": 672505291,
   "type": "Feature",
   "properties": {
-    "addr:full":"121 South St Plainville MA 02762",
-    "addr:housenumber":"121",
-    "addr:postcode":"02762",
-    "addr:street":"South St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.335913,42.00498,-71.335913,42.00498",
-    "geom:latitude":42.00498,
-    "geom:longitude":-71.335913,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"121 South St",
-    "sg:city":"Plainville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "121 South St Plainville MA 02762",
+    "addr:housenumber": "121",
+    "addr:postcode": "02762",
+    "addr:street": "South St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.335913,42.004980,-71.335913,42.004980",
+    "geom:latitude": 42.00498,
+    "geom:longitude": -71.335913,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Don's Diner Inc, 121 South St Plainville MA US",
+    "ovtr:similarity": 2.2119429111480713,
+    "sg:address": "121 South St",
+    "sg:city": "Plainville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 695 7036",
-    "sg:postcode":"02762",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85857773,
-        102084407
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 695 7036",
+    "sg:postcode": "02762",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85857773,
+      102084407
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1eujZd5BxMjRPd6ENQlx6b_42.004980_-71.335913@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a338882b4668035fb70082484cf4",
+      "sg:id": "SG_1eujZd5BxMjRPd6ENQlx6b_42.004980_-71.335913@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461720520,
-    "wof:geomhash":"166e61bab26aba5035c65b3a8de3db08",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084407,
-            "neighbourhood_id":85857773,
-            "region_id":85688645,
-            "venue_id":672505291
-        }
+    "wof:country": "US",
+    "wof:created": 1461720520,
+    "wof:geomhash": "55401e39ec122d4b9ca9832508b23284",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "neighbourhood_id": 85857773,
+        "region_id": 85688645,
+        "venue_id": 672505291
+      }
     ],
-    "wof:id":672505291,
-    "wof:lastmodified":1472625763,
-    "wof:name":"Don's Diner Inc",
-    "wof:parent_id":85857773,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672505291,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Don's Diner Inc",
+    "wof:parent_id": 85857773,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.335913,
     42.00498,
     -71.335913,
     42.00498
-],
-  "geometry": {"coordinates":[-71.33591300000001,42.00498],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.335913,42.00498],"type":"Point"}
 }

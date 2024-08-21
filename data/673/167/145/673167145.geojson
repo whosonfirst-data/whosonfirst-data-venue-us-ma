@@ -2,80 +2,83 @@
   "id": 673167145,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 Boston Rd Chelmsford MA 01824",
-    "addr:housenumber":"301",
-    "addr:postcode":"01824",
-    "addr:street":"Boston Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.333702,42.573399,-71.333702,42.573399",
-    "geom:latitude":42.573399,
-    "geom:longitude":-71.333702,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"301 Boston Rd",
-    "sg:city":"Chelmsford",
-    "sg:classifiers":[
-        {
-            "category":"Place Of Worship",
-            "subcategory":"Church",
-            "type":"Public Place"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Event Space",
-            "type":"Services"
-        }
+    "addr:full": "301 Boston Rd Chelmsford MA 01824",
+    "addr:housenumber": "301",
+    "addr:postcode": "01824",
+    "addr:street": "Boston Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.333702,42.573399,-71.333702,42.573399",
+    "geom:latitude": 42.573399,
+    "geom:longitude": -71.333702,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Immanuel Church (Chelmsford, MA), 301 Boston Rd Chelmsford MA US",
+    "ovtr:similarity": 3.671571969985962,
+    "sg:address": "301 Boston Rd",
+    "sg:city": "Chelmsford",
+    "sg:classifiers": [
+      {
+        "category": "Place Of Worship",
+        "subcategory": "Church",
+        "type": "Public Place"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Event Space",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 256 6463",
-    "sg:postcode":"01824",
-    "sg:province":"MA",
-    "sg:tags":[
-        "venue"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 256 6463",
+    "sg:postcode": "01824",
+    "sg:province": "MA",
+    "sg:tags": [
+      "venue"
     ],
-    "sg:website":"www.immanuelchurch.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85837157,
-        102084643
+    "sg:website": "www.immanuelchurch.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85837157,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_58jvx4aXkaKIXPOc2a4emq_42.573399_-71.333702@1303262192"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3078178836d03f4e475afd1bf04",
+      "sg:id": "SG_58jvx4aXkaKIXPOc2a4emq_42.573399_-71.333702@1303262192"
     },
-    "wof:country":"US",
-    "wof:created":1461735160,
-    "wof:geomhash":"8e10546fc1ea73ee74d91fbe9516bb6d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85837157,
-            "region_id":85688645,
-            "venue_id":673167145
-        }
+    "wof:country": "US",
+    "wof:created": 1461735160,
+    "wof:geomhash": "5fbfaf402f6ea633f99df6a60d572e30",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85837157,
+        "region_id": 85688645,
+        "venue_id": 673167145
+      }
     ],
-    "wof:id":673167145,
-    "wof:lastmodified":1472625449,
-    "wof:name":"Immanuel Church",
-    "wof:parent_id":85837157,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "venue"
+    "wof:id": 673167145,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Immanuel Church",
+    "wof:parent_id": 85837157,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "venue"
     ]
-},
+  },
   "bbox": [
     -71.333702,
     42.573399,
     -71.333702,
     42.573399
-],
+  ],
   "geometry": {"coordinates":[-71.333702,42.573399],"type":"Point"}
 }

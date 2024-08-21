@@ -2,86 +2,89 @@
   "id": 673140017,
   "type": "Feature",
   "properties": {
-    "addr:full":"186 Great Rd # 5 Bedford MA 01730",
-    "addr:housenumber":"186",
-    "addr:postcode":"01730",
-    "addr:street":"Great Rd # 5",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.272835,42.489803,-71.272835,42.489803",
-    "geom:latitude":42.489803,
-    "geom:longitude":-71.272835,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"186 Great Rd # 5",
-    "sg:city":"Bedford",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Barber",
-            "type":"Services"
-        }
+    "addr:full": "186 Great Rd # 5 Bedford MA 01730",
+    "addr:housenumber": "186",
+    "addr:postcode": "01730",
+    "addr:street": "Great Rd # 5",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.272835,42.489803,-71.272835,42.489803",
+    "geom:latitude": 42.489803,
+    "geom:longitude": -71.272835,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Supercuts, 186 Great Rd Bedford MA US",
+    "ovtr:similarity": 3.1949260234832764,
+    "sg:address": "186 Great Rd # 5",
+    "sg:city": "Bedford",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Barber",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 541 6759",
-    "sg:postcode":"01730",
-    "sg:province":"MA",
-    "sg:tags":[
-        "hair",
-        "accessory",
-        "stylist",
-        "supply"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 541 6759",
+    "sg:postcode": "01730",
+    "sg:province": "MA",
+    "sg:tags": [
+      "hair",
+      "accessory",
+      "stylist",
+      "supply"
     ],
-    "sg:website":"www.supercuts.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85805215,
-        102084643
+    "sg:website": "www.supercuts.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85805215,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6qrMCWXhojbvMM3qQQutOG_42.489803_-71.272835@1303262188"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306159827560368cec1c6156528",
+      "sg:id": "SG_6qrMCWXhojbvMM3qQQutOG_42.489803_-71.272835@1303262188"
     },
-    "wof:country":"US",
-    "wof:created":1461734594,
-    "wof:geomhash":"c707ce8d4c57dc6f73f9ff4b49d55a49",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85805215,
-            "region_id":85688645,
-            "venue_id":673140017
-        }
+    "wof:country": "US",
+    "wof:created": 1461734594,
+    "wof:geomhash": "1baa753b33309c6fb8ad2bbcb779ffa0",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85805215,
+        "region_id": 85688645,
+        "venue_id": 673140017
+      }
     ],
-    "wof:id":673140017,
-    "wof:lastmodified":1472625389,
-    "wof:name":"SuperCuts",
-    "wof:parent_id":85805215,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hair",
-        "accessory",
-        "stylist",
-        "supply"
+    "wof:id": 673140017,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "SuperCuts",
+    "wof:parent_id": 85805215,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hair",
+      "accessory",
+      "stylist",
+      "supply"
     ]
-},
+  },
   "bbox": [
     -71.272835,
     42.489803,
     -71.272835,
     42.489803
-],
+  ],
   "geometry": {"coordinates":[-71.272835,42.489803],"type":"Point"}
 }

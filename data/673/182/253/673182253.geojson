@@ -2,70 +2,73 @@
   "id": 673182253,
   "type": "Feature",
   "properties": {
-    "addr:full":"50 Main Street Westford MA 01886",
-    "addr:housenumber":"50",
-    "addr:postcode":"01886",
-    "addr:street":"Main Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.439596,42.581148,-71.439596,42.581148",
-    "geom:latitude":42.581148,
-    "geom:longitude":-71.439596,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"50 Main Street",
-    "sg:city":"Westford",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "50 Main Street Westford MA 01886",
+    "addr:housenumber": "50",
+    "addr:postcode": "01886",
+    "addr:street": "Main Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.439596,42.581148,-71.439596,42.581148",
+    "geom:latitude": 42.581148,
+    "geom:longitude": -71.439596,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "J. V. Fletcher Library, 50 Main St Westford MA US",
+    "ovtr:similarity": 3.6469879150390625,
+    "sg:address": "50 Main Street",
+    "sg:city": "Westford",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 692 5555",
-    "sg:postcode":"01886",
-    "sg:province":"MA",
-    "sg:website":"www.westford-ma.gov",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85856907,
-        102084643
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 692 5555",
+    "sg:postcode": "01886",
+    "sg:province": "MA",
+    "sg:website": "www.westford-ma.gov",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85856907,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0UKyfWu3PiDFN7sw3VyCBF_42.581148_-71.439596@1303262194"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32b6d83180803dab29d3a448867",
+      "sg:id": "SG_0UKyfWu3PiDFN7sw3VyCBF_42.581148_-71.439596@1303262194"
     },
-    "wof:country":"US",
-    "wof:created":1461735477,
-    "wof:geomhash":"38a0d74f52af2ea7ac470585fc1f5efa",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85856907,
-            "region_id":85688645,
-            "venue_id":673182253
-        }
+    "wof:country": "US",
+    "wof:created": 1461735477,
+    "wof:geomhash": "70894a6cb627203c6dd0893ac6423e3e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85856907,
+        "region_id": 85688645,
+        "venue_id": 673182253
+      }
     ],
-    "wof:id":673182253,
-    "wof:lastmodified":1472625509,
-    "wof:name":"JV Fletcher Library",
-    "wof:parent_id":85856907,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673182253,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "JV Fletcher Library",
+    "wof:parent_id": 85856907,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.439596,
     42.581148,
     -71.439596,
     42.581148
-],
-  "geometry": {"coordinates":[-71.43959599999999,42.581148],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.439596,42.581148],"type":"Point"}
 }

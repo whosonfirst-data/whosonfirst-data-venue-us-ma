@@ -2,82 +2,85 @@
   "id": 673066857,
   "type": "Feature",
   "properties": {
-    "addr:full":"357 N Main St Andover MA 01810",
-    "addr:housenumber":"357",
-    "addr:postcode":"01810",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.150952,42.672953,-71.150952,42.672953",
-    "geom:latitude":42.672953,
-    "geom:longitude":-71.150952,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"357 N Main St",
-    "sg:city":"Andover",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "357 N Main St Andover MA 01810",
+    "addr:housenumber": "357",
+    "addr:postcode": "01810",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.150952,42.672953,-71.150952,42.672953",
+    "geom:latitude": 42.672953,
+    "geom:longitude": -71.150952,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "John Anton's Cleaners, 357 N Main St Andover MA US",
+    "ovtr:similarity": 2.574105978012085,
+    "sg:address": "357 N Main St",
+    "sg:city": "Andover",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 475 0627",
-    "sg:postcode":"01810",
-    "sg:province":"MA",
-    "sg:tags":[
-        "cleaner",
-        "commercial"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 475 0627",
+    "sg:postcode": "01810",
+    "sg:province": "MA",
+    "sg:tags": [
+      "cleaner",
+      "commercial"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85848097,
-        102191575,
-        404476285,
-        85633793,
-        85950785,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85848097,
+      102191575,
+      404476285,
+      85633793,
+      85950785,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5NpaMOiTSsha00QzmDQ95h_42.672553_-71.150833@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a307361a1b7603762756d04ef8fc",
+      "sg:id": "SG_5NpaMOiTSsha00QzmDQ95h_42.672553_-71.150833@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733080,
-    "wof:geomhash":"8d7c3c0885d3874ca7f37f01282e3fcb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476285,
-            "locality_id":85950785,
-            "neighbourhood_id":85848097,
-            "region_id":85688645,
-            "venue_id":673066857
-        }
+    "wof:country": "US",
+    "wof:created": 1461733080,
+    "wof:geomhash": "927b7f51178fa6e9f5c9e9fa68e612a2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476285,
+        "locality_id": 85950785,
+        "neighbourhood_id": 85848097,
+        "region_id": 85688645,
+        "venue_id": 673066857
+      }
     ],
-    "wof:id":673066857,
-    "wof:lastmodified":1472625186,
-    "wof:name":"John Anton's Cleaners",
-    "wof:parent_id":85848097,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cleaner",
-        "commercial"
+    "wof:id": 673066857,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "John Anton's Cleaners",
+    "wof:parent_id": 85848097,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cleaner",
+      "commercial"
     ]
-},
+  },
   "bbox": [
     -71.150952,
     42.672953,
     -71.150952,
     42.672953
-],
+  ],
   "geometry": {"coordinates":[-71.150952,42.672953],"type":"Point"}
 }

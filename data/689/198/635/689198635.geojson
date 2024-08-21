@@ -2,87 +2,90 @@
   "id": 689198635,
   "type": "Feature",
   "properties": {
-    "addr:full":"252 Main St Hyannis MA 02601",
-    "addr:housenumber":"252",
-    "addr:postcode":"02601",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.278893,41.655078,-70.278893,41.655078",
-    "geom:latitude":41.655078,
-    "geom:longitude":-70.278893,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"252 Main St",
-    "sg:city":"Hyannis",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "252 Main St Hyannis MA 02601",
+    "addr:housenumber": "252",
+    "addr:postcode": "02601",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.278893,41.655078,-70.278893,41.655078",
+    "geom:latitude": 41.655078,
+    "geom:longitude": -70.278893,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Mini Food Mart, 252 Main St Hyannis MA US",
+    "ovtr:similarity": 1.9423049688339233,
+    "sg:address": "252 Main St",
+    "sg:city": "Hyannis",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 771 1444",
-    "sg:postcode":"02601",
-    "sg:province":"MA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 771 1444",
+    "sg:postcode": "02601",
+    "sg:province": "MA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811889,
-        102191575,
-        404475893,
-        85633793,
-        85950321,
-        102084379,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811889,
+      102191575,
+      404475893,
+      85633793,
+      85950321,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":3572479607,
-        "sg:id":"SG_5KscZvFDKJsbcMei1gfSWJ_41.655078_-70.278893@1303262232"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 3572479607,
+      "ovtr:id": "08f2a3172dbae09503f8e758553468de",
+      "sg:id": "SG_5KscZvFDKJsbcMei1gfSWJ_41.655078_-70.278893@1303262232"
     },
-    "wof:country":"US",
-    "wof:created":1461742011,
-    "wof:geomhash":"30e6a70722a4e088f3654c7bb1c0977b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475893,
-            "locality_id":85950321,
-            "neighbourhood_id":85811889,
-            "region_id":85688645,
-            "venue_id":689198635
-        }
+    "wof:country": "US",
+    "wof:created": 1461742011,
+    "wof:geomhash": "30e6a70722a4e088f3654c7bb1c0977b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475893,
+        "locality_id": 85950321,
+        "neighbourhood_id": 85811889,
+        "region_id": 85688645,
+        "venue_id": 689198635
+      }
     ],
-    "wof:id":689198635,
-    "wof:lastmodified":1510942499,
-    "wof:name":"Mini Food Mart",
-    "wof:parent_id":85811889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 689198635,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Mini Food Mart",
+    "wof:parent_id": 85811889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -70.278893,
     41.655078,
     -70.278893,
     41.655078
-],
+  ],
   "geometry": {"coordinates":[-70.278893,41.655078],"type":"Point"}
 }

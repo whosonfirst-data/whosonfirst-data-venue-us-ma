@@ -2,57 +2,64 @@
   "id": 672348407,
   "type": "Feature",
   "properties": {
-    "addr:full":"569 Pittsfield Rd Lenox MA 01240",
-    "addr:housenumber":"569",
-    "addr:postcode":"01240",
-    "addr:street":"Pittsfield Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.264228,42.406956,-73.264228,42.406956",
-    "geom:latitude":42.406956,
-    "geom:longitude":-73.264228,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"569 Pittsfield Rd",
-    "sg:city":"Lenox",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "569 Pittsfield Rd Lenox MA 01240",
+    "addr:housenumber": "569",
+    "addr:postcode": "01240",
+    "addr:street": "Pittsfield Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.264228,42.406956,-73.264228,42.406956",
+    "geom:latitude": 42.406956,
+    "geom:longitude": -73.264228,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Luau Hale Restaurant, 365 Pittsfield Rd Lenox MA US",
+    "ovtr:similarity": 2.7085280418395996,
+    "sg:address": "569 Pittsfield Rd",
+    "sg:city": "Lenox",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 443 4745",
-    "sg:postcode":"01240",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0SIvTwwVVAQD6c1t2BsS5q_42.406956_-73.264228@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 443 4745",
+    "sg:postcode": "01240",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2b89a5aac0a1503e86fc0176967d1",
+      "sg:id": "SG_0SIvTwwVVAQD6c1t2BsS5q_42.406956_-73.264228@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461716712,
-    "wof:geomhash":"9b8538576916c59f554d52a712250673",
-    "wof:hierarchy":[],
-    "wof:id":672348407,
-    "wof:lastmodified":1492112459,
-    "wof:name":"Luau Hale Restaurant",
-    "wof:parent_id":85809107,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461716712,
+    "wof:geomhash": "9b8538576916c59f554d52a712250673",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672348407
+      }
+    ],
+    "wof:id": 672348407,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Luau Hale Restaurant",
+    "wof:parent_id": 85809107,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.264228,
     42.406956,
     -73.264228,
     42.406956
-],
+  ],
   "geometry": {"coordinates":[-73.264228,42.406956],"type":"Point"}
 }

@@ -2,70 +2,73 @@
   "id": 672218239,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Spring St Williamstown MA 01267",
-    "addr:housenumber":"100",
-    "addr:postcode":"01267",
-    "addr:street":"Spring St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-73.204543,42.709648,-73.204543,42.709648",
-    "geom:latitude":42.709648,
-    "geom:longitude":-73.204543,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"100 Spring St",
-    "sg:city":"Williamstown",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Hobbies, Toys, & Games",
-            "type":"Retail Goods"
-        }
+    "addr:full": "100 Spring St Williamstown MA 01267",
+    "addr:housenumber": "100",
+    "addr:postcode": "01267",
+    "addr:street": "Spring St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-73.204543,42.709648,-73.204543,42.709648",
+    "geom:latitude": 42.709648,
+    "geom:longitude": -73.204543,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Where'd You Get That Inc, 100 Spring St Williamstown MA US",
+    "ovtr:similarity": 3.39398193359375,
+    "sg:address": "100 Spring St",
+    "sg:city": "Williamstown",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Hobbies, Toys, \u0026 Games",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 458 2206",
-    "sg:postcode":"01267",
-    "sg:province":"MA",
-    "sg:website":"www.wygt.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85857459,
-        102084369
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 458 2206",
+    "sg:postcode": "01267",
+    "sg:province": "MA",
+    "sg:website": "www.wygt.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85857459,
+      102084369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1UTiHXlgqyxpH0Kwphbc3u_42.709648_-73.204543@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2b89b00411a18037265e8d0c85eb8",
+      "sg:id": "SG_1UTiHXlgqyxpH0Kwphbc3u_42.709648_-73.204543@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461713937,
-    "wof:geomhash":"b40931596a71b5f82acf92dc851bd503",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084369,
-            "neighbourhood_id":85857459,
-            "region_id":85688645,
-            "venue_id":672218239
-        }
+    "wof:country": "US",
+    "wof:created": 1461713937,
+    "wof:geomhash": "e298d6aa15d58c0327e75aae8f4a5894",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084369,
+        "neighbourhood_id": 85857459,
+        "region_id": 85688645,
+        "venue_id": 672218239
+      }
     ],
-    "wof:id":672218239,
-    "wof:lastmodified":1472625225,
-    "wof:name":"Where'd You Get That Inc",
-    "wof:parent_id":85857459,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672218239,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Where'd You Get That Inc",
+    "wof:parent_id": 85857459,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.204543,
     42.709648,
     -73.204543,
     42.709648
-],
+  ],
   "geometry": {"coordinates":[-73.204543,42.709648],"type":"Point"}
 }

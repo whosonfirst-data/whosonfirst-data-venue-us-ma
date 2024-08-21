@@ -2,80 +2,83 @@
   "id": 672978973,
   "type": "Feature",
   "properties": {
-    "addr:full":"585 Main St Hyannis MA 02601",
-    "addr:housenumber":"585",
-    "addr:postcode":"02601",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.290114,41.649486,-70.290114,41.649486",
-    "geom:latitude":41.649486,
-    "geom:longitude":-70.290114,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"585 Main St",
-    "sg:city":"Hyannis",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Gifts & Souvenirs",
-            "type":"Retail Goods"
-        }
+    "addr:full": "585 Main St Hyannis MA 02601",
+    "addr:housenumber": "585",
+    "addr:postcode": "02601",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.290114,41.649486,-70.290114,41.649486",
+    "geom:latitude": 41.649486,
+    "geom:longitude": -70.290114,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Port Cargo, 585 Main St Hyannis MA US",
+    "ovtr:similarity": 3.7087221145629883,
+    "sg:address": "585 Main St",
+    "sg:city": "Hyannis",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Gifts \u0026 Souvenirs",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 771 6700",
-    "sg:postcode":"02601",
-    "sg:province":"MA",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 771 6700",
+    "sg:postcode": "02601",
+    "sg:province": "MA",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811889,
-        102191575,
-        404475893,
-        85633793,
-        85950321,
-        102084379,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811889,
+      102191575,
+      404475893,
+      85633793,
+      85950321,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2kfJPKXEXdwGKadiCmM0D4_41.649486_-70.290114@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3172d38158003fd492588a9cff2",
+      "sg:id": "SG_2kfJPKXEXdwGKadiCmM0D4_41.649486_-70.290114@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461731008,
-    "wof:geomhash":"cf9ced43658cdec72cfbd825e04f275e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475893,
-            "locality_id":85950321,
-            "neighbourhood_id":85811889,
-            "region_id":85688645,
-            "venue_id":672978973
-        }
+    "wof:country": "US",
+    "wof:created": 1461731008,
+    "wof:geomhash": "d34f056a43812c1d35bb64567800ffd7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475893,
+        "locality_id": 85950321,
+        "neighbourhood_id": 85811889,
+        "region_id": 85688645,
+        "venue_id": 672978973
+      }
     ],
-    "wof:id":672978973,
-    "wof:lastmodified":1472626193,
-    "wof:name":"Port Cargo Intl",
-    "wof:parent_id":85811889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:id": 672978973,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Port Cargo Intl",
+    "wof:parent_id": 85811889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -70.290114,
     41.649486,
     -70.290114,
     41.649486
-],
+  ],
   "geometry": {"coordinates":[-70.290114,41.649486],"type":"Point"}
 }

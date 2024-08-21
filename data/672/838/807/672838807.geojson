@@ -2,76 +2,79 @@
   "id": 672838807,
   "type": "Feature",
   "properties": {
-    "addr:full":"30 Surfside Rd Nantucket MA 02554",
-    "addr:housenumber":"30",
-    "addr:postcode":"02554",
-    "addr:street":"Surfside Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.099822,41.268782,-70.099822,41.268782",
-    "geom:latitude":41.268782,
-    "geom:longitude":-70.099822,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"30 Surfside Rd",
-    "sg:city":"Nantucket",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "30 Surfside Rd Nantucket MA 02554",
+    "addr:housenumber": "30",
+    "addr:postcode": "02554",
+    "addr:street": "Surfside Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.099822,41.268782,-70.099822,41.268782",
+    "geom:latitude": 41.268782,
+    "geom:longitude": -70.099822,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Nantucket Elementary School, 30 Surfside Rd Nantucket MA US",
+    "ovtr:similarity": 3.0796380043029785,
+    "sg:address": "30 Surfside Rd",
+    "sg:city": "Nantucket",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 228 7290",
-    "sg:postcode":"02554",
-    "sg:province":"MA",
-    "sg:website":"www.nps.k12.ma.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85834819,
-        102191575,
-        404476421,
-        85633793,
-        85950503,
-        102084641,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 228 7290",
+    "sg:postcode": "02554",
+    "sg:province": "MA",
+    "sg:website": "www.nps.k12.ma.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85834819,
+      102191575,
+      404476421,
+      85633793,
+      85950503,
+      102084641,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0wjD4qqELu4lEvf31bwmlb_41.268782_-70.099822@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a312c390a4d003c865857833ffb1",
+      "sg:id": "SG_0wjD4qqELu4lEvf31bwmlb_41.268782_-70.099822@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461727770,
-    "wof:geomhash":"965941e848d93908bb6d82b019e8cf27",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084641,
-            "localadmin_id":404476421,
-            "locality_id":85950503,
-            "neighbourhood_id":85834819,
-            "region_id":85688645,
-            "venue_id":672838807
-        }
+    "wof:country": "US",
+    "wof:created": 1461727770,
+    "wof:geomhash": "20a339deb1129d07e2c3a51b591e9d7a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084641,
+        "localadmin_id": 404476421,
+        "locality_id": 85950503,
+        "neighbourhood_id": 85834819,
+        "region_id": 85688645,
+        "venue_id": 672838807
+      }
     ],
-    "wof:id":672838807,
-    "wof:lastmodified":1472626069,
-    "wof:name":"Nantucket Elementary School",
-    "wof:parent_id":85834819,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672838807,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Nantucket Elementary School",
+    "wof:parent_id": 85834819,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.099822,
     41.268782,
     -70.099822,
     41.268782
-],
+  ],
   "geometry": {"coordinates":[-70.099822,41.268782],"type":"Point"}
 }

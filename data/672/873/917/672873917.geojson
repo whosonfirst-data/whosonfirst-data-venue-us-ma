@@ -2,74 +2,77 @@
   "id": 672873917,
   "type": "Feature",
   "properties": {
-    "addr:full":"950 State Rd North Dartmouth MA 02747",
-    "addr:housenumber":"950",
-    "addr:postcode":"02747",
-    "addr:street":"State Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.042985,41.638651,-71.042985,41.638651",
-    "geom:latitude":41.638651,
-    "geom:longitude":-71.042985,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"950 State Rd",
-    "sg:city":"North Dartmouth",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"",
-            "type":"Services"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "950 State Rd North Dartmouth MA 02747",
+    "addr:housenumber": "950",
+    "addr:postcode": "02747",
+    "addr:street": "State Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.042985,41.638651,-71.042985,41.638651",
+    "geom:latitude": 41.638651,
+    "geom:longitude": -71.042985,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Rachel's Lakeside, 950 State Rd Dartmouth MA US",
+    "ovtr:similarity": 3.6336209774017334,
+    "sg:address": "950 State Rd",
+    "sg:city": "North Dartmouth",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "",
+        "type": "Services"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 636 4044",
-    "sg:postcode":"02747",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85857139,
-        102084407
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 636 4044",
+    "sg:postcode": "02747",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85857139,
+      102084407
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1dD9TKkqhnu8EE8vT817uQ_41.638651_-71.042985@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33a0e4183100322fac67814e398",
+      "sg:id": "SG_1dD9TKkqhnu8EE8vT817uQ_41.638651_-71.042985@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461728515,
-    "wof:geomhash":"68f51803a1bb3594630c1ca029a958b9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084407,
-            "neighbourhood_id":85857139,
-            "region_id":85688645,
-            "venue_id":672873917
-        }
+    "wof:country": "US",
+    "wof:created": 1461728515,
+    "wof:geomhash": "40fd5f8dee926865024e0bc299d9d0cc",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "neighbourhood_id": 85857139,
+        "region_id": 85688645,
+        "venue_id": 672873917
+      }
     ],
-    "wof:id":672873917,
-    "wof:lastmodified":1472626103,
-    "wof:name":"Rachel's Lakeside",
-    "wof:parent_id":85857139,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672873917,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Rachel's Lakeside",
+    "wof:parent_id": 85857139,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.042985,
     41.638651,
     -71.042985,
     41.638651
-],
+  ],
   "geometry": {"coordinates":[-71.042985,41.638651],"type":"Point"}
 }

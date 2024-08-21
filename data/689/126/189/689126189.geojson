@@ -2,82 +2,85 @@
   "id": 689126189,
   "type": "Feature",
   "properties": {
-    "addr:full":"310 Adams St Quincy MA 02169",
-    "addr:housenumber":"310",
-    "addr:postcode":"02169",
-    "addr:street":"Adams St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.017509,42.253043,-71.017509,42.253043",
-    "geom:latitude":42.253043,
-    "geom:longitude":-71.017509,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"310 Adams St",
-    "sg:city":"Quincy",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "310 Adams St Quincy MA 02169",
+    "addr:housenumber": "310",
+    "addr:postcode": "02169",
+    "addr:street": "Adams St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.017509,42.253043,-71.017509,42.253043",
+    "geom:latitude": 42.253043,
+    "geom:longitude": -71.017509,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Adams Montessori School, 310 Adams St Quincy MA US",
+    "ovtr:similarity": 3.3311760425567627,
+    "sg:address": "310 Adams St",
+    "sg:city": "Quincy",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 773 8200",
-    "sg:postcode":"02169",
-    "sg:province":"MA",
-    "sg:tags":[
-        "k-",
-        "private"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 773 8200",
+    "sg:postcode": "02169",
+    "sg:province": "MA",
+    "sg:tags": [
+      "k-",
+      "private"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85837519,
-        102191575,
-        404476591,
-        85633793,
-        85950429,
-        102084403,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85837519,
+      102191575,
+      404476591,
+      85633793,
+      85950429,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4NTXbGK4nmsH4ggbKWjmQe_42.253043_-71.017509@1303262222"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3393578e22e03e649704f42520f",
+      "sg:id": "SG_4NTXbGK4nmsH4ggbKWjmQe_42.253043_-71.017509@1303262222"
     },
-    "wof:country":"US",
-    "wof:created":1461739994,
-    "wof:geomhash":"b65e8a06019ffa239853e290e7a6c3a4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476591,
-            "locality_id":85950429,
-            "neighbourhood_id":85837519,
-            "region_id":85688645,
-            "venue_id":689126189
-        }
+    "wof:country": "US",
+    "wof:created": 1461739994,
+    "wof:geomhash": "9906e8656ea6771c69536d6cc09229e9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476591,
+        "locality_id": 85950429,
+        "neighbourhood_id": 85837519,
+        "region_id": 85688645,
+        "venue_id": 689126189
+      }
     ],
-    "wof:id":689126189,
-    "wof:lastmodified":1472625420,
-    "wof:name":"Adams Montessori School",
-    "wof:parent_id":85837519,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "k-",
-        "private"
+    "wof:id": 689126189,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Adams Montessori School",
+    "wof:parent_id": 85837519,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "k-",
+      "private"
     ]
-},
+  },
   "bbox": [
     -71.017509,
     42.253043,
     -71.017509,
     42.253043
-],
+  ],
   "geometry": {"coordinates":[-71.017509,42.253043],"type":"Point"}
 }

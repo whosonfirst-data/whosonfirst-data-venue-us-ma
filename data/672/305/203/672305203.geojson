@@ -2,82 +2,85 @@
   "id": 672305203,
   "type": "Feature",
   "properties": {
-    "addr:full":"52 Park St Hyannis MA 02601",
-    "addr:housenumber":"52",
-    "addr:postcode":"02601",
-    "addr:street":"Park St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.273382,41.654642,-70.273382,41.654642",
-    "geom:latitude":41.654642,
-    "geom:longitude":-70.273382,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"52 Park St",
-    "sg:city":"Hyannis",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "52 Park St Hyannis MA 02601",
+    "addr:housenumber": "52",
+    "addr:postcode": "02601",
+    "addr:street": "Park St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.273382,41.654642,-70.273382,41.654642",
+    "geom:latitude": 41.654642,
+    "geom:longitude": -70.273382,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Heart Center, 52 Park St Hyannis MA US",
+    "ovtr:similarity": 2.3522040843963623,
+    "sg:address": "52 Park St",
+    "sg:city": "Hyannis",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 771 4205",
-    "sg:postcode":"02601",
-    "sg:province":"MA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 771 4205",
+    "sg:postcode": "02601",
+    "sg:province": "MA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811889,
-        102191575,
-        404475893,
-        85633793,
-        85950321,
-        102084379,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811889,
+      102191575,
+      404475893,
+      85633793,
+      85950321,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3GMHb5lsHQE7fXo74HSgzF_41.654642_-70.273382@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a310de4c26c403abede4058542b9",
+      "sg:id": "SG_3GMHb5lsHQE7fXo74HSgzF_41.654642_-70.273382@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715704,
-    "wof:geomhash":"72da72faf8639dc20935fac1d6e702d9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475893,
-            "locality_id":85950321,
-            "neighbourhood_id":85811889,
-            "region_id":85688645,
-            "venue_id":672305203
-        }
+    "wof:country": "US",
+    "wof:created": 1461715704,
+    "wof:geomhash": "5a3bf629bff8775b4d4f83072d6ce548",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475893,
+        "locality_id": 85950321,
+        "neighbourhood_id": 85811889,
+        "region_id": 85688645,
+        "venue_id": 672305203
+      }
     ],
-    "wof:id":672305203,
-    "wof:lastmodified":1472625496,
-    "wof:name":"Heart Center",
-    "wof:parent_id":85811889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 672305203,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Heart Center",
+    "wof:parent_id": 85811889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -70.273382,
     41.654642,
     -70.273382,
     41.654642
-],
+  ],
   "geometry": {"coordinates":[-70.273382,41.654642],"type":"Point"}
 }

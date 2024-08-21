@@ -2,84 +2,87 @@
   "id": 672318943,
   "type": "Feature",
   "properties": {
-    "addr:full":"116 Uxbridge Rd Mendon MA 01756",
-    "addr:housenumber":"116",
-    "addr:postcode":"01756",
-    "addr:street":"Uxbridge Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.580333,42.095628,-71.580333,42.095628",
-    "geom:latitude":42.095628,
-    "geom:longitude":-71.580333,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"116 Uxbridge Rd",
-    "sg:city":"Mendon",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "116 Uxbridge Rd Mendon MA 01756",
+    "addr:housenumber": "116",
+    "addr:postcode": "01756",
+    "addr:street": "Uxbridge Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.580333,42.095628,-71.580333,42.095628",
+    "geom:latitude": 42.095628,
+    "geom:longitude": -71.580333,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "George's Surf \u0026 Turf, 116 Uxbridge Rd Mendon MA US",
+    "ovtr:similarity": 2.2278029918670654,
+    "sg:address": "116 Uxbridge Rd",
+    "sg:city": "Mendon",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 473 2125",
-    "sg:postcode":"01756",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85857429,
-        102191575,
-        404476653,
-        85633793,
-        85950727,
-        102084655,
-        85688645,
-        85810179
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 473 2125",
+    "sg:postcode": "01756",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85857429,
+      102191575,
+      404476653,
+      85633793,
+      85950727,
+      102084655,
+      85688645,
+      85810179
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5nmLGeptonEpn0z36tzidD_42.095628_-71.580333@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33c46c34ca6039117fa747a3c77",
+      "sg:id": "SG_5nmLGeptonEpn0z36tzidD_42.095628_-71.580333@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715985,
-    "wof:geomhash":"6d88a3abfef87f8ff5009690af6866f5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476653,
-            "locality_id":85950727,
-            "neighbourhood_id":85857429,
-            "region_id":85688645,
-            "venue_id":672318943
-        },
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85810179,
-            "region_id":85688645,
-            "venue_id":672318943
-        }
+    "wof:country": "US",
+    "wof:created": 1461715985,
+    "wof:geomhash": "6d88a3abfef87f8ff5009690af6866f5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "localadmin_id": 404476653,
+        "locality_id": 85950727,
+        "neighbourhood_id": 85857429,
+        "region_id": 85688645,
+        "venue_id": 672318943
+      },
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85810179,
+        "region_id": 85688645,
+        "venue_id": 672318943
+      }
     ],
-    "wof:id":672318943,
-    "wof:lastmodified":1492118160,
-    "wof:name":"George's Surf & Turf",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672318943,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "George's Surf \u0026 Turf",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.580333,
     42.095628,
     -71.580333,
     42.095628
-],
+  ],
   "geometry": {"coordinates":[-71.580333,42.095628],"type":"Point"}
 }

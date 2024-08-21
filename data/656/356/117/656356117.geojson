@@ -2,85 +2,88 @@
   "id": 656356117,
   "type": "Feature",
   "properties": {
-    "addr:full":"99 McMahon Rd Bedford MA 01730",
-    "addr:housenumber":"99",
-    "addr:postcode":"01730",
-    "addr:street":"Mcmahon Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.291513,42.489422,-71.291513,42.489422",
-    "geom:latitude":42.489422,
-    "geom:longitude":-71.291513,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"99 McMahon Rd",
-    "sg:city":"Bedford",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "99 McMahon Rd Bedford MA 01730",
+    "addr:housenumber": "99",
+    "addr:postcode": "01730",
+    "addr:street": "Mcmahon Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.291513,42.489422,-71.291513,42.489422",
+    "geom:latitude": 42.489422,
+    "geom:longitude": -71.291513,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "John Glenn Middle School, 99 McMahon Rd Bedford MA US",
+    "ovtr:similarity": 2.49808406829834,
+    "sg:address": "99 McMahon Rd",
+    "sg:city": "Bedford",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 275 3201",
-    "sg:postcode":"01730",
-    "sg:province":"MA",
-    "sg:website":"www.bedford.k12.ma.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85805215,
-        102084643,
-        85837771,
-        102191575,
-        404476393,
-        85950637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 275 3201",
+    "sg:postcode": "01730",
+    "sg:province": "MA",
+    "sg:website": "www.bedford.k12.ma.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85805215,
+      102084643,
+      85837771,
+      102191575,
+      404476393,
+      85950637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_45MzoGkKldGcu79DIw8m0f_42.489422_-71.291513@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30615524111038c91adeb119298",
+      "sg:id": "SG_45MzoGkKldGcu79DIw8m0f_42.489422_-71.291513@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711081,
-    "wof:geomhash":"783d4550db67e13056299ff0e1d5cc43",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85805215,
-            "region_id":85688645,
-            "venue_id":656356117
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476393,
-            "locality_id":85950637,
-            "neighbourhood_id":85837771,
-            "region_id":85688645,
-            "venue_id":656356117
-        }
+    "wof:country": "US",
+    "wof:created": 1461711081,
+    "wof:geomhash": "783d4550db67e13056299ff0e1d5cc43",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85805215,
+        "region_id": 85688645,
+        "venue_id": 656356117
+      },
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476393,
+        "locality_id": 85950637,
+        "neighbourhood_id": 85837771,
+        "region_id": 85688645,
+        "venue_id": 656356117
+      }
     ],
-    "wof:id":656356117,
-    "wof:lastmodified":1492101261,
-    "wof:name":"John Glenn Middle School",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 656356117,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "John Glenn Middle School",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.291513,
     42.489422,
     -71.291513,
     42.489422
-],
-  "geometry": {"coordinates":[-71.29151299999999,42.489422],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.291513,42.489422],"type":"Point"}
 }

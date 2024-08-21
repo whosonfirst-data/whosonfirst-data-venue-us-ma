@@ -2,72 +2,75 @@
   "id": 672308261,
   "type": "Feature",
   "properties": {
-    "addr:full":"195 Main St Swansea MA 02777",
-    "addr:housenumber":"195",
-    "addr:postcode":"02777",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.195297,41.749306,-71.195297,41.749306",
-    "geom:latitude":41.749306,
-    "geom:longitude":-71.195297,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"195 Main St",
-    "sg:city":"Swansea",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "195 Main St Swansea MA 02777",
+    "addr:housenumber": "195",
+    "addr:postcode": "02777",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.195297,41.749306,-71.195297,41.749306",
+    "geom:latitude": 41.749306,
+    "geom:longitude": -71.195297,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Joseph Case Junior High School, 195 Main St Swansea MA US",
+    "ovtr:similarity": 2.698046922683716,
+    "sg:address": "195 Main St",
+    "sg:city": "Swansea",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 675 0116",
-    "sg:postcode":"02777",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85851661,
-        102084407
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 675 0116",
+    "sg:postcode": "02777",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85851661,
+      102084407
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":309851979,
-        "sg:id":"SG_6GnxtPSkNtVQBtQcDvJwPU_41.749306_-71.195297@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 309851979,
+      "ovtr:id": "08f2a33b994454e5030c5413a86267f4",
+      "sg:id": "SG_6GnxtPSkNtVQBtQcDvJwPU_41.749306_-71.195297@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715765,
-    "wof:geomhash":"3af9bfa4850311a821ad171bb52688b9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084407,
-            "neighbourhood_id":85851661,
-            "region_id":85688645,
-            "venue_id":672308261
-        }
+    "wof:country": "US",
+    "wof:created": 1461715765,
+    "wof:geomhash": "3af9bfa4850311a821ad171bb52688b9",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "neighbourhood_id": 85851661,
+        "region_id": 85688645,
+        "venue_id": 672308261
+      }
     ],
-    "wof:id":672308261,
-    "wof:lastmodified":1510943725,
-    "wof:name":"Joseph Case Junior High School",
-    "wof:parent_id":85851661,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672308261,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Joseph Case Junior High School",
+    "wof:parent_id": 85851661,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.195297,
     41.749306,
     -71.195297,
     41.749306
-],
+  ],
   "geometry": {"coordinates":[-71.195297,41.749306],"type":"Point"}
 }

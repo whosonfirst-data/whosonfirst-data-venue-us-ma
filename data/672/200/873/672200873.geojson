@@ -2,56 +2,63 @@
   "id": 672200873,
   "type": "Feature",
   "properties": {
-    "addr:full":"2061 Acushnet Ave New Bedford MA 02745",
-    "addr:housenumber":"2061",
-    "addr:postcode":"02745",
-    "addr:street":"Acushnet Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.923494,41.677308,-70.923494,41.677308",
-    "geom:latitude":41.677308,
-    "geom:longitude":-70.923494,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2061 Acushnet Ave",
-    "sg:city":"New Bedford",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2061 Acushnet Ave New Bedford MA 02745",
+    "addr:housenumber": "2061",
+    "addr:postcode": "02745",
+    "addr:street": "Acushnet Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.923494,41.677308,-70.923494,41.677308",
+    "geom:latitude": 41.677308,
+    "geom:longitude": -70.923494,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Lucky Dragon Restaurant, 2061 Acushnet Ave New Bedford MA US",
+    "ovtr:similarity": 1.8791760206222534,
+    "sg:address": "2061 Acushnet Ave",
+    "sg:city": "New Bedford",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 985 0988",
-    "sg:postcode":"02745",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5BTh0woQEPFmJFKdC3WOSt_41.677308_-70.923494@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 985 0988",
+    "sg:postcode": "02745",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33b5340021403af77fc6dfcba59",
+      "sg:id": "SG_5BTh0woQEPFmJFKdC3WOSt_41.677308_-70.923494@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461713577,
-    "wof:geomhash":"325d80667b05cef459a4c114fffff668",
-    "wof:hierarchy":[],
-    "wof:id":672200873,
-    "wof:lastmodified":1472625183,
-    "wof:name":"Lucky Dragon Restaurant",
-    "wof:parent_id":420558431,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461713577,
+    "wof:geomhash": "3ef85bca30e61a125b4facf4737e5f70",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672200873
+      }
+    ],
+    "wof:id": 672200873,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Lucky Dragon Restaurant",
+    "wof:parent_id": 420558431,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.923494,
     41.677308,
     -70.923494,
     41.677308
-],
-  "geometry": {"coordinates":[-70.92349400000001,41.677308],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.923494,41.677308],"type":"Point"}
 }

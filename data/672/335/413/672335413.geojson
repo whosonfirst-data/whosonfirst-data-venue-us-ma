@@ -2,74 +2,77 @@
   "id": 672335413,
   "type": "Feature",
   "properties": {
-    "addr:full":"55 Cochituate Rd Framingham MA 01701",
-    "addr:housenumber":"55",
-    "addr:postcode":"01701",
-    "addr:street":"Cochituate Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.412755,42.298818,-71.412755,42.298818",
-    "geom:latitude":42.298818,
-    "geom:longitude":-71.412755,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"55 Cochituate Rd",
-    "sg:city":"Framingham",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "55 Cochituate Rd Framingham MA 01701",
+    "addr:housenumber": "55",
+    "addr:postcode": "01701",
+    "addr:street": "Cochituate Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.412755,42.298818,-71.412755,42.298818",
+    "geom:latitude": 42.298818,
+    "geom:longitude": -71.412755,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Royal Cleaners \u0026 Tailors, 55 Cochituate Rd Framingham MA US",
+    "ovtr:similarity": 2.1885299682617188,
+    "sg:address": "55 Cochituate Rd",
+    "sg:city": "Framingham",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 872 0088",
-    "sg:postcode":"01701",
-    "sg:province":"MA",
-    "sg:tags":[
-        "cleaners"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 872 0088",
+    "sg:postcode": "01701",
+    "sg:province": "MA",
+    "sg:tags": [
+      "cleaners"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85831225,
-        102084643
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85831225,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_64L4z1PSV7nceVR8G4h7LA_42.298818_-71.412755@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306d8cd20d803e0673daaf69b7f",
+      "sg:id": "SG_64L4z1PSV7nceVR8G4h7LA_42.298818_-71.412755@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461716348,
-    "wof:geomhash":"ee30e4d2ede897504dc6616f98853e37",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85831225,
-            "region_id":85688645,
-            "venue_id":672335413
-        }
+    "wof:country": "US",
+    "wof:created": 1461716348,
+    "wof:geomhash": "c526a6d43ac12ef1a25be63cad987b44",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85831225,
+        "region_id": 85688645,
+        "venue_id": 672335413
+      }
     ],
-    "wof:id":672335413,
-    "wof:lastmodified":1472625572,
-    "wof:name":"Royal Cleaners & Tailors",
-    "wof:parent_id":85831225,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cleaners"
+    "wof:id": 672335413,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Royal Cleaners \u0026 Tailors",
+    "wof:parent_id": 85831225,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cleaners"
     ]
-},
+  },
   "bbox": [
     -71.412755,
     42.298818,
     -71.412755,
     42.298818
-],
+  ],
   "geometry": {"coordinates":[-71.412755,42.298818],"type":"Point"}
 }

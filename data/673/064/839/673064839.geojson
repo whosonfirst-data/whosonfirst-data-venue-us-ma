@@ -2,83 +2,86 @@
   "id": 673064839,
   "type": "Feature",
   "properties": {
-    "addr:full":"37 Rogers St Cambridge MA 02142",
-    "addr:housenumber":"37",
-    "addr:postcode":"02142",
-    "addr:street":"Rogers St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.078794,42.365954,-71.078794,42.365954",
-    "geom:latitude":42.365954,
-    "geom:longitude":-71.078794,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"37 Rogers St",
-    "sg:city":"Cambridge",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Groceries",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "37 Rogers St Cambridge MA 02142",
+    "addr:housenumber": "37",
+    "addr:postcode": "02142",
+    "addr:street": "Rogers St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.078794,42.365954,-71.078794,42.365954",
+    "geom:latitude": 42.365954,
+    "geom:longitude": -71.078794,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Chang Shing Tofu Inc, 37 Rogers St Cambridge MA US",
+    "ovtr:similarity": 3.0076680183410645,
+    "sg:address": "37 Rogers St",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Groceries",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 868 8878",
-    "sg:postcode":"02142",
-    "sg:province":"MA",
-    "sg:tags":[
-        "food",
-        "product",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 868 8878",
+    "sg:postcode": "02142",
+    "sg:province": "MA",
+    "sg:tags": [
+      "food",
+      "product",
+      "store"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        102191575,
-        404476475,
-        85633793,
-        85950329,
-        102084643
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      102191575,
+      404476475,
+      85633793,
+      85950329,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5EyLOHiZU9Hah6ve7DUJ0W_42.366088_-71.078987@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30662b4536b031aa550277e33c1",
+      "sg:id": "SG_5EyLOHiZU9Hah6ve7DUJ0W_42.366088_-71.078987@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733042,
-    "wof:geomhash":"b9c2dc66c29a1d9a356d11ca811ee95a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476475,
-            "locality_id":85950329,
-            "region_id":85688645,
-            "venue_id":673064839
-        }
+    "wof:country": "US",
+    "wof:created": 1461733042,
+    "wof:geomhash": "b2c7a33577341a507801be966fcfd9ae",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476475,
+        "locality_id": 85950329,
+        "region_id": 85688645,
+        "venue_id": 673064839
+      }
     ],
-    "wof:id":673064839,
-    "wof:lastmodified":1491273596,
-    "wof:name":"Chang Shing Tofu, Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "food",
-        "product",
-        "store"
+    "wof:id": 673064839,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Chang Shing Tofu, Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "food",
+      "product",
+      "store"
     ]
-},
+  },
   "bbox": [
     -71.078794,
     42.365954,
     -71.078794,
     42.365954
-],
+  ],
   "geometry": {"coordinates":[-71.078794,42.365954],"type":"Point"}
 }

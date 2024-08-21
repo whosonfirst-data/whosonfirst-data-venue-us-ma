@@ -2,90 +2,93 @@
   "id": 688921361,
   "type": "Feature",
   "properties": {
-    "addr:full":"83 Bridge St Beverly MA 01915",
-    "addr:housenumber":"83",
-    "addr:postcode":"01915",
-    "addr:street":"Bridge St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.895737,42.550549,-70.895737,42.550549",
-    "geom:latitude":42.550549,
-    "geom:longitude":-70.895737,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"83 Bridge St",
-    "sg:city":"Beverly",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Automobile Sales",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "83 Bridge St Beverly MA 01915",
+    "addr:housenumber": "83",
+    "addr:postcode": "01915",
+    "addr:street": "Bridge St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.895737,42.550549,-70.895737,42.550549",
+    "geom:latitude": 42.550549,
+    "geom:longitude": -70.895737,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Bridge Street Automotive, 83 Bridge St Beverly MA US",
+    "ovtr:similarity": 2.817641019821167,
+    "sg:address": "83 Bridge St",
+    "sg:city": "Beverly",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Automobile Sales",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 921 9292",
-    "sg:postcode":"01915",
-    "sg:province":"MA",
-    "sg:tags":[
-        "car",
-        "used",
-        "diagnostic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 921 9292",
+    "sg:postcode": "01915",
+    "sg:province": "MA",
+    "sg:tags": [
+      "car",
+      "used",
+      "diagnostic"
     ],
-    "sg:website":"http://www.bridgestreetauto.net",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85844369,
-        102191575,
-        404476287,
-        85633793,
-        85950421,
-        102084463,
-        85688645
+    "sg:website": "http://www.bridgestreetauto.net",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85844369,
+      102191575,
+      404476287,
+      85633793,
+      85950421,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6gZqSDYRxCcS4toWbFt6sq_42.550549_-70.895737@1303262195"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a300ceaca071037c7535f9b9e001",
+      "sg:id": "SG_6gZqSDYRxCcS4toWbFt6sq_42.550549_-70.895737@1303262195"
     },
-    "wof:country":"US",
-    "wof:created":1461735682,
-    "wof:geomhash":"5920941193f63c239f18553f50c44a28",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476287,
-            "locality_id":85950421,
-            "neighbourhood_id":85844369,
-            "region_id":85688645,
-            "venue_id":688921361
-        }
+    "wof:country": "US",
+    "wof:created": 1461735682,
+    "wof:geomhash": "cfc7836e4786dff3f762016941454e65",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476287,
+        "locality_id": 85950421,
+        "neighbourhood_id": 85844369,
+        "region_id": 85688645,
+        "venue_id": 688921361
+      }
     ],
-    "wof:id":688921361,
-    "wof:lastmodified":1472624942,
-    "wof:name":"Bridge Street Automotive",
-    "wof:parent_id":85844369,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "car",
-        "used",
-        "diagnostic"
+    "wof:id": 688921361,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Bridge Street Automotive",
+    "wof:parent_id": 85844369,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "car",
+      "used",
+      "diagnostic"
     ]
-},
+  },
   "bbox": [
     -70.895737,
     42.550549,
     -70.895737,
     42.550549
-],
+  ],
   "geometry": {"coordinates":[-70.895737,42.550549],"type":"Point"}
 }

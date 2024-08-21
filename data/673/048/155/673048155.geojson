@@ -2,86 +2,89 @@
   "id": 673048155,
   "type": "Feature",
   "properties": {
-    "addr:full":"225 Elm St Somerville MA 02143",
-    "addr:housenumber":"225",
-    "addr:postcode":"02143",
-    "addr:street":"Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.121332,42.394581,-71.121332,42.394581",
-    "geom:latitude":42.394581,
-    "geom:longitude":-71.121332,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"225 Elm St",
-    "sg:city":"Somerville",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "225 Elm St Somerville MA 02143",
+    "addr:housenumber": "225",
+    "addr:postcode": "02143",
+    "addr:street": "Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.121332,42.394581,-71.121332,42.394581",
+    "geom:latitude": 42.394581,
+    "geom:longitude": -71.121332,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Downtown Wine \u0026 Spirits, 225 Elm St Somerville MA US",
+    "ovtr:similarity": 2.9002649784088135,
+    "sg:address": "225 Elm St",
+    "sg:city": "Somerville",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 625 7777",
-    "sg:postcode":"02143",
-    "sg:province":"MA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 625 7777",
+    "sg:postcode": "02143",
+    "sg:province": "MA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "sg:website":"www.downtownwineandspirits.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85850575,
-        102191575,
-        404476445,
-        85633793,
-        85950339,
-        102084643,
-        85688645
+    "sg:website": "www.downtownwineandspirits.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85850575,
+      102191575,
+      404476445,
+      85633793,
+      85950339,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2M0EgtnvTl1X6MWw2Z6hNG_42.394734_-71.121423@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3067424aaa503c82b3bbfebaccd",
+      "sg:id": "SG_2M0EgtnvTl1X6MWw2Z6hNG_42.394734_-71.121423@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732723,
-    "wof:geomhash":"934b70e27181ed04c9a9766ffc5eca2b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476445,
-            "locality_id":85950339,
-            "neighbourhood_id":85850575,
-            "region_id":85688645,
-            "venue_id":673048155
-        }
+    "wof:country": "US",
+    "wof:created": 1461732723,
+    "wof:geomhash": "82394e57b0a9c6396e00e792c4cfcb5f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476445,
+        "locality_id": 85950339,
+        "neighbourhood_id": 85850575,
+        "region_id": 85688645,
+        "venue_id": 673048155
+      }
     ],
-    "wof:id":673048155,
-    "wof:lastmodified":1489023693,
-    "wof:name":"Downtown Wines & Spirits",
-    "wof:parent_id":85850575,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 673048155,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Downtown Wines \u0026 Spirits",
+    "wof:parent_id": 85850575,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -71.121332,
     42.394581,
     -71.121332,
     42.394581
-],
+  ],
   "geometry": {"coordinates":[-71.121332,42.394581],"type":"Point"}
 }

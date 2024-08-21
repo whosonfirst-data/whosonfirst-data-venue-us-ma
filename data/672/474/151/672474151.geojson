@@ -2,80 +2,83 @@
   "id": 672474151,
   "type": "Feature",
   "properties": {
-    "addr:full":"1328 Blue Hill Ave Mattapan MA 02126",
-    "addr:housenumber":"1328",
-    "addr:postcode":"02126",
-    "addr:street":"Blue Hill Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.09325,42.278509,-71.09325,42.278509",
-    "geom:latitude":42.278509,
-    "geom:longitude":-71.09325,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1328 Blue Hill Ave",
-    "sg:city":"Mattapan",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "1328 Blue Hill Ave Mattapan MA 02126",
+    "addr:housenumber": "1328",
+    "addr:postcode": "02126",
+    "addr:street": "Blue Hill Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.093250,42.278509,-71.093250,42.278509",
+    "geom:latitude": 42.278509,
+    "geom:longitude": -71.09325,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Boulevard Cleansers, 1328 Blue Hill Ave Mattapan MA US",
+    "ovtr:similarity": 1.8616909980773926,
+    "sg:address": "1328 Blue Hill Ave",
+    "sg:city": "Mattapan",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 296 1809",
-    "sg:postcode":"02126",
-    "sg:province":"MA",
-    "sg:tags":[
-        "cleaners"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 296 1809",
+    "sg:postcode": "02126",
+    "sg:province": "MA",
+    "sg:tags": [
+      "cleaners"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85832891,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85832891,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5sCo1pRLxOW4U9mRdHUV1M_42.278509_-71.093250@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3064d4316ca03af7284de090c96",
+      "sg:id": "SG_5sCo1pRLxOW4U9mRdHUV1M_42.278509_-71.093250@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461719791,
-    "wof:geomhash":"6cf0af2f74af9ee8a1c5ad87c5436153",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85832891,
-            "region_id":85688645,
-            "venue_id":672474151
-        }
+    "wof:country": "US",
+    "wof:created": 1461719791,
+    "wof:geomhash": "8f45a0ae4b3f2de88236cd69392b876c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85832891,
+        "region_id": 85688645,
+        "venue_id": 672474151
+      }
     ],
-    "wof:id":672474151,
-    "wof:lastmodified":1472625731,
-    "wof:name":"Boulevard Cleansers",
-    "wof:parent_id":85832891,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cleaners"
+    "wof:id": 672474151,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Boulevard Cleansers",
+    "wof:parent_id": 85832891,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cleaners"
     ]
-},
+  },
   "bbox": [
     -71.09325,
     42.278509,
     -71.09325,
     42.278509
-],
+  ],
   "geometry": {"coordinates":[-71.09325,42.278509],"type":"Point"}
 }

@@ -2,73 +2,76 @@
   "id": 673057257,
   "type": "Feature",
   "properties": {
-    "addr:full":"230 Commercial St Provincetown MA 02657",
-    "addr:housenumber":"230",
-    "addr:postcode":"02657",
-    "addr:street":"Commercial St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.188222,42.04996,-70.188222,42.04996",
-    "geom:latitude":42.04996,
-    "geom:longitude":-70.188222,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"230 Commercial St",
-    "sg:city":"Provincetown",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "230 Commercial St Provincetown MA 02657",
+    "addr:housenumber": "230",
+    "addr:postcode": "02657",
+    "addr:street": "Commercial St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.188222,42.049960,-70.188222,42.049960",
+    "geom:latitude": 42.04996,
+    "geom:longitude": -70.188222,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Front Street Restaurant, 230 Commercial St Provincetown MA US",
+    "ovtr:similarity": 2.1586549282073975,
+    "sg:address": "230 Commercial St",
+    "sg:city": "Provincetown",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 487 9715",
-    "sg:postcode":"02657",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        102191575,
-        85633793,
-        85950587,
-        102084379,
-        85858505
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 487 9715",
+    "sg:postcode": "02657",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      102191575,
+      85633793,
+      85950587,
+      102084379,
+      85858505
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_43xWrxbcOdCBE0tkJZwpSJ_42.049732_-70.188450@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a31ce88520e503a038306c5549d4",
+      "sg:id": "SG_43xWrxbcOdCBE0tkJZwpSJ_42.049732_-70.188450@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732897,
-    "wof:geomhash":"fb691aae8e33fd7c5ef54b027e1cbf22",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "locality_id":85950587,
-            "neighbourhood_id":85858505,
-            "region_id":85688645,
-            "venue_id":673057257
-        }
+    "wof:country": "US",
+    "wof:created": 1461732897,
+    "wof:geomhash": "bfe66467b04256ee1537fa623ce6522e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "locality_id": 85950587,
+        "neighbourhood_id": 85858505,
+        "region_id": 85688645,
+        "venue_id": 673057257
+      }
     ],
-    "wof:id":673057257,
-    "wof:lastmodified":1472625129,
-    "wof:name":"Front Street Restaurant",
-    "wof:parent_id":85858505,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673057257,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Front Street Restaurant",
+    "wof:parent_id": 85858505,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.188222,
     42.04996,
     -70.188222,
     42.04996
-],
+  ],
   "geometry": {"coordinates":[-70.188222,42.04996],"type":"Point"}
 }

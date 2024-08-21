@@ -2,76 +2,79 @@
   "id": 673074447,
   "type": "Feature",
   "properties": {
-    "addr:full":"376 S Main St Sharon MA 02067",
-    "addr:housenumber":"376",
-    "addr:postcode":"02067",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.199097,42.108101,-71.199097,42.108101",
-    "geom:latitude":42.108101,
-    "geom:longitude":-71.199097,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"376 S Main St",
-    "sg:city":"Sharon",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "376 S Main St Sharon MA 02067",
+    "addr:housenumber": "376",
+    "addr:postcode": "02067",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.199097,42.108101,-71.199097,42.108101",
+    "geom:latitude": 42.108101,
+    "geom:longitude": -71.199097,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Pizza Market, 376 S Main St Sharon MA US",
+    "ovtr:similarity": 2.5789949893951416,
+    "sg:address": "376 S Main St",
+    "sg:city": "Sharon",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 784 2229",
-    "sg:postcode":"02067",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 784 2229",
+    "sg:postcode": "02067",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950843,
-        102084403,
-        85848019
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950843,
+      102084403,
+      85848019
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6TdnJIMxuDY6eG6mi1b37V_42.108139_-71.198582@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3381456ba8b03ca781273319de9",
+      "sg:id": "SG_6TdnJIMxuDY6eG6mi1b37V_42.108139_-71.198582@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733229,
-    "wof:geomhash":"f43f9b08d159d4b2acd32af10d61c170",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084403,
-            "locality_id":85950843,
-            "neighbourhood_id":85848019,
-            "region_id":85688645,
-            "venue_id":673074447
-        }
+    "wof:country": "US",
+    "wof:created": 1461733229,
+    "wof:geomhash": "f8d5628bf18a5cb73aa25dc116881a46",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "locality_id": 85950843,
+        "neighbourhood_id": 85848019,
+        "region_id": 85688645,
+        "venue_id": 673074447
+      }
     ],
-    "wof:id":673074447,
-    "wof:lastmodified":1472625167,
-    "wof:name":"Pizza Market",
-    "wof:parent_id":85848019,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 673074447,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Pizza Market",
+    "wof:parent_id": 85848019,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.199097,
     42.108101,
     -71.199097,
     42.108101
-],
-  "geometry": {"coordinates":[-71.19909699999999,42.108101],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.199097,42.108101],"type":"Point"}
 }

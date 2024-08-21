@@ -2,83 +2,86 @@
   "id": 673095293,
   "type": "Feature",
   "properties": {
-    "addr:full":"178 Kneeland St Boston MA 02111",
-    "addr:housenumber":"178",
-    "addr:postcode":"02111",
-    "addr:street":"Kneeland St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.057727,42.349685,-71.057727,42.349685",
-    "geom:latitude":42.349685,
-    "geom:longitude":-71.057727,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"178 Kneeland St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "178 Kneeland St Boston MA 02111",
+    "addr:housenumber": "178",
+    "addr:postcode": "02111",
+    "addr:street": "Kneeland St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.057727,42.349685,-71.057727,42.349685",
+    "geom:latitude": 42.349685,
+    "geom:longitude": -71.057727,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "South Street Diner, 178 Kneeland St Boston MA US",
+    "ovtr:similarity": 2.6127030849456787,
+    "sg:address": "178 Kneeland St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/boston/1232-south-street-diner/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 350 0028",
-    "sg:postcode":"02111",
-    "sg:province":"MA",
-    "sg:tags":[
-        "american",
-        "diner"
+    "sg:menulink": "http://www.allmenus.com/ma/boston/1232-south-street-diner/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 350 0028",
+    "sg:postcode": "02111",
+    "sg:province": "MA",
+    "sg:tags": [
+      "american",
+      "diner"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85869413,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85869413,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7XzTJpTsBZ9LRhHeA3S4DZ_42.349647_-71.057164@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30661441150035ebecaa92b1e89",
+      "sg:id": "SG_7XzTJpTsBZ9LRhHeA3S4DZ_42.349647_-71.057164@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733664,
-    "wof:geomhash":"1d724d3699ba36a536edc0c5ba47144b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85869413,
-            "region_id":85688645,
-            "venue_id":673095293
-        }
+    "wof:country": "US",
+    "wof:created": 1461733664,
+    "wof:geomhash": "c5a2c82115a1e0646b3662a835878198",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85869413,
+        "region_id": 85688645,
+        "venue_id": 673095293
+      }
     ],
-    "wof:id":673095293,
-    "wof:lastmodified":1472625269,
-    "wof:name":"South Street Diner",
-    "wof:parent_id":85869413,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "diner"
+    "wof:id": 673095293,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "South Street Diner",
+    "wof:parent_id": 85869413,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "diner"
     ]
-},
+  },
   "bbox": [
     -71.057727,
     42.349685,
     -71.057727,
     42.349685
-],
+  ],
   "geometry": {"coordinates":[-71.057727,42.349685],"type":"Point"}
 }

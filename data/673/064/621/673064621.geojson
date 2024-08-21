@@ -2,81 +2,84 @@
   "id": 673064621,
   "type": "Feature",
   "properties": {
-    "addr:full":"15 Fort Hill St Hingham MA 02043",
-    "addr:housenumber":"15",
-    "addr:postcode":"02043",
-    "addr:street":"Fort Hill St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.90321,42.236801,-70.90321,42.236801",
-    "geom:latitude":42.236801,
-    "geom:longitude":-70.90321,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"15 Fort Hill St",
-    "sg:city":"Hingham",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "15 Fort Hill St Hingham MA 02043",
+    "addr:housenumber": "15",
+    "addr:postcode": "02043",
+    "addr:street": "Fort Hill St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.903210,42.236801,-70.903210,42.236801",
+    "geom:latitude": 42.236801,
+    "geom:longitude": -70.90321,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Thomas Auto Body Shop Inc, 15 Fort Hill St Hingham MA US",
+    "ovtr:similarity": 1.856742024421692,
+    "sg:address": "15 Fort Hill St",
+    "sg:city": "Hingham",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 749 1010",
-    "sg:postcode":"02043",
-    "sg:province":"MA",
-    "sg:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 749 1010",
+    "sg:postcode": "02043",
+    "sg:province": "MA",
+    "sg:tags": [
+      "body",
+      "automobile",
+      "painting"
     ],
-    "sg:website":"http://www.thomasautobody.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950451,
-        102084367,
-        85855681
+    "sg:website": "http://www.thomasautobody.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950451,
+      102084367,
+      85855681
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Dz0EzYKJy3abDVm4yC8xc_42.236422_-70.903408@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a302d609ed4d0302b31f9cf9f5c9",
+      "sg:id": "SG_5Dz0EzYKJy3abDVm4yC8xc_42.236422_-70.903408@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733038,
-    "wof:geomhash":"4b1e099e29df055f25a10b9a34dc6d9a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "locality_id":85950451,
-            "neighbourhood_id":85855681,
-            "region_id":85688645,
-            "venue_id":673064621
-        }
+    "wof:country": "US",
+    "wof:created": 1461733038,
+    "wof:geomhash": "63a05b37f10a0914ed96946167fe30d8",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "locality_id": 85950451,
+        "neighbourhood_id": 85855681,
+        "region_id": 85688645,
+        "venue_id": 673064621
+      }
     ],
-    "wof:id":673064621,
-    "wof:lastmodified":1472625179,
-    "wof:name":"Thomas Auto Body Shop Inc.",
-    "wof:parent_id":85855681,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "wof:id": 673064621,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Thomas Auto Body Shop Inc.",
+    "wof:parent_id": 85855681,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "automobile",
+      "painting"
     ]
-},
+  },
   "bbox": [
     -70.90321,
     42.236801,
     -70.90321,
     42.236801
-],
+  ],
   "geometry": {"coordinates":[-70.90321,42.236801],"type":"Point"}
 }

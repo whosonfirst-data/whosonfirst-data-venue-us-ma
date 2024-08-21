@@ -2,62 +2,69 @@
   "id": 672425237,
   "type": "Feature",
   "properties": {
-    "addr:full":"6 Cedar St Sturbridge MA 01566",
-    "addr:housenumber":"6",
-    "addr:postcode":"01566",
-    "addr:street":"Cedar St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.097318,42.114941,-72.097318,42.114941",
-    "geom:latitude":42.114941,
-    "geom:longitude":-72.097318,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6 Cedar St",
-    "sg:city":"Sturbridge",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "6 Cedar St Sturbridge MA 01566",
+    "addr:housenumber": "6",
+    "addr:postcode": "01566",
+    "addr:street": "Cedar St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.097318,42.114941,-72.097318,42.114941",
+    "geom:latitude": 42.114941,
+    "geom:longitude": -72.097318,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Sturbridge Veterinary Hospital, 6 Cedar St Sturbridge MA US",
+    "ovtr:similarity": 3.2800650596618652,
+    "sg:address": "6 Cedar St",
+    "sg:city": "Sturbridge",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 347 7374",
-    "sg:postcode":"01566",
-    "sg:province":"MA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 347 7374",
+    "sg:postcode": "01566",
+    "sg:province": "MA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3sP1HJHsqVMVmxylSpjCMW_42.114941_-72.097318@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3224b31d328039f8d63c70a63f0",
+      "sg:id": "SG_3sP1HJHsqVMVmxylSpjCMW_42.114941_-72.097318@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461718537,
-    "wof:geomhash":"33f08f21b2f774049f676f0b2003f838",
-    "wof:hierarchy":[],
-    "wof:id":672425237,
-    "wof:lastmodified":1492113374,
-    "wof:name":"Sturbridge Veterinary Hospital",
-    "wof:parent_id":85845279,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461718537,
+    "wof:geomhash": "33f08f21b2f774049f676f0b2003f838",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672425237
+      }
+    ],
+    "wof:id": 672425237,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Sturbridge Veterinary Hospital",
+    "wof:parent_id": 85845279,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -72.097318,
     42.114941,
     -72.097318,
     42.114941
-],
+  ],
   "geometry": {"coordinates":[-72.097318,42.114941],"type":"Point"}
 }

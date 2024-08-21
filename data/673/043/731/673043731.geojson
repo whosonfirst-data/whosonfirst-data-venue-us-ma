@@ -2,82 +2,85 @@
   "id": 673043731,
   "type": "Feature",
   "properties": {
-    "addr:full":"920 Main St Winchester MA 01890",
-    "addr:housenumber":"920",
-    "addr:postcode":"01890",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.1427,42.462299,-71.1427,42.462299",
-    "geom:latitude":42.462299,
-    "geom:longitude":-71.1427,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"920 Main St",
-    "sg:city":"Winchester",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "920 Main St Winchester MA 01890",
+    "addr:housenumber": "920",
+    "addr:postcode": "01890",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.142700,42.462299,-71.142700,42.462299",
+    "geom:latitude": 42.462299,
+    "geom:longitude": -71.1427,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Gloria's Pizzeria, 920 Main St Winchester MA US",
+    "ovtr:similarity": 2.173888921737671,
+    "sg:address": "920 Main St",
+    "sg:city": "Winchester",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 729 8850",
-    "sg:postcode":"01890",
-    "sg:province":"MA",
-    "sg:tags":[
-        "delicatessen",
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 729 8850",
+    "sg:postcode": "01890",
+    "sg:province": "MA",
+    "sg:tags": [
+      "delicatessen",
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85858139,
-        102191575,
-        404476467,
-        85633793,
-        85950665,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85858139,
+      102191575,
+      404476467,
+      85633793,
+      85950665,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1uUUA976kKt4Yxe2zh01cz_42.462062_-71.142779@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3062c08c2260369c39913a636f9",
+      "sg:id": "SG_1uUUA976kKt4Yxe2zh01cz_42.462062_-71.142779@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732622,
-    "wof:geomhash":"65b3688ab27d677c93538900c2a45f01",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476467,
-            "locality_id":85950665,
-            "neighbourhood_id":85858139,
-            "region_id":85688645,
-            "venue_id":673043731
-        }
+    "wof:country": "US",
+    "wof:created": 1461732622,
+    "wof:geomhash": "bab6e27f61ea11312145b7f1a36d2a67",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476467,
+        "locality_id": 85950665,
+        "neighbourhood_id": 85858139,
+        "region_id": 85688645,
+        "venue_id": 673043731
+      }
     ],
-    "wof:id":673043731,
-    "wof:lastmodified":1472625109,
-    "wof:name":"Gloria's Pizzeria",
-    "wof:parent_id":85858139,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "delicatessen",
-        "pizza"
+    "wof:id": 673043731,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Gloria's Pizzeria",
+    "wof:parent_id": 85858139,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "delicatessen",
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.1427,
     42.462299,
     -71.1427,
     42.462299
-],
+  ],
   "geometry": {"coordinates":[-71.1427,42.462299],"type":"Point"}
 }

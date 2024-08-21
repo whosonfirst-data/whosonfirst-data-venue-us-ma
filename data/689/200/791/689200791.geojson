@@ -2,90 +2,93 @@
   "id": 689200791,
   "type": "Feature",
   "properties": {
-    "addr:full":"453 Main St Hyannis MA 02601",
-    "addr:housenumber":"453",
-    "addr:postcode":"02601",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.286013,41.651393,-70.286013,41.651393",
-    "geom:latitude":41.651393,
-    "geom:longitude":-70.286013,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"453 Main St",
-    "sg:city":"Hyannis",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "453 Main St Hyannis MA 02601",
+    "addr:housenumber": "453",
+    "addr:postcode": "02601",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.286013,41.651393,-70.286013,41.651393",
+    "geom:latitude": 41.651393,
+    "geom:longitude": -70.286013,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Embargo, 453 Main St Hyannis MA US",
+    "ovtr:similarity": 2.0082058906555176,
+    "sg:address": "453 Main St",
+    "sg:city": "Hyannis",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 771 9700",
-    "sg:postcode":"02601",
-    "sg:province":"MA",
-    "sg:tags":[
-        "tapa",
-        "sushi"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 771 9700",
+    "sg:postcode": "02601",
+    "sg:province": "MA",
+    "sg:tags": [
+      "tapa",
+      "sushi"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811889,
-        102191575,
-        404475893,
-        85633793,
-        85950321,
-        102084379,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811889,
+      102191575,
+      404475893,
+      85633793,
+      85950321,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4948004634,
-        "sg:id":"SG_6Y6JXuh9yRhxB45TwwZmKK_41.651393_-70.286013@1303262232"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4948004634,
+      "ovtr:id": "08f2a3172d0696b50312163cf35f9e33",
+      "sg:id": "SG_6Y6JXuh9yRhxB45TwwZmKK_41.651393_-70.286013@1303262232"
     },
-    "wof:country":"US",
-    "wof:created":1461742054,
-    "wof:geomhash":"06f435b9a33a8f4e65a54e1cc83055f0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475893,
-            "locality_id":85950321,
-            "neighbourhood_id":85811889,
-            "region_id":85688645,
-            "venue_id":689200791
-        }
+    "wof:country": "US",
+    "wof:created": 1461742054,
+    "wof:geomhash": "06f435b9a33a8f4e65a54e1cc83055f0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475893,
+        "locality_id": 85950321,
+        "neighbourhood_id": 85811889,
+        "region_id": 85688645,
+        "venue_id": 689200791
+      }
     ],
-    "wof:id":689200791,
-    "wof:lastmodified":1510942878,
-    "wof:name":"Embargo",
-    "wof:parent_id":85811889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "tapa",
-        "sushi"
+    "wof:id": 689200791,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Embargo",
+    "wof:parent_id": 85811889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tapa",
+      "sushi"
     ]
-},
+  },
   "bbox": [
     -70.286013,
     41.651393,
     -70.286013,
     41.651393
-],
+  ],
   "geometry": {"coordinates":[-70.286013,41.651393],"type":"Point"}
 }

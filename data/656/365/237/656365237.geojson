@@ -2,84 +2,87 @@
   "id": 656365237,
   "type": "Feature",
   "properties": {
-    "addr:full":"910 Plymouth St Bridgewater MA 02324",
-    "addr:housenumber":"910",
-    "addr:postcode":"02324",
-    "addr:street":"Plymouth St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.943449,41.990241,-70.943449,41.990241",
-    "geom:latitude":41.990241,
-    "geom:longitude":-70.943449,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"910 Plymouth St",
-    "sg:city":"Bridgewater",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "910 Plymouth St Bridgewater MA 02324",
+    "addr:housenumber": "910",
+    "addr:postcode": "02324",
+    "addr:street": "Plymouth St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.943449,41.990241,-70.943449,41.990241",
+    "geom:latitude": 41.990241,
+    "geom:longitude": -70.943449,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Chaffee's Collision, 942 Plymouth St Bridgewater MA US",
+    "ovtr:similarity": 3.8850440979003906,
+    "sg:address": "910 Plymouth St",
+    "sg:city": "Bridgewater",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 697 5388",
-    "sg:postcode":"02324",
-    "sg:province":"MA",
-    "sg:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 697 5388",
+    "sg:postcode": "02324",
+    "sg:province": "MA",
+    "sg:tags": [
+      "body",
+      "automobile",
+      "painting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85850909,
-        102191575,
-        404476501,
-        85633793,
-        85950443,
-        102084367,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85850909,
+      102191575,
+      404476501,
+      85633793,
+      85950443,
+      102084367,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3RzhkihvTj653Cqaj9okqp_41.990241_-70.943449@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33864aacd1503c0323952196be6",
+      "sg:id": "SG_3RzhkihvTj653Cqaj9okqp_41.990241_-70.943449@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711271,
-    "wof:geomhash":"79e8b4d81e0b46f2dfc9c3da0b2aec28",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476501,
-            "locality_id":85950443,
-            "neighbourhood_id":85850909,
-            "region_id":85688645,
-            "venue_id":656365237
-        }
+    "wof:country": "US",
+    "wof:created": 1461711271,
+    "wof:geomhash": "12309e74a53656186e03051308606eba",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476501,
+        "locality_id": 85950443,
+        "neighbourhood_id": 85850909,
+        "region_id": 85688645,
+        "venue_id": 656365237
+      }
     ],
-    "wof:id":656365237,
-    "wof:lastmodified":1472624941,
-    "wof:name":"Chaffee's Collision",
-    "wof:parent_id":85850909,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "wof:id": 656365237,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Chaffee's Collision",
+    "wof:parent_id": 85850909,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "automobile",
+      "painting"
     ]
-},
+  },
   "bbox": [
     -70.943449,
     41.990241,
     -70.943449,
     41.990241
-],
+  ],
   "geometry": {"coordinates":[-70.943449,41.990241],"type":"Point"}
 }

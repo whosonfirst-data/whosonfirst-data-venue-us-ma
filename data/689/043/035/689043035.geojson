@@ -2,87 +2,90 @@
   "id": 689043035,
   "type": "Feature",
   "properties": {
-    "addr:full":"1234 Columbus Avenue Roxbury Crossing MA 02120",
-    "addr:housenumber":"1234",
-    "addr:postcode":"02120",
-    "addr:street":"Columbus Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.097624,42.333594,-71.097624,42.333594",
-    "geom:latitude":42.333594,
-    "geom:longitude":-71.097624,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1234 Columbus Avenue",
-    "sg:city":"Roxbury Crossing",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Books",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Education",
-            "subcategory":"University",
-            "type":"Public Place"
-        }
+    "addr:full": "1234 Columbus Avenue Roxbury Crossing MA 02120",
+    "addr:housenumber": "1234",
+    "addr:postcode": "02120",
+    "addr:street": "Columbus Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.097624,42.333594,-71.097624,42.333594",
+    "geom:latitude": 42.333594,
+    "geom:longitude": -71.097624,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Roxbury Community College, 1234 Columbus Ave Roxbury Crossing MA US",
+    "ovtr:similarity": 2.477368116378784,
+    "sg:address": "1234 Columbus Avenue",
+    "sg:city": "Roxbury Crossing",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Books",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Education",
+        "subcategory": "University",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 427 0060",
-    "sg:postcode":"02120",
-    "sg:province":"MA",
-    "sg:tags":[
-        "bookstore",
-        "college"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 427 0060",
+    "sg:postcode": "02120",
+    "sg:province": "MA",
+    "sg:tags": [
+      "bookstore",
+      "college"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85869493,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85869493,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1zo8G3DUpZTtBJ6DVyt3zH_42.333594_-71.097624@1303262211"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30645050d5b034070e8eae30fa8",
+      "sg:id": "SG_1zo8G3DUpZTtBJ6DVyt3zH_42.333594_-71.097624@1303262211"
     },
-    "wof:country":"US",
-    "wof:created":1461738132,
-    "wof:geomhash":"69e012150c805b0c9f4f2feeff255781",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85869493,
-            "region_id":85688645,
-            "venue_id":689043035
-        }
+    "wof:country": "US",
+    "wof:created": 1461738132,
+    "wof:geomhash": "34d760ec72e0b65a70b01dcf97d97d7d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85869493,
+        "region_id": 85688645,
+        "venue_id": 689043035
+      }
     ],
-    "wof:id":689043035,
-    "wof:lastmodified":1472625120,
-    "wof:name":"Roxbury Community College",
-    "wof:parent_id":85869493,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bookstore",
-        "college"
+    "wof:id": 689043035,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Roxbury Community College",
+    "wof:parent_id": 85869493,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bookstore",
+      "college"
     ]
-},
+  },
   "bbox": [
     -71.097624,
     42.333594,
     -71.097624,
     42.333594
-],
+  ],
   "geometry": {"coordinates":[-71.097624,42.333594],"type":"Point"}
 }

@@ -2,89 +2,92 @@
   "id": 689022709,
   "type": "Feature",
   "properties": {
-    "addr:full":"66 Marlborough St Boston MA 02116",
-    "addr:housenumber":"66",
-    "addr:postcode":"02116",
-    "addr:street":"Marlborough St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.075614,42.353677,-71.075614,42.353677",
-    "geom:latitude":42.353677,
-    "geom:longitude":-71.075614,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"66 Marlborough St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Place Of Worship",
-            "subcategory":"",
-            "type":"Public Place"
-        },
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "66 Marlborough St Boston MA 02116",
+    "addr:housenumber": "66",
+    "addr:postcode": "02116",
+    "addr:street": "Marlborough St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.075614,42.353677,-71.075614,42.353677",
+    "geom:latitude": 42.353677,
+    "geom:longitude": -71.075614,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "First Church in Boston, 66 Marlborough St Boston MA US",
+    "ovtr:similarity": 3.562252998352051,
+    "sg:address": "66 Marlborough St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Place Of Worship",
+        "subcategory": "",
+        "type": "Public Place"
+      },
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 267 6730",
-    "sg:postcode":"02116",
-    "sg:province":"MA",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 267 6730",
+    "sg:postcode": "02116",
+    "sg:province": "MA",
+    "sg:tags": [
+      "church"
     ],
-    "sg:website":"http://www.firstchurchboston.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85804161,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "http://www.firstchurchboston.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85804161,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":475367031,
-        "sg:id":"SG_2ZX2rSa0oqEdnOxjINyLsg_42.353677_-71.075614@1303262208"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 475367031,
+      "ovtr:id": "08f2a306638d6a4103b386ca4ab1fce1",
+      "sg:id": "SG_2ZX2rSa0oqEdnOxjINyLsg_42.353677_-71.075614@1303262208"
     },
-    "wof:country":"US",
-    "wof:created":1461737728,
-    "wof:geomhash":"1f6f401db56cb3eb8499d3041fb411c9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85804161,
-            "region_id":85688645,
-            "venue_id":689022709
-        }
+    "wof:country": "US",
+    "wof:created": 1461737728,
+    "wof:geomhash": "1f6f401db56cb3eb8499d3041fb411c9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85804161,
+        "region_id": 85688645,
+        "venue_id": 689022709
+      }
     ],
-    "wof:id":689022709,
-    "wof:lastmodified":1510944034,
-    "wof:name":"First Church In Boston",
-    "wof:parent_id":85804161,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:id": 689022709,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "First Church In Boston",
+    "wof:parent_id": 85804161,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -71.075614,
     42.353677,
     -71.075614,
     42.353677
-],
+  ],
   "geometry": {"coordinates":[-71.075614,42.353677],"type":"Point"}
 }

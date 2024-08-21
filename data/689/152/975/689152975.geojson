@@ -2,76 +2,79 @@
   "id": 689152975,
   "type": "Feature",
   "properties": {
-    "addr:full":"145 S Main St Ste 11 Carver MA 02330",
-    "addr:housenumber":"145",
-    "addr:postcode":"02330",
-    "addr:street":"S Main St Ste 11",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.749576,41.837803,-70.749576,41.837803",
-    "geom:latitude":41.837803,
-    "geom:longitude":-70.749576,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"145 S Main St Ste 11",
-    "sg:city":"Carver",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Pet Boarding",
-            "type":"Services"
-        }
+    "addr:full": "145 S Main St Ste 11 Carver MA 02330",
+    "addr:housenumber": "145",
+    "addr:postcode": "02330",
+    "addr:street": "S Main St Ste 11",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.749576,41.837803,-70.749576,41.837803",
+    "geom:latitude": 41.837803,
+    "geom:longitude": -70.749576,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Curry's Grooming Shop, 145 S Main St Carver MA US",
+    "ovtr:similarity": 3.735476016998291,
+    "sg:address": "145 S Main St Ste 11",
+    "sg:city": "Carver",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Pet Boarding",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 866 4522",
-    "sg:postcode":"02330",
-    "sg:province":"MA",
-    "sg:tags":[
-        "boarding/pet",
-        "sitting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 866 4522",
+    "sg:postcode": "02330",
+    "sg:province": "MA",
+    "sg:tags": [
+      "boarding/pet",
+      "sitting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85826411,
-        102084367
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85826411,
+      102084367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0sRT7srtXzxHBxOzSWpkX9_41.837803_-70.749576@1303262226"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a314f361e371030981c42a5bbf23",
+      "sg:id": "SG_0sRT7srtXzxHBxOzSWpkX9_41.837803_-70.749576@1303262226"
     },
-    "wof:country":"US",
-    "wof:created":1461741007,
-    "wof:geomhash":"b441c7d18a71d21b9fb48c0567121160",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "neighbourhood_id":85826411,
-            "region_id":85688645,
-            "venue_id":689152975
-        }
+    "wof:country": "US",
+    "wof:created": 1461741007,
+    "wof:geomhash": "db6de87a5a00d370e889fb59b8c04cf1",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "neighbourhood_id": 85826411,
+        "region_id": 85688645,
+        "venue_id": 689152975
+      }
     ],
-    "wof:id":689152975,
-    "wof:lastmodified":1472625525,
-    "wof:name":"Curry's Grooming Shop",
-    "wof:parent_id":85826411,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "boarding/pet",
-        "sitting"
+    "wof:id": 689152975,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Curry's Grooming Shop",
+    "wof:parent_id": 85826411,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "boarding/pet",
+      "sitting"
     ]
-},
+  },
   "bbox": [
     -70.749576,
     41.837803,
     -70.749576,
     41.837803
-],
+  ],
   "geometry": {"coordinates":[-70.749576,41.837803],"type":"Point"}
 }

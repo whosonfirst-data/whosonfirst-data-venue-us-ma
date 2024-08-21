@@ -2,63 +2,70 @@
   "id": 672275699,
   "type": "Feature",
   "properties": {
-    "addr:full":"140 Front St Marion MA 02738",
-    "addr:housenumber":"140",
-    "addr:postcode":"02738",
-    "addr:street":"Front St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.762583,41.702872,-70.762583,41.702872",
-    "geom:latitude":41.702872,
-    "geom:longitude":-70.762583,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"140 Front St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Discount & Variety Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "140 Front St Marion MA 02738",
+    "addr:housenumber": "140",
+    "addr:postcode": "02738",
+    "addr:street": "Front St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.762583,41.702872,-70.762583,41.702872",
+    "geom:latitude": 41.702872,
+    "geom:longitude": -70.762583,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Marion General Store, 140 Front St Marion MA US",
+    "ovtr:similarity": 3.1825239658355713,
+    "sg:address": "140 Front St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Discount \u0026 Variety Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 748 0340",
-    "sg:postcode":"02738",
-    "sg:province":"MA",
-    "sg:tags":[
-        "merchandise",
-        "general"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 748 0340",
+    "sg:postcode": "02738",
+    "sg:province": "MA",
+    "sg:tags": [
+      "merchandise",
+      "general"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7n3f7aBP8RiRrlsxoLbxZW_41.702872_-70.762583@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33b639209b203e45eaf54d10b7e",
+      "sg:id": "SG_7n3f7aBP8RiRrlsxoLbxZW_41.702872_-70.762583@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715105,
-    "wof:geomhash":"d4803c832572347d24782f2ee89e413e",
-    "wof:hierarchy":[],
-    "wof:id":672275699,
-    "wof:lastmodified":1472625432,
-    "wof:name":"Marion General Store",
-    "wof:parent_id":420523877,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "merchandise",
-        "general"
+    "wof:country": "US",
+    "wof:created": 1461715105,
+    "wof:geomhash": "b60bc4b374a0f5ee340da8e223cd328d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672275699
+      }
+    ],
+    "wof:id": 672275699,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Marion General Store",
+    "wof:parent_id": 420523877,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise",
+      "general"
     ]
-},
+  },
   "bbox": [
     -70.762583,
     41.702872,
     -70.762583,
     41.702872
-],
-  "geometry": {"coordinates":[-70.76258300000001,41.702872],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.762583,41.702872],"type":"Point"}
 }

@@ -2,91 +2,94 @@
   "id": 673075621,
   "type": "Feature",
   "properties": {
-    "addr:full":"170 Cambridge St Boston MA 02114",
-    "addr:housenumber":"170",
-    "addr:postcode":"02114",
-    "addr:street":"Cambridge St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.064994,42.36111,-71.064994,42.36111",
-    "geom:latitude":42.36111,
-    "geom:longitude":-71.064994,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"170 Cambridge St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "170 Cambridge St Boston MA 02114",
+    "addr:housenumber": "170",
+    "addr:postcode": "02114",
+    "addr:street": "Cambridge St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.064994,42.361110,-71.064994,42.361110",
+    "geom:latitude": 42.36111,
+    "geom:longitude": -71.064994,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Jobi Liquors, 170 Cambridge St Boston MA US",
+    "ovtr:similarity": 2.268826961517334,
+    "sg:address": "170 Cambridge St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 227 9235",
-    "sg:postcode":"02114",
-    "sg:province":"MA",
-    "sg:tags":[
-        "lounge",
-        "beer",
-        "spirit",
-        "cocktail",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 227 9235",
+    "sg:postcode": "02114",
+    "sg:province": "MA",
+    "sg:tags": [
+      "lounge",
+      "beer",
+      "spirit",
+      "cocktail",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85805015,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85805015,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2708166031,
-        "sg:id":"SG_6yUYy9A03IAkdevQlrohpv_42.361149_-71.064750@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2708166031,
+      "ovtr:id": "08f2a306602ac4620372ac6899216bf1",
+      "sg:id": "SG_6yUYy9A03IAkdevQlrohpv_42.361149_-71.064750@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733253,
-    "wof:geomhash":"9bcca2cd635b537f82449df2afe35e1e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85805015,
-            "region_id":85688645,
-            "venue_id":673075621
-        }
+    "wof:country": "US",
+    "wof:created": 1461733253,
+    "wof:geomhash": "9bcca2cd635b537f82449df2afe35e1e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85805015,
+        "region_id": 85688645,
+        "venue_id": 673075621
+      }
     ],
-    "wof:id":673075621,
-    "wof:lastmodified":1510943605,
-    "wof:name":"Jobi Liquors",
-    "wof:parent_id":85805015,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "lounge",
-        "beer",
-        "spirit",
-        "cocktail",
-        "wine"
+    "wof:id": 673075621,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Jobi Liquors",
+    "wof:parent_id": 85805015,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "lounge",
+      "beer",
+      "spirit",
+      "cocktail",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -71.064994,
     42.36111,
     -71.064994,
     42.36111
-],
+  ],
   "geometry": {"coordinates":[-71.064994,42.36111],"type":"Point"}
 }

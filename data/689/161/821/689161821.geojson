@@ -2,76 +2,79 @@
   "id": 689161821,
   "type": "Feature",
   "properties": {
-    "addr:full":"1245 N Main St Randolph MA 02368",
-    "addr:housenumber":"1245",
-    "addr:postcode":"02368",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.061302,42.197399,-71.061302,42.197399",
-    "geom:latitude":42.197399,
-    "geom:longitude":-71.061302,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1245 N Main St",
-    "sg:city":"Randolph",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1245 N Main St Randolph MA 02368",
+    "addr:housenumber": "1245",
+    "addr:postcode": "02368",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.061302,42.197399,-71.061302,42.197399",
+    "geom:latitude": 42.197399,
+    "geom:longitude": -71.061302,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Randolph Automotive Servicenter, 1241 N Main St Randolph MA US",
+    "ovtr:similarity": 3.149899959564209,
+    "sg:address": "1245 N Main St",
+    "sg:city": "Randolph",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 963 9886",
-    "sg:postcode":"02368",
-    "sg:province":"MA",
-    "sg:website":"www.randolphautomotive.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891479,
-        102191575,
-        404476591,
-        85633793,
-        85950429,
-        102084403,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 963 9886",
+    "sg:postcode": "02368",
+    "sg:province": "MA",
+    "sg:website": "www.randolphautomotive.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85891479,
+      102191575,
+      404476591,
+      85633793,
+      85950429,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2uh3MAn3oW81Wswr6aJ9xd_42.197399_-71.061302@1303262227"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33902711c2003434371b6463187",
+      "sg:id": "SG_2uh3MAn3oW81Wswr6aJ9xd_42.197399_-71.061302@1303262227"
     },
-    "wof:country":"US",
-    "wof:created":1461741226,
-    "wof:geomhash":"aa48f521c9a2add073d228792bf4ee6a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476591,
-            "locality_id":85950429,
-            "neighbourhood_id":85891479,
-            "region_id":85688645,
-            "venue_id":689161821
-        }
+    "wof:country": "US",
+    "wof:created": 1461741226,
+    "wof:geomhash": "f3f07d96bcc38154a697ffd3ffd14c09",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476591,
+        "locality_id": 85950429,
+        "neighbourhood_id": 85891479,
+        "region_id": 85688645,
+        "venue_id": 689161821
+      }
     ],
-    "wof:id":689161821,
-    "wof:lastmodified":1472625530,
-    "wof:name":"Randolph Automotive Servicenter Inc",
-    "wof:parent_id":85891479,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 689161821,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Randolph Automotive Servicenter Inc",
+    "wof:parent_id": 85891479,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.061302,
     42.197399,
     -71.061302,
     42.197399
-],
+  ],
   "geometry": {"coordinates":[-71.061302,42.197399],"type":"Point"}
 }

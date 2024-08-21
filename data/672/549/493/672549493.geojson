@@ -2,75 +2,78 @@
   "id": 672549493,
   "type": "Feature",
   "properties": {
-    "addr:full":"77 Hudson Rd Sudbury MA 01776",
-    "addr:housenumber":"77",
-    "addr:postcode":"01776",
-    "addr:street":"Hudson Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.412627,42.382483,-71.412627,42.382483",
-    "geom:latitude":42.382483,
-    "geom:longitude":-71.412627,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"77 Hudson Rd",
-    "sg:city":"Sudbury",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "77 Hudson Rd Sudbury MA 01776",
+    "addr:housenumber": "77",
+    "addr:postcode": "01776",
+    "addr:street": "Hudson Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.412627,42.382483,-71.412627,42.382483",
+    "geom:latitude": 42.382483,
+    "geom:longitude": -71.412627,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Sudbury Fire Department, 77 Hudson Rd Sudbury MA US",
+    "ovtr:similarity": 3.502716064453125,
+    "sg:address": "77 Hudson Rd",
+    "sg:city": "Sudbury",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 443 2239",
-    "sg:postcode":"01776",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 443 2239",
+    "sg:postcode": "01776",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "sg:website":"www.town.sudbury.ma.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85816825,
-        102084643
+    "sg:website": "www.town.sudbury.ma.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85816825,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2xl4Fb67qJjm5VBhBe4f1y_42.382483_-71.412627@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3068905c99a0335f3d9fa519eea",
+      "sg:id": "SG_2xl4Fb67qJjm5VBhBe4f1y_42.382483_-71.412627@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461721454,
-    "wof:geomhash":"4d2d1d27169752d8ce8c7a3c7525b2f4",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85816825,
-            "region_id":85688645,
-            "venue_id":672549493
-        }
+    "wof:country": "US",
+    "wof:created": 1461721454,
+    "wof:geomhash": "2e1d136d61bf5a5bd8a6a59982287014",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85816825,
+        "region_id": 85688645,
+        "venue_id": 672549493
+      }
     ],
-    "wof:id":672549493,
-    "wof:lastmodified":1472625822,
-    "wof:name":"Sudbury Fire Dept",
-    "wof:parent_id":85816825,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 672549493,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Sudbury Fire Dept",
+    "wof:parent_id": 85816825,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -71.412627,
     42.382483,
     -71.412627,
     42.382483
-],
+  ],
   "geometry": {"coordinates":[-71.412627,42.382483],"type":"Point"}
 }

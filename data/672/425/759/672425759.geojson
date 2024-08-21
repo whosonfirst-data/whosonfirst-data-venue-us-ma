@@ -2,83 +2,86 @@
   "id": 672425759,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 Ash St Danvers MA 01923",
-    "addr:housenumber":"120",
-    "addr:postcode":"01923",
-    "addr:street":"Ash St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.943396,42.555324,-70.943396,42.555324",
-    "geom:latitude":42.555324,
-    "geom:longitude":-70.943396,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"120 Ash St",
-    "sg:city":"Danvers",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "120 Ash St Danvers MA 01923",
+    "addr:housenumber": "120",
+    "addr:postcode": "01923",
+    "addr:street": "Ash St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.943396,42.555324,-70.943396,42.555324",
+    "geom:latitude": 42.555324,
+    "geom:longitude": -70.943396,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Danvers Police Department, 120 Ash St Danvers MA US",
+    "ovtr:similarity": 3.3450419902801514,
+    "sg:address": "120 Ash St",
+    "sg:city": "Danvers",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 774 1212",
-    "sg:postcode":"01923",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department",
-        "protection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 774 1212",
+    "sg:postcode": "01923",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department",
+      "protection"
     ],
-    "sg:website":"www.danverspolice.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85851821,
-        102191575,
-        404476291,
-        85633793,
-        85950789,
-        102084463,
-        85688645
+    "sg:website": "www.danverspolice.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85851821,
+      102191575,
+      404476291,
+      85633793,
+      85950789,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0T50jfrUBduIK6DNwQYmLK_42.555324_-70.943396@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a300dd71197303b081ec55fd1781",
+      "sg:id": "SG_0T50jfrUBduIK6DNwQYmLK_42.555324_-70.943396@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461718548,
-    "wof:geomhash":"0f1143729fbd29ace940ba450af1ebd1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476291,
-            "locality_id":85950789,
-            "neighbourhood_id":85851821,
-            "region_id":85688645,
-            "venue_id":672425759
-        }
+    "wof:country": "US",
+    "wof:created": 1461718548,
+    "wof:geomhash": "5a1ace92b193636c9c5572baefa8d1d9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476291,
+        "locality_id": 85950789,
+        "neighbourhood_id": 85851821,
+        "region_id": 85688645,
+        "venue_id": 672425759
+      }
     ],
-    "wof:id":672425759,
-    "wof:lastmodified":1472625699,
-    "wof:name":"Danvers Police Department",
-    "wof:parent_id":85851821,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department",
-        "protection"
+    "wof:id": 672425759,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Danvers Police Department",
+    "wof:parent_id": 85851821,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department",
+      "protection"
     ]
-},
+  },
   "bbox": [
     -70.943396,
     42.555324,
     -70.943396,
     42.555324
-],
-  "geometry": {"coordinates":[-70.94339600000001,42.555324],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.943396,42.555324],"type":"Point"}
 }

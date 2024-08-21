@@ -2,62 +2,69 @@
   "id": 672533745,
   "type": "Feature",
   "properties": {
-    "addr:full":"180 S Main St Lanesboro MA 01237",
-    "addr:housenumber":"180",
-    "addr:postcode":"01237",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.230866,42.510499,-73.230866,42.510499",
-    "geom:latitude":42.510499,
-    "geom:longitude":-73.230866,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"180 S Main St",
-    "sg:city":"Lanesboro",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "180 S Main St Lanesboro MA 01237",
+    "addr:housenumber": "180",
+    "addr:postcode": "01237",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.230866,42.510499,-73.230866,42.510499",
+    "geom:latitude": 42.510499,
+    "geom:longitude": -73.230866,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Lanesboro Fire Department, 180 S Main St Lanesborough MA US",
+    "ovtr:similarity": 3.5310449600219727,
+    "sg:address": "180 S Main St",
+    "sg:city": "Lanesboro",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 443 2321",
-    "sg:postcode":"01237",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 443 2321",
+    "sg:postcode": "01237",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3iy9nUVH5XJoYVQgZjiisK_42.510499_-73.230866@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2b89a766ac2490398c5ef9c829b76",
+      "sg:id": "SG_3iy9nUVH5XJoYVQgZjiisK_42.510499_-73.230866@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461721140,
-    "wof:geomhash":"7455b9908e4bf95e2db8a69e2b0eede5",
-    "wof:hierarchy":[],
-    "wof:id":672533745,
-    "wof:lastmodified":1492111632,
-    "wof:name":"Lanesboro Fire Dept",
-    "wof:parent_id":85829509,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461721140,
+    "wof:geomhash": "7455b9908e4bf95e2db8a69e2b0eede5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672533745
+      }
+    ],
+    "wof:id": 672533745,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Lanesboro Fire Dept",
+    "wof:parent_id": 85829509,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -73.230866,
     42.510499,
     -73.230866,
     42.510499
-],
-  "geometry": {"coordinates":[-73.23086600000001,42.510499],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-73.230866,42.510499],"type":"Point"}
 }

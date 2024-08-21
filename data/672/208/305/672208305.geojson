@@ -2,66 +2,73 @@
   "id": 672208305,
   "type": "Feature",
   "properties": {
-    "addr:full":"7 Commerce Dr Orleans MA 02653",
-    "addr:housenumber":"7",
-    "addr:postcode":"02653",
-    "addr:street":"Commerce Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-69.996877,41.776671,-69.996877,41.776671",
-    "geom:latitude":41.776671,
-    "geom:longitude":-69.996877,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7 Commerce Dr",
-    "sg:city":"Orleans",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Building Materials",
-            "type":"Retail Goods"
-        }
+    "addr:full": "7 Commerce Dr Orleans MA 02653",
+    "addr:housenumber": "7",
+    "addr:postcode": "02653",
+    "addr:street": "Commerce Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-69.996877,41.776671,-69.996877,41.776671",
+    "geom:latitude": 41.776671,
+    "geom:longitude": -69.996877,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Orleans Glass \u0026 Mirror, 7 Commerce Dr Orleans MA US",
+    "ovtr:similarity": 2.8931820392608643,
+    "sg:address": "7 Commerce Dr",
+    "sg:city": "Orleans",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Building Materials",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 255 5700",
-    "sg:postcode":"02653",
-    "sg:province":"MA",
-    "sg:tags":[
-        "glass",
-        "window",
-        "plate"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 255 5700",
+    "sg:postcode": "02653",
+    "sg:province": "MA",
+    "sg:tags": [
+      "glass",
+      "window",
+      "plate"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0uCbiIonVnQcnmQG2edfDv_41.776671_-69.996877@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a310282a0818032a8e9a18750c2e",
+      "sg:id": "SG_0uCbiIonVnQcnmQG2edfDv_41.776671_-69.996877@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461713734,
-    "wof:geomhash":"f9d6b941832880739097103728b8a468",
-    "wof:hierarchy":[],
-    "wof:id":672208305,
-    "wof:lastmodified":1492109237,
-    "wof:name":"Orleans Glass & Mirror",
-    "wof:parent_id":85849499,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "glass",
-        "window",
-        "plate"
+    "wof:country": "US",
+    "wof:created": 1461713734,
+    "wof:geomhash": "f9d6b941832880739097103728b8a468",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672208305
+      }
+    ],
+    "wof:id": 672208305,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Orleans Glass \u0026 Mirror",
+    "wof:parent_id": 85849499,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "glass",
+      "window",
+      "plate"
     ]
-},
+  },
   "bbox": [
     -69.996877,
     41.776671,
     -69.996877,
     41.776671
-],
+  ],
   "geometry": {"coordinates":[-69.996877,41.776671],"type":"Point"}
 }

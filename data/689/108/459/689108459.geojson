@@ -2,89 +2,92 @@
   "id": 689108459,
   "type": "Feature",
   "properties": {
-    "addr:full":"317 Ferry St. Everett MA 02149",
-    "addr:housenumber":"317",
-    "addr:postcode":"02149",
-    "addr:street":"Ferry St.",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.047203,42.414501,-71.047203,42.414501",
-    "geom:latitude":42.414501,
-    "geom:longitude":-71.047203,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"317 Ferry St.",
-    "sg:city":"Everett",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Beauty & Cosmetics",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "317 Ferry St. Everett MA 02149",
+    "addr:housenumber": "317",
+    "addr:postcode": "02149",
+    "addr:street": "Ferry St.",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.047203,42.414501,-71.047203,42.414501",
+    "geom:latitude": 42.414501,
+    "geom:longitude": -71.047203,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Walgreens, 317 Ferry St Everett MA US",
+    "ovtr:similarity": 2.5245320796966553,
+    "sg:address": "317 Ferry St.",
+    "sg:city": "Everett",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Beauty \u0026 Cosmetics",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 389 2186",
-    "sg:postcode":"02149",
-    "sg:province":"MA",
-    "sg:tags":[
-        "drugstore",
-        "supply"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 389 2186",
+    "sg:postcode": "02149",
+    "sg:province": "MA",
+    "sg:tags": [
+      "drugstore",
+      "supply"
     ],
-    "sg:website":"www.walgreens.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        102191575,
-        404476487,
-        85633793,
-        85950331,
-        102084643
+    "sg:website": "www.walgreens.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      102191575,
+      404476487,
+      85633793,
+      85950331,
+      102084643
     ],
-    "wof:brand_id":420573797,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5j0wvtHGhWDy4euCmK3jFw_42.414501_-71.047203@1303262220"
+    "wof:brand_id": 420573797,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3075d2e3aed0390248e66d0cf64",
+      "sg:id": "SG_5j0wvtHGhWDy4euCmK3jFw_42.414501_-71.047203@1303262220"
     },
-    "wof:country":"US",
-    "wof:created":1461739571,
-    "wof:geomhash":"a3e209c487b7a6cd229cd7026e4fd7db",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476487,
-            "locality_id":85950331,
-            "region_id":85688645,
-            "venue_id":689108459
-        }
+    "wof:country": "US",
+    "wof:created": 1461739571,
+    "wof:geomhash": "a3e209c487b7a6cd229cd7026e4fd7db",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476487,
+        "locality_id": 85950331,
+        "region_id": 85688645,
+        "venue_id": 689108459
+      }
     ],
-    "wof:id":689108459,
-    "wof:lastmodified":1511322324,
-    "wof:name":"Walgreens",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore",
-        "supply"
+    "wof:id": 689108459,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Walgreens",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore",
+      "supply"
     ]
-},
+  },
   "bbox": [
     -71.047203,
     42.414501,
     -71.047203,
     42.414501
-],
+  ],
   "geometry": {"coordinates":[-71.047203,42.414501],"type":"Point"}
 }

@@ -2,58 +2,65 @@
   "id": 673061961,
   "type": "Feature",
   "properties": {
-    "addr:full":"35 Market St Rockland MA 02370",
-    "addr:housenumber":"35",
-    "addr:postcode":"02370",
-    "addr:street":"Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.916761,42.119989,-70.916761,42.119989",
-    "geom:latitude":42.119989,
-    "geom:longitude":-70.916761,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"35 Market St",
-    "sg:city":"Rockland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "35 Market St Rockland MA 02370",
+    "addr:housenumber": "35",
+    "addr:postcode": "02370",
+    "addr:street": "Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.916761,42.119989,-70.916761,42.119989",
+    "geom:latitude": 42.119989,
+    "geom:longitude": -70.916761,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "China Plaza Restaurant, 35 Market St Rockland MA US",
+    "ovtr:similarity": 2.126913070678711,
+    "sg:address": "35 Market St",
+    "sg:city": "Rockland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 878 7183",
-    "sg:postcode":"02370",
-    "sg:province":"MA",
-    "sg:website":"http://www.chinaplaza.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4uMtj9WW0CeUbIrhc6mMrh_42.119431_-70.916658@1293134755"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 878 7183",
+    "sg:postcode": "02370",
+    "sg:province": "MA",
+    "sg:website": "http://www.chinaplaza.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33975692c4b03c18d1f1c07e86d",
+      "sg:id": "SG_4uMtj9WW0CeUbIrhc6mMrh_42.119431_-70.916658@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732991,
-    "wof:geomhash":"80c891db133c09239c19bf45d77ce90f",
-    "wof:hierarchy":[],
-    "wof:id":673061961,
-    "wof:lastmodified":1492102377,
-    "wof:name":"China Plaza Restaurant",
-    "wof:parent_id":85824227,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461732991,
+    "wof:geomhash": "80c891db133c09239c19bf45d77ce90f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673061961
+      }
+    ],
+    "wof:id": 673061961,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "China Plaza Restaurant",
+    "wof:parent_id": 85824227,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.916761,
     42.119989,
     -70.916761,
     42.119989
-],
-  "geometry": {"coordinates":[-70.91676099999999,42.119989],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.916761,42.119989],"type":"Point"}
 }

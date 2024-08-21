@@ -2,74 +2,77 @@
   "id": 672953815,
   "type": "Feature",
   "properties": {
-    "addr:full":"90 River Rd Tewksbury MA 01876",
-    "addr:housenumber":"90",
-    "addr:postcode":"01876",
-    "addr:street":"River Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.265477,42.648864,-71.265477,42.648864",
-    "geom:latitude":42.648864,
-    "geom:longitude":-71.265477,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"90 River Rd",
-    "sg:city":"Tewksbury",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Developer",
-            "type":"Services"
-        }
+    "addr:full": "90 River Rd Tewksbury MA 01876",
+    "addr:housenumber": "90",
+    "addr:postcode": "01876",
+    "addr:street": "River Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.265477,42.648864,-71.265477,42.648864",
+    "geom:latitude": 42.648864,
+    "geom:longitude": -71.265477,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "St. Mary Cemetery, 90 River Rd Tewksbury MA US",
+    "ovtr:similarity": 3.124228000640869,
+    "sg:address": "90 River Rd",
+    "sg:city": "Tewksbury",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Developer",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 851 2248",
-    "sg:postcode":"01876",
-    "sg:province":"MA",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 851 2248",
+    "sg:postcode": "01876",
+    "sg:province": "MA",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85828159,
-        102084643
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85828159,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4uvGifw1BtGvYlITHRjyAd_42.648864_-71.265477@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a307a44eca940324e7d3be8770b0",
+      "sg:id": "SG_4uvGifw1BtGvYlITHRjyAd_42.648864_-71.265477@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461730227,
-    "wof:geomhash":"fa639b5286c7d8bf28ba26ddd17ab52f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85828159,
-            "region_id":85688645,
-            "venue_id":672953815
-        }
+    "wof:country": "US",
+    "wof:created": 1461730227,
+    "wof:geomhash": "42b393944e5be9a7ad470ae55e4201bc",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85828159,
+        "region_id": 85688645,
+        "venue_id": 672953815
+      }
     ],
-    "wof:id":672953815,
-    "wof:lastmodified":1472626170,
-    "wof:name":"St Mary Cemetery",
-    "wof:parent_id":85828159,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:id": 672953815,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "St Mary Cemetery",
+    "wof:parent_id": 85828159,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -71.265477,
     42.648864,
     -71.265477,
     42.648864
-],
+  ],
   "geometry": {"coordinates":[-71.265477,42.648864],"type":"Point"}
 }

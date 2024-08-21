@@ -2,74 +2,77 @@
   "id": 689218033,
   "type": "Feature",
   "properties": {
-    "addr:full":"145 Washington St Plainville MA 02762",
-    "addr:housenumber":"145",
-    "addr:postcode":"02762",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.314598,42.0219,-71.314598,42.0219",
-    "geom:latitude":42.0219,
-    "geom:longitude":-71.314598,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"145 Washington St",
-    "sg:city":"Plainville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "145 Washington St Plainville MA 02762",
+    "addr:housenumber": "145",
+    "addr:postcode": "02762",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.314598,42.021900,-71.314598,42.021900",
+    "geom:latitude": 42.0219,
+    "geom:longitude": -71.314598,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "DeWitt Animal Hospital, 145 Washington St Plainville MA US",
+    "ovtr:similarity": 2.7377660274505615,
+    "sg:address": "145 Washington St",
+    "sg:city": "Plainville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 695 0261",
-    "sg:postcode":"02762",
-    "sg:province":"MA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 695 0261",
+    "sg:postcode": "02762",
+    "sg:province": "MA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85848231,
-        102084403
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85848231,
+      102084403
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0hXas2ZdBSFbUUw9icghNM_42.021900_-71.314598@1303262234"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3388c353dac03e164bfea6ba8e3",
+      "sg:id": "SG_0hXas2ZdBSFbUUw9icghNM_42.021900_-71.314598@1303262234"
     },
-    "wof:country":"US",
-    "wof:created":1461742432,
-    "wof:geomhash":"8f4ee055a815ce56806c07d1e3b45959",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084403,
-            "neighbourhood_id":85848231,
-            "region_id":85688645,
-            "venue_id":689218033
-        }
+    "wof:country": "US",
+    "wof:created": 1461742432,
+    "wof:geomhash": "e46abf7e9b8cb7b2c9eb12d87c0bbea7",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "neighbourhood_id": 85848231,
+        "region_id": 85688645,
+        "venue_id": 689218033
+      }
     ],
-    "wof:id":689218033,
-    "wof:lastmodified":1472625606,
-    "wof:name":"Dewitt Animal Hospital",
-    "wof:parent_id":85848231,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 689218033,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Dewitt Animal Hospital",
+    "wof:parent_id": 85848231,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -71.314598,
     42.0219,
     -71.314598,
     42.0219
-],
+  ],
   "geometry": {"coordinates":[-71.314598,42.0219],"type":"Point"}
 }

@@ -2,80 +2,83 @@
   "id": 673082565,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 Main St Townsend MA 01469",
-    "addr:housenumber":"20",
-    "addr:postcode":"01469",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.662674,42.650503,-71.662674,42.650503",
-    "geom:latitude":42.650503,
-    "geom:longitude":-71.662674,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"20 Main St",
-    "sg:city":"Townsend",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "20 Main St Townsend MA 01469",
+    "addr:housenumber": "20",
+    "addr:postcode": "01469",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.662674,42.650503,-71.662674,42.650503",
+    "geom:latitude": 42.650503,
+    "geom:longitude": -71.662674,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "McDonald's, 20 Main St Townsend MA US",
+    "ovtr:similarity": 2.889796018600464,
+    "sg:address": "20 Main St",
+    "sg:city": "Townsend",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/townsend/188741-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"01469",
-    "sg:province":"MA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ma/townsend/188741-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "01469",
+    "sg:province": "MA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85852475,
-        102084643
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85852475,
+      102084643
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":216369317,
-        "sg:id":"SG_2V6zEf0gKTLITN8MT2LhGm_42.650503_-71.662674@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 216369317,
+      "ovtr:id": "08f2a32b0b1537a303f600745cd67147",
+      "sg:id": "SG_2V6zEf0gKTLITN8MT2LhGm_42.650503_-71.662674@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461733403,
-    "wof:geomhash":"0465d66ef67bb99769f71cd3a4318316",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85852475,
-            "region_id":85688645,
-            "venue_id":673082565
-        }
+    "wof:country": "US",
+    "wof:created": 1461733403,
+    "wof:geomhash": "0465d66ef67bb99769f71cd3a4318316",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85852475,
+        "region_id": 85688645,
+        "venue_id": 673082565
+      }
     ],
-    "wof:id":673082565,
-    "wof:lastmodified":1512142853,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85852475,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 673082565,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85852475,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -71.662674,
     42.650503,
     -71.662674,
     42.650503
-],
+  ],
   "geometry": {"coordinates":[-71.662674,42.650503],"type":"Point"}
 }

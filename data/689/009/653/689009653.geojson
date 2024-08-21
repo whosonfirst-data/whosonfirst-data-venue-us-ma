@@ -2,80 +2,83 @@
   "id": 689009653,
   "type": "Feature",
   "properties": {
-    "addr:full":"280 Cambridge St Boston MA 02114",
-    "addr:housenumber":"280",
-    "addr:postcode":"02114",
-    "addr:street":"Cambridge St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.068075,42.361096,-71.068075,42.361096",
-    "geom:latitude":42.361096,
-    "geom:longitude":-71.068075,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"280 Cambridge St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "280 Cambridge St Boston MA 02114",
+    "addr:housenumber": "280",
+    "addr:postcode": "02114",
+    "addr:street": "Cambridge St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.068075,42.361096,-71.068075,42.361096",
+    "geom:latitude": 42.361096,
+    "geom:longitude": -71.068075,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Felcaro Pizzeria, 280 Cambridge St Boston MA US",
+    "ovtr:similarity": 2.555366039276123,
+    "sg:address": "280 Cambridge St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 742 0011",
-    "sg:postcode":"02114",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 742 0011",
+    "sg:postcode": "02114",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85805015,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85805015,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2UNH4okNd5iY1RGMN4MHCt_42.361096_-71.068075@1303262206"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306602917250360479c5628c629",
+      "sg:id": "SG_2UNH4okNd5iY1RGMN4MHCt_42.361096_-71.068075@1303262206"
     },
-    "wof:country":"US",
-    "wof:created":1461737466,
-    "wof:geomhash":"b3be73fbce6892a301111ee1e1c45351",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85805015,
-            "region_id":85688645,
-            "venue_id":689009653
-        }
+    "wof:country": "US",
+    "wof:created": 1461737466,
+    "wof:geomhash": "e29a4b90b0d674ab647079a6e2d9941e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85805015,
+        "region_id": 85688645,
+        "venue_id": 689009653
+      }
     ],
-    "wof:id":689009653,
-    "wof:lastmodified":1472624962,
-    "wof:name":"Felcaro Pizzeria",
-    "wof:parent_id":85805015,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 689009653,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Felcaro Pizzeria",
+    "wof:parent_id": 85805015,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.068075,
     42.361096,
     -71.068075,
     42.361096
-],
-  "geometry": {"coordinates":[-71.06807499999999,42.361096],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.068075,42.361096],"type":"Point"}
 }

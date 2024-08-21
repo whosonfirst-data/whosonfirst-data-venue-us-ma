@@ -2,80 +2,83 @@
   "id": 689185911,
   "type": "Feature",
   "properties": {
-    "addr:full":"169 Massachusetts Ave Arlington MA 02474",
-    "addr:housenumber":"169",
-    "addr:postcode":"02474",
-    "addr:street":"Massachusetts Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.141562,42.405222,-71.141562,42.405222",
-    "geom:latitude":42.405222,
-    "geom:longitude":-71.141562,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"169 Massachusetts Ave",
-    "sg:city":"Arlington",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "169 Massachusetts Ave Arlington MA 02474",
+    "addr:housenumber": "169",
+    "addr:postcode": "02474",
+    "addr:street": "Massachusetts Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.141562,42.405222,-71.141562,42.405222",
+    "geom:latitude": 42.405222,
+    "geom:longitude": -71.141562,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Barismo, 171 Massachusetts Ave Arlington MA US",
+    "ovtr:similarity": 3.8286640644073486,
+    "sg:address": "169 Massachusetts Ave",
+    "sg:city": "Arlington",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 339 368 7300",
-    "sg:postcode":"02474",
-    "sg:province":"MA",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 339 368 7300",
+    "sg:postcode": "02474",
+    "sg:province": "MA",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85815901,
-        102191575,
-        404476319,
-        85633793,
-        85950613,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85815901,
+      102191575,
+      404476319,
+      85633793,
+      85950613,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_31S8vlSYNlRqlR4t6D1Acq_42.405222_-71.141562@1303262230"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30676b762ab0304eb25cdd4ac02",
+      "sg:id": "SG_31S8vlSYNlRqlR4t6D1Acq_42.405222_-71.141562@1303262230"
     },
-    "wof:country":"US",
-    "wof:created":1461741748,
-    "wof:geomhash":"2ae2e36b83cc9639be786c7e25b81813",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476319,
-            "locality_id":85950613,
-            "neighbourhood_id":85815901,
-            "region_id":85688645,
-            "venue_id":689185911
-        }
+    "wof:country": "US",
+    "wof:created": 1461741748,
+    "wof:geomhash": "8f303c7688ead62cf08e39b008daafde",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476319,
+        "locality_id": 85950613,
+        "neighbourhood_id": 85815901,
+        "region_id": 85688645,
+        "venue_id": 689185911
+      }
     ],
-    "wof:id":689185911,
-    "wof:lastmodified":1472625585,
-    "wof:name":"Barismo",
-    "wof:parent_id":85815901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:id": 689185911,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Barismo",
+    "wof:parent_id": 85815901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -71.141562,
     42.405222,
     -71.141562,
     42.405222
-],
-  "geometry": {"coordinates":[-71.14156199999999,42.405222],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.141562,42.405222],"type":"Point"}
 }

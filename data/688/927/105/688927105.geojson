@@ -2,80 +2,83 @@
   "id": 688927105,
   "type": "Feature",
   "properties": {
-    "addr:full":"45 Green St Newburyport MA 01950",
-    "addr:housenumber":"45",
-    "addr:postcode":"01950",
-    "addr:street":"Green St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.8731,42.809502,-70.8731,42.809502",
-    "geom:latitude":42.809502,
-    "geom:longitude":-70.8731,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"45 Green St",
-    "sg:city":"Newburyport",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Travel",
-            "subcategory":"Bed & Breakfast",
-            "type":"Entertainment"
-        }
+    "addr:full": "45 Green St Newburyport MA 01950",
+    "addr:housenumber": "45",
+    "addr:postcode": "01950",
+    "addr:street": "Green St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.873100,42.809502,-70.873100,42.809502",
+    "geom:latitude": 42.809502,
+    "geom:longitude": -70.8731,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "The Clark Currier Inn, 45 Green St Newburyport MA US",
+    "ovtr:similarity": 2.773531913757324,
+    "sg:address": "45 Green St",
+    "sg:city": "Newburyport",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Travel",
+        "subcategory": "Bed \u0026 Breakfast",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 465 8363",
-    "sg:postcode":"01950",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891457,
-        102191575,
-        404476251,
-        85633793,
-        85950409,
-        102084463,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 465 8363",
+    "sg:postcode": "01950",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85891457,
+      102191575,
+      404476251,
+      85633793,
+      85950409,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_28WJDrrewYAeUB2XDJCMSJ_42.809502_-70.873100@1303262196"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a301888312560386b86642022db6",
+      "sg:id": "SG_28WJDrrewYAeUB2XDJCMSJ_42.809502_-70.873100@1303262196"
     },
-    "wof:country":"US",
-    "wof:created":1461735794,
-    "wof:geomhash":"776b2e3e2e956ccab7f66a00ea849e2f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476251,
-            "locality_id":85950409,
-            "neighbourhood_id":85891457,
-            "region_id":85688645,
-            "venue_id":688927105
-        }
+    "wof:country": "US",
+    "wof:created": 1461735794,
+    "wof:geomhash": "210d9aaa6a0b19bdb57bc89d2d3c53e2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476251,
+        "locality_id": 85950409,
+        "neighbourhood_id": 85891457,
+        "region_id": 85688645,
+        "venue_id": 688927105
+      }
     ],
-    "wof:id":688927105,
-    "wof:lastmodified":1472624989,
-    "wof:name":"Clark Currier Inn",
-    "wof:parent_id":85891457,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 688927105,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Clark Currier Inn",
+    "wof:parent_id": 85891457,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.8731,
     42.809502,
     -70.8731,
     42.809502
-],
-  "geometry": {"coordinates":[-70.87309999999999,42.809502],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.8731,42.809502],"type":"Point"}
 }

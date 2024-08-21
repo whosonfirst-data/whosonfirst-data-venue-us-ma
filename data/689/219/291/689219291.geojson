@@ -2,64 +2,71 @@
   "id": 689219291,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 Bay Rd Norton MA 02766",
-    "addr:housenumber":"200",
-    "addr:postcode":"02766",
-    "addr:street":"Bay Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.126701,41.987801,-71.126701,41.987801",
-    "geom:latitude":41.987801,
-    "geom:longitude":-71.126701,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"200 Bay Rd",
-    "sg:city":"Norton",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Garden Supply",
-            "type":"Retail Goods"
-        }
+    "addr:full": "200 Bay Rd Norton MA 02766",
+    "addr:housenumber": "200",
+    "addr:postcode": "02766",
+    "addr:street": "Bay Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.126701,41.987801,-71.126701,41.987801",
+    "geom:latitude": 41.987801,
+    "geom:longitude": -71.126701,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Blueview Nurseries, 200 Bay Rd Norton MA US",
+    "ovtr:similarity": 2.7841169834136963,
+    "sg:address": "200 Bay Rd",
+    "sg:city": "Norton",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Garden Supply",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 828 2737",
-    "sg:postcode":"02766",
-    "sg:province":"MA",
-    "sg:tags":[
-        "nursery",
-        "gardening"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 828 2737",
+    "sg:postcode": "02766",
+    "sg:province": "MA",
+    "sg:tags": [
+      "nursery",
+      "gardening"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1HzDioiYEOXn8lNCwBBdUL_41.987801_-71.126701@1303262234"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3380bb99a1803e0733676f0f4bb",
+      "sg:id": "SG_1HzDioiYEOXn8lNCwBBdUL_41.987801_-71.126701@1303262234"
     },
-    "wof:country":"US",
-    "wof:created":1461742461,
-    "wof:geomhash":"321d86e92c898f929fdafe0f5e558a4a",
-    "wof:hierarchy":[],
-    "wof:id":689219291,
-    "wof:lastmodified":1492099409,
-    "wof:name":"Blueview Nurseries",
-    "wof:parent_id":85858285,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "nursery",
-        "gardening"
+    "wof:country": "US",
+    "wof:created": 1461742461,
+    "wof:geomhash": "321d86e92c898f929fdafe0f5e558a4a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689219291
+      }
+    ],
+    "wof:id": 689219291,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Blueview Nurseries",
+    "wof:parent_id": 85858285,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "nursery",
+      "gardening"
     ]
-},
+  },
   "bbox": [
     -71.126701,
     41.987801,
     -71.126701,
     41.987801
-],
+  ],
   "geometry": {"coordinates":[-71.126701,41.987801],"type":"Point"}
 }

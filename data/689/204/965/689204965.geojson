@@ -2,80 +2,83 @@
   "id": 689204965,
   "type": "Feature",
   "properties": {
-    "addr:full":"512 Main St Chatham MA 02633",
-    "addr:housenumber":"512",
-    "addr:postcode":"02633",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-69.956398,41.679699,-69.956398,41.679699",
-    "geom:latitude":41.679699,
-    "geom:longitude":-69.956398,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"512 Main St",
-    "sg:city":"Chatham",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "512 Main St Chatham MA 02633",
+    "addr:housenumber": "512",
+    "addr:postcode": "02633",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-69.956398,41.679699,-69.956398,41.679699",
+    "geom:latitude": 41.679699,
+    "geom:longitude": -69.956398,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Chatham Wayside Inn, 512 Main St Chatham MA US",
+    "ovtr:similarity": 2.8391120433807373,
+    "sg:address": "512 Main St",
+    "sg:city": "Chatham",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 945 5550",
-    "sg:postcode":"02633",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85843537,
-        102191575,
-        404475897,
-        85633793,
-        85950537,
-        102084379,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 945 5550",
+    "sg:postcode": "02633",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85843537,
+      102191575,
+      404475897,
+      85633793,
+      85950537,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_26dgzhubj09AU9sJYndAb8_41.679699_-69.956398@1303262232"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a31040926750037d1225016580ec",
+      "sg:id": "SG_26dgzhubj09AU9sJYndAb8_41.679699_-69.956398@1303262232"
     },
-    "wof:country":"US",
-    "wof:created":1461742155,
-    "wof:geomhash":"4901965ad88cbc36bbfbc9dd221bd15b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475897,
-            "locality_id":85950537,
-            "neighbourhood_id":85843537,
-            "region_id":85688645,
-            "venue_id":689204965
-        }
+    "wof:country": "US",
+    "wof:created": 1461742155,
+    "wof:geomhash": "b48c84401aa8f51976a849ff6beec845",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475897,
+        "locality_id": 85950537,
+        "neighbourhood_id": 85843537,
+        "region_id": 85688645,
+        "venue_id": 689204965
+      }
     ],
-    "wof:id":689204965,
-    "wof:lastmodified":1472625617,
-    "wof:name":"Chatham Wayside Inn",
-    "wof:parent_id":85843537,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 689204965,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Chatham Wayside Inn",
+    "wof:parent_id": 85843537,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -69.956398,
     41.679699,
     -69.956398,
     41.679699
-],
-  "geometry": {"coordinates":[-69.95639799999999,41.679699],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-69.956398,41.679699],"type":"Point"}
 }

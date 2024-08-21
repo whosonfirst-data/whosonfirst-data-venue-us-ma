@@ -2,81 +2,84 @@
   "id": 689182757,
   "type": "Feature",
   "properties": {
-    "addr:full":"69 Grove St Watertown MA 02472",
-    "addr:housenumber":"69",
-    "addr:postcode":"02472",
-    "addr:street":"Grove St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.153394,42.369198,-71.153394,42.369198",
-    "geom:latitude":42.369198,
-    "geom:longitude":-71.153394,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"69 Grove St",
-    "sg:city":"Watertown",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "69 Grove St Watertown MA 02472",
+    "addr:housenumber": "69",
+    "addr:postcode": "02472",
+    "addr:street": "Grove St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.153394,42.369198,-71.153394,42.369198",
+    "geom:latitude": 42.369198,
+    "geom:longitude": -71.153394,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Atrium School, 69 Grove St Watertown MA US",
+    "ovtr:similarity": 2.3295791149139404,
+    "sg:address": "69 Grove St",
+    "sg:city": "Watertown",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 923 4156",
-    "sg:postcode":"02472",
-    "sg:province":"MA",
-    "sg:tags":[
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 923 4156",
+    "sg:postcode": "02472",
+    "sg:province": "MA",
+    "sg:tags": [
+      "elementary"
     ],
-    "sg:website":"www.atrium.org/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891547,
-        102191575,
-        404476459,
-        85633793,
-        85950335,
-        102084643,
-        85688645
+    "sg:website": "www.atrium.org/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85891547,
+      102191575,
+      404476459,
+      85633793,
+      85950335,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2dbcAFljWjsAWyOWh3MTkC_42.369198_-71.153394@1303262230"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30673155b7103d734114f18a878",
+      "sg:id": "SG_2dbcAFljWjsAWyOWh3MTkC_42.369198_-71.153394@1303262230"
     },
-    "wof:country":"US",
-    "wof:created":1461741678,
-    "wof:geomhash":"3c19fe9f2f8dd2d4387a8a9e053271b1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476459,
-            "locality_id":85950335,
-            "neighbourhood_id":85891547,
-            "region_id":85688645,
-            "venue_id":689182757
-        }
+    "wof:country": "US",
+    "wof:created": 1461741678,
+    "wof:geomhash": "49967fbe658ebca5ad51039e2646b77f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476459,
+        "locality_id": 85950335,
+        "neighbourhood_id": 85891547,
+        "region_id": 85688645,
+        "venue_id": 689182757
+      }
     ],
-    "wof:id":689182757,
-    "wof:lastmodified":1472625575,
-    "wof:name":"Atrium School",
-    "wof:parent_id":85891547,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "elementary"
+    "wof:id": 689182757,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Atrium School",
+    "wof:parent_id": 85891547,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -71.153394,
     42.369198,
     -71.153394,
     42.369198
-],
-  "geometry": {"coordinates":[-71.15339400000001,42.369198],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.153394,42.369198],"type":"Point"}
 }

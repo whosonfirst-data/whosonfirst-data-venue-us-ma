@@ -2,71 +2,74 @@
   "id": 673046465,
   "type": "Feature",
   "properties": {
-    "addr:full":"216 Rockland St Hanover MA 02339",
-    "addr:housenumber":"216",
-    "addr:postcode":"02339",
-    "addr:street":"Rockland St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.819862,42.114342,-70.819862,42.114342",
-    "geom:latitude":42.114342,
-    "geom:longitude":-70.819862,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"216 Rockland St",
-    "sg:city":"Hanover",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "216 Rockland St Hanover MA 02339",
+    "addr:housenumber": "216",
+    "addr:postcode": "02339",
+    "addr:street": "Rockland St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.819862,42.114342,-70.819862,42.114342",
+    "geom:latitude": 42.114342,
+    "geom:longitude": -70.819862,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Crossroads Cafe \u0026 Deli, 216 Rockland St Hanover MA US",
+    "ovtr:similarity": 2.37300705909729,
+    "sg:address": "216 Rockland St",
+    "sg:city": "Hanover",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 826 9921",
-    "sg:postcode":"02339",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950471,
-        102084367,
-        85847339
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 826 9921",
+    "sg:postcode": "02339",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950471,
+      102084367,
+      85847339
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2ClaJDSzC37sQLPhGlZM0m_42.114420_-70.819847@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33965d6578c03b816121fdda0cc",
+      "sg:id": "SG_2ClaJDSzC37sQLPhGlZM0m_42.114420_-70.819847@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732686,
-    "wof:geomhash":"ec01cd8a5b54247549b9c630a954f63e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "locality_id":85950471,
-            "neighbourhood_id":85847339,
-            "region_id":85688645,
-            "venue_id":673046465
-        }
+    "wof:country": "US",
+    "wof:created": 1461732686,
+    "wof:geomhash": "3b01fe1e3c28f7e02d28e4441a26ee2b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "locality_id": 85950471,
+        "neighbourhood_id": 85847339,
+        "region_id": 85688645,
+        "venue_id": 673046465
+      }
     ],
-    "wof:id":673046465,
-    "wof:lastmodified":1472625077,
-    "wof:name":"Crossroads Cafe & Deli",
-    "wof:parent_id":85847339,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673046465,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Crossroads Cafe \u0026 Deli",
+    "wof:parent_id": 85847339,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.819862,
     42.114342,
     -70.819862,
     42.114342
-],
+  ],
   "geometry": {"coordinates":[-70.819862,42.114342],"type":"Point"}
 }

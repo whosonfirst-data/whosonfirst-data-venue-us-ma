@@ -2,71 +2,74 @@
   "id": 688936283,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 Washington St Canton MA 02021",
-    "addr:housenumber":"10",
-    "addr:postcode":"02021",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.148903,42.139,-71.148903,42.139",
-    "geom:latitude":42.139,
-    "geom:longitude":-71.148903,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10 Washington St",
-    "sg:city":"Canton",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Jewelry",
-            "type":"Retail Goods"
-        }
+    "addr:full": "10 Washington St Canton MA 02021",
+    "addr:housenumber": "10",
+    "addr:postcode": "02021",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.148903,42.139000,-71.148903,42.139000",
+    "geom:latitude": 42.139,
+    "geom:longitude": -71.148903,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Robert's Jewelry, 10 Washington St Canton MA US",
+    "ovtr:similarity": 2.553292989730835,
+    "sg:address": "10 Washington St",
+    "sg:city": "Canton",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Jewelry",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 828 0954",
-    "sg:postcode":"02021",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950843,
-        102084403,
-        85816759
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 828 0954",
+    "sg:postcode": "02021",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950843,
+      102084403,
+      85816759
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0hCf6b5e7ruEiu5OeRxMQP_42.139000_-71.148903@1303262197"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33836a767740309f6308703c35b",
+      "sg:id": "SG_0hCf6b5e7ruEiu5OeRxMQP_42.139000_-71.148903@1303262197"
     },
-    "wof:country":"US",
-    "wof:created":1461735976,
-    "wof:geomhash":"e4d085bf262ede26fcd0c5a0455cabf8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084403,
-            "locality_id":85950843,
-            "neighbourhood_id":85816759,
-            "region_id":85688645,
-            "venue_id":688936283
-        }
+    "wof:country": "US",
+    "wof:created": 1461735976,
+    "wof:geomhash": "56b25f6b550fc0e246ae343f870f16ee",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "locality_id": 85950843,
+        "neighbourhood_id": 85816759,
+        "region_id": 85688645,
+        "venue_id": 688936283
+      }
     ],
-    "wof:id":688936283,
-    "wof:lastmodified":1472625016,
-    "wof:name":"Robert's Jewelry",
-    "wof:parent_id":85816759,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 688936283,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Robert's Jewelry",
+    "wof:parent_id": 85816759,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.148903,
     42.139,
     -71.148903,
     42.139
-],
+  ],
   "geometry": {"coordinates":[-71.148903,42.139],"type":"Point"}
 }

@@ -2,80 +2,83 @@
   "id": 672916951,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Cedar Grove Ave Peabody MA 01960",
-    "addr:housenumber":"100",
-    "addr:postcode":"01960",
-    "addr:street":"Cedar Grove Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.942588,42.511587,-70.942588,42.511587",
-    "geom:latitude":42.511587,
-    "geom:longitude":-70.942588,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"100 Cedar Grove Ave",
-    "sg:city":"Peabody",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Developer",
-            "type":"Services"
-        }
+    "addr:full": "100 Cedar Grove Ave Peabody MA 01960",
+    "addr:housenumber": "100",
+    "addr:postcode": "01960",
+    "addr:street": "Cedar Grove Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.942588,42.511587,-70.942588,42.511587",
+    "geom:latitude": 42.511587,
+    "geom:longitude": -70.942588,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Cedar Grove Cemetery, 100 Cedar Grove Ave Peabody MA US",
+    "ovtr:similarity": 2.6177549362182617,
+    "sg:address": "100 Cedar Grove Ave",
+    "sg:city": "Peabody",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Developer",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 531 1073",
-    "sg:postcode":"01960",
-    "sg:province":"MA",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 531 1073",
+    "sg:postcode": "01960",
+    "sg:province": "MA",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85849939,
-        102191575,
-        404476253,
-        85633793,
-        85950407,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85849939,
+      102191575,
+      404476253,
+      85633793,
+      85950407,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ZomzJKemueiF5BgeH8JzH_42.511587_-70.942588@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a307642836ca035d43f074067c88",
+      "sg:id": "SG_4ZomzJKemueiF5BgeH8JzH_42.511587_-70.942588@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461729372,
-    "wof:geomhash":"3c1754e29f848bd8d66d43133d6413f6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476253,
-            "locality_id":85950407,
-            "neighbourhood_id":85849939,
-            "region_id":85688645,
-            "venue_id":672916951
-        }
+    "wof:country": "US",
+    "wof:created": 1461729372,
+    "wof:geomhash": "881400badf8a6baec660a139d36ce847",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476253,
+        "locality_id": 85950407,
+        "neighbourhood_id": 85849939,
+        "region_id": 85688645,
+        "venue_id": 672916951
+      }
     ],
-    "wof:id":672916951,
-    "wof:lastmodified":1472626141,
-    "wof:name":"Cedar Grove Cemetery",
-    "wof:parent_id":85849939,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:id": 672916951,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Cedar Grove Cemetery",
+    "wof:parent_id": 85849939,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -70.942588,
     42.511587,
     -70.942588,
     42.511587
-],
+  ],
   "geometry": {"coordinates":[-70.942588,42.511587],"type":"Point"}
 }

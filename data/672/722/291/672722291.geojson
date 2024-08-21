@@ -2,82 +2,85 @@
   "id": 672722291,
   "type": "Feature",
   "properties": {
-    "addr:full":"3 High St Shelburne Falls MA 01370",
-    "addr:housenumber":"3",
-    "addr:postcode":"01370",
-    "addr:street":"High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.734736,42.60643,-72.734736,42.60643",
-    "geom:latitude":42.60643,
-    "geom:longitude":-72.734736,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3 High St",
-    "sg:city":"Shelburne Falls",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "3 High St Shelburne Falls MA 01370",
+    "addr:housenumber": "3",
+    "addr:postcode": "01370",
+    "addr:street": "High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.734736,42.606430,-72.734736,42.606430",
+    "geom:latitude": 42.60643,
+    "geom:longitude": -72.734736,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "La Belle's Rest Home, 3 High St Shelburne Falls MA US",
+    "ovtr:similarity": 2.5439999103546143,
+    "sg:address": "3 High St",
+    "sg:city": "Shelburne Falls",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 625 6560",
-    "sg:postcode":"01370",
-    "sg:province":"MA",
-    "sg:tags":[
-        "home",
-        "convalescent"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 625 6560",
+    "sg:postcode": "01370",
+    "sg:province": "MA",
+    "sg:tags": [
+      "home",
+      "convalescent"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523527,
-        102191575,
-        404476221,
-        85633793,
-        85950759,
-        102084457,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523527,
+      102191575,
+      404476221,
+      85633793,
+      85950759,
+      102084457,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_72ncV03aqKpFP5qEpcE37r_42.606430_-72.734736@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3271041522903309212b45e3592",
+      "sg:id": "SG_72ncV03aqKpFP5qEpcE37r_42.606430_-72.734736@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461725344,
-    "wof:geomhash":"840ef18abd5bc4fe4db1825689fc5800",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084457,
-            "localadmin_id":404476221,
-            "locality_id":85950759,
-            "neighbourhood_id":420523527,
-            "region_id":85688645,
-            "venue_id":672722291
-        }
+    "wof:country": "US",
+    "wof:created": 1461725344,
+    "wof:geomhash": "90f6fb0a50a7cb46a904ca065a161551",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084457,
+        "localadmin_id": 404476221,
+        "locality_id": 85950759,
+        "neighbourhood_id": 420523527,
+        "region_id": 85688645,
+        "venue_id": 672722291
+      }
     ],
-    "wof:id":672722291,
-    "wof:lastmodified":1472625959,
-    "wof:name":"LA Belle's Rest Home",
-    "wof:parent_id":420523527,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home",
-        "convalescent"
+    "wof:id": 672722291,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "LA Belle's Rest Home",
+    "wof:parent_id": 420523527,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home",
+      "convalescent"
     ]
-},
+  },
   "bbox": [
     -72.734736,
     42.60643,
     -72.734736,
     42.60643
-],
+  ],
   "geometry": {"coordinates":[-72.734736,42.60643],"type":"Point"}
 }

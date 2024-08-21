@@ -2,60 +2,67 @@
   "id": 672851327,
   "type": "Feature",
   "properties": {
-    "addr:full":"215 W Main St Norton MA 02766",
-    "addr:housenumber":"215",
-    "addr:postcode":"02766",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.210234,41.957311,-71.210234,41.957311",
-    "geom:latitude":41.957311,
-    "geom:longitude":-71.210234,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"215 W Main St",
-    "sg:city":"Norton",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "215 W Main St Norton MA 02766",
+    "addr:housenumber": "215",
+    "addr:postcode": "02766",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.210234,41.957311,-71.210234,41.957311",
+    "geom:latitude": 41.957311,
+    "geom:longitude": -71.210234,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Norton Middle School, 215 W Main St Norton MA US",
+    "ovtr:similarity": 3.0469589233398438,
+    "sg:address": "215 W Main St",
+    "sg:city": "Norton",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 285 0140",
-    "sg:postcode":"02766",
-    "sg:province":"MA",
-    "sg:website":"www.norton.mec.edu",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":311556548,
-        "sg:id":"SG_6AWAiU0L6GgmD0LvpM9ETM_41.957311_-71.210234@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 285 0140",
+    "sg:postcode": "02766",
+    "sg:province": "MA",
+    "sg:website": "www.norton.mec.edu",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 311556548,
+      "ovtr:id": "08f2a338e3490582032333f879bac890",
+      "sg:id": "SG_6AWAiU0L6GgmD0LvpM9ETM_41.957311_-71.210234@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461728018,
-    "wof:geomhash":"6c674931b95da03551f93ac88bb9bd16",
-    "wof:hierarchy":[],
-    "wof:id":672851327,
-    "wof:lastmodified":1510943354,
-    "wof:name":"Norton Middle School",
-    "wof:parent_id":420523301,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461728018,
+    "wof:geomhash": "6c674931b95da03551f93ac88bb9bd16",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672851327
+      }
+    ],
+    "wof:id": 672851327,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Norton Middle School",
+    "wof:parent_id": 420523301,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.210234,
     41.957311,
     -71.210234,
     41.957311
-],
+  ],
   "geometry": {"coordinates":[-71.210234,41.957311],"type":"Point"}
 }

@@ -2,74 +2,77 @@
   "id": 656362573,
   "type": "Feature",
   "properties": {
-    "addr:full":"176 Chestnut St Clinton MA 01510",
-    "addr:housenumber":"176",
-    "addr:postcode":"01510",
-    "addr:street":"Chestnut St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.682134,42.415769,-71.682134,42.415769",
-    "geom:latitude":42.415769,
-    "geom:longitude":-71.682134,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"176 Chestnut St",
-    "sg:city":"Clinton",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "176 Chestnut St Clinton MA 01510",
+    "addr:housenumber": "176",
+    "addr:postcode": "01510",
+    "addr:street": "Chestnut St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.682134,42.415769,-71.682134,42.415769",
+    "geom:latitude": 42.415769,
+    "geom:longitude": -71.682134,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Clinton Police Department, 176 Chestnut St Clinton MA US",
+    "ovtr:similarity": 2.767038106918335,
+    "sg:address": "176 Chestnut St",
+    "sg:city": "Clinton",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 365 4111",
-    "sg:postcode":"01510",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 365 4111",
+    "sg:postcode": "01510",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85817199,
-        102084655
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85817199,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7bqMkPDAGTFFoVohEOIeUc_42.415769_-71.682134@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32a4ad03c6203c752cf65e18dec",
+      "sg:id": "SG_7bqMkPDAGTFFoVohEOIeUc_42.415769_-71.682134@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711217,
-    "wof:geomhash":"f7d05edac7163e7f3e6ebf53b6ac5517",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85817199,
-            "region_id":85688645,
-            "venue_id":656362573
-        }
+    "wof:country": "US",
+    "wof:created": 1461711217,
+    "wof:geomhash": "35588ae7b6b4d638f31853ce737fcd26",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85817199,
+        "region_id": 85688645,
+        "venue_id": 656362573
+      }
     ],
-    "wof:id":656362573,
-    "wof:lastmodified":1472624961,
-    "wof:name":"Clinton Police Dept",
-    "wof:parent_id":85817199,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 656362573,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Clinton Police Dept",
+    "wof:parent_id": 85817199,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -71.682134,
     42.415769,
     -71.682134,
     42.415769
-],
+  ],
   "geometry": {"coordinates":[-71.682134,42.415769],"type":"Point"}
 }

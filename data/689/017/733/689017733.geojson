@@ -2,82 +2,85 @@
   "id": 689017733,
   "type": "Feature",
   "properties": {
-    "addr:full":"421 Marlborough St Boston MA 02115",
-    "addr:housenumber":"421",
-    "addr:postcode":"02115",
-    "addr:street":"Marlborough St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.089277,42.350027,-71.089277,42.350027",
-    "geom:latitude":42.350027,
-    "geom:longitude":-71.089277,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"421 Marlborough St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "421 Marlborough St Boston MA 02115",
+    "addr:housenumber": "421",
+    "addr:postcode": "02115",
+    "addr:street": "Marlborough St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.089277,42.350027,-71.089277,42.350027",
+    "geom:latitude": 42.350027,
+    "geom:longitude": -71.089277,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Corner Tavern, 421 Marlborough St Boston MA US",
+    "ovtr:similarity": 2.51157808303833,
+    "sg:address": "421 Marlborough St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 262 5555",
-    "sg:postcode":"02115",
-    "sg:province":"MA",
-    "sg:tags":[
-        "tavern"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 262 5555",
+    "sg:postcode": "02115",
+    "sg:province": "MA",
+    "sg:tags": [
+      "tavern"
     ],
-    "sg:website":"www.thecornerboston.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85804161,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "www.thecornerboston.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85804161,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2fzaL64uMuirGcd6q8Xt4F_42.350027_-71.089277@1303262207"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30663442a4503685e95e3464f04",
+      "sg:id": "SG_2fzaL64uMuirGcd6q8Xt4F_42.350027_-71.089277@1303262207"
     },
-    "wof:country":"US",
-    "wof:created":1461737621,
-    "wof:geomhash":"f815f9a990d41f35f0725eadc39e0f3d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85804161,
-            "region_id":85688645,
-            "venue_id":689017733
-        }
+    "wof:country": "US",
+    "wof:created": 1461737621,
+    "wof:geomhash": "88bbffd551d7b641f1f245027071f546",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85804161,
+        "region_id": 85688645,
+        "venue_id": 689017733
+      }
     ],
-    "wof:id":689017733,
-    "wof:lastmodified":1489008286,
-    "wof:name":"Corner Tavern",
-    "wof:parent_id":85804161,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "tavern"
+    "wof:id": 689017733,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Corner Tavern",
+    "wof:parent_id": 85804161,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tavern"
     ]
-},
+  },
   "bbox": [
     -71.089277,
     42.350027,
     -71.089277,
     42.350027
-],
+  ],
   "geometry": {"coordinates":[-71.089277,42.350027],"type":"Point"}
 }

@@ -2,76 +2,79 @@
   "id": 672771521,
   "type": "Feature",
   "properties": {
-    "addr:full":"130 County Rd Ipswich MA 01938",
-    "addr:housenumber":"130",
-    "addr:postcode":"01938",
-    "addr:street":"County Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.838109,42.66768,-70.838109,42.66768",
-    "geom:latitude":42.66768,
-    "geom:longitude":-70.838109,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"130 County Rd",
-    "sg:city":"Ipswich",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "130 County Rd Ipswich MA 01938",
+    "addr:housenumber": "130",
+    "addr:postcode": "01938",
+    "addr:street": "County Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.838109,42.667680,-70.838109,42.667680",
+    "geom:latitude": 42.66768,
+    "geom:longitude": -70.838109,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Lahey Clinic, 130 County Rd Ipswich MA US",
+    "ovtr:similarity": 2.277585983276367,
+    "sg:address": "130 County Rd",
+    "sg:city": "Ipswich",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 356 5522",
-    "sg:postcode":"01938",
-    "sg:province":"MA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 356 5522",
+    "sg:postcode": "01938",
+    "sg:province": "MA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85836261,
-        102084463
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85836261,
+      102084463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0hPDF6eNOkg4clc66oCc09_42.667680_-70.838109@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a300193040d303adbae73e9d5424",
+      "sg:id": "SG_0hPDF6eNOkg4clc66oCc09_42.667680_-70.838109@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461726403,
-    "wof:geomhash":"1c9b1ddaa6b4a4991fb234132a0769eb",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85836261,
-            "region_id":85688645,
-            "venue_id":672771521
-        }
+    "wof:country": "US",
+    "wof:created": 1461726403,
+    "wof:geomhash": "687b24a731f4bdd2ac73433ddbcd0326",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "neighbourhood_id": 85836261,
+        "region_id": 85688645,
+        "venue_id": 672771521
+      }
     ],
-    "wof:id":672771521,
-    "wof:lastmodified":1472626012,
-    "wof:name":"Lahey Clinic",
-    "wof:parent_id":85836261,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 672771521,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Lahey Clinic",
+    "wof:parent_id": 85836261,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -70.838109,
     42.66768,
     -70.838109,
     42.66768
-],
+  ],
   "geometry": {"coordinates":[-70.838109,42.66768],"type":"Point"}
 }

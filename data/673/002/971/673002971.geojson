@@ -2,78 +2,81 @@
   "id": 673002971,
   "type": "Feature",
   "properties": {
-    "addr:full":"79 Main St Concord MA 01742",
-    "addr:housenumber":"79",
-    "addr:postcode":"01742",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.351654,42.459447,-71.351654,42.459447",
-    "geom:latitude":42.459447,
-    "geom:longitude":-71.351654,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"79 Main St",
-    "sg:city":"Concord",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Used Merchandise",
-            "type":"Retail Goods"
-        }
+    "addr:full": "79 Main St Concord MA 01742",
+    "addr:housenumber": "79",
+    "addr:postcode": "01742",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.351654,42.459447,-71.351654,42.459447",
+    "geom:latitude": 42.459447,
+    "geom:longitude": -71.351654,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Barrow Book Store, 79 Main St Concord MA US",
+    "ovtr:similarity": 2.5175700187683105,
+    "sg:address": "79 Main St",
+    "sg:city": "Concord",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Used Merchandise",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 369 6084",
-    "sg:postcode":"01742",
-    "sg:province":"MA",
-    "sg:tags":[
-        "book",
-        "rare",
-        "dealer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 369 6084",
+    "sg:postcode": "01742",
+    "sg:province": "MA",
+    "sg:tags": [
+      "book",
+      "rare",
+      "dealer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85833807,
-        102084643
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85833807,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1sZ3WmLexiHZgfhwYpoBeT_42.459447_-71.351654@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306aca9844a03fbd985d6bb553e",
+      "sg:id": "SG_1sZ3WmLexiHZgfhwYpoBeT_42.459447_-71.351654@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461731634,
-    "wof:geomhash":"35b6c6f6b06f3ff3bdd478ce6d6d7f6e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85833807,
-            "region_id":85688645,
-            "venue_id":673002971
-        }
+    "wof:country": "US",
+    "wof:created": 1461731634,
+    "wof:geomhash": "5bc40053b3ec0c5ae9e5c25d17b4aa57",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85833807,
+        "region_id": 85688645,
+        "venue_id": 673002971
+      }
     ],
-    "wof:id":673002971,
-    "wof:lastmodified":1472624959,
-    "wof:name":"Barrow Book Store",
-    "wof:parent_id":85833807,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "book",
-        "rare",
-        "dealer"
+    "wof:id": 673002971,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Barrow Book Store",
+    "wof:parent_id": 85833807,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "book",
+      "rare",
+      "dealer"
     ]
-},
+  },
   "bbox": [
     -71.351654,
     42.459447,
     -71.351654,
     42.459447
-],
+  ],
   "geometry": {"coordinates":[-71.351654,42.459447],"type":"Point"}
 }

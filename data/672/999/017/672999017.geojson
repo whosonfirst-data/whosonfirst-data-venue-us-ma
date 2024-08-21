@@ -2,83 +2,86 @@
   "id": 672999017,
   "type": "Feature",
   "properties": {
-    "addr:full":"325 Stevens St Hyannis MA 02601",
-    "addr:housenumber":"325",
-    "addr:postcode":"02601",
-    "addr:street":"Stevens St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.293461,41.649731,-70.293461,41.649731",
-    "geom:latitude":41.649731,
-    "geom:longitude":-70.293461,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"325 Stevens St",
-    "sg:city":"Hyannis",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Electrical",
-            "type":"Services"
-        }
+    "addr:full": "325 Stevens St Hyannis MA 02601",
+    "addr:housenumber": "325",
+    "addr:postcode": "02601",
+    "addr:street": "Stevens St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.293461,41.649731,-70.293461,41.649731",
+    "geom:latitude": 41.649731,
+    "geom:longitude": -70.293461,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Dyer Electrical Company, 325 Stevens St Hyannis MA US",
+    "ovtr:similarity": 3.04740309715271,
+    "sg:address": "325 Stevens St",
+    "sg:city": "Hyannis",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Electrical",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 775 2525",
-    "sg:postcode":"02601",
-    "sg:province":"MA",
-    "sg:tags":[
-        "electric",
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 775 2525",
+    "sg:postcode": "02601",
+    "sg:province": "MA",
+    "sg:tags": [
+      "electric",
+      "contractor"
     ],
-    "sg:website":"www.dyerelectrical.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811889,
-        102191575,
-        404475893,
-        85633793,
-        85950321,
-        102084379,
-        85688645
+    "sg:website": "www.dyerelectrical.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811889,
+      102191575,
+      404475893,
+      85633793,
+      85950321,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2xsiyKmiSdql9yNPXVaqHU_41.649731_-70.293461@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3172d76b50003e7fa36ee3bb82a",
+      "sg:id": "SG_2xsiyKmiSdql9yNPXVaqHU_41.649731_-70.293461@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461731555,
-    "wof:geomhash":"8234b9b39d6e0dd86eb7a776f5a5753b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475893,
-            "locality_id":85950321,
-            "neighbourhood_id":85811889,
-            "region_id":85688645,
-            "venue_id":672999017
-        }
+    "wof:country": "US",
+    "wof:created": 1461731555,
+    "wof:geomhash": "2433ef9dcf31151b278da8f0082144bb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475893,
+        "locality_id": 85950321,
+        "neighbourhood_id": 85811889,
+        "region_id": 85688645,
+        "venue_id": 672999017
+      }
     ],
-    "wof:id":672999017,
-    "wof:lastmodified":1472626198,
-    "wof:name":"Dyer Electrical Co",
-    "wof:parent_id":85811889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "electric",
-        "contractor"
+    "wof:id": 672999017,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Dyer Electrical Co",
+    "wof:parent_id": 85811889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "electric",
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -70.293461,
     41.649731,
     -70.293461,
     41.649731
-],
-  "geometry": {"coordinates":[-70.29346099999999,41.649731],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.293461,41.649731],"type":"Point"}
 }

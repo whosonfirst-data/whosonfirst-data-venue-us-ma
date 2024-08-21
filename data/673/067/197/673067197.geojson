@@ -2,74 +2,77 @@
   "id": 673067197,
   "type": "Feature",
   "properties": {
-    "addr:full":"63 Main St Blackstone MA 01504",
-    "addr:housenumber":"63",
-    "addr:postcode":"01504",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.53376,42.019291,-71.53376,42.019291",
-    "geom:latitude":42.019291,
-    "geom:longitude":-71.53376,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"63 Main St",
-    "sg:city":"Blackstone",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "63 Main St Blackstone MA 01504",
+    "addr:housenumber": "63",
+    "addr:postcode": "01504",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.533760,42.019291,-71.533760,42.019291",
+    "geom:latitude": 42.019291,
+    "geom:longitude": -71.53376,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "TKO Pizza, 63 Main St Blackstone MA US",
+    "ovtr:similarity": 2.191736936569214,
+    "sg:address": "63 Main St",
+    "sg:city": "Blackstone",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 883 7607",
-    "sg:postcode":"01504",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 883 7607",
+    "sg:postcode": "01504",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688509,
-        85633793,
-        85854703,
-        102081597
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688509,
+      85633793,
+      85854703,
+      102081597
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Phxf2oBMWmoRUulMl57Ca_42.018946_-71.533433@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33c4c2d1961037ea6403ea27613",
+      "sg:id": "SG_5Phxf2oBMWmoRUulMl57Ca_42.018946_-71.533433@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733086,
-    "wof:geomhash":"88dc9c1837599d95714914b7a238b26b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081597,
-            "neighbourhood_id":85854703,
-            "region_id":85688509,
-            "venue_id":673067197
-        }
+    "wof:country": "US",
+    "wof:created": 1461733086,
+    "wof:geomhash": "9e54b430c73fb2f96c53268ff24d395c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081597,
+        "neighbourhood_id": 85854703,
+        "region_id": 85688509,
+        "venue_id": 673067197
+      }
     ],
-    "wof:id":673067197,
-    "wof:lastmodified":1472625140,
-    "wof:name":"Tko Pizza",
-    "wof:parent_id":85854703,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 673067197,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Tko Pizza",
+    "wof:parent_id": 85854703,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.53376,
     42.019291,
     -71.53376,
     42.019291
-],
+  ],
   "geometry": {"coordinates":[-71.53376,42.019291],"type":"Point"}
 }

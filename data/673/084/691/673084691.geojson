@@ -2,86 +2,89 @@
   "id": 673084691,
   "type": "Feature",
   "properties": {
-    "addr:full":"25 Main St Wayland MA 01778",
-    "addr:housenumber":"25",
-    "addr:postcode":"01778",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.363437,42.31665,-71.363437,42.31665",
-    "geom:latitude":42.31665,
-    "geom:longitude":-71.363437,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"25 Main St",
-    "sg:city":"Wayland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "25 Main St Wayland MA 01778",
+    "addr:housenumber": "25",
+    "addr:postcode": "01778",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.363437,42.316650,-71.363437,42.316650",
+    "geom:latitude": 42.31665,
+    "geom:longitude": -71.363437,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Domino's Pizza, 25 Main St Wayland MA US",
+    "ovtr:similarity": 2.924665927886963,
+    "sg:address": "25 Main St",
+    "sg:city": "Wayland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/wayland/84588-dominos-pizza/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 651 8210",
-    "sg:postcode":"01778",
-    "sg:province":"MA",
-    "sg:tags":[
-        "american",
-        "wing",
-        "pizza"
+    "sg:menulink": "http://www.allmenus.com/ma/wayland/84588-dominos-pizza/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 651 8210",
+    "sg:postcode": "01778",
+    "sg:province": "MA",
+    "sg:tags": [
+      "american",
+      "wing",
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        102191575,
-        404476463,
-        85633793,
-        85950623,
-        102084643
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      102191575,
+      404476463,
+      85633793,
+      85950623,
+      102084643
     ],
-    "wof:brand_id":420573851,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0p0xoVI4HLELkDwwNI9puw_42.316650_-71.363437@1299784598"
+    "wof:brand_id": 420573851,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306c3ceaa880334ad8f42b979fc",
+      "sg:id": "SG_0p0xoVI4HLELkDwwNI9puw_42.316650_-71.363437@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461733453,
-    "wof:geomhash":"28b7ce5611f1b3d680199d003ced998e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476463,
-            "locality_id":85950623,
-            "region_id":85688645,
-            "venue_id":673084691
-        }
+    "wof:country": "US",
+    "wof:created": 1461733453,
+    "wof:geomhash": "28b7ce5611f1b3d680199d003ced998e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476463,
+        "locality_id": 85950623,
+        "region_id": 85688645,
+        "venue_id": 673084691
+      }
     ],
-    "wof:id":673084691,
-    "wof:lastmodified":1511323096,
-    "wof:name":"Domino's Pizza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "wing",
-        "pizza"
+    "wof:id": 673084691,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Domino's Pizza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "wing",
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.363437,
     42.31665,
     -71.363437,
     42.31665
-],
+  ],
   "geometry": {"coordinates":[-71.363437,42.31665],"type":"Point"}
 }

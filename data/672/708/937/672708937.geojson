@@ -2,76 +2,79 @@
   "id": 672708937,
   "type": "Feature",
   "properties": {
-    "addr:full":"1594 Main St Jefferson MA 01522",
-    "addr:housenumber":"1594",
-    "addr:postcode":"01522",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.879169,42.355856,-71.879169,42.355856",
-    "geom:latitude":42.355856,
-    "geom:longitude":-71.879169,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1594 Main St",
-    "sg:city":"Jefferson",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1594 Main St Jefferson MA 01522",
+    "addr:housenumber": "1594",
+    "addr:postcode": "01522",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.879169,42.355856,-71.879169,42.355856",
+    "geom:latitude": 42.355856,
+    "geom:longitude": -71.879169,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Jefferson Service Station, 1594 Main St Jefferson MA US",
+    "ovtr:similarity": 3.8676600456237793,
+    "sg:address": "1594 Main St",
+    "sg:city": "Jefferson",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 829 9451",
-    "sg:postcode":"01522",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 829 9451",
+    "sg:postcode": "01522",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85843497,
-        102084655
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85843497,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_241n2iyb8Z0Oa6Fa9GGSmL_42.355856_-71.879169@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33d966d601203bc5792356b451a",
+      "sg:id": "SG_241n2iyb8Z0Oa6Fa9GGSmL_42.355856_-71.879169@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461725058,
-    "wof:geomhash":"316e5a0d965d840bac5e9ec4bb4c78eb",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85843497,
-            "region_id":85688645,
-            "venue_id":672708937
-        }
+    "wof:country": "US",
+    "wof:created": 1461725058,
+    "wof:geomhash": "cdefe7f566256f1c53c545118a06b349",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85843497,
+        "region_id": 85688645,
+        "venue_id": 672708937
+      }
     ],
-    "wof:id":672708937,
-    "wof:lastmodified":1472625960,
-    "wof:name":"Jefferson Service Station",
-    "wof:parent_id":85843497,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 672708937,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Jefferson Service Station",
+    "wof:parent_id": 85843497,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -71.879169,
     42.355856,
     -71.879169,
     42.355856
-],
+  ],
   "geometry": {"coordinates":[-71.879169,42.355856],"type":"Point"}
 }

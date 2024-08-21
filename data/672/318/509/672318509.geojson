@@ -2,80 +2,83 @@
   "id": 672318509,
   "type": "Feature",
   "properties": {
-    "addr:full":"185 Belmont Ave Springfield MA 01108",
-    "addr:housenumber":"185",
-    "addr:postcode":"01108",
-    "addr:street":"Belmont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.569974,42.088462,-72.569974,42.088462",
-    "geom:latitude":42.088462,
-    "geom:longitude":-72.569974,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"185 Belmont Ave",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "185 Belmont Ave Springfield MA 01108",
+    "addr:housenumber": "185",
+    "addr:postcode": "01108",
+    "addr:street": "Belmont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.569974,42.088462,-72.569974,42.088462",
+    "geom:latitude": 42.088462,
+    "geom:longitude": -72.569974,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Dunn \u0026 Phillips, 185 Belmont Ave Springfield MA US",
+    "ovtr:similarity": 2.5136160850524902,
+    "sg:address": "185 Belmont Ave",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 787 9955",
-    "sg:postcode":"01108",
-    "sg:province":"MA",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 787 9955",
+    "sg:postcode": "01108",
+    "sg:province": "MA",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85881109,
-        102191575,
-        404475977,
-        85633793,
-        85950771,
-        102084627,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85881109,
+      102191575,
+      404475977,
+      85633793,
+      85950771,
+      102084627,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6namU3Xaj0bcXLZTYYzPWP_42.088462_-72.569974@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a14820ad87280377ad6673646c73",
+      "sg:id": "SG_6namU3Xaj0bcXLZTYYzPWP_42.088462_-72.569974@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715977,
-    "wof:geomhash":"da1bc7992f9fff9dec10aac60b452c87",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084627,
-            "localadmin_id":404475977,
-            "locality_id":85950771,
-            "neighbourhood_id":85881109,
-            "region_id":85688645,
-            "venue_id":672318509
-        }
+    "wof:country": "US",
+    "wof:created": 1461715977,
+    "wof:geomhash": "f9d1805b3e255a3378d14be5deedf071",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "localadmin_id": 404475977,
+        "locality_id": 85950771,
+        "neighbourhood_id": 85881109,
+        "region_id": 85688645,
+        "venue_id": 672318509
+      }
     ],
-    "wof:id":672318509,
-    "wof:lastmodified":1472625545,
-    "wof:name":"Dunn & Phillips",
-    "wof:parent_id":85881109,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:id": 672318509,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Dunn \u0026 Phillips",
+    "wof:parent_id": 85881109,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -72.569974,
     42.088462,
     -72.569974,
     42.088462
-],
+  ],
   "geometry": {"coordinates":[-72.569974,42.088462],"type":"Point"}
 }

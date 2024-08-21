@@ -2,81 +2,84 @@
   "id": 689015001,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 Charles St Boston MA 02114",
-    "addr:housenumber":"20",
-    "addr:postcode":"02114",
-    "addr:street":"Charles St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.070814,42.358798,-71.070814,42.358798",
-    "geom:latitude":42.358798,
-    "geom:longitude":-71.070814,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20 Charles St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "20 Charles St Boston MA 02114",
+    "addr:housenumber": "20",
+    "addr:postcode": "02114",
+    "addr:street": "Charles St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.070814,42.358798,-71.070814,42.358798",
+    "geom:latitude": 42.358798,
+    "geom:longitude": -71.070814,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "The Upper Crust Pizzeria, 20 Charles St Boston MA US",
+    "ovtr:similarity": 3.295319080352783,
+    "sg:address": "20 Charles St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 723 9600",
-    "sg:postcode":"02114",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 723 9600",
+    "sg:postcode": "02114",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "sg:website":"www.theuppercrustpizzeria.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85805015,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "www.theuppercrustpizzeria.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85805015,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7F279dazl8LURBYjuuRGXZ_42.358798_-71.070814@1303262207"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30663826a6103acbb06e061ffbb",
+      "sg:id": "SG_7F279dazl8LURBYjuuRGXZ_42.358798_-71.070814@1303262207"
     },
-    "wof:country":"US",
-    "wof:created":1461737567,
-    "wof:geomhash":"e0b3fddac5968569185b74886e00fa0f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85805015,
-            "region_id":85688645,
-            "venue_id":689015001
-        }
+    "wof:country": "US",
+    "wof:created": 1461737567,
+    "wof:geomhash": "ba21619cf249ddbb33489d3ed7c1fb5e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85805015,
+        "region_id": 85688645,
+        "venue_id": 689015001
+      }
     ],
-    "wof:id":689015001,
-    "wof:lastmodified":1472624978,
-    "wof:name":"Upper Crust Pizzeria",
-    "wof:parent_id":85805015,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 689015001,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Upper Crust Pizzeria",
+    "wof:parent_id": 85805015,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.070814,
     42.358798,
     -71.070814,
     42.358798
-],
+  ],
   "geometry": {"coordinates":[-71.070814,42.358798],"type":"Point"}
 }

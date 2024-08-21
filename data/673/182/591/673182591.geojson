@@ -2,76 +2,79 @@
   "id": 673182591,
   "type": "Feature",
   "properties": {
-    "addr:full":"7 Littleton Rd Westford MA 01886",
-    "addr:housenumber":"7",
-    "addr:postcode":"01886",
-    "addr:street":"Littleton Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.400429,42.57709,-71.400429,42.57709",
-    "geom:latitude":42.57709,
-    "geom:longitude":-71.400429,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7 Littleton Rd",
-    "sg:city":"Westford",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Pet Boarding",
-            "type":"Services"
-        }
+    "addr:full": "7 Littleton Rd Westford MA 01886",
+    "addr:housenumber": "7",
+    "addr:postcode": "01886",
+    "addr:street": "Littleton Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.400429,42.577090,-71.400429,42.577090",
+    "geom:latitude": 42.57709,
+    "geom:longitude": -71.400429,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Ruff House Dog Day Care, 7 Littleton Rd Westford MA US",
+    "ovtr:similarity": 2.5037360191345215,
+    "sg:address": "7 Littleton Rd",
+    "sg:city": "Westford",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Pet Boarding",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 692 2584",
-    "sg:postcode":"01886",
-    "sg:province":"MA",
-    "sg:tags":[
-        "boarding/pet",
-        "sitting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 692 2584",
+    "sg:postcode": "01886",
+    "sg:province": "MA",
+    "sg:tags": [
+      "boarding/pet",
+      "sitting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85854471,
-        102084643
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85854471,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4MknW9JN9NlIVuxeuidkjO_42.577090_-71.400429@1303262194"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3079c43372303aa3815f42f18b6",
+      "sg:id": "SG_4MknW9JN9NlIVuxeuidkjO_42.577090_-71.400429@1303262194"
     },
-    "wof:country":"US",
-    "wof:created":1461735483,
-    "wof:geomhash":"db8e19d7c6ef8572e42f59b2bcdebac3",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85854471,
-            "region_id":85688645,
-            "venue_id":673182591
-        }
+    "wof:country": "US",
+    "wof:created": 1461735483,
+    "wof:geomhash": "6b9e67474dfac599493bfd1603242cc5",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85854471,
+        "region_id": 85688645,
+        "venue_id": 673182591
+      }
     ],
-    "wof:id":673182591,
-    "wof:lastmodified":1472625524,
-    "wof:name":"Ruff House Dog Day Care",
-    "wof:parent_id":85854471,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "boarding/pet",
-        "sitting"
+    "wof:id": 673182591,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Ruff House Dog Day Care",
+    "wof:parent_id": 85854471,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "boarding/pet",
+      "sitting"
     ]
-},
+  },
   "bbox": [
     -71.400429,
     42.57709,
     -71.400429,
     42.57709
-],
+  ],
   "geometry": {"coordinates":[-71.400429,42.57709],"type":"Point"}
 }

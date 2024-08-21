@@ -2,90 +2,93 @@
   "id": 673078741,
   "type": "Feature",
   "properties": {
-    "addr:full":"86 White St East Boston MA 02128",
-    "addr:housenumber":"86",
-    "addr:postcode":"02128",
-    "addr:street":"White St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.035292,42.380545,-71.035292,42.380545",
-    "geom:latitude":42.380545,
-    "geom:longitude":-71.035292,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"86 White St",
-    "sg:city":"East Boston",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "86 White St East Boston MA 02128",
+    "addr:housenumber": "86",
+    "addr:postcode": "02128",
+    "addr:street": "White St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.035292,42.380545,-71.035292,42.380545",
+    "geom:latitude": 42.380545,
+    "geom:longitude": -71.035292,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "East Boston High School, 86 White St Boston MA US",
+    "ovtr:similarity": 3.429819107055664,
+    "sg:address": "86 White St",
+    "sg:city": "East Boston",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 635 9896",
-    "sg:postcode":"02128",
-    "sg:province":"MA",
-    "sg:tags":[
-        "high",
-        "middle"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 635 9896",
+    "sg:postcode": "02128",
+    "sg:province": "MA",
+    "sg:tags": [
+      "high",
+      "middle"
     ],
-    "sg:website":"http://www.bostonpublicschools.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108712227,
-        102530741,
-        85815995,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "http://www.bostonpublicschools.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108712227,
+      102530741,
+      85815995,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":374367343,
-        "sg:id":"SG_7kQSXIWEKsYQ0nISfa5Wez_42.380614_-71.034683@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 374367343,
+      "ovtr:id": "08f2a30664a497b20375043d979daa47",
+      "sg:id": "SG_7kQSXIWEKsYQ0nISfa5Wez_42.380614_-71.034683@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733329,
-    "wof:geomhash":"2de1dac5332a638c23d3508c0a0d1be4",
-    "wof:hierarchy":[
-        {
-            "campus_id":102530741,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "microhood_id":1108712227,
-            "neighbourhood_id":85815995,
-            "region_id":85688645,
-            "venue_id":673078741
-        }
+    "wof:country": "US",
+    "wof:created": 1461733329,
+    "wof:geomhash": "2de1dac5332a638c23d3508c0a0d1be4",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102530741,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "microhood_id": 1108712227,
+        "neighbourhood_id": 85815995,
+        "region_id": 85688645,
+        "venue_id": 673078741
+      }
     ],
-    "wof:id":673078741,
-    "wof:lastmodified":1510941617,
-    "wof:name":"East Boston High School",
-    "wof:parent_id":102530741,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "high",
-        "middle"
+    "wof:id": 673078741,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "East Boston High School",
+    "wof:parent_id": 102530741,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "high",
+      "middle"
     ]
-},
+  },
   "bbox": [
     -71.035292,
     42.380545,
     -71.035292,
     42.380545
-],
+  ],
   "geometry": {"coordinates":[-71.035292,42.380545],"type":"Point"}
 }

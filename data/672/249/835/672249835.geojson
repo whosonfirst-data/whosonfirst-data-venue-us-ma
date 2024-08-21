@@ -2,74 +2,77 @@
   "id": 672249835,
   "type": "Feature",
   "properties": {
-    "addr:full":"47 Main St Hanover MA 02339",
-    "addr:housenumber":"47",
-    "addr:postcode":"02339",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.845708,42.117547,-70.845708,42.117547",
-    "geom:latitude":42.117547,
-    "geom:longitude":-70.845708,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"47 Main St",
-    "sg:city":"Hanover",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "47 Main St Hanover MA 02339",
+    "addr:housenumber": "47",
+    "addr:postcode": "02339",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.845708,42.117547,-70.845708,42.117547",
+    "geom:latitude": 42.117547,
+    "geom:longitude": -70.845708,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Hanover Cemetery, 47 Main St Hanover MA US",
+    "ovtr:similarity": 3.5829789638519287,
+    "sg:address": "47 Main St",
+    "sg:city": "Hanover",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 826 5574",
-    "sg:postcode":"02339",
-    "sg:province":"MA",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 826 5574",
+    "sg:postcode": "02339",
+    "sg:province": "MA",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85823821,
-        102084367
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85823821,
+      102084367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0M82MGyfnRXso6tRP3cJYV_42.117547_-70.845708@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a339640d6694036a821d83baef4e",
+      "sg:id": "SG_0M82MGyfnRXso6tRP3cJYV_42.117547_-70.845708@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461714610,
-    "wof:geomhash":"751c0d5ea371c352cd21ab423d12f361",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "neighbourhood_id":85823821,
-            "region_id":85688645,
-            "venue_id":672249835
-        }
+    "wof:country": "US",
+    "wof:created": 1461714610,
+    "wof:geomhash": "fc2515ec4d611be05711b7295a73e1cb",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "neighbourhood_id": 85823821,
+        "region_id": 85688645,
+        "venue_id": 672249835
+      }
     ],
-    "wof:id":672249835,
-    "wof:lastmodified":1472625374,
-    "wof:name":"Hanover Cemetery",
-    "wof:parent_id":85823821,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:id": 672249835,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Hanover Cemetery",
+    "wof:parent_id": 85823821,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -70.845708,
     42.117547,
     -70.845708,
     42.117547
-],
+  ],
   "geometry": {"coordinates":[-70.845708,42.117547],"type":"Point"}
 }

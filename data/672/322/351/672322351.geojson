@@ -2,80 +2,83 @@
   "id": 672322351,
   "type": "Feature",
   "properties": {
-    "addr:full":"196 Columbia St Fall River MA 02721",
-    "addr:housenumber":"196",
-    "addr:postcode":"02721",
-    "addr:street":"Columbia St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.16268,41.699149,-71.16268,41.699149",
-    "geom:latitude":41.699149,
-    "geom:longitude":-71.16268,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"196 Columbia St",
-    "sg:city":"Fall River",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "196 Columbia St Fall River MA 02721",
+    "addr:housenumber": "196",
+    "addr:postcode": "02721",
+    "addr:street": "Columbia St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.162680,41.699149,-71.162680,41.699149",
+    "geom:latitude": 41.699149,
+    "geom:longitude": -71.16268,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Tony's Bakery, 196 Columbia St Fall River MA US",
+    "ovtr:similarity": 2.47967791557312,
+    "sg:address": "196 Columbia St",
+    "sg:city": "Fall River",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 675 0015",
-    "sg:postcode":"02721",
-    "sg:province":"MA",
-    "sg:tags":[
-        "baker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 675 0015",
+    "sg:postcode": "02721",
+    "sg:province": "MA",
+    "sg:tags": [
+      "baker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85818859,
-        102191575,
-        404476177,
-        85633793,
-        85950371,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85818859,
+      102191575,
+      404476177,
+      85633793,
+      85950371,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5V8rq1S4SRmgei0Gl6h3H0_41.699149_-71.162680@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33aa18024eb03ea965e03dea6f5",
+      "sg:id": "SG_5V8rq1S4SRmgei0Gl6h3H0_41.699149_-71.162680@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461716074,
-    "wof:geomhash":"7cda31d4f34bca1f8a14167605335ae2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476177,
-            "locality_id":85950371,
-            "neighbourhood_id":85818859,
-            "region_id":85688645,
-            "venue_id":672322351
-        }
+    "wof:country": "US",
+    "wof:created": 1461716074,
+    "wof:geomhash": "92d7f0d4701f56c5b9843662a4da8489",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476177,
+        "locality_id": 85950371,
+        "neighbourhood_id": 85818859,
+        "region_id": 85688645,
+        "venue_id": 672322351
+      }
     ],
-    "wof:id":672322351,
-    "wof:lastmodified":1472625543,
-    "wof:name":"Tony's Bakery",
-    "wof:parent_id":85818859,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "baker"
+    "wof:id": 672322351,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Tony's Bakery",
+    "wof:parent_id": 85818859,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "baker"
     ]
-},
+  },
   "bbox": [
     -71.16268,
     41.699149,
     -71.16268,
     41.699149
-],
-  "geometry": {"coordinates":[-71.16267999999999,41.699149],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.16268,41.699149],"type":"Point"}
 }

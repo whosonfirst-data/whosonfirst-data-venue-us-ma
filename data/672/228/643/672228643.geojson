@@ -2,81 +2,84 @@
   "id": 672228643,
   "type": "Feature",
   "properties": {
-    "addr:full":"194 Park Ave Worcester MA 01609",
-    "addr:housenumber":"194",
-    "addr:postcode":"01609",
-    "addr:street":"Park Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.81414,42.272845,-71.81414,42.272845",
-    "geom:latitude":42.272845,
-    "geom:longitude":-71.81414,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"194 Park Ave",
-    "sg:city":"Worcester",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "194 Park Ave Worcester MA 01609",
+    "addr:housenumber": "194",
+    "addr:postcode": "01609",
+    "addr:street": "Park Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.814140,42.272845,-71.814140,42.272845",
+    "geom:latitude": 42.272845,
+    "geom:longitude": -71.81414,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Bagel Time, 194 Park Ave Worcester MA US",
+    "ovtr:similarity": 2.2184760570526123,
+    "sg:address": "194 Park Ave",
+    "sg:city": "Worcester",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 798 0440",
-    "sg:postcode":"01609",
-    "sg:province":"MA",
-    "sg:tags":[
-        "bagel"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 798 0440",
+    "sg:postcode": "01609",
+    "sg:province": "MA",
+    "sg:tags": [
+      "bagel"
     ],
-    "sg:website":"www.bageltimeusa.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85857275,
-        102191575,
-        404476639,
-        85633793,
-        85950375,
-        102084655,
-        85688645
+    "sg:website": "www.bageltimeusa.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85857275,
+      102191575,
+      404476639,
+      85633793,
+      85950375,
+      102084655,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6OhPuFJH339tPjEkgQHOKj_42.272845_-71.814140@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33d99b958980384a8ae516758c5",
+      "sg:id": "SG_6OhPuFJH339tPjEkgQHOKj_42.272845_-71.814140@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461714154,
-    "wof:geomhash":"707d4b8762b94324b286c956e6cd4ced",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476639,
-            "locality_id":85950375,
-            "neighbourhood_id":85857275,
-            "region_id":85688645,
-            "venue_id":672228643
-        }
+    "wof:country": "US",
+    "wof:created": 1461714154,
+    "wof:geomhash": "23b61a30e6ef989cd6d0ee6d16e7f9c8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "localadmin_id": 404476639,
+        "locality_id": 85950375,
+        "neighbourhood_id": 85857275,
+        "region_id": 85688645,
+        "venue_id": 672228643
+      }
     ],
-    "wof:id":672228643,
-    "wof:lastmodified":1472625265,
-    "wof:name":"Bagel Time",
-    "wof:parent_id":85857275,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bagel"
+    "wof:id": 672228643,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Bagel Time",
+    "wof:parent_id": 85857275,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bagel"
     ]
-},
+  },
   "bbox": [
     -71.81414,
     42.272845,
     -71.81414,
     42.272845
-],
-  "geometry": {"coordinates":[-71.81413999999999,42.272845],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.81414,42.272845],"type":"Point"}
 }

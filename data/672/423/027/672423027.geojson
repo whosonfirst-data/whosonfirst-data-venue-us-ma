@@ -2,76 +2,79 @@
   "id": 672423027,
   "type": "Feature",
   "properties": {
-    "addr:full":"207 Southbridge St Auburn MA 01501",
-    "addr:housenumber":"207",
-    "addr:postcode":"01501",
-    "addr:street":"Southbridge St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.827312,42.216991,-71.827312,42.216991",
-    "geom:latitude":42.216991,
-    "geom:longitude":-71.827312,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"207 Southbridge St",
-    "sg:city":"Auburn",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "207 Southbridge St Auburn MA 01501",
+    "addr:housenumber": "207",
+    "addr:postcode": "01501",
+    "addr:street": "Southbridge St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.827312,42.216991,-71.827312,42.216991",
+    "geom:latitude": 42.216991,
+    "geom:longitude": -71.827312,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Auburn Dermatology, 207 Southbridge St Auburn MA US",
+    "ovtr:similarity": 2.657371997833252,
+    "sg:address": "207 Southbridge St",
+    "sg:city": "Auburn",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 832 7118",
-    "sg:postcode":"01501",
-    "sg:province":"MA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 832 7118",
+    "sg:postcode": "01501",
+    "sg:province": "MA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85840215,
-        102084655
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85840215,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6GIc5KCfQDz9GBaHYvb3Uo_42.216991_-71.827312@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33ca3b1a7a803e50722a8c837d1",
+      "sg:id": "SG_6GIc5KCfQDz9GBaHYvb3Uo_42.216991_-71.827312@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461718480,
-    "wof:geomhash":"a3357d2ad5b1547151f0dd24e7b631ea",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85840215,
-            "region_id":85688645,
-            "venue_id":672423027
-        }
+    "wof:country": "US",
+    "wof:created": 1461718480,
+    "wof:geomhash": "2af082bc27062d9721e20d3ab97b1eb4",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85840215,
+        "region_id": 85688645,
+        "venue_id": 672423027
+      }
     ],
-    "wof:id":672423027,
-    "wof:lastmodified":1472625688,
-    "wof:name":"Auburn Dermatology",
-    "wof:parent_id":85840215,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 672423027,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Auburn Dermatology",
+    "wof:parent_id": 85840215,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -71.827312,
     42.216991,
     -71.827312,
     42.216991
-],
-  "geometry": {"coordinates":[-71.82731200000001,42.216991],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.827312,42.216991],"type":"Point"}
 }

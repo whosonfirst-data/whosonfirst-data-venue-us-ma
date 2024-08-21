@@ -2,80 +2,83 @@
   "id": 672329509,
   "type": "Feature",
   "properties": {
-    "addr:full":"48 Hamilton St Saugus MA 01906",
-    "addr:housenumber":"48",
-    "addr:postcode":"01906",
-    "addr:street":"Hamilton St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.003776,42.465757,-71.003776,42.465757",
-    "geom:latitude":42.465757,
-    "geom:longitude":-71.003776,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"48 Hamilton St",
-    "sg:city":"Saugus",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "48 Hamilton St Saugus MA 01906",
+    "addr:housenumber": "48",
+    "addr:postcode": "01906",
+    "addr:street": "Hamilton St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.003776,42.465757,-71.003776,42.465757",
+    "geom:latitude": 42.465757,
+    "geom:longitude": -71.003776,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Peter's Pizza, 48 Hamilton St Saugus MA US",
+    "ovtr:similarity": 2.2728140354156494,
+    "sg:address": "48 Hamilton St",
+    "sg:city": "Saugus",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 233 8989",
-    "sg:postcode":"01906",
-    "sg:province":"MA",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 233 8989",
+    "sg:postcode": "01906",
+    "sg:province": "MA",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523459,
-        102191575,
-        404476265,
-        85633793,
-        85950809,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523459,
+      102191575,
+      404476265,
+      85633793,
+      85950809,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0nLyfKyRDDiIrZ3ob9DnPw_42.465757_-71.003776@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3074085e84003c4f50dc78613fd",
+      "sg:id": "SG_0nLyfKyRDDiIrZ3ob9DnPw_42.465757_-71.003776@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461716224,
-    "wof:geomhash":"2f9216bf712abc9a348bf15fb3eff1e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476265,
-            "locality_id":85950809,
-            "neighbourhood_id":420523459,
-            "region_id":85688645,
-            "venue_id":672329509
-        }
+    "wof:country": "US",
+    "wof:created": 1461716224,
+    "wof:geomhash": "3cd4940713535504db4ad5919d853f16",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476265,
+        "locality_id": 85950809,
+        "neighbourhood_id": 420523459,
+        "region_id": 85688645,
+        "venue_id": 672329509
+      }
     ],
-    "wof:id":672329509,
-    "wof:lastmodified":1472625554,
-    "wof:name":"Peter's Pizza",
-    "wof:parent_id":420523459,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:id": 672329509,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Peter's Pizza",
+    "wof:parent_id": 420523459,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -71.003776,
     42.465757,
     -71.003776,
     42.465757
-],
+  ],
   "geometry": {"coordinates":[-71.003776,42.465757],"type":"Point"}
 }

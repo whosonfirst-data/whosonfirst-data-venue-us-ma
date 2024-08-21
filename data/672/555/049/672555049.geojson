@@ -2,82 +2,85 @@
   "id": 672555049,
   "type": "Feature",
   "properties": {
-    "addr:full":"1000 North St Pittsfield MA 01201",
-    "addr:housenumber":"1000",
-    "addr:postcode":"01201",
-    "addr:street":"North St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-73.245452,42.467808,-73.245452,42.467808",
-    "geom:latitude":42.467808,
-    "geom:longitude":-73.245452,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1000 North St",
-    "sg:city":"Pittsfield",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "1000 North St Pittsfield MA 01201",
+    "addr:housenumber": "1000",
+    "addr:postcode": "01201",
+    "addr:street": "North St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-73.245452,42.467808,-73.245452,42.467808",
+    "geom:latitude": 42.467808,
+    "geom:longitude": -73.245452,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Mt Greylock Extended Care, 1000 North St Pittsfield MA US",
+    "ovtr:similarity": 3.0433199405670166,
+    "sg:address": "1000 North St",
+    "sg:city": "Pittsfield",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 499 7186",
-    "sg:postcode":"01201",
-    "sg:province":"MA",
-    "sg:tags":[
-        "home",
-        "convalescent"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 499 7186",
+    "sg:postcode": "01201",
+    "sg:province": "MA",
+    "sg:tags": [
+      "home",
+      "convalescent"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85853761,
-        102191575,
-        404476123,
-        85633793,
-        85950325,
-        102084369,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85853761,
+      102191575,
+      404476123,
+      85633793,
+      85950325,
+      102084369,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7LzqFAjMXZErg8qANU2iib_42.467808_-73.245452@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2b89a54268411030deb7ccb1eeb19",
+      "sg:id": "SG_7LzqFAjMXZErg8qANU2iib_42.467808_-73.245452@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461721581,
-    "wof:geomhash":"5fa52c1236fa890893cb8ef087d5aded",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084369,
-            "localadmin_id":404476123,
-            "locality_id":85950325,
-            "neighbourhood_id":85853761,
-            "region_id":85688645,
-            "venue_id":672555049
-        }
+    "wof:country": "US",
+    "wof:created": 1461721581,
+    "wof:geomhash": "ddc0d900d47f0cff2e89bb5853e27610",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084369,
+        "localadmin_id": 404476123,
+        "locality_id": 85950325,
+        "neighbourhood_id": 85853761,
+        "region_id": 85688645,
+        "venue_id": 672555049
+      }
     ],
-    "wof:id":672555049,
-    "wof:lastmodified":1472625803,
-    "wof:name":"Mount Greylock Extended Care",
-    "wof:parent_id":85853761,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home",
-        "convalescent"
+    "wof:id": 672555049,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Mount Greylock Extended Care",
+    "wof:parent_id": 85853761,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home",
+      "convalescent"
     ]
-},
+  },
   "bbox": [
     -73.245452,
     42.467808,
     -73.245452,
     42.467808
-],
+  ],
   "geometry": {"coordinates":[-73.245452,42.467808],"type":"Point"}
 }

@@ -2,83 +2,86 @@
   "id": 673052203,
   "type": "Feature",
   "properties": {
-    "addr:full":"253 Adams St Dorchester MA 02122",
-    "addr:housenumber":"253",
-    "addr:postcode":"02122",
-    "addr:street":"Adams St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.059268,42.300642,-71.059268,42.300642",
-    "geom:latitude":42.300642,
-    "geom:longitude":-71.059268,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"253 Adams St",
-    "sg:city":"Dorchester",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "253 Adams St Dorchester MA 02122",
+    "addr:housenumber": "253",
+    "addr:postcode": "02122",
+    "addr:street": "Adams St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.059268,42.300642,-71.059268,42.300642",
+    "geom:latitude": 42.300642,
+    "geom:longitude": -71.059268,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Adams Dental Care, 253 Adams St Dorchester MA US",
+    "ovtr:similarity": 2.7252678871154785,
+    "sg:address": "253 Adams St",
+    "sg:city": "Dorchester",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 822 2200",
-    "sg:postcode":"02122",
-    "sg:province":"MA",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 822 2200",
+    "sg:postcode": "02122",
+    "sg:province": "MA",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108711405,
-        85814925,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108711405,
+      85814925,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3cWrw7F6BDe4g6J6iPjZX6_42.301245_-71.059613@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3066b98bd3603b62deaf41d9c9f",
+      "sg:id": "SG_3cWrw7F6BDe4g6J6iPjZX6_42.301245_-71.059613@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732798,
-    "wof:geomhash":"fafb1ab96d65acd44c3efd7298a6b776",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "microhood_id":1108711405,
-            "neighbourhood_id":85814925,
-            "region_id":85688645,
-            "venue_id":673052203
-        }
+    "wof:country": "US",
+    "wof:created": 1461732798,
+    "wof:geomhash": "f6bf480d3de219c19d5b17607909a7ef",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "microhood_id": 1108711405,
+        "neighbourhood_id": 85814925,
+        "region_id": 85688645,
+        "venue_id": 673052203
+      }
     ],
-    "wof:id":673052203,
-    "wof:lastmodified":1489011337,
-    "wof:name":"Adams Dental Care",
-    "wof:parent_id":1108711405,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:id": 673052203,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Adams Dental Care",
+    "wof:parent_id": 1108711405,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -71.059268,
     42.300642,
     -71.059268,
     42.300642
-],
+  ],
   "geometry": {"coordinates":[-71.059268,42.300642],"type":"Point"}
 }

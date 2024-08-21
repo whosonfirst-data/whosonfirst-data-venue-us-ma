@@ -2,73 +2,76 @@
   "id": 672854495,
   "type": "Feature",
   "properties": {
-    "addr:full":"427 Main Rd Westport MA 02790",
-    "addr:housenumber":"427",
-    "addr:postcode":"02790",
-    "addr:street":"Main Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.086752,41.598869,-71.086752,41.598869",
-    "geom:latitude":41.598869,
-    "geom:longitude":-71.086752,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"427 Main Rd",
-    "sg:city":"Westport",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "427 Main Rd Westport MA 02790",
+    "addr:housenumber": "427",
+    "addr:postcode": "02790",
+    "addr:street": "Main Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.086752,41.598869,-71.086752,41.598869",
+    "geom:latitude": 41.598869,
+    "geom:longitude": -71.086752,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Wilfrid's Garage, 427 Main Rd Westport MA US",
+    "ovtr:similarity": 2.0144479274749756,
+    "sg:address": "427 Main Rd",
+    "sg:city": "Westport",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 636 8552",
-    "sg:postcode":"02790",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 636 8552",
+    "sg:postcode": "02790",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        420523293
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633793,
+      420523293
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Ubl8Fp2UIcZ8XcmTq8FXe_41.598869_-71.086752@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33ae6bad6ec03e46f41ac798d24",
+      "sg:id": "SG_3Ubl8Fp2UIcZ8XcmTq8FXe_41.598869_-71.086752@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461728079,
-    "wof:geomhash":"3b27b7f235fc7ef6f3a5a84dbb0ae4e1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "neighbourhood_id":420523293,
-            "venue_id":672854495
-        }
+    "wof:country": "US",
+    "wof:created": 1461728079,
+    "wof:geomhash": "3b27b7f235fc7ef6f3a5a84dbb0ae4e1",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "neighbourhood_id": 420523293,
+        "venue_id": 672854495
+      }
     ],
-    "wof:id":672854495,
-    "wof:lastmodified":1492116726,
-    "wof:name":"Wilfrid's Garage",
-    "wof:parent_id":420523293,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 672854495,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Wilfrid's Garage",
+    "wof:parent_id": 420523293,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -71.086752,
     41.598869,
     -71.086752,
     41.598869
-],
+  ],
   "geometry": {"coordinates":[-71.086752,41.598869],"type":"Point"}
 }

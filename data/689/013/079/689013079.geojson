@@ -2,83 +2,86 @@
   "id": 689013079,
   "type": "Feature",
   "properties": {
-    "addr:full":"59 Charles St Boston MA 02114",
-    "addr:housenumber":"59",
-    "addr:postcode":"02114",
-    "addr:street":"Charles St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.070279,42.357773,-71.070279,42.357773",
-    "geom:latitude":42.357773,
-    "geom:longitude":-71.070279,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"59 Charles St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "59 Charles St Boston MA 02114",
+    "addr:housenumber": "59",
+    "addr:postcode": "02114",
+    "addr:street": "Charles St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.070279,42.357773,-71.070279,42.357773",
+    "geom:latitude": 42.357773,
+    "geom:longitude": -71.070279,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Gary Drug Co., 59 Charles St Boston MA US",
+    "ovtr:similarity": 3.3862369060516357,
+    "sg:address": "59 Charles St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 227 0023",
-    "sg:postcode":"02114",
-    "sg:province":"MA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 227 0023",
+    "sg:postcode": "02114",
+    "sg:province": "MA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85805015,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85805015,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4630791121,
-        "sg:id":"SG_0802iqU17k7ATF5IE3LdZL_42.357773_-71.070279@1303262207"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4630791121,
+      "ovtr:id": "08f2a3066391c6ee03f84e2bc37dae87",
+      "sg:id": "SG_0802iqU17k7ATF5IE3LdZL_42.357773_-71.070279@1303262207"
     },
-    "wof:country":"US",
-    "wof:created":1461737535,
-    "wof:geomhash":"c672885c2d98848f1c9d78a5b843f2f0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85805015,
-            "region_id":85688645,
-            "venue_id":689013079
-        }
+    "wof:country": "US",
+    "wof:created": 1461737535,
+    "wof:geomhash": "c672885c2d98848f1c9d78a5b843f2f0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85805015,
+        "region_id": 85688645,
+        "venue_id": 689013079
+      }
     ],
-    "wof:id":689013079,
-    "wof:lastmodified":1510944139,
-    "wof:name":"Gary Drug Co",
-    "wof:parent_id":85805015,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 689013079,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Gary Drug Co",
+    "wof:parent_id": 85805015,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -71.070279,
     42.357773,
     -71.070279,
     42.357773
-],
+  ],
   "geometry": {"coordinates":[-71.070279,42.357773],"type":"Point"}
 }

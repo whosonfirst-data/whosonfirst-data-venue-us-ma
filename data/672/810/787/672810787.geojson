@@ -2,80 +2,83 @@
   "id": 672810787,
   "type": "Feature",
   "properties": {
-    "addr:full":"158 S Main St Orange MA 01364",
-    "addr:housenumber":"158",
-    "addr:postcode":"01364",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.309187,42.585326,-72.309187,42.585326",
-    "geom:latitude":42.585326,
-    "geom:longitude":-72.309187,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"158 S Main St",
-    "sg:city":"Orange",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "158 S Main St Orange MA 01364",
+    "addr:housenumber": "158",
+    "addr:postcode": "01364",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.309187,42.585326,-72.309187,42.585326",
+    "geom:latitude": 42.585326,
+    "geom:longitude": -72.309187,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Witty's Funeral Home, 158 S Main St Orange MA US",
+    "ovtr:similarity": 2.3573970794677734,
+    "sg:address": "158 S Main St",
+    "sg:city": "Orange",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 544 3160",
-    "sg:postcode":"01364",
-    "sg:province":"MA",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 544 3160",
+    "sg:postcode": "01364",
+    "sg:province": "MA",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523483,
-        102191575,
-        404476327,
-        85633793,
-        85950757,
-        102084457,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523483,
+      102191575,
+      404476327,
+      85633793,
+      85950757,
+      102084457,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7IB1GiaG36UmybeWPXOpGI_42.585326_-72.309187@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3205370045a0340d7158a24cd78",
+      "sg:id": "SG_7IB1GiaG36UmybeWPXOpGI_42.585326_-72.309187@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461727208,
-    "wof:geomhash":"6b4458b631f0ad3319cbcf266cb23b29",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084457,
-            "localadmin_id":404476327,
-            "locality_id":85950757,
-            "neighbourhood_id":420523483,
-            "region_id":85688645,
-            "venue_id":672810787
-        }
+    "wof:country": "US",
+    "wof:created": 1461727208,
+    "wof:geomhash": "42ffa464031dc496167503a543722b34",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084457,
+        "localadmin_id": 404476327,
+        "locality_id": 85950757,
+        "neighbourhood_id": 420523483,
+        "region_id": 85688645,
+        "venue_id": 672810787
+      }
     ],
-    "wof:id":672810787,
-    "wof:lastmodified":1472626048,
-    "wof:name":"Witty's Funeral Home",
-    "wof:parent_id":420523483,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:id": 672810787,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Witty's Funeral Home",
+    "wof:parent_id": 420523483,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -72.309187,
     42.585326,
     -72.309187,
     42.585326
-],
-  "geometry": {"coordinates":[-72.30918699999999,42.585326],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-72.309187,42.585326],"type":"Point"}
 }

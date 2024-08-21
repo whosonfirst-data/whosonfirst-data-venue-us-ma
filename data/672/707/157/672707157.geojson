@@ -2,78 +2,81 @@
   "id": 672707157,
   "type": "Feature",
   "properties": {
-    "addr:full":"243 W Main St Dudley MA 01571",
-    "addr:housenumber":"243",
-    "addr:postcode":"01571",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.920833,42.035996,-71.920833,42.035996",
-    "geom:latitude":42.035996,
-    "geom:longitude":-71.920833,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"243 W Main St",
-    "sg:city":"Dudley",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "243 W Main St Dudley MA 01571",
+    "addr:housenumber": "243",
+    "addr:postcode": "01571",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.920833,42.035996,-71.920833,42.035996",
+    "geom:latitude": 42.035996,
+    "geom:longitude": -71.920833,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Precision Auto Rebuilders, 243 W Main St Dudley MA US",
+    "ovtr:similarity": 3.2674479484558105,
+    "sg:address": "243 W Main St",
+    "sg:city": "Dudley",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 943 7492",
-    "sg:postcode":"01571",
-    "sg:province":"MA",
-    "sg:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 943 7492",
+    "sg:postcode": "01571",
+    "sg:province": "MA",
+    "sg:tags": [
+      "body",
+      "automobile",
+      "painting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85810519,
-        102084655
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85810519,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6pSBC0m2UsL715gUfWN3cF_42.035996_-71.920833@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3352828801103fe2ee1af43fbe4",
+      "sg:id": "SG_6pSBC0m2UsL715gUfWN3cF_42.035996_-71.920833@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461725020,
-    "wof:geomhash":"7618d62669b6f7539a80390cacc531b1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85810519,
-            "region_id":85688645,
-            "venue_id":672707157
-        }
+    "wof:country": "US",
+    "wof:created": 1461725020,
+    "wof:geomhash": "d268e68010d895bc313a999e96cc0f8f",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85810519,
+        "region_id": 85688645,
+        "venue_id": 672707157
+      }
     ],
-    "wof:id":672707157,
-    "wof:lastmodified":1472625942,
-    "wof:name":"Precision Auto Rebuilders Inc",
-    "wof:parent_id":85810519,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "wof:id": 672707157,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Precision Auto Rebuilders Inc",
+    "wof:parent_id": 85810519,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "automobile",
+      "painting"
     ]
-},
+  },
   "bbox": [
     -71.920833,
     42.035996,
     -71.920833,
     42.035996
-],
+  ],
   "geometry": {"coordinates":[-71.920833,42.035996],"type":"Point"}
 }

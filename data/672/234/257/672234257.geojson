@@ -2,80 +2,83 @@
   "id": 672234257,
   "type": "Feature",
   "properties": {
-    "addr:full":"35 Franklin St Lynn MA 01902",
-    "addr:housenumber":"35",
-    "addr:postcode":"01902",
-    "addr:street":"Franklin St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.953994,42.465098,-70.953994,42.465098",
-    "geom:latitude":42.465098,
-    "geom:longitude":-70.953994,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"35 Franklin St",
-    "sg:city":"Lynn",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "35 Franklin St Lynn MA 01902",
+    "addr:housenumber": "35",
+    "addr:postcode": "01902",
+    "addr:street": "Franklin St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.953994,42.465098,-70.953994,42.465098",
+    "geom:latitude": 42.465098,
+    "geom:longitude": -70.953994,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Parker Funeral Home, 35 Franklin St Lynn MA US",
+    "ovtr:similarity": 3.220278024673462,
+    "sg:address": "35 Franklin St",
+    "sg:city": "Lynn",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 592 0514",
-    "sg:postcode":"01902",
-    "sg:province":"MA",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 592 0514",
+    "sg:postcode": "01902",
+    "sg:province": "MA",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891409,
-        102191575,
-        404476207,
-        85633793,
-        85950413,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85891409,
+      102191575,
+      404476207,
+      85633793,
+      85950413,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0E08th2y7HdaclK6mgp6RZ_42.465098_-70.953994@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3076e1a9ca003172b4a88f8b827",
+      "sg:id": "SG_0E08th2y7HdaclK6mgp6RZ_42.465098_-70.953994@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461714275,
-    "wof:geomhash":"80e7f63437d852da0abf19eda70a847c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476207,
-            "locality_id":85950413,
-            "neighbourhood_id":85891409,
-            "region_id":85688645,
-            "venue_id":672234257
-        }
+    "wof:country": "US",
+    "wof:created": 1461714275,
+    "wof:geomhash": "f4f92eaafc7e7c2c7654efc93d820761",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476207,
+        "locality_id": 85950413,
+        "neighbourhood_id": 85891409,
+        "region_id": 85688645,
+        "venue_id": 672234257
+      }
     ],
-    "wof:id":672234257,
-    "wof:lastmodified":1472625295,
-    "wof:name":"Parker Funeral Home Inc",
-    "wof:parent_id":85891409,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:id": 672234257,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Parker Funeral Home Inc",
+    "wof:parent_id": 85891409,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -70.953994,
     42.465098,
     -70.953994,
     42.465098
-],
-  "geometry": {"coordinates":[-70.95399399999999,42.465098],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.953994,42.465098],"type":"Point"}
 }

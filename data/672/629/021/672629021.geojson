@@ -2,75 +2,78 @@
   "id": 672629021,
   "type": "Feature",
   "properties": {
-    "addr:full":"800 State St Springfield MA 01109",
-    "addr:housenumber":"800",
-    "addr:postcode":"01109",
-    "addr:street":"State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.565265,42.111255,-72.565265,42.111255",
-    "geom:latitude":42.111255,
-    "geom:longitude":-72.565265,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"800 State St",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "800 State St Springfield MA 01109",
+    "addr:housenumber": "800",
+    "addr:postcode": "01109",
+    "addr:street": "State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.565265,42.111255,-72.565265,42.111255",
+    "geom:latitude": 42.111255,
+    "geom:longitude": -72.565265,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Winchester Liquors, 800 State St Springfield MA US",
+    "ovtr:similarity": 3.0618650913238525,
+    "sg:address": "800 State St",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 733 8321",
-    "sg:postcode":"01109",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85833291,
-        102191575,
-        404476369,
-        85633793,
-        85950393,
-        102084627,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 733 8321",
+    "sg:postcode": "01109",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85833291,
+      102191575,
+      404476369,
+      85633793,
+      85950393,
+      102084627,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6tHgorA1hiSUYt2dRiGktd_42.111255_-72.565265@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a148240f035b03ee67de7ffead52",
+      "sg:id": "SG_6tHgorA1hiSUYt2dRiGktd_42.111255_-72.565265@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461723271,
-    "wof:geomhash":"a255100253c85c24da1a4d51d9ba3894",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084627,
-            "localadmin_id":404476369,
-            "locality_id":85950393,
-            "neighbourhood_id":85833291,
-            "region_id":85688645,
-            "venue_id":672629021
-        }
+    "wof:country": "US",
+    "wof:created": 1461723271,
+    "wof:geomhash": "6a819e6c3e00fc616c490c1b4ee441ea",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "localadmin_id": 404476369,
+        "locality_id": 85950393,
+        "neighbourhood_id": 85833291,
+        "region_id": 85688645,
+        "venue_id": 672629021
+      }
     ],
-    "wof:id":672629021,
-    "wof:lastmodified":1472625869,
-    "wof:name":"Winchester Liquors",
-    "wof:parent_id":85833291,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672629021,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Winchester Liquors",
+    "wof:parent_id": 85833291,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -72.565265,
     42.111255,
     -72.565265,
     42.111255
-],
+  ],
   "geometry": {"coordinates":[-72.565265,42.111255],"type":"Point"}
 }

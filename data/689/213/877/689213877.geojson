@@ -2,82 +2,85 @@
   "id": 689213877,
   "type": "Feature",
   "properties": {
-    "addr:full":"28 Sturdy St Ste 1 Attleboro MA 02703",
-    "addr:housenumber":"28",
-    "addr:postcode":"02703",
-    "addr:street":"Sturdy St Ste 1",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.27466,41.943747,-71.27466,41.943747",
-    "geom:latitude":41.943747,
-    "geom:longitude":-71.27466,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"28 Sturdy St Ste 1",
-    "sg:city":"Attleboro",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "28 Sturdy St Ste 1 Attleboro MA 02703",
+    "addr:housenumber": "28",
+    "addr:postcode": "02703",
+    "addr:street": "Sturdy St Ste 1",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.274660,41.943747,-71.274660,41.943747",
+    "geom:latitude": 41.943747,
+    "geom:longitude": -71.27466,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "United Health Associates, 28 Sturdy St Attleboro MA US",
+    "ovtr:similarity": 2.5285940170288086,
+    "sg:address": "28 Sturdy St Ste 1",
+    "sg:city": "Attleboro",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 226 1760",
-    "sg:postcode":"02703",
-    "sg:province":"MA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 226 1760",
+    "sg:postcode": "02703",
+    "sg:province": "MA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85807495,
-        102191575,
-        404476165,
-        85633793,
-        85950363,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85807495,
+      102191575,
+      404476165,
+      85633793,
+      85950363,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6fKXeDhhfE0THz1bg3lAMs_41.943747_-71.274660@1303262234"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a338c2c0ca0d035782a3c3f395a1",
+      "sg:id": "SG_6fKXeDhhfE0THz1bg3lAMs_41.943747_-71.274660@1303262234"
     },
-    "wof:country":"US",
-    "wof:created":1461742337,
-    "wof:geomhash":"60b46147757ad48a7bba96d38af667ac",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476165,
-            "locality_id":85950363,
-            "neighbourhood_id":85807495,
-            "region_id":85688645,
-            "venue_id":689213877
-        }
+    "wof:country": "US",
+    "wof:created": 1461742337,
+    "wof:geomhash": "c00f1f757f0a1e2db6d643841bb845a4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476165,
+        "locality_id": 85950363,
+        "neighbourhood_id": 85807495,
+        "region_id": 85688645,
+        "venue_id": 689213877
+      }
     ],
-    "wof:id":689213877,
-    "wof:lastmodified":1472625626,
-    "wof:name":"United Health Associates",
-    "wof:parent_id":85807495,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 689213877,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "United Health Associates",
+    "wof:parent_id": 85807495,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -71.27466,
     41.943747,
     -71.27466,
     41.943747
-],
+  ],
   "geometry": {"coordinates":[-71.27466,41.943747],"type":"Point"}
 }

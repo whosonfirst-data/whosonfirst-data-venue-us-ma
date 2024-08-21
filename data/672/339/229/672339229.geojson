@@ -2,80 +2,83 @@
   "id": 672339229,
   "type": "Feature",
   "properties": {
-    "addr:full":"114 Sandwich St Plymouth MA 02360",
-    "addr:housenumber":"114",
-    "addr:postcode":"02360",
-    "addr:street":"Sandwich St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.65724,41.952177,-70.65724,41.952177",
-    "geom:latitude":41.952177,
-    "geom:longitude":-70.65724,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"114 Sandwich St",
-    "sg:city":"Plymouth",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "114 Sandwich St Plymouth MA 02360",
+    "addr:housenumber": "114",
+    "addr:postcode": "02360",
+    "addr:street": "Sandwich St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.657240,41.952177,-70.657240,41.952177",
+    "geom:latitude": 41.952177,
+    "geom:longitude": -70.65724,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Plymouth Fire Department, 114 Sandwich St Plymouth MA US",
+    "ovtr:similarity": 3.1521201133728027,
+    "sg:address": "114 Sandwich St",
+    "sg:city": "Plymouth",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 830 4213",
-    "sg:postcode":"02360",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 830 4213",
+    "sg:postcode": "02360",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85827215,
-        102191575,
-        404476561,
-        85633793,
-        85950483,
-        102084367,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85827215,
+      102191575,
+      404476561,
+      85633793,
+      85950483,
+      102084367,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3P6o4zrd8xpQoauRmE4T2K_41.952177_-70.657240@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3141579c3a30328c84cbb550875",
+      "sg:id": "SG_3P6o4zrd8xpQoauRmE4T2K_41.952177_-70.657240@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461716472,
-    "wof:geomhash":"c031cf18b8c9175dd2f435e0c0ba79f7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476561,
-            "locality_id":85950483,
-            "neighbourhood_id":85827215,
-            "region_id":85688645,
-            "venue_id":672339229
-        }
+    "wof:country": "US",
+    "wof:created": 1461716472,
+    "wof:geomhash": "674337caa0f6f31cb31475a142639f2e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476561,
+        "locality_id": 85950483,
+        "neighbourhood_id": 85827215,
+        "region_id": 85688645,
+        "venue_id": 672339229
+      }
     ],
-    "wof:id":672339229,
-    "wof:lastmodified":1472625565,
-    "wof:name":"Plymouth Fire Dept",
-    "wof:parent_id":85827215,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 672339229,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Plymouth Fire Dept",
+    "wof:parent_id": 85827215,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -70.65724,
     41.952177,
     -70.65724,
     41.952177
-],
+  ],
   "geometry": {"coordinates":[-70.65724,41.952177],"type":"Point"}
 }

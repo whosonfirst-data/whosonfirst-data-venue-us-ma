@@ -2,78 +2,81 @@
   "id": 672284413,
   "type": "Feature",
   "properties": {
-    "addr:full":"45 Adams St Medfield MA 02052",
-    "addr:housenumber":"45",
-    "addr:postcode":"02052",
-    "addr:street":"Adams St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.311879,42.191981,-71.311879,42.191981",
-    "geom:latitude":42.191981,
-    "geom:longitude":-71.311879,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"45 Adams St",
-    "sg:city":"Medfield",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "45 Adams St Medfield MA 02052",
+    "addr:housenumber": "45",
+    "addr:postcode": "02052",
+    "addr:street": "Adams St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.311879,42.191981,-71.311879,42.191981",
+    "geom:latitude": 42.191981,
+    "geom:longitude": -71.311879,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Dale Street School, 45 Adams St Medfield MA US",
+    "ovtr:similarity": 2.5562009811401367,
+    "sg:address": "45 Adams St",
+    "sg:city": "Medfield",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 359 5538",
-    "sg:postcode":"02052",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85823933,
-        102191575,
-        404476441,
-        85633793,
-        85950829,
-        102084403,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 359 5538",
+    "sg:postcode": "02052",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85823933,
+      102191575,
+      404476441,
+      85633793,
+      85950829,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":29838181,
-        "sg:id":"SG_0LELDF2zIUNjOt7haIINDp_42.191981_-71.311879@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 29838181,
+      "ovtr:id": "08f2a339916d49480364e5127ad89c4c",
+      "sg:id": "SG_0LELDF2zIUNjOt7haIINDp_42.191981_-71.311879@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715287,
-    "wof:geomhash":"4c80609da6994488bbc634249ea1239b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476441,
-            "locality_id":85950829,
-            "neighbourhood_id":85823933,
-            "region_id":85688645,
-            "venue_id":672284413
-        }
+    "wof:country": "US",
+    "wof:created": 1461715287,
+    "wof:geomhash": "4c80609da6994488bbc634249ea1239b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476441,
+        "locality_id": 85950829,
+        "neighbourhood_id": 85823933,
+        "region_id": 85688645,
+        "venue_id": 672284413
+      }
     ],
-    "wof:id":672284413,
-    "wof:lastmodified":1510942567,
-    "wof:name":"Dale Street School",
-    "wof:parent_id":85823933,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672284413,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Dale Street School",
+    "wof:parent_id": 85823933,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.311879,
     42.191981,
     -71.311879,
     42.191981
-],
+  ],
   "geometry": {"coordinates":[-71.311879,42.191981],"type":"Point"}
 }

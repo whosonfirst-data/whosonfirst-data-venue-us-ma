@@ -2,76 +2,79 @@
   "id": 672255339,
   "type": "Feature",
   "properties": {
-    "addr:full":"252 Main St Hyannis MA 02601",
-    "addr:housenumber":"252",
-    "addr:postcode":"02601",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.279971,41.654681,-70.279971,41.654681",
-    "geom:latitude":41.654681,
-    "geom:longitude":-70.279971,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"252 Main St",
-    "sg:city":"Hyannis",
-    "sg:classifiers":[
-        {
-            "category":"Railroad",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "252 Main St Hyannis MA 02601",
+    "addr:housenumber": "252",
+    "addr:postcode": "02601",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.279971,41.654681,-70.279971,41.654681",
+    "geom:latitude": 41.654681,
+    "geom:longitude": -70.279971,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Cape Cod Central Railroad, 252 Main St Hyannis MA US",
+    "ovtr:similarity": 2.3960320949554443,
+    "sg:address": "252 Main St",
+    "sg:city": "Hyannis",
+    "sg:classifiers": [
+      {
+        "category": "Railroad",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 771 3800",
-    "sg:postcode":"02601",
-    "sg:province":"MA",
-    "sg:website":"www.capetrain.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811889,
-        102191575,
-        404475893,
-        85633793,
-        85950321,
-        102084379,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 771 3800",
+    "sg:postcode": "02601",
+    "sg:province": "MA",
+    "sg:website": "www.capetrain.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811889,
+      102191575,
+      404475893,
+      85633793,
+      85950321,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7A2zFrI6pKVmC5bEi5pmIA_41.654681_-70.279971@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3172dbae09a03c980def6be6526",
+      "sg:id": "SG_7A2zFrI6pKVmC5bEi5pmIA_41.654681_-70.279971@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461714712,
-    "wof:geomhash":"a39ee74e15f22c449ff472d58a6726a8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475893,
-            "locality_id":85950321,
-            "neighbourhood_id":85811889,
-            "region_id":85688645,
-            "venue_id":672255339
-        }
+    "wof:country": "US",
+    "wof:created": 1461714712,
+    "wof:geomhash": "2d94b3ac8c6f5e729db5cabaee3bbd91",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475893,
+        "locality_id": 85950321,
+        "neighbourhood_id": 85811889,
+        "region_id": 85688645,
+        "venue_id": 672255339
+      }
     ],
-    "wof:id":672255339,
-    "wof:lastmodified":1472625347,
-    "wof:name":"Cape Cod Central Railroad",
-    "wof:parent_id":85811889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672255339,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Cape Cod Central Railroad",
+    "wof:parent_id": 85811889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.279971,
     41.654681,
     -70.279971,
     41.654681
-],
+  ],
   "geometry": {"coordinates":[-70.279971,41.654681],"type":"Point"}
 }

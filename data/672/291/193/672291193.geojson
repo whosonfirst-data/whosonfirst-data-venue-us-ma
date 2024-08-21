@@ -2,84 +2,87 @@
   "id": 672291193,
   "type": "Feature",
   "properties": {
-    "addr:full":"535 Bay St Fall River MA 02724",
-    "addr:housenumber":"535",
-    "addr:postcode":"02724",
-    "addr:street":"Bay St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.17758,41.691503,-71.17758,41.691503",
-    "geom:latitude":41.691503,
-    "geom:longitude":-71.17758,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"535 Bay St",
-    "sg:city":"Fall River",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "535 Bay St Fall River MA 02724",
+    "addr:housenumber": "535",
+    "addr:postcode": "02724",
+    "addr:street": "Bay St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.177580,41.691503,-71.177580,41.691503",
+    "geom:latitude": 41.691503,
+    "geom:longitude": -71.17758,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Mike's Auto Body, 535 Bay St Fall River MA US",
+    "ovtr:similarity": 2.0378339290618896,
+    "sg:address": "535 Bay St",
+    "sg:city": "Fall River",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 675 1194",
-    "sg:postcode":"02724",
-    "sg:province":"MA",
-    "sg:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 675 1194",
+    "sg:postcode": "02724",
+    "sg:province": "MA",
+    "sg:tags": [
+      "body",
+      "automobile",
+      "painting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85818859,
-        102191575,
-        404476177,
-        85633793,
-        85950371,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85818859,
+      102191575,
+      404476177,
+      85633793,
+      85950371,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6osUROxVn33vPaIXVZ5goA_41.691503_-71.177580@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33aa1734aac0314e4385cae80da",
+      "sg:id": "SG_6osUROxVn33vPaIXVZ5goA_41.691503_-71.177580@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715426,
-    "wof:geomhash":"380010ee09954405cda2cee59cad5e3d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476177,
-            "locality_id":85950371,
-            "neighbourhood_id":85818859,
-            "region_id":85688645,
-            "venue_id":672291193
-        }
+    "wof:country": "US",
+    "wof:created": 1461715426,
+    "wof:geomhash": "129b7422759da996d8b816068620df9b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476177,
+        "locality_id": 85950371,
+        "neighbourhood_id": 85818859,
+        "region_id": 85688645,
+        "venue_id": 672291193
+      }
     ],
-    "wof:id":672291193,
-    "wof:lastmodified":1472625467,
-    "wof:name":"Mike's Auto Body",
-    "wof:parent_id":85818859,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "wof:id": 672291193,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Mike's Auto Body",
+    "wof:parent_id": 85818859,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "automobile",
+      "painting"
     ]
-},
+  },
   "bbox": [
     -71.17758,
     41.691503,
     -71.17758,
     41.691503
-],
-  "geometry": {"coordinates":[-71.17758000000001,41.691503],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.17758,41.691503],"type":"Point"}
 }

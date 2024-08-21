@@ -2,83 +2,86 @@
   "id": 673077209,
   "type": "Feature",
   "properties": {
-    "addr:full":"851 Harrison Ave Boston MA 02118",
-    "addr:housenumber":"851",
-    "addr:postcode":"02118",
-    "addr:street":"Harrison Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.075583,42.334736,-71.075583,42.334736",
-    "geom:latitude":42.334736,
-    "geom:longitude":-71.075583,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"851 Harrison Ave",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "851 Harrison Ave Boston MA 02118",
+    "addr:housenumber": "851",
+    "addr:postcode": "02118",
+    "addr:street": "Harrison Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.075583,42.334736,-71.075583,42.334736",
+    "geom:latitude": 42.334736,
+    "geom:longitude": -71.075583,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "The Pizza Stop, 851 Harrison Ave Boston MA US",
+    "ovtr:similarity": 3.572477102279663,
+    "sg:address": "851 Harrison Ave",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 427 4054",
-    "sg:postcode":"02118",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 427 4054",
+    "sg:postcode": "02118",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108711439,
-        85846283,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108711439,
+      85846283,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Dk3Tgt87M8lZb6P2xxILA_42.334492_-71.075783@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3066e4226180385a0905275d5ae",
+      "sg:id": "SG_7Dk3Tgt87M8lZb6P2xxILA_42.334492_-71.075783@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733291,
-    "wof:geomhash":"86ee0abe7f41abdfea39f12e3b95bb21",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "microhood_id":1108711439,
-            "neighbourhood_id":85846283,
-            "region_id":85688645,
-            "venue_id":673077209
-        }
+    "wof:country": "US",
+    "wof:created": 1461733291,
+    "wof:geomhash": "6e593d995c7f1748a67a7b56f67883ce",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "microhood_id": 1108711439,
+        "neighbourhood_id": 85846283,
+        "region_id": 85688645,
+        "venue_id": 673077209
+      }
     ],
-    "wof:id":673077209,
-    "wof:lastmodified":1489011849,
-    "wof:name":"Pizza Stop",
-    "wof:parent_id":1108711439,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 673077209,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Pizza Stop",
+    "wof:parent_id": 1108711439,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.075583,
     42.334736,
     -71.075583,
     42.334736
-],
-  "geometry": {"coordinates":[-71.07558299999999,42.334736],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.075583,42.334736],"type":"Point"}
 }

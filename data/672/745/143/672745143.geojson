@@ -2,82 +2,85 @@
   "id": 672745143,
   "type": "Feature",
   "properties": {
-    "addr:full":"50 Rowe St Melrose MA 02176",
-    "addr:housenumber":"50",
-    "addr:postcode":"02176",
-    "addr:street":"Rowe St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.060556,42.460436,-71.060556,42.460436",
-    "geom:latitude":42.460436,
-    "geom:longitude":-71.060556,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"50 Rowe St",
-    "sg:city":"Melrose",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "50 Rowe St Melrose MA 02176",
+    "addr:housenumber": "50",
+    "addr:postcode": "02176",
+    "addr:street": "Rowe St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.060556,42.460436,-71.060556,42.460436",
+    "geom:latitude": 42.460436,
+    "geom:longitude": -71.060556,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Melrose Internal Medicine, 50 Rowe St Melrose MA US",
+    "ovtr:similarity": 2.8674910068511963,
+    "sg:address": "50 Rowe St",
+    "sg:city": "Melrose",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 979 3800",
-    "sg:postcode":"02176",
-    "sg:province":"MA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 979 3800",
+    "sg:postcode": "02176",
+    "sg:province": "MA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523689,
-        102191575,
-        404476405,
-        85633793,
-        85950345,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523689,
+      102191575,
+      404476405,
+      85633793,
+      85950345,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3v3rncsmErUiLld1TM3BZ4_42.460436_-71.060556@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a307426b298103405a04dc6f3e82",
+      "sg:id": "SG_3v3rncsmErUiLld1TM3BZ4_42.460436_-71.060556@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461725844,
-    "wof:geomhash":"a08dbd626151ad0a3339509abeae5f3e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476405,
-            "locality_id":85950345,
-            "neighbourhood_id":420523689,
-            "region_id":85688645,
-            "venue_id":672745143
-        }
+    "wof:country": "US",
+    "wof:created": 1461725844,
+    "wof:geomhash": "9b1f35679fbe6809ec837e808cf47f48",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476405,
+        "locality_id": 85950345,
+        "neighbourhood_id": 420523689,
+        "region_id": 85688645,
+        "venue_id": 672745143
+      }
     ],
-    "wof:id":672745143,
-    "wof:lastmodified":1472625975,
-    "wof:name":"Melrose Internal Medicine",
-    "wof:parent_id":420523689,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 672745143,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Melrose Internal Medicine",
+    "wof:parent_id": 420523689,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -71.060556,
     42.460436,
     -71.060556,
     42.460436
-],
-  "geometry": {"coordinates":[-71.06055600000001,42.460436],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.060556,42.460436],"type":"Point"}
 }

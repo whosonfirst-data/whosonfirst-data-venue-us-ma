@@ -2,69 +2,72 @@
   "id": 656369567,
   "type": "Feature",
   "properties": {
-    "addr:full":"69 Main St North Andover MA 01845",
-    "addr:housenumber":"69",
-    "addr:postcode":"01845",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.132235,42.703774,-71.132235,42.703774",
-    "geom:latitude":42.703774,
-    "geom:longitude":-71.132235,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"69 Main St",
-    "sg:city":"North Andover",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "69 Main St North Andover MA 01845",
+    "addr:housenumber": "69",
+    "addr:postcode": "01845",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.132235,42.703774,-71.132235,42.703774",
+    "geom:latitude": 42.703774,
+    "geom:longitude": -71.132235,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "J \u0026 M Subs \u0026 Pizza, 69 Main St North Andover MA US",
+    "ovtr:similarity": 2.6989970207214355,
+    "sg:address": "69 Main St",
+    "sg:city": "North Andover",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 682 1481",
-    "sg:postcode":"01845",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85851643,
-        102084463
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 682 1481",
+    "sg:postcode": "01845",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85851643,
+      102084463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0lMIoiXPmQG7hX7P2rERmD_42.703774_-71.132235@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3046d6b2343035eea8bca5e2b75",
+      "sg:id": "SG_0lMIoiXPmQG7hX7P2rERmD_42.703774_-71.132235@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711371,
-    "wof:geomhash":"12a708442383eb6d0580226d9e1e68a4",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85851643,
-            "region_id":85688645,
-            "venue_id":656369567
-        }
+    "wof:country": "US",
+    "wof:created": 1461711371,
+    "wof:geomhash": "ceb964c65c16bde2716117bda7867ed1",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "neighbourhood_id": 85851643,
+        "region_id": 85688645,
+        "venue_id": 656369567
+      }
     ],
-    "wof:id":656369567,
-    "wof:lastmodified":1472624955,
-    "wof:name":"J & M Subs & Pizza",
-    "wof:parent_id":85851643,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 656369567,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "J \u0026 M Subs \u0026 Pizza",
+    "wof:parent_id": 85851643,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.132235,
     42.703774,
     -71.132235,
     42.703774
-],
-  "geometry": {"coordinates":[-71.13223499999999,42.703774],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.132235,42.703774],"type":"Point"}
 }

@@ -2,75 +2,78 @@
   "id": 672593119,
   "type": "Feature",
   "properties": {
-    "addr:full":"743 Main St Falmouth MA 02540",
-    "addr:housenumber":"743",
-    "addr:postcode":"02540",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.602705,41.553437,-70.602705,41.553437",
-    "geom:latitude":41.553437,
-    "geom:longitude":-70.602705,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"743 Main St",
-    "sg:city":"Falmouth",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "743 Main St Falmouth MA 02540",
+    "addr:housenumber": "743",
+    "addr:postcode": "02540",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.602705,41.553437,-70.602705,41.553437",
+    "geom:latitude": 41.553437,
+    "geom:longitude": -70.602705,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "7-Eleven, 743 Main St Falmouth MA US",
+    "ovtr:similarity": 2.333268880844116,
+    "sg:address": "743 Main St",
+    "sg:city": "Falmouth",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 540 7878",
-    "sg:postcode":"02540",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950553,
-        102084379,
-        85818889
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 540 7878",
+    "sg:postcode": "02540",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950553,
+      102084379,
+      85818889
     ],
-    "wof:brand_id":420573767,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":213071110,
-        "sg:id":"SG_7VH4YgxLswmvIvTrEMjn01_41.553437_-70.602705@1294127905"
+    "wof:brand_id": 420573767,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 213071110,
+      "ovtr:id": "08f2a31613ca04cd03f164746144a90a",
+      "sg:id": "SG_7VH4YgxLswmvIvTrEMjn01_41.553437_-70.602705@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461722432,
-    "wof:geomhash":"b6f02a9dd5dd9180116c68ab744efd74",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "locality_id":85950553,
-            "neighbourhood_id":85818889,
-            "region_id":85688645,
-            "venue_id":672593119
-        }
+    "wof:country": "US",
+    "wof:created": 1461722432,
+    "wof:geomhash": "b6f02a9dd5dd9180116c68ab744efd74",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "locality_id": 85950553,
+        "neighbourhood_id": 85818889,
+        "region_id": 85688645,
+        "venue_id": 672593119
+      }
     ],
-    "wof:id":672593119,
-    "wof:lastmodified":1511321771,
-    "wof:name":"7-Eleven",
-    "wof:parent_id":85818889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672593119,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "7-Eleven",
+    "wof:parent_id": 85818889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.602705,
     41.553437,
     -70.602705,
     41.553437
-],
+  ],
   "geometry": {"coordinates":[-70.602705,41.553437],"type":"Point"}
 }

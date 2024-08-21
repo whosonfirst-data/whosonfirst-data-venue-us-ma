@@ -2,75 +2,78 @@
   "id": 689052625,
   "type": "Feature",
   "properties": {
-    "addr:full":"175 Old Colony Avenue Boston MA 02127",
-    "addr:housenumber":"175",
-    "addr:postcode":"02127",
-    "addr:street":"Old Colony Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.054393,42.333956,-71.054393,42.333956",
-    "geom:latitude":42.333956,
-    "geom:longitude":-71.054393,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"175 Old Colony Avenue",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "175 Old Colony Avenue Boston MA 02127",
+    "addr:housenumber": "175",
+    "addr:postcode": "02127",
+    "addr:street": "Old Colony Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.054393,42.333956,-71.054393,42.333956",
+    "geom:latitude": 42.333956,
+    "geom:longitude": -71.054393,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Southie Auto Service, 175 Old Colony Ave Boston MA US",
+    "ovtr:similarity": 2.4786698818206787,
+    "sg:address": "175 Old Colony Avenue",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 268 2772",
-    "sg:postcode":"02127",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85849485,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 268 2772",
+    "sg:postcode": "02127",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85849485,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0v0TRGLGZmu78XqfWFOMkw_42.333956_-71.054393@1303262212"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3066e8434b003d3a3a2b2713f13",
+      "sg:id": "SG_0v0TRGLGZmu78XqfWFOMkw_42.333956_-71.054393@1303262212"
     },
-    "wof:country":"US",
-    "wof:created":1461738349,
-    "wof:geomhash":"ce1de1292a9734454fbbe0fffd9f9eb1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85849485,
-            "region_id":85688645,
-            "venue_id":689052625
-        }
+    "wof:country": "US",
+    "wof:created": 1461738349,
+    "wof:geomhash": "7e272cf4700554b7869368912b00e613",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85849485,
+        "region_id": 85688645,
+        "venue_id": 689052625
+      }
     ],
-    "wof:id":689052625,
-    "wof:lastmodified":1472625173,
-    "wof:name":"Southie Auto Service",
-    "wof:parent_id":85849485,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 689052625,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Southie Auto Service",
+    "wof:parent_id": 85849485,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.054393,
     42.333956,
     -71.054393,
     42.333956
-],
+  ],
   "geometry": {"coordinates":[-71.054393,42.333956],"type":"Point"}
 }

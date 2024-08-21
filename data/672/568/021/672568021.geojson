@@ -2,80 +2,83 @@
   "id": 672568021,
   "type": "Feature",
   "properties": {
-    "addr:full":"757 Main St Reading MA 01867",
-    "addr:housenumber":"757",
-    "addr:postcode":"01867",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.102167,42.527342,-71.102167,42.527342",
-    "geom:latitude":42.527342,
-    "geom:longitude":-71.102167,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"757 Main St",
-    "sg:city":"Reading",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "757 Main St Reading MA 01867",
+    "addr:housenumber": "757",
+    "addr:postcode": "01867",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.102167,42.527342,-71.102167,42.527342",
+    "geom:latitude": 42.527342,
+    "geom:longitude": -71.102167,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Reading Fire Department, 757 Main St Reading MA US",
+    "ovtr:similarity": 3.285715103149414,
+    "sg:address": "757 Main St",
+    "sg:city": "Reading",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 944 3132",
-    "sg:postcode":"01867",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 944 3132",
+    "sg:postcode": "01867",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85843915,
-        102191575,
-        404476415,
-        85633793,
-        85950649,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85843915,
+      102191575,
+      404476415,
+      85633793,
+      85950649,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0MtUn9jjVqPZWEQAhUqCp5_42.527342_-71.102167@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3070824d9520386684da3b3de22",
+      "sg:id": "SG_0MtUn9jjVqPZWEQAhUqCp5_42.527342_-71.102167@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461721875,
-    "wof:geomhash":"0e02e51354295444e7d63979e14eeb28",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476415,
-            "locality_id":85950649,
-            "neighbourhood_id":85843915,
-            "region_id":85688645,
-            "venue_id":672568021
-        }
+    "wof:country": "US",
+    "wof:created": 1461721875,
+    "wof:geomhash": "b989fe7ae256c2e50b3ccb35524a51fd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476415,
+        "locality_id": 85950649,
+        "neighbourhood_id": 85843915,
+        "region_id": 85688645,
+        "venue_id": 672568021
+      }
     ],
-    "wof:id":672568021,
-    "wof:lastmodified":1472625798,
-    "wof:name":"Reading Fire Dept",
-    "wof:parent_id":85843915,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 672568021,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Reading Fire Dept",
+    "wof:parent_id": 85843915,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -71.102167,
     42.527342,
     -71.102167,
     42.527342
-],
-  "geometry": {"coordinates":[-71.10216699999999,42.527342],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.102167,42.527342],"type":"Point"}
 }

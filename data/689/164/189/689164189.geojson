@@ -2,74 +2,81 @@
   "id": 689164189,
   "type": "Feature",
   "properties": {
-    "addr:full":"24 Raynor Ave Whitman MA 02382",
-    "addr:housenumber":"24",
-    "addr:postcode":"02382",
-    "addr:street":"Raynor Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.923278,42.08372,-70.923278,42.08372",
-    "geom:latitude":42.08372,
-    "geom:longitude":-70.923278,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"24 Raynor Ave",
-    "sg:city":"Whitman",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"Lounge",
-            "type":"Food & Drink"
-        }
+    "addr:full": "24 Raynor Ave Whitman MA 02382",
+    "addr:housenumber": "24",
+    "addr:postcode": "02382",
+    "addr:street": "Raynor Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.923278,42.083720,-70.923278,42.083720",
+    "geom:latitude": 42.08372,
+    "geom:longitude": -70.923278,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "O'Toole's Pub, 24 Raynor Ave Whitman MA US",
+    "ovtr:similarity": 2.5383989810943604,
+    "sg:address": "24 Raynor Ave",
+    "sg:city": "Whitman",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "Lounge",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 447 0344",
-    "sg:postcode":"02382",
-    "sg:province":"MA",
-    "sg:tags":[
-        "tavern",
-        "cocktail"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 447 0344",
+    "sg:postcode": "02382",
+    "sg:province": "MA",
+    "sg:tags": [
+      "tavern",
+      "cocktail"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0BRPkKv2d8LVPvqw8JGedG_42.083720_-70.923278@1303262227"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33946aadb5d032ced8bdbbdfa79",
+      "sg:id": "SG_0BRPkKv2d8LVPvqw8JGedG_42.083720_-70.923278@1303262227"
     },
-    "wof:country":"US",
-    "wof:created":1461741283,
-    "wof:geomhash":"7abb322f33b2e0a52660c2167f289fb5",
-    "wof:hierarchy":[],
-    "wof:id":689164189,
-    "wof:lastmodified":1492098460,
-    "wof:name":"O'toole's Pub",
-    "wof:parent_id":85846519,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "tavern",
-        "cocktail"
+    "wof:country": "US",
+    "wof:created": 1461741283,
+    "wof:geomhash": "7abb322f33b2e0a52660c2167f289fb5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689164189
+      }
+    ],
+    "wof:id": 689164189,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "O'toole's Pub",
+    "wof:parent_id": 85846519,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tavern",
+      "cocktail"
     ]
-},
+  },
   "bbox": [
     -70.923278,
     42.08372,
     -70.923278,
     42.08372
-],
+  ],
   "geometry": {"coordinates":[-70.923278,42.08372],"type":"Point"}
 }

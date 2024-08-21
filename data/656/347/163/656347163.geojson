@@ -2,84 +2,87 @@
   "id": 656347163,
   "type": "Feature",
   "properties": {
-    "addr:full":"49 Prospect St Waltham MA 02453",
-    "addr:housenumber":"49",
-    "addr:postcode":"02453",
-    "addr:street":"Prospect St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.246589,42.373826,-71.246589,42.373826",
-    "geom:latitude":42.373826,
-    "geom:longitude":-71.246589,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"49 Prospect St",
-    "sg:city":"Waltham",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "49 Prospect St Waltham MA 02453",
+    "addr:housenumber": "49",
+    "addr:postcode": "02453",
+    "addr:street": "Prospect St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.246589,42.373826,-71.246589,42.373826",
+    "geom:latitude": 42.373826,
+    "geom:longitude": -71.246589,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Auto Systems, 49 Prospect St Waltham MA US",
+    "ovtr:similarity": 2.3994429111480713,
+    "sg:address": "49 Prospect St",
+    "sg:city": "Waltham",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 899 8544",
-    "sg:postcode":"02453",
-    "sg:province":"MA",
-    "sg:tags":[
-        "muffler",
-        "exhaust",
-        "system"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 899 8544",
+    "sg:postcode": "02453",
+    "sg:province": "MA",
+    "sg:tags": [
+      "muffler",
+      "exhaust",
+      "system"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85845135,
-        102191575,
-        404476457,
-        85633793,
-        85950337,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85845135,
+      102191575,
+      404476457,
+      85633793,
+      85950337,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5VszI3vwITClTjKRXF2ziZ_42.373826_-71.246589@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306e5891428035d0fd0aacb109d",
+      "sg:id": "SG_5VszI3vwITClTjKRXF2ziZ_42.373826_-71.246589@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461710893,
-    "wof:geomhash":"36ebe4f26b1dbc144c86de3adc9e101a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476457,
-            "locality_id":85950337,
-            "neighbourhood_id":85845135,
-            "region_id":85688645,
-            "venue_id":656347163
-        }
+    "wof:country": "US",
+    "wof:created": 1461710893,
+    "wof:geomhash": "1cc5605e58f4266b3a251635b08f4677",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476457,
+        "locality_id": 85950337,
+        "neighbourhood_id": 85845135,
+        "region_id": 85688645,
+        "venue_id": 656347163
+      }
     ],
-    "wof:id":656347163,
-    "wof:lastmodified":1472624904,
-    "wof:name":"Auto Systems",
-    "wof:parent_id":85845135,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "muffler",
-        "exhaust",
-        "system"
+    "wof:id": 656347163,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Auto Systems",
+    "wof:parent_id": 85845135,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "muffler",
+      "exhaust",
+      "system"
     ]
-},
+  },
   "bbox": [
     -71.246589,
     42.373826,
     -71.246589,
     42.373826
-],
+  ],
   "geometry": {"coordinates":[-71.246589,42.373826],"type":"Point"}
 }

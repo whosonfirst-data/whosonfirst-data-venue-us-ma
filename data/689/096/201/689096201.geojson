@@ -2,81 +2,84 @@
   "id": 689096201,
   "type": "Feature",
   "properties": {
-    "addr:full":"70 Beacon Street Somerville MA 02143",
-    "addr:housenumber":"70",
-    "addr:postcode":"02143",
-    "addr:street":"Beacon Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.1041,42.376391,-71.1041,42.376391",
-    "geom:latitude":42.376391,
-    "geom:longitude":-71.1041,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"70 Beacon Street",
-    "sg:city":"Somerville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "70 Beacon Street Somerville MA 02143",
+    "addr:housenumber": "70",
+    "addr:postcode": "02143",
+    "addr:street": "Beacon Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.104100,42.376391,-71.104100,42.376391",
+    "geom:latitude": 42.376391,
+    "geom:longitude": -71.1041,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Huron Veterinary Hospital, 70 Beacon St Somerville MA US",
+    "ovtr:similarity": 2.94081711769104,
+    "sg:address": "70 Beacon Street",
+    "sg:city": "Somerville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 661 9553",
-    "sg:postcode":"02143",
-    "sg:province":"MA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 661 9553",
+    "sg:postcode": "02143",
+    "sg:province": "MA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "sg:website":"www.huronvethospital.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85881031,
-        102191575,
-        404476445,
-        85633793,
-        85950339,
-        102084643,
-        85688645
+    "sg:website": "www.huronvethospital.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85881031,
+      102191575,
+      404476445,
+      85633793,
+      85950339,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2OL2VYAj908az0rNJjBuBB_42.376391_-71.104100@1303262218"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306752690a203d1e2f21f337490",
+      "sg:id": "SG_2OL2VYAj908az0rNJjBuBB_42.376391_-71.104100@1303262218"
     },
-    "wof:country":"US",
-    "wof:created":1461739307,
-    "wof:geomhash":"ff196d638267352342b0db0378a34a43",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476445,
-            "locality_id":85950339,
-            "neighbourhood_id":85881031,
-            "region_id":85688645,
-            "venue_id":689096201
-        }
+    "wof:country": "US",
+    "wof:created": 1461739307,
+    "wof:geomhash": "366b86f94a4789755a2598bb4097bbf8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476445,
+        "locality_id": 85950339,
+        "neighbourhood_id": 85881031,
+        "region_id": 85688645,
+        "venue_id": 689096201
+      }
     ],
-    "wof:id":689096201,
-    "wof:lastmodified":1472625337,
-    "wof:name":"Huron Veterinary Hospital",
-    "wof:parent_id":85881031,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 689096201,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Huron Veterinary Hospital",
+    "wof:parent_id": 85881031,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -71.1041,
     42.376391,
     -71.1041,
     42.376391
-],
+  ],
   "geometry": {"coordinates":[-71.1041,42.376391],"type":"Point"}
 }

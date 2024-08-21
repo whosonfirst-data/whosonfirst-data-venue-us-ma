@@ -2,80 +2,83 @@
   "id": 689212817,
   "type": "Feature",
   "properties": {
-    "addr:full":"50 Pleasant St Attleboro MA 02703",
-    "addr:housenumber":"50",
-    "addr:postcode":"02703",
-    "addr:street":"Pleasant St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.280792,41.94585,-71.280792,41.94585",
-    "geom:latitude":41.94585,
-    "geom:longitude":-71.280792,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"50 Pleasant St",
-    "sg:city":"Attleboro",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "50 Pleasant St Attleboro MA 02703",
+    "addr:housenumber": "50",
+    "addr:postcode": "02703",
+    "addr:street": "Pleasant St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.280792,41.945850,-71.280792,41.945850",
+    "geom:latitude": 41.94585,
+    "geom:longitude": -71.280792,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Pleasant Street Bar \u0026 Grill, 50 Pleasant St Attleboro MA US",
+    "ovtr:similarity": 2.5688490867614746,
+    "sg:address": "50 Pleasant St",
+    "sg:city": "Attleboro",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 222 9737",
-    "sg:postcode":"02703",
-    "sg:province":"MA",
-    "sg:tags":[
-        "tavern"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 222 9737",
+    "sg:postcode": "02703",
+    "sg:province": "MA",
+    "sg:tags": [
+      "tavern"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85814695,
-        102191575,
-        404476165,
-        85633793,
-        85950363,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85814695,
+      102191575,
+      404476165,
+      85633793,
+      85950363,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1V82erpQXuoBJVEdTJdqL5_41.945850_-71.280792@1303262233"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a338c2cb640303fe680b65a13e5f",
+      "sg:id": "SG_1V82erpQXuoBJVEdTJdqL5_41.945850_-71.280792@1303262233"
     },
-    "wof:country":"US",
-    "wof:created":1461742311,
-    "wof:geomhash":"cf1684c69194c306170ee051b7d584dc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476165,
-            "locality_id":85950363,
-            "neighbourhood_id":85814695,
-            "region_id":85688645,
-            "venue_id":689212817
-        }
+    "wof:country": "US",
+    "wof:created": 1461742311,
+    "wof:geomhash": "e0f11a61b3202f05f49cc0219fd48e59",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476165,
+        "locality_id": 85950363,
+        "neighbourhood_id": 85814695,
+        "region_id": 85688645,
+        "venue_id": 689212817
+      }
     ],
-    "wof:id":689212817,
-    "wof:lastmodified":1472625621,
-    "wof:name":"Pleasant Street Bar & Grill",
-    "wof:parent_id":85814695,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "tavern"
+    "wof:id": 689212817,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Pleasant Street Bar \u0026 Grill",
+    "wof:parent_id": 85814695,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tavern"
     ]
-},
+  },
   "bbox": [
     -71.280792,
     41.94585,
     -71.280792,
     41.94585
-],
-  "geometry": {"coordinates":[-71.28079200000001,41.94585],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.280792,41.94585],"type":"Point"}
 }

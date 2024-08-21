@@ -2,84 +2,87 @@
   "id": 672827615,
   "type": "Feature",
   "properties": {
-    "addr:full":"1213 Purchase St New Bedford MA 02740",
-    "addr:housenumber":"1213",
-    "addr:postcode":"02740",
-    "addr:street":"Purchase St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.927166,41.641459,-70.927166,41.641459",
-    "geom:latitude":41.641459,
-    "geom:longitude":-70.927166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1213 Purchase St",
-    "sg:city":"New Bedford",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "1213 Purchase St New Bedford MA 02740",
+    "addr:housenumber": "1213",
+    "addr:postcode": "02740",
+    "addr:street": "Purchase St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.927166,41.641459,-70.927166,41.641459",
+    "geom:latitude": 41.641459,
+    "geom:longitude": -70.927166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "New Bedford Health Department, 1213 Purchase St New Bedford MA US",
+    "ovtr:similarity": 2.629138946533203,
+    "sg:address": "1213 Purchase St",
+    "sg:city": "New Bedford",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 991 6290",
-    "sg:postcode":"02740",
-    "sg:province":"MA",
-    "sg:tags":[
-        "city",
-        "program",
-        "health"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 991 6290",
+    "sg:postcode": "02740",
+    "sg:province": "MA",
+    "sg:tags": [
+      "city",
+      "program",
+      "health"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85840071,
-        102191575,
-        404476131,
-        85633793,
-        85950367,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85840071,
+      102191575,
+      404476131,
+      85633793,
+      85950367,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6QXGMABaD4cKN9aR6nMf93_41.641459_-70.927166@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33b5a4ac522032ec0faecc55179",
+      "sg:id": "SG_6QXGMABaD4cKN9aR6nMf93_41.641459_-70.927166@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461727556,
-    "wof:geomhash":"9564806daf89054bbc4f4de961964a24",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476131,
-            "locality_id":85950367,
-            "neighbourhood_id":85840071,
-            "region_id":85688645,
-            "venue_id":672827615
-        }
+    "wof:country": "US",
+    "wof:created": 1461727556,
+    "wof:geomhash": "904052238acd022056a4bfd1b3385ab7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476131,
+        "locality_id": 85950367,
+        "neighbourhood_id": 85840071,
+        "region_id": 85688645,
+        "venue_id": 672827615
+      }
     ],
-    "wof:id":672827615,
-    "wof:lastmodified":1472626061,
-    "wof:name":"New Bedford Health Dept",
-    "wof:parent_id":85840071,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "city",
-        "program",
-        "health"
+    "wof:id": 672827615,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "New Bedford Health Dept",
+    "wof:parent_id": 85840071,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "city",
+      "program",
+      "health"
     ]
-},
+  },
   "bbox": [
     -70.927166,
     41.641459,
     -70.927166,
     41.641459
-],
+  ],
   "geometry": {"coordinates":[-70.927166,41.641459],"type":"Point"}
 }

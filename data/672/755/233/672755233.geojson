@@ -2,57 +2,64 @@
   "id": 672755233,
   "type": "Feature",
   "properties": {
-    "addr:full":"9 Marshall St Boston MA 02108",
-    "addr:housenumber":"9",
-    "addr:postcode":"02108",
-    "addr:street":"Marshall St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.056786,42.361626,-71.056786,42.361626",
-    "geom:latitude":42.361626,
-    "geom:longitude":-71.056786,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9 Marshall St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Gifts & Souvenirs",
-            "type":"Retail Goods"
-        }
+    "addr:full": "9 Marshall St Boston MA 02108",
+    "addr:housenumber": "9",
+    "addr:postcode": "02108",
+    "addr:street": "Marshall St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.056786,42.361626,-71.056786,42.361626",
+    "geom:latitude": 42.361626,
+    "geom:longitude": -71.056786,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Boston Stone Gift Shop, 9 Marshall St Boston MA US",
+    "ovtr:similarity": 2.509758949279785,
+    "sg:address": "9 Marshall St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Gifts \u0026 Souvenirs",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 227 6968",
-    "sg:postcode":"02108",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1rGQAWCeI5n39GU8Y5QYzN_42.361626_-71.056786@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 227 6968",
+    "sg:postcode": "02108",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30660362a55038cf36de7fb3f13",
+      "sg:id": "SG_1rGQAWCeI5n39GU8Y5QYzN_42.361626_-71.056786@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461726039,
-    "wof:geomhash":"9ca99f35a2c47236831178e060405fc7",
-    "wof:hierarchy":[],
-    "wof:id":672755233,
-    "wof:lastmodified":1491267724,
-    "wof:name":"Boston Stone Gift Shop",
-    "wof:parent_id":102526589,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461726039,
+    "wof:geomhash": "835485eca3ec9b175453d99e6a44bfda",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672755233
+      }
+    ],
+    "wof:id": 672755233,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Boston Stone Gift Shop",
+    "wof:parent_id": 102526589,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.056786,
     42.361626,
     -71.056786,
     42.361626
-],
+  ],
   "geometry": {"coordinates":[-71.056786,42.361626],"type":"Point"}
 }

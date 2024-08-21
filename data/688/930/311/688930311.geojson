@@ -2,95 +2,98 @@
   "id": 688930311,
   "type": "Feature",
   "properties": {
-    "addr:full":"16 Main St Salisbury MA 01952",
-    "addr:housenumber":"16",
-    "addr:postcode":"01952",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.875191,42.873303,-70.875191,42.873303",
-    "geom:latitude":42.873303,
-    "geom:longitude":-70.875191,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"16 Main St",
-    "sg:city":"Salisbury",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Automobile Sales",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Wholesale",
-            "subcategory":"Scrap",
-            "type":"Manufacturing & Wholesale Goods"
-        },
-        {
-            "category":"Wholesale",
-            "subcategory":"Auto Parts",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "16 Main St Salisbury MA 01952",
+    "addr:housenumber": "16",
+    "addr:postcode": "01952",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.875191,42.873303,-70.875191,42.873303",
+    "geom:latitude": 42.873303,
+    "geom:longitude": -70.875191,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Salisbury Auto Salvage, 16 Main St Salisbury MA US",
+    "ovtr:similarity": 2.764704942703247,
+    "sg:address": "16 Main St",
+    "sg:city": "Salisbury",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Automobile Sales",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Scrap",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Auto Parts",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 462 8262",
-    "sg:postcode":"01952",
-    "sg:province":"MA",
-    "sg:tags":[
-        "junk",
-        "metal",
-        "rebuilt-wholesale",
-        "supplies-used",
-        "salvage",
-        "manufacturer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 462 8262",
+    "sg:postcode": "01952",
+    "sg:province": "MA",
+    "sg:tags": [
+      "junk",
+      "metal",
+      "rebuilt-wholesale",
+      "supplies-used",
+      "salvage",
+      "manufacturer"
     ],
-    "sg:website":"http://www.salisburysalvage.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85846799,
-        102084463
+    "sg:website": "http://www.salisburysalvage.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85846799,
+      102084463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_36LVWHXCmNnuGGrmTEFQNw_42.873303_-70.875191@1303262196"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3018430484203c38ee930f646ff",
+      "sg:id": "SG_36LVWHXCmNnuGGrmTEFQNw_42.873303_-70.875191@1303262196"
     },
-    "wof:country":"US",
-    "wof:created":1461735856,
-    "wof:geomhash":"1ad8d2b48a4b6cd7425c808ffe07ef8c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85846799,
-            "region_id":85688645,
-            "venue_id":688930311
-        }
+    "wof:country": "US",
+    "wof:created": 1461735856,
+    "wof:geomhash": "8beb7fec9cbc0cdff4e9044251f2360c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "neighbourhood_id": 85846799,
+        "region_id": 85688645,
+        "venue_id": 688930311
+      }
     ],
-    "wof:id":688930311,
-    "wof:lastmodified":1472624994,
-    "wof:name":"Salisbury Auto Salvage",
-    "wof:parent_id":85846799,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "junk",
-        "metal",
-        "rebuilt-wholesale",
-        "supplies-used",
-        "salvage",
-        "manufacturer"
+    "wof:id": 688930311,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Salisbury Auto Salvage",
+    "wof:parent_id": 85846799,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "junk",
+      "metal",
+      "rebuilt-wholesale",
+      "supplies-used",
+      "salvage",
+      "manufacturer"
     ]
-},
+  },
   "bbox": [
     -70.875191,
     42.873303,
     -70.875191,
     42.873303
-],
+  ],
   "geometry": {"coordinates":[-70.875191,42.873303],"type":"Point"}
 }

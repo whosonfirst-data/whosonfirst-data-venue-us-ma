@@ -2,69 +2,72 @@
   "id": 672399623,
   "type": "Feature",
   "properties": {
-    "addr:full":"78 Main St Lee MA 01238",
-    "addr:housenumber":"78",
-    "addr:postcode":"01238",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-73.249169,42.305119,-73.249169,42.305119",
-    "geom:latitude":42.305119,
-    "geom:longitude":-73.249169,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"78 Main St",
-    "sg:city":"Lee",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "78 Main St Lee MA 01238",
+    "addr:housenumber": "78",
+    "addr:postcode": "01238",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-73.249169,42.305119,-73.249169,42.305119",
+    "geom:latitude": 42.305119,
+    "geom:longitude": -73.249169,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Salmon Run Fish House, 78 Main St Lee MA US",
+    "ovtr:similarity": 2.674631118774414,
+    "sg:address": "78 Main St",
+    "sg:city": "Lee",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 243 3900",
-    "sg:postcode":"01238",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85816525,
-        102084369
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 243 3900",
+    "sg:postcode": "01238",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85816525,
+      102084369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7QxQF4TNYZvvpwmospubeE_42.305119_-73.249169@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a14d85a012d503e9074163281d8f",
+      "sg:id": "SG_7QxQF4TNYZvvpwmospubeE_42.305119_-73.249169@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461717865,
-    "wof:geomhash":"89fe92e466c56f1b68c3a3bc69c09639",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084369,
-            "neighbourhood_id":85816525,
-            "region_id":85688645,
-            "venue_id":672399623
-        }
+    "wof:country": "US",
+    "wof:created": 1461717865,
+    "wof:geomhash": "34010e07f51a3e090810e8735765d6b8",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084369,
+        "neighbourhood_id": 85816525,
+        "region_id": 85688645,
+        "venue_id": 672399623
+      }
     ],
-    "wof:id":672399623,
-    "wof:lastmodified":1472625675,
-    "wof:name":"Salmon Run Fish House",
-    "wof:parent_id":85816525,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672399623,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Salmon Run Fish House",
+    "wof:parent_id": 85816525,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.249169,
     42.305119,
     -73.249169,
     42.305119
-],
-  "geometry": {"coordinates":[-73.24916899999999,42.305119],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-73.249169,42.305119],"type":"Point"}
 }

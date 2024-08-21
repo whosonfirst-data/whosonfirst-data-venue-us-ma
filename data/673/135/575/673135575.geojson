@@ -2,82 +2,85 @@
   "id": 673135575,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 Winch St Framingham MA 01701",
-    "addr:housenumber":"1",
-    "addr:postcode":"01701",
-    "addr:street":"Winch St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.464737,42.32341,-71.464737,42.32341",
-    "geom:latitude":42.32341,
-    "geom:longitude":-71.464737,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1 Winch St",
-    "sg:city":"Framingham",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Landscaping Services",
-            "type":"Services"
-        }
+    "addr:full": "1 Winch St Framingham MA 01701",
+    "addr:housenumber": "1",
+    "addr:postcode": "01701",
+    "addr:street": "Winch St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.464737,42.323410,-71.464737,42.323410",
+    "geom:latitude": 42.32341,
+    "geom:longitude": -71.464737,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Reed Academy, 1 Winch St Framingham MA US",
+    "ovtr:similarity": 2.813504934310913,
+    "sg:address": "1 Winch St",
+    "sg:city": "Framingham",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Landscaping Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 877 1222",
-    "sg:postcode":"01701",
-    "sg:province":"MA",
-    "sg:tags":[
-        "aged",
-        "homes-institutional"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 877 1222",
+    "sg:postcode": "01701",
+    "sg:province": "MA",
+    "sg:tags": [
+      "aged",
+      "homes-institutional"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85820523,
-        102191575,
-        404476489,
-        85633793,
-        85950629,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85820523,
+      102191575,
+      404476489,
+      85633793,
+      85950629,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3ZRPkgZH2B142itI1Hgrii_42.323410_-71.464737@1303262188"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33d2c222c8003f4ba7ca2e617f4",
+      "sg:id": "SG_3ZRPkgZH2B142itI1Hgrii_42.323410_-71.464737@1303262188"
     },
-    "wof:country":"US",
-    "wof:created":1461734503,
-    "wof:geomhash":"e8a1f259463f9bec92d31634ae56d386",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476489,
-            "locality_id":85950629,
-            "neighbourhood_id":85820523,
-            "region_id":85688645,
-            "venue_id":673135575
-        }
+    "wof:country": "US",
+    "wof:created": 1461734503,
+    "wof:geomhash": "1d75a932370fcc67008926b8d24b3f72",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476489,
+        "locality_id": 85950629,
+        "neighbourhood_id": 85820523,
+        "region_id": 85688645,
+        "venue_id": 673135575
+      }
     ],
-    "wof:id":673135575,
-    "wof:lastmodified":1472625391,
-    "wof:name":"Reed Academy",
-    "wof:parent_id":85820523,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "aged",
-        "homes-institutional"
+    "wof:id": 673135575,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Reed Academy",
+    "wof:parent_id": 85820523,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "aged",
+      "homes-institutional"
     ]
-},
+  },
   "bbox": [
     -71.464737,
     42.32341,
     -71.464737,
     42.32341
-],
+  ],
   "geometry": {"coordinates":[-71.464737,42.32341],"type":"Point"}
 }

@@ -2,84 +2,87 @@
   "id": 672518851,
   "type": "Feature",
   "properties": {
-    "addr:full":"252 Main St Great Barrington MA 01230",
-    "addr:housenumber":"252",
-    "addr:postcode":"01230",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-73.361829,42.195,-73.361829,42.195",
-    "geom:latitude":42.195,
-    "geom:longitude":-73.361829,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"252 Main St",
-    "sg:city":"Great Barrington",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Used Merchandise",
-            "type":"Retail Goods"
-        }
+    "addr:full": "252 Main St Great Barrington MA 01230",
+    "addr:housenumber": "252",
+    "addr:postcode": "01230",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-73.361829,42.195000,-73.361829,42.195000",
+    "geom:latitude": 42.195,
+    "geom:longitude": -73.361829,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Yellow House Books, 252 Main St Great Barrington MA US",
+    "ovtr:similarity": 2.053267002105713,
+    "sg:address": "252 Main St",
+    "sg:city": "Great Barrington",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Used Merchandise",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 528 8227",
-    "sg:postcode":"01230",
-    "sg:province":"MA",
-    "sg:tags":[
-        "book",
-        "rare",
-        "dealer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 528 8227",
+    "sg:postcode": "01230",
+    "sg:province": "MA",
+    "sg:tags": [
+      "book",
+      "rare",
+      "dealer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85805357,
-        102191575,
-        404476103,
-        85633793,
-        85950599,
-        102084369,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85805357,
+      102191575,
+      404476103,
+      85633793,
+      85950599,
+      102084369,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0cDJ4rYNSkCcfAUsn4rqJJ_42.195000_-73.361829@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a14ca340ab1c033b5627a3c6b5e5",
+      "sg:id": "SG_0cDJ4rYNSkCcfAUsn4rqJJ_42.195000_-73.361829@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461720809,
-    "wof:geomhash":"71e7c53142c040eca85827c450313f7a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084369,
-            "localadmin_id":404476103,
-            "locality_id":85950599,
-            "neighbourhood_id":85805357,
-            "region_id":85688645,
-            "venue_id":672518851
-        }
+    "wof:country": "US",
+    "wof:created": 1461720809,
+    "wof:geomhash": "dfcf1a0094c1b3b89e8c0678ffc84c19",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084369,
+        "localadmin_id": 404476103,
+        "locality_id": 85950599,
+        "neighbourhood_id": 85805357,
+        "region_id": 85688645,
+        "venue_id": 672518851
+      }
     ],
-    "wof:id":672518851,
-    "wof:lastmodified":1472625785,
-    "wof:name":"Yellow House Books",
-    "wof:parent_id":85805357,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "book",
-        "rare",
-        "dealer"
+    "wof:id": 672518851,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Yellow House Books",
+    "wof:parent_id": 85805357,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "book",
+      "rare",
+      "dealer"
     ]
-},
+  },
   "bbox": [
     -73.361829,
     42.195,
     -73.361829,
     42.195
-],
+  ],
   "geometry": {"coordinates":[-73.361829,42.195],"type":"Point"}
 }

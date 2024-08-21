@@ -2,70 +2,73 @@
   "id": 688948819,
   "type": "Feature",
   "properties": {
-    "addr:full":"1405 Boston Providence Tpke Norwood MA 02062",
-    "addr:housenumber":"1405",
-    "addr:postcode":"02062",
-    "addr:street":"Boston Providence Tpke",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.199285,42.16379,-71.199285,42.16379",
-    "geom:latitude":42.16379,
-    "geom:longitude":-71.199285,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1405 Boston Providence Tpke",
-    "sg:city":"Norwood",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "1405 Boston Providence Tpke Norwood MA 02062",
+    "addr:housenumber": "1405",
+    "addr:postcode": "02062",
+    "addr:street": "Boston Providence Tpke",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.199285,42.163790,-71.199285,42.163790",
+    "geom:latitude": 42.16379,
+    "geom:longitude": -71.199285,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Norwal Cleaners, 1405 Boston Providence Tpke Norwood MA US",
+    "ovtr:similarity": 2.229854106903076,
+    "sg:address": "1405 Boston Providence Tpke",
+    "sg:city": "Norwood",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 762 9898",
-    "sg:postcode":"02062",
-    "sg:province":"MA",
-    "sg:website":"www.norwalcleaners.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85891313,
-        102084403
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 762 9898",
+    "sg:postcode": "02062",
+    "sg:province": "MA",
+    "sg:website": "www.norwalcleaners.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85891313,
+      102084403
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4xQgpe5HI7XCaGFIVsIdW8_42.163790_-71.199285@1303262199"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3398c8e1b400366f6e35a783d61",
+      "sg:id": "SG_4xQgpe5HI7XCaGFIVsIdW8_42.163790_-71.199285@1303262199"
     },
-    "wof:country":"US",
-    "wof:created":1461736225,
-    "wof:geomhash":"80415bf32f44219d17ca132d32bba4cd",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084403,
-            "neighbourhood_id":85891313,
-            "region_id":85688645,
-            "venue_id":688948819
-        }
+    "wof:country": "US",
+    "wof:created": 1461736225,
+    "wof:geomhash": "727e09e65df89fe07b5e725acc5fef95",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "neighbourhood_id": 85891313,
+        "region_id": 85688645,
+        "venue_id": 688948819
+      }
     ],
-    "wof:id":688948819,
-    "wof:lastmodified":1472625113,
-    "wof:name":"Norwal Cleaners",
-    "wof:parent_id":85891313,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 688948819,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Norwal Cleaners",
+    "wof:parent_id": 85891313,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.199285,
     42.16379,
     -71.199285,
     42.16379
-],
+  ],
   "geometry": {"coordinates":[-71.199285,42.16379],"type":"Point"}
 }

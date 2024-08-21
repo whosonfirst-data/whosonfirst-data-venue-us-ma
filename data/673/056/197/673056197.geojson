@@ -2,83 +2,86 @@
   "id": 673056197,
   "type": "Feature",
   "properties": {
-    "addr:full":"1100 Cambridge St Cambridge MA 02139",
-    "addr:housenumber":"1100",
-    "addr:postcode":"02139",
-    "addr:street":"Cambridge St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.095618,42.37303,-71.095618,42.37303",
-    "geom:latitude":42.37303,
-    "geom:longitude":-71.095618,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1100 Cambridge St",
-    "sg:city":"Cambridge",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tattoo Parlor",
-            "type":"Services"
-        }
+    "addr:full": "1100 Cambridge St Cambridge MA 02139",
+    "addr:housenumber": "1100",
+    "addr:postcode": "02139",
+    "addr:street": "Cambridge St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.095618,42.373030,-71.095618,42.373030",
+    "geom:latitude": 42.37303,
+    "geom:longitude": -71.095618,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Pino Bros Ink, 1132 Cambridge St Cambridge MA US",
+    "ovtr:similarity": 2.364258050918579,
+    "sg:address": "1100 Cambridge St",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tattoo Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 250 9903",
-    "sg:postcode":"02139",
-    "sg:province":"MA",
-    "sg:tags":[
-        "tattooing",
-        "piercing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 250 9903",
+    "sg:postcode": "02139",
+    "sg:province": "MA",
+    "sg:tags": [
+      "tattooing",
+      "piercing"
     ],
-    "sg:website":"www.pinobrostattoo.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85876615,
-        102191575,
-        404476475,
-        85633793,
-        85950329,
-        102084643,
-        85688645
+    "sg:website": "www.pinobrostattoo.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85876615,
+      102191575,
+      404476475,
+      85633793,
+      85950329,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3WYH3YxCdVGS6xFG2TFhAw_42.373010_-71.095969@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306621a682e0347933f9985721b",
+      "sg:id": "SG_3WYH3YxCdVGS6xFG2TFhAw_42.373010_-71.095969@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732880,
-    "wof:geomhash":"aefed0d4a2a91923083e81a316f77808",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476475,
-            "locality_id":85950329,
-            "neighbourhood_id":85876615,
-            "region_id":85688645,
-            "venue_id":673056197
-        }
+    "wof:country": "US",
+    "wof:created": 1461732880,
+    "wof:geomhash": "e52d1277900652e13eeba4e790c9679c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476475,
+        "locality_id": 85950329,
+        "neighbourhood_id": 85876615,
+        "region_id": 85688645,
+        "venue_id": 673056197
+      }
     ],
-    "wof:id":673056197,
-    "wof:lastmodified":1472625128,
-    "wof:name":"Pino Bros Ink",
-    "wof:parent_id":85876615,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "tattooing",
-        "piercing"
+    "wof:id": 673056197,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Pino Bros Ink",
+    "wof:parent_id": 85876615,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tattooing",
+      "piercing"
     ]
-},
+  },
   "bbox": [
     -71.095618,
     42.37303,
     -71.095618,
     42.37303
-],
+  ],
   "geometry": {"coordinates":[-71.095618,42.37303],"type":"Point"}
 }

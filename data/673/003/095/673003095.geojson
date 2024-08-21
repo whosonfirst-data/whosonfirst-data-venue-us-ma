@@ -2,74 +2,77 @@
   "id": 673003095,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 N Main St Uxbridge MA 01569",
-    "addr:housenumber":"101",
-    "addr:postcode":"01569",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.634811,42.080628,-71.634811,42.080628",
-    "geom:latitude":42.080628,
-    "geom:longitude":-71.634811,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 N Main St",
-    "sg:city":"Uxbridge",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "101 N Main St Uxbridge MA 01569",
+    "addr:housenumber": "101",
+    "addr:postcode": "01569",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.634811,42.080628,-71.634811,42.080628",
+    "geom:latitude": 42.080628,
+    "geom:longitude": -71.634811,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Buma Funeral Homes, 101 N Main St Uxbridge MA US",
+    "ovtr:similarity": 2.506875991821289,
+    "sg:address": "101 N Main St",
+    "sg:city": "Uxbridge",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 278 2755",
-    "sg:postcode":"01569",
-    "sg:province":"MA",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 278 2755",
+    "sg:postcode": "01569",
+    "sg:province": "MA",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85857367,
-        102084655
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85857367,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Pjbjv2TB9MgWKLp9f5YtU_42.080628_-71.634811@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33c50322c400377b20bd5986ae6",
+      "sg:id": "SG_3Pjbjv2TB9MgWKLp9f5YtU_42.080628_-71.634811@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461731636,
-    "wof:geomhash":"3b15c1cc90f8aabfcde0d74f66267392",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85857367,
-            "region_id":85688645,
-            "venue_id":673003095
-        }
+    "wof:country": "US",
+    "wof:created": 1461731636,
+    "wof:geomhash": "a536382687e6c76848e3db4f69c06817",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85857367,
+        "region_id": 85688645,
+        "venue_id": 673003095
+      }
     ],
-    "wof:id":673003095,
-    "wof:lastmodified":1472624914,
-    "wof:name":"Buma Funeral Home",
-    "wof:parent_id":85857367,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:id": 673003095,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Buma Funeral Home",
+    "wof:parent_id": 85857367,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -71.634811,
     42.080628,
     -71.634811,
     42.080628
-],
+  ],
   "geometry": {"coordinates":[-71.634811,42.080628],"type":"Point"}
 }

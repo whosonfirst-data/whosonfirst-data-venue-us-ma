@@ -2,72 +2,75 @@
   "id": 673042331,
   "type": "Feature",
   "properties": {
-    "addr:full":"18 Elm St Andover MA 01810",
-    "addr:housenumber":"18",
-    "addr:postcode":"01810",
-    "addr:street":"Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.139954,42.65794,-71.139954,42.65794",
-    "geom:latitude":42.65794,
-    "geom:longitude":-71.139954,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"18 Elm St",
-    "sg:city":"Andover",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "18 Elm St Andover MA 01810",
+    "addr:housenumber": "18",
+    "addr:postcode": "01810",
+    "addr:street": "Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.139954,42.657940,-71.139954,42.657940",
+    "geom:latitude": 42.65794,
+    "geom:longitude": -71.139954,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Palmers Restaurant \u0026 Tavern, 18 Elm St Andover MA US",
+    "ovtr:similarity": 2.337752103805542,
+    "sg:address": "18 Elm St",
+    "sg:city": "Andover",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 470 1606",
-    "sg:postcode":"01810",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85855177,
-        102084463
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 470 1606",
+    "sg:postcode": "01810",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85855177,
+      102084463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":211824403,
-        "sg:id":"SG_1MMEP1XxCQHw88C4ysyA3i_42.657844_-71.140162@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 211824403,
+      "ovtr:id": "08f2a30730cf3101033bb415331c481a",
+      "sg:id": "SG_1MMEP1XxCQHw88C4ysyA3i_42.657844_-71.140162@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732595,
-    "wof:geomhash":"709ca63237cb02565f1b6e761df4b216",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85855177,
-            "region_id":85688645,
-            "venue_id":673042331
-        }
+    "wof:country": "US",
+    "wof:created": 1461732595,
+    "wof:geomhash": "709ca63237cb02565f1b6e761df4b216",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "neighbourhood_id": 85855177,
+        "region_id": 85688645,
+        "venue_id": 673042331
+      }
     ],
-    "wof:id":673042331,
-    "wof:lastmodified":1510942347,
-    "wof:name":"Palmers Restaurant & Tavern",
-    "wof:parent_id":85855177,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673042331,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Palmers Restaurant \u0026 Tavern",
+    "wof:parent_id": 85855177,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.139954,
     42.65794,
     -71.139954,
     42.65794
-],
+  ],
   "geometry": {"coordinates":[-71.139954,42.65794],"type":"Point"}
 }

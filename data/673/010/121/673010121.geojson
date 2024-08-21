@@ -2,61 +2,68 @@
   "id": 673010121,
   "type": "Feature",
   "properties": {
-    "addr:full":"2251 Main St Athol MA 01331",
-    "addr:housenumber":"2251",
-    "addr:postcode":"01331",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.205019,42.584084,-72.205019,42.584084",
-    "geom:latitude":42.584084,
-    "geom:longitude":-72.205019,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2251 Main St",
-    "sg:city":"Athol",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "2251 Main St Athol MA 01331",
+    "addr:housenumber": "2251",
+    "addr:postcode": "01331",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.205019,42.584084,-72.205019,42.584084",
+    "geom:latitude": 42.584084,
+    "geom:longitude": -72.205019,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Athol Fire Department, 2251 Main St Athol MA US",
+    "ovtr:similarity": 2.948529005050659,
+    "sg:address": "2251 Main St",
+    "sg:city": "Athol",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 249 3598",
-    "sg:postcode":"01331",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 249 3598",
+    "sg:postcode": "01331",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3AEDBe0XdErXAsFePtRGHf_42.584084_-72.205019@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3204031501903337ed39a801281",
+      "sg:id": "SG_3AEDBe0XdErXAsFePtRGHf_42.584084_-72.205019@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461731805,
-    "wof:geomhash":"8c9a664afea59fadb5824158e84886ed",
-    "wof:hierarchy":[],
-    "wof:id":673010121,
-    "wof:lastmodified":1472624922,
-    "wof:name":"Athol Fire Dept",
-    "wof:parent_id":420524133,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461731805,
+    "wof:geomhash": "6788fa3f1b91f4567b1cf3d61ecbb384",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673010121
+      }
+    ],
+    "wof:id": 673010121,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Athol Fire Dept",
+    "wof:parent_id": 420524133,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -72.205019,
     42.584084,
     -72.205019,
     42.584084
-],
-  "geometry": {"coordinates":[-72.20501899999999,42.584084],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-72.205019,42.584084],"type":"Point"}
 }

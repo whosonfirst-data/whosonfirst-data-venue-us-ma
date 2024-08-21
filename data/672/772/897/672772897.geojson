@@ -2,76 +2,79 @@
   "id": 672772897,
   "type": "Feature",
   "properties": {
-    "addr:full":"82 Bridge St Fairhaven MA 02719",
-    "addr:housenumber":"82",
-    "addr:postcode":"02719",
-    "addr:street":"Bridge St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.900947,41.642666,-70.900947,41.642666",
-    "geom:latitude":41.642666,
-    "geom:longitude":-70.900947,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"82 Bridge St",
-    "sg:city":"Fairhaven",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "82 Bridge St Fairhaven MA 02719",
+    "addr:housenumber": "82",
+    "addr:postcode": "02719",
+    "addr:street": "Bridge St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.900947,41.642666,-70.900947,41.642666",
+    "geom:latitude": 41.642666,
+    "geom:longitude": -70.900947,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Manny's Service Station, 82 Bridge St Fairhaven MA US",
+    "ovtr:similarity": 2.3724420070648193,
+    "sg:address": "82 Bridge St",
+    "sg:city": "Fairhaven",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 992 8683",
-    "sg:postcode":"02719",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 992 8683",
+    "sg:postcode": "02719",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85823881,
-        102084407
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85823881,
+      102084407
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5adL3qPYoZV1V2hPsK7kBh_41.642666_-70.900947@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33b5a94ecb403b78d331fa8ac08",
+      "sg:id": "SG_5adL3qPYoZV1V2hPsK7kBh_41.642666_-70.900947@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461726435,
-    "wof:geomhash":"b6c3c0d78cc3e507d38fa9313319a93e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084407,
-            "neighbourhood_id":85823881,
-            "region_id":85688645,
-            "venue_id":672772897
-        }
+    "wof:country": "US",
+    "wof:created": 1461726435,
+    "wof:geomhash": "152131db389cc933b9d2a201bf18815f",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "neighbourhood_id": 85823881,
+        "region_id": 85688645,
+        "venue_id": 672772897
+      }
     ],
-    "wof:id":672772897,
-    "wof:lastmodified":1472626014,
-    "wof:name":"Manny's Service Station",
-    "wof:parent_id":85823881,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 672772897,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Manny's Service Station",
+    "wof:parent_id": 85823881,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -70.900947,
     41.642666,
     -70.900947,
     41.642666
-],
+  ],
   "geometry": {"coordinates":[-70.900947,41.642666],"type":"Point"}
 }

@@ -2,91 +2,94 @@
   "id": 689074973,
   "type": "Feature",
   "properties": {
-    "addr:full":"26 Oxford St Cambridge MA 02138",
-    "addr:housenumber":"26",
-    "addr:postcode":"02138",
-    "addr:street":"Oxford St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.11648,42.378357,-71.11648,42.378357",
-    "geom:latitude":42.378357,
-    "geom:longitude":-71.11648,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"26 Oxford St",
-    "sg:city":"Cambridge",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Travel Agent",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "26 Oxford St Cambridge MA 02138",
+    "addr:housenumber": "26",
+    "addr:postcode": "02138",
+    "addr:street": "Oxford St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.116480,42.378357,-71.116480,42.378357",
+    "geom:latitude": 42.378357,
+    "geom:longitude": -71.11648,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Harvard Museum of Natural History, 26 Oxford St Cambridge MA US",
+    "ovtr:similarity": 3.096169948577881,
+    "sg:address": "26 Oxford St",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Travel Agent",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 495 3045",
-    "sg:postcode":"02138",
-    "sg:province":"MA",
-    "sg:tags":[
-        "agency",
-        "services-commercial"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 495 3045",
+    "sg:postcode": "02138",
+    "sg:province": "MA",
+    "sg:tags": [
+      "agency",
+      "services-commercial"
     ],
-    "sg:website":"www.hmnh.harvard.edu",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108713407,
-        85876607,
-        102191575,
-        404476475,
-        85633793,
-        85950329,
-        102084643,
-        85688645
+    "sg:website": "www.hmnh.harvard.edu",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108713407,
+      85876607,
+      102191575,
+      404476475,
+      85633793,
+      85950329,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2w360NHIqrjc1Egmw0eXe6_42.378357_-71.116480@1303262215"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3067193628003a1484368ea5398",
+      "sg:id": "SG_2w360NHIqrjc1Egmw0eXe6_42.378357_-71.116480@1303262215"
     },
-    "wof:country":"US",
-    "wof:created":1461738810,
-    "wof:geomhash":"c778ee7f6d750f58459128bb623c48c3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476475,
-            "locality_id":85950329,
-            "microhood_id":1108713407,
-            "neighbourhood_id":85876607,
-            "region_id":85688645,
-            "venue_id":689074973
-        }
+    "wof:country": "US",
+    "wof:created": 1461738810,
+    "wof:geomhash": "dab4f2b7f696d27c8f623bb1b04bfadc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476475,
+        "locality_id": 85950329,
+        "microhood_id": 1108713407,
+        "neighbourhood_id": 85876607,
+        "region_id": 85688645,
+        "venue_id": 689074973
+      }
     ],
-    "wof:id":689074973,
-    "wof:lastmodified":1489020325,
-    "wof:name":"Harvard Museum of Natural History",
-    "wof:parent_id":1108713407,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "agency",
-        "services-commercial"
+    "wof:id": 689074973,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Harvard Museum of Natural History",
+    "wof:parent_id": 1108713407,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "agency",
+      "services-commercial"
     ]
-},
+  },
   "bbox": [
     -71.11648,
     42.378357,
     -71.11648,
     42.378357
-],
+  ],
   "geometry": {"coordinates":[-71.11648,42.378357],"type":"Point"}
 }

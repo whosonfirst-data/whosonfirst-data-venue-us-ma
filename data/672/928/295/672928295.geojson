@@ -2,69 +2,72 @@
   "id": 672928295,
   "type": "Feature",
   "properties": {
-    "addr:full":"70 Howard St West Bridgewater MA 02379",
-    "addr:housenumber":"70",
-    "addr:postcode":"02379",
-    "addr:street":"Howard St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.014158,42.018392,-71.014158,42.018392",
-    "geom:latitude":42.018392,
-    "geom:longitude":-71.014158,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"70 Howard St",
-    "sg:city":"West Bridgewater",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "70 Howard St West Bridgewater MA 02379",
+    "addr:housenumber": "70",
+    "addr:postcode": "02379",
+    "addr:street": "Howard St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.014158,42.018392,-71.014158,42.018392",
+    "geom:latitude": 42.018392,
+    "geom:longitude": -71.014158,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Howard School, 70 Howard St West Bridgewater MA US",
+    "ovtr:similarity": 2.844430923461914,
+    "sg:address": "70 Howard St",
+    "sg:city": "West Bridgewater",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 894 1250",
-    "sg:postcode":"02379",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85805735,
-        102084367
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 894 1250",
+    "sg:postcode": "02379",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85805735,
+      102084367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0aW9sORRQIlPqTISy3Dipb_42.018392_-71.014158@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3395a2c029803ca75d8837d821f",
+      "sg:id": "SG_0aW9sORRQIlPqTISy3Dipb_42.018392_-71.014158@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461729580,
-    "wof:geomhash":"5f0ab74c330ac1e4d30de02641013fa9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "neighbourhood_id":85805735,
-            "region_id":85688645,
-            "venue_id":672928295
-        }
+    "wof:country": "US",
+    "wof:created": 1461729580,
+    "wof:geomhash": "4403dc23eb9ce82ad660b6204a4e0881",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "neighbourhood_id": 85805735,
+        "region_id": 85688645,
+        "venue_id": 672928295
+      }
     ],
-    "wof:id":672928295,
-    "wof:lastmodified":1472626141,
-    "wof:name":"Howard School",
-    "wof:parent_id":85805735,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672928295,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Howard School",
+    "wof:parent_id": 85805735,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.014158,
     42.018392,
     -71.014158,
     42.018392
-],
-  "geometry": {"coordinates":[-71.01415799999999,42.018392],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.014158,42.018392],"type":"Point"}
 }

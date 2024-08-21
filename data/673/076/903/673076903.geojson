@@ -2,82 +2,85 @@
   "id": 673076903,
   "type": "Feature",
   "properties": {
-    "addr:full":"22 Winn St Woburn MA 01801",
-    "addr:housenumber":"22",
-    "addr:postcode":"01801",
-    "addr:street":"Winn St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.153,42.480701,-71.153,42.480701",
-    "geom:latitude":42.480701,
-    "geom:longitude":-71.153,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"22 Winn St",
-    "sg:city":"Woburn",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "22 Winn St Woburn MA 01801",
+    "addr:housenumber": "22",
+    "addr:postcode": "01801",
+    "addr:street": "Winn St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.153000,42.480701,-71.153000,42.480701",
+    "geom:latitude": 42.480701,
+    "geom:longitude": -71.153,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Capelo's Auto Service, 22 Winn St Woburn MA US",
+    "ovtr:similarity": 3.2900919914245605,
+    "sg:address": "22 Winn St",
+    "sg:city": "Woburn",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 935 0043",
-    "sg:postcode":"01801",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 935 0043",
+    "sg:postcode": "01801",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85858437,
-        102191575,
-        404476469,
-        85633793,
-        85950353,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85858437,
+      102191575,
+      404476469,
+      85633793,
+      85950353,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Ao2gtru3ALK7Z64WUhjSo_42.480138_-71.152633@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30621072a130384be8f75f5c0fc",
+      "sg:id": "SG_7Ao2gtru3ALK7Z64WUhjSo_42.480138_-71.152633@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733283,
-    "wof:geomhash":"73e8c9988be1ffc261f46b1f5642773c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476469,
-            "locality_id":85950353,
-            "neighbourhood_id":85858437,
-            "region_id":85688645,
-            "venue_id":673076903
-        }
+    "wof:country": "US",
+    "wof:created": 1461733283,
+    "wof:geomhash": "b6a0d6defdd99710d05622c764106288",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476469,
+        "locality_id": 85950353,
+        "neighbourhood_id": 85858437,
+        "region_id": 85688645,
+        "venue_id": 673076903
+      }
     ],
-    "wof:id":673076903,
-    "wof:lastmodified":1472625189,
-    "wof:name":"Capelo's Auto Service Inc",
-    "wof:parent_id":85858437,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 673076903,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Capelo's Auto Service Inc",
+    "wof:parent_id": 85858437,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -71.153,
     42.480701,
     -71.153,
     42.480701
-],
-  "geometry": {"coordinates":[-71.15300000000001,42.480701],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.153,42.480701],"type":"Point"}
 }

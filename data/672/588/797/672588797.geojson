@@ -2,82 +2,85 @@
   "id": 672588797,
   "type": "Feature",
   "properties": {
-    "addr:full":"76 Boston Rd Springfield MA 01109",
-    "addr:housenumber":"76",
-    "addr:postcode":"01109",
-    "addr:street":"Boston Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.536387,42.12506,-72.536387,42.12506",
-    "geom:latitude":42.12506,
-    "geom:longitude":-72.536387,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"76 Boston Rd",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Automobile Sales",
-            "type":"Retail Goods"
-        }
+    "addr:full": "76 Boston Rd Springfield MA 01109",
+    "addr:housenumber": "76",
+    "addr:postcode": "01109",
+    "addr:street": "Boston Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.536387,42.125060,-72.536387,42.125060",
+    "geom:latitude": 42.12506,
+    "geom:longitude": -72.536387,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Chris Auto Sales, 76 Boston Rd Springfield MA US",
+    "ovtr:similarity": 2.6007890701293945,
+    "sg:address": "76 Boston Rd",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Automobile Sales",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 739 7760",
-    "sg:postcode":"01109",
-    "sg:province":"MA",
-    "sg:tags":[
-        "car",
-        "dealer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 739 7760",
+    "sg:postcode": "01109",
+    "sg:province": "MA",
+    "sg:tags": [
+      "car",
+      "dealer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85841837,
-        102191575,
-        404476369,
-        85633793,
-        85950393,
-        102084627,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85841837,
+      102191575,
+      404476369,
+      85633793,
+      85950393,
+      102084627,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2utLPW0KOS6Bm2SYfuPw1C_42.125060_-72.536387@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a1490bd9195003c07657b298f3cd",
+      "sg:id": "SG_2utLPW0KOS6Bm2SYfuPw1C_42.125060_-72.536387@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461722340,
-    "wof:geomhash":"33922c97c6ac0493c079101be0a156b7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084627,
-            "localadmin_id":404476369,
-            "locality_id":85950393,
-            "neighbourhood_id":85841837,
-            "region_id":85688645,
-            "venue_id":672588797
-        }
+    "wof:country": "US",
+    "wof:created": 1461722340,
+    "wof:geomhash": "bf4affd49445de1f6034f88cd0df661a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "localadmin_id": 404476369,
+        "locality_id": 85950393,
+        "neighbourhood_id": 85841837,
+        "region_id": 85688645,
+        "venue_id": 672588797
+      }
     ],
-    "wof:id":672588797,
-    "wof:lastmodified":1472625844,
-    "wof:name":"Chris Auto Sales",
-    "wof:parent_id":85841837,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "car",
-        "dealer"
+    "wof:id": 672588797,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Chris Auto Sales",
+    "wof:parent_id": 85841837,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "car",
+      "dealer"
     ]
-},
+  },
   "bbox": [
     -72.536387,
     42.12506,
     -72.536387,
     42.12506
-],
+  ],
   "geometry": {"coordinates":[-72.536387,42.12506],"type":"Point"}
 }

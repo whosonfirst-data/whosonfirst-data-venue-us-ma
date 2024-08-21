@@ -2,71 +2,74 @@
   "id": 672155365,
   "type": "Feature",
   "properties": {
-    "addr:full":"156 Main St Falmouth MA 02540",
-    "addr:housenumber":"156",
-    "addr:postcode":"02540",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.617467,41.552825,-70.617467,41.552825",
-    "geom:latitude":41.552825,
-    "geom:longitude":-70.617467,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"156 Main St",
-    "sg:city":"Falmouth",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Clothing, Apparel, & Fashions",
-            "type":"Retail Goods"
-        }
+    "addr:full": "156 Main St Falmouth MA 02540",
+    "addr:housenumber": "156",
+    "addr:postcode": "02540",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.617467,41.552825,-70.617467,41.552825",
+    "geom:latitude": 41.552825,
+    "geom:longitude": -70.617467,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Port Cargo, 156 Main St Falmouth MA US",
+    "ovtr:similarity": 2.460059881210327,
+    "sg:address": "156 Main St",
+    "sg:city": "Falmouth",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Clothing, Apparel, \u0026 Fashions",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 540 4466",
-    "sg:postcode":"02540",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950553,
-        102084379,
-        85818889
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 540 4466",
+    "sg:postcode": "02540",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950553,
+      102084379,
+      85818889
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0GA9Vi1vMoBuYbYKGHyRHQ_41.552825_-70.617467@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a316ac90644a03fed8dc0a416364",
+      "sg:id": "SG_0GA9Vi1vMoBuYbYKGHyRHQ_41.552825_-70.617467@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461712561,
-    "wof:geomhash":"3841a91a058fcf1f0a6d254b59bc2df0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "locality_id":85950553,
-            "neighbourhood_id":85818889,
-            "region_id":85688645,
-            "venue_id":672155365
-        }
+    "wof:country": "US",
+    "wof:created": 1461712561,
+    "wof:geomhash": "5b5b1b07a13d451357cb7d96fac4df47",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "locality_id": 85950553,
+        "neighbourhood_id": 85818889,
+        "region_id": 85688645,
+        "venue_id": 672155365
+      }
     ],
-    "wof:id":672155365,
-    "wof:lastmodified":1472624954,
-    "wof:name":"Port Cargo",
-    "wof:parent_id":85818889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672155365,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Port Cargo",
+    "wof:parent_id": 85818889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.617467,
     41.552825,
     -70.617467,
     41.552825
-],
+  ],
   "geometry": {"coordinates":[-70.617467,41.552825],"type":"Point"}
 }

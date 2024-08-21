@@ -2,80 +2,83 @@
   "id": 673039303,
   "type": "Feature",
   "properties": {
-    "addr:full":"76 East St Pittsfield MA 01201",
-    "addr:housenumber":"76",
-    "addr:postcode":"01201",
-    "addr:street":"East St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-73.252008,42.448153,-73.252008,42.448153",
-    "geom:latitude":42.448153,
-    "geom:longitude":-73.252008,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"76 East St",
-    "sg:city":"Pittsfield",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "76 East St Pittsfield MA 01201",
+    "addr:housenumber": "76",
+    "addr:postcode": "01201",
+    "addr:street": "East St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-73.252008,42.448153,-73.252008,42.448153",
+    "geom:latitude": 42.448153,
+    "geom:longitude": -73.252008,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Berkshire Law Library, 76 East St Pittsfield MA US",
+    "ovtr:similarity": 2.319370985031128,
+    "sg:address": "76 East St",
+    "sg:city": "Pittsfield",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 442 5059",
-    "sg:postcode":"01201",
-    "sg:province":"MA",
-    "sg:tags":[
-        "research"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 442 5059",
+    "sg:postcode": "01201",
+    "sg:province": "MA",
+    "sg:tags": [
+      "research"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85829545,
-        102191575,
-        404476123,
-        85633793,
-        85950325,
-        102084369,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85829545,
+      102191575,
+      404476123,
+      85633793,
+      85950325,
+      102084369,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_11kHcX0ddxmwp8LJeVVnMG_42.448040_-73.252602@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2b89a51ce2c110398cfe258e892ca",
+      "sg:id": "SG_11kHcX0ddxmwp8LJeVVnMG_42.448040_-73.252602@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732514,
-    "wof:geomhash":"66a9d59df36570f3db4e18325d84ba69",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084369,
-            "localadmin_id":404476123,
-            "locality_id":85950325,
-            "neighbourhood_id":85829545,
-            "region_id":85688645,
-            "venue_id":673039303
-        }
+    "wof:country": "US",
+    "wof:created": 1461732514,
+    "wof:geomhash": "7d37b0eb91d2ef4de9a9ed64af545220",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084369,
+        "localadmin_id": 404476123,
+        "locality_id": 85950325,
+        "neighbourhood_id": 85829545,
+        "region_id": 85688645,
+        "venue_id": 673039303
+      }
     ],
-    "wof:id":673039303,
-    "wof:lastmodified":1472625069,
-    "wof:name":"Berkshire Law Library",
-    "wof:parent_id":85829545,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "research"
+    "wof:id": 673039303,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Berkshire Law Library",
+    "wof:parent_id": 85829545,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "research"
     ]
-},
+  },
   "bbox": [
     -73.252008,
     42.448153,
     -73.252008,
     42.448153
-],
+  ],
   "geometry": {"coordinates":[-73.252008,42.448153],"type":"Point"}
 }

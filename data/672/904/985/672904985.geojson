@@ -2,78 +2,81 @@
   "id": 672904985,
   "type": "Feature",
   "properties": {
-    "addr:full":"497 Center St Ludlow MA 01056",
-    "addr:housenumber":"497",
-    "addr:postcode":"01056",
-    "addr:street":"Center St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.479661,42.1704,-72.479661,42.1704",
-    "geom:latitude":42.1704,
-    "geom:longitude":-72.479661,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"497 Center St",
-    "sg:city":"Ludlow",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Car Wash",
-            "type":"Services"
-        }
+    "addr:full": "497 Center St Ludlow MA 01056",
+    "addr:housenumber": "497",
+    "addr:postcode": "01056",
+    "addr:street": "Center St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.479661,42.170400,-72.479661,42.170400",
+    "geom:latitude": 42.1704,
+    "geom:longitude": -72.479661,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Automated Laser Car Wash, 497 Center St Ludlow MA US",
+    "ovtr:similarity": 2.0204050540924072,
+    "sg:address": "497 Center St",
+    "sg:city": "Ludlow",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Car Wash",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 583 0364",
-    "sg:postcode":"01056",
-    "sg:province":"MA",
-    "sg:tags":[
-        "polishing",
-        "washing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 583 0364",
+    "sg:postcode": "01056",
+    "sg:province": "MA",
+    "sg:tags": [
+      "polishing",
+      "washing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950393,
-        102084627,
-        85826887
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950393,
+      102084627,
+      85826887
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4srdzIqj4vZLQIbAlfaXnv_42.170400_-72.479661@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a1492ab95430033d9702ed18d55e",
+      "sg:id": "SG_4srdzIqj4vZLQIbAlfaXnv_42.170400_-72.479661@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461729125,
-    "wof:geomhash":"1a412f4941f6ab16d9135385b751f426",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084627,
-            "locality_id":85950393,
-            "neighbourhood_id":85826887,
-            "region_id":85688645,
-            "venue_id":672904985
-        }
+    "wof:country": "US",
+    "wof:created": 1461729125,
+    "wof:geomhash": "f7257b75d4b98128554051d65389a838",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "locality_id": 85950393,
+        "neighbourhood_id": 85826887,
+        "region_id": 85688645,
+        "venue_id": 672904985
+      }
     ],
-    "wof:id":672904985,
-    "wof:lastmodified":1472626128,
-    "wof:name":"Automated Laser Car Wash",
-    "wof:parent_id":85826887,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "polishing",
-        "washing"
+    "wof:id": 672904985,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Automated Laser Car Wash",
+    "wof:parent_id": 85826887,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "polishing",
+      "washing"
     ]
-},
+  },
   "bbox": [
     -72.479661,
     42.1704,
     -72.479661,
     42.1704
-],
-  "geometry": {"coordinates":[-72.47966099999999,42.1704],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-72.479661,42.1704],"type":"Point"}
 }

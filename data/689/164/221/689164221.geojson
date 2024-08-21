@@ -2,64 +2,71 @@
   "id": 689164221,
   "type": "Feature",
   "properties": {
-    "addr:full":"1190 Bedford St Whitman MA 02382",
-    "addr:housenumber":"1190",
-    "addr:postcode":"02382",
-    "addr:street":"Bedford St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.949596,42.091854,-70.949596,42.091854",
-    "geom:latitude":42.091854,
-    "geom:longitude":-70.949596,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1190 Bedford St",
-    "sg:city":"Whitman",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1190 Bedford St Whitman MA 02382",
+    "addr:housenumber": "1190",
+    "addr:postcode": "02382",
+    "addr:street": "Bedford St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.949596,42.091854,-70.949596,42.091854",
+    "geom:latitude": 42.091854,
+    "geom:longitude": -70.949596,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Four Seasons Power Equipment, 580 Bedford St Whitman MA US",
+    "ovtr:similarity": 3.3854010105133057,
+    "sg:address": "1190 Bedford St",
+    "sg:city": "Whitman",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 447 1122",
-    "sg:postcode":"02382",
-    "sg:province":"MA",
-    "sg:tags":[
-        "engine",
-        "rebuilding"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 447 1122",
+    "sg:postcode": "02382",
+    "sg:province": "MA",
+    "sg:tags": [
+      "engine",
+      "rebuilding"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0gKYcDuQ3UowaH4qhuThpE_42.091854_-70.949596@1303262227"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33942d5ed6b03ebee0f67f2a1d1",
+      "sg:id": "SG_0gKYcDuQ3UowaH4qhuThpE_42.091854_-70.949596@1303262227"
     },
-    "wof:country":"US",
-    "wof:created":1461741283,
-    "wof:geomhash":"2e87ee0ca4bf033c1f14ef8ae28225bd",
-    "wof:hierarchy":[],
-    "wof:id":689164221,
-    "wof:lastmodified":1492098459,
-    "wof:name":"Four Seasons Power Equipment",
-    "wof:parent_id":85803927,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "engine",
-        "rebuilding"
+    "wof:country": "US",
+    "wof:created": 1461741283,
+    "wof:geomhash": "2e87ee0ca4bf033c1f14ef8ae28225bd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689164221
+      }
+    ],
+    "wof:id": 689164221,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Four Seasons Power Equipment",
+    "wof:parent_id": 85803927,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "engine",
+      "rebuilding"
     ]
-},
+  },
   "bbox": [
     -70.949596,
     42.091854,
     -70.949596,
     42.091854
-],
+  ],
   "geometry": {"coordinates":[-70.949596,42.091854],"type":"Point"}
 }

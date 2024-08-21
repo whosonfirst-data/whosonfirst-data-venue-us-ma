@@ -2,63 +2,70 @@
   "id": 689219403,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 Commerce Way Norton MA 02766",
-    "addr:housenumber":"10",
-    "addr:postcode":"02766",
-    "addr:street":"Commerce Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.134903,41.960701,-71.134903,41.960701",
-    "geom:latitude":41.960701,
-    "geom:longitude":-71.134903,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10 Commerce Way",
-    "sg:city":"Norton",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "10 Commerce Way Norton MA 02766",
+    "addr:housenumber": "10",
+    "addr:postcode": "02766",
+    "addr:street": "Commerce Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.134903,41.960701,-71.134903,41.960701",
+    "geom:latitude": 41.960701,
+    "geom:longitude": -71.134903,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Morton Buildings, Inc., 10 Commerce Way Norton MA US",
+    "ovtr:similarity": 3.2198400497436523,
+    "sg:address": "10 Commerce Way",
+    "sg:city": "Norton",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 285 2718",
-    "sg:postcode":"02766",
-    "sg:province":"MA",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 285 2718",
+    "sg:postcode": "02766",
+    "sg:province": "MA",
+    "sg:tags": [
+      "contractor"
     ],
-    "sg:website":"www.mortonbuildings.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_04OfnuOUAFirGoDYlG5g6c_41.960701_-71.134903@1303262234"
+    "sg:website": "www.mortonbuildings.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33852c4dc9603a975675e1bc077",
+      "sg:id": "SG_04OfnuOUAFirGoDYlG5g6c_41.960701_-71.134903@1303262234"
     },
-    "wof:country":"US",
-    "wof:created":1461742464,
-    "wof:geomhash":"66409dce85e22ca063c295c668f1c23f",
-    "wof:hierarchy":[],
-    "wof:id":689219403,
-    "wof:lastmodified":1492099406,
-    "wof:name":"Morton Buildings Inc",
-    "wof:parent_id":85858285,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461742464,
+    "wof:geomhash": "66409dce85e22ca063c295c668f1c23f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689219403
+      }
+    ],
+    "wof:id": 689219403,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Morton Buildings Inc",
+    "wof:parent_id": 85858285,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -71.134903,
     41.960701,
     -71.134903,
     41.960701
-],
-  "geometry": {"coordinates":[-71.13490299999999,41.960701],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.134903,41.960701],"type":"Point"}
 }

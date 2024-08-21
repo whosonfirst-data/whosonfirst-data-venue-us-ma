@@ -2,80 +2,83 @@
   "id": 672483225,
   "type": "Feature",
   "properties": {
-    "addr:full":"747 Main St Worcester MA 01610",
-    "addr:housenumber":"747",
-    "addr:postcode":"01610",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.810885,42.256427,-71.810885,42.256427",
-    "geom:latitude":42.256427,
-    "geom:longitude":-71.810885,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"747 Main St",
-    "sg:city":"Worcester",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "747 Main St Worcester MA 01610",
+    "addr:housenumber": "747",
+    "addr:postcode": "01610",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.810885,42.256427,-71.810885,42.256427",
+    "geom:latitude": 42.256427,
+    "geom:longitude": -71.810885,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Mekong Market, 747 Main St Worcester MA US",
+    "ovtr:similarity": 2.3442299365997314,
+    "sg:address": "747 Main St",
+    "sg:city": "Worcester",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 755 4843",
-    "sg:postcode":"01610",
-    "sg:province":"MA",
-    "sg:tags":[
-        "market"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 755 4843",
+    "sg:postcode": "01610",
+    "sg:province": "MA",
+    "sg:tags": [
+      "market"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85881853,
-        102191575,
-        404476639,
-        85633793,
-        85950375,
-        102084655,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85881853,
+      102191575,
+      404476639,
+      85633793,
+      85950375,
+      102084655,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Dp76FYD1j8vjU8H8CxRir_42.256427_-71.810885@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33ca41a6aa1037425deaacfa33e",
+      "sg:id": "SG_2Dp76FYD1j8vjU8H8CxRir_42.256427_-71.810885@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461720031,
-    "wof:geomhash":"f24af24dfa2a5fca589f0b4cfe6e0d01",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476639,
-            "locality_id":85950375,
-            "neighbourhood_id":85881853,
-            "region_id":85688645,
-            "venue_id":672483225
-        }
+    "wof:country": "US",
+    "wof:created": 1461720031,
+    "wof:geomhash": "817d2e8abcff1edbb9ffa4287b706c22",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "localadmin_id": 404476639,
+        "locality_id": 85950375,
+        "neighbourhood_id": 85881853,
+        "region_id": 85688645,
+        "venue_id": 672483225
+      }
     ],
-    "wof:id":672483225,
-    "wof:lastmodified":1472625748,
-    "wof:name":"Mekong Market",
-    "wof:parent_id":85881853,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "market"
+    "wof:id": 672483225,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Mekong Market",
+    "wof:parent_id": 85881853,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "market"
     ]
-},
+  },
   "bbox": [
     -71.810885,
     42.256427,
     -71.810885,
     42.256427
-],
+  ],
   "geometry": {"coordinates":[-71.810885,42.256427],"type":"Point"}
 }

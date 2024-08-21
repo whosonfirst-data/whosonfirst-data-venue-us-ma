@@ -2,89 +2,92 @@
   "id": 689002247,
   "type": "Feature",
   "properties": {
-    "addr:full":"800 Washington St Boston MA 02111",
-    "addr:housenumber":"800",
-    "addr:postcode":"02111",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.0633,42.3495,-71.0633,42.3495",
-    "geom:latitude":42.3495,
-    "geom:longitude":-71.0633,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"800 Washington St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        },
-        {
-            "category":"Community Center",
-            "subcategory":"",
-            "type":"Public Place"
-        }
+    "addr:full": "800 Washington St Boston MA 02111",
+    "addr:housenumber": "800",
+    "addr:postcode": "02111",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.063300,42.349500,-71.063300,42.349500",
+    "geom:latitude": 42.3495,
+    "geom:longitude": -71.0633,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Tufts Medical Center, 800 Washington St Boston MA US",
+    "ovtr:similarity": 2.901326894760132,
+    "sg:address": "800 Washington St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      },
+      {
+        "category": "Community Center",
+        "subcategory": "",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 636 5000",
-    "sg:postcode":"02111",
-    "sg:province":"MA",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 636 5000",
+    "sg:postcode": "02111",
+    "sg:province": "MA",
+    "sg:tags": [
+      "medical"
     ],
-    "sg:website":"www.tuftsmedicalcenter.org/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85866971,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "www.tuftsmedicalcenter.org/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85866971,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":358277272,
-        "sg:id":"SG_2PubQKGjalzUMxYFRlrm8w_42.349500_-71.063300@1303262205"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 358277272,
+      "ovtr:id": "08f2a306614dd54803a03639128e5211",
+      "sg:id": "SG_2PubQKGjalzUMxYFRlrm8w_42.349500_-71.063300@1303262205"
     },
-    "wof:country":"US",
-    "wof:created":1461737311,
-    "wof:geomhash":"233f88c20d6ad494774a3122f8241e49",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85866971,
-            "region_id":85688645,
-            "venue_id":689002247
-        }
+    "wof:country": "US",
+    "wof:created": 1461737311,
+    "wof:geomhash": "233f88c20d6ad494774a3122f8241e49",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85866971,
+        "region_id": 85688645,
+        "venue_id": 689002247
+      }
     ],
-    "wof:id":689002247,
-    "wof:lastmodified":1510941571,
-    "wof:name":"Tufts Medical Center",
-    "wof:parent_id":85866971,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:id": 689002247,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Tufts Medical Center",
+    "wof:parent_id": 85866971,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -71.0633,
     42.3495,
     -71.0633,
     42.3495
-],
+  ],
   "geometry": {"coordinates":[-71.0633,42.3495],"type":"Point"}
 }

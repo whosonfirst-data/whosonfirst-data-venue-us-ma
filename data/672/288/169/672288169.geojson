@@ -2,59 +2,66 @@
   "id": 672288169,
   "type": "Feature",
   "properties": {
-    "addr:full":"75 Market St Rockland MA 02370",
-    "addr:housenumber":"75",
-    "addr:postcode":"02370",
-    "addr:street":"Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.916656,42.120248,-70.916656,42.120248",
-    "geom:latitude":42.120248,
-    "geom:longitude":-70.916656,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"75 Market St",
-    "sg:city":"Rockland",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "75 Market St Rockland MA 02370",
+    "addr:housenumber": "75",
+    "addr:postcode": "02370",
+    "addr:street": "Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.916656,42.120248,-70.916656,42.120248",
+    "geom:latitude": 42.120248,
+    "geom:longitude": -70.916656,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Walgreens, 75 Market St Rockland MA US",
+    "ovtr:similarity": 2.5195178985595703,
+    "sg:address": "75 Market St",
+    "sg:city": "Rockland",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 871 2946",
-    "sg:postcode":"02370",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573797,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5ms8JC8jfkguSNe8jzugCH_42.120248_-70.916656@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 871 2946",
+    "sg:postcode": "02370",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573797,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33970b4919d03f4bc4be7d20190",
+      "sg:id": "SG_5ms8JC8jfkguSNe8jzugCH_42.120248_-70.916656@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715363,
-    "wof:geomhash":"176a60c8c91c6675cea39044ec438d76",
-    "wof:hierarchy":[],
-    "wof:id":672288169,
-    "wof:lastmodified":1511322341,
-    "wof:name":"Walgreens",
-    "wof:parent_id":85824227,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461715363,
+    "wof:geomhash": "176a60c8c91c6675cea39044ec438d76",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672288169
+      }
+    ],
+    "wof:id": 672288169,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Walgreens",
+    "wof:parent_id": 85824227,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.916656,
     42.120248,
     -70.916656,
     42.120248
-],
+  ],
   "geometry": {"coordinates":[-70.916656,42.120248],"type":"Point"}
 }

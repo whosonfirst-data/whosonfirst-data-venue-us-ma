@@ -2,71 +2,78 @@
   "id": 689164351,
   "type": "Feature",
   "properties": {
-    "addr:full":"72 Raynor Ave Whitman MA 02382",
-    "addr:housenumber":"72",
-    "addr:postcode":"02382",
-    "addr:street":"Raynor Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.923617,42.084635,-70.923617,42.084635",
-    "geom:latitude":42.084635,
-    "geom:longitude":-70.923617,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"72 Raynor Ave",
-    "sg:city":"Whitman",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Tools & Machinery",
-            "type":"Manufacturing & Wholesale Goods"
-        },
-        {
-            "category":"Manufacturing",
-            "subcategory":"Metals",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "72 Raynor Ave Whitman MA 02382",
+    "addr:housenumber": "72",
+    "addr:postcode": "02382",
+    "addr:street": "Raynor Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.923617,42.084635,-70.923617,42.084635",
+    "geom:latitude": 42.084635,
+    "geom:longitude": -70.923617,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Whitman Tool \u0026 Die Co. Inc., 72 Raynor Ave Whitman MA US",
+    "ovtr:similarity": 3.700216054916382,
+    "sg:address": "72 Raynor Ave",
+    "sg:city": "Whitman",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Tools \u0026 Machinery",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      },
+      {
+        "category": "Manufacturing",
+        "subcategory": "Metals",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 447 0421",
-    "sg:postcode":"02382",
-    "sg:province":"MA",
-    "sg:tags":[
-        "die",
-        "stamping",
-        "maker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 447 0421",
+    "sg:postcode": "02382",
+    "sg:province": "MA",
+    "sg:tags": [
+      "die",
+      "stamping",
+      "maker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2ZWhMBDG9IIyCBFV3OI0ge_42.084635_-70.923617@1303262227"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33946b8a0410314662a38c1c009",
+      "sg:id": "SG_2ZWhMBDG9IIyCBFV3OI0ge_42.084635_-70.923617@1303262227"
     },
-    "wof:country":"US",
-    "wof:created":1461741286,
-    "wof:geomhash":"29aa54d5229c697819a99d516cd3a84b",
-    "wof:hierarchy":[],
-    "wof:id":689164351,
-    "wof:lastmodified":1492098461,
-    "wof:name":"Whitman Tool & Die Company, Incorporated",
-    "wof:parent_id":85846519,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "die",
-        "stamping",
-        "maker"
+    "wof:country": "US",
+    "wof:created": 1461741286,
+    "wof:geomhash": "29aa54d5229c697819a99d516cd3a84b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689164351
+      }
+    ],
+    "wof:id": 689164351,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Whitman Tool \u0026 Die Company, Incorporated",
+    "wof:parent_id": 85846519,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "die",
+      "stamping",
+      "maker"
     ]
-},
+  },
   "bbox": [
     -70.923617,
     42.084635,
     -70.923617,
     42.084635
-],
-  "geometry": {"coordinates":[-70.92361699999999,42.084635],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.923617,42.084635],"type":"Point"}
 }

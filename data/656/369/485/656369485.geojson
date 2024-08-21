@@ -2,84 +2,87 @@
   "id": 656369485,
   "type": "Feature",
   "properties": {
-    "addr:full":"819 Broadway Saugus MA 01906",
-    "addr:housenumber":"819",
-    "addr:postcode":"01906",
-    "addr:street":"Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.02431,42.472344,-71.02431,42.472344",
-    "geom:latitude":42.472344,
-    "geom:longitude":-71.02431,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"819 Broadway",
-    "sg:city":"Saugus",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "819 Broadway Saugus MA 01906",
+    "addr:housenumber": "819",
+    "addr:postcode": "01906",
+    "addr:street": "Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.024310,42.472344,-71.024310,42.472344",
+    "geom:latitude": 42.472344,
+    "geom:longitude": -71.02431,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Nickole Auto Body, Inc., 819 Broadway Saugus MA US",
+    "ovtr:similarity": 3.789885997772217,
+    "sg:address": "819 Broadway",
+    "sg:city": "Saugus",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 233 8666",
-    "sg:postcode":"01906",
-    "sg:province":"MA",
-    "sg:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 233 8666",
+    "sg:postcode": "01906",
+    "sg:province": "MA",
+    "sg:tags": [
+      "body",
+      "automobile",
+      "painting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85839005,
-        102191575,
-        404476265,
-        85633793,
-        85950809,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85839005,
+      102191575,
+      404476265,
+      85633793,
+      85950809,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0WhQQ19nH8rReev9K4Bzwk_42.472344_-71.024310@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3074637445b037d03e7abd1fe95",
+      "sg:id": "SG_0WhQQ19nH8rReev9K4Bzwk_42.472344_-71.024310@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711368,
-    "wof:geomhash":"1d1873d8fd7e1e96b1103293244e20e5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476265,
-            "locality_id":85950809,
-            "neighbourhood_id":85839005,
-            "region_id":85688645,
-            "venue_id":656369485
-        }
+    "wof:country": "US",
+    "wof:created": 1461711368,
+    "wof:geomhash": "2171bbaa4af3ed6ca387e0d7a2191b20",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476265,
+        "locality_id": 85950809,
+        "neighbourhood_id": 85839005,
+        "region_id": 85688645,
+        "venue_id": 656369485
+      }
     ],
-    "wof:id":656369485,
-    "wof:lastmodified":1472624949,
-    "wof:name":"Nickole Auto Body",
-    "wof:parent_id":85839005,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "wof:id": 656369485,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Nickole Auto Body",
+    "wof:parent_id": 85839005,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "automobile",
+      "painting"
     ]
-},
+  },
   "bbox": [
     -71.02431,
     42.472344,
     -71.02431,
     42.472344
-],
+  ],
   "geometry": {"coordinates":[-71.02431,42.472344],"type":"Point"}
 }

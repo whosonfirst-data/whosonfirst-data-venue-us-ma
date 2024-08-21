@@ -2,74 +2,77 @@
   "id": 672995099,
   "type": "Feature",
   "properties": {
-    "addr:full":"590 Main St Hampden MA 01036",
-    "addr:housenumber":"590",
-    "addr:postcode":"01036",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.415693,42.063641,-72.415693,42.063641",
-    "geom:latitude":42.063641,
-    "geom:longitude":-72.415693,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"590 Main St",
-    "sg:city":"Hampden",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "590 Main St Hampden MA 01036",
+    "addr:housenumber": "590",
+    "addr:postcode": "01036",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.415693,42.063641,-72.415693,42.063641",
+    "geom:latitude": 42.063641,
+    "geom:longitude": -72.415693,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Federated Community Church, 590 Main St Hampden MA US",
+    "ovtr:similarity": 2.460176944732666,
+    "sg:address": "590 Main St",
+    "sg:city": "Hampden",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 566 3711",
-    "sg:postcode":"01036",
-    "sg:province":"MA",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 566 3711",
+    "sg:postcode": "01036",
+    "sg:province": "MA",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85834199,
-        102084627
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85834199,
+      102084627
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Kv45riHLRza4xetj0ztws_42.063641_-72.415693@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a1494080aadc03edc36705950b91",
+      "sg:id": "SG_2Kv45riHLRza4xetj0ztws_42.063641_-72.415693@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461731463,
-    "wof:geomhash":"8294cc55929fabad33400d67a04be570",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084627,
-            "neighbourhood_id":85834199,
-            "region_id":85688645,
-            "venue_id":672995099
-        }
+    "wof:country": "US",
+    "wof:created": 1461731463,
+    "wof:geomhash": "df08079d4c7f98f591c31a3d6d25aaa5",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "neighbourhood_id": 85834199,
+        "region_id": 85688645,
+        "venue_id": 672995099
+      }
     ],
-    "wof:id":672995099,
-    "wof:lastmodified":1472626196,
-    "wof:name":"Federated Community Church",
-    "wof:parent_id":85834199,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:id": 672995099,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Federated Community Church",
+    "wof:parent_id": 85834199,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -72.415693,
     42.063641,
     -72.415693,
     42.063641
-],
+  ],
   "geometry": {"coordinates":[-72.415693,42.063641],"type":"Point"}
 }

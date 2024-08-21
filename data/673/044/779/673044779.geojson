@@ -2,82 +2,85 @@
   "id": 673044779,
   "type": "Feature",
   "properties": {
-    "addr:full":"6 Main St Huntington MA 01050",
-    "addr:housenumber":"6",
-    "addr:postcode":"01050",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.880255,42.23477,-72.880255,42.23477",
-    "geom:latitude":42.23477,
-    "geom:longitude":-72.880255,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6 Main St",
-    "sg:city":"Huntington",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Dance Studio",
-            "type":"Public Place"
-        }
+    "addr:full": "6 Main St Huntington MA 01050",
+    "addr:housenumber": "6",
+    "addr:postcode": "01050",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.880255,42.234770,-72.880255,42.234770",
+    "geom:latitude": 42.23477,
+    "geom:longitude": -72.880255,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Huntington Dance Center, 6 Main St Huntington MA US",
+    "ovtr:similarity": 2.7438390254974365,
+    "sg:address": "6 Main St",
+    "sg:city": "Huntington",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Dance Studio",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 667 5117",
-    "sg:postcode":"01050",
-    "sg:province":"MA",
-    "sg:tags":[
-        "instruction",
-        "dancing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 667 5117",
+    "sg:postcode": "01050",
+    "sg:province": "MA",
+    "sg:tags": [
+      "instruction",
+      "dancing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523643,
-        102191575,
-        404476297,
-        85633793,
-        85950849,
-        102084459,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523643,
+      102191575,
+      404476297,
+      85633793,
+      85950849,
+      102084459,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_20rNe087beeQabFBQMBvVz_42.234773_-72.880140@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a14d64acecaa036ab7a01d2c220d",
+      "sg:id": "SG_20rNe087beeQabFBQMBvVz_42.234773_-72.880140@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732641,
-    "wof:geomhash":"3a25f0a219c34c74de7c975fdf295cc5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084459,
-            "localadmin_id":404476297,
-            "locality_id":85950849,
-            "neighbourhood_id":420523643,
-            "region_id":85688645,
-            "venue_id":673044779
-        }
+    "wof:country": "US",
+    "wof:created": 1461732641,
+    "wof:geomhash": "55a153ceb8da6d182119e8b0138f67cf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084459,
+        "localadmin_id": 404476297,
+        "locality_id": 85950849,
+        "neighbourhood_id": 420523643,
+        "region_id": 85688645,
+        "venue_id": 673044779
+      }
     ],
-    "wof:id":673044779,
-    "wof:lastmodified":1472625116,
-    "wof:name":"Huntington Dance Center",
-    "wof:parent_id":420523643,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "dancing"
+    "wof:id": 673044779,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Huntington Dance Center",
+    "wof:parent_id": 420523643,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "dancing"
     ]
-},
+  },
   "bbox": [
     -72.880255,
     42.23477,
     -72.880255,
     42.23477
-],
-  "geometry": {"coordinates":[-72.88025500000001,42.23477],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-72.880255,42.23477],"type":"Point"}
 }

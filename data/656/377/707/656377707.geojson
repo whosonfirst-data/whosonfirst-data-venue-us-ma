@@ -2,62 +2,69 @@
   "id": 656377707,
   "type": "Feature",
   "properties": {
-    "addr:full":"360 Union St Rockland MA 02370",
-    "addr:housenumber":"360",
-    "addr:postcode":"02370",
-    "addr:street":"Union St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.916325,42.132439,-70.916325,42.132439",
-    "geom:latitude":42.132439,
-    "geom:longitude":-70.916325,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"360 Union St",
-    "sg:city":"Rockland",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "360 Union St Rockland MA 02370",
+    "addr:housenumber": "360",
+    "addr:postcode": "02370",
+    "addr:street": "Union St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.916325,42.132439,-70.916325,42.132439",
+    "geom:latitude": 42.132439,
+    "geom:longitude": -70.916325,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Rockland Fire Department, 360 Union St Rockland MA US",
+    "ovtr:similarity": 3.2193551063537598,
+    "sg:address": "360 Union St",
+    "sg:city": "Rockland",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 878 2123",
-    "sg:postcode":"02370",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 878 2123",
+    "sg:postcode": "02370",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2KTAlukNzbUDKoKRoULfue_42.132439_-70.916325@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a339742dda0303632ff6f2eb5a6a",
+      "sg:id": "SG_2KTAlukNzbUDKoKRoULfue_42.132439_-70.916325@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711541,
-    "wof:geomhash":"01362bc4a165ad00f30b3a7fe1b7fc85",
-    "wof:hierarchy":[],
-    "wof:id":656377707,
-    "wof:lastmodified":1492101350,
-    "wof:name":"Rockland Fire Dept",
-    "wof:parent_id":85824227,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461711541,
+    "wof:geomhash": "01362bc4a165ad00f30b3a7fe1b7fc85",
+    "wof:hierarchy": [
+      {
+        "venue_id": 656377707
+      }
+    ],
+    "wof:id": 656377707,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Rockland Fire Dept",
+    "wof:parent_id": 85824227,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -70.916325,
     42.132439,
     -70.916325,
     42.132439
-],
+  ],
   "geometry": {"coordinates":[-70.916325,42.132439],"type":"Point"}
 }

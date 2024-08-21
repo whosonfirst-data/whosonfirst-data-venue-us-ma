@@ -2,82 +2,85 @@
   "id": 673017675,
   "type": "Feature",
   "properties": {
-    "addr:full":"371 Franklin St Melrose MA 02176",
-    "addr:housenumber":"371",
-    "addr:postcode":"02176",
-    "addr:street":"Franklin St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.066973,42.468509,-71.066973,42.468509",
-    "geom:latitude":42.468509,
-    "geom:longitude":-71.066973,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"371 Franklin St",
-    "sg:city":"Melrose",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "371 Franklin St Melrose MA 02176",
+    "addr:housenumber": "371",
+    "addr:postcode": "02176",
+    "addr:street": "Franklin St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.066973,42.468509,-71.066973,42.468509",
+    "geom:latitude": 42.468509,
+    "geom:longitude": -71.066973,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Skin Sense, 371 Franklin St Melrose MA US",
+    "ovtr:similarity": 1.979653000831604,
+    "sg:address": "371 Franklin St",
+    "sg:city": "Melrose",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 665 1706",
-    "sg:postcode":"02176",
-    "sg:province":"MA",
-    "sg:tags":[
-        "treatment",
-        "skin"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 665 1706",
+    "sg:postcode": "02176",
+    "sg:province": "MA",
+    "sg:tags": [
+      "treatment",
+      "skin"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85833725,
-        102191575,
-        404476455,
-        85633793,
-        85950659,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85833725,
+      102191575,
+      404476455,
+      85633793,
+      85950659,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_43OKCWcgdIoGr4Hrqej6gG_42.468509_-71.066973@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3075182c775035ad8e73a635d2b",
+      "sg:id": "SG_43OKCWcgdIoGr4Hrqej6gG_42.468509_-71.066973@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461731996,
-    "wof:geomhash":"ec7cdb8d937f6aadd652e2051a834ae1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476455,
-            "locality_id":85950659,
-            "neighbourhood_id":85833725,
-            "region_id":85688645,
-            "venue_id":673017675
-        }
+    "wof:country": "US",
+    "wof:created": 1461731996,
+    "wof:geomhash": "49da2d2927d34b586b0f92ba75e8cd9a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476455,
+        "locality_id": 85950659,
+        "neighbourhood_id": 85833725,
+        "region_id": 85688645,
+        "venue_id": 673017675
+      }
     ],
-    "wof:id":673017675,
-    "wof:lastmodified":1472625008,
-    "wof:name":"Skin Sense",
-    "wof:parent_id":85833725,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "treatment",
-        "skin"
+    "wof:id": 673017675,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Skin Sense",
+    "wof:parent_id": 85833725,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "treatment",
+      "skin"
     ]
-},
+  },
   "bbox": [
     -71.066973,
     42.468509,
     -71.066973,
     42.468509
-],
+  ],
   "geometry": {"coordinates":[-71.066973,42.468509],"type":"Point"}
 }

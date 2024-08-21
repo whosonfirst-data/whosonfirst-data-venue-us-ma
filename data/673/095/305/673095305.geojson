@@ -2,84 +2,87 @@
   "id": 673095305,
   "type": "Feature",
   "properties": {
-    "addr:full":"11 Temple Pl Boston MA 02111",
-    "addr:housenumber":"11",
-    "addr:postcode":"02111",
-    "addr:street":"Temple Pl",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.062685,42.355579,-71.062685,42.355579",
-    "geom:latitude":42.355579,
-    "geom:longitude":-71.062685,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11 Temple Pl",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "11 Temple Pl Boston MA 02111",
+    "addr:housenumber": "11",
+    "addr:postcode": "02111",
+    "addr:street": "Temple Pl",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.062685,42.355579,-71.062685,42.355579",
+    "geom:latitude": 42.355579,
+    "geom:longitude": -71.062685,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Herrera's Mexican Grill, 11 Temple Pl Boston MA US",
+    "ovtr:similarity": 2.768557071685791,
+    "sg:address": "11 Temple Pl",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/boston/662-herreras-mexican-grill/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 426 2350",
-    "sg:postcode":"02111",
-    "sg:province":"MA",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/ma/boston/662-herreras-mexican-grill/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 426 2350",
+    "sg:postcode": "02111",
+    "sg:province": "MA",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108703039,
-        85815133,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108703039,
+      85815133,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2WtSezcMrsszqjnYeVqiyS_42.355290_-71.062214@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30661583bb003fdd24b93702c62",
+      "sg:id": "SG_2WtSezcMrsszqjnYeVqiyS_42.355290_-71.062214@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733664,
-    "wof:geomhash":"5baaf6a0a545f9e2dfe528b815496821",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "microhood_id":1108703039,
-            "neighbourhood_id":85815133,
-            "region_id":85688645,
-            "venue_id":673095305
-        }
+    "wof:country": "US",
+    "wof:created": 1461733664,
+    "wof:geomhash": "e43211a22e554717ea01ccdcf33de436",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "microhood_id": 1108703039,
+        "neighbourhood_id": 85815133,
+        "region_id": 85688645,
+        "venue_id": 673095305
+      }
     ],
-    "wof:id":673095305,
-    "wof:lastmodified":1489011141,
-    "wof:name":"Herrera's Mexican Grill",
-    "wof:parent_id":1108703039,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:id": 673095305,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Herrera's Mexican Grill",
+    "wof:parent_id": 1108703039,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -71.062685,
     42.355579,
     -71.062685,
     42.355579
-],
+  ],
   "geometry": {"coordinates":[-71.062685,42.355579],"type":"Point"}
 }

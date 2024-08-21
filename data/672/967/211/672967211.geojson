@@ -2,85 +2,88 @@
   "id": 672967211,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 East St Attleboro MA 02703",
-    "addr:housenumber":"123",
-    "addr:postcode":"02703",
-    "addr:street":"East St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.276869,41.937998,-71.276869,41.937998",
-    "geom:latitude":41.937998,
-    "geom:longitude":-71.276869,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 East St",
-    "sg:city":"Attleboro",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Building Materials",
-            "type":"Retail Goods"
-        }
+    "addr:full": "123 East St Attleboro MA 02703",
+    "addr:housenumber": "123",
+    "addr:postcode": "02703",
+    "addr:street": "East St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.276869,41.937998,-71.276869,41.937998",
+    "geom:latitude": 41.937998,
+    "geom:longitude": -71.276869,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Supply New England, 123 East St Attleboro MA US",
+    "ovtr:similarity": 3.470762014389038,
+    "sg:address": "123 East St",
+    "sg:city": "Attleboro",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Building Materials",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 222 5555",
-    "sg:postcode":"02703",
-    "sg:province":"MA",
-    "sg:tags":[
-        "plumbing",
-        "fixture",
-        "supply"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 222 5555",
+    "sg:postcode": "02703",
+    "sg:province": "MA",
+    "sg:tags": [
+      "plumbing",
+      "fixture",
+      "supply"
     ],
-    "sg:website":"www.fixturefactory.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85807495,
-        102191575,
-        404476165,
-        85633793,
-        85950363,
-        102084407,
-        85688645
+    "sg:website": "www.fixturefactory.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85807495,
+      102191575,
+      404476165,
+      85633793,
+      85950363,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_324ITREZs6ta8kZ7uvno1z_41.937998_-71.276869@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a338c20a08a903c39bf2f74f5def",
+      "sg:id": "SG_324ITREZs6ta8kZ7uvno1z_41.937998_-71.276869@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461730676,
-    "wof:geomhash":"7141af2097d959f83226c55cb7dee383",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476165,
-            "locality_id":85950363,
-            "neighbourhood_id":85807495,
-            "region_id":85688645,
-            "venue_id":672967211
-        }
+    "wof:country": "US",
+    "wof:created": 1461730676,
+    "wof:geomhash": "5dc5295e50bc7eb6abc2929386206195",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476165,
+        "locality_id": 85950363,
+        "neighbourhood_id": 85807495,
+        "region_id": 85688645,
+        "venue_id": 672967211
+      }
     ],
-    "wof:id":672967211,
-    "wof:lastmodified":1472626169,
-    "wof:name":"Supply New England Attleboro",
-    "wof:parent_id":85807495,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "plumbing",
-        "fixture",
-        "supply"
+    "wof:id": 672967211,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Supply New England Attleboro",
+    "wof:parent_id": 85807495,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "plumbing",
+      "fixture",
+      "supply"
     ]
-},
+  },
   "bbox": [
     -71.276869,
     41.937998,
     -71.276869,
     41.937998
-],
+  ],
   "geometry": {"coordinates":[-71.276869,41.937998],"type":"Point"}
 }

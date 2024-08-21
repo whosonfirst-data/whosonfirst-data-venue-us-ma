@@ -2,82 +2,85 @@
   "id": 672627901,
   "type": "Feature",
   "properties": {
-    "addr:full":"1964 Boston Rd Wilbraham MA 01095",
-    "addr:housenumber":"1964",
-    "addr:postcode":"01095",
-    "addr:street":"Boston Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.478585,42.14875,-72.478585,42.14875",
-    "geom:latitude":42.14875,
-    "geom:longitude":-72.478585,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1964 Boston Rd",
-    "sg:city":"Wilbraham",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "1964 Boston Rd Wilbraham MA 01095",
+    "addr:housenumber": "1964",
+    "addr:postcode": "01095",
+    "addr:street": "Boston Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.478585,42.148750,-72.478585,42.148750",
+    "geom:latitude": 42.14875,
+    "geom:longitude": -72.478585,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Eastfield Hospital for Animals, 1964 Boston Rd Wilbraham MA US",
+    "ovtr:similarity": 2.275365114212036,
+    "sg:address": "1964 Boston Rd",
+    "sg:city": "Wilbraham",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 543 2772",
-    "sg:postcode":"01095",
-    "sg:province":"MA",
-    "sg:tags":[
-        "hospital",
-        "animal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 543 2772",
+    "sg:postcode": "01095",
+    "sg:province": "MA",
+    "sg:tags": [
+      "hospital",
+      "animal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85881107,
-        102191575,
-        404476369,
-        85633793,
-        85950393,
-        102084627,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85881107,
+      102191575,
+      404476369,
+      85633793,
+      85950393,
+      102084627,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6stxjVwu0u4cY1y5rKf19l_42.148750_-72.478585@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a1492b6364f60344d01af8db0430",
+      "sg:id": "SG_6stxjVwu0u4cY1y5rKf19l_42.148750_-72.478585@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461723248,
-    "wof:geomhash":"c73a0fb9ea6bf3e6035405fed7d30fe7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084627,
-            "localadmin_id":404476369,
-            "locality_id":85950393,
-            "neighbourhood_id":85881107,
-            "region_id":85688645,
-            "venue_id":672627901
-        }
+    "wof:country": "US",
+    "wof:created": 1461723248,
+    "wof:geomhash": "1416e121bcb093a0dabb12fbe32233b2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "localadmin_id": 404476369,
+        "locality_id": 85950393,
+        "neighbourhood_id": 85881107,
+        "region_id": 85688645,
+        "venue_id": 672627901
+      }
     ],
-    "wof:id":672627901,
-    "wof:lastmodified":1472625885,
-    "wof:name":"Eastfield Hospital For Animals",
-    "wof:parent_id":85881107,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospital",
-        "animal"
+    "wof:id": 672627901,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Eastfield Hospital For Animals",
+    "wof:parent_id": 85881107,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospital",
+      "animal"
     ]
-},
+  },
   "bbox": [
     -72.478585,
     42.14875,
     -72.478585,
     42.14875
-],
+  ],
   "geometry": {"coordinates":[-72.478585,42.14875],"type":"Point"}
 }

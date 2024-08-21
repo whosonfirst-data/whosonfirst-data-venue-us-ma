@@ -2,69 +2,72 @@
   "id": 672682297,
   "type": "Feature",
   "properties": {
-    "addr:full":"45 Oak St Shrewsbury MA 01545",
-    "addr:housenumber":"45",
-    "addr:postcode":"01545",
-    "addr:street":"Oak St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.728955,42.282167,-71.728955,42.282167",
-    "geom:latitude":42.282167,
-    "geom:longitude":-71.728955,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"45 Oak St",
-    "sg:city":"Shrewsbury",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "45 Oak St Shrewsbury MA 01545",
+    "addr:housenumber": "45",
+    "addr:postcode": "01545",
+    "addr:street": "Oak St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.728955,42.282167,-71.728955,42.282167",
+    "geom:latitude": 42.282167,
+    "geom:longitude": -71.728955,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Oak Middle School, 45 Oak St Shrewsbury MA US",
+    "ovtr:similarity": 2.9744949340820312,
+    "sg:address": "45 Oak St",
+    "sg:city": "Shrewsbury",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 841 1200",
-    "sg:postcode":"01545",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85850089,
-        102084655
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 841 1200",
+    "sg:postcode": "01545",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85850089,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4J50bddq5N2ZSc0mktFY4U_42.282167_-71.728955@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33dab6de2f003d9eed6d5b92edd",
+      "sg:id": "SG_4J50bddq5N2ZSc0mktFY4U_42.282167_-71.728955@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461724443,
-    "wof:geomhash":"17567db4c16cf0c794e3334e7cbda2d1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85850089,
-            "region_id":85688645,
-            "venue_id":672682297
-        }
+    "wof:country": "US",
+    "wof:created": 1461724443,
+    "wof:geomhash": "0a38bbf731b24f38f0e0de5c11799664",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85850089,
+        "region_id": 85688645,
+        "venue_id": 672682297
+      }
     ],
-    "wof:id":672682297,
-    "wof:lastmodified":1472625923,
-    "wof:name":"Oak Middle School",
-    "wof:parent_id":85850089,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672682297,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Oak Middle School",
+    "wof:parent_id": 85850089,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.728955,
     42.282167,
     -71.728955,
     42.282167
-],
+  ],
   "geometry": {"coordinates":[-71.728955,42.282167],"type":"Point"}
 }

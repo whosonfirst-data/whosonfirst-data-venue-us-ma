@@ -2,80 +2,83 @@
   "id": 672417683,
   "type": "Feature",
   "properties": {
-    "addr:full":"273 Main St Wareham MA 02571",
-    "addr:housenumber":"273",
-    "addr:postcode":"02571",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.71733,41.759766,-70.71733,41.759766",
-    "geom:latitude":41.759766,
-    "geom:longitude":-70.71733,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"273 Main St",
-    "sg:city":"Wareham",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "273 Main St Wareham MA 02571",
+    "addr:housenumber": "273",
+    "addr:postcode": "02571",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.717330,41.759766,-70.717330,41.759766",
+    "geom:latitude": 41.759766,
+    "geom:longitude": -70.71733,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Wareham Fire Department, 273 Main St Wareham MA US",
+    "ovtr:similarity": 3.1642379760742188,
+    "sg:address": "273 Main St",
+    "sg:city": "Wareham",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 295 2973",
-    "sg:postcode":"02571",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 295 2973",
+    "sg:postcode": "02571",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85854495,
-        102191575,
-        404476567,
-        85633793,
-        85950489,
-        102084367,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85854495,
+      102191575,
+      404476567,
+      85633793,
+      85950489,
+      102084367,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5GqRDZBQXq8KWoyeQLjtHY_41.759766_-70.717330@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a314ce669150032e05217e1cee71",
+      "sg:id": "SG_5GqRDZBQXq8KWoyeQLjtHY_41.759766_-70.717330@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461718346,
-    "wof:geomhash":"c5a632ec5a0a00cbebbb03d254e8ce99",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476567,
-            "locality_id":85950489,
-            "neighbourhood_id":85854495,
-            "region_id":85688645,
-            "venue_id":672417683
-        }
+    "wof:country": "US",
+    "wof:created": 1461718346,
+    "wof:geomhash": "b5d064e5212468dd9a0cebd0070ee6de",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476567,
+        "locality_id": 85950489,
+        "neighbourhood_id": 85854495,
+        "region_id": 85688645,
+        "venue_id": 672417683
+      }
     ],
-    "wof:id":672417683,
-    "wof:lastmodified":1472625684,
-    "wof:name":"Wareham Fire Dept",
-    "wof:parent_id":85854495,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 672417683,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Wareham Fire Dept",
+    "wof:parent_id": 85854495,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -70.71733,
     41.759766,
     -70.71733,
     41.759766
-],
+  ],
   "geometry": {"coordinates":[-70.71733,41.759766],"type":"Point"}
 }

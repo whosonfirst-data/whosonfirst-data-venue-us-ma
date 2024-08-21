@@ -2,83 +2,86 @@
   "id": 673047673,
   "type": "Feature",
   "properties": {
-    "addr:full":"211 Park St Attleboro MA 02703",
-    "addr:housenumber":"211",
-    "addr:postcode":"02703",
-    "addr:street":"Park St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.274498,41.942699,-71.274498,41.942699",
-    "geom:latitude":41.942699,
-    "geom:longitude":-71.274498,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"211 Park St",
-    "sg:city":"Attleboro",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        }
+    "addr:full": "211 Park St Attleboro MA 02703",
+    "addr:housenumber": "211",
+    "addr:postcode": "02703",
+    "addr:street": "Park St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.274498,41.942699,-71.274498,41.942699",
+    "geom:latitude": 41.942699,
+    "geom:longitude": -71.274498,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Sturdy Memorial Hospital, 211 Park St Attleboro MA US",
+    "ovtr:similarity": 2.567842960357666,
+    "sg:address": "211 Park St",
+    "sg:city": "Attleboro",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 222 5200",
-    "sg:postcode":"02703",
-    "sg:province":"MA",
-    "sg:tags":[
-        "doctor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 222 5200",
+    "sg:postcode": "02703",
+    "sg:province": "MA",
+    "sg:tags": [
+      "doctor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85807495,
-        102191575,
-        404476165,
-        85633793,
-        85950363,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85807495,
+      102191575,
+      404476165,
+      85633793,
+      85950363,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":495047274,
-        "sg:id":"SG_2iSf2Fz8jobracNuUHK83s_41.942461_-71.274039@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 495047274,
+      "ovtr:id": "08f2a338c2c53c2003f6919d67247c6b",
+      "sg:id": "SG_2iSf2Fz8jobracNuUHK83s_41.942461_-71.274039@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732712,
-    "wof:geomhash":"e839017f235789d2af9ccd6c858b80af",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476165,
-            "locality_id":85950363,
-            "neighbourhood_id":85807495,
-            "region_id":85688645,
-            "venue_id":673047673
-        }
+    "wof:country": "US",
+    "wof:created": 1461732712,
+    "wof:geomhash": "e839017f235789d2af9ccd6c858b80af",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476165,
+        "locality_id": 85950363,
+        "neighbourhood_id": 85807495,
+        "region_id": 85688645,
+        "venue_id": 673047673
+      }
     ],
-    "wof:id":673047673,
-    "wof:lastmodified":1510943508,
-    "wof:name":"Sturdy Memorial Hospital",
-    "wof:parent_id":85807495,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "doctor"
+    "wof:id": 673047673,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Sturdy Memorial Hospital",
+    "wof:parent_id": 85807495,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "doctor"
     ]
-},
+  },
   "bbox": [
     -71.274498,
     41.942699,
     -71.274498,
     41.942699
-],
-  "geometry": {"coordinates":[-71.27449799999999,41.942699],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.274498,41.942699],"type":"Point"}
 }

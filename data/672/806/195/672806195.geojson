@@ -2,69 +2,72 @@
   "id": 672806195,
   "type": "Feature",
   "properties": {
-    "addr:full":"503 Foundry St North Easton MA 02356",
-    "addr:housenumber":"503",
-    "addr:postcode":"02356",
-    "addr:street":"Foundry St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.12047,42.023584,-71.12047,42.023584",
-    "geom:latitude":42.023584,
-    "geom:longitude":-71.12047,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"503 Foundry St",
-    "sg:city":"North Easton",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "503 Foundry St North Easton MA 02356",
+    "addr:housenumber": "503",
+    "addr:postcode": "02356",
+    "addr:street": "Foundry St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.120470,42.023584,-71.120470,42.023584",
+    "geom:latitude": 42.023584,
+    "geom:longitude": -71.12047,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Independent Liquors, 503 Foundry St Easton MA US",
+    "ovtr:similarity": 3.6300289630889893,
+    "sg:address": "503 Foundry St",
+    "sg:city": "North Easton",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 238 2112",
-    "sg:postcode":"02356",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85819417,
-        102084407
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 238 2112",
+    "sg:postcode": "02356",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85819417,
+      102084407
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0xhMjoDmJZ79t6iv0ZNX7v_42.023584_-71.120470@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3380ea5b2920300c3020f39c3d7",
+      "sg:id": "SG_0xhMjoDmJZ79t6iv0ZNX7v_42.023584_-71.120470@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461727108,
-    "wof:geomhash":"3181b6eac0815dd923ada397af0e56ad",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084407,
-            "neighbourhood_id":85819417,
-            "region_id":85688645,
-            "venue_id":672806195
-        }
+    "wof:country": "US",
+    "wof:created": 1461727108,
+    "wof:geomhash": "68108bd931a5c56f5e8c4b4eb4900736",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "neighbourhood_id": 85819417,
+        "region_id": 85688645,
+        "venue_id": 672806195
+      }
     ],
-    "wof:id":672806195,
-    "wof:lastmodified":1472626033,
-    "wof:name":"Independent Liquors",
-    "wof:parent_id":85819417,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672806195,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Independent Liquors",
+    "wof:parent_id": 85819417,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.12047,
     42.023584,
     -71.12047,
     42.023584
-],
+  ],
   "geometry": {"coordinates":[-71.12047,42.023584],"type":"Point"}
 }

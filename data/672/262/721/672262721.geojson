@@ -2,71 +2,74 @@
   "id": 672262721,
   "type": "Feature",
   "properties": {
-    "addr:full":"508 East St Ludlow MA 01056",
-    "addr:housenumber":"508",
-    "addr:postcode":"01056",
-    "addr:street":"East St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.467347,42.161939,-72.467347,42.161939",
-    "geom:latitude":42.161939,
-    "geom:longitude":-72.467347,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"508 East St",
-    "sg:city":"Ludlow",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "508 East St Ludlow MA 01056",
+    "addr:housenumber": "508",
+    "addr:postcode": "01056",
+    "addr:street": "East St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.467347,42.161939,-72.467347,42.161939",
+    "geom:latitude": 42.161939,
+    "geom:longitude": -72.467347,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "East Street School, 508 East St Ludlow MA US",
+    "ovtr:similarity": 2.7716939449310303,
+    "sg:address": "508 East St",
+    "sg:city": "Ludlow",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 589 9121",
-    "sg:postcode":"01056",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950393,
-        102084627,
-        85826887
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 589 9121",
+    "sg:postcode": "01056",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950393,
+      102084627,
+      85826887
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1joVzDBUfe0B5hjFmvwcnK_42.161939_-72.467347@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a1492bd61c46036fbf75d603da5e",
+      "sg:id": "SG_1joVzDBUfe0B5hjFmvwcnK_42.161939_-72.467347@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461714860,
-    "wof:geomhash":"697a619bd01bf24985d34af775fd9ee8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084627,
-            "locality_id":85950393,
-            "neighbourhood_id":85826887,
-            "region_id":85688645,
-            "venue_id":672262721
-        }
+    "wof:country": "US",
+    "wof:created": 1461714860,
+    "wof:geomhash": "3def354e72c93af6abbb8a179433d198",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "locality_id": 85950393,
+        "neighbourhood_id": 85826887,
+        "region_id": 85688645,
+        "venue_id": 672262721
+      }
     ],
-    "wof:id":672262721,
-    "wof:lastmodified":1472625385,
-    "wof:name":"East Street School",
-    "wof:parent_id":85826887,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672262721,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "East Street School",
+    "wof:parent_id": 85826887,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -72.467347,
     42.161939,
     -72.467347,
     42.161939
-],
+  ],
   "geometry": {"coordinates":[-72.467347,42.161939],"type":"Point"}
 }

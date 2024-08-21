@@ -2,93 +2,96 @@
   "id": 688966185,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 Arch St Boston MA 02108",
-    "addr:housenumber":"101",
-    "addr:postcode":"02108",
-    "addr:street":"Arch St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.05875,42.354873,-71.05875,42.354873",
-    "geom:latitude":42.354873,
-    "geom:longitude":-71.05875,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 Arch St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "101 Arch St Boston MA 02108",
+    "addr:housenumber": "101",
+    "addr:postcode": "02108",
+    "addr:street": "Arch St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.058750,42.354873,-71.058750,42.354873",
+    "geom:latitude": 42.354873,
+    "geom:longitude": -71.05875,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Chacarero, 101 Arch St Boston MA US",
+    "ovtr:similarity": 2.4974451065063477,
+    "sg:address": "101 Arch St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 542 0392",
-    "sg:postcode":"02108",
-    "sg:province":"MA",
-    "sg:tags":[
-        "american",
-        "sandwich",
-        "latin"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 542 0392",
+    "sg:postcode": "02108",
+    "sg:province": "MA",
+    "sg:tags": [
+      "american",
+      "sandwich",
+      "latin"
     ],
-    "sg:website":"www.chacarero.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108703039,
-        85815133,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "www.chacarero.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108703039,
+      85815133,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0ZIcByABOOwclhFz3c4qJf_42.354873_-71.058750@1303262201"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3066151dc7103cedc9313cdce7a",
+      "sg:id": "SG_0ZIcByABOOwclhFz3c4qJf_42.354873_-71.058750@1303262201"
     },
-    "wof:country":"US",
-    "wof:created":1461736576,
-    "wof:geomhash":"b2b23a684aefd45cc8b5da7188b9f3bb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "microhood_id":1108703039,
-            "neighbourhood_id":85815133,
-            "region_id":85688645,
-            "venue_id":688966185
-        }
+    "wof:country": "US",
+    "wof:created": 1461736576,
+    "wof:geomhash": "ba406fd92ed9978142cf4c94b203f26a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "microhood_id": 1108703039,
+        "neighbourhood_id": 85815133,
+        "region_id": 85688645,
+        "venue_id": 688966185
+      }
     ],
-    "wof:id":688966185,
-    "wof:lastmodified":1489011195,
-    "wof:name":"Chacarero",
-    "wof:parent_id":1108703039,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich",
-        "latin"
+    "wof:id": 688966185,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Chacarero",
+    "wof:parent_id": 1108703039,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich",
+      "latin"
     ]
-},
+  },
   "bbox": [
     -71.05875,
     42.354873,
     -71.05875,
     42.354873
-],
+  ],
   "geometry": {"coordinates":[-71.05875,42.354873],"type":"Point"}
 }

@@ -2,62 +2,69 @@
   "id": 672160449,
   "type": "Feature",
   "properties": {
-    "addr:full":"99 Water St Marion MA 02738",
-    "addr:housenumber":"99",
-    "addr:postcode":"02738",
-    "addr:street":"Water St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.759952,41.70321,-70.759952,41.70321",
-    "geom:latitude":41.70321,
-    "geom:longitude":-70.759952,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"99 Water St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "99 Water St Marion MA 02738",
+    "addr:housenumber": "99",
+    "addr:postcode": "02738",
+    "addr:street": "Water St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.759952,41.703210,-70.759952,41.703210",
+    "geom:latitude": 41.70321,
+    "geom:longitude": -70.759952,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Beverly Yacht Club, 99 Water St Marion MA US",
+    "ovtr:similarity": 2.493881940841675,
+    "sg:address": "99 Water St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 748 0540",
-    "sg:postcode":"02738",
-    "sg:province":"MA",
-    "sg:tags":[
-        "club"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 748 0540",
+    "sg:postcode": "02738",
+    "sg:province": "MA",
+    "sg:tags": [
+      "club"
     ],
-    "sg:website":"www.beverlyyachtclub.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6uBh9ldVvoVyk526YYzxa3_41.703210_-70.759952@1294127905"
+    "sg:website": "www.beverlyyachtclub.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33b602f52a303221b7951227ede",
+      "sg:id": "SG_6uBh9ldVvoVyk526YYzxa3_41.703210_-70.759952@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461712666,
-    "wof:geomhash":"c22044e7c7cdb32e1365cac13a0ba96e",
-    "wof:hierarchy":[],
-    "wof:id":672160449,
-    "wof:lastmodified":1472625005,
-    "wof:name":"Beverly Yacht Club",
-    "wof:parent_id":420523877,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club"
+    "wof:country": "US",
+    "wof:created": 1461712666,
+    "wof:geomhash": "846fefcc0ab68da8f8f5467fd406e9e3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672160449
+      }
+    ],
+    "wof:id": 672160449,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Beverly Yacht Club",
+    "wof:parent_id": 420523877,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
     ]
-},
+  },
   "bbox": [
     -70.759952,
     41.70321,
     -70.759952,
     41.70321
-],
+  ],
   "geometry": {"coordinates":[-70.759952,41.70321],"type":"Point"}
 }

@@ -2,80 +2,83 @@
   "id": 673176757,
   "type": "Feature",
   "properties": {
-    "addr:full":"115 W Main St Merrimac MA 01860",
-    "addr:housenumber":"115",
-    "addr:postcode":"01860",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.020632,42.823665,-71.020632,42.823665",
-    "geom:latitude":42.823665,
-    "geom:longitude":-71.020632,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"115 W Main St",
-    "sg:city":"Merrimac",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Rental",
-            "type":"Services"
-        }
+    "addr:full": "115 W Main St Merrimac MA 01860",
+    "addr:housenumber": "115",
+    "addr:postcode": "01860",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.020632,42.823665,-71.020632,42.823665",
+    "geom:latitude": 42.823665,
+    "geom:longitude": -71.020632,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Steve's Auto Works, 115 W Main St Merrimac MA US",
+    "ovtr:similarity": 2.6172680854797363,
+    "sg:address": "115 W Main St",
+    "sg:city": "Merrimac",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 346 0023",
-    "sg:postcode":"01860",
-    "sg:province":"MA",
-    "sg:tags":[
-        "car"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 346 0023",
+    "sg:postcode": "01860",
+    "sg:province": "MA",
+    "sg:tags": [
+      "car"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523409,
-        102191575,
-        404476201,
-        85633793,
-        85950417,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523409,
+      102191575,
+      404476201,
+      85633793,
+      85950417,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3AGav3wJCETNAUsc6um87S_42.823665_-71.020632@1303262193"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3056910e4dd0391c37d159bb30a",
+      "sg:id": "SG_3AGav3wJCETNAUsc6um87S_42.823665_-71.020632@1303262193"
     },
-    "wof:country":"US",
-    "wof:created":1461735370,
-    "wof:geomhash":"5994903d6da00a9c63b20723d580f4e3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476201,
-            "locality_id":85950417,
-            "neighbourhood_id":420523409,
-            "region_id":85688645,
-            "venue_id":673176757
-        }
+    "wof:country": "US",
+    "wof:created": 1461735370,
+    "wof:geomhash": "b456549cfe37e1a9ba4f75b3e0c4f8d3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476201,
+        "locality_id": 85950417,
+        "neighbourhood_id": 420523409,
+        "region_id": 85688645,
+        "venue_id": 673176757
+      }
     ],
-    "wof:id":673176757,
-    "wof:lastmodified":1472625524,
-    "wof:name":"Steve's Auto Works",
-    "wof:parent_id":420523409,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "car"
+    "wof:id": 673176757,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Steve's Auto Works",
+    "wof:parent_id": 420523409,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "car"
     ]
-},
+  },
   "bbox": [
     -71.020632,
     42.823665,
     -71.020632,
     42.823665
-],
-  "geometry": {"coordinates":[-71.02063200000001,42.823665],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.020632,42.823665],"type":"Point"}
 }

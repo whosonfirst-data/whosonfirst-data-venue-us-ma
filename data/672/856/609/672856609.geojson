@@ -2,80 +2,83 @@
   "id": 672856609,
   "type": "Feature",
   "properties": {
-    "addr:full":"885 Main St Millis MA 02054",
-    "addr:housenumber":"885",
-    "addr:postcode":"02054",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.357917,42.167215,-71.357917,42.167215",
-    "geom:latitude":42.167215,
-    "geom:longitude":-71.357917,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"885 Main St",
-    "sg:city":"Millis",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "885 Main St Millis MA 02054",
+    "addr:housenumber": "885",
+    "addr:postcode": "02054",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.357917,42.167215,-71.357917,42.167215",
+    "geom:latitude": 42.167215,
+    "geom:longitude": -71.357917,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Millis Fire Department, 885 Main St Millis MA US",
+    "ovtr:similarity": 2.8013579845428467,
+    "sg:address": "885 Main St",
+    "sg:city": "Millis",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 376 2361",
-    "sg:postcode":"02054",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 376 2361",
+    "sg:postcode": "02054",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811341,
-        102191575,
-        404476581,
-        85633793,
-        85950831,
-        102084403,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811341,
+      102191575,
+      404476581,
+      85633793,
+      85950831,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4qkHk0zYf3URdsTu5aFZD4_42.167215_-71.357917@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33d6989029803e36d7b23e9b1e7",
+      "sg:id": "SG_4qkHk0zYf3URdsTu5aFZD4_42.167215_-71.357917@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461728117,
-    "wof:geomhash":"276c274371196b22e4401f05597bdc07",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476581,
-            "locality_id":85950831,
-            "neighbourhood_id":85811341,
-            "region_id":85688645,
-            "venue_id":672856609
-        }
+    "wof:country": "US",
+    "wof:created": 1461728117,
+    "wof:geomhash": "47e92d40ea97e9b344c61170f25ea514",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476581,
+        "locality_id": 85950831,
+        "neighbourhood_id": 85811341,
+        "region_id": 85688645,
+        "venue_id": 672856609
+      }
     ],
-    "wof:id":672856609,
-    "wof:lastmodified":1472626083,
-    "wof:name":"Millis Fire Dept",
-    "wof:parent_id":85811341,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 672856609,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Millis Fire Dept",
+    "wof:parent_id": 85811341,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -71.357917,
     42.167215,
     -71.357917,
     42.167215
-],
+  ],
   "geometry": {"coordinates":[-71.357917,42.167215],"type":"Point"}
 }

@@ -2,63 +2,70 @@
   "id": 672197491,
   "type": "Feature",
   "properties": {
-    "addr:full":"5 Cottage St Orleans MA 02653",
-    "addr:housenumber":"5",
-    "addr:postcode":"02653",
-    "addr:street":"Cottage St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-69.985991,41.791266,-69.985991,41.791266",
-    "geom:latitude":41.791266,
-    "geom:longitude":-69.985991,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5 Cottage St",
-    "sg:city":"Orleans",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5 Cottage St Orleans MA 02653",
+    "addr:housenumber": "5",
+    "addr:postcode": "02653",
+    "addr:street": "Cottage St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-69.985991,41.791266,-69.985991,41.791266",
+    "geom:latitude": 41.791266,
+    "geom:longitude": -69.985991,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Cottage Street Bakery, 5 Cottage St Orleans MA US",
+    "ovtr:similarity": 3.300215005874634,
+    "sg:address": "5 Cottage St",
+    "sg:city": "Orleans",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 255 2821",
-    "sg:postcode":"02653",
-    "sg:province":"MA",
-    "sg:tags":[
-        "baker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 255 2821",
+    "sg:postcode": "02653",
+    "sg:province": "MA",
+    "sg:tags": [
+      "baker"
     ],
-    "sg:website":"www.cottagestreetbakery.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5otxuWAXUgbwRKZ0dQkkbO_41.791266_-69.985991@1294127905"
+    "sg:website": "www.cottagestreetbakery.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a310289a9da9035636c951e21cb1",
+      "sg:id": "SG_5otxuWAXUgbwRKZ0dQkkbO_41.791266_-69.985991@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461713507,
-    "wof:geomhash":"100653c54822c3ccb0887a069a7f0c78",
-    "wof:hierarchy":[],
-    "wof:id":672197491,
-    "wof:lastmodified":1492110967,
-    "wof:name":"Cottage Street Bakery",
-    "wof:parent_id":85852345,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "baker"
+    "wof:country": "US",
+    "wof:created": 1461713507,
+    "wof:geomhash": "100653c54822c3ccb0887a069a7f0c78",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672197491
+      }
+    ],
+    "wof:id": 672197491,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Cottage Street Bakery",
+    "wof:parent_id": 85852345,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "baker"
     ]
-},
+  },
   "bbox": [
     -69.985991,
     41.791266,
     -69.985991,
     41.791266
-],
+  ],
   "geometry": {"coordinates":[-69.985991,41.791266],"type":"Point"}
 }

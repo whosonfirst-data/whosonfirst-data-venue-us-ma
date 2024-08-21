@@ -2,63 +2,70 @@
   "id": 672942949,
   "type": "Feature",
   "properties": {
-    "addr:full":"204 Monument Rd Orleans MA 02653",
-    "addr:housenumber":"204",
-    "addr:postcode":"02653",
-    "addr:street":"Monument Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-69.984332,41.765632,-69.984332,41.765632",
-    "geom:latitude":41.765632,
-    "geom:longitude":-69.984332,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"204 Monument Rd",
-    "sg:city":"Orleans",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "204 Monument Rd Orleans MA 02653",
+    "addr:housenumber": "204",
+    "addr:postcode": "02653",
+    "addr:street": "Monument Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-69.984332,41.765632,-69.984332,41.765632",
+    "geom:latitude": 41.765632,
+    "geom:longitude": -69.984332,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Church of the Holy Spirit, 204 Monument Rd Orleans MA US",
+    "ovtr:similarity": 2.9013969898223877,
+    "sg:address": "204 Monument Rd",
+    "sg:city": "Orleans",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 255 0433",
-    "sg:postcode":"02653",
-    "sg:province":"MA",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 255 0433",
+    "sg:postcode": "02653",
+    "sg:province": "MA",
+    "sg:tags": [
+      "church"
     ],
-    "sg:website":"www.holyspiritorleans.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_51mWpjaybbxHeqdenUvtU2_41.765632_-69.984332@1294127905"
+    "sg:website": "www.holyspiritorleans.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a310290b0aee03c77e7c8acb7ffd",
+      "sg:id": "SG_51mWpjaybbxHeqdenUvtU2_41.765632_-69.984332@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461729951,
-    "wof:geomhash":"01d7e428712055feca1d01931caed7bc",
-    "wof:hierarchy":[],
-    "wof:id":672942949,
-    "wof:lastmodified":1492106331,
-    "wof:name":"Church Of The Holy Spirit",
-    "wof:parent_id":85852345,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461729951,
+    "wof:geomhash": "01d7e428712055feca1d01931caed7bc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672942949
+      }
+    ],
+    "wof:id": 672942949,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Church Of The Holy Spirit",
+    "wof:parent_id": 85852345,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -69.984332,
     41.765632,
     -69.984332,
     41.765632
-],
-  "geometry": {"coordinates":[-69.98433199999999,41.765632],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-69.984332,41.765632],"type":"Point"}
 }

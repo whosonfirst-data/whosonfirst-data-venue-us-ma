@@ -2,67 +2,74 @@
   "id": 689192947,
   "type": "Feature",
   "properties": {
-    "addr:full":"12 N Water St Edgartown MA 02539",
-    "addr:housenumber":"12",
-    "addr:postcode":"02539",
-    "addr:street":"N Water St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.512736,41.389563,-70.512736,41.389563",
-    "geom:latitude":41.389563,
-    "geom:longitude":-70.512736,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12 N Water St",
-    "sg:city":"Edgartown",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Massage",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "12 N Water St Edgartown MA 02539",
+    "addr:housenumber": "12",
+    "addr:postcode": "02539",
+    "addr:street": "N Water St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.512736,41.389563,-70.512736,41.389563",
+    "geom:latitude": 41.389563,
+    "geom:longitude": -70.512736,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Boucle, 12 N Water St Edgartown MA US",
+    "ovtr:similarity": 2.6109189987182617,
+    "sg:address": "12 N Water St",
+    "sg:city": "Edgartown",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Massage",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 627 3853",
-    "sg:postcode":"02539",
-    "sg:province":"MA",
-    "sg:tags":[
-        "therapist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 627 3853",
+    "sg:postcode": "02539",
+    "sg:province": "MA",
+    "sg:tags": [
+      "therapist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_40oIOtw91xc0RYZfV0f6UC_41.389563_-70.512736@1303262231"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a316ed3826ca039cb5b2b5de0125",
+      "sg:id": "SG_40oIOtw91xc0RYZfV0f6UC_41.389563_-70.512736@1303262231"
     },
-    "wof:country":"US",
-    "wof:created":1461741903,
-    "wof:geomhash":"6b49c62d23d6cefd4f3a66c33af32394",
-    "wof:hierarchy":[],
-    "wof:id":689192947,
-    "wof:lastmodified":1492098062,
-    "wof:name":"Boucle",
-    "wof:parent_id":85811339,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "therapist"
+    "wof:country": "US",
+    "wof:created": 1461741903,
+    "wof:geomhash": "6b49c62d23d6cefd4f3a66c33af32394",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689192947
+      }
+    ],
+    "wof:id": 689192947,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Boucle",
+    "wof:parent_id": 85811339,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "therapist"
     ]
-},
+  },
   "bbox": [
     -70.512736,
     41.389563,
     -70.512736,
     41.389563
-],
+  ],
   "geometry": {"coordinates":[-70.512736,41.389563],"type":"Point"}
 }

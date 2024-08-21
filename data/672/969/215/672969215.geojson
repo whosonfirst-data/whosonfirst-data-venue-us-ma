@@ -2,75 +2,78 @@
   "id": 672969215,
   "type": "Feature",
   "properties": {
-    "addr:full":"769 Main St Brockton MA 02301",
-    "addr:housenumber":"769",
-    "addr:postcode":"02301",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.017805,42.069829,-71.017805,42.069829",
-    "geom:latitude":42.069829,
-    "geom:longitude":-71.017805,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"769 Main St",
-    "sg:city":"Brockton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "769 Main St Brockton MA 02301",
+    "addr:housenumber": "769",
+    "addr:postcode": "02301",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.017805,42.069829,-71.017805,42.069829",
+    "geom:latitude": 42.069829,
+    "geom:longitude": -71.017805,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Jeano's Restaurant, 769 Main St Brockton MA US",
+    "ovtr:similarity": 3.559798002243042,
+    "sg:address": "769 Main St",
+    "sg:city": "Brockton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 559 2610",
-    "sg:postcode":"02301",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811415,
-        102191575,
-        404476503,
-        85633793,
-        85950319,
-        102084367,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 559 2610",
+    "sg:postcode": "02301",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811415,
+      102191575,
+      404476503,
+      85633793,
+      85950319,
+      102084367,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4SbmoEroEprHh2zcsY9nXT_42.069829_-71.017805@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3395355bc480316342a9237fed1",
+      "sg:id": "SG_4SbmoEroEprHh2zcsY9nXT_42.069829_-71.017805@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461730735,
-    "wof:geomhash":"d687fc7681d75ce9222b95bdfa53b474",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476503,
-            "locality_id":85950319,
-            "neighbourhood_id":85811415,
-            "region_id":85688645,
-            "venue_id":672969215
-        }
+    "wof:country": "US",
+    "wof:created": 1461730735,
+    "wof:geomhash": "7264165519284eb4e4e7ac4e9964fbb2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476503,
+        "locality_id": 85950319,
+        "neighbourhood_id": 85811415,
+        "region_id": 85688645,
+        "venue_id": 672969215
+      }
     ],
-    "wof:id":672969215,
-    "wof:lastmodified":1472626179,
-    "wof:name":"Jeano's",
-    "wof:parent_id":85811415,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672969215,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Jeano's",
+    "wof:parent_id": 85811415,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.017805,
     42.069829,
     -71.017805,
     42.069829
-],
+  ],
   "geometry": {"coordinates":[-71.017805,42.069829],"type":"Point"}
 }

@@ -2,80 +2,83 @@
   "id": 673038285,
   "type": "Feature",
   "properties": {
-    "addr:full":"35 Billings Rd Quincy MA 02171",
-    "addr:housenumber":"35",
-    "addr:postcode":"02171",
-    "addr:street":"Billings Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.025414,42.273418,-71.025414,42.273418",
-    "geom:latitude":42.273418,
-    "geom:longitude":-71.025414,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"35 Billings Rd",
-    "sg:city":"Quincy",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "35 Billings Rd Quincy MA 02171",
+    "addr:housenumber": "35",
+    "addr:postcode": "02171",
+    "addr:street": "Billings Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.025414,42.273418,-71.025414,42.273418",
+    "geom:latitude": 42.273418,
+    "geom:longitude": -71.025414,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Balducci's House of Pizza, 35 Billings Rd Quincy MA US",
+    "ovtr:similarity": 2.733819007873535,
+    "sg:address": "35 Billings Rd",
+    "sg:city": "Quincy",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 328 0448",
-    "sg:postcode":"02171",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 328 0448",
+    "sg:postcode": "02171",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85837063,
-        102191575,
-        404476591,
-        85633793,
-        85950429,
-        102084403,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85837063,
+      102191575,
+      404476591,
+      85633793,
+      85950429,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0VwSUfFz5gGi7A1ra4aFf7_42.273869_-71.024639@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33934724329034c1ab01ec46d50",
+      "sg:id": "SG_0VwSUfFz5gGi7A1ra4aFf7_42.273869_-71.024639@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732494,
-    "wof:geomhash":"319fd6cbfdb7b38eec45dfbf280c0f19",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476591,
-            "locality_id":85950429,
-            "neighbourhood_id":85837063,
-            "region_id":85688645,
-            "venue_id":673038285
-        }
+    "wof:country": "US",
+    "wof:created": 1461732494,
+    "wof:geomhash": "0329c597b6f541971b2b027b26e66ee1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476591,
+        "locality_id": 85950429,
+        "neighbourhood_id": 85837063,
+        "region_id": 85688645,
+        "venue_id": 673038285
+      }
     ],
-    "wof:id":673038285,
-    "wof:lastmodified":1472625051,
-    "wof:name":"Balducci's House Of Pizza",
-    "wof:parent_id":85837063,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 673038285,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Balducci's House Of Pizza",
+    "wof:parent_id": 85837063,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.025414,
     42.273418,
     -71.025414,
     42.273418
-],
+  ],
   "geometry": {"coordinates":[-71.025414,42.273418],"type":"Point"}
 }

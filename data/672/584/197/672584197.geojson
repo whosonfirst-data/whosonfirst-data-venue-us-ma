@@ -2,81 +2,84 @@
   "id": 672584197,
   "type": "Feature",
   "properties": {
-    "addr:full":"34 Union St Plymouth MA 02360",
-    "addr:housenumber":"34",
-    "addr:postcode":"02360",
-    "addr:street":"Union St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.658197,41.955045,-70.658197,41.955045",
-    "geom:latitude":41.955045,
-    "geom:longitude":-70.658197,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"34 Union St",
-    "sg:city":"Plymouth",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "34 Union St Plymouth MA 02360",
+    "addr:housenumber": "34",
+    "addr:postcode": "02360",
+    "addr:street": "Union St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.658197,41.955045,-70.658197,41.955045",
+    "geom:latitude": 41.955045,
+    "geom:longitude": -70.658197,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Plymouth Yacht Club, 34 Union St Plymouth MA US",
+    "ovtr:similarity": 2.8435440063476562,
+    "sg:address": "34 Union St",
+    "sg:city": "Plymouth",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 747 5579",
-    "sg:postcode":"02360",
-    "sg:province":"MA",
-    "sg:tags":[
-        "club"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 747 5579",
+    "sg:postcode": "02360",
+    "sg:province": "MA",
+    "sg:tags": [
+      "club"
     ],
-    "sg:website":"www.plymouthyachtclub.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85827215,
-        102191575,
-        404476561,
-        85633793,
-        85950483,
-        102084367,
-        85688645
+    "sg:website": "www.plymouthyachtclub.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85827215,
+      102191575,
+      404476561,
+      85633793,
+      85950483,
+      102084367,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7cAxMlhEm2ipWUTcna3434_41.955045_-70.658197@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a314154c2cc50330d59e415a0a9d",
+      "sg:id": "SG_7cAxMlhEm2ipWUTcna3434_41.955045_-70.658197@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461722226,
-    "wof:geomhash":"3b2fe92684fd4107ebccd8fd82ae3a3a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476561,
-            "locality_id":85950483,
-            "neighbourhood_id":85827215,
-            "region_id":85688645,
-            "venue_id":672584197
-        }
+    "wof:country": "US",
+    "wof:created": 1461722226,
+    "wof:geomhash": "0a164b3f7ff458f210c1b3e0eb88a106",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476561,
+        "locality_id": 85950483,
+        "neighbourhood_id": 85827215,
+        "region_id": 85688645,
+        "venue_id": 672584197
+      }
     ],
-    "wof:id":672584197,
-    "wof:lastmodified":1472625816,
-    "wof:name":"Plymouth Yacht Club",
-    "wof:parent_id":85827215,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club"
+    "wof:id": 672584197,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Plymouth Yacht Club",
+    "wof:parent_id": 85827215,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
     ]
-},
+  },
   "bbox": [
     -70.658197,
     41.955045,
     -70.658197,
     41.955045
-],
+  ],
   "geometry": {"coordinates":[-70.658197,41.955045],"type":"Point"}
 }

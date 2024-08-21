@@ -2,85 +2,88 @@
   "id": 673085703,
   "type": "Feature",
   "properties": {
-    "addr:full":"572 Main St Wakefield MA 01880",
-    "addr:housenumber":"572",
-    "addr:postcode":"01880",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.069017,42.498591,-71.069017,42.498591",
-    "geom:latitude":42.498591,
-    "geom:longitude":-71.069017,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"572 Main St",
-    "sg:city":"Wakefield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "572 Main St Wakefield MA 01880",
+    "addr:housenumber": "572",
+    "addr:postcode": "01880",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.069017,42.498591,-71.069017,42.498591",
+    "geom:latitude": 42.498591,
+    "geom:longitude": -71.069017,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "McDonald's, 572 Main St Wakefield MA US",
+    "ovtr:similarity": 2.5344150066375732,
+    "sg:address": "572 Main St",
+    "sg:city": "Wakefield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/wakefield/188743-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"01880",
-    "sg:province":"MA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ma/wakefield/188743-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "01880",
+    "sg:province": "MA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523717,
-        102191575,
-        404476455,
-        85633793,
-        85950659,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523717,
+      102191575,
+      404476455,
+      85633793,
+      85950659,
+      102084643,
+      85688645
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6xXBQYPHIXYG13qWAdPzZk_42.498591_-71.069017@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30754aa088903237983cdf6c551",
+      "sg:id": "SG_6xXBQYPHIXYG13qWAdPzZk_42.498591_-71.069017@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461733472,
-    "wof:geomhash":"50be0d26727a2845c615b7af32b10d0a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476455,
-            "locality_id":85950659,
-            "neighbourhood_id":420523717,
-            "region_id":85688645,
-            "venue_id":673085703
-        }
+    "wof:country": "US",
+    "wof:created": 1461733472,
+    "wof:geomhash": "50be0d26727a2845c615b7af32b10d0a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476455,
+        "locality_id": 85950659,
+        "neighbourhood_id": 420523717,
+        "region_id": 85688645,
+        "venue_id": 673085703
+      }
     ],
-    "wof:id":673085703,
-    "wof:lastmodified":1512143011,
-    "wof:name":"McDonald's",
-    "wof:parent_id":420523717,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 673085703,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 420523717,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -71.069017,
     42.498591,
     -71.069017,
     42.498591
-],
+  ],
   "geometry": {"coordinates":[-71.069017,42.498591],"type":"Point"}
 }

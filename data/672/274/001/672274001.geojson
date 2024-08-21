@@ -2,60 +2,67 @@
   "id": 672274001,
   "type": "Feature",
   "properties": {
-    "addr:full":"3 Burt St Berkley MA 02779",
-    "addr:housenumber":"3",
-    "addr:postcode":"02779",
-    "addr:street":"Burt St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.091127,41.860381,-71.091127,41.860381",
-    "geom:latitude":41.860381,
-    "geom:longitude":-71.091127,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"3 Burt St",
-    "sg:city":"Berkley",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "3 Burt St Berkley MA 02779",
+    "addr:housenumber": "3",
+    "addr:postcode": "02779",
+    "addr:street": "Burt St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.091127,41.860381,-71.091127,41.860381",
+    "geom:latitude": 41.860381,
+    "geom:longitude": -71.091127,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Split Ends Hair Salon, 3 Burt St Berkley MA US",
+    "ovtr:similarity": 2.634744882583618,
+    "sg:address": "3 Burt St",
+    "sg:city": "Berkley",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 824 4416",
-    "sg:postcode":"02779",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1sOVmdTlWGdUNQiBwi82sD_41.860381_-71.091127@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 824 4416",
+    "sg:postcode": "02779",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33ba60546f403156561d454a66f",
+      "sg:id": "SG_1sOVmdTlWGdUNQiBwi82sD_41.860381_-71.091127@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715074,
-    "wof:geomhash":"830c47606fc2230d126ccd881a1eb9dd",
-    "wof:hierarchy":[],
-    "wof:id":672274001,
-    "wof:lastmodified":1510941823,
-    "wof:name":"Split Ends Hair Salon",
-    "wof:parent_id":85805853,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        689222621
+    "wof:country": "US",
+    "wof:created": 1461715074,
+    "wof:geomhash": "830c47606fc2230d126ccd881a1eb9dd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672274001
+      }
     ],
-    "wof:tags":[]
-},
+    "wof:id": 672274001,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Split Ends Hair Salon",
+    "wof:parent_id": 85805853,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      689222621
+    ],
+    "wof:tags": []
+  },
   "bbox": [
     -71.091127,
     41.860381,
     -71.091127,
     41.860381
-],
+  ],
   "geometry": {"coordinates":[-71.091127,41.860381],"type":"Point"}
 }

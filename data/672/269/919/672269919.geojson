@@ -2,71 +2,74 @@
   "id": 672269919,
   "type": "Feature",
   "properties": {
-    "addr:full":"92 Park St Adams MA 01220",
-    "addr:housenumber":"92",
-    "addr:postcode":"01220",
-    "addr:street":"Park St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-73.119993,42.623365,-73.119993,42.623365",
-    "geom:latitude":42.623365,
-    "geom:longitude":-73.119993,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"92 Park St",
-    "sg:city":"Adams",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "92 Park St Adams MA 01220",
+    "addr:housenumber": "92",
+    "addr:postcode": "01220",
+    "addr:street": "Park St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-73.119993,42.623365,-73.119993,42.623365",
+    "geom:latitude": 42.623365,
+    "geom:longitude": -73.119993,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Adams Free Library, 92 Park St Adams MA US",
+    "ovtr:similarity": 3.1468210220336914,
+    "sg:address": "92 Park St",
+    "sg:city": "Adams",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 743 8345",
-    "sg:postcode":"01220",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950597,
-        102084369,
-        85832257
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 743 8345",
+    "sg:postcode": "01220",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950597,
+      102084369,
+      85832257
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4VO6NetNZoo7CQQlPh3S1k_42.623365_-73.119993@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2b89b7236b575034d80384ae77aa9",
+      "sg:id": "SG_4VO6NetNZoo7CQQlPh3S1k_42.623365_-73.119993@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461714999,
-    "wof:geomhash":"6149586f33769e5972348b0125ed61f2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084369,
-            "locality_id":85950597,
-            "neighbourhood_id":85832257,
-            "region_id":85688645,
-            "venue_id":672269919
-        }
+    "wof:country": "US",
+    "wof:created": 1461714999,
+    "wof:geomhash": "0f25550463c958d231a37d4fda9ea0ed",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084369,
+        "locality_id": 85950597,
+        "neighbourhood_id": 85832257,
+        "region_id": 85688645,
+        "venue_id": 672269919
+      }
     ],
-    "wof:id":672269919,
-    "wof:lastmodified":1472625420,
-    "wof:name":"Adams Free Library",
-    "wof:parent_id":85832257,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672269919,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Adams Free Library",
+    "wof:parent_id": 85832257,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.119993,
     42.623365,
     -73.119993,
     42.623365
-],
-  "geometry": {"coordinates":[-73.11999299999999,42.623365],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-73.119993,42.623365],"type":"Point"}
 }

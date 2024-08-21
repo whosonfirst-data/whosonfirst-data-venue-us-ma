@@ -2,83 +2,86 @@
   "id": 673066909,
   "type": "Feature",
   "properties": {
-    "addr:full":"11 Waterfield Rd Winchester MA 01890",
-    "addr:housenumber":"11",
-    "addr:postcode":"01890",
-    "addr:street":"Waterfield Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.138,42.451599,-71.138,42.451599",
-    "geom:latitude":42.451599,
-    "geom:longitude":-71.138,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11 Waterfield Rd",
-    "sg:city":"Winchester",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "11 Waterfield Rd Winchester MA 01890",
+    "addr:housenumber": "11",
+    "addr:postcode": "01890",
+    "addr:street": "Waterfield Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.138000,42.451599,-71.138000,42.451599",
+    "geom:latitude": 42.451599,
+    "geom:longitude": -71.138,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "D'Agostino's Delicatessen, 11 Waterfield Rd Winchester MA US",
+    "ovtr:similarity": 2.4041569232940674,
+    "sg:address": "11 Waterfield Rd",
+    "sg:city": "Winchester",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 729 7984",
-    "sg:postcode":"01890",
-    "sg:province":"MA",
-    "sg:tags":[
-        "delicatessen",
-        "caterer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 729 7984",
+    "sg:postcode": "01890",
+    "sg:province": "MA",
+    "sg:tags": [
+      "delicatessen",
+      "caterer"
     ],
-    "sg:website":"www.dagostinos-deli.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85854955,
-        102191575,
-        404476467,
-        85633793,
-        85950665,
-        102084643,
-        85688645
+    "sg:website": "www.dagostinos-deli.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85854955,
+      102191575,
+      404476467,
+      85633793,
+      85950665,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5O0xhilZiGLOkrwXoojoxA_42.451632_-71.138525@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3062c2eb34003b38169743c64c2",
+      "sg:id": "SG_5O0xhilZiGLOkrwXoojoxA_42.451632_-71.138525@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733081,
-    "wof:geomhash":"00138613cd56b642edb2344cbf5fffc1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476467,
-            "locality_id":85950665,
-            "neighbourhood_id":85854955,
-            "region_id":85688645,
-            "venue_id":673066909
-        }
+    "wof:country": "US",
+    "wof:created": 1461733081,
+    "wof:geomhash": "f5a409b33154fc2abd0d133704f9cabc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476467,
+        "locality_id": 85950665,
+        "neighbourhood_id": 85854955,
+        "region_id": 85688645,
+        "venue_id": 673066909
+      }
     ],
-    "wof:id":673066909,
-    "wof:lastmodified":1472625188,
-    "wof:name":"D'Agostino's Delicatessen",
-    "wof:parent_id":85854955,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "delicatessen",
-        "caterer"
+    "wof:id": 673066909,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "D'Agostino's Delicatessen",
+    "wof:parent_id": 85854955,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "delicatessen",
+      "caterer"
     ]
-},
+  },
   "bbox": [
     -71.138,
     42.451599,
     -71.138,
     42.451599
-],
-  "geometry": {"coordinates":[-71.13800000000001,42.451599],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.138,42.451599],"type":"Point"}
 }

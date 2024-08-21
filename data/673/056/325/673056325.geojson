@@ -2,81 +2,84 @@
   "id": 673056325,
   "type": "Feature",
   "properties": {
-    "addr:full":"30 Brimmer St Boston MA 02228",
-    "addr:housenumber":"30",
-    "addr:postcode":"02228",
-    "addr:street":"Brimmer St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.071602,42.357899,-71.071602,42.357899",
-    "geom:latitude":42.357899,
-    "geom:longitude":-71.071602,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"30 Brimmer St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "30 Brimmer St Boston MA 02228",
+    "addr:housenumber": "30",
+    "addr:postcode": "02228",
+    "addr:street": "Brimmer St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.071602,42.357899,-71.071602,42.357899",
+    "geom:latitude": 42.357899,
+    "geom:longitude": -71.071602,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Church of the Advent, 30 Brimmer St Boston MA US",
+    "ovtr:similarity": 3.068342924118042,
+    "sg:address": "30 Brimmer St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 523 2377",
-    "sg:postcode":"02228",
-    "sg:province":"MA",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 523 2377",
+    "sg:postcode": "02228",
+    "sg:province": "MA",
+    "sg:tags": [
+      "church"
     ],
-    "sg:website":"www.theadvent.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85805015,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "www.theadvent.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85805015,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3xlYREZc6CNvKcjniWbuUM_42.357980_-71.071890@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306639a9db1035002456ba1c63a",
+      "sg:id": "SG_3xlYREZc6CNvKcjniWbuUM_42.357980_-71.071890@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732882,
-    "wof:geomhash":"0ab16154f09fdd4f0e6ad1662078c11b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85805015,
-            "region_id":85688645,
-            "venue_id":673056325
-        }
+    "wof:country": "US",
+    "wof:created": 1461732882,
+    "wof:geomhash": "e0074c4aba0e90ced3e23e41596ba023",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85805015,
+        "region_id": 85688645,
+        "venue_id": 673056325
+      }
     ],
-    "wof:id":673056325,
-    "wof:lastmodified":1472625135,
-    "wof:name":"Church of the Advent",
-    "wof:parent_id":85805015,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:id": 673056325,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Church of the Advent",
+    "wof:parent_id": 85805015,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -71.071602,
     42.357899,
     -71.071602,
     42.357899
-],
+  ],
   "geometry": {"coordinates":[-71.071602,42.357899],"type":"Point"}
 }

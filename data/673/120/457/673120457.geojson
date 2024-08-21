@@ -2,92 +2,95 @@
   "id": 673120457,
   "type": "Feature",
   "properties": {
-    "addr:full":"220 Brook St Clinton MA 01510",
-    "addr:housenumber":"220",
-    "addr:postcode":"01510",
-    "addr:street":"Brook St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.689537,42.423409,-71.689537,42.423409",
-    "geom:latitude":42.423409,
-    "geom:longitude":-71.689537,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"220 Brook St",
-    "sg:city":"Clinton",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pets & Pet Supplies",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "220 Brook St Clinton MA 01510",
+    "addr:housenumber": "220",
+    "addr:postcode": "01510",
+    "addr:street": "Brook St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.689537,42.423409,-71.689537,42.423409",
+    "geom:latitude": 42.423409,
+    "geom:longitude": -71.689537,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Clinton Veterinary Hospital, 220 Brook St Clinton MA US",
+    "ovtr:similarity": 2.760478973388672,
+    "sg:address": "220 Brook St",
+    "sg:city": "Clinton",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pets \u0026 Pet Supplies",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 368 8509",
-    "sg:postcode":"01510",
-    "sg:province":"MA",
-    "sg:tags":[
-        "product",
-        "hospital",
-        "specialty",
-        "clinic",
-        "veterinarian",
-        "animal",
-        "health"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 368 8509",
+    "sg:postcode": "01510",
+    "sg:province": "MA",
+    "sg:tags": [
+      "product",
+      "hospital",
+      "specialty",
+      "clinic",
+      "veterinarian",
+      "animal",
+      "health"
     ],
-    "sg:website":"http://www.clintonvet.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85817199,
-        102084655
+    "sg:website": "http://www.clintonvet.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85817199,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_612MO34ffmYkYZCJadZTvC_42.423409_-71.689537@1303262186"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32a5db834ae03cdf0aa5ee88dd1",
+      "sg:id": "SG_612MO34ffmYkYZCJadZTvC_42.423409_-71.689537@1303262186"
     },
-    "wof:country":"US",
-    "wof:created":1461734208,
-    "wof:geomhash":"6e8982a0126566d7b2dc61c2f0c08f03",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85817199,
-            "region_id":85688645,
-            "venue_id":673120457
-        }
+    "wof:country": "US",
+    "wof:created": 1461734208,
+    "wof:geomhash": "5c4f053c6c5008a2f78998a3bf1f8222",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85817199,
+        "region_id": 85688645,
+        "venue_id": 673120457
+      }
     ],
-    "wof:id":673120457,
-    "wof:lastmodified":1472625342,
-    "wof:name":"Clinton Veterinary Hospital",
-    "wof:parent_id":85817199,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "product",
-        "hospital",
-        "specialty",
-        "clinic",
-        "veterinarian",
-        "animal",
-        "health"
+    "wof:id": 673120457,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Clinton Veterinary Hospital",
+    "wof:parent_id": 85817199,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "product",
+      "hospital",
+      "specialty",
+      "clinic",
+      "veterinarian",
+      "animal",
+      "health"
     ]
-},
+  },
   "bbox": [
     -71.689537,
     42.423409,
     -71.689537,
     42.423409
-],
+  ],
   "geometry": {"coordinates":[-71.689537,42.423409],"type":"Point"}
 }

@@ -2,80 +2,83 @@
   "id": 672944807,
   "type": "Feature",
   "properties": {
-    "addr:full":"1248 Washington St Norwood MA 02062",
-    "addr:housenumber":"1248",
-    "addr:postcode":"02062",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.20782,42.17449,-71.20782,42.17449",
-    "geom:latitude":42.17449,
-    "geom:longitude":-71.20782,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1248 Washington St",
-    "sg:city":"Norwood",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "1248 Washington St Norwood MA 02062",
+    "addr:housenumber": "1248",
+    "addr:postcode": "02062",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.207820,42.174490,-71.207820,42.174490",
+    "geom:latitude": 42.17449,
+    "geom:longitude": -71.20782,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Kraw-Kornack Funeral Home, 1248 Washington St Norwood MA US",
+    "ovtr:similarity": 2.152021884918213,
+    "sg:address": "1248 Washington St",
+    "sg:city": "Norwood",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 762 0482",
-    "sg:postcode":"02062",
-    "sg:province":"MA",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 762 0482",
+    "sg:postcode": "02062",
+    "sg:province": "MA",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85858347,
-        102191575,
-        404476589,
-        85633793,
-        85950839,
-        102084403,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85858347,
+      102191575,
+      404476589,
+      85633793,
+      85950839,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5js5mFhh3xP0RWImtU4fhE_42.174490_-71.207820@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33981a69a6e0367aaddd40703fa",
+      "sg:id": "SG_5js5mFhh3xP0RWImtU4fhE_42.174490_-71.207820@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461730000,
-    "wof:geomhash":"6deb1307c4a35bd86a7595af3d1c102b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476589,
-            "locality_id":85950839,
-            "neighbourhood_id":85858347,
-            "region_id":85688645,
-            "venue_id":672944807
-        }
+    "wof:country": "US",
+    "wof:created": 1461730000,
+    "wof:geomhash": "55ac028de364ea3ac73df0393cc48c78",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476589,
+        "locality_id": 85950839,
+        "neighbourhood_id": 85858347,
+        "region_id": 85688645,
+        "venue_id": 672944807
+      }
     ],
-    "wof:id":672944807,
-    "wof:lastmodified":1472626166,
-    "wof:name":"Kraw-Kornack Funeral Home",
-    "wof:parent_id":85858347,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:id": 672944807,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Kraw-Kornack Funeral Home",
+    "wof:parent_id": 85858347,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -71.20782,
     42.17449,
     -71.20782,
     42.17449
-],
+  ],
   "geometry": {"coordinates":[-71.20782,42.17449],"type":"Point"}
 }

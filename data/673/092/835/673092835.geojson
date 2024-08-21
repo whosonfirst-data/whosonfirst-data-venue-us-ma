@@ -2,65 +2,72 @@
   "id": 673092835,
   "type": "Feature",
   "properties": {
-    "addr:full":"11 Commerce Way Seekonk MA 02771",
-    "addr:housenumber":"11",
-    "addr:postcode":"02771",
-    "addr:street":"Commerce Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.324688,41.793221,-71.324688,41.793221",
-    "geom:latitude":41.793221,
-    "geom:longitude":-71.324688,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"11 Commerce Way",
-    "sg:city":"Seekonk",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "11 Commerce Way Seekonk MA 02771",
+    "addr:housenumber": "11",
+    "addr:postcode": "02771",
+    "addr:street": "Commerce Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.324688,41.793221,-71.324688,41.793221",
+    "geom:latitude": 41.793221,
+    "geom:longitude": -71.324688,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Taco Bell, 11 Commerce Way Seekonk MA US",
+    "ovtr:similarity": 3.413043975830078,
+    "sg:address": "11 Commerce Way",
+    "sg:city": "Seekonk",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/seekonk/207612-taco-bell/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 336 8005",
-    "sg:postcode":"02771",
-    "sg:province":"MA",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/ma/seekonk/207612-taco-bell/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 336 8005",
+    "sg:postcode": "02771",
+    "sg:province": "MA",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7RWp0Hsc9PlpfunKVXFhZB_41.793221_-71.324688@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33141975684036acd127b0afc16",
+      "sg:id": "SG_7RWp0Hsc9PlpfunKVXFhZB_41.793221_-71.324688@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461733621,
-    "wof:geomhash":"9c6ccb1b468bf291f942ce0d8290b552",
-    "wof:hierarchy":[],
-    "wof:id":673092835,
-    "wof:lastmodified":1511321256,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":85850069,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:country": "US",
+    "wof:created": 1461733621,
+    "wof:geomhash": "9c6ccb1b468bf291f942ce0d8290b552",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673092835
+      }
+    ],
+    "wof:id": 673092835,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": 85850069,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -71.324688,
     41.793221,
     -71.324688,
     41.793221
-],
-  "geometry": {"coordinates":[-71.32468799999999,41.793221],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.324688,41.793221],"type":"Point"}
 }

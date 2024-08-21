@@ -2,80 +2,83 @@
   "id": 672413473,
   "type": "Feature",
   "properties": {
-    "addr:full":"540 Main St Acushnet MA 02743",
-    "addr:housenumber":"540",
-    "addr:postcode":"02743",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.889872,41.706829,-70.889872,41.706829",
-    "geom:latitude":41.706829,
-    "geom:longitude":-70.889872,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"540 Main St",
-    "sg:city":"Acushnet",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Fruits & Vegetables",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "540 Main St Acushnet MA 02743",
+    "addr:housenumber": "540",
+    "addr:postcode": "02743",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.889872,41.706829,-70.889872,41.706829",
+    "geom:latitude": 41.706829,
+    "geom:longitude": -70.889872,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Flying Cloud Orchards, 540 Main St Acushnet MA US",
+    "ovtr:similarity": 2.5516700744628906,
+    "sg:address": "540 Main St",
+    "sg:city": "Acushnet",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Fruits \u0026 Vegetables",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 995 7846",
-    "sg:postcode":"02743",
-    "sg:province":"MA",
-    "sg:tags":[
-        "shipper"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 995 7846",
+    "sg:postcode": "02743",
+    "sg:province": "MA",
+    "sg:tags": [
+      "shipper"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85812593,
-        102191575,
-        404476163,
-        85633793,
-        85950667,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85812593,
+      102191575,
+      404476163,
+      85633793,
+      85950667,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_471R4eXkZxFQCjn2pbdg0S_41.706829_-70.889872@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33b546ea84a0322755404dcd6aa",
+      "sg:id": "SG_471R4eXkZxFQCjn2pbdg0S_41.706829_-70.889872@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461718250,
-    "wof:geomhash":"83a8c460d85462d3e9bcbd967c3548fe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476163,
-            "locality_id":85950667,
-            "neighbourhood_id":85812593,
-            "region_id":85688645,
-            "venue_id":672413473
-        }
+    "wof:country": "US",
+    "wof:created": 1461718250,
+    "wof:geomhash": "9626ff8a87d0a4ab5781b9cd12da91af",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476163,
+        "locality_id": 85950667,
+        "neighbourhood_id": 85812593,
+        "region_id": 85688645,
+        "venue_id": 672413473
+      }
     ],
-    "wof:id":672413473,
-    "wof:lastmodified":1472625683,
-    "wof:name":"Flying Cloud Orchards",
-    "wof:parent_id":85812593,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shipper"
+    "wof:id": 672413473,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Flying Cloud Orchards",
+    "wof:parent_id": 85812593,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shipper"
     ]
-},
+  },
   "bbox": [
     -70.889872,
     41.706829,
     -70.889872,
     41.706829
-],
+  ],
   "geometry": {"coordinates":[-70.889872,41.706829],"type":"Point"}
 }

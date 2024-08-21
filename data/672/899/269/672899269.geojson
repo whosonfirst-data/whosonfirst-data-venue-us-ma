@@ -2,89 +2,92 @@
   "id": 672899269,
   "type": "Feature",
   "properties": {
-    "addr:full":"66 E Grove St Middleboro MA 02346",
-    "addr:housenumber":"66",
-    "addr:postcode":"02346",
-    "addr:street":"E Grove St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.904457,41.88169,-70.904457,41.88169",
-    "geom:latitude":41.88169,
-    "geom:longitude":-70.904457,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"66 E Grove St",
-    "sg:city":"Middleboro",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "66 E Grove St Middleboro MA 02346",
+    "addr:housenumber": "66",
+    "addr:postcode": "02346",
+    "addr:street": "E Grove St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.904457,41.881690,-70.904457,41.881690",
+    "geom:latitude": 41.88169,
+    "geom:longitude": -70.904457,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Chase Veterinary Clinic, 66 E Grove St Middleboro MA US",
+    "ovtr:similarity": 2.1965320110321045,
+    "sg:address": "66 E Grove St",
+    "sg:city": "Middleboro",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 947 9400",
-    "sg:postcode":"02346",
-    "sg:province":"MA",
-    "sg:tags":[
-        "hospital",
-        "animal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 947 9400",
+    "sg:postcode": "02346",
+    "sg:province": "MA",
+    "sg:tags": [
+      "hospital",
+      "animal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85853233,
-        102191575,
-        404476041,
-        85633793,
-        85950469,
-        102084367,
-        85688645,
-        420523819
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85853233,
+      102191575,
+      404476041,
+      85633793,
+      85950469,
+      102084367,
+      85688645,
+      420523819
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5rdNLBKM4djn6tq4EKYiuP_41.881690_-70.904457@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3149b4f519d03a0c2cc66562b76",
+      "sg:id": "SG_5rdNLBKM4djn6tq4EKYiuP_41.881690_-70.904457@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461729010,
-    "wof:geomhash":"8571ab3338ac0427a14f373aa92c1495",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476041,
-            "locality_id":85950469,
-            "neighbourhood_id":85853233,
-            "region_id":85688645,
-            "venue_id":672899269
-        },
-        {
-            "country_id":85633793,
-            "neighbourhood_id":420523819,
-            "venue_id":672899269
-        }
+    "wof:country": "US",
+    "wof:created": 1461729010,
+    "wof:geomhash": "8571ab3338ac0427a14f373aa92c1495",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476041,
+        "locality_id": 85950469,
+        "neighbourhood_id": 85853233,
+        "region_id": 85688645,
+        "venue_id": 672899269
+      },
+      {
+        "country_id": 85633793,
+        "neighbourhood_id": 420523819,
+        "venue_id": 672899269
+      }
     ],
-    "wof:id":672899269,
-    "wof:lastmodified":1492105612,
-    "wof:name":"Chase Veterinary Clinic",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospital",
-        "animal"
+    "wof:id": 672899269,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Chase Veterinary Clinic",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospital",
+      "animal"
     ]
-},
+  },
   "bbox": [
     -70.904457,
     41.88169,
     -70.904457,
     41.88169
-],
-  "geometry": {"coordinates":[-70.90445699999999,41.88169],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.904457,41.88169],"type":"Point"}
 }

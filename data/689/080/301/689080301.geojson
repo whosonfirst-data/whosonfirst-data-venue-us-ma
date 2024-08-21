@@ -2,84 +2,87 @@
   "id": 689080301,
   "type": "Feature",
   "properties": {
-    "addr:full":"26 New St Cambridge MA 02138",
-    "addr:housenumber":"26",
-    "addr:postcode":"02138",
-    "addr:street":"New St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.140785,42.387365,-71.140785,42.387365",
-    "geom:latitude":42.387365,
-    "geom:longitude":-71.140785,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"26 New St",
-    "sg:city":"Cambridge",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Rental",
-            "type":"Services"
-        }
+    "addr:full": "26 New St Cambridge MA 02138",
+    "addr:housenumber": "26",
+    "addr:postcode": "02138",
+    "addr:street": "New St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.140785,42.387365,-71.140785,42.387365",
+    "geom:latitude": 42.387365,
+    "geom:longitude": -71.140785,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Enterprise Rent-A-Car, 26 New St Cambridge MA US",
+    "ovtr:similarity": 2.442763090133667,
+    "sg:address": "26 New St",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 491 2075",
-    "sg:postcode":"02138",
-    "sg:province":"MA",
-    "sg:tags":[
-        "car"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 491 2075",
+    "sg:postcode": "02138",
+    "sg:province": "MA",
+    "sg:tags": [
+      "car"
     ],
-    "sg:website":"www.enterprise.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108712243,
-        102191575,
-        404476475,
-        85633793,
-        85950329,
-        102084643,
-        85688645
+    "sg:website": "www.enterprise.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108712243,
+      102191575,
+      404476475,
+      85633793,
+      85950329,
+      102084643,
+      85688645
     ],
-    "wof:brand_id":420573775,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1CBH4OWsi0u9wIG4TDb2uR_42.387365_-71.140785@1303262216"
+    "wof:brand_id": 420573775,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306700058f103011dc9a16b2025",
+      "sg:id": "SG_1CBH4OWsi0u9wIG4TDb2uR_42.387365_-71.140785@1303262216"
     },
-    "wof:country":"US",
-    "wof:created":1461738968,
-    "wof:geomhash":"57b1d7e655fa37c0af6cca3874541365",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476475,
-            "locality_id":85950329,
-            "neighbourhood_id":1108712243,
-            "region_id":85688645,
-            "venue_id":689080301
-        }
+    "wof:country": "US",
+    "wof:created": 1461738968,
+    "wof:geomhash": "57b1d7e655fa37c0af6cca3874541365",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476475,
+        "locality_id": 85950329,
+        "neighbourhood_id": 1108712243,
+        "region_id": 85688645,
+        "venue_id": 689080301
+      }
     ],
-    "wof:id":689080301,
-    "wof:lastmodified":1511321722,
-    "wof:name":"Enterprise Rent-A-Car",
-    "wof:parent_id":1108712243,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "car"
+    "wof:id": 689080301,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Enterprise Rent-A-Car",
+    "wof:parent_id": 1108712243,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "car"
     ]
-},
+  },
   "bbox": [
     -71.140785,
     42.387365,
     -71.140785,
     42.387365
-],
-  "geometry": {"coordinates":[-71.14078499999999,42.387365],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.140785,42.387365],"type":"Point"}
 }

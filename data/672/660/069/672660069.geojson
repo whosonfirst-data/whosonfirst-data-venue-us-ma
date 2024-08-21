@@ -2,76 +2,79 @@
   "id": 672660069,
   "type": "Feature",
   "properties": {
-    "addr:full":"182 W Central St Natick MA 01760",
-    "addr:housenumber":"182",
-    "addr:postcode":"01760",
-    "addr:street":"W Central St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.382533,42.282402,-71.382533,42.282402",
-    "geom:latitude":42.282402,
-    "geom:longitude":-71.382533,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"182 W Central St",
-    "sg:city":"Natick",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "182 W Central St Natick MA 01760",
+    "addr:housenumber": "182",
+    "addr:postcode": "01760",
+    "addr:street": "W Central St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.382533,42.282402,-71.382533,42.282402",
+    "geom:latitude": 42.282402,
+    "geom:longitude": -71.382533,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Retina Eye Care, 182 W Central St Natick MA US",
+    "ovtr:similarity": 2.08199405670166,
+    "sg:address": "182 W Central St",
+    "sg:city": "Natick",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 903 0003",
-    "sg:postcode":"01760",
-    "sg:province":"MA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 903 0003",
+    "sg:postcode": "01760",
+    "sg:province": "MA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85855993,
-        102084643
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85855993,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2PmyTkLn7iaXsCJMJjUhqv_42.282402_-71.382533@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306d99ad8e503e5167106369334",
+      "sg:id": "SG_2PmyTkLn7iaXsCJMJjUhqv_42.282402_-71.382533@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461723943,
-    "wof:geomhash":"40e364e0794849303359e20034b5152c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85855993,
-            "region_id":85688645,
-            "venue_id":672660069
-        }
+    "wof:country": "US",
+    "wof:created": 1461723943,
+    "wof:geomhash": "26ca11310e0ebb37bae1c9afef8f5367",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85855993,
+        "region_id": 85688645,
+        "venue_id": 672660069
+      }
     ],
-    "wof:id":672660069,
-    "wof:lastmodified":1472625897,
-    "wof:name":"Retina Eye Care",
-    "wof:parent_id":85855993,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 672660069,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Retina Eye Care",
+    "wof:parent_id": 85855993,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -71.382533,
     42.282402,
     -71.382533,
     42.282402
-],
+  ],
   "geometry": {"coordinates":[-71.382533,42.282402],"type":"Point"}
 }

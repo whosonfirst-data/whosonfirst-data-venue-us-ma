@@ -2,63 +2,70 @@
   "id": 689009335,
   "type": "Feature",
   "properties": {
-    "addr:full":"174 Portland Street Boston MA 02114",
-    "addr:housenumber":"174",
-    "addr:postcode":"02114",
-    "addr:street":"Portland Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.061298,42.363954,-71.061298,42.363954",
-    "geom:latitude":42.363954,
-    "geom:longitude":-71.061298,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"174 Portland Street",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Sports & Exercise",
-            "subcategory":"Gym",
-            "type":"Entertainment"
-        }
+    "addr:full": "174 Portland Street Boston MA 02114",
+    "addr:housenumber": "174",
+    "addr:postcode": "02114",
+    "addr:street": "Portland Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.061298,42.363954,-71.061298,42.363954",
+    "geom:latitude": 42.363954,
+    "geom:longitude": -71.061298,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Community Work Services, 174 Portland St Boston MA US",
+    "ovtr:similarity": 2.166064977645874,
+    "sg:address": "174 Portland Street",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Sports \u0026 Exercise",
+        "subcategory": "Gym",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 720 2233",
-    "sg:postcode":"02114",
-    "sg:province":"MA",
-    "sg:tags":[
-        "trainer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 720 2233",
+    "sg:postcode": "02114",
+    "sg:province": "MA",
+    "sg:tags": [
+      "trainer"
     ],
-    "sg:website":"www.americanrehabaction.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3jM7RO8FyEtqx24tQHFpC0_42.363954_-71.061298@1303262206"
+    "sg:website": "www.americanrehabaction.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30660310505038d3250461b5be5",
+      "sg:id": "SG_3jM7RO8FyEtqx24tQHFpC0_42.363954_-71.061298@1303262206"
     },
-    "wof:country":"US",
-    "wof:created":1461737459,
-    "wof:geomhash":"95f17128cd7953b792f051f45ff82658",
-    "wof:hierarchy":[],
-    "wof:id":689009335,
-    "wof:lastmodified":1489012223,
-    "wof:name":"Community Work Services",
-    "wof:parent_id":102526589,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trainer"
+    "wof:country": "US",
+    "wof:created": 1461737459,
+    "wof:geomhash": "6bf1e21c9f17441b6ec73ba4990bb75b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689009335
+      }
+    ],
+    "wof:id": 689009335,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Community Work Services",
+    "wof:parent_id": 102526589,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trainer"
     ]
-},
+  },
   "bbox": [
     -71.061298,
     42.363954,
     -71.061298,
     42.363954
-],
-  "geometry": {"coordinates":[-71.06129799999999,42.363954],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.061298,42.363954],"type":"Point"}
 }

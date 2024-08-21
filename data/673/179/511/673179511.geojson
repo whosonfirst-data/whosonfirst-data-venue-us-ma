@@ -2,75 +2,78 @@
   "id": 673179511,
   "type": "Feature",
   "properties": {
-    "addr:full":"550 Main St Reading MA 01867",
-    "addr:housenumber":"550",
-    "addr:postcode":"01867",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.103263,42.522797,-71.103263,42.522797",
-    "geom:latitude":42.522797,
-    "geom:longitude":-71.103263,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"550 Main St",
-    "sg:city":"Reading",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "550 Main St Reading MA 01867",
+    "addr:housenumber": "550",
+    "addr:postcode": "01867",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.103263,42.522797,-71.103263,42.522797",
+    "geom:latitude": 42.522797,
+    "geom:longitude": -71.103263,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "King's Complete Auto Center, 550 Main St Reading MA US",
+    "ovtr:similarity": 2.624135971069336,
+    "sg:address": "550 Main St",
+    "sg:city": "Reading",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 942 7375",
-    "sg:postcode":"01867",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891485,
-        102191575,
-        404476415,
-        85633793,
-        85950649,
-        102084643,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 942 7375",
+    "sg:postcode": "01867",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85891485,
+      102191575,
+      404476415,
+      85633793,
+      85950649,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5R2YKL1c5FeFeRwhWRy73q_42.522797_-71.103263@1303262193"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3070940641d031631290fd288fa",
+      "sg:id": "SG_5R2YKL1c5FeFeRwhWRy73q_42.522797_-71.103263@1303262193"
     },
-    "wof:country":"US",
-    "wof:created":1461735425,
-    "wof:geomhash":"c4025c56df90af601970eaf1ddab943f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476415,
-            "locality_id":85950649,
-            "neighbourhood_id":85891485,
-            "region_id":85688645,
-            "venue_id":673179511
-        }
+    "wof:country": "US",
+    "wof:created": 1461735425,
+    "wof:geomhash": "8517a754bde22a0af72bd1c2fd0ad269",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476415,
+        "locality_id": 85950649,
+        "neighbourhood_id": 85891485,
+        "region_id": 85688645,
+        "venue_id": 673179511
+      }
     ],
-    "wof:id":673179511,
-    "wof:lastmodified":1472625507,
-    "wof:name":"King's Complete Auto Center",
-    "wof:parent_id":85891485,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673179511,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "King's Complete Auto Center",
+    "wof:parent_id": 85891485,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.103263,
     42.522797,
     -71.103263,
     42.522797
-],
+  ],
   "geometry": {"coordinates":[-71.103263,42.522797],"type":"Point"}
 }

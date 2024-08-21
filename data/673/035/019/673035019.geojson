@@ -2,64 +2,71 @@
   "id": 673035019,
   "type": "Feature",
   "properties": {
-    "addr:full":"397 Blue Hill Ave Dorchester MA 02121",
-    "addr:housenumber":"397",
-    "addr:postcode":"02121",
-    "addr:street":"Blue Hill Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.081398,42.310902,-71.081398,42.310902",
-    "geom:latitude":42.310902,
-    "geom:longitude":-71.081398,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"397 Blue Hill Ave",
-    "sg:city":"Dorchester",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "397 Blue Hill Ave Dorchester MA 02121",
+    "addr:housenumber": "397",
+    "addr:postcode": "02121",
+    "addr:street": "Blue Hill Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.081398,42.310902,-71.081398,42.310902",
+    "geom:latitude": 42.310902,
+    "geom:longitude": -71.081398,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "First Haitian Baptist Church of Boston, 397 Blue Hill Ave Dorchester MA US",
+    "ovtr:similarity": 3.2227089405059814,
+    "sg:address": "397 Blue Hill Ave",
+    "sg:city": "Dorchester",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 427 4103",
-    "sg:postcode":"02121",
-    "sg:province":"MA",
-    "sg:tags":[
-        "church",
-        "churches-baptist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 427 4103",
+    "sg:postcode": "02121",
+    "sg:province": "MA",
+    "sg:tags": [
+      "church",
+      "churches-baptist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0FOY0SqcWFy9LWCy07tre5_42.310835_-71.081574@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3066a00a61e0324cba3b2eb89f1",
+      "sg:id": "SG_0FOY0SqcWFy9LWCy07tre5_42.310835_-71.081574@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732425,
-    "wof:geomhash":"238f65a505b553112601db7973eba54c",
-    "wof:hierarchy":[],
-    "wof:id":673035019,
-    "wof:lastmodified":1489011740,
-    "wof:name":"First Haitian Baptist Church",
-    "wof:parent_id":1108711421,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church",
-        "churches-baptist"
+    "wof:country": "US",
+    "wof:created": 1461732425,
+    "wof:geomhash": "c1c7afa313b200ab5e25df92c9df27b0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673035019
+      }
+    ],
+    "wof:id": 673035019,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "First Haitian Baptist Church",
+    "wof:parent_id": 1108711421,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church",
+      "churches-baptist"
     ]
-},
+  },
   "bbox": [
     -71.081398,
     42.310902,
     -71.081398,
     42.310902
-],
-  "geometry": {"coordinates":[-71.08139799999999,42.310902],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.081398,42.310902],"type":"Point"}
 }

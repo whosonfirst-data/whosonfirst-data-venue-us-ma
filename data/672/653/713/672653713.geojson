@@ -2,80 +2,83 @@
   "id": 672653713,
   "type": "Feature",
   "properties": {
-    "addr:full":"1300 Wilbur Ave Somerset MA 02725",
-    "addr:housenumber":"1300",
-    "addr:postcode":"02725",
-    "addr:street":"Wilbur Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.179486,41.723823,-71.179486,41.723823",
-    "geom:latitude":41.723823,
-    "geom:longitude":-71.179486,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1300 Wilbur Ave",
-    "sg:city":"Somerset",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "1300 Wilbur Ave Somerset MA 02725",
+    "addr:housenumber": "1300",
+    "addr:postcode": "02725",
+    "addr:street": "Wilbur Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.179486,41.723823,-71.179486,41.723823",
+    "geom:latitude": 41.723823,
+    "geom:longitude": -71.179486,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Somerset Animal Hospital, 1300 Wilbur Ave Somerset MA US",
+    "ovtr:similarity": 2.9348440170288086,
+    "sg:address": "1300 Wilbur Ave",
+    "sg:city": "Somerset",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 675 0178",
-    "sg:postcode":"02725",
-    "sg:province":"MA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 675 0178",
+    "sg:postcode": "02725",
+    "sg:province": "MA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85807149,
-        102191575,
-        404476145,
-        85633793,
-        85950687,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85807149,
+      102191575,
+      404476145,
+      85633793,
+      85950687,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Iu2ssrpbwjSLHjWLqPnXM_41.723823_-71.179486@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33aa46e601e03144ff605f796ec",
+      "sg:id": "SG_3Iu2ssrpbwjSLHjWLqPnXM_41.723823_-71.179486@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461723793,
-    "wof:geomhash":"445d7057a14b9359a63efcb947a30ba5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476145,
-            "locality_id":85950687,
-            "neighbourhood_id":85807149,
-            "region_id":85688645,
-            "venue_id":672653713
-        }
+    "wof:country": "US",
+    "wof:created": 1461723793,
+    "wof:geomhash": "59ca5caf9b0d82a7e742a26b098ffc2a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476145,
+        "locality_id": 85950687,
+        "neighbourhood_id": 85807149,
+        "region_id": 85688645,
+        "venue_id": 672653713
+      }
     ],
-    "wof:id":672653713,
-    "wof:lastmodified":1472625906,
-    "wof:name":"Somerset Animal Hospital",
-    "wof:parent_id":85807149,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 672653713,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Somerset Animal Hospital",
+    "wof:parent_id": 85807149,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -71.179486,
     41.723823,
     -71.179486,
     41.723823
-],
+  ],
   "geometry": {"coordinates":[-71.179486,41.723823],"type":"Point"}
 }

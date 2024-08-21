@@ -2,77 +2,80 @@
   "id": 689144671,
   "type": "Feature",
   "properties": {
-    "addr:full":"965 Commonwealth Ave Boston MA 02215",
-    "addr:housenumber":"965",
-    "addr:postcode":"02215",
-    "addr:street":"Commonwealth Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.119331,42.351824,-71.119331,42.351824",
-    "geom:latitude":42.351824,
-    "geom:longitude":-71.119331,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"965 Commonwealth Ave",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Thrift Store",
-            "type":"Retail Goods"
-        }
+    "addr:full": "965 Commonwealth Ave Boston MA 02215",
+    "addr:housenumber": "965",
+    "addr:postcode": "02215",
+    "addr:street": "Commonwealth Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.119331,42.351824,-71.119331,42.351824",
+    "geom:latitude": 42.351824,
+    "geom:longitude": -71.119331,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "The Goodwill Store, 965 Commonwealth Ave Boston MA US",
+    "ovtr:similarity": 2.3660171031951904,
+    "sg:address": "965 Commonwealth Ave",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Thrift Store",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 254 0112",
-    "sg:postcode":"02215",
-    "sg:province":"MA",
-    "sg:website":"www.goodwillmass.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85802869,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 254 0112",
+    "sg:postcode": "02215",
+    "sg:province": "MA",
+    "sg:website": "www.goodwillmass.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85802869,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4NU5T4ShRXplRJdQYPtx8t_42.351824_-71.119331@1303262225"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3064455bc1503d375763dd0f208",
+      "sg:id": "SG_4NU5T4ShRXplRJdQYPtx8t_42.351824_-71.119331@1303262225"
     },
-    "wof:country":"US",
-    "wof:created":1461740494,
-    "wof:geomhash":"534c96016bb32d25f6a04f2cb8d0d4cf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85802869,
-            "region_id":85688645,
-            "venue_id":689144671
-        }
+    "wof:country": "US",
+    "wof:created": 1461740494,
+    "wof:geomhash": "0a29dd1a9bb0a63844dfeca466520572",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85802869,
+        "region_id": 85688645,
+        "venue_id": 689144671
+      }
     ],
-    "wof:id":689144671,
-    "wof:lastmodified":1489008104,
-    "wof:name":"The Goodwill Store",
-    "wof:parent_id":85802869,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 689144671,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "The Goodwill Store",
+    "wof:parent_id": 85802869,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.119331,
     42.351824,
     -71.119331,
     42.351824
-],
+  ],
   "geometry": {"coordinates":[-71.119331,42.351824],"type":"Point"}
 }

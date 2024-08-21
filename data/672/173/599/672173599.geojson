@@ -2,75 +2,78 @@
   "id": 672173599,
   "type": "Feature",
   "properties": {
-    "addr:full":"145 Lincoln Rd Lincoln MA 01773",
-    "addr:housenumber":"145",
-    "addr:postcode":"01773",
-    "addr:street":"Lincoln Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.325636,42.414203,-71.325636,42.414203",
-    "geom:latitude":42.414203,
-    "geom:longitude":-71.325636,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"145 Lincoln Rd",
-    "sg:city":"Lincoln",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "145 Lincoln Rd Lincoln MA 01773",
+    "addr:housenumber": "145",
+    "addr:postcode": "01773",
+    "addr:street": "Lincoln Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.325636,42.414203,-71.325636,42.414203",
+    "geom:latitude": 42.414203,
+    "geom:longitude": -71.325636,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Donelan's Supermarket, 145 Lincoln Rd Lincoln MA US",
+    "ovtr:similarity": 3.212970018386841,
+    "sg:address": "145 Lincoln Rd",
+    "sg:city": "Lincoln",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 259 0144",
-    "sg:postcode":"01773",
-    "sg:province":"MA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 259 0144",
+    "sg:postcode": "01773",
+    "sg:province": "MA",
+    "sg:tags": [
+      "grocer"
     ],
-    "sg:website":"www.donelans.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85804253,
-        102084643
+    "sg:website": "www.donelans.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85804253,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7eKqmIsuUDpoVWr3sZcdw4_42.414203_-71.325636@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3061a2e287203c2c4ef0ad98d82",
+      "sg:id": "SG_7eKqmIsuUDpoVWr3sZcdw4_42.414203_-71.325636@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461712976,
-    "wof:geomhash":"0107df15a4d378be94dcb9999b23ba5f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85804253,
-            "region_id":85688645,
-            "venue_id":672173599
-        }
+    "wof:country": "US",
+    "wof:created": 1461712976,
+    "wof:geomhash": "0777850085306cc3cb09280202b038d0",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85804253,
+        "region_id": 85688645,
+        "venue_id": 672173599
+      }
     ],
-    "wof:id":672173599,
-    "wof:lastmodified":1472625078,
-    "wof:name":"Donelan's Supermarket",
-    "wof:parent_id":85804253,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 672173599,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Donelan's Supermarket",
+    "wof:parent_id": 85804253,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -71.325636,
     42.414203,
     -71.325636,
     42.414203
-],
+  ],
   "geometry": {"coordinates":[-71.325636,42.414203],"type":"Point"}
 }

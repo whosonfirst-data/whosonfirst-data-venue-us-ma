@@ -2,76 +2,79 @@
   "id": 672265265,
   "type": "Feature",
   "properties": {
-    "addr:full":"14 Park St Andover MA 01810",
-    "addr:housenumber":"14",
-    "addr:postcode":"01810",
-    "addr:street":"Park St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.139224,42.65664,-71.139224,42.65664",
-    "geom:latitude":42.65664,
-    "geom:longitude":-71.139224,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"14 Park St",
-    "sg:city":"Andover",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Dance Studio",
-            "type":"Public Place"
-        }
+    "addr:full": "14 Park St Andover MA 01810",
+    "addr:housenumber": "14",
+    "addr:postcode": "01810",
+    "addr:street": "Park St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.139224,42.656640,-71.139224,42.656640",
+    "geom:latitude": 42.65664,
+    "geom:longitude": -71.139224,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Andover School of Ballet, 14 Park St Andover MA US",
+    "ovtr:similarity": 2.999969959259033,
+    "sg:address": "14 Park St",
+    "sg:city": "Andover",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Dance Studio",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 475 5919",
-    "sg:postcode":"01810",
-    "sg:province":"MA",
-    "sg:tags":[
-        "instruction",
-        "dancing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 475 5919",
+    "sg:postcode": "01810",
+    "sg:province": "MA",
+    "sg:tags": [
+      "instruction",
+      "dancing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85855177,
-        102084463
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85855177,
+      102084463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3bukRMo3RLUewN308gS7qv_42.656640_-71.139224@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30730cce1a3033364044255fbc3",
+      "sg:id": "SG_3bukRMo3RLUewN308gS7qv_42.656640_-71.139224@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461714913,
-    "wof:geomhash":"596cb8731e99de7807a11deab32b969e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85855177,
-            "region_id":85688645,
-            "venue_id":672265265
-        }
+    "wof:country": "US",
+    "wof:created": 1461714913,
+    "wof:geomhash": "f90952aba356a7af98c30ceaecbb7cb1",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "neighbourhood_id": 85855177,
+        "region_id": 85688645,
+        "venue_id": 672265265
+      }
     ],
-    "wof:id":672265265,
-    "wof:lastmodified":1472625398,
-    "wof:name":"Andover School Of Ballet",
-    "wof:parent_id":85855177,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "dancing"
+    "wof:id": 672265265,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Andover School Of Ballet",
+    "wof:parent_id": 85855177,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "dancing"
     ]
-},
+  },
   "bbox": [
     -71.139224,
     42.65664,
     -71.139224,
     42.65664
-],
+  ],
   "geometry": {"coordinates":[-71.139224,42.65664],"type":"Point"}
 }

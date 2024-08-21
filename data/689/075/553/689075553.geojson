@@ -2,86 +2,89 @@
   "id": 689075553,
   "type": "Feature",
   "properties": {
-    "addr:full":"16-18 Eliot St. Cambridge MA 02138",
-    "addr:housenumber":"16-18",
-    "addr:postcode":"02138",
-    "addr:street":"Eliot St.",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.121367,42.372083,-71.121367,42.372083",
-    "geom:latitude":42.372083,
-    "geom:longitude":-71.121367,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"16-18 Eliot St.",
-    "sg:city":"Cambridge",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "16-18 Eliot St. Cambridge MA 02138",
+    "addr:housenumber": "16-18",
+    "addr:postcode": "02138",
+    "addr:street": "Eliot St.",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.121367,42.372083,-71.121367,42.372083",
+    "geom:latitude": 42.372083,
+    "geom:longitude": -71.121367,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "IHOP, 16 Eliot St Cambridge MA US",
+    "ovtr:similarity": 3.5718719959259033,
+    "sg:address": "16-18 Eliot St.",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 354 0999",
-    "sg:postcode":"02138",
-    "sg:province":"MA",
-    "sg:tags":[
-        "breakfast",
-        "brunch",
-        "diner"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 354 0999",
+    "sg:postcode": "02138",
+    "sg:province": "MA",
+    "sg:tags": [
+      "breakfast",
+      "brunch",
+      "diner"
     ],
-    "sg:website":"www.ihop.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        102191575,
-        404476475,
-        85633793,
-        85950329,
-        102084643
+    "sg:website": "www.ihop.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      102191575,
+      404476475,
+      85633793,
+      85950329,
+      102084643
     ],
-    "wof:brand_id":1125148709,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5IB0pFWpnKdceyQ574HQwo_42.372083_-71.121367@1303262215"
+    "wof:brand_id": 1125148709,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306718d2a8003690397b2bf2abd",
+      "sg:id": "SG_5IB0pFWpnKdceyQ574HQwo_42.372083_-71.121367@1303262215"
     },
-    "wof:country":"US",
-    "wof:created":1461738823,
-    "wof:geomhash":"7f42fcfce47562799973e9ff30a495b2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476475,
-            "locality_id":85950329,
-            "region_id":85688645,
-            "venue_id":689075553
-        }
+    "wof:country": "US",
+    "wof:created": 1461738823,
+    "wof:geomhash": "7f42fcfce47562799973e9ff30a495b2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476475,
+        "locality_id": 85950329,
+        "region_id": 85688645,
+        "venue_id": 689075553
+      }
     ],
-    "wof:id":689075553,
-    "wof:lastmodified":1511318890,
-    "wof:name":"IHOP",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "breakfast",
-        "brunch",
-        "diner"
+    "wof:id": 689075553,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "IHOP",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "breakfast",
+      "brunch",
+      "diner"
     ]
-},
+  },
   "bbox": [
     -71.121367,
     42.372083,
     -71.121367,
     42.372083
-],
-  "geometry": {"coordinates":[-71.12136700000001,42.372083],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.121367,42.372083],"type":"Point"}
 }

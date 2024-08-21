@@ -2,78 +2,81 @@
   "id": 672673711,
   "type": "Feature",
   "properties": {
-    "addr:full":"57 Peters St North Andover MA 01845",
-    "addr:housenumber":"57",
-    "addr:postcode":"01845",
-    "addr:street":"Peters St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.127161,42.675691,-71.127161,42.675691",
-    "geom:latitude":42.675691,
-    "geom:longitude":-71.127161,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"57 Peters St",
-    "sg:city":"North Andover",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"Child Care",
-            "type":"Services"
-        }
+    "addr:full": "57 Peters St North Andover MA 01845",
+    "addr:housenumber": "57",
+    "addr:postcode": "01845",
+    "addr:street": "Peters St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.127161,42.675691,-71.127161,42.675691",
+    "geom:latitude": 42.675691,
+    "geom:longitude": -71.127161,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "New England Montessori School, 57 Peters St North Andover MA US",
+    "ovtr:similarity": 3.0150558948516846,
+    "sg:address": "57 Peters St",
+    "sg:city": "North Andover",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Child Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 975 9906",
-    "sg:postcode":"01845",
-    "sg:province":"MA",
-    "sg:tags":[
-        "kindergarten",
-        "academic",
-        "school"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 975 9906",
+    "sg:postcode": "01845",
+    "sg:province": "MA",
+    "sg:tags": [
+      "kindergarten",
+      "academic",
+      "school"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85837181,
-        102084463
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85837181,
+      102084463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0JQWAPcKQ5s8bTEkYIuqKp_42.675691_-71.127161@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3073452a5580344f6a4ceacbe27",
+      "sg:id": "SG_0JQWAPcKQ5s8bTEkYIuqKp_42.675691_-71.127161@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461724238,
-    "wof:geomhash":"00d167eaf00cd18427c700752ea25637",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85837181,
-            "region_id":85688645,
-            "venue_id":672673711
-        }
+    "wof:country": "US",
+    "wof:created": 1461724238,
+    "wof:geomhash": "f6dbc0dead1125e151d405fecdb9d086",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "neighbourhood_id": 85837181,
+        "region_id": 85688645,
+        "venue_id": 672673711
+      }
     ],
-    "wof:id":672673711,
-    "wof:lastmodified":1472625922,
-    "wof:name":"New England Montessori School",
-    "wof:parent_id":85837181,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "kindergarten",
-        "academic",
-        "school"
+    "wof:id": 672673711,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "New England Montessori School",
+    "wof:parent_id": 85837181,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "kindergarten",
+      "academic",
+      "school"
     ]
-},
+  },
   "bbox": [
     -71.127161,
     42.675691,
     -71.127161,
     42.675691
-],
+  ],
   "geometry": {"coordinates":[-71.127161,42.675691],"type":"Point"}
 }

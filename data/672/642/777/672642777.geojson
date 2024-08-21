@@ -2,69 +2,72 @@
   "id": 672642777,
   "type": "Feature",
   "properties": {
-    "addr:full":"1103 Main St Hingham MA 02043",
-    "addr:housenumber":"1103",
-    "addr:postcode":"02043",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.884077,42.183153,-70.884077,42.183153",
-    "geom:latitude":42.183153,
-    "geom:longitude":-70.884077,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1103 Main St",
-    "sg:city":"Hingham",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "1103 Main St Hingham MA 02043",
+    "addr:housenumber": "1103",
+    "addr:postcode": "02043",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.884077,42.183153,-70.884077,42.183153",
+    "geom:latitude": 42.183153,
+    "geom:longitude": -70.884077,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Hingham Middle School, 1103 Main St Hingham MA US",
+    "ovtr:similarity": 3.0432229042053223,
+    "sg:address": "1103 Main St",
+    "sg:city": "Hingham",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 741 1550",
-    "sg:postcode":"02043",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85830437,
-        102084367
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 741 1550",
+    "sg:postcode": "02043",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85830437,
+      102084367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3HRihPW0UVxvGRZpqeCEA4_42.183153_-70.884077@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a302de0ae54403bd39bc4a521d94",
+      "sg:id": "SG_3HRihPW0UVxvGRZpqeCEA4_42.183153_-70.884077@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461723557,
-    "wof:geomhash":"fc6622fcf2cdeb9edad64a37abd649ce",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "neighbourhood_id":85830437,
-            "region_id":85688645,
-            "venue_id":672642777
-        }
+    "wof:country": "US",
+    "wof:created": 1461723557,
+    "wof:geomhash": "e8e11b69c53665c28f0d4374e9b6ecb1",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "neighbourhood_id": 85830437,
+        "region_id": 85688645,
+        "venue_id": 672642777
+      }
     ],
-    "wof:id":672642777,
-    "wof:lastmodified":1472625895,
-    "wof:name":"Hingham Middle School",
-    "wof:parent_id":85830437,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672642777,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Hingham Middle School",
+    "wof:parent_id": 85830437,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.884077,
     42.183153,
     -70.884077,
     42.183153
-],
+  ],
   "geometry": {"coordinates":[-70.884077,42.183153],"type":"Point"}
 }

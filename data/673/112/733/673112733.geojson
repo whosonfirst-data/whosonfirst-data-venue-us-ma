@@ -2,72 +2,75 @@
   "id": 673112733,
   "type": "Feature",
   "properties": {
-    "addr:full":"43 Main St Conway MA 01341",
-    "addr:housenumber":"43",
-    "addr:postcode":"01341",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.697259,42.508712,-72.697259,42.508712",
-    "geom:latitude":42.508712,
-    "geom:longitude":-72.697259,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"43 Main St",
-    "sg:city":"Conway",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        }
+    "addr:full": "43 Main St Conway MA 01341",
+    "addr:housenumber": "43",
+    "addr:postcode": "01341",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.697259,42.508712,-72.697259,42.508712",
+    "geom:latitude": 42.508712,
+    "geom:longitude": -72.697259,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Conway Inn, 43 Main St Conway MA US",
+    "ovtr:similarity": 3.4605960845947266,
+    "sg:address": "43 Main St",
+    "sg:city": "Conway",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 369 4428",
-    "sg:postcode":"01341",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        102191575,
-        404475959,
-        85633793,
-        102084457
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 369 4428",
+    "sg:postcode": "01341",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      102191575,
+      404475959,
+      85633793,
+      102084457
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6RroLBL5L4eQzC31NJv3pL_42.508712_-72.697259@1303262185"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32626bb424a0397dc5923eae6ce",
+      "sg:id": "SG_6RroLBL5L4eQzC31NJv3pL_42.508712_-72.697259@1303262185"
     },
-    "wof:country":"US",
-    "wof:created":1461734034,
-    "wof:geomhash":"25654d67d0050b26d5e6439fba5aba75",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084457,
-            "localadmin_id":404475959,
-            "region_id":85688645,
-            "venue_id":673112733
-        }
+    "wof:country": "US",
+    "wof:created": 1461734034,
+    "wof:geomhash": "25654d67d0050b26d5e6439fba5aba75",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084457,
+        "localadmin_id": 404475959,
+        "region_id": 85688645,
+        "venue_id": 673112733
+      }
     ],
-    "wof:id":673112733,
-    "wof:lastmodified":1492103740,
-    "wof:name":"Conway Inn",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673112733,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Conway Inn",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -72.697259,
     42.508712,
     -72.697259,
     42.508712
-],
+  ],
   "geometry": {"coordinates":[-72.697259,42.508712],"type":"Point"}
 }

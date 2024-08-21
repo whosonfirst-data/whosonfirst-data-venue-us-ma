@@ -2,67 +2,74 @@
   "id": 673097059,
   "type": "Feature",
   "properties": {
-    "addr:full":"699 Bedford St Whitman MA 02382",
-    "addr:housenumber":"699",
-    "addr:postcode":"02382",
-    "addr:street":"Bedford St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.946942,42.079625,-70.946942,42.079625",
-    "geom:latitude":42.079625,
-    "geom:longitude":-70.946942,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"699 Bedford St",
-    "sg:city":"Whitman",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "699 Bedford St Whitman MA 02382",
+    "addr:housenumber": "699",
+    "addr:postcode": "02382",
+    "addr:street": "Bedford St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.946942,42.079625,-70.946942,42.079625",
+    "geom:latitude": 42.079625,
+    "geom:longitude": -70.946942,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Burger King, 699 Bedford St Whitman MA US",
+    "ovtr:similarity": 2.489885091781616,
+    "sg:address": "699 Bedford St",
+    "sg:city": "Whitman",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/whitman/196999-burger-king/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 447 4936",
-    "sg:postcode":"02382",
-    "sg:province":"MA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ma/whitman/196999-burger-king/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 447 4936",
+    "sg:postcode": "02382",
+    "sg:province": "MA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573801,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Ff3egb9wC4HE3qPahbjLj_42.079865_-70.946908@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573801,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33942d256c403a0d14e298cac48",
+      "sg:id": "SG_2Ff3egb9wC4HE3qPahbjLj_42.079865_-70.946908@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461733702,
-    "wof:geomhash":"a9dbb83eaac870677953402a56a8d5ef",
-    "wof:hierarchy":[],
-    "wof:id":673097059,
-    "wof:lastmodified":1511322481,
-    "wof:name":"Burger King",
-    "wof:parent_id":85803927,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461733702,
+    "wof:geomhash": "a9dbb83eaac870677953402a56a8d5ef",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673097059
+      }
+    ],
+    "wof:id": 673097059,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Burger King",
+    "wof:parent_id": 85803927,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -70.946942,
     42.079625,
     -70.946942,
     42.079625
-],
-  "geometry": {"coordinates":[-70.94694200000001,42.079625],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.946942,42.079625],"type":"Point"}
 }

@@ -2,82 +2,85 @@
   "id": 672283637,
   "type": "Feature",
   "properties": {
-    "addr:full":"32 E Main St Westborough MA 01581",
-    "addr:housenumber":"32",
-    "addr:postcode":"01581",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.612271,42.271106,-71.612271,42.271106",
-    "geom:latitude":42.271106,
-    "geom:longitude":-71.612271,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"32 E Main St",
-    "sg:city":"Westborough",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "32 E Main St Westborough MA 01581",
+    "addr:housenumber": "32",
+    "addr:postcode": "01581",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.612271,42.271106,-71.612271,42.271106",
+    "geom:latitude": 42.271106,
+    "geom:longitude": -71.612271,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Erickson's Auto Repair, 32 E Main St Westborough MA US",
+    "ovtr:similarity": 3.1081058979034424,
+    "sg:address": "32 E Main St",
+    "sg:city": "Westborough",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 366 7784",
-    "sg:postcode":"01581",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 366 7784",
+    "sg:postcode": "01581",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85855153,
-        102191575,
-        404476633,
-        85633793,
-        85950697,
-        102084655,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85855153,
+      102191575,
+      404476633,
+      85633793,
+      85950697,
+      102084655,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6HYU6dm37mghbbnbp6llkq_42.271106_-71.612271@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33d19723d0d03f2578e2b4ae43e",
+      "sg:id": "SG_6HYU6dm37mghbbnbp6llkq_42.271106_-71.612271@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715273,
-    "wof:geomhash":"7261a2a6a1626572c77e6f8a91d22543",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476633,
-            "locality_id":85950697,
-            "neighbourhood_id":85855153,
-            "region_id":85688645,
-            "venue_id":672283637
-        }
+    "wof:country": "US",
+    "wof:created": 1461715273,
+    "wof:geomhash": "0973c9105ddbe0ad92488e2bd0b46e98",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "localadmin_id": 404476633,
+        "locality_id": 85950697,
+        "neighbourhood_id": 85855153,
+        "region_id": 85688645,
+        "venue_id": 672283637
+      }
     ],
-    "wof:id":672283637,
-    "wof:lastmodified":1472625459,
-    "wof:name":"Erickson Auto Repair",
-    "wof:parent_id":85855153,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 672283637,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Erickson Auto Repair",
+    "wof:parent_id": 85855153,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -71.612271,
     42.271106,
     -71.612271,
     42.271106
-],
-  "geometry": {"coordinates":[-71.61227100000001,42.271106],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.612271,42.271106],"type":"Point"}
 }

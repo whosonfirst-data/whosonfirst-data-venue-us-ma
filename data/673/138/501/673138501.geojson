@@ -2,70 +2,73 @@
   "id": 673138501,
   "type": "Feature",
   "properties": {
-    "addr:full":"411 Massachusetts Ave Ste 204 Acton MA 01720",
-    "addr:housenumber":"411",
-    "addr:postcode":"01720",
-    "addr:street":"Massachusetts Ave Ste 204",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.452349,42.474876,-71.452349,42.474876",
-    "geom:latitude":42.474876,
-    "geom:longitude":-71.452349,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"411 Massachusetts Ave Ste 204",
-    "sg:city":"Acton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Dentist",
-            "type":"Services"
-        }
+    "addr:full": "411 Massachusetts Ave Ste 204 Acton MA 01720",
+    "addr:housenumber": "411",
+    "addr:postcode": "01720",
+    "addr:street": "Massachusetts Ave Ste 204",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.452349,42.474876,-71.452349,42.474876",
+    "geom:latitude": 42.474876,
+    "geom:longitude": -71.452349,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "3-D Dental PC, 411 Massachusetts Ave Acton MA US",
+    "ovtr:similarity": 2.7828989028930664,
+    "sg:address": "411 Massachusetts Ave Ste 204",
+    "sg:city": "Acton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Dentist",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 266 1288",
-    "sg:postcode":"01720",
-    "sg:province":"MA",
-    "sg:website":"www.3-ddental.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85827961,
-        102084643
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 266 1288",
+    "sg:postcode": "01720",
+    "sg:province": "MA",
+    "sg:website": "www.3-ddental.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85827961,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6tcojEtEsZMOOj4zCBEZy9_42.474876_-71.452349@1303262188"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30686a4e71e0352575d62977970",
+      "sg:id": "SG_6tcojEtEsZMOOj4zCBEZy9_42.474876_-71.452349@1303262188"
     },
-    "wof:country":"US",
-    "wof:created":1461734559,
-    "wof:geomhash":"88d9011c48a62c82c22fd1e765e7837c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85827961,
-            "region_id":85688645,
-            "venue_id":673138501
-        }
+    "wof:country": "US",
+    "wof:created": 1461734559,
+    "wof:geomhash": "dd34c01c18565196b0b664d421492eea",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85827961,
+        "region_id": 85688645,
+        "venue_id": 673138501
+      }
     ],
-    "wof:id":673138501,
-    "wof:lastmodified":1472625400,
-    "wof:name":"3-D Dental PC",
-    "wof:parent_id":85827961,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673138501,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "3-D Dental PC",
+    "wof:parent_id": 85827961,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.452349,
     42.474876,
     -71.452349,
     42.474876
-],
+  ],
   "geometry": {"coordinates":[-71.452349,42.474876],"type":"Point"}
 }

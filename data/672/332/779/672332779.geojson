@@ -2,79 +2,82 @@
   "id": 672332779,
   "type": "Feature",
   "properties": {
-    "addr:full":"67 Main St Wenham MA 01984",
-    "addr:housenumber":"67",
-    "addr:postcode":"01984",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.888037,42.598113,-70.888037,42.598113",
-    "geom:latitude":42.598113,
-    "geom:longitude":-70.888037,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"67 Main St",
-    "sg:city":"Wenham",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Bicycles & Sporting Goods",
-            "type":"Retail Goods"
-        }
+    "addr:full": "67 Main St Wenham MA 01984",
+    "addr:housenumber": "67",
+    "addr:postcode": "01984",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.888037,42.598113,-70.888037,42.598113",
+    "geom:latitude": 42.598113,
+    "geom:longitude": -70.888037,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Sports Stop, 67 Main St Wenham MA US",
+    "ovtr:similarity": 2.1722800731658936,
+    "sg:address": "67 Main St",
+    "sg:city": "Wenham",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Bicycles \u0026 Sporting Goods",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 468 4488",
-    "sg:postcode":"01984",
-    "sg:province":"MA",
-    "sg:tags":[
-        "equipment",
-        "tennis",
-        "supply"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 468 4488",
+    "sg:postcode": "01984",
+    "sg:province": "MA",
+    "sg:tags": [
+      "equipment",
+      "tennis",
+      "supply"
     ],
-    "sg:website":"www.sportsstopwenham.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85803695,
-        102084463
+    "sg:website": "www.sportsstopwenham.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85803695,
+      102084463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2WSBoFFNeKDw7j4GKaBOlv_42.598113_-70.888037@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a300c548384d03b3615381213acc",
+      "sg:id": "SG_2WSBoFFNeKDw7j4GKaBOlv_42.598113_-70.888037@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461716293,
-    "wof:geomhash":"188b25966f3df9fc9e3cc26a8cad1317",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85803695,
-            "region_id":85688645,
-            "venue_id":672332779
-        }
+    "wof:country": "US",
+    "wof:created": 1461716293,
+    "wof:geomhash": "9016aebbe202563b6b7e7927f857e544",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "neighbourhood_id": 85803695,
+        "region_id": 85688645,
+        "venue_id": 672332779
+      }
     ],
-    "wof:id":672332779,
-    "wof:lastmodified":1472625573,
-    "wof:name":"Sports Stop",
-    "wof:parent_id":85803695,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "equipment",
-        "tennis",
-        "supply"
+    "wof:id": 672332779,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Sports Stop",
+    "wof:parent_id": 85803695,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "equipment",
+      "tennis",
+      "supply"
     ]
-},
+  },
   "bbox": [
     -70.888037,
     42.598113,
     -70.888037,
     42.598113
-],
+  ],
   "geometry": {"coordinates":[-70.888037,42.598113],"type":"Point"}
 }

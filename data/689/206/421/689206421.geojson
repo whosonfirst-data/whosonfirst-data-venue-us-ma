@@ -2,57 +2,64 @@
   "id": 689206421,
   "type": "Feature",
   "properties": {
-    "addr:full":"1421 Orleans Rd Harwich MA 02645",
-    "addr:housenumber":"1421",
-    "addr:postcode":"02645",
-    "addr:street":"Orleans Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.0215,41.708401,-70.0215,41.708401",
-    "geom:latitude":41.708401,
-    "geom:longitude":-70.0215,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1421 Orleans Rd",
-    "sg:city":"Harwich",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1421 Orleans Rd Harwich MA 02645",
+    "addr:housenumber": "1421",
+    "addr:postcode": "02645",
+    "addr:street": "Orleans Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.021500,41.708401,-70.021500,41.708401",
+    "geom:latitude": 41.708401,
+    "geom:longitude": -70.0215,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "400 East, 1421 Orleans Rd Harwich MA US",
+    "ovtr:similarity": 2.308401107788086,
+    "sg:address": "1421 Orleans Rd",
+    "sg:city": "Harwich",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 432 1800",
-    "sg:postcode":"02645",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2rzuH2wZmjBN0l4L2zT8Rl_41.708401_-70.021500@1303262233"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 432 1800",
+    "sg:postcode": "02645",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a31054a80db303637e43262bcb83",
+      "sg:id": "SG_2rzuH2wZmjBN0l4L2zT8Rl_41.708401_-70.021500@1303262233"
     },
-    "wof:country":"US",
-    "wof:created":1461742183,
-    "wof:geomhash":"1b44aa1dadeb43995f2fdcb07136cf1e",
-    "wof:hierarchy":[],
-    "wof:id":689206421,
-    "wof:lastmodified":1492098397,
-    "wof:name":"400 East",
-    "wof:parent_id":85849499,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461742183,
+    "wof:geomhash": "1b44aa1dadeb43995f2fdcb07136cf1e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689206421
+      }
+    ],
+    "wof:id": 689206421,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "400 East",
+    "wof:parent_id": 85849499,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.0215,
     41.708401,
     -70.0215,
     41.708401
-],
+  ],
   "geometry": {"coordinates":[-70.0215,41.708401],"type":"Point"}
 }

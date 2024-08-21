@@ -2,80 +2,83 @@
   "id": 673051171,
   "type": "Feature",
   "properties": {
-    "addr:full":"33 Main St Bridgewater MA 02324",
-    "addr:housenumber":"33",
-    "addr:postcode":"02324",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.976263,41.990936,-70.976263,41.990936",
-    "geom:latitude":41.990936,
-    "geom:longitude":-70.976263,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"33 Main St",
-    "sg:city":"Bridgewater",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "33 Main St Bridgewater MA 02324",
+    "addr:housenumber": "33",
+    "addr:postcode": "02324",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.976263,41.990936,-70.976263,41.990936",
+    "geom:latitude": 41.990936,
+    "geom:longitude": -70.976263,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Bridgewater House of Pizza, 33 Main St Bridgewater MA US",
+    "ovtr:similarity": 2.9875190258026123,
+    "sg:address": "33 Main St",
+    "sg:city": "Bridgewater",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 697 4862",
-    "sg:postcode":"02324",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 697 4862",
+    "sg:postcode": "02324",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85850909,
-        102191575,
-        404476501,
-        85633793,
-        85950443,
-        102084367,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85850909,
+      102191575,
+      404476501,
+      85633793,
+      85950443,
+      102084367,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_32LJIQ0VtVLgvoeMoQsgwW_41.990308_-70.975465@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33866a94ad503c62e39cc73bb7d",
+      "sg:id": "SG_32LJIQ0VtVLgvoeMoQsgwW_41.990308_-70.975465@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732777,
-    "wof:geomhash":"39da6423bdf33e16bafe1772032202f6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476501,
-            "locality_id":85950443,
-            "neighbourhood_id":85850909,
-            "region_id":85688645,
-            "venue_id":673051171
-        }
+    "wof:country": "US",
+    "wof:created": 1461732777,
+    "wof:geomhash": "82668f5afb432fe9cf583c8efd374fa2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476501,
+        "locality_id": 85950443,
+        "neighbourhood_id": 85850909,
+        "region_id": 85688645,
+        "venue_id": 673051171
+      }
     ],
-    "wof:id":673051171,
-    "wof:lastmodified":1472625125,
-    "wof:name":"Bridgewater House Of Pizza",
-    "wof:parent_id":85850909,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 673051171,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Bridgewater House Of Pizza",
+    "wof:parent_id": 85850909,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -70.976263,
     41.990936,
     -70.976263,
     41.990936
-],
+  ],
   "geometry": {"coordinates":[-70.976263,41.990936],"type":"Point"}
 }

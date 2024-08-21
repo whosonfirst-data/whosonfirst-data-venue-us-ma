@@ -2,82 +2,85 @@
   "id": 672361271,
   "type": "Feature",
   "properties": {
-    "addr:full":"405 Broadway St Chicopee MA 01020",
-    "addr:housenumber":"405",
-    "addr:postcode":"01020",
-    "addr:street":"Broadway St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.579555,42.147436,-72.579555,42.147436",
-    "geom:latitude":42.147436,
-    "geom:longitude":-72.579555,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"405 Broadway St",
-    "sg:city":"Chicopee",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Dance Studio",
-            "type":"Public Place"
-        }
+    "addr:full": "405 Broadway St Chicopee MA 01020",
+    "addr:housenumber": "405",
+    "addr:postcode": "01020",
+    "addr:street": "Broadway St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.579555,42.147436,-72.579555,42.147436",
+    "geom:latitude": 42.147436,
+    "geom:longitude": -72.579555,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Unity Dance Spectrum, 405 Broadway St Chicopee MA US",
+    "ovtr:similarity": 1.7270950078964233,
+    "sg:address": "405 Broadway St",
+    "sg:city": "Chicopee",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Dance Studio",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 594 5799",
-    "sg:postcode":"01020",
-    "sg:province":"MA",
-    "sg:tags":[
-        "instruction",
-        "dancing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 594 5799",
+    "sg:postcode": "01020",
+    "sg:province": "MA",
+    "sg:tags": [
+      "instruction",
+      "dancing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85810839,
-        102191575,
-        404476347,
-        85633793,
-        85950397,
-        102084627,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85810839,
+      102191575,
+      404476347,
+      85633793,
+      85950397,
+      102084627,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0B9O9gnyOVAIwuxEQyGG9c_42.147436_-72.579555@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a14918b592ad032536e67a5c8059",
+      "sg:id": "SG_0B9O9gnyOVAIwuxEQyGG9c_42.147436_-72.579555@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461717000,
-    "wof:geomhash":"be7f93364f93da798519c96562f87a2d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084627,
-            "localadmin_id":404476347,
-            "locality_id":85950397,
-            "neighbourhood_id":85810839,
-            "region_id":85688645,
-            "venue_id":672361271
-        }
+    "wof:country": "US",
+    "wof:created": 1461717000,
+    "wof:geomhash": "f0be5ef416881187d92b27682c6d4617",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "localadmin_id": 404476347,
+        "locality_id": 85950397,
+        "neighbourhood_id": 85810839,
+        "region_id": 85688645,
+        "venue_id": 672361271
+      }
     ],
-    "wof:id":672361271,
-    "wof:lastmodified":1472625621,
-    "wof:name":"Unity Dance Spectrum",
-    "wof:parent_id":85810839,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "dancing"
+    "wof:id": 672361271,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Unity Dance Spectrum",
+    "wof:parent_id": 85810839,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "dancing"
     ]
-},
+  },
   "bbox": [
     -72.579555,
     42.147436,
     -72.579555,
     42.147436
-],
+  ],
   "geometry": {"coordinates":[-72.579555,42.147436],"type":"Point"}
 }

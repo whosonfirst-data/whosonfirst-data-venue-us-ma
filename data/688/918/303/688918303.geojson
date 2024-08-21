@@ -2,87 +2,90 @@
   "id": 688918303,
   "type": "Feature",
   "properties": {
-    "addr:full":"300 Broadway Saugus MA 01906",
-    "addr:housenumber":"300",
-    "addr:postcode":"01906",
-    "addr:street":"Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.018985,42.484706,-71.018985,42.484706",
-    "geom:latitude":42.484706,
-    "geom:longitude":-71.018985,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"300 Broadway",
-    "sg:city":"Saugus",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "300 Broadway Saugus MA 01906",
+    "addr:housenumber": "300",
+    "addr:postcode": "01906",
+    "addr:street": "Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.018985,42.484706,-71.018985,42.484706",
+    "geom:latitude": 42.484706,
+    "geom:longitude": -71.018985,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Saugus Animal Hospital, 300 Broadway Saugus MA US",
+    "ovtr:similarity": 3.1259729862213135,
+    "sg:address": "300 Broadway",
+    "sg:city": "Saugus",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 233 1340",
-    "sg:postcode":"01906",
-    "sg:province":"MA",
-    "sg:tags":[
-        "clinic",
-        "hospital",
-        "veterinarian",
-        "specialty"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 233 1340",
+    "sg:postcode": "01906",
+    "sg:province": "MA",
+    "sg:tags": [
+      "clinic",
+      "hospital",
+      "veterinarian",
+      "specialty"
     ],
-    "sg:website":"http://www.saugusanimalhospital.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523463,
-        102191575,
-        404476265,
-        85633793,
-        85950809,
-        102084463,
-        85688645
+    "sg:website": "http://www.saugusanimalhospital.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523463,
+      102191575,
+      404476265,
+      85633793,
+      85950809,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_683B75fJIpPBtj06w8qYAb_42.484706_-71.018985@1303262195"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30746863a9d035ee636bada37cf",
+      "sg:id": "SG_683B75fJIpPBtj06w8qYAb_42.484706_-71.018985@1303262195"
     },
-    "wof:country":"US",
-    "wof:created":1461735623,
-    "wof:geomhash":"f940e7679f163926896f40bb4258ead5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476265,
-            "locality_id":85950809,
-            "neighbourhood_id":420523463,
-            "region_id":85688645,
-            "venue_id":688918303
-        }
+    "wof:country": "US",
+    "wof:created": 1461735623,
+    "wof:geomhash": "313c31832ab800bbac15625dd438baac",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476265,
+        "locality_id": 85950809,
+        "neighbourhood_id": 420523463,
+        "region_id": 85688645,
+        "venue_id": 688918303
+      }
     ],
-    "wof:id":688918303,
-    "wof:lastmodified":1472624929,
-    "wof:name":"Saugus Animal Hospital",
-    "wof:parent_id":420523463,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic",
-        "hospital",
-        "veterinarian",
-        "specialty"
+    "wof:id": 688918303,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Saugus Animal Hospital",
+    "wof:parent_id": 420523463,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic",
+      "hospital",
+      "veterinarian",
+      "specialty"
     ]
-},
+  },
   "bbox": [
     -71.018985,
     42.484706,
     -71.018985,
     42.484706
-],
+  ],
   "geometry": {"coordinates":[-71.018985,42.484706],"type":"Point"}
 }

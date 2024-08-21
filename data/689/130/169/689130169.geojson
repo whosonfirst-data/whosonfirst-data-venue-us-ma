@@ -2,88 +2,91 @@
   "id": 689130169,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 Main St Melrose MA 02176",
-    "addr:housenumber":"401",
-    "addr:postcode":"02176",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.066312,42.453373,-71.066312,42.453373",
-    "geom:latitude":42.453373,
-    "geom:longitude":-71.066312,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"401 Main St",
-    "sg:city":"Melrose",
-    "sg:classifiers":[
-        {
-            "category":"Sports & Exercise",
-            "subcategory":"Bicycle Rental",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Shoes",
-            "type":"Retail Goods"
-        }
+    "addr:full": "401 Main St Melrose MA 02176",
+    "addr:housenumber": "401",
+    "addr:postcode": "02176",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.066312,42.453373,-71.066312,42.453373",
+    "geom:latitude": 42.453373,
+    "geom:longitude": -71.066312,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Marathon Sports, 401 Main St Melrose MA US",
+    "ovtr:similarity": 2.134761095046997,
+    "sg:address": "401 Main St",
+    "sg:city": "Melrose",
+    "sg:classifiers": [
+      {
+        "category": "Sports \u0026 Exercise",
+        "subcategory": "Bicycle Rental",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Shoes",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 662 0091",
-    "sg:postcode":"02176",
-    "sg:province":"MA",
-    "sg:tags":[
-        "wear",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 662 0091",
+    "sg:postcode": "02176",
+    "sg:province": "MA",
+    "sg:tags": [
+      "wear",
+      "store"
     ],
-    "sg:website":"www.marathonsports.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523689,
-        102191575,
-        404476405,
-        85633793,
-        85950345,
-        102084643,
-        85688645
+    "sg:website": "www.marathonsports.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523689,
+      102191575,
+      404476405,
+      85633793,
+      85950345,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6WCwedpC2FytB7zFcHahYy_42.453373_-71.066312@1303262223"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3075cc1622a032abbde00d1f0a5",
+      "sg:id": "SG_6WCwedpC2FytB7zFcHahYy_42.453373_-71.066312@1303262223"
     },
-    "wof:country":"US",
-    "wof:created":1461740109,
-    "wof:geomhash":"1e7342328e2be92be83f3ca5f573e185",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476405,
-            "locality_id":85950345,
-            "neighbourhood_id":420523689,
-            "region_id":85688645,
-            "venue_id":689130169
-        }
+    "wof:country": "US",
+    "wof:created": 1461740109,
+    "wof:geomhash": "5f9f292a2a6e08f8477241274fc925c7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476405,
+        "locality_id": 85950345,
+        "neighbourhood_id": 420523689,
+        "region_id": 85688645,
+        "venue_id": 689130169
+      }
     ],
-    "wof:id":689130169,
-    "wof:lastmodified":1472625419,
-    "wof:name":"Marathon Sports",
-    "wof:parent_id":420523689,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wear",
-        "store"
+    "wof:id": 689130169,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Marathon Sports",
+    "wof:parent_id": 420523689,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wear",
+      "store"
     ]
-},
+  },
   "bbox": [
     -71.066312,
     42.453373,
     -71.066312,
     42.453373
-],
+  ],
   "geometry": {"coordinates":[-71.066312,42.453373],"type":"Point"}
 }

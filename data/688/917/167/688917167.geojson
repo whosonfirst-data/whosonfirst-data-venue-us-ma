@@ -2,88 +2,91 @@
   "id": 688917167,
   "type": "Feature",
   "properties": {
-    "addr:full":"580 Lynnway Lynn MA 01905",
-    "addr:housenumber":"580",
-    "addr:postcode":"01905",
-    "addr:street":"Lynnway Lynn",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.959473,42.454899,-70.959473,42.454899",
-    "geom:latitude":42.454899,
-    "geom:longitude":-70.959473,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"580 Lynnway",
-    "sg:city":"Lynn",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Scrap",
-            "type":"Manufacturing & Wholesale Goods"
-        },
-        {
-            "category":"Utilities",
-            "subcategory":"Recycling",
-            "type":"Services"
-        }
+    "addr:full": "580 Lynnway Lynn MA 01905",
+    "addr:housenumber": "580",
+    "addr:postcode": "01905",
+    "addr:street": "Lynnway Lynn",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.959473,42.454899,-70.959473,42.454899",
+    "geom:latitude": 42.454899,
+    "geom:longitude": -70.959473,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Solomon Metals Corporation, 580 Lynnway Lynn MA US",
+    "ovtr:similarity": 2.334321975708008,
+    "sg:address": "580 Lynnway",
+    "sg:city": "Lynn",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Scrap",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      },
+      {
+        "category": "Utilities",
+        "subcategory": "Recycling",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 581 7000",
-    "sg:postcode":"01905",
-    "sg:province":"MA",
-    "sg:tags":[
-        "metals-wholesale",
-        "metal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 581 7000",
+    "sg:postcode": "01905",
+    "sg:province": "MA",
+    "sg:tags": [
+      "metals-wholesale",
+      "metal"
     ],
-    "sg:website":"http://www.solomonmetal.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523471,
-        102191575,
-        404476207,
-        85633793,
-        85950413,
-        102084463,
-        85688645
+    "sg:website": "http://www.solomonmetal.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523471,
+      102191575,
+      404476207,
+      85633793,
+      85950413,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_39R68DupxFGOfJlvqej9Rp_42.454899_-70.959473@1303262195"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3076e64dd9c03ace99ec18214ae",
+      "sg:id": "SG_39R68DupxFGOfJlvqej9Rp_42.454899_-70.959473@1303262195"
     },
-    "wof:country":"US",
-    "wof:created":1461735599,
-    "wof:geomhash":"1059256c532fcfe93793f88327ed841d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476207,
-            "locality_id":85950413,
-            "neighbourhood_id":420523471,
-            "region_id":85688645,
-            "venue_id":688917167
-        }
+    "wof:country": "US",
+    "wof:created": 1461735599,
+    "wof:geomhash": "cf17f3b4e8461e43315b6fca6e0a2ce5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476207,
+        "locality_id": 85950413,
+        "neighbourhood_id": 420523471,
+        "region_id": 85688645,
+        "venue_id": 688917167
+      }
     ],
-    "wof:id":688917167,
-    "wof:lastmodified":1472624930,
-    "wof:name":"Solomon Metals Corporation",
-    "wof:parent_id":420523471,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "metals-wholesale",
-        "metal"
+    "wof:id": 688917167,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Solomon Metals Corporation",
+    "wof:parent_id": 420523471,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "metals-wholesale",
+      "metal"
     ]
-},
+  },
   "bbox": [
     -70.959473,
     42.454899,
     -70.959473,
     42.454899
-],
+  ],
   "geometry": {"coordinates":[-70.959473,42.454899],"type":"Point"}
 }

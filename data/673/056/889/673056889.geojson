@@ -2,86 +2,89 @@
   "id": 673056889,
   "type": "Feature",
   "properties": {
-    "addr:full":"221 Longwood Ave Boston MA 02115",
-    "addr:housenumber":"221",
-    "addr:postcode":"02115",
-    "addr:street":"Longwood Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.102317,42.337105,-71.102317,42.337105",
-    "geom:latitude":42.337105,
-    "geom:longitude":-71.102317,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"221 Longwood Ave",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "221 Longwood Ave Boston MA 02115",
+    "addr:housenumber": "221",
+    "addr:postcode": "02115",
+    "addr:street": "Longwood Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.102317,42.337105,-71.102317,42.337105",
+    "geom:latitude": 42.337105,
+    "geom:longitude": -71.102317,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Brigham Dermatology Associates, 221 Longwood Ave Boston MA US",
+    "ovtr:similarity": 2.42615008354187,
+    "sg:address": "221 Longwood Ave",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 732 4918",
-    "sg:postcode":"02115",
-    "sg:province":"MA",
-    "sg:tags":[
-        "physician",
-        "surgeon",
-        "dermatologist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 732 4918",
+    "sg:postcode": "02115",
+    "sg:province": "MA",
+    "sg:tags": [
+      "physician",
+      "surgeon",
+      "dermatologist"
     ],
-    "sg:website":"www.brighamandwomens.org/dermato...",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85869445,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "www.brighamandwomens.org/dermato...",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85869445,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_40TfKGcnt07uIoTObSjlQS_42.336724_-71.102444@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30645cd0480035f19f9444e3450",
+      "sg:id": "SG_40TfKGcnt07uIoTObSjlQS_42.336724_-71.102444@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732891,
-    "wof:geomhash":"84a2be0de75d8226262081e69d036056",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85869445,
-            "region_id":85688645,
-            "venue_id":673056889
-        }
+    "wof:country": "US",
+    "wof:created": 1461732891,
+    "wof:geomhash": "5806cfa5822823563aeb4e4164c4053d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85869445,
+        "region_id": 85688645,
+        "venue_id": 673056889
+      }
     ],
-    "wof:id":673056889,
-    "wof:lastmodified":1491264886,
-    "wof:name":"Brigham Dermatology Associates",
-    "wof:parent_id":85869445,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon",
-        "dermatologist"
+    "wof:id": 673056889,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Brigham Dermatology Associates",
+    "wof:parent_id": 85869445,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon",
+      "dermatologist"
     ]
-},
+  },
   "bbox": [
     -71.102317,
     42.337105,
     -71.102317,
     42.337105
-],
+  ],
   "geometry": {"coordinates":[-71.102317,42.337105],"type":"Point"}
 }

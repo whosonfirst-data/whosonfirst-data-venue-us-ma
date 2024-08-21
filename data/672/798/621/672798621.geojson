@@ -2,86 +2,89 @@
   "id": 672798621,
   "type": "Feature",
   "properties": {
-    "addr:full":"1180 Main St Haverhill MA 01830",
-    "addr:housenumber":"1180",
-    "addr:postcode":"01830",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.10351,42.810349,-71.10351,42.810349",
-    "geom:latitude":42.810349,
-    "geom:longitude":-71.10351,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"1180 Main St",
-    "sg:city":"Haverhill",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1180 Main St Haverhill MA 01830",
+    "addr:housenumber": "1180",
+    "addr:postcode": "01830",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.103510,42.810349,-71.103510,42.810349",
+    "geom:latitude": 42.810349,
+    "geom:longitude": -71.10351,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "McDonald's, 1180 Main St Haverhill MA US",
+    "ovtr:similarity": 3.0228118896484375,
+    "sg:address": "1180 Main St",
+    "sg:city": "Haverhill",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1   ",
-    "sg:postcode":"01830",
-    "sg:province":"MA",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1   ",
+    "sg:postcode": "01830",
+    "sg:province": "MA",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523413,
-        102191575,
-        404476201,
-        85633793,
-        85950417,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523413,
+      102191575,
+      404476201,
+      85633793,
+      85950417,
+      102084463,
+      85688645
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2091566580,
-        "sg:id":"SG_27To7Y25YXIskCIu7ZxlDj_42.810349_-71.103510@1294127905"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2091566580,
+      "ovtr:id": "08f2a30548ce5d2d036beeae79bc69e6",
+      "sg:id": "SG_27To7Y25YXIskCIu7ZxlDj_42.810349_-71.103510@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461726951,
-    "wof:geomhash":"bf86941e519c15c3b7df8b14b83ee0e3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476201,
-            "locality_id":85950417,
-            "neighbourhood_id":420523413,
-            "region_id":85688645,
-            "venue_id":672798621
-        }
+    "wof:country": "US",
+    "wof:created": 1461726951,
+    "wof:geomhash": "bf86941e519c15c3b7df8b14b83ee0e3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476201,
+        "locality_id": 85950417,
+        "neighbourhood_id": 420523413,
+        "region_id": 85688645,
+        "venue_id": 672798621
+      }
     ],
-    "wof:id":672798621,
-    "wof:lastmodified":1512143033,
-    "wof:name":"McDonalds",
-    "wof:parent_id":420523413,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        673085053
+    "wof:id": 672798621,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "McDonalds",
+    "wof:parent_id": 420523413,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      673085053
     ],
-    "wof:tags":[
-        "eating"
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -71.10351,
     42.810349,
     -71.10351,
     42.810349
-],
+  ],
   "geometry": {"coordinates":[-71.10351,42.810349],"type":"Point"}
 }

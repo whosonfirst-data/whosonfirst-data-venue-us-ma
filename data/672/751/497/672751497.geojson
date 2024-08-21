@@ -2,83 +2,86 @@
   "id": 672751497,
   "type": "Feature",
   "properties": {
-    "addr:full":"11 Davis Straits Falmouth MA 02540",
-    "addr:housenumber":"11",
-    "addr:postcode":"02540",
-    "addr:street":"Davis Straits",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.59964,41.556817,-70.59964,41.556817",
-    "geom:latitude":41.556817,
-    "geom:longitude":-70.59964,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"11 Davis Straits",
-    "sg:city":"Falmouth",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "11 Davis Straits Falmouth MA 02540",
+    "addr:housenumber": "11",
+    "addr:postcode": "02540",
+    "addr:street": "Davis Straits",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.599640,41.556817,-70.599640,41.556817",
+    "geom:latitude": 41.556817,
+    "geom:longitude": -70.59964,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Starbucks, 11 Davis Straits Falmouth MA US",
+    "ovtr:similarity": 3.574259042739868,
+    "sg:address": "11 Davis Straits",
+    "sg:city": "Falmouth",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 540 4949",
-    "sg:postcode":"02540",
-    "sg:province":"MA",
-    "sg:tags":[
-        "shop",
-        "coffee"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 540 4949",
+    "sg:postcode": "02540",
+    "sg:province": "MA",
+    "sg:tags": [
+      "shop",
+      "coffee"
     ],
-    "sg:website":"www.starbucks.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950553,
-        102084379,
-        85818889
+    "sg:website": "www.starbucks.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950553,
+      102084379,
+      85818889
     ],
-    "wof:brand_id":420573983,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":213070227,
-        "sg:id":"SG_5XxPYRMIuhmI8WEb2Ns6XN_41.556817_-70.599640@1294127905"
+    "wof:brand_id": 420573983,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 213070227,
+      "ovtr:id": "08f2a31613d1211e03a98cb879ae2b37",
+      "sg:id": "SG_5XxPYRMIuhmI8WEb2Ns6XN_41.556817_-70.599640@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461725970,
-    "wof:geomhash":"347969e1921dba002b009205f5bd0188",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "locality_id":85950553,
-            "neighbourhood_id":85818889,
-            "region_id":85688645,
-            "venue_id":672751497
-        }
+    "wof:country": "US",
+    "wof:created": 1461725970,
+    "wof:geomhash": "347969e1921dba002b009205f5bd0188",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "locality_id": 85950553,
+        "neighbourhood_id": 85818889,
+        "region_id": 85688645,
+        "venue_id": 672751497
+      }
     ],
-    "wof:id":672751497,
-    "wof:lastmodified":1511321004,
-    "wof:name":"Starbucks",
-    "wof:parent_id":85818889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "coffee"
+    "wof:id": 672751497,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Starbucks",
+    "wof:parent_id": 85818889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "coffee"
     ]
-},
+  },
   "bbox": [
     -70.59964,
     41.556817,
     -70.59964,
     41.556817
-],
-  "geometry": {"coordinates":[-70.59963999999999,41.556817],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.59964,41.556817],"type":"Point"}
 }

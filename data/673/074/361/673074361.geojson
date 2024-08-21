@@ -2,83 +2,86 @@
   "id": 673074361,
   "type": "Feature",
   "properties": {
-    "addr:full":"369 Massachusetts Ave Arlington MA 02474",
-    "addr:housenumber":"369",
-    "addr:postcode":"02474",
-    "addr:street":"Massachusetts Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.148442,42.412239,-71.148442,42.412239",
-    "geom:latitude":42.412239,
-    "geom:longitude":-71.148442,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"369 Massachusetts Ave",
-    "sg:city":"Arlington",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Health Practitioner",
-            "type":"Services"
-        }
+    "addr:full": "369 Massachusetts Ave Arlington MA 02474",
+    "addr:housenumber": "369",
+    "addr:postcode": "02474",
+    "addr:street": "Massachusetts Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.148442,42.412239,-71.148442,42.412239",
+    "geom:latitude": 42.412239,
+    "geom:longitude": -71.148442,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "The Arlington Center, 369 Massachusetts Ave Arlington MA US",
+    "ovtr:similarity": 3.3870530128479004,
+    "sg:address": "369 Massachusetts Ave",
+    "sg:city": "Arlington",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Health Practitioner",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 316 0282",
-    "sg:postcode":"02474",
-    "sg:province":"MA",
-    "sg:tags":[
-        "trainer",
-        "acupuncture"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 316 0282",
+    "sg:postcode": "02474",
+    "sg:province": "MA",
+    "sg:tags": [
+      "trainer",
+      "acupuncture"
     ],
-    "sg:website":"www.arlingtoncenter.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85815901,
-        102191575,
-        404476319,
-        85633793,
-        85950613,
-        102084643,
-        85688645
+    "sg:website": "www.arlingtoncenter.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85815901,
+      102191575,
+      404476319,
+      85633793,
+      85950613,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6SwZOAS8KcSXDGc3HhdO8l_42.412225_-71.148777@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3067681549803f8d77a9db059cc",
+      "sg:id": "SG_6SwZOAS8KcSXDGc3HhdO8l_42.412225_-71.148777@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733228,
-    "wof:geomhash":"7c8f933d2ead2e285f4ee733402ce4aa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476319,
-            "locality_id":85950613,
-            "neighbourhood_id":85815901,
-            "region_id":85688645,
-            "venue_id":673074361
-        }
+    "wof:country": "US",
+    "wof:created": 1461733228,
+    "wof:geomhash": "c4f07ef52bafb6b76d02ed228263fea5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476319,
+        "locality_id": 85950613,
+        "neighbourhood_id": 85815901,
+        "region_id": 85688645,
+        "venue_id": 673074361
+      }
     ],
-    "wof:id":673074361,
-    "wof:lastmodified":1472625152,
-    "wof:name":"The Arlington Center",
-    "wof:parent_id":85815901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trainer",
-        "acupuncture"
+    "wof:id": 673074361,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "The Arlington Center",
+    "wof:parent_id": 85815901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trainer",
+      "acupuncture"
     ]
-},
+  },
   "bbox": [
     -71.148442,
     42.412239,
     -71.148442,
     42.412239
-],
+  ],
   "geometry": {"coordinates":[-71.148442,42.412239],"type":"Point"}
 }

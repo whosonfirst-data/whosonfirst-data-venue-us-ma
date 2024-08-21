@@ -2,80 +2,83 @@
   "id": 672994095,
   "type": "Feature",
   "properties": {
-    "addr:full":"315 Main St Oxford MA 01540",
-    "addr:housenumber":"315",
-    "addr:postcode":"01540",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.864788,42.117157,-71.864788,42.117157",
-    "geom:latitude":42.117157,
-    "geom:longitude":-71.864788,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"315 Main St",
-    "sg:city":"Oxford",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "315 Main St Oxford MA 01540",
+    "addr:housenumber": "315",
+    "addr:postcode": "01540",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.864788,42.117157,-71.864788,42.117157",
+    "geom:latitude": 42.117157,
+    "geom:longitude": -71.864788,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "N \u0026 J Donuts, 315 Main St Oxford MA US",
+    "ovtr:similarity": 2.8090150356292725,
+    "sg:address": "315 Main St",
+    "sg:city": "Oxford",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 987 3650",
-    "sg:postcode":"01540",
-    "sg:province":"MA",
-    "sg:tags":[
-        "doughnut"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 987 3650",
+    "sg:postcode": "01540",
+    "sg:province": "MA",
+    "sg:tags": [
+      "doughnut"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420524075,
-        102191575,
-        404476675,
-        85633793,
-        85950739,
-        102084655,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420524075,
+      102191575,
+      404476675,
+      85633793,
+      85950739,
+      102084655,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_28G6a9AuxZgbsehkhrF2He_42.117157_-71.864788@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33c8978823203c5f74af2c1fbd4",
+      "sg:id": "SG_28G6a9AuxZgbsehkhrF2He_42.117157_-71.864788@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461731444,
-    "wof:geomhash":"8f630e638d7604a93c89407f03ded832",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476675,
-            "locality_id":85950739,
-            "neighbourhood_id":420524075,
-            "region_id":85688645,
-            "venue_id":672994095
-        }
+    "wof:country": "US",
+    "wof:created": 1461731444,
+    "wof:geomhash": "cd8409438b8080d31d9399abeeefe861",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "localadmin_id": 404476675,
+        "locality_id": 85950739,
+        "neighbourhood_id": 420524075,
+        "region_id": 85688645,
+        "venue_id": 672994095
+      }
     ],
-    "wof:id":672994095,
-    "wof:lastmodified":1472626197,
-    "wof:name":"N & J Donuts",
-    "wof:parent_id":420524075,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "doughnut"
+    "wof:id": 672994095,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "N \u0026 J Donuts",
+    "wof:parent_id": 420524075,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "doughnut"
     ]
-},
+  },
   "bbox": [
     -71.864788,
     42.117157,
     -71.864788,
     42.117157
-],
+  ],
   "geometry": {"coordinates":[-71.864788,42.117157],"type":"Point"}
 }

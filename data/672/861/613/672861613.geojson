@@ -2,80 +2,83 @@
   "id": 672861613,
   "type": "Feature",
   "properties": {
-    "addr:full":"184 Main St Agawam MA 01001",
-    "addr:housenumber":"184",
-    "addr:postcode":"01001",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.618109,42.084089,-72.618109,42.084089",
-    "geom:latitude":42.084089,
-    "geom:longitude":-72.618109,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"184 Main St",
-    "sg:city":"Agawam",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "184 Main St Agawam MA 01001",
+    "addr:housenumber": "184",
+    "addr:postcode": "01001",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.618109,42.084089,-72.618109,42.084089",
+    "geom:latitude": 42.084089,
+    "geom:longitude": -72.618109,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Agawam Funeral Home Inc, 184 Main St Agawam MA US",
+    "ovtr:similarity": 2.407125949859619,
+    "sg:address": "184 Main St",
+    "sg:city": "Agawam",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 786 9483",
-    "sg:postcode":"01001",
-    "sg:province":"MA",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 786 9483",
+    "sg:postcode": "01001",
+    "sg:province": "MA",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523613,
-        102191575,
-        404476341,
-        85633793,
-        85950399,
-        102084627,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523613,
+      102191575,
+      404476341,
+      85633793,
+      85950399,
+      102084627,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5bGEf6QNtzN3O9WzHmxdRR_42.084089_-72.618109@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a148226d812303c9b6fafed4d1a8",
+      "sg:id": "SG_5bGEf6QNtzN3O9WzHmxdRR_42.084089_-72.618109@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461728206,
-    "wof:geomhash":"5f9a2eb4b334bf94ca112a4ae50fcd5f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084627,
-            "localadmin_id":404476341,
-            "locality_id":85950399,
-            "neighbourhood_id":420523613,
-            "region_id":85688645,
-            "venue_id":672861613
-        }
+    "wof:country": "US",
+    "wof:created": 1461728206,
+    "wof:geomhash": "91fd29b1cbc6ffd21d564b4e25d22852",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "localadmin_id": 404476341,
+        "locality_id": 85950399,
+        "neighbourhood_id": 420523613,
+        "region_id": 85688645,
+        "venue_id": 672861613
+      }
     ],
-    "wof:id":672861613,
-    "wof:lastmodified":1472626089,
-    "wof:name":"Agawam Funeral Home Inc",
-    "wof:parent_id":420523613,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:id": 672861613,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Agawam Funeral Home Inc",
+    "wof:parent_id": 420523613,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -72.618109,
     42.084089,
     -72.618109,
     42.084089
-],
+  ],
   "geometry": {"coordinates":[-72.618109,42.084089],"type":"Point"}
 }

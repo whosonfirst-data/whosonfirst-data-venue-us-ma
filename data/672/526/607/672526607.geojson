@@ -2,80 +2,83 @@
   "id": 672526607,
   "type": "Feature",
   "properties": {
-    "addr:full":"90 David St New Bedford MA 02744",
-    "addr:housenumber":"90",
-    "addr:postcode":"02744",
-    "addr:street":"David St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.913333,41.613222,-70.913333,41.613222",
-    "geom:latitude":41.613222,
-    "geom:longitude":-70.913333,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"90 David St",
-    "sg:city":"New Bedford",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "90 David St New Bedford MA 02744",
+    "addr:housenumber": "90",
+    "addr:postcode": "02744",
+    "addr:street": "David St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.913333,41.613222,-70.913333,41.613222",
+    "geom:latitude": 41.613222,
+    "geom:longitude": -70.913333,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Washington Club, 90 David St New Bedford MA US",
+    "ovtr:similarity": 2.882106065750122,
+    "sg:address": "90 David St",
+    "sg:city": "New Bedford",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 992 8511",
-    "sg:postcode":"02744",
-    "sg:province":"MA",
-    "sg:tags":[
-        "club"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 992 8511",
+    "sg:postcode": "02744",
+    "sg:province": "MA",
+    "sg:tags": [
+      "club"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85806427,
-        102191575,
-        404476131,
-        85633793,
-        85950367,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85806427,
+      102191575,
+      404476131,
+      85633793,
+      85950367,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4yf5J9EaqkXPyiTY7XGIGx_41.613222_-70.913333@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33b5b69bb55030b33c04978ce30",
+      "sg:id": "SG_4yf5J9EaqkXPyiTY7XGIGx_41.613222_-70.913333@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461720977,
-    "wof:geomhash":"7d582c58105a8857d9ff3426a86ef9b9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476131,
-            "locality_id":85950367,
-            "neighbourhood_id":85806427,
-            "region_id":85688645,
-            "venue_id":672526607
-        }
+    "wof:country": "US",
+    "wof:created": 1461720977,
+    "wof:geomhash": "ef07dca6bb402e689107e3e2ff4be1a3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476131,
+        "locality_id": 85950367,
+        "neighbourhood_id": 85806427,
+        "region_id": 85688645,
+        "venue_id": 672526607
+      }
     ],
-    "wof:id":672526607,
-    "wof:lastmodified":1472625789,
-    "wof:name":"Washington Club",
-    "wof:parent_id":85806427,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club"
+    "wof:id": 672526607,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Washington Club",
+    "wof:parent_id": 85806427,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
     ]
-},
+  },
   "bbox": [
     -70.913333,
     41.613222,
     -70.913333,
     41.613222
-],
-  "geometry": {"coordinates":[-70.91333299999999,41.613222],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.913333,41.613222],"type":"Point"}
 }

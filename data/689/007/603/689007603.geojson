@@ -2,86 +2,89 @@
   "id": 689007603,
   "type": "Feature",
   "properties": {
-    "addr:full":"289 Causeway St Boston MA 02113",
-    "addr:housenumber":"289",
-    "addr:postcode":"02113",
-    "addr:street":"Causeway St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.058143,42.36716,-71.058143,42.36716",
-    "geom:latitude":42.36716,
-    "geom:longitude":-71.058143,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"289 Causeway St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "289 Causeway St Boston MA 02113",
+    "addr:housenumber": "289",
+    "addr:postcode": "02113",
+    "addr:street": "Causeway St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.058143,42.367160,-71.058143,42.367160",
+    "geom:latitude": 42.36716,
+    "geom:longitude": -71.058143,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Ducali Pizzeria \u0026 Bar, 289 Causeway St Boston MA US",
+    "ovtr:similarity": 2.3194799423217773,
+    "sg:address": "289 Causeway St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 742 4144",
-    "sg:postcode":"02113",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 742 4144",
+    "sg:postcode": "02113",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "sg:website":"ducalipizza.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85837591,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "ducalipizza.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85837591,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_71PmWh6tB9iObx2W22pVlD_42.367160_-71.058143@1303262206"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30660ab3b5e03cd0093907a8fec",
+      "sg:id": "SG_71PmWh6tB9iObx2W22pVlD_42.367160_-71.058143@1303262206"
     },
-    "wof:country":"US",
-    "wof:created":1461737417,
-    "wof:geomhash":"c0ba6bba3237109863807b89fa76b931",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85837591,
-            "region_id":85688645,
-            "venue_id":689007603
-        }
+    "wof:country": "US",
+    "wof:created": 1461737417,
+    "wof:geomhash": "604b600dbc68abcb22c4e42176d53519",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85837591,
+        "region_id": 85688645,
+        "venue_id": 689007603
+      }
     ],
-    "wof:id":689007603,
-    "wof:lastmodified":1472624956,
-    "wof:name":"Ducali Pizzeria & Bar",
-    "wof:parent_id":85837591,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 689007603,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Ducali Pizzeria \u0026 Bar",
+    "wof:parent_id": 85837591,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.058143,
     42.36716,
     -71.058143,
     42.36716
-],
+  ],
   "geometry": {"coordinates":[-71.058143,42.36716],"type":"Point"}
 }

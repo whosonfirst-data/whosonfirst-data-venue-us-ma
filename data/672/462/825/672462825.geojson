@@ -2,80 +2,83 @@
   "id": 672462825,
   "type": "Feature",
   "properties": {
-    "addr:full":"664 Allen St New Bedford MA 02740",
-    "addr:housenumber":"664",
-    "addr:postcode":"02740",
-    "addr:street":"Allen St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.948879,41.624239,-70.948879,41.624239",
-    "geom:latitude":41.624239,
-    "geom:longitude":-70.948879,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"664 Allen St",
-    "sg:city":"New Bedford",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Developer",
-            "type":"Services"
-        }
+    "addr:full": "664 Allen St New Bedford MA 02740",
+    "addr:housenumber": "664",
+    "addr:postcode": "02740",
+    "addr:street": "Allen St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.948879,41.624239,-70.948879,41.624239",
+    "geom:latitude": 41.624239,
+    "geom:longitude": -70.948879,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "St John's Cemetery, 664 Allen St New Bedford MA US",
+    "ovtr:similarity": 2.556972026824951,
+    "sg:address": "664 Allen St",
+    "sg:city": "New Bedford",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Developer",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 992 1071",
-    "sg:postcode":"02740",
-    "sg:province":"MA",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 992 1071",
+    "sg:postcode": "02740",
+    "sg:province": "MA",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85806427,
-        102191575,
-        404476131,
-        85633793,
-        85950367,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85806427,
+      102191575,
+      404476131,
+      85633793,
+      85950367,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5hcd4vk1xmyMCYpQQsiwLG_41.624239_-70.948879@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33a76861c8103f4c8a262756d85",
+      "sg:id": "SG_5hcd4vk1xmyMCYpQQsiwLG_41.624239_-70.948879@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461719502,
-    "wof:geomhash":"7017ef103753a1a23f3eb102a0a133bd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476131,
-            "locality_id":85950367,
-            "neighbourhood_id":85806427,
-            "region_id":85688645,
-            "venue_id":672462825
-        }
+    "wof:country": "US",
+    "wof:created": 1461719502,
+    "wof:geomhash": "797de06b04a3de549f88f957aa0e9271",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476131,
+        "locality_id": 85950367,
+        "neighbourhood_id": 85806427,
+        "region_id": 85688645,
+        "venue_id": 672462825
+      }
     ],
-    "wof:id":672462825,
-    "wof:lastmodified":1472625733,
-    "wof:name":"St John's Cemetery",
-    "wof:parent_id":85806427,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:id": 672462825,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "St John's Cemetery",
+    "wof:parent_id": 85806427,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -70.948879,
     41.624239,
     -70.948879,
     41.624239
-],
-  "geometry": {"coordinates":[-70.94887900000001,41.624239],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.948879,41.624239],"type":"Point"}
 }

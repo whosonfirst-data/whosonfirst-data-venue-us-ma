@@ -2,71 +2,74 @@
   "id": 672941999,
   "type": "Feature",
   "properties": {
-    "addr:full":"553 Palmer Ave Falmouth MA 02540",
-    "addr:housenumber":"553",
-    "addr:postcode":"02540",
-    "addr:street":"Palmer Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.617204,41.56743,-70.617204,41.56743",
-    "geom:latitude":41.56743,
-    "geom:longitude":-70.617204,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"553 Palmer Ave",
-    "sg:city":"Falmouth",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "553 Palmer Ave Falmouth MA 02540",
+    "addr:housenumber": "553",
+    "addr:postcode": "02540",
+    "addr:street": "Palmer Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.617204,41.567430,-70.617204,41.567430",
+    "geom:latitude": 41.56743,
+    "geom:longitude": -70.617204,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Crabapple's, 553 Palmer Ave Falmouth MA US",
+    "ovtr:similarity": 2.199984073638916,
+    "sg:address": "553 Palmer Ave",
+    "sg:city": "Falmouth",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 548 3355",
-    "sg:postcode":"02540",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950553,
-        102084379,
-        85818889
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 548 3355",
+    "sg:postcode": "02540",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950553,
+      102084379,
+      85818889
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6ufq8HNwCamG6eSju0qVpN_41.567430_-70.617204@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a31612cd9934037916a055f328f1",
+      "sg:id": "SG_6ufq8HNwCamG6eSju0qVpN_41.567430_-70.617204@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461729910,
-    "wof:geomhash":"2ea7e2ca74203e878a919053082ef1c8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "locality_id":85950553,
-            "neighbourhood_id":85818889,
-            "region_id":85688645,
-            "venue_id":672941999
-        }
+    "wof:country": "US",
+    "wof:created": 1461729910,
+    "wof:geomhash": "83b0c0f35bff8ac0af716a71f015654d",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "locality_id": 85950553,
+        "neighbourhood_id": 85818889,
+        "region_id": 85688645,
+        "venue_id": 672941999
+      }
     ],
-    "wof:id":672941999,
-    "wof:lastmodified":1472626158,
-    "wof:name":"Crabapple's",
-    "wof:parent_id":85818889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672941999,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Crabapple's",
+    "wof:parent_id": 85818889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.617204,
     41.56743,
     -70.617204,
     41.56743
-],
+  ],
   "geometry": {"coordinates":[-70.617204,41.56743],"type":"Point"}
 }

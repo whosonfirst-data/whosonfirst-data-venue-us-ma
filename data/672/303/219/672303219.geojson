@@ -2,78 +2,81 @@
   "id": 672303219,
   "type": "Feature",
   "properties": {
-    "addr:full":"303 Ave A Turners Falls MA 01376",
-    "addr:housenumber":"303",
-    "addr:postcode":"01376",
-    "addr:street":"Ave A",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.561111,42.604191,-72.561111,42.604191",
-    "geom:latitude":42.604191,
-    "geom:longitude":-72.561111,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"303 Ave A",
-    "sg:city":"Turners Falls",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "303 Ave A Turners Falls MA 01376",
+    "addr:housenumber": "303",
+    "addr:postcode": "01376",
+    "addr:street": "Ave A",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.561111,42.604191,-72.561111,42.604191",
+    "geom:latitude": 42.604191,
+    "geom:longitude": -72.561111,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Bob's Auto Body Inc, 303 Avenue A Turners Falls MA US",
+    "ovtr:similarity": 2.613128900527954,
+    "sg:address": "303 Ave A",
+    "sg:city": "Turners Falls",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 863 2112",
-    "sg:postcode":"01376",
-    "sg:province":"MA",
-    "sg:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 863 2112",
+    "sg:postcode": "01376",
+    "sg:province": "MA",
+    "sg:tags": [
+      "body",
+      "automobile",
+      "painting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85844959,
-        102084457
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85844959,
+      102084457
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3NGI3VeNhfRH0LsuaMWKAp_42.604191_-72.561111@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3272114ca8e032d7a897b27913c",
+      "sg:id": "SG_3NGI3VeNhfRH0LsuaMWKAp_42.604191_-72.561111@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715671,
-    "wof:geomhash":"8e05afd90aebb549341de031312bff10",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084457,
-            "neighbourhood_id":85844959,
-            "region_id":85688645,
-            "venue_id":672303219
-        }
+    "wof:country": "US",
+    "wof:created": 1461715671,
+    "wof:geomhash": "29399ea3f513b4156d4d64a8fa3d018c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084457,
+        "neighbourhood_id": 85844959,
+        "region_id": 85688645,
+        "venue_id": 672303219
+      }
     ],
-    "wof:id":672303219,
-    "wof:lastmodified":1472625494,
-    "wof:name":"Bob's Auto Body Inc",
-    "wof:parent_id":85844959,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "wof:id": 672303219,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Bob's Auto Body Inc",
+    "wof:parent_id": 85844959,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "automobile",
+      "painting"
     ]
-},
+  },
   "bbox": [
     -72.561111,
     42.604191,
     -72.561111,
     42.604191
-],
+  ],
   "geometry": {"coordinates":[-72.561111,42.604191],"type":"Point"}
 }

@@ -2,75 +2,78 @@
   "id": 672658927,
   "type": "Feature",
   "properties": {
-    "addr:full":"65 Main St Concord MA 01742",
-    "addr:housenumber":"65",
-    "addr:postcode":"01742",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.350764,42.459694,-71.350764,42.459694",
-    "geom:latitude":42.459694,
-    "geom:longitude":-71.350764,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"65 Main St",
-    "sg:city":"Concord",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Books",
-            "type":"Retail Goods"
-        }
+    "addr:full": "65 Main St Concord MA 01742",
+    "addr:housenumber": "65",
+    "addr:postcode": "01742",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.350764,42.459694,-71.350764,42.459694",
+    "geom:latitude": 42.459694,
+    "geom:longitude": -71.350764,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "The Concord Bookshop, 65 Main St Concord MA US",
+    "ovtr:similarity": 3.574651002883911,
+    "sg:address": "65 Main St",
+    "sg:city": "Concord",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Books",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 369 2405",
-    "sg:postcode":"01742",
-    "sg:province":"MA",
-    "sg:tags":[
-        "dealer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 369 2405",
+    "sg:postcode": "01742",
+    "sg:province": "MA",
+    "sg:tags": [
+      "dealer"
     ],
-    "sg:website":"www.concordbookshop.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85833807,
-        102084643
+    "sg:website": "www.concordbookshop.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85833807,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_61JB1ScGhU2eJXR7olyCm0_42.459694_-71.350764@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306aca9c38d03a7a0a956651eda",
+      "sg:id": "SG_61JB1ScGhU2eJXR7olyCm0_42.459694_-71.350764@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461723920,
-    "wof:geomhash":"41669bb69ae5bb9bbba8b908c4035a11",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85833807,
-            "region_id":85688645,
-            "venue_id":672658927
-        }
+    "wof:country": "US",
+    "wof:created": 1461723920,
+    "wof:geomhash": "6ca7cfd0d4063c23810ae0c34bf0bc78",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85833807,
+        "region_id": 85688645,
+        "venue_id": 672658927
+      }
     ],
-    "wof:id":672658927,
-    "wof:lastmodified":1472625911,
-    "wof:name":"Concord Bookshop",
-    "wof:parent_id":85833807,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dealer"
+    "wof:id": 672658927,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Concord Bookshop",
+    "wof:parent_id": 85833807,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dealer"
     ]
-},
+  },
   "bbox": [
     -71.350764,
     42.459694,
     -71.350764,
     42.459694
-],
+  ],
   "geometry": {"coordinates":[-71.350764,42.459694],"type":"Point"}
 }

@@ -2,87 +2,90 @@
   "id": 688980927,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 High St Boston MA 02109",
-    "addr:housenumber":"200",
-    "addr:postcode":"02109",
-    "addr:street":"High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.051893,42.356738,-71.051893,42.356738",
-    "geom:latitude":42.356738,
-    "geom:longitude":-71.051893,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"200 High St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "200 High St Boston MA 02109",
+    "addr:housenumber": "200",
+    "addr:postcode": "02109",
+    "addr:street": "High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.051893,42.356738,-71.051893,42.356738",
+    "geom:latitude": 42.356738,
+    "geom:longitude": -71.051893,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Panera Bread, 200 High St Boston MA US",
+    "ovtr:similarity": 3.426769971847534,
+    "sg:address": "200 High St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 951 1330",
-    "sg:postcode":"02109",
-    "sg:province":"MA",
-    "sg:tags":[
-        "sandwich"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 951 1330",
+    "sg:postcode": "02109",
+    "sg:province": "MA",
+    "sg:tags": [
+      "sandwich"
     ],
-    "sg:website":"www.panerabread.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108711407,
-        85815133,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "www.panerabread.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108711407,
+      85815133,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:brand_id":1125148711,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":3188737187,
-        "sg:id":"SG_0rXoPPPtG1UbfYumPNZFy1_42.356738_-71.051893@1303262203"
+    "wof:brand_id": 1125148711,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 3188737187,
+      "ovtr:id": "08f2a30661ce484a03fd3853ce39a0c3",
+      "sg:id": "SG_0rXoPPPtG1UbfYumPNZFy1_42.356738_-71.051893@1303262203"
     },
-    "wof:country":"US",
-    "wof:created":1461736858,
-    "wof:geomhash":"5e998d6c91b3399d810065d8d7e7537e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "microhood_id":1108711407,
-            "neighbourhood_id":85815133,
-            "region_id":85688645,
-            "venue_id":688980927
-        }
+    "wof:country": "US",
+    "wof:created": 1461736858,
+    "wof:geomhash": "5e998d6c91b3399d810065d8d7e7537e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "microhood_id": 1108711407,
+        "neighbourhood_id": 85815133,
+        "region_id": 85688645,
+        "venue_id": 688980927
+      }
     ],
-    "wof:id":688980927,
-    "wof:lastmodified":1511320416,
-    "wof:name":"Panera Bread",
-    "wof:parent_id":1108711407,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sandwich"
+    "wof:id": 688980927,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Panera Bread",
+    "wof:parent_id": 1108711407,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -71.051893,
     42.356738,
     -71.051893,
     42.356738
-],
-  "geometry": {"coordinates":[-71.05189300000001,42.356738],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.051893,42.356738],"type":"Point"}
 }

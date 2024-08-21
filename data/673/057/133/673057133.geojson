@@ -2,64 +2,71 @@
   "id": 673057133,
   "type": "Feature",
   "properties": {
-    "addr:full":"717 Fall River Ave Seekonk MA 02771",
-    "addr:housenumber":"717",
-    "addr:postcode":"02771",
-    "addr:street":"Fall River Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.334202,41.807014,-71.334202,41.807014",
-    "geom:latitude":41.807014,
-    "geom:longitude":-71.334202,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"717 Fall River Ave",
-    "sg:city":"Seekonk",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "717 Fall River Ave Seekonk MA 02771",
+    "addr:housenumber": "717",
+    "addr:postcode": "02771",
+    "addr:street": "Fall River Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.334202,41.807014,-71.334202,41.807014",
+    "geom:latitude": 41.807014,
+    "geom:longitude": -71.334202,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Indulge Hair Salon, 717 Fall River Ave Seekonk MA US",
+    "ovtr:similarity": 1.9987679719924927,
+    "sg:address": "717 Fall River Ave",
+    "sg:city": "Seekonk",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 336 5885",
-    "sg:postcode":"02771",
-    "sg:province":"MA",
-    "sg:tags":[
-        "hair",
-        "stylist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 336 5885",
+    "sg:postcode": "02771",
+    "sg:province": "MA",
+    "sg:tags": [
+      "hair",
+      "stylist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_42vAxDjjhKNdpfxSAn60kt_41.807105_-71.334342@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a331454f5c40033fc9331f921236",
+      "sg:id": "SG_42vAxDjjhKNdpfxSAn60kt_41.807105_-71.334342@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732895,
-    "wof:geomhash":"175b9b190c3d1f6a411e0c2d30d01a71",
-    "wof:hierarchy":[],
-    "wof:id":673057133,
-    "wof:lastmodified":1492105301,
-    "wof:name":"Indulge Hair Salon",
-    "wof:parent_id":85831719,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hair",
-        "stylist"
+    "wof:country": "US",
+    "wof:created": 1461732895,
+    "wof:geomhash": "175b9b190c3d1f6a411e0c2d30d01a71",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673057133
+      }
+    ],
+    "wof:id": 673057133,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Indulge Hair Salon",
+    "wof:parent_id": 85831719,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hair",
+      "stylist"
     ]
-},
+  },
   "bbox": [
     -71.334202,
     41.807014,
     -71.334202,
     41.807014
-],
+  ],
   "geometry": {"coordinates":[-71.334202,41.807014],"type":"Point"}
 }

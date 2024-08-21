@@ -2,57 +2,64 @@
   "id": 672266685,
   "type": "Feature",
   "properties": {
-    "addr:full":"19 Meetinghouse Ln Sagamore Beach MA 02562",
-    "addr:housenumber":"19",
-    "addr:postcode":"02562",
-    "addr:street":"Meetinghouse Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.541934,41.781261,-70.541934,41.781261",
-    "geom:latitude":41.781261,
-    "geom:longitude":-70.541934,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"19 Meetinghouse Ln",
-    "sg:city":"Sagamore Beach",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "19 Meetinghouse Ln Sagamore Beach MA 02562",
+    "addr:housenumber": "19",
+    "addr:postcode": "02562",
+    "addr:street": "Meetinghouse Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.541934,41.781261,-70.541934,41.781261",
+    "geom:latitude": 41.781261,
+    "geom:longitude": -70.541934,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Ye Olde Spirit Shoppe, 41 Meetinghouse Ln Sagamore Beach MA US",
+    "ovtr:similarity": 3.5390141010284424,
+    "sg:address": "19 Meetinghouse Ln",
+    "sg:city": "Sagamore Beach",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 888 2445",
-    "sg:postcode":"02562",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_01KGKGXs4f3zlVqxqC30sF_41.781261_-70.541934@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 888 2445",
+    "sg:postcode": "02562",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3145c32074d036afa75f2cba45c",
+      "sg:id": "SG_01KGKGXs4f3zlVqxqC30sF_41.781261_-70.541934@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461714937,
-    "wof:geomhash":"f131f43992d99ef86d547c2c4cee9440",
-    "wof:hierarchy":[],
-    "wof:id":672266685,
-    "wof:lastmodified":1492119435,
-    "wof:name":"Ye Olde Spirit Shoppe",
-    "wof:parent_id":85806815,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461714937,
+    "wof:geomhash": "f131f43992d99ef86d547c2c4cee9440",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672266685
+      }
+    ],
+    "wof:id": 672266685,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Ye Olde Spirit Shoppe",
+    "wof:parent_id": 85806815,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.541934,
     41.781261,
     -70.541934,
     41.781261
-],
+  ],
   "geometry": {"coordinates":[-70.541934,41.781261],"type":"Point"}
 }

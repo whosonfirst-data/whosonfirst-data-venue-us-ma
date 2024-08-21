@@ -2,85 +2,88 @@
   "id": 673069801,
   "type": "Feature",
   "properties": {
-    "addr:full":"99 Main St Watertown MA 02472",
-    "addr:housenumber":"99",
-    "addr:postcode":"02472",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.186728,42.36688,-71.186728,42.36688",
-    "geom:latitude":42.36688,
-    "geom:longitude":-71.186728,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"99 Main St",
-    "sg:city":"Watertown",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "99 Main St Watertown MA 02472",
+    "addr:housenumber": "99",
+    "addr:postcode": "02472",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.186728,42.366880,-71.186728,42.366880",
+    "geom:latitude": 42.36688,
+    "geom:longitude": -71.186728,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Watertown Fire Department, 99 Main St Watertown MA US",
+    "ovtr:similarity": 2.908642053604126,
+    "sg:address": "99 Main St",
+    "sg:city": "Watertown",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 972 6565",
-    "sg:postcode":"02472",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department",
-        "consultant",
-        "protection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 972 6565",
+    "sg:postcode": "02472",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department",
+      "consultant",
+      "protection"
     ],
-    "sg:website":"http://www.watertownraiders.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85805697,
-        102191575,
-        404476459,
-        85633793,
-        85950335,
-        102084643,
-        85688645
+    "sg:website": "http://www.watertownraiders.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85805697,
+      102191575,
+      404476459,
+      85633793,
+      85950335,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_65YwpB4GkY9aVUFpB5TmOT_42.367194_-71.187399@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30654073524031ef8aaec3bacc9",
+      "sg:id": "SG_65YwpB4GkY9aVUFpB5TmOT_42.367194_-71.187399@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733139,
-    "wof:geomhash":"912167be2e9b1800a3e43f18d398b226",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476459,
-            "locality_id":85950335,
-            "neighbourhood_id":85805697,
-            "region_id":85688645,
-            "venue_id":673069801
-        }
+    "wof:country": "US",
+    "wof:created": 1461733139,
+    "wof:geomhash": "15546708bad4c28071af7987cfa3ebb4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476459,
+        "locality_id": 85950335,
+        "neighbourhood_id": 85805697,
+        "region_id": 85688645,
+        "venue_id": 673069801
+      }
     ],
-    "wof:id":673069801,
-    "wof:lastmodified":1472625194,
-    "wof:name":"Watertown Fire Department",
-    "wof:parent_id":85805697,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department",
-        "consultant",
-        "protection"
+    "wof:id": 673069801,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Watertown Fire Department",
+    "wof:parent_id": 85805697,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department",
+      "consultant",
+      "protection"
     ]
-},
+  },
   "bbox": [
     -71.186728,
     42.36688,
     -71.186728,
     42.36688
-],
+  ],
   "geometry": {"coordinates":[-71.186728,42.36688],"type":"Point"}
 }

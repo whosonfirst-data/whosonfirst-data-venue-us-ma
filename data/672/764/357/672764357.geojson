@@ -2,64 +2,71 @@
   "id": 672764357,
   "type": "Feature",
   "properties": {
-    "addr:full":"1125 Bedford St Whitman MA 02382",
-    "addr:housenumber":"1125",
-    "addr:postcode":"02382",
-    "addr:street":"Bedford St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.949785,42.092376,-70.949785,42.092376",
-    "geom:latitude":42.092376,
-    "geom:longitude":-70.949785,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1125 Bedford St",
-    "sg:city":"Whitman",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1125 Bedford St Whitman MA 02382",
+    "addr:housenumber": "1125",
+    "addr:postcode": "02382",
+    "addr:street": "Bedford St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.949785,42.092376,-70.949785,42.092376",
+    "geom:latitude": 42.092376,
+    "geom:longitude": -70.949785,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Auto Tec, 1125 Bedford St Whitman MA US",
+    "ovtr:similarity": 2.032289981842041,
+    "sg:address": "1125 Bedford St",
+    "sg:city": "Whitman",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 447 2403",
-    "sg:postcode":"02382",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 447 2403",
+    "sg:postcode": "02382",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0OetmnaE6Mcks2zj8xM3e4_42.092376_-70.949785@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a339464b2b0103815e3829aab990",
+      "sg:id": "SG_0OetmnaE6Mcks2zj8xM3e4_42.092376_-70.949785@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461726243,
-    "wof:geomhash":"5d380bbb511f15beb20132b82433e14c",
-    "wof:hierarchy":[],
-    "wof:id":672764357,
-    "wof:lastmodified":1492106562,
-    "wof:name":"Auto Tec",
-    "wof:parent_id":85803927,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461726243,
+    "wof:geomhash": "5d380bbb511f15beb20132b82433e14c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672764357
+      }
+    ],
+    "wof:id": 672764357,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Auto Tec",
+    "wof:parent_id": 85803927,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -70.949785,
     42.092376,
     -70.949785,
     42.092376
-],
-  "geometry": {"coordinates":[-70.94978500000001,42.092376],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.949785,42.092376],"type":"Point"}
 }

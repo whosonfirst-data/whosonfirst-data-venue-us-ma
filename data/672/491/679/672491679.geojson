@@ -2,71 +2,74 @@
   "id": 672491679,
   "type": "Feature",
   "properties": {
-    "addr:full":"4 Columbia St Adams MA 01220",
-    "addr:housenumber":"4",
-    "addr:postcode":"01220",
-    "addr:street":"Columbia St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-73.119711,42.62437,-73.119711,42.62437",
-    "geom:latitude":42.62437,
-    "geom:longitude":-73.119711,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4 Columbia St",
-    "sg:city":"Adams",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4 Columbia St Adams MA 01220",
+    "addr:housenumber": "4",
+    "addr:postcode": "01220",
+    "addr:street": "Columbia St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-73.119711,42.624370,-73.119711,42.624370",
+    "geom:latitude": 42.62437,
+    "geom:longitude": -73.119711,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Val's Pipe \u0026 Package Store, 5 Columbia St Adams MA US",
+    "ovtr:similarity": 3.8102619647979736,
+    "sg:address": "4 Columbia St",
+    "sg:city": "Adams",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 743 0962",
-    "sg:postcode":"01220",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950597,
-        102084369,
-        85832257
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 743 0962",
+    "sg:postcode": "01220",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950597,
+      102084369,
+      85832257
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6TDbg2Pil6aLy38cc7QjbY_42.624370_-73.119711@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2b89b73d934e50308c3a55daa87f6",
+      "sg:id": "SG_6TDbg2Pil6aLy38cc7QjbY_42.624370_-73.119711@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461720217,
-    "wof:geomhash":"bcee0bd934f87d825c4160216e8f4fc0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084369,
-            "locality_id":85950597,
-            "neighbourhood_id":85832257,
-            "region_id":85688645,
-            "venue_id":672491679
-        }
+    "wof:country": "US",
+    "wof:created": 1461720217,
+    "wof:geomhash": "6ba1ec406a378673b44edeebf7184160",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084369,
+        "locality_id": 85950597,
+        "neighbourhood_id": 85832257,
+        "region_id": 85688645,
+        "venue_id": 672491679
+      }
     ],
-    "wof:id":672491679,
-    "wof:lastmodified":1472625760,
-    "wof:name":"Val's Pipe & Package Store",
-    "wof:parent_id":85832257,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672491679,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Val's Pipe \u0026 Package Store",
+    "wof:parent_id": 85832257,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.119711,
     42.62437,
     -73.119711,
     42.62437
-],
+  ],
   "geometry": {"coordinates":[-73.119711,42.62437],"type":"Point"}
 }

@@ -2,95 +2,98 @@
   "id": 689189453,
   "type": "Feature",
   "properties": {
-    "addr:full":"1664 Central Ave Needham MA 02492",
-    "addr:housenumber":"1664",
-    "addr:postcode":"02492",
-    "addr:street":"Central Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.267123,42.268829,-71.267123,42.268829",
-    "geom:latitude":42.268829,
-    "geom:longitude":-71.267123,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"1664 Central Ave",
-    "sg:city":"Needham",
-    "sg:classifiers":[
-        {
-            "category":"Place Of Worship",
-            "subcategory":"Synagogue",
-            "type":"Public Place"
-        },
-        {
-            "category":"Place Of Worship",
-            "subcategory":"",
-            "type":"Public Place"
-        },
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "1664 Central Ave Needham MA 02492",
+    "addr:housenumber": "1664",
+    "addr:postcode": "02492",
+    "addr:street": "Central Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.267123,42.268829,-71.267123,42.268829",
+    "geom:latitude": 42.268829,
+    "geom:longitude": -71.267123,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Temple Aliyah, 1664 Central Ave Needham MA US",
+    "ovtr:similarity": 2.1104838848114014,
+    "sg:address": "1664 Central Ave",
+    "sg:city": "Needham",
+    "sg:classifiers": [
+      {
+        "category": "Place Of Worship",
+        "subcategory": "Synagogue",
+        "type": "Public Place"
+      },
+      {
+        "category": "Place Of Worship",
+        "subcategory": "",
+        "type": "Public Place"
+      },
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 444 8522",
-    "sg:postcode":"02492",
-    "sg:province":"MA",
-    "sg:tags":[
-        "synagogues-reform",
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 444 8522",
+    "sg:postcode": "02492",
+    "sg:province": "MA",
+    "sg:tags": [
+      "synagogues-reform",
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85836459,
-        102191575,
-        404476585,
-        85633793,
-        85950835,
-        102084403,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85836459,
+      102191575,
+      404476585,
+      85633793,
+      85950835,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":214652748,
-        "sg:id":"SG_6raXe4BidLE54VEzHWStkx_42.268829_-71.267123@1303262230"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 214652748,
+      "ovtr:id": "08f2a339b63a87910329d1d371a83d2f",
+      "sg:id": "SG_6raXe4BidLE54VEzHWStkx_42.268829_-71.267123@1303262230"
     },
-    "wof:country":"US",
-    "wof:created":1461741825,
-    "wof:geomhash":"562a78d52e204711d88c5446b9983303",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476585,
-            "locality_id":85950835,
-            "neighbourhood_id":85836459,
-            "region_id":85688645,
-            "venue_id":689189453
-        }
+    "wof:country": "US",
+    "wof:created": 1461741825,
+    "wof:geomhash": "562a78d52e204711d88c5446b9983303",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476585,
+        "locality_id": 85950835,
+        "neighbourhood_id": 85836459,
+        "region_id": 85688645,
+        "venue_id": 689189453
+      }
     ],
-    "wof:id":689189453,
-    "wof:lastmodified":1510944138,
-    "wof:name":"Temple Aliyah",
-    "wof:parent_id":85836459,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "synagogues-reform",
-        "church"
+    "wof:id": 689189453,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Temple Aliyah",
+    "wof:parent_id": 85836459,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "synagogues-reform",
+      "church"
     ]
-},
+  },
   "bbox": [
     -71.267123,
     42.268829,
     -71.267123,
     42.268829
-],
+  ],
   "geometry": {"coordinates":[-71.267123,42.268829],"type":"Point"}
 }

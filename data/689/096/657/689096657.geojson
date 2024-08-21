@@ -2,76 +2,79 @@
   "id": 689096657,
   "type": "Feature",
   "properties": {
-    "addr:full":"715 Somerville Ave Somerville MA 02143",
-    "addr:housenumber":"715",
-    "addr:postcode":"02143",
-    "addr:street":"Somerville Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.114356,42.385911,-71.114356,42.385911",
-    "geom:latitude":42.385911,
-    "geom:longitude":-71.114356,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"715 Somerville Ave",
-    "sg:city":"Somerville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "715 Somerville Ave Somerville MA 02143",
+    "addr:housenumber": "715",
+    "addr:postcode": "02143",
+    "addr:street": "Somerville Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.114356,42.385911,-71.114356,42.385911",
+    "geom:latitude": 42.385911,
+    "geom:longitude": -71.114356,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Showcase Laundromat, 715 Somerville Ave Somerville MA US",
+    "ovtr:similarity": 1.9870009422302246,
+    "sg:address": "715 Somerville Ave",
+    "sg:city": "Somerville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 776 3199",
-    "sg:postcode":"02143",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85881031,
-        102191575,
-        404476445,
-        85633793,
-        85950339,
-        102084643,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 776 3199",
+    "sg:postcode": "02143",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85881031,
+      102191575,
+      404476445,
+      85633793,
+      85950339,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0YPV8QiwDnAZiDfr1hqSRN_42.385911_-71.114356@1303262218"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306750d463403043ec566469562",
+      "sg:id": "SG_0YPV8QiwDnAZiDfr1hqSRN_42.385911_-71.114356@1303262218"
     },
-    "wof:country":"US",
-    "wof:created":1461739317,
-    "wof:geomhash":"730d59a03f78079b54105f46c23ba75c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476445,
-            "locality_id":85950339,
-            "neighbourhood_id":85881031,
-            "region_id":85688645,
-            "venue_id":689096657
-        }
+    "wof:country": "US",
+    "wof:created": 1461739317,
+    "wof:geomhash": "c8d5e5294252622f857d00b2c7cd09d1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476445,
+        "locality_id": 85950339,
+        "neighbourhood_id": 85881031,
+        "region_id": 85688645,
+        "venue_id": 689096657
+      }
     ],
-    "wof:id":689096657,
-    "wof:lastmodified":1489023746,
-    "wof:name":"Showcase Laundromat",
-    "wof:parent_id":85881031,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 689096657,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Showcase Laundromat",
+    "wof:parent_id": 85881031,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.114356,
     42.385911,
     -71.114356,
     42.385911
-],
+  ],
   "geometry": {"coordinates":[-71.114356,42.385911],"type":"Point"}
 }

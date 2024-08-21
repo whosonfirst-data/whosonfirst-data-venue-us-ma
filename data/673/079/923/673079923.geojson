@@ -2,76 +2,79 @@
   "id": 673079923,
   "type": "Feature",
   "properties": {
-    "addr:full":"614 Park St Stoughton MA 02072",
-    "addr:housenumber":"614",
-    "addr:postcode":"02072",
-    "addr:street":"Park St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.083603,42.117599,-71.083603,42.117599",
-    "geom:latitude":42.117599,
-    "geom:longitude":-71.083603,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"614 Park St",
-    "sg:city":"Stoughton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "614 Park St Stoughton MA 02072",
+    "addr:housenumber": "614",
+    "addr:postcode": "02072",
+    "addr:street": "Park St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.083603,42.117599,-71.083603,42.117599",
+    "geom:latitude": 42.117599,
+    "geom:longitude": -71.083603,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Rick's Automotive Sales \u0026 Service, 614 Park St Stoughton MA US",
+    "ovtr:similarity": 2.808927059173584,
+    "sg:address": "614 Park St",
+    "sg:city": "Stoughton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 341 9444",
-    "sg:postcode":"02072",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 341 9444",
+    "sg:postcode": "02072",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85850111,
-        102084403
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85850111,
+      102084403
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7TPHg3zW2iFe5ByVOjsSPS_42.118086_-71.084213@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33826231803035054afede6031b",
+      "sg:id": "SG_7TPHg3zW2iFe5ByVOjsSPS_42.118086_-71.084213@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733350,
-    "wof:geomhash":"fd3349666864b168746c838649c60f98",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084403,
-            "neighbourhood_id":85850111,
-            "region_id":85688645,
-            "venue_id":673079923
-        }
+    "wof:country": "US",
+    "wof:created": 1461733350,
+    "wof:geomhash": "37abcde801f8d0129f63265cd501956d",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "neighbourhood_id": 85850111,
+        "region_id": 85688645,
+        "venue_id": 673079923
+      }
     ],
-    "wof:id":673079923,
-    "wof:lastmodified":1472625244,
-    "wof:name":"Rick's Automotive Sales & Service",
-    "wof:parent_id":85850111,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 673079923,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Rick's Automotive Sales \u0026 Service",
+    "wof:parent_id": 85850111,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -71.083603,
     42.117599,
     -71.083603,
     42.117599
-],
+  ],
   "geometry": {"coordinates":[-71.083603,42.117599],"type":"Point"}
 }

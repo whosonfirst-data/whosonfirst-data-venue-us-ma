@@ -2,78 +2,81 @@
   "id": 673061979,
   "type": "Feature",
   "properties": {
-    "addr:full":"50 Main St Wellfleet MA 02667",
-    "addr:housenumber":"50",
-    "addr:postcode":"02667",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.02331,41.93826,-70.02331,41.93826",
-    "geom:latitude":41.93826,
-    "geom:longitude":-70.02331,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"50 Main St",
-    "sg:city":"Wellfleet",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "50 Main St Wellfleet MA 02667",
+    "addr:housenumber": "50",
+    "addr:postcode": "02667",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.023310,41.938260,-70.023310,41.938260",
+    "geom:latitude": 41.93826,
+    "geom:longitude": -70.02331,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "The Wicked Oyster, 50 Main St Wellfleet MA US",
+    "ovtr:similarity": 2.4114649295806885,
+    "sg:address": "50 Main St",
+    "sg:city": "Wellfleet",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 349 3455",
-    "sg:postcode":"02667",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85833071,
-        102084379,
-        85885313
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 349 3455",
+    "sg:postcode": "02667",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85833071,
+      102084379,
+      85885313
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4UqG2vrx1ScsLmdRCrwmng_41.937651_-70.022553@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a31111cce0a2039d78de96918655",
+      "sg:id": "SG_4UqG2vrx1ScsLmdRCrwmng_41.937651_-70.022553@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732992,
-    "wof:geomhash":"f8bf1ce0eb25d9ee62e4dd8fbf07b74b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "neighbourhood_id":85833071,
-            "region_id":85688645,
-            "venue_id":673061979
-        },
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "neighbourhood_id":85885313,
-            "region_id":85688645,
-            "venue_id":673061979
-        }
+    "wof:country": "US",
+    "wof:created": 1461732992,
+    "wof:geomhash": "f8bf1ce0eb25d9ee62e4dd8fbf07b74b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "neighbourhood_id": 85833071,
+        "region_id": 85688645,
+        "venue_id": 673061979
+      },
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "neighbourhood_id": 85885313,
+        "region_id": 85688645,
+        "venue_id": 673061979
+      }
     ],
-    "wof:id":673061979,
-    "wof:lastmodified":1492102386,
-    "wof:name":"The Wicked Oyster",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 673061979,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "The Wicked Oyster",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.02331,
     41.93826,
     -70.02331,
     41.93826
-],
+  ],
   "geometry": {"coordinates":[-70.02331,41.93826],"type":"Point"}
 }

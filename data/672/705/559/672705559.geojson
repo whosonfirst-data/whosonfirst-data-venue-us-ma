@@ -2,69 +2,72 @@
   "id": 672705559,
   "type": "Feature",
   "properties": {
-    "addr:full":"97 Main St North Easton MA 02356",
-    "addr:housenumber":"97",
-    "addr:postcode":"02356",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.102661,42.066119,-71.102661,42.066119",
-    "geom:latitude":42.066119,
-    "geom:longitude":-71.102661,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"97 Main St",
-    "sg:city":"North Easton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "97 Main St North Easton MA 02356",
+    "addr:housenumber": "97",
+    "addr:postcode": "02356",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.102661,42.066119,-71.102661,42.066119",
+    "geom:latitude": 42.066119,
+    "geom:longitude": -71.102661,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Bill's House of Pizza, 97 Main St North Easton MA US",
+    "ovtr:similarity": 2.499824047088623,
+    "sg:address": "97 Main St",
+    "sg:city": "North Easton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 230 2444",
-    "sg:postcode":"02356",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85813383,
-        102084407
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 230 2444",
+    "sg:postcode": "02356",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85813383,
+      102084407
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7mAdU4u9sGdELLrSEuogYe_42.066119_-71.102661@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3380505278b039948a7df02b149",
+      "sg:id": "SG_7mAdU4u9sGdELLrSEuogYe_42.066119_-71.102661@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461724986,
-    "wof:geomhash":"f54fd68b80a063bfa1c9952597866ab0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084407,
-            "neighbourhood_id":85813383,
-            "region_id":85688645,
-            "venue_id":672705559
-        }
+    "wof:country": "US",
+    "wof:created": 1461724986,
+    "wof:geomhash": "556e4b8a5f68f902f1e5f833c53c842b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "neighbourhood_id": 85813383,
+        "region_id": 85688645,
+        "venue_id": 672705559
+      }
     ],
-    "wof:id":672705559,
-    "wof:lastmodified":1472625947,
-    "wof:name":"Bill's House Of Pizza",
-    "wof:parent_id":85813383,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672705559,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Bill's House Of Pizza",
+    "wof:parent_id": 85813383,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.102661,
     42.066119,
     -71.102661,
     42.066119
-],
+  ],
   "geometry": {"coordinates":[-71.102661,42.066119],"type":"Point"}
 }

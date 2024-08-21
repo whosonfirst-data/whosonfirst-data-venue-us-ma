@@ -2,89 +2,92 @@
   "id": 673140849,
   "type": "Feature",
   "properties": {
-    "addr:full":"8 Lowell Rd Carlisle MA 01741",
-    "addr:housenumber":"8",
-    "addr:postcode":"01741",
-    "addr:street":"Lowell Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.34864,42.529553,-71.34864,42.529553",
-    "geom:latitude":42.529553,
-    "geom:longitude":-71.34864,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8 Lowell Rd",
-    "sg:city":"Carlisle",
-    "sg:classifiers":[
-        {
-            "category":"Deli",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "8 Lowell Rd Carlisle MA 01741",
+    "addr:housenumber": "8",
+    "addr:postcode": "01741",
+    "addr:street": "Lowell Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.348640,42.529553,-71.348640,42.529553",
+    "geom:latitude": 42.529553,
+    "geom:longitude": -71.34864,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Ferns Country Store, 8 Lowell St Carlisle MA US",
+    "ovtr:similarity": 3.061269998550415,
+    "sg:address": "8 Lowell Rd",
+    "sg:city": "Carlisle",
+    "sg:classifiers": [
+      {
+        "category": "Deli",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 369 0200",
-    "sg:postcode":"01741",
-    "sg:province":"MA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 369 0200",
+    "sg:postcode": "01741",
+    "sg:province": "MA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "sg:website":"www.FernsCountryStore.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85837157,
-        102084643
+    "sg:website": "www.FernsCountryStore.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85837157,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3RPytkOZcsrg0LJCa6fTSO_42.529553_-71.348640@1303262188"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3078a343b5803784c539331fe37",
+      "sg:id": "SG_3RPytkOZcsrg0LJCa6fTSO_42.529553_-71.348640@1303262188"
     },
-    "wof:country":"US",
-    "wof:created":1461734608,
-    "wof:geomhash":"5b873dd017dbcfafde24653913250369",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85837157,
-            "region_id":85688645,
-            "venue_id":673140849
-        }
+    "wof:country": "US",
+    "wof:created": 1461734608,
+    "wof:geomhash": "102d3abd415aa429deb863dea8d8c50a",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85837157,
+        "region_id": 85688645,
+        "venue_id": 673140849
+      }
     ],
-    "wof:id":673140849,
-    "wof:lastmodified":1472625403,
-    "wof:name":"Ferns Country Store",
-    "wof:parent_id":85837157,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 673140849,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Ferns Country Store",
+    "wof:parent_id": 85837157,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -71.34864,
     42.529553,
     -71.34864,
     42.529553
-],
+  ],
   "geometry": {"coordinates":[-71.34864,42.529553],"type":"Point"}
 }

@@ -2,76 +2,79 @@
   "id": 672977987,
   "type": "Feature",
   "properties": {
-    "addr:full":"85 Worcester St North Grafton MA 01536",
-    "addr:housenumber":"85",
-    "addr:postcode":"01536",
-    "addr:street":"Worcester St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.692493,42.215441,-71.692493,42.215441",
-    "geom:latitude":42.215441,
-    "geom:longitude":-71.692493,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"85 Worcester St",
-    "sg:city":"North Grafton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Car Wash",
-            "type":"Services"
-        }
+    "addr:full": "85 Worcester St North Grafton MA 01536",
+    "addr:housenumber": "85",
+    "addr:postcode": "01536",
+    "addr:street": "Worcester St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.692493,42.215441,-71.692493,42.215441",
+    "geom:latitude": 42.215441,
+    "geom:longitude": -71.692493,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Fitzy's Car Wash, 85 Worcester St Grafton MA US",
+    "ovtr:similarity": 3.951977014541626,
+    "sg:address": "85 Worcester St",
+    "sg:city": "North Grafton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Car Wash",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 839 5250",
-    "sg:postcode":"01536",
-    "sg:province":"MA",
-    "sg:tags":[
-        "polishing",
-        "washing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 839 5250",
+    "sg:postcode": "01536",
+    "sg:province": "MA",
+    "sg:tags": [
+      "polishing",
+      "washing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85804089,
-        102084655
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85804089,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3K2Rnyr598JxsxuEIMATJN_42.215441_-71.692493@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33c064e594b036d914f87e80829",
+      "sg:id": "SG_3K2Rnyr598JxsxuEIMATJN_42.215441_-71.692493@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461730986,
-    "wof:geomhash":"843167bc7d0af64bbbadeda77d35c7d0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85804089,
-            "region_id":85688645,
-            "venue_id":672977987
-        }
+    "wof:country": "US",
+    "wof:created": 1461730986,
+    "wof:geomhash": "c1b54c6eb6b52616ba732e117cf67498",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85804089,
+        "region_id": 85688645,
+        "venue_id": 672977987
+      }
     ],
-    "wof:id":672977987,
-    "wof:lastmodified":1472626195,
-    "wof:name":"Fitzy's Car Wash",
-    "wof:parent_id":85804089,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "polishing",
-        "washing"
+    "wof:id": 672977987,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Fitzy's Car Wash",
+    "wof:parent_id": 85804089,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "polishing",
+      "washing"
     ]
-},
+  },
   "bbox": [
     -71.692493,
     42.215441,
     -71.692493,
     42.215441
-],
+  ],
   "geometry": {"coordinates":[-71.692493,42.215441],"type":"Point"}
 }

@@ -2,82 +2,85 @@
   "id": 672361589,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 N Elm St Westfield MA 01085",
-    "addr:housenumber":"301",
-    "addr:postcode":"01085",
-    "addr:street":"N Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.736181,42.139117,-72.736181,42.139117",
-    "geom:latitude":42.139117,
-    "geom:longitude":-72.736181,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"301 N Elm St",
-    "sg:city":"Westfield",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "301 N Elm St Westfield MA 01085",
+    "addr:housenumber": "301",
+    "addr:postcode": "01085",
+    "addr:street": "N Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.736181,42.139117,-72.736181,42.139117",
+    "geom:latitude": 42.139117,
+    "geom:longitude": -72.736181,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Greg's Auto Repair, 301 N Elm St Westfield MA US",
+    "ovtr:similarity": 2.134061098098755,
+    "sg:address": "301 N Elm St",
+    "sg:city": "Westfield",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 562 9725",
-    "sg:postcode":"01085",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 562 9725",
+    "sg:postcode": "01085",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85831009,
-        102191575,
-        404476375,
-        85633793,
-        85950391,
-        102084627,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85831009,
+      102191575,
+      404476375,
+      85633793,
+      85950391,
+      102084627,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1jdn9rxblMGQifQ99qz9Zl_42.139117_-72.736181@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a14988caa0c203e64831f08aae23",
+      "sg:id": "SG_1jdn9rxblMGQifQ99qz9Zl_42.139117_-72.736181@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461717007,
-    "wof:geomhash":"e47f39d04cd0bedf621f661153cd2609",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084627,
-            "localadmin_id":404476375,
-            "locality_id":85950391,
-            "neighbourhood_id":85831009,
-            "region_id":85688645,
-            "venue_id":672361589
-        }
+    "wof:country": "US",
+    "wof:created": 1461717007,
+    "wof:geomhash": "5545a9541174161818118c3afb3f67b1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "localadmin_id": 404476375,
+        "locality_id": 85950391,
+        "neighbourhood_id": 85831009,
+        "region_id": 85688645,
+        "venue_id": 672361589
+      }
     ],
-    "wof:id":672361589,
-    "wof:lastmodified":1472625628,
-    "wof:name":"Greg's Auto Repair",
-    "wof:parent_id":85831009,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 672361589,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Greg's Auto Repair",
+    "wof:parent_id": 85831009,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -72.736181,
     42.139117,
     -72.736181,
     42.139117
-],
+  ],
   "geometry": {"coordinates":[-72.736181,42.139117],"type":"Point"}
 }

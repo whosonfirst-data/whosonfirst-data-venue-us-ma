@@ -2,74 +2,77 @@
   "id": 672965033,
   "type": "Feature",
   "properties": {
-    "addr:full":"1175 Main St Clinton MA 01510",
-    "addr:housenumber":"1175",
-    "addr:postcode":"01510",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.685614,42.434276,-71.685614,42.434276",
-    "geom:latitude":42.434276,
-    "geom:longitude":-71.685614,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1175 Main St",
-    "sg:city":"Clinton",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1175 Main St Clinton MA 01510",
+    "addr:housenumber": "1175",
+    "addr:postcode": "01510",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.685614,42.434276,-71.685614,42.434276",
+    "geom:latitude": 42.434276,
+    "geom:longitude": -71.685614,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Wine Merchant, 1175 Main St Clinton MA US",
+    "ovtr:similarity": 2.357858896255493,
+    "sg:address": "1175 Main St",
+    "sg:city": "Clinton",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 365 7031",
-    "sg:postcode":"01510",
-    "sg:province":"MA",
-    "sg:tags":[
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 365 7031",
+    "sg:postcode": "01510",
+    "sg:province": "MA",
+    "sg:tags": [
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85817199,
-        102084655
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85817199,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Wm13VPKId0q8b9jKwH5By_42.434276_-71.685614@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32a4328111803066ea9593ee7de",
+      "sg:id": "SG_6Wm13VPKId0q8b9jKwH5By_42.434276_-71.685614@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461730610,
-    "wof:geomhash":"a6792d517d9e5c7e745f0abd7f7b8162",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85817199,
-            "region_id":85688645,
-            "venue_id":672965033
-        }
+    "wof:country": "US",
+    "wof:created": 1461730610,
+    "wof:geomhash": "81a7c5a8b1a859270cddfee68cb47054",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85817199,
+        "region_id": 85688645,
+        "venue_id": 672965033
+      }
     ],
-    "wof:id":672965033,
-    "wof:lastmodified":1472626165,
-    "wof:name":"Wine Merchant",
-    "wof:parent_id":85817199,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wine"
+    "wof:id": 672965033,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Wine Merchant",
+    "wof:parent_id": 85817199,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wine"
     ]
-},
+  },
   "bbox": [
     -71.685614,
     42.434276,
     -71.685614,
     42.434276
-],
+  ],
   "geometry": {"coordinates":[-71.685614,42.434276],"type":"Point"}
 }

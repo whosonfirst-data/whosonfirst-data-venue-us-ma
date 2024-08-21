@@ -2,80 +2,83 @@
   "id": 672144437,
   "type": "Feature",
   "properties": {
-    "addr:full":"265 Main St Acushnet MA 02743",
-    "addr:housenumber":"265",
-    "addr:postcode":"02743",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.904582,41.690108,-70.904582,41.690108",
-    "geom:latitude":41.690108,
-    "geom:longitude":-70.904582,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"265 Main St",
-    "sg:city":"Acushnet",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "265 Main St Acushnet MA 02743",
+    "addr:housenumber": "265",
+    "addr:postcode": "02743",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.904582,41.690108,-70.904582,41.690108",
+    "geom:latitude": 41.690108,
+    "geom:longitude": -70.904582,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Acushnet Animal Hospital Inc, 265 Main St Acushnet MA US",
+    "ovtr:similarity": 2.7987380027770996,
+    "sg:address": "265 Main St",
+    "sg:city": "Acushnet",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 998 2148",
-    "sg:postcode":"02743",
-    "sg:province":"MA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 998 2148",
+    "sg:postcode": "02743",
+    "sg:province": "MA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85812593,
-        102191575,
-        404476163,
-        85633793,
-        85950667,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85812593,
+      102191575,
+      404476163,
+      85633793,
+      85950667,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5t1ZlIFxFvz7fPWogQxED5_41.690108_-70.904582@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33b5071d5830328985e390e9c13",
+      "sg:id": "SG_5t1ZlIFxFvz7fPWogQxED5_41.690108_-70.904582@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461712341,
-    "wof:geomhash":"800da2b72753336dcdc4d57c088b2ac8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476163,
-            "locality_id":85950667,
-            "neighbourhood_id":85812593,
-            "region_id":85688645,
-            "venue_id":672144437
-        }
+    "wof:country": "US",
+    "wof:created": 1461712341,
+    "wof:geomhash": "f780950618ca5f9a39f8374cc7d907c1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476163,
+        "locality_id": 85950667,
+        "neighbourhood_id": 85812593,
+        "region_id": 85688645,
+        "venue_id": 672144437
+      }
     ],
-    "wof:id":672144437,
-    "wof:lastmodified":1472624953,
-    "wof:name":"Acushnet Animal Hospital Inc",
-    "wof:parent_id":85812593,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 672144437,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Acushnet Animal Hospital Inc",
+    "wof:parent_id": 85812593,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -70.904582,
     41.690108,
     -70.904582,
     41.690108
-],
+  ],
   "geometry": {"coordinates":[-70.904582,41.690108],"type":"Point"}
 }

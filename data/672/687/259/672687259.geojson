@@ -2,83 +2,86 @@
   "id": 672687259,
   "type": "Feature",
   "properties": {
-    "addr:full":"63 Bridge St Salem MA 01970",
-    "addr:housenumber":"63",
-    "addr:postcode":"01970",
-    "addr:street":"Bridge St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.889242,42.530422,-70.889242,42.530422",
-    "geom:latitude":42.530422,
-    "geom:longitude":-70.889242,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"63 Bridge St",
-    "sg:city":"Salem",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Auto Parts",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "63 Bridge St Salem MA 01970",
+    "addr:housenumber": "63",
+    "addr:postcode": "01970",
+    "addr:street": "Bridge St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.889242,42.530422,-70.889242,42.530422",
+    "geom:latitude": 42.530422,
+    "geom:longitude": -70.889242,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Brake \u0026 Clutch Inc., 63 Bridge St Salem MA US",
+    "ovtr:similarity": 2.6756598949432373,
+    "sg:address": "63 Bridge St",
+    "sg:city": "Salem",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Auto Parts",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 745 2500",
-    "sg:postcode":"01970",
-    "sg:province":"MA",
-    "sg:tags":[
-        "equipment",
-        "truck"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 745 2500",
+    "sg:postcode": "01970",
+    "sg:province": "MA",
+    "sg:tags": [
+      "equipment",
+      "truck"
     ],
-    "sg:website":"www.brakeandclutch.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523449,
-        102191575,
-        404476213,
-        85633793,
-        85950403,
-        102084463,
-        85688645
+    "sg:website": "www.brakeandclutch.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523449,
+      102191575,
+      404476213,
+      85633793,
+      85950403,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0ZNvHChsG3tRAr16XIvVmr_42.530422_-70.889242@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a300c8215d460332070ec3bf362e",
+      "sg:id": "SG_0ZNvHChsG3tRAr16XIvVmr_42.530422_-70.889242@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461724571,
-    "wof:geomhash":"53570d957feb7444f132678eb23253c9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476213,
-            "locality_id":85950403,
-            "neighbourhood_id":420523449,
-            "region_id":85688645,
-            "venue_id":672687259
-        }
+    "wof:country": "US",
+    "wof:created": 1461724571,
+    "wof:geomhash": "6624f233ae07eb076a3d4ef176ff444c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476213,
+        "locality_id": 85950403,
+        "neighbourhood_id": 420523449,
+        "region_id": 85688645,
+        "venue_id": 672687259
+      }
     ],
-    "wof:id":672687259,
-    "wof:lastmodified":1472625925,
-    "wof:name":"Brake & Clutch Inc",
-    "wof:parent_id":420523449,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "equipment",
-        "truck"
+    "wof:id": 672687259,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Brake \u0026 Clutch Inc",
+    "wof:parent_id": 420523449,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "equipment",
+      "truck"
     ]
-},
+  },
   "bbox": [
     -70.889242,
     42.530422,
     -70.889242,
     42.530422
-],
+  ],
   "geometry": {"coordinates":[-70.889242,42.530422],"type":"Point"}
 }

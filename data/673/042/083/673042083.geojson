@@ -2,82 +2,85 @@
   "id": 673042083,
   "type": "Feature",
   "properties": {
-    "addr:full":"116 Central St Peabody MA 01960",
-    "addr:housenumber":"116",
-    "addr:postcode":"01960",
-    "addr:street":"Central St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.928207,42.534061,-70.928207,42.534061",
-    "geom:latitude":42.534061,
-    "geom:longitude":-70.928207,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"116 Central St",
-    "sg:city":"Peabody",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "116 Central St Peabody MA 01960",
+    "addr:housenumber": "116",
+    "addr:postcode": "01960",
+    "addr:street": "Central St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.928207,42.534061,-70.928207,42.534061",
+    "geom:latitude": 42.534061,
+    "geom:longitude": -70.928207,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Town Variety, 116 Central St Peabody MA US",
+    "ovtr:similarity": 2.5884580612182617,
+    "sg:address": "116 Central St",
+    "sg:city": "Peabody",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 531 1908",
-    "sg:postcode":"01960",
-    "sg:province":"MA",
-    "sg:tags":[
-        "market",
-        "variety"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 531 1908",
+    "sg:postcode": "01960",
+    "sg:province": "MA",
+    "sg:tags": [
+      "market",
+      "variety"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891477,
-        102191575,
-        404476253,
-        85633793,
-        85950407,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85891477,
+      102191575,
+      404476253,
+      85633793,
+      85950407,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1lKKWqAVs7ytEO7guCJu73_42.534366_-70.928367@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a300ca62057303c46c0efff38a82",
+      "sg:id": "SG_1lKKWqAVs7ytEO7guCJu73_42.534366_-70.928367@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732590,
-    "wof:geomhash":"2857803f58268c7b590ca59d8e7a66de",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476253,
-            "locality_id":85950407,
-            "neighbourhood_id":85891477,
-            "region_id":85688645,
-            "venue_id":673042083
-        }
+    "wof:country": "US",
+    "wof:created": 1461732590,
+    "wof:geomhash": "7f86749f733aaf40d060427424d05f95",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476253,
+        "locality_id": 85950407,
+        "neighbourhood_id": 85891477,
+        "region_id": 85688645,
+        "venue_id": 673042083
+      }
     ],
-    "wof:id":673042083,
-    "wof:lastmodified":1472625059,
-    "wof:name":"Town Variety",
-    "wof:parent_id":85891477,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "market",
-        "variety"
+    "wof:id": 673042083,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Town Variety",
+    "wof:parent_id": 85891477,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "market",
+      "variety"
     ]
-},
+  },
   "bbox": [
     -70.928207,
     42.534061,
     -70.928207,
     42.534061
-],
+  ],
   "geometry": {"coordinates":[-70.928207,42.534061],"type":"Point"}
 }

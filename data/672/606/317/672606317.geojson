@@ -2,70 +2,73 @@
   "id": 672606317,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 Union St Clinton MA 01510",
-    "addr:housenumber":"101",
-    "addr:postcode":"01510",
-    "addr:street":"Union St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.68457,42.41594,-71.68457,42.41594",
-    "geom:latitude":42.41594,
-    "geom:longitude":-71.68457,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 Union St",
-    "sg:city":"Clinton",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Rubber & Plastics",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "101 Union St Clinton MA 01510",
+    "addr:housenumber": "101",
+    "addr:postcode": "01510",
+    "addr:street": "Union St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.684570,42.415940,-71.684570,42.415940",
+    "geom:latitude": 42.41594,
+    "geom:longitude": -71.68457,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Nypro Inc, 101 Union St Clinton MA US",
+    "ovtr:similarity": 2.1050500869750977,
+    "sg:address": "101 Union St",
+    "sg:city": "Clinton",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Rubber \u0026 Plastics",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 365 9721",
-    "sg:postcode":"01510",
-    "sg:province":"MA",
-    "sg:website":"www.nypro.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85817199,
-        102084655
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 365 9721",
+    "sg:postcode": "01510",
+    "sg:province": "MA",
+    "sg:website": "www.nypro.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85817199,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3KRjPVGkGFCAnHsG4wUG8q_42.415940_-71.684570@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32a4ada132d032470f8c20f42be",
+      "sg:id": "SG_3KRjPVGkGFCAnHsG4wUG8q_42.415940_-71.684570@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461722742,
-    "wof:geomhash":"64e57b8368a7cdbc48561f15e5f52515",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85817199,
-            "region_id":85688645,
-            "venue_id":672606317
-        }
+    "wof:country": "US",
+    "wof:created": 1461722742,
+    "wof:geomhash": "0588c98525a9fec681c3e959c8a63395",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85817199,
+        "region_id": 85688645,
+        "venue_id": 672606317
+      }
     ],
-    "wof:id":672606317,
-    "wof:lastmodified":1472625859,
-    "wof:name":"Nypro Inc",
-    "wof:parent_id":85817199,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672606317,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Nypro Inc",
+    "wof:parent_id": 85817199,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.68457,
     42.41594,
     -71.68457,
     42.41594
-],
-  "geometry": {"coordinates":[-71.68456999999999,42.41594],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.68457,42.41594],"type":"Point"}
 }

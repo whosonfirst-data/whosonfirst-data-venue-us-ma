@@ -2,72 +2,75 @@
   "id": 656402721,
   "type": "Feature",
   "properties": {
-    "addr:full":"3668 Main St Brewster MA 02631",
-    "addr:housenumber":"3668",
-    "addr:postcode":"02631",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.028175,41.775588,-70.028175,41.775588",
-    "geom:latitude":41.775588,
-    "geom:longitude":-70.028175,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3668 Main St",
-    "sg:city":"Brewster",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3668 Main St Brewster MA 02631",
+    "addr:housenumber": "3668",
+    "addr:postcode": "02631",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.028175,41.775588,-70.028175,41.775588",
+    "geom:latitude": 41.775588,
+    "geom:longitude": -70.028175,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Laurino's Tavern, 3668 Main St Brewster MA US",
+    "ovtr:similarity": 1.9871799945831299,
+    "sg:address": "3668 Main St",
+    "sg:city": "Brewster",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 896 6135",
-    "sg:postcode":"02631",
-    "sg:province":"MA",
-    "sg:website":"www.laurinos.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950529,
-        102084379,
-        85816043
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 896 6135",
+    "sg:postcode": "02631",
+    "sg:province": "MA",
+    "sg:website": "www.laurinos.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950529,
+      102084379,
+      85816043
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2uqehfacXCZz2W7cIBJjt6_41.775588_-70.028175@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3102a2037a50349c06b3f3b7d65",
+      "sg:id": "SG_2uqehfacXCZz2W7cIBJjt6_41.775588_-70.028175@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461712064,
-    "wof:geomhash":"0a77ae7af89b6f84cc22d07aacdf2a94",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "locality_id":85950529,
-            "neighbourhood_id":85816043,
-            "region_id":85688645,
-            "venue_id":656402721
-        }
+    "wof:country": "US",
+    "wof:created": 1461712064,
+    "wof:geomhash": "ff64e1a9cb6596078ff8bece40f015d7",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "locality_id": 85950529,
+        "neighbourhood_id": 85816043,
+        "region_id": 85688645,
+        "venue_id": 656402721
+      }
     ],
-    "wof:id":656402721,
-    "wof:lastmodified":1472625097,
-    "wof:name":"Laurino's Tavern",
-    "wof:parent_id":85816043,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 656402721,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Laurino's Tavern",
+    "wof:parent_id": 85816043,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.028175,
     41.775588,
     -70.028175,
     41.775588
-],
+  ],
   "geometry": {"coordinates":[-70.028175,41.775588],"type":"Point"}
 }

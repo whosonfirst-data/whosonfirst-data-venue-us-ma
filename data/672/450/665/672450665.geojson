@@ -2,69 +2,72 @@
   "id": 672450665,
   "type": "Feature",
   "properties": {
-    "addr:full":"12 Boylston St Worcester MA 01605",
-    "addr:housenumber":"12",
-    "addr:postcode":"01605",
-    "addr:street":"Boylston St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.765549,42.300109,-71.765549,42.300109",
-    "geom:latitude":42.300109,
-    "geom:longitude":-71.765549,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12 Boylston St",
-    "sg:city":"Worcester",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "12 Boylston St Worcester MA 01605",
+    "addr:housenumber": "12",
+    "addr:postcode": "01605",
+    "addr:street": "Boylston St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.765549,42.300109,-71.765549,42.300109",
+    "geom:latitude": 42.300109,
+    "geom:longitude": -71.765549,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Valley Liquors, 12 Boylston St Worcester MA US",
+    "ovtr:similarity": 2.5205390453338623,
+    "sg:address": "12 Boylston St",
+    "sg:city": "Worcester",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 595 0488",
-    "sg:postcode":"01605",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85822675,
-        102084655
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 595 0488",
+    "sg:postcode": "01605",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85822675,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6qgm9squbivjvrYcdv68uY_42.300109_-71.765549@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33d8e915d09034dee0b65cc2280",
+      "sg:id": "SG_6qgm9squbivjvrYcdv68uY_42.300109_-71.765549@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461719194,
-    "wof:geomhash":"524fbc89ec072748f22aa4ae1ac1e109",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85822675,
-            "region_id":85688645,
-            "venue_id":672450665
-        }
+    "wof:country": "US",
+    "wof:created": 1461719194,
+    "wof:geomhash": "89903db60c89b4076672bb590d3223fc",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85822675,
+        "region_id": 85688645,
+        "venue_id": 672450665
+      }
     ],
-    "wof:id":672450665,
-    "wof:lastmodified":1472625718,
-    "wof:name":"Valley Liquors",
-    "wof:parent_id":85822675,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672450665,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Valley Liquors",
+    "wof:parent_id": 85822675,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.765549,
     42.300109,
     -71.765549,
     42.300109
-],
-  "geometry": {"coordinates":[-71.76554899999999,42.300109],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.765549,42.300109],"type":"Point"}
 }

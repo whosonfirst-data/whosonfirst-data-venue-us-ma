@@ -2,62 +2,69 @@
   "id": 672719903,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 Olney St Seekonk MA 02771",
-    "addr:housenumber":"10",
-    "addr:postcode":"02771",
-    "addr:street":"Olney St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.318786,41.813538,-71.318786,41.813538",
-    "geom:latitude":41.813538,
-    "geom:longitude":-71.318786,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10 Olney St",
-    "sg:city":"Seekonk",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "10 Olney St Seekonk MA 02771",
+    "addr:housenumber": "10",
+    "addr:postcode": "02771",
+    "addr:street": "Olney St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.318786,41.813538,-71.318786,41.813538",
+    "geom:latitude": 41.813538,
+    "geom:longitude": -71.318786,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Scialo's County Bakery, 10 Olney St Seekonk MA US",
+    "ovtr:similarity": 2.5221409797668457,
+    "sg:address": "10 Olney St",
+    "sg:city": "Seekonk",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 336 8312",
-    "sg:postcode":"02771",
-    "sg:province":"MA",
-    "sg:tags":[
-        "baker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 336 8312",
+    "sg:postcode": "02771",
+    "sg:province": "MA",
+    "sg:tags": [
+      "baker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_50GmYiUdlJk8JME3ms5ED5_41.813538_-71.318786@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33145d61aea0350b0f532b6f17a",
+      "sg:id": "SG_50GmYiUdlJk8JME3ms5ED5_41.813538_-71.318786@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461725295,
-    "wof:geomhash":"8965f58662643f67da81a842bc95e53d",
-    "wof:hierarchy":[],
-    "wof:id":672719903,
-    "wof:lastmodified":1492117827,
-    "wof:name":"Scialo's County Bakery",
-    "wof:parent_id":85831719,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "baker"
+    "wof:country": "US",
+    "wof:created": 1461725295,
+    "wof:geomhash": "8965f58662643f67da81a842bc95e53d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672719903
+      }
+    ],
+    "wof:id": 672719903,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Scialo's County Bakery",
+    "wof:parent_id": 85831719,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "baker"
     ]
-},
+  },
   "bbox": [
     -71.318786,
     41.813538,
     -71.318786,
     41.813538
-],
+  ],
   "geometry": {"coordinates":[-71.318786,41.813538],"type":"Point"}
 }

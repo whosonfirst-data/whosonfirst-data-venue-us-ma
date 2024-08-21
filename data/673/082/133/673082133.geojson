@@ -2,83 +2,86 @@
   "id": 673082133,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 Main St North Adams MA 01247",
-    "addr:housenumber":"1",
-    "addr:postcode":"01247",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.1156,42.700311,-73.1156,42.700311",
-    "geom:latitude":42.700311,
-    "geom:longitude":-73.1156,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"1 Main St",
-    "sg:city":"North Adams",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1 Main St North Adams MA 01247",
+    "addr:housenumber": "1",
+    "addr:postcode": "01247",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.115600,42.700311,-73.115600,42.700311",
+    "geom:latitude": 42.700311,
+    "geom:longitude": -73.1156,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Subway, 1 Main St North Adams MA US",
+    "ovtr:similarity": 3.405203104019165,
+    "sg:address": "1 Main St",
+    "sg:city": "North Adams",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/north-adams/131713-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 664 8020",
-    "sg:postcode":"01247",
-    "sg:province":"MA",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/ma/north-adams/131713-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 664 8020",
+    "sg:postcode": "01247",
+    "sg:province": "MA",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950323,
-        102084369,
-        85826343
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950323,
+      102084369,
+      85826343
     ],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2338963626,
-        "sg:id":"SG_54ND0YIMEPIyKsC6Qd0MRg_42.700311_-73.115600@1299784598"
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2338963626,
+      "ovtr:id": "08f2b89b28d0eca203bd1865a75ae2c2",
+      "sg:id": "SG_54ND0YIMEPIyKsC6Qd0MRg_42.700311_-73.115600@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461733395,
-    "wof:geomhash":"dd495c565abd6d8bfdd53ad37cc65900",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084369,
-            "locality_id":85950323,
-            "neighbourhood_id":85826343,
-            "region_id":85688645,
-            "venue_id":673082133
-        }
+    "wof:country": "US",
+    "wof:created": 1461733395,
+    "wof:geomhash": "dd495c565abd6d8bfdd53ad37cc65900",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084369,
+        "locality_id": 85950323,
+        "neighbourhood_id": 85826343,
+        "region_id": 85688645,
+        "venue_id": 673082133
+      }
     ],
-    "wof:id":673082133,
-    "wof:lastmodified":1511322281,
-    "wof:name":"Subway",
-    "wof:parent_id":85826343,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:id": 673082133,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Subway",
+    "wof:parent_id": 85826343,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -73.1156,
     42.700311,
     -73.1156,
     42.700311
-],
+  ],
   "geometry": {"coordinates":[-73.1156,42.700311],"type":"Point"}
 }

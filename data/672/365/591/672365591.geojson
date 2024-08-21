@@ -2,79 +2,82 @@
   "id": 672365591,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 Main St Hyannis MA 02601",
-    "addr:housenumber":"401",
-    "addr:postcode":"02601",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.284534,41.652497,-70.284534,41.652497",
-    "geom:latitude":41.652497,
-    "geom:longitude":-70.284534,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"401 Main St",
-    "sg:city":"Hyannis",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "401 Main St Hyannis MA 02601",
+    "addr:housenumber": "401",
+    "addr:postcode": "02601",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.284534,41.652497,-70.284534,41.652497",
+    "geom:latitude": 41.652497,
+    "geom:longitude": -70.284534,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Hyannis Public Library, 401 Main St Hyannis MA US",
+    "ovtr:similarity": 2.514683961868286,
+    "sg:address": "401 Main St",
+    "sg:city": "Hyannis",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 775 2280",
-    "sg:postcode":"02601",
-    "sg:province":"MA",
-    "sg:website":"www.hyannislibrary.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811889,
-        102191575,
-        404475893,
-        85633793,
-        85950321,
-        102084379,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 775 2280",
+    "sg:postcode": "02601",
+    "sg:province": "MA",
+    "sg:website": "www.hyannislibrary.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811889,
+      102191575,
+      404475893,
+      85633793,
+      85950321,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":211860198,
-        "sg:id":"SG_5JN8qDSu5LPHXCPQboCVNE_41.652497_-70.284534@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 211860198,
+      "ovtr:id": "08f2a3172da9c50603d0a5a6eec3c612",
+      "sg:id": "SG_5JN8qDSu5LPHXCPQboCVNE_41.652497_-70.284534@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461717109,
-    "wof:geomhash":"ce9d778b347011810125ff128f0dbf40",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475893,
-            "locality_id":85950321,
-            "neighbourhood_id":85811889,
-            "region_id":85688645,
-            "venue_id":672365591
-        }
+    "wof:country": "US",
+    "wof:created": 1461717109,
+    "wof:geomhash": "ce9d778b347011810125ff128f0dbf40",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475893,
+        "locality_id": 85950321,
+        "neighbourhood_id": 85811889,
+        "region_id": 85688645,
+        "venue_id": 672365591
+      }
     ],
-    "wof:id":672365591,
-    "wof:lastmodified":1510942530,
-    "wof:name":"Hyannis Public Library",
-    "wof:parent_id":85811889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672365591,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Hyannis Public Library",
+    "wof:parent_id": 85811889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.284534,
     41.652497,
     -70.284534,
     41.652497
-],
-  "geometry": {"coordinates":[-70.28453399999999,41.652497],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.284534,41.652497],"type":"Point"}
 }

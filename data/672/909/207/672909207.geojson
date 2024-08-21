@@ -2,70 +2,73 @@
   "id": 672909207,
   "type": "Feature",
   "properties": {
-    "addr:full":"287 Cedar St Hanover MA 02339",
-    "addr:housenumber":"287",
-    "addr:postcode":"02339",
-    "addr:street":"Cedar St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.873085,42.128412,-70.873085,42.128412",
-    "geom:latitude":42.128412,
-    "geom:longitude":-70.873085,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"287 Cedar St",
-    "sg:city":"Hanover",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "287 Cedar St Hanover MA 02339",
+    "addr:housenumber": "287",
+    "addr:postcode": "02339",
+    "addr:street": "Cedar St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.873085,42.128412,-70.873085,42.128412",
+    "geom:latitude": 42.128412,
+    "geom:longitude": -70.873085,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Hanover High School, 287 Cedar St Hanover MA US",
+    "ovtr:similarity": 3.618896007537842,
+    "sg:address": "287 Cedar St",
+    "sg:city": "Hanover",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 878 5450",
-    "sg:postcode":"02339",
-    "sg:province":"MA",
-    "sg:website":"www.hanoverschools.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85833789,
-        102084367
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 878 5450",
+    "sg:postcode": "02339",
+    "sg:province": "MA",
+    "sg:website": "www.hanoverschools.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85833789,
+      102084367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4lnE8csAVFBX4NRTyF3mhH_42.128412_-70.873085@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33966c712db03ba2a32e2ccb76a",
+      "sg:id": "SG_4lnE8csAVFBX4NRTyF3mhH_42.128412_-70.873085@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461729221,
-    "wof:geomhash":"77845096b2e562725b806c52ad8103ad",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084367,
-            "neighbourhood_id":85833789,
-            "region_id":85688645,
-            "venue_id":672909207
-        }
+    "wof:country": "US",
+    "wof:created": 1461729221,
+    "wof:geomhash": "1d165a1f7507d4b47796ff928c9aa706",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "neighbourhood_id": 85833789,
+        "region_id": 85688645,
+        "venue_id": 672909207
+      }
     ],
-    "wof:id":672909207,
-    "wof:lastmodified":1472626122,
-    "wof:name":"Hanover High School",
-    "wof:parent_id":85833789,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672909207,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Hanover High School",
+    "wof:parent_id": 85833789,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.873085,
     42.128412,
     -70.873085,
     42.128412
-],
+  ],
   "geometry": {"coordinates":[-70.873085,42.128412],"type":"Point"}
 }

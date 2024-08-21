@@ -2,84 +2,87 @@
   "id": 673085545,
   "type": "Feature",
   "properties": {
-    "addr:full":"52 Main St North Reading MA 01864",
-    "addr:housenumber":"52",
-    "addr:postcode":"01864",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.11016,42.569873,-71.11016,42.569873",
-    "geom:latitude":42.569873,
-    "geom:longitude":-71.11016,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"52 Main St",
-    "sg:city":"North Reading",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "52 Main St North Reading MA 01864",
+    "addr:housenumber": "52",
+    "addr:postcode": "01864",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.110160,42.569873,-71.110160,42.569873",
+    "geom:latitude": 42.569873,
+    "geom:longitude": -71.11016,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Wendy's, 52 Main St North Reading MA US",
+    "ovtr:similarity": 2.99605393409729,
+    "sg:address": "52 Main St",
+    "sg:city": "North Reading",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/north-reading/173292-wendys/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 664 3018",
-    "sg:postcode":"01864",
-    "sg:province":"MA",
-    "sg:tags":[
-        "burger",
-        "american",
-        "soup"
+    "sg:menulink": "http://www.allmenus.com/ma/north-reading/173292-wendys/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 664 3018",
+    "sg:postcode": "01864",
+    "sg:province": "MA",
+    "sg:tags": [
+      "burger",
+      "american",
+      "soup"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        102191575,
-        404476013,
-        85633793,
-        102084643
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      102191575,
+      404476013,
+      85633793,
+      102084643
     ],
-    "wof:brand_id":420573903,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_63v1wUOdUKy5YK4W38aCrI_42.569873_-71.110160@1299784598"
+    "wof:brand_id": 420573903,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3070174d52a0383f678e4c30e48",
+      "sg:id": "SG_63v1wUOdUKy5YK4W38aCrI_42.569873_-71.110160@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461733469,
-    "wof:geomhash":"d02c067bac66eb3437476738fcea729b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476013,
-            "region_id":85688645,
-            "venue_id":673085545
-        }
+    "wof:country": "US",
+    "wof:created": 1461733469,
+    "wof:geomhash": "d02c067bac66eb3437476738fcea729b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476013,
+        "region_id": 85688645,
+        "venue_id": 673085545
+      }
     ],
-    "wof:id":673085545,
-    "wof:lastmodified":1511322577,
-    "wof:name":"Wendy's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american",
-        "soup"
+    "wof:id": 673085545,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Wendy's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american",
+      "soup"
     ]
-},
+  },
   "bbox": [
     -71.11016,
     42.569873,
     -71.11016,
     42.569873
-],
-  "geometry": {"coordinates":[-71.11015999999999,42.569873],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.11016,42.569873],"type":"Point"}
 }

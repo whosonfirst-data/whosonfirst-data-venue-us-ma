@@ -2,75 +2,78 @@
   "id": 672951133,
   "type": "Feature",
   "properties": {
-    "addr:full":"17 Market St Northampton MA 01060",
-    "addr:housenumber":"17",
-    "addr:postcode":"01060",
-    "addr:street":"Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.628621,42.321046,-72.628621,42.321046",
-    "geom:latitude":42.321046,
-    "geom:longitude":-72.628621,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"17 Market St",
-    "sg:city":"Northampton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "17 Market St Northampton MA 01060",
+    "addr:housenumber": "17",
+    "addr:postcode": "01060",
+    "addr:street": "Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.628621,42.321046,-72.628621,42.321046",
+    "geom:latitude": 42.321046,
+    "geom:longitude": -72.628621,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Market Street Laundry, 17 Market St Northampton MA US",
+    "ovtr:similarity": 2.8638079166412354,
+    "sg:address": "17 Market St",
+    "sg:city": "Northampton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 582 0433",
-    "sg:postcode":"01060",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85841755,
-        102191575,
-        404476303,
-        85633793,
-        85950433,
-        102084459,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 582 0433",
+    "sg:postcode": "01060",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85841755,
+      102191575,
+      404476303,
+      85633793,
+      85950433,
+      102084459,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_07etcfQwrNjQ7fOs7QVOUL_42.321046_-72.628621@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32640b3402a0351341063392346",
+      "sg:id": "SG_07etcfQwrNjQ7fOs7QVOUL_42.321046_-72.628621@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461730156,
-    "wof:geomhash":"85383fa5fb55cb31305eb534ef7d92da",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084459,
-            "localadmin_id":404476303,
-            "locality_id":85950433,
-            "neighbourhood_id":85841755,
-            "region_id":85688645,
-            "venue_id":672951133
-        }
+    "wof:country": "US",
+    "wof:created": 1461730156,
+    "wof:geomhash": "4c796449d0a15c30c8811562e3f64a34",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084459,
+        "localadmin_id": 404476303,
+        "locality_id": 85950433,
+        "neighbourhood_id": 85841755,
+        "region_id": 85688645,
+        "venue_id": 672951133
+      }
     ],
-    "wof:id":672951133,
-    "wof:lastmodified":1472626155,
-    "wof:name":"Market Street Laundry",
-    "wof:parent_id":85841755,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672951133,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Market Street Laundry",
+    "wof:parent_id": 85841755,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -72.628621,
     42.321046,
     -72.628621,
     42.321046
-],
+  ],
   "geometry": {"coordinates":[-72.628621,42.321046],"type":"Point"}
 }

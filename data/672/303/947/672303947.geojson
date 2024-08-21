@@ -2,69 +2,72 @@
   "id": 672303947,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 Park St Andover MA 01810",
-    "addr:housenumber":"10",
-    "addr:postcode":"01810",
-    "addr:street":"Park St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.139078,42.656715,-71.139078,42.656715",
-    "geom:latitude":42.656715,
-    "geom:longitude":-71.139078,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10 Park St",
-    "sg:city":"Andover",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Used Merchandise",
-            "type":"Retail Goods"
-        }
+    "addr:full": "10 Park St Andover MA 01810",
+    "addr:housenumber": "10",
+    "addr:postcode": "01810",
+    "addr:street": "Park St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.139078,42.656715,-71.139078,42.656715",
+    "geom:latitude": 42.656715,
+    "geom:longitude": -71.139078,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Andover Thrift Shop, 10 Park St Andover MA US",
+    "ovtr:similarity": 3.007201910018921,
+    "sg:address": "10 Park St",
+    "sg:city": "Andover",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Used Merchandise",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 475 0957",
-    "sg:postcode":"01810",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85855177,
-        102084463
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 475 0957",
+    "sg:postcode": "01810",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85855177,
+      102084463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0YSTU2QAYQr8i8ULeqaJtI_42.656715_-71.139078@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30730cceccd0334722aa384cdd8",
+      "sg:id": "SG_0YSTU2QAYQr8i8ULeqaJtI_42.656715_-71.139078@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715683,
-    "wof:geomhash":"e2e7d697005696c7fe183f15ede34496",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85855177,
-            "region_id":85688645,
-            "venue_id":672303947
-        }
+    "wof:country": "US",
+    "wof:created": 1461715683,
+    "wof:geomhash": "bb465627e3ec223eab1d7b5556ade94e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "neighbourhood_id": 85855177,
+        "region_id": 85688645,
+        "venue_id": 672303947
+      }
     ],
-    "wof:id":672303947,
-    "wof:lastmodified":1472625535,
-    "wof:name":"Andover Thrift Shop",
-    "wof:parent_id":85855177,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672303947,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Andover Thrift Shop",
+    "wof:parent_id": 85855177,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.139078,
     42.656715,
     -71.139078,
     42.656715
-],
+  ],
   "geometry": {"coordinates":[-71.139078,42.656715],"type":"Point"}
 }

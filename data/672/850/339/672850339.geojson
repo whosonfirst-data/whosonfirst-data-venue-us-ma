@@ -2,80 +2,83 @@
   "id": 672850339,
   "type": "Feature",
   "properties": {
-    "addr:full":"2301 Purchase St New Bedford MA 02746",
-    "addr:housenumber":"2301",
-    "addr:postcode":"02746",
-    "addr:street":"Purchase St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.933771,41.659389,-70.933771,41.659389",
-    "geom:latitude":41.659389,
-    "geom:longitude":-70.933771,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2301 Purchase St",
-    "sg:city":"New Bedford",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2301 Purchase St New Bedford MA 02746",
+    "addr:housenumber": "2301",
+    "addr:postcode": "02746",
+    "addr:street": "Purchase St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.933771,41.659389,-70.933771,41.659389",
+    "geom:latitude": 41.659389,
+    "geom:longitude": -70.933771,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Charlie's Pizza, 2301 Purchase St New Bedford MA US",
+    "ovtr:similarity": 3.739301919937134,
+    "sg:address": "2301 Purchase St",
+    "sg:city": "New Bedford",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 997 5656",
-    "sg:postcode":"02746",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 997 5656",
+    "sg:postcode": "02746",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85835615,
-        102191575,
-        404476131,
-        85633793,
-        85950367,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85835615,
+      102191575,
+      404476131,
+      85633793,
+      85950367,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7L1Drga1xQVSf9ccuMDNqP_41.659389_-70.933771@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33a2d544045036eeec6381bad70",
+      "sg:id": "SG_7L1Drga1xQVSf9ccuMDNqP_41.659389_-70.933771@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461728001,
-    "wof:geomhash":"b4f2843065aa9023b13a00888fa6d987",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476131,
-            "locality_id":85950367,
-            "neighbourhood_id":85835615,
-            "region_id":85688645,
-            "venue_id":672850339
-        }
+    "wof:country": "US",
+    "wof:created": 1461728001,
+    "wof:geomhash": "2761c54470cc5702b001dbc733a31d74",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476131,
+        "locality_id": 85950367,
+        "neighbourhood_id": 85835615,
+        "region_id": 85688645,
+        "venue_id": 672850339
+      }
     ],
-    "wof:id":672850339,
-    "wof:lastmodified":1472626077,
-    "wof:name":"Charlie's Pizza House",
-    "wof:parent_id":85835615,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 672850339,
+    "wof:lastmodified": 1724253278,
+    "wof:name": "Charlie's Pizza House",
+    "wof:parent_id": 85835615,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -70.933771,
     41.659389,
     -70.933771,
     41.659389
-],
-  "geometry": {"coordinates":[-70.93377099999999,41.659389],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.933771,41.659389],"type":"Point"}
 }

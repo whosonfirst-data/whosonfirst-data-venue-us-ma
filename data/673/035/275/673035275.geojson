@@ -2,82 +2,85 @@
   "id": 673035275,
   "type": "Feature",
   "properties": {
-    "addr:full":"95 Central St Wellesley MA 02482",
-    "addr:housenumber":"95",
-    "addr:postcode":"02482",
-    "addr:street":"Central St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.298383,42.295912,-71.298383,42.295912",
-    "geom:latitude":42.295912,
-    "geom:longitude":-71.298383,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"95 Central St",
-    "sg:city":"Wellesley",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "95 Central St Wellesley MA 02482",
+    "addr:housenumber": "95",
+    "addr:postcode": "02482",
+    "addr:street": "Central St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.298383,42.295912,-71.298383,42.295912",
+    "geom:latitude": 42.295912,
+    "geom:longitude": -71.298383,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Grettacole, 95 Central St Wellesley MA US",
+    "ovtr:similarity": 2.5354080200195312,
+    "sg:address": "95 Central St",
+    "sg:city": "Wellesley",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 237 5201",
-    "sg:postcode":"02482",
-    "sg:province":"MA",
-    "sg:tags":[
-        "spa",
-        "day"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 237 5201",
+    "sg:postcode": "02482",
+    "sg:province": "MA",
+    "sg:tags": [
+      "spa",
+      "day"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891553,
-        102191575,
-        404476601,
-        85633793,
-        85950847,
-        102084403,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85891553,
+      102191575,
+      404476601,
+      85633793,
+      85950847,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0gOgUR3h3MGc83kJfz3IOr_42.296080_-71.297789@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306eb482408039fdd7cd101bffa",
+      "sg:id": "SG_0gOgUR3h3MGc83kJfz3IOr_42.296080_-71.297789@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732430,
-    "wof:geomhash":"060cd6c9559471a94795bf62b0b29a54",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476601,
-            "locality_id":85950847,
-            "neighbourhood_id":85891553,
-            "region_id":85688645,
-            "venue_id":673035275
-        }
+    "wof:country": "US",
+    "wof:created": 1461732430,
+    "wof:geomhash": "5d00970e6ea1f4618aec7452092f2f31",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476601,
+        "locality_id": 85950847,
+        "neighbourhood_id": 85891553,
+        "region_id": 85688645,
+        "venue_id": 673035275
+      }
     ],
-    "wof:id":673035275,
-    "wof:lastmodified":1472625054,
-    "wof:name":"Grettacole",
-    "wof:parent_id":85891553,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "spa",
-        "day"
+    "wof:id": 673035275,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Grettacole",
+    "wof:parent_id": 85891553,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "spa",
+      "day"
     ]
-},
+  },
   "bbox": [
     -71.298383,
     42.295912,
     -71.298383,
     42.295912
-],
+  ],
   "geometry": {"coordinates":[-71.298383,42.295912],"type":"Point"}
 }

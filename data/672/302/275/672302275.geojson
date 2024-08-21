@@ -2,57 +2,64 @@
   "id": 672302275,
   "type": "Feature",
   "properties": {
-    "addr:full":"25 Brookfield Rd Fiskdale MA 01518",
-    "addr:housenumber":"25",
-    "addr:postcode":"01518",
-    "addr:street":"Brookfield Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.117712,42.116709,-72.117712,42.116709",
-    "geom:latitude":42.116709,
-    "geom:longitude":-72.117712,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"25 Brookfield Rd",
-    "sg:city":"Fiskdale",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "25 Brookfield Rd Fiskdale MA 01518",
+    "addr:housenumber": "25",
+    "addr:postcode": "01518",
+    "addr:street": "Brookfield Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.117712,42.116709,-72.117712,42.116709",
+    "geom:latitude": 42.116709,
+    "geom:longitude": -72.117712,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Fred's Variety \u0026 Package Store, 25 Brookfield Rd Fiskdale MA US",
+    "ovtr:similarity": 2.4573850631713867,
+    "sg:address": "25 Brookfield Rd",
+    "sg:city": "Fiskdale",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 347 9221",
-    "sg:postcode":"01518",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0e6TzrYcWdefFJx9tkWSQD_42.116709_-72.117712@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 347 9221",
+    "sg:postcode": "01518",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a335a4b502a003d72c807e6318bd",
+      "sg:id": "SG_0e6TzrYcWdefFJx9tkWSQD_42.116709_-72.117712@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715655,
-    "wof:geomhash":"9a40028874183ed5a62045eb16449211",
-    "wof:hierarchy":[],
-    "wof:id":672302275,
-    "wof:lastmodified":1492119418,
-    "wof:name":"Fred's Variety & Package Store",
-    "wof:parent_id":85845279,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461715655,
+    "wof:geomhash": "9a40028874183ed5a62045eb16449211",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672302275
+      }
+    ],
+    "wof:id": 672302275,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Fred's Variety \u0026 Package Store",
+    "wof:parent_id": 85845279,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -72.117712,
     42.116709,
     -72.117712,
     42.116709
-],
+  ],
   "geometry": {"coordinates":[-72.117712,42.116709],"type":"Point"}
 }

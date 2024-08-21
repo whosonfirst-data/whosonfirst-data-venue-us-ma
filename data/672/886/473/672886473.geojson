@@ -2,69 +2,72 @@
   "id": 672886473,
   "type": "Feature",
   "properties": {
-    "addr:full":"632 Parker St Gardner MA 01440",
-    "addr:housenumber":"632",
-    "addr:postcode":"01440",
-    "addr:street":"Parker St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.016112,42.573761,-72.016112,42.573761",
-    "geom:latitude":42.573761,
-    "geom:longitude":-72.016112,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"632 Parker St",
-    "sg:city":"Gardner",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "632 Parker St Gardner MA 01440",
+    "addr:housenumber": "632",
+    "addr:postcode": "01440",
+    "addr:street": "Parker St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.016112,42.573761,-72.016112,42.573761",
+    "geom:latitude": 42.573761,
+    "geom:longitude": -72.016112,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Duguay's Fried Chicken, 632 Parker St Gardner MA US",
+    "ovtr:similarity": 2.281738042831421,
+    "sg:address": "632 Parker St",
+    "sg:city": "Gardner",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 632 4493",
-    "sg:postcode":"01440",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85840849,
-        102084655
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 632 4493",
+    "sg:postcode": "01440",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85840849,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1nt6Edjwuk1jNnV5MDYOpU_42.573761_-72.016112@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32a8355b6c6037bfcb4bd0be15f",
+      "sg:id": "SG_1nt6Edjwuk1jNnV5MDYOpU_42.573761_-72.016112@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461728754,
-    "wof:geomhash":"66695bde5b7041a2f00484dc80bc5d75",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85840849,
-            "region_id":85688645,
-            "venue_id":672886473
-        }
+    "wof:country": "US",
+    "wof:created": 1461728754,
+    "wof:geomhash": "2672aeb0e97352f35a35fc53f624f881",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85840849,
+        "region_id": 85688645,
+        "venue_id": 672886473
+      }
     ],
-    "wof:id":672886473,
-    "wof:lastmodified":1472626105,
-    "wof:name":"Duguay's Fried Chicken",
-    "wof:parent_id":85840849,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672886473,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Duguay's Fried Chicken",
+    "wof:parent_id": 85840849,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -72.016112,
     42.573761,
     -72.016112,
     42.573761
-],
-  "geometry": {"coordinates":[-72.01611200000001,42.573761],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-72.016112,42.573761],"type":"Point"}
 }

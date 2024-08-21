@@ -2,83 +2,86 @@
   "id": 672654747,
   "type": "Feature",
   "properties": {
-    "addr:full":"265 Bay Rd Taunton MA 02780",
-    "addr:housenumber":"265",
-    "addr:postcode":"02780",
-    "addr:street":"Bay Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.09526,41.919167,-71.09526,41.919167",
-    "geom:latitude":41.919167,
-    "geom:longitude":-71.09526,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"265 Bay Rd",
-    "sg:city":"Taunton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "265 Bay Rd Taunton MA 02780",
+    "addr:housenumber": "265",
+    "addr:postcode": "02780",
+    "addr:street": "Bay Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.095260,41.919167,-71.095260,41.919167",
+    "geom:latitude": 41.919167,
+    "geom:longitude": -71.09526,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Leonard's Auto Repair, 265 Bay St Taunton MA US",
+    "ovtr:similarity": 2.897592067718506,
+    "sg:address": "265 Bay Rd",
+    "sg:city": "Taunton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 977 1950",
-    "sg:postcode":"02780",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 977 1950",
+    "sg:postcode": "02780",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "sg:website":"www.leonards-performance.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85857627,
-        102191575,
-        404476147,
-        85633793,
-        85950365,
-        102084407,
-        85688645
+    "sg:website": "www.leonards-performance.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85857627,
+      102191575,
+      404476147,
+      85633793,
+      85950365,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Bpdh0Pv1kK6ZwJ2tPO1pG_41.919167_-71.095260@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3385eba560403388e976caafc13",
+      "sg:id": "SG_1Bpdh0Pv1kK6ZwJ2tPO1pG_41.919167_-71.095260@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461723815,
-    "wof:geomhash":"622f6e632845684f0eb73cbb55720a1a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476147,
-            "locality_id":85950365,
-            "neighbourhood_id":85857627,
-            "region_id":85688645,
-            "venue_id":672654747
-        }
+    "wof:country": "US",
+    "wof:created": 1461723815,
+    "wof:geomhash": "8950a33d9d89e435e9e51b0acdee7547",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476147,
+        "locality_id": 85950365,
+        "neighbourhood_id": 85857627,
+        "region_id": 85688645,
+        "venue_id": 672654747
+      }
     ],
-    "wof:id":672654747,
-    "wof:lastmodified":1472625906,
-    "wof:name":"Leonard's Auto Repair",
-    "wof:parent_id":85857627,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 672654747,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Leonard's Auto Repair",
+    "wof:parent_id": 85857627,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -71.09526,
     41.919167,
     -71.09526,
     41.919167
-],
+  ],
   "geometry": {"coordinates":[-71.09526,41.919167],"type":"Point"}
 }

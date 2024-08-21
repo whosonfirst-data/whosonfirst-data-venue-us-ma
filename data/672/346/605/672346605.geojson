@@ -2,74 +2,77 @@
   "id": 672346605,
   "type": "Feature",
   "properties": {
-    "addr:full":"76 Central St West Boylston MA 01583",
-    "addr:housenumber":"76",
-    "addr:postcode":"01583",
-    "addr:street":"Central St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.784136,42.368982,-71.784136,42.368982",
-    "geom:latitude":42.368982,
-    "geom:longitude":-71.784136,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"76 Central St",
-    "sg:city":"West Boylston",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "76 Central St West Boylston MA 01583",
+    "addr:housenumber": "76",
+    "addr:postcode": "01583",
+    "addr:street": "Central St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.784136,42.368982,-71.784136,42.368982",
+    "geom:latitude": 42.368982,
+    "geom:longitude": -71.784136,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Darby's Bakery, 76 Central St West Boylston MA US",
+    "ovtr:similarity": 2.728261947631836,
+    "sg:address": "76 Central St",
+    "sg:city": "West Boylston",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 835 6789",
-    "sg:postcode":"01583",
-    "sg:province":"MA",
-    "sg:tags":[
-        "baker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 835 6789",
+    "sg:postcode": "01583",
+    "sg:province": "MA",
+    "sg:tags": [
+      "baker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85842321,
-        102084655
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85842321,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_18XEcG5TSDy0mdq8VU3wYS_42.368982_-71.784136@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33db147586103fd01fcdf69bc95",
+      "sg:id": "SG_18XEcG5TSDy0mdq8VU3wYS_42.368982_-71.784136@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461716646,
-    "wof:geomhash":"ad14e021df35f7c1679a1866a307621f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85842321,
-            "region_id":85688645,
-            "venue_id":672346605
-        }
+    "wof:country": "US",
+    "wof:created": 1461716646,
+    "wof:geomhash": "c948d4aba34dc1cebd59c92b99f3ba83",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85842321,
+        "region_id": 85688645,
+        "venue_id": 672346605
+      }
     ],
-    "wof:id":672346605,
-    "wof:lastmodified":1472625582,
-    "wof:name":"Darby's Bakery",
-    "wof:parent_id":85842321,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "baker"
+    "wof:id": 672346605,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Darby's Bakery",
+    "wof:parent_id": 85842321,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "baker"
     ]
-},
+  },
   "bbox": [
     -71.784136,
     42.368982,
     -71.784136,
     42.368982
-],
+  ],
   "geometry": {"coordinates":[-71.784136,42.368982],"type":"Point"}
 }

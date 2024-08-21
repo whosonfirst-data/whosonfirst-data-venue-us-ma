@@ -2,90 +2,93 @@
   "id": 689208375,
   "type": "Feature",
   "properties": {
-    "addr:full":"151 Rt 6A Orleans MA 02653",
-    "addr:housenumber":"151",
-    "addr:postcode":"02653",
-    "addr:street":"Rt 6A",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-69.995019,41.783678,-69.995019,41.783678",
-    "geom:latitude":41.783678,
-    "geom:longitude":-69.995019,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"151 Rt 6A",
-    "sg:city":"Orleans",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Travel",
-            "subcategory":"Bed & Breakfast",
-            "type":"Entertainment"
-        }
+    "addr:full": "151 Rt 6A Orleans MA 02653",
+    "addr:housenumber": "151",
+    "addr:postcode": "02653",
+    "addr:street": "Rt 6A",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-69.995019,41.783678,-69.995019,41.783678",
+    "geom:latitude": 41.783678,
+    "geom:longitude": -69.995019,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Olde Tavern Motel \u0026 Inn, 151 RT-6A Orleans MA US",
+    "ovtr:similarity": 2.888098955154419,
+    "sg:address": "151 Rt 6A",
+    "sg:city": "Orleans",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Travel",
+        "subcategory": "Bed \u0026 Breakfast",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 255 1565",
-    "sg:postcode":"02653",
-    "sg:province":"MA",
-    "sg:tags":[
-        "inn",
-        "corporate",
-        "lodging"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 255 1565",
+    "sg:postcode": "02653",
+    "sg:province": "MA",
+    "sg:tags": [
+      "inn",
+      "corporate",
+      "lodging"
     ],
-    "sg:website":"http://www.oldtavernmotel.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85845359,
-        102191575,
-        404476187,
-        85633793,
-        85950577,
-        102084379,
-        85688645
+    "sg:website": "http://www.oldtavernmotel.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85845359,
+      102191575,
+      404476187,
+      85633793,
+      85950577,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1E9kt8s58ucpxOsEar1YBY_41.783678_-69.995019@1303262233"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a310280050440388c744abc9c60e",
+      "sg:id": "SG_1E9kt8s58ucpxOsEar1YBY_41.783678_-69.995019@1303262233"
     },
-    "wof:country":"US",
-    "wof:created":1461742225,
-    "wof:geomhash":"f730afa23ba5d505fea61b1c06c97ef4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404476187,
-            "locality_id":85950577,
-            "neighbourhood_id":85845359,
-            "region_id":85688645,
-            "venue_id":689208375
-        }
+    "wof:country": "US",
+    "wof:created": 1461742225,
+    "wof:geomhash": "bb211027028b540361bc2784abc27b0c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404476187,
+        "locality_id": 85950577,
+        "neighbourhood_id": 85845359,
+        "region_id": 85688645,
+        "venue_id": 689208375
+      }
     ],
-    "wof:id":689208375,
-    "wof:lastmodified":1472625607,
-    "wof:name":"Olde Tavern Motel and Inn",
-    "wof:parent_id":85845359,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "inn",
-        "corporate",
-        "lodging"
+    "wof:id": 689208375,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Olde Tavern Motel and Inn",
+    "wof:parent_id": 85845359,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "inn",
+      "corporate",
+      "lodging"
     ]
-},
+  },
   "bbox": [
     -69.995019,
     41.783678,
     -69.995019,
     41.783678
-],
+  ],
   "geometry": {"coordinates":[-69.995019,41.783678],"type":"Point"}
 }

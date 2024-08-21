@@ -2,80 +2,83 @@
   "id": 656361313,
   "type": "Feature",
   "properties": {
-    "addr:full":"110 W Brookfield Rd New Braintree MA 01531",
-    "addr:housenumber":"110",
-    "addr:postcode":"01531",
-    "addr:street":"W Brookfield Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-72.127282,42.31367,-72.127282,42.31367",
-    "geom:latitude":42.31367,
-    "geom:longitude":-72.127282,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"110 W Brookfield Rd",
-    "sg:city":"New Braintree",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "110 W Brookfield Rd New Braintree MA 01531",
+    "addr:housenumber": "110",
+    "addr:postcode": "01531",
+    "addr:street": "W Brookfield Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-72.127282,42.313670,-72.127282,42.313670",
+    "geom:latitude": 42.31367,
+    "geom:longitude": -72.127282,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "New Braintree Fire Department, 110 W Brookfield Rd New Braintree MA US",
+    "ovtr:similarity": 3.1465649604797363,
+    "sg:address": "110 W Brookfield Rd",
+    "sg:city": "New Braintree",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 867 9237",
-    "sg:postcode":"01531",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 867 9237",
+    "sg:postcode": "01531",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85832489,
-        102191575,
-        404476635,
-        85633793,
-        85950699,
-        102084655,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85832489,
+      102191575,
+      404476635,
+      85633793,
+      85950699,
+      102084655,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5PNaL6pGnnhsAojvTLVRLB_42.313670_-72.127282@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32228d4b9a003d76a815fe52bd3",
+      "sg:id": "SG_5PNaL6pGnnhsAojvTLVRLB_42.313670_-72.127282@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711194,
-    "wof:geomhash":"1a50411f0e8c5def3c2d3d11cc8e47eb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476635,
-            "locality_id":85950699,
-            "neighbourhood_id":85832489,
-            "region_id":85688645,
-            "venue_id":656361313
-        }
+    "wof:country": "US",
+    "wof:created": 1461711194,
+    "wof:geomhash": "08f5cf3a859d37e90a4ef2da503d553a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "localadmin_id": 404476635,
+        "locality_id": 85950699,
+        "neighbourhood_id": 85832489,
+        "region_id": 85688645,
+        "venue_id": 656361313
+      }
     ],
-    "wof:id":656361313,
-    "wof:lastmodified":1472624929,
-    "wof:name":"New Braintree Fire Dept",
-    "wof:parent_id":85832489,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 656361313,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "New Braintree Fire Dept",
+    "wof:parent_id": 85832489,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -72.127282,
     42.31367,
     -72.127282,
     42.31367
-],
-  "geometry": {"coordinates":[-72.12728199999999,42.31367],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-72.127282,42.31367],"type":"Point"}
 }

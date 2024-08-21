@@ -2,81 +2,84 @@
   "id": 656359485,
   "type": "Feature",
   "properties": {
-    "addr:full":"167 Franklin St Framingham MA 01702",
-    "addr:housenumber":"167",
-    "addr:postcode":"01702",
-    "addr:street":"Franklin St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.421299,42.282354,-71.421299,42.282354",
-    "geom:latitude":42.282354,
-    "geom:longitude":-71.421299,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"167 Franklin St",
-    "sg:city":"Framingham",
-    "sg:classifiers":[
-        {
-            "category":"Taxi",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "167 Franklin St Framingham MA 01702",
+    "addr:housenumber": "167",
+    "addr:postcode": "01702",
+    "addr:street": "Franklin St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.421299,42.282354,-71.421299,42.282354",
+    "geom:latitude": 42.282354,
+    "geom:longitude": -71.421299,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Tommy's Taxi Inc., 167 Franklin St Framingham MA US",
+    "ovtr:similarity": 2.5780179500579834,
+    "sg:address": "167 Franklin St",
+    "sg:city": "Framingham",
+    "sg:classifiers": [
+      {
+        "category": "Taxi",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 872 3500",
-    "sg:postcode":"01702",
-    "sg:province":"MA",
-    "sg:tags":[
-        "taxicab"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 872 3500",
+    "sg:postcode": "01702",
+    "sg:province": "MA",
+    "sg:tags": [
+      "taxicab"
     ],
-    "sg:website":"www.tommystaxicab.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891333,
-        102191575,
-        404476489,
-        85633793,
-        85950629,
-        102084643,
-        85688645
+    "sg:website": "www.tommystaxicab.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85891333,
+      102191575,
+      404476489,
+      85633793,
+      85950629,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4y2IkfuoVFaJBQ6ij1LDRM_42.282354_-71.421299@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306dbd53b6a031dfbb37c7d071f",
+      "sg:id": "SG_4y2IkfuoVFaJBQ6ij1LDRM_42.282354_-71.421299@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711155,
-    "wof:geomhash":"19cc04db7a5fa74610d87c95c3f23ca4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476489,
-            "locality_id":85950629,
-            "neighbourhood_id":85891333,
-            "region_id":85688645,
-            "venue_id":656359485
-        }
+    "wof:country": "US",
+    "wof:created": 1461711155,
+    "wof:geomhash": "e5734c038d7ecd4436d92665f86a9000",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476489,
+        "locality_id": 85950629,
+        "neighbourhood_id": 85891333,
+        "region_id": 85688645,
+        "venue_id": 656359485
+      }
     ],
-    "wof:id":656359485,
-    "wof:lastmodified":1472624926,
-    "wof:name":"Tommy's Taxi Inc",
-    "wof:parent_id":85891333,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "taxicab"
+    "wof:id": 656359485,
+    "wof:lastmodified": 1724253277,
+    "wof:name": "Tommy's Taxi Inc",
+    "wof:parent_id": 85891333,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "taxicab"
     ]
-},
+  },
   "bbox": [
     -71.421299,
     42.282354,
     -71.421299,
     42.282354
-],
+  ],
   "geometry": {"coordinates":[-71.421299,42.282354],"type":"Point"}
 }

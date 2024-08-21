@@ -2,80 +2,83 @@
   "id": 673163823,
   "type": "Feature",
   "properties": {
-    "addr:full":"51 Baldwin Rd Billerica MA 01821",
-    "addr:housenumber":"51",
-    "addr:postcode":"01821",
-    "addr:street":"Baldwin Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.2388,42.555,-71.2388,42.555",
-    "geom:latitude":42.555,
-    "geom:longitude":-71.2388,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"51 Baldwin Rd",
-    "sg:city":"Billerica",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Event Space",
-            "type":"Services"
-        },
-        {
-            "category":"Sports & Exercise",
-            "subcategory":"Golf",
-            "type":"Entertainment"
-        }
+    "addr:full": "51 Baldwin Rd Billerica MA 01821",
+    "addr:housenumber": "51",
+    "addr:postcode": "01821",
+    "addr:street": "Baldwin Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.238800,42.555000,-71.238800,42.555000",
+    "geom:latitude": 42.555,
+    "geom:longitude": -71.2388,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Country Club of Billerica, 51 Baldwin Rd Billerica MA US",
+    "ovtr:similarity": 3.756040096282959,
+    "sg:address": "51 Baldwin Rd",
+    "sg:city": "Billerica",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Event Space",
+        "type": "Services"
+      },
+      {
+        "category": "Sports \u0026 Exercise",
+        "subcategory": "Golf",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 667 9121",
-    "sg:postcode":"01821",
-    "sg:province":"MA",
-    "sg:tags":[
-        "venue"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 667 9121",
+    "sg:postcode": "01821",
+    "sg:province": "MA",
+    "sg:tags": [
+      "venue"
     ],
-    "sg:website":"www.countryclubofbillerica.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85815967,
-        102084643
+    "sg:website": "www.countryclubofbillerica.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85815967,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4PH5OE6ezySGPjdOTmylxC_42.555000_-71.238800@1303262191"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a307a9a1e005038499cf1365a941",
+      "sg:id": "SG_4PH5OE6ezySGPjdOTmylxC_42.555000_-71.238800@1303262191"
     },
-    "wof:country":"US",
-    "wof:created":1461735096,
-    "wof:geomhash":"7d8faf957d96d4524cbb1badf4bb0968",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85815967,
-            "region_id":85688645,
-            "venue_id":673163823
-        }
+    "wof:country": "US",
+    "wof:created": 1461735096,
+    "wof:geomhash": "7fff0e7be95f3f3bf0fa1c5fa0d048c3",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85815967,
+        "region_id": 85688645,
+        "venue_id": 673163823
+      }
     ],
-    "wof:id":673163823,
-    "wof:lastmodified":1472625470,
-    "wof:name":"Billerica Country Club",
-    "wof:parent_id":85815967,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "venue"
+    "wof:id": 673163823,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Billerica Country Club",
+    "wof:parent_id": 85815967,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "venue"
     ]
-},
+  },
   "bbox": [
     -71.2388,
     42.555,
     -71.2388,
     42.555
-],
+  ],
   "geometry": {"coordinates":[-71.2388,42.555],"type":"Point"}
 }

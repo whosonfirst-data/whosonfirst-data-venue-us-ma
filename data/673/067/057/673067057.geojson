@@ -2,82 +2,85 @@
   "id": 673067057,
   "type": "Feature",
   "properties": {
-    "addr:full":"76 Park St Attleboro MA 02703",
-    "addr:housenumber":"76",
-    "addr:postcode":"02703",
-    "addr:street":"Park St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.2808,41.944,-71.2808,41.944",
-    "geom:latitude":41.944,
-    "geom:longitude":-71.2808,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"76 Park St",
-    "sg:city":"Attleboro",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "76 Park St Attleboro MA 02703",
+    "addr:housenumber": "76",
+    "addr:postcode": "02703",
+    "addr:street": "Park St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.280800,41.944000,-71.280800,41.944000",
+    "geom:latitude": 41.944,
+    "geom:longitude": -71.2808,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Neurology Partners, 76 Park St Attleboro MA US",
+    "ovtr:similarity": 2.3063840866088867,
+    "sg:address": "76 Park St",
+    "sg:city": "Attleboro",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 431 2026",
-    "sg:postcode":"02703",
-    "sg:province":"MA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 431 2026",
+    "sg:postcode": "02703",
+    "sg:province": "MA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85814695,
-        102191575,
-        404476165,
-        85633793,
-        85950363,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85814695,
+      102191575,
+      404476165,
+      85633793,
+      85950363,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5OQZVTRFS8XJsWK0pS3fBF_41.944300_-71.281376@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a338c2c9c7450390cd632568e683",
+      "sg:id": "SG_5OQZVTRFS8XJsWK0pS3fBF_41.944300_-71.281376@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733083,
-    "wof:geomhash":"677a9414952f3e81bbf359203f625ea4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476165,
-            "locality_id":85950363,
-            "neighbourhood_id":85814695,
-            "region_id":85688645,
-            "venue_id":673067057
-        }
+    "wof:country": "US",
+    "wof:created": 1461733083,
+    "wof:geomhash": "f94ffdeafd38bfc10200a4fad18f5cda",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476165,
+        "locality_id": 85950363,
+        "neighbourhood_id": 85814695,
+        "region_id": 85688645,
+        "venue_id": 673067057
+      }
     ],
-    "wof:id":673067057,
-    "wof:lastmodified":1472625135,
-    "wof:name":"Neurology Partners",
-    "wof:parent_id":85814695,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 673067057,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Neurology Partners",
+    "wof:parent_id": 85814695,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -71.2808,
     41.944,
     -71.2808,
     41.944
-],
+  ],
   "geometry": {"coordinates":[-71.2808,41.944],"type":"Point"}
 }

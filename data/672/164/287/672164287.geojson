@@ -2,63 +2,70 @@
   "id": 672164287,
   "type": "Feature",
   "properties": {
-    "addr:full":"374 Front St Marion MA 02738",
-    "addr:housenumber":"374",
-    "addr:postcode":"02738",
-    "addr:street":"Front St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.772292,41.717343,-70.772292,41.717343",
-    "geom:latitude":41.717343,
-    "geom:longitude":-70.772292,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"374 Front St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "374 Front St Marion MA 02738",
+    "addr:housenumber": "374",
+    "addr:postcode": "02738",
+    "addr:street": "Front St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.772292,41.717343,-70.772292,41.717343",
+    "geom:latitude": 41.717343,
+    "geom:longitude": -70.772292,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Uncle Jon's Coffee, 350 Front St Marion MA US",
+    "ovtr:similarity": 3.721532106399536,
+    "sg:address": "374 Front St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 748 0063",
-    "sg:postcode":"02738",
-    "sg:province":"MA",
-    "sg:tags":[
-        "shop",
-        "coffee"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 748 0063",
+    "sg:postcode": "02738",
+    "sg:province": "MA",
+    "sg:tags": [
+      "shop",
+      "coffee"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_68EsilOnxUtOpgrNcXjbUX_41.717343_-70.772292@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33b60415a1d038e16a4cd6e27c9",
+      "sg:id": "SG_68EsilOnxUtOpgrNcXjbUX_41.717343_-70.772292@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461712774,
-    "wof:geomhash":"3b12783b38a795954ce948fd0419c739",
-    "wof:hierarchy":[],
-    "wof:id":672164287,
-    "wof:lastmodified":1472625005,
-    "wof:name":"Uncle Jon's Coffee",
-    "wof:parent_id":420523877,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "coffee"
+    "wof:country": "US",
+    "wof:created": 1461712774,
+    "wof:geomhash": "a02fe16550b846dc3a2d1127a7560475",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672164287
+      }
+    ],
+    "wof:id": 672164287,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Uncle Jon's Coffee",
+    "wof:parent_id": 420523877,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "coffee"
     ]
-},
+  },
   "bbox": [
     -70.772292,
     41.717343,
     -70.772292,
     41.717343
-],
-  "geometry": {"coordinates":[-70.77229199999999,41.717343],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.772292,41.717343],"type":"Point"}
 }

@@ -2,92 +2,95 @@
   "id": 672726455,
   "type": "Feature",
   "properties": {
-    "addr:full":"140 Andrew St Springfield MA 01109",
-    "addr:housenumber":"140",
-    "addr:postcode":"01109",
-    "addr:street":"Andrew St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.562862,42.11502,-72.562862,42.11502",
-    "geom:latitude":42.11502,
-    "geom:longitude":-72.562862,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"140 Andrew St",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "140 Andrew St Springfield MA 01109",
+    "addr:housenumber": "140",
+    "addr:postcode": "01109",
+    "addr:street": "Andrew St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.562862,42.115020,-72.562862,42.115020",
+    "geom:latitude": 42.11502,
+    "geom:longitude": -72.562862,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "True Vine Church, 140 Andrew St Springfield MA US",
+    "ovtr:similarity": 2.554431915283203,
+    "sg:address": "140 Andrew St",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 737 8605",
-    "sg:postcode":"01109",
-    "sg:province":"MA",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 737 8605",
+    "sg:postcode": "01109",
+    "sg:province": "MA",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85833291,
-        102191575,
-        404476369,
-        85633793,
-        85950393,
-        102084627,
-        85688645,
-        85853247
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85833291,
+      102191575,
+      404476369,
+      85633793,
+      85950393,
+      102084627,
+      85688645,
+      85853247
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5KAGGYCZF5Dbw1fDXimeZg_42.115020_-72.562862@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a148241ab8620309e448c3e9bd8f",
+      "sg:id": "SG_5KAGGYCZF5Dbw1fDXimeZg_42.115020_-72.562862@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461725428,
-    "wof:geomhash":"52b10e84d2b8aea6e02a6796d9dc5ca2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084627,
-            "localadmin_id":404476369,
-            "locality_id":85950393,
-            "neighbourhood_id":85833291,
-            "region_id":85688645,
-            "venue_id":672726455
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084627,
-            "localadmin_id":404476369,
-            "locality_id":85950393,
-            "neighbourhood_id":85853247,
-            "region_id":85688645,
-            "venue_id":672726455
-        }
+    "wof:country": "US",
+    "wof:created": 1461725428,
+    "wof:geomhash": "52b10e84d2b8aea6e02a6796d9dc5ca2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "localadmin_id": 404476369,
+        "locality_id": 85950393,
+        "neighbourhood_id": 85833291,
+        "region_id": 85688645,
+        "venue_id": 672726455
+      },
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084627,
+        "localadmin_id": 404476369,
+        "locality_id": 85950393,
+        "neighbourhood_id": 85853247,
+        "region_id": 85688645,
+        "venue_id": 672726455
+      }
     ],
-    "wof:id":672726455,
-    "wof:lastmodified":1492111736,
-    "wof:name":"True Vine Church",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:id": 672726455,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "True Vine Church",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -72.562862,
     42.11502,
     -72.562862,
     42.11502
-],
+  ],
   "geometry": {"coordinates":[-72.562862,42.11502],"type":"Point"}
 }

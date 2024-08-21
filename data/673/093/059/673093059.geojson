@@ -2,69 +2,76 @@
   "id": 673093059,
   "type": "Feature",
   "properties": {
-    "addr:full":"2089 Bay St Taunton MA 02780",
-    "addr:housenumber":"2089",
-    "addr:postcode":"02780",
-    "addr:street":"Bay St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.120166,41.959486,-71.120166,41.959486",
-    "geom:latitude":41.959486,
-    "geom:longitude":-71.120166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"2089 Bay St",
-    "sg:city":"Taunton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2089 Bay St Taunton MA 02780",
+    "addr:housenumber": "2089",
+    "addr:postcode": "02780",
+    "addr:street": "Bay St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.120166,41.959486,-71.120166,41.959486",
+    "geom:latitude": 41.959486,
+    "geom:longitude": -71.120166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Wendy's, 2089 Bay St Taunton MA US",
+    "ovtr:similarity": 2.229904890060425,
+    "sg:address": "2089 Bay St",
+    "sg:city": "Taunton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/taunton/173338-wendys/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 880 0749",
-    "sg:postcode":"02780",
-    "sg:province":"MA",
-    "sg:tags":[
-        "burger",
-        "american",
-        "soup"
+    "sg:menulink": "http://www.allmenus.com/ma/taunton/173338-wendys/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 880 0749",
+    "sg:postcode": "02780",
+    "sg:province": "MA",
+    "sg:tags": [
+      "burger",
+      "american",
+      "soup"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573903,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Y1sEdlkcfoXhFyVHvF8n5_41.959486_-71.120166@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573903,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a338504a2360030d28d42d9b66ef",
+      "sg:id": "SG_1Y1sEdlkcfoXhFyVHvF8n5_41.959486_-71.120166@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461733625,
-    "wof:geomhash":"fc0bd285ead70c2ae76316dad46a9c83",
-    "wof:hierarchy":[],
-    "wof:id":673093059,
-    "wof:lastmodified":1511322592,
-    "wof:name":"Wendy's",
-    "wof:parent_id":85858285,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american",
-        "soup"
+    "wof:country": "US",
+    "wof:created": 1461733625,
+    "wof:geomhash": "fc0bd285ead70c2ae76316dad46a9c83",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673093059
+      }
+    ],
+    "wof:id": 673093059,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Wendy's",
+    "wof:parent_id": 85858285,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american",
+      "soup"
     ]
-},
+  },
   "bbox": [
     -71.120166,
     41.959486,
     -71.120166,
     41.959486
-],
+  ],
   "geometry": {"coordinates":[-71.120166,41.959486],"type":"Point"}
 }

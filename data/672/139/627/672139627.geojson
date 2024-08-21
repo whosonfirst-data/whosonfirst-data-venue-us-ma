@@ -2,89 +2,92 @@
   "id": 672139627,
   "type": "Feature",
   "properties": {
-    "addr:full":"319 Longwood Ave Boston MA 02215",
-    "addr:housenumber":"319",
-    "addr:postcode":"02215",
-    "addr:street":"Longwood Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.106009,42.338083,-71.106009,42.338083",
-    "geom:latitude":42.338083,
-    "geom:longitude":-71.106009,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"319 Longwood Ave",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "319 Longwood Ave Boston MA 02215",
+    "addr:housenumber": "319",
+    "addr:postcode": "02215",
+    "addr:street": "Longwood Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.106009,42.338083,-71.106009,42.338083",
+    "geom:latitude": 42.338083,
+    "geom:longitude": -71.106009,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Sports Medicine Division, 319 Longwood Ave Boston MA US",
+    "ovtr:similarity": 3.5644519329071045,
+    "sg:address": "319 Longwood Ave",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 355 3501",
-    "sg:postcode":"02215",
-    "sg:province":"MA",
-    "sg:tags":[
-        "medicine",
-        "injury",
-        "sport"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 355 3501",
+    "sg:postcode": "02215",
+    "sg:province": "MA",
+    "sg:tags": [
+      "medicine",
+      "injury",
+      "sport"
     ],
-    "sg:website":"www.kidssportsmed.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85869445,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "www.kidssportsmed.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85869445,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Zn14dTWyaOumJ1nlRayVr_42.338083_-71.106009@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3064424dc6303ae2c1d5a85688e",
+      "sg:id": "SG_7Zn14dTWyaOumJ1nlRayVr_42.338083_-71.106009@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461712241,
-    "wof:geomhash":"e429247d92b83a113ccd779edfc73f91",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85869445,
-            "region_id":85688645,
-            "venue_id":672139627
-        }
+    "wof:country": "US",
+    "wof:created": 1461712241,
+    "wof:geomhash": "e429247d92b83a113ccd779edfc73f91",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85869445,
+        "region_id": 85688645,
+        "venue_id": 672139627
+      }
     ],
-    "wof:id":672139627,
-    "wof:lastmodified":1534187485,
-    "wof:name":"Division-Sports Medicine",
-    "wof:parent_id":85869445,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        689016477
+    "wof:id": 672139627,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "Division-Sports Medicine",
+    "wof:parent_id": 85869445,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      689016477
     ],
-    "wof:tags":[
-        "medicine",
-        "injury",
-        "sport"
+    "wof:tags": [
+      "medicine",
+      "injury",
+      "sport"
     ]
-},
+  },
   "bbox": [
     -71.106009,
     42.338083,
     -71.106009,
     42.338083
-],
+  ],
   "geometry": {"coordinates":[-71.106009,42.338083],"type":"Point"}
 }

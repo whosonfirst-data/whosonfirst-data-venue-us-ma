@@ -2,95 +2,98 @@
   "id": 689076409,
   "type": "Feature",
   "properties": {
-    "addr:full":"373 Huron Ave Cambridge MA 02138",
-    "addr:housenumber":"373",
-    "addr:postcode":"02138",
-    "addr:street":"Huron Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.138974,42.381313,-71.138974,42.381313",
-    "geom:latitude":42.381313,
-    "geom:longitude":-71.138974,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"373 Huron Ave",
-    "sg:city":"Cambridge",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Books",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "373 Huron Ave Cambridge MA 02138",
+    "addr:housenumber": "373",
+    "addr:postcode": "02138",
+    "addr:street": "Huron Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.138974,42.381313,-71.138974,42.381313",
+    "geom:latitude": 42.381313,
+    "geom:longitude": -71.138974,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Bryn Mawr Book Store, 373 Huron Ave Cambridge MA US",
+    "ovtr:similarity": 2.5137360095977783,
+    "sg:address": "373 Huron Ave",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Books",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 661 1770",
-    "sg:postcode":"02138",
-    "sg:province":"MA",
-    "sg:tags":[
-        "dealers-used",
-        "religious",
-        "bookstore",
-        "rare",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 661 1770",
+    "sg:postcode": "02138",
+    "sg:province": "MA",
+    "sg:tags": [
+      "dealers-used",
+      "religious",
+      "bookstore",
+      "rare",
+      "store"
     ],
-    "sg:website":"www.brynmawrbookstore.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108713389,
-        85688645,
-        102191575,
-        404476475,
-        85633793,
-        85950329,
-        102084643
+    "sg:website": "www.brynmawrbookstore.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108713389,
+      85688645,
+      102191575,
+      404476475,
+      85633793,
+      85950329,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_27lXM3hRboc3TFd6iINgfM_42.381313_-71.138974@1303262215"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30670234b90030dc1bcccb62820",
+      "sg:id": "SG_27lXM3hRboc3TFd6iINgfM_42.381313_-71.138974@1303262215"
     },
-    "wof:country":"US",
-    "wof:created":1461738845,
-    "wof:geomhash":"a57a6b9c7c5e616eb9b6ce4c78aca139",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476475,
-            "locality_id":85950329,
-            "microhood_id":1108713389,
-            "region_id":85688645,
-            "venue_id":689076409
-        }
+    "wof:country": "US",
+    "wof:created": 1461738845,
+    "wof:geomhash": "922f945e0c1e97111c6ad9a20eb3ffab",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476475,
+        "locality_id": 85950329,
+        "microhood_id": 1108713389,
+        "region_id": 85688645,
+        "venue_id": 689076409
+      }
     ],
-    "wof:id":689076409,
-    "wof:lastmodified":1491901621,
-    "wof:name":"Bryn Mawr Book Store",
-    "wof:parent_id":1108713389,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dealers-used",
-        "religious",
-        "bookstore",
-        "rare",
-        "store"
+    "wof:id": 689076409,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Bryn Mawr Book Store",
+    "wof:parent_id": 1108713389,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dealers-used",
+      "religious",
+      "bookstore",
+      "rare",
+      "store"
     ]
-},
+  },
   "bbox": [
     -71.138974,
     42.381313,
     -71.138974,
     42.381313
-],
+  ],
   "geometry": {"coordinates":[-71.138974,42.381313],"type":"Point"}
 }

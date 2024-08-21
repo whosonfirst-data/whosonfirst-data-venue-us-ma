@@ -2,80 +2,83 @@
   "id": 672972149,
   "type": "Feature",
   "properties": {
-    "addr:full":"1600 N Main St Fall River MA 02720",
-    "addr:housenumber":"1600",
-    "addr:postcode":"02720",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.144697,41.72259,-71.144697,41.72259",
-    "geom:latitude":41.72259,
-    "geom:longitude":-71.144697,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1600 N Main St",
-    "sg:city":"Fall River",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "1600 N Main St Fall River MA 02720",
+    "addr:housenumber": "1600",
+    "addr:postcode": "02720",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.144697,41.722590,-71.144697,41.722590",
+    "geom:latitude": 41.72259,
+    "geom:longitude": -71.144697,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Republican Club, 1600 N Main St Fall River MA US",
+    "ovtr:similarity": 1.9650030136108398,
+    "sg:address": "1600 N Main St",
+    "sg:city": "Fall River",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 676 3420",
-    "sg:postcode":"02720",
-    "sg:province":"MA",
-    "sg:tags":[
-        "club"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 676 3420",
+    "sg:postcode": "02720",
+    "sg:province": "MA",
+    "sg:tags": [
+      "club"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85806847,
-        102191575,
-        404476145,
-        85633793,
-        85950687,
-        102084407,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85806847,
+      102191575,
+      404476145,
+      85633793,
+      85950687,
+      102084407,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1h5zdEgERo28U48g3unc1d_41.722590_-71.144697@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33aa593289303acedb85c95af54",
+      "sg:id": "SG_1h5zdEgERo28U48g3unc1d_41.722590_-71.144697@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461730825,
-    "wof:geomhash":"09d4057b5793eaef8131e66c5b231847",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084407,
-            "localadmin_id":404476145,
-            "locality_id":85950687,
-            "neighbourhood_id":85806847,
-            "region_id":85688645,
-            "venue_id":672972149
-        }
+    "wof:country": "US",
+    "wof:created": 1461730825,
+    "wof:geomhash": "204d41ddbb6f65d40d7a3d7e47cc8f9d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084407,
+        "localadmin_id": 404476145,
+        "locality_id": 85950687,
+        "neighbourhood_id": 85806847,
+        "region_id": 85688645,
+        "venue_id": 672972149
+      }
     ],
-    "wof:id":672972149,
-    "wof:lastmodified":1472626180,
-    "wof:name":"Republican Club",
-    "wof:parent_id":85806847,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club"
+    "wof:id": 672972149,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Republican Club",
+    "wof:parent_id": 85806847,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
     ]
-},
+  },
   "bbox": [
     -71.144697,
     41.72259,
     -71.144697,
     41.72259
-],
-  "geometry": {"coordinates":[-71.14469699999999,41.72259],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.144697,41.72259],"type":"Point"}
 }

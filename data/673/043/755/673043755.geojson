@@ -2,81 +2,84 @@
   "id": 673043755,
   "type": "Feature",
   "properties": {
-    "addr:full":"605 Mount Auburn St Watertown MA 02472",
-    "addr:housenumber":"605",
-    "addr:postcode":"02472",
-    "addr:street":"Mount Auburn St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.158642,42.370796,-71.158642,42.370796",
-    "geom:latitude":42.370796,
-    "geom:longitude":-71.158642,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"605 Mount Auburn St",
-    "sg:city":"Watertown",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "605 Mount Auburn St Watertown MA 02472",
+    "addr:housenumber": "605",
+    "addr:postcode": "02472",
+    "addr:street": "Mount Auburn St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.158642,42.370796,-71.158642,42.370796",
+    "geom:latitude": 42.370796,
+    "geom:longitude": -71.158642,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Stella's Pizza, 605 Mt Auburn St Watertown MA US",
+    "ovtr:similarity": 2.625432014465332,
+    "sg:address": "605 Mount Auburn St",
+    "sg:city": "Watertown",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 924 5692",
-    "sg:postcode":"02472",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 924 5692",
+    "sg:postcode": "02472",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "sg:website":"www.stellaspizza.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85816909,
-        102191575,
-        404476459,
-        85633793,
-        85950335,
-        102084643,
-        85688645
+    "sg:website": "www.stellaspizza.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85816909,
+      102191575,
+      404476459,
+      85633793,
+      85950335,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1uzM7A2oaS95StSyylwYai_42.370719_-71.158538@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3067318dc800391683570c1c83f",
+      "sg:id": "SG_1uzM7A2oaS95StSyylwYai_42.370719_-71.158538@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732623,
-    "wof:geomhash":"5935da2cae3a319f442295316cc5cb24",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476459,
-            "locality_id":85950335,
-            "neighbourhood_id":85816909,
-            "region_id":85688645,
-            "venue_id":673043755
-        }
+    "wof:country": "US",
+    "wof:created": 1461732623,
+    "wof:geomhash": "5574ae7b799ba301da079e840d066046",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476459,
+        "locality_id": 85950335,
+        "neighbourhood_id": 85816909,
+        "region_id": 85688645,
+        "venue_id": 673043755
+      }
     ],
-    "wof:id":673043755,
-    "wof:lastmodified":1472625105,
-    "wof:name":"Stella's Pizza",
-    "wof:parent_id":85816909,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 673043755,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Stella's Pizza",
+    "wof:parent_id": 85816909,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.158642,
     42.370796,
     -71.158642,
     42.370796
-],
+  ],
   "geometry": {"coordinates":[-71.158642,42.370796],"type":"Point"}
 }

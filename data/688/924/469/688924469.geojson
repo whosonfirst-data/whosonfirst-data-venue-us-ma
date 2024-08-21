@@ -2,83 +2,86 @@
   "id": 688924469,
   "type": "Feature",
   "properties": {
-    "addr:full":"57 Mitchell Rd Ipswich MA 01938",
-    "addr:housenumber":"57",
-    "addr:postcode":"01938",
-    "addr:street":"Mitchell Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.854103,42.701,-70.854103,42.701",
-    "geom:latitude":42.701,
-    "geom:longitude":-70.854103,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"57 Mitchell Rd",
-    "sg:city":"Ipswich",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"",
-            "type":"Services"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "57 Mitchell Rd Ipswich MA 01938",
+    "addr:housenumber": "57",
+    "addr:postcode": "01938",
+    "addr:street": "Mitchell Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.854103,42.701000,-70.854103,42.701000",
+    "geom:latitude": 42.701,
+    "geom:longitude": -70.854103,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Crash Clinic, 57 Mitchell Rd Ipswich MA US",
+    "ovtr:similarity": 2.3322579860687256,
+    "sg:address": "57 Mitchell Rd",
+    "sg:city": "Ipswich",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "",
+        "type": "Services"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 356 9057",
-    "sg:postcode":"01938",
-    "sg:province":"MA",
-    "sg:tags":[
-        "body",
-        "shop",
-        "towing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 356 9057",
+    "sg:postcode": "01938",
+    "sg:province": "MA",
+    "sg:tags": [
+      "body",
+      "shop",
+      "towing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85836261,
-        102084463
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85836261,
+      102084463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7hHdkLxXn4d9VFch7QITjn_42.701000_-70.854103@1303262196"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30018d2220a035eba21b7f64b81",
+      "sg:id": "SG_7hHdkLxXn4d9VFch7QITjn_42.701000_-70.854103@1303262196"
     },
-    "wof:country":"US",
-    "wof:created":1461735746,
-    "wof:geomhash":"dc5602458eb3bc6bf3d1c7973d5560e8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084463,
-            "neighbourhood_id":85836261,
-            "region_id":85688645,
-            "venue_id":688924469
-        }
+    "wof:country": "US",
+    "wof:created": 1461735746,
+    "wof:geomhash": "3a0d10ea75eea0fac3aad389cb627c00",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "neighbourhood_id": 85836261,
+        "region_id": 85688645,
+        "venue_id": 688924469
+      }
     ],
-    "wof:id":688924469,
-    "wof:lastmodified":1472625006,
-    "wof:name":"Crash Clinic",
-    "wof:parent_id":85836261,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "shop",
-        "towing"
+    "wof:id": 688924469,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Crash Clinic",
+    "wof:parent_id": 85836261,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "shop",
+      "towing"
     ]
-},
+  },
   "bbox": [
     -70.854103,
     42.701,
     -70.854103,
     42.701
-],
-  "geometry": {"coordinates":[-70.85410299999999,42.701],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.854103,42.701],"type":"Point"}
 }

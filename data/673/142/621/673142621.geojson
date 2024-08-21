@@ -2,76 +2,79 @@
   "id": 673142621,
   "type": "Feature",
   "properties": {
-    "addr:full":"174 Liberty St Concord MA 01742",
-    "addr:housenumber":"174",
-    "addr:postcode":"01742",
-    "addr:street":"Liberty St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.35374,42.47116,-71.35374,42.47116",
-    "geom:latitude":42.47116,
-    "geom:longitude":-71.35374,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"174 Liberty St",
-    "sg:city":"Concord",
-    "sg:classifiers":[
-        {
-            "category":"Landmark",
-            "subcategory":"Historic",
-            "type":"Public Place"
-        }
+    "addr:full": "174 Liberty St Concord MA 01742",
+    "addr:housenumber": "174",
+    "addr:postcode": "01742",
+    "addr:street": "Liberty St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.353740,42.471160,-71.353740,42.471160",
+    "geom:latitude": 42.47116,
+    "geom:longitude": -71.35374,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "North Bridge, 174 Liberty St Concord MA US",
+    "ovtr:similarity": 3.5357909202575684,
+    "sg:address": "174 Liberty St",
+    "sg:city": "Concord",
+    "sg:classifiers": [
+      {
+        "category": "Landmark",
+        "subcategory": "Historic",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 369 6993",
-    "sg:postcode":"01742",
-    "sg:province":"MA",
-    "sg:tags":[
-        "building",
-        "historical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 369 6993",
+    "sg:postcode": "01742",
+    "sg:province": "MA",
+    "sg:tags": [
+      "building",
+      "historical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85833807,
-        102084643
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85833807,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4YzFfDU0Nm11dSSz0qGkXT_42.471160_-71.353740@1303262189"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a306ac8a0d420376e4120bb3f3e1",
+      "sg:id": "SG_4YzFfDU0Nm11dSSz0qGkXT_42.471160_-71.353740@1303262189"
     },
-    "wof:country":"US",
-    "wof:created":1461734642,
-    "wof:geomhash":"9a586b4a55da6435baf02b025e7480ae",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85833807,
-            "region_id":85688645,
-            "venue_id":673142621
-        }
+    "wof:country": "US",
+    "wof:created": 1461734642,
+    "wof:geomhash": "7934c5a2c8dc64783977faff00cefae0",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85833807,
+        "region_id": 85688645,
+        "venue_id": 673142621
+      }
     ],
-    "wof:id":673142621,
-    "wof:lastmodified":1472625411,
-    "wof:name":"North Bridge",
-    "wof:parent_id":85833807,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "building",
-        "historical"
+    "wof:id": 673142621,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "North Bridge",
+    "wof:parent_id": 85833807,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "building",
+      "historical"
     ]
-},
+  },
   "bbox": [
     -71.35374,
     42.47116,
     -71.35374,
     42.47116
-],
+  ],
   "geometry": {"coordinates":[-71.35374,42.47116],"type":"Point"}
 }

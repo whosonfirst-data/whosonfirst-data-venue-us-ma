@@ -2,57 +2,64 @@
   "id": 672796279,
   "type": "Feature",
   "properties": {
-    "addr:full":"343 Main St Ashfield MA 01330",
-    "addr:housenumber":"343",
-    "addr:postcode":"01330",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.794277,42.526757,-72.794277,42.526757",
-    "geom:latitude":42.526757,
-    "geom:longitude":-72.794277,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"343 Main St",
-    "sg:city":"Ashfield",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Hardware",
-            "type":"Retail Goods"
-        }
+    "addr:full": "343 Main St Ashfield MA 01330",
+    "addr:housenumber": "343",
+    "addr:postcode": "01330",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.794277,42.526757,-72.794277,42.526757",
+    "geom:latitude": 42.526757,
+    "geom:longitude": -72.794277,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Ashfield Hardware \u0026 Supply, 343 Main St Ashfield MA US",
+    "ovtr:similarity": 3.0664939880371094,
+    "sg:address": "343 Main St",
+    "sg:city": "Ashfield",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Hardware",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 628 3299",
-    "sg:postcode":"01330",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1dahbCpZ0TYUbTNXOWksFh_42.526757_-72.794277@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 628 3299",
+    "sg:postcode": "01330",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3263642a28503c0ed2a2e51c6fb",
+      "sg:id": "SG_1dahbCpZ0TYUbTNXOWksFh_42.526757_-72.794277@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461726903,
-    "wof:geomhash":"b211adbb58d6420e9fa87ff347c7ad73",
-    "wof:hierarchy":[],
-    "wof:id":672796279,
-    "wof:lastmodified":1492118933,
-    "wof:name":"Ashfield Hardware & Supply",
-    "wof:parent_id":85805371,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461726903,
+    "wof:geomhash": "b211adbb58d6420e9fa87ff347c7ad73",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672796279
+      }
+    ],
+    "wof:id": 672796279,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Ashfield Hardware \u0026 Supply",
+    "wof:parent_id": 85805371,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -72.794277,
     42.526757,
     -72.794277,
     42.526757
-],
-  "geometry": {"coordinates":[-72.79427699999999,42.526757],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-72.794277,42.526757],"type":"Point"}
 }

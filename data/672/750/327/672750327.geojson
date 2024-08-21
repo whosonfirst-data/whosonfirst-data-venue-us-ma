@@ -2,83 +2,86 @@
   "id": 672750327,
   "type": "Feature",
   "properties": {
-    "addr:full":"530 Centre St Brockton MA 02302",
-    "addr:housenumber":"530",
-    "addr:postcode":"02302",
-    "addr:street":"Centre St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.998116,42.08495,-70.998116,42.08495",
-    "geom:latitude":42.08495,
-    "geom:longitude":-70.998116,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"530 Centre St",
-    "sg:city":"Brockton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "530 Centre St Brockton MA 02302",
+    "addr:housenumber": "530",
+    "addr:postcode": "02302",
+    "addr:street": "Centre St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.998116,42.084950,-70.998116,42.084950",
+    "geom:latitude": 42.08495,
+    "geom:longitude": -70.998116,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Lambert's Auto Repair, 530 Centre St Brockton MA US",
+    "ovtr:similarity": 3.5105130672454834,
+    "sg:address": "530 Centre St",
+    "sg:city": "Brockton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 588 1095",
-    "sg:postcode":"02302",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 588 1095",
+    "sg:postcode": "02302",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85855157,
-        102191575,
-        404476503,
-        85633793,
-        85950319,
-        102084367,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85855157,
+      102191575,
+      404476503,
+      85633793,
+      85950319,
+      102084367,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2UopvrNYaSVvvxkkKmGNE3_42.084950_-70.998116@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a339500d40ad03a2b5c8f3b2c658",
+      "sg:id": "SG_2UopvrNYaSVvvxkkKmGNE3_42.084950_-70.998116@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461725946,
-    "wof:geomhash":"7a95773598cde0e96e645671f20e01da",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476503,
-            "locality_id":85950319,
-            "neighbourhood_id":85855157,
-            "region_id":85688645,
-            "venue_id":672750327
-        }
+    "wof:country": "US",
+    "wof:created": 1461725946,
+    "wof:geomhash": "7a95773598cde0e96e645671f20e01da",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476503,
+        "locality_id": 85950319,
+        "neighbourhood_id": 85855157,
+        "region_id": 85688645,
+        "venue_id": 672750327
+      }
     ],
-    "wof:id":672750327,
-    "wof:lastmodified":1492107695,
-    "wof:name":"Lamberts Auto Repair",
-    "wof:parent_id":85855157,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 672750327,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Lamberts Auto Repair",
+    "wof:parent_id": 85855157,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -70.998116,
     42.08495,
     -70.998116,
     42.08495
-],
+  ],
   "geometry": {"coordinates":[-70.998116,42.08495],"type":"Point"}
 }

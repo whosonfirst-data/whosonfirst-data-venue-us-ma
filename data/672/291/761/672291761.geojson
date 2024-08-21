@@ -2,80 +2,83 @@
   "id": 672291761,
   "type": "Feature",
   "properties": {
-    "addr:full":"152 South St Bridgewater MA 02324",
-    "addr:housenumber":"152",
-    "addr:postcode":"02324",
-    "addr:street":"South St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.979794,41.985368,-70.979794,41.985368",
-    "geom:latitude":41.985368,
-    "geom:longitude":-70.979794,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"152 South St",
-    "sg:city":"Bridgewater",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "152 South St Bridgewater MA 02324",
+    "addr:housenumber": "152",
+    "addr:postcode": "02324",
+    "addr:street": "South St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.979794,41.985368,-70.979794,41.985368",
+    "geom:latitude": 41.985368,
+    "geom:longitude": -70.979794,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Arch Orthodontics, 152 South St Bridgewater MA US",
+    "ovtr:similarity": 2.222090005874634,
+    "sg:address": "152 South St",
+    "sg:city": "Bridgewater",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 279 3101",
-    "sg:postcode":"02324",
-    "sg:province":"MA",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 279 3101",
+    "sg:postcode": "02324",
+    "sg:province": "MA",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85850909,
-        102191575,
-        404476501,
-        85633793,
-        85950443,
-        102084367,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85850909,
+      102191575,
+      404476501,
+      85633793,
+      85950443,
+      102084367,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5ZPvZWvXBVkNxAJnvthj25_41.985368_-70.979794@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33866203ca203ab4bad6a7d6ec3",
+      "sg:id": "SG_5ZPvZWvXBVkNxAJnvthj25_41.985368_-70.979794@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715438,
-    "wof:geomhash":"8f36ed19f5d1991f5b04a46f59f1031e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476501,
-            "locality_id":85950443,
-            "neighbourhood_id":85850909,
-            "region_id":85688645,
-            "venue_id":672291761
-        }
+    "wof:country": "US",
+    "wof:created": 1461715438,
+    "wof:geomhash": "d6fe1b47d3a94367177df214349c6252",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476501,
+        "locality_id": 85950443,
+        "neighbourhood_id": 85850909,
+        "region_id": 85688645,
+        "venue_id": 672291761
+      }
     ],
-    "wof:id":672291761,
-    "wof:lastmodified":1472625485,
-    "wof:name":"Arch Orthodontics",
-    "wof:parent_id":85850909,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:id": 672291761,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Arch Orthodontics",
+    "wof:parent_id": 85850909,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -70.979794,
     41.985368,
     -70.979794,
     41.985368
-],
+  ],
   "geometry": {"coordinates":[-70.979794,41.985368],"type":"Point"}
 }

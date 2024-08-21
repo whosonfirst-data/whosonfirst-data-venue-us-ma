@@ -2,88 +2,91 @@
   "id": 673062821,
   "type": "Feature",
   "properties": {
-    "addr:full":"37 Mystic Ave Somerville MA 02145",
-    "addr:housenumber":"37",
-    "addr:postcode":"02145",
-    "addr:street":"Mystic Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.07789,42.387169,-71.07789,42.387169",
-    "geom:latitude":42.387169,
-    "geom:longitude":-71.07789,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"37 Mystic Ave",
-    "sg:city":"Somerville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Rental",
-            "type":"Services"
-        }
+    "addr:full": "37 Mystic Ave Somerville MA 02145",
+    "addr:housenumber": "37",
+    "addr:postcode": "02145",
+    "addr:street": "Mystic Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.077890,42.387169,-71.077890,42.387169",
+    "geom:latitude": 42.387169,
+    "geom:longitude": -71.07789,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Enterprise Rent-A-Car, 37 Mystic Ave Somerville MA US",
+    "ovtr:similarity": 1.9981880187988281,
+    "sg:address": "37 Mystic Ave",
+    "sg:city": "Somerville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 625 1766",
-    "sg:postcode":"02145",
-    "sg:province":"MA",
-    "sg:tags":[
-        "renting",
-        "car",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 625 1766",
+    "sg:postcode": "02145",
+    "sg:province": "MA",
+    "sg:tags": [
+      "renting",
+      "car",
+      "automobile"
     ],
-    "sg:website":"www.enterprise.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85816797,
-        102191575,
-        404476445,
-        85633793,
-        85950339,
-        102084643,
-        85688645
+    "sg:website": "www.enterprise.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85816797,
+      102191575,
+      404476445,
+      85633793,
+      85950339,
+      102084643,
+      85688645
     ],
-    "wof:brand_id":420573775,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Z1jXVj4dNgOCElEfVhdPn_42.386558_-71.077141@1293134755"
+    "wof:brand_id": 420573775,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30666005a0203e15b1942566dc3",
+      "sg:id": "SG_4Z1jXVj4dNgOCElEfVhdPn_42.386558_-71.077141@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733006,
-    "wof:geomhash":"310d12db633a403b8be3d35f6602b43f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476445,
-            "locality_id":85950339,
-            "neighbourhood_id":85816797,
-            "region_id":85688645,
-            "venue_id":673062821
-        }
+    "wof:country": "US",
+    "wof:created": 1461733006,
+    "wof:geomhash": "310d12db633a403b8be3d35f6602b43f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476445,
+        "locality_id": 85950339,
+        "neighbourhood_id": 85816797,
+        "region_id": 85688645,
+        "venue_id": 673062821
+      }
     ],
-    "wof:id":673062821,
-    "wof:lastmodified":1511321743,
-    "wof:name":"Enterprise Rent-A-Car",
-    "wof:parent_id":85816797,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "renting",
-        "car",
-        "automobile"
+    "wof:id": 673062821,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Enterprise Rent-A-Car",
+    "wof:parent_id": 85816797,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "renting",
+      "car",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -71.07789,
     42.387169,
     -71.07789,
     42.387169
-],
+  ],
   "geometry": {"coordinates":[-71.07789,42.387169],"type":"Point"}
 }

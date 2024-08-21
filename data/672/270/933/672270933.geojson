@@ -2,84 +2,87 @@
   "id": 672270933,
   "type": "Feature",
   "properties": {
-    "addr:full":"25 Exchange St Lynn MA 01901",
-    "addr:housenumber":"25",
-    "addr:postcode":"01901",
-    "addr:street":"Exchange St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.943395,42.463645,-70.943395,42.463645",
-    "geom:latitude":42.463645,
-    "geom:longitude":-70.943395,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"25 Exchange St",
-    "sg:city":"Lynn",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "25 Exchange St Lynn MA 01901",
+    "addr:housenumber": "25",
+    "addr:postcode": "01901",
+    "addr:street": "Exchange St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.943395,42.463645,-70.943395,42.463645",
+    "geom:latitude": 42.463645,
+    "geom:longitude": -70.943395,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Lynn Arts Inc, 25 Exchange St Lynn MA US",
+    "ovtr:similarity": 2.397520065307617,
+    "sg:address": "25 Exchange St",
+    "sg:city": "Lynn",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 598 5244",
-    "sg:postcode":"01901",
-    "sg:province":"MA",
-    "sg:tags":[
-        "organization",
-        "arts",
-        "information"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 598 5244",
+    "sg:postcode": "01901",
+    "sg:province": "MA",
+    "sg:tags": [
+      "organization",
+      "arts",
+      "information"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891411,
-        102191575,
-        404476207,
-        85633793,
-        85950413,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85891411,
+      102191575,
+      404476207,
+      85633793,
+      85950413,
+      102084463,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0HK8qrX1mXhAaZVAEthJn5_42.463645_-70.943395@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3076eba165c036fa13274da69ce",
+      "sg:id": "SG_0HK8qrX1mXhAaZVAEthJn5_42.463645_-70.943395@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715019,
-    "wof:geomhash":"e991a980531f89554aee19224514e4a2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476207,
-            "locality_id":85950413,
-            "neighbourhood_id":85891411,
-            "region_id":85688645,
-            "venue_id":672270933
-        }
+    "wof:country": "US",
+    "wof:created": 1461715019,
+    "wof:geomhash": "82bca72649b6688138c376471451da31",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476207,
+        "locality_id": 85950413,
+        "neighbourhood_id": 85891411,
+        "region_id": 85688645,
+        "venue_id": 672270933
+      }
     ],
-    "wof:id":672270933,
-    "wof:lastmodified":1472625427,
-    "wof:name":"Lynn Arts Inc",
-    "wof:parent_id":85891411,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "organization",
-        "arts",
-        "information"
+    "wof:id": 672270933,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Lynn Arts Inc",
+    "wof:parent_id": 85891411,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "organization",
+      "arts",
+      "information"
     ]
-},
+  },
   "bbox": [
     -70.943395,
     42.463645,
     -70.943395,
     42.463645
-],
+  ],
   "geometry": {"coordinates":[-70.943395,42.463645],"type":"Point"}
 }

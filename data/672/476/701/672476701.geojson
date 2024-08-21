@@ -2,80 +2,83 @@
   "id": 672476701,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 Elm St Pittsfield MA 01201",
-    "addr:housenumber":"200",
-    "addr:postcode":"01201",
-    "addr:street":"Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-73.236897,42.443656,-73.236897,42.443656",
-    "geom:latitude":42.443656,
-    "geom:longitude":-73.236897,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"200 Elm St",
-    "sg:city":"Pittsfield",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "200 Elm St Pittsfield MA 01201",
+    "addr:housenumber": "200",
+    "addr:postcode": "01201",
+    "addr:street": "Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-73.236897,42.443656,-73.236897,42.443656",
+    "geom:latitude": 42.443656,
+    "geom:longitude": -73.236897,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Yarmosky Pediatric Dentistry, 200 Elm St Pittsfield MA US",
+    "ovtr:similarity": 2.2901480197906494,
+    "sg:address": "200 Elm St",
+    "sg:city": "Pittsfield",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 499 4850",
-    "sg:postcode":"01201",
-    "sg:province":"MA",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 499 4850",
+    "sg:postcode": "01201",
+    "sg:province": "MA",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85829545,
-        102191575,
-        404476123,
-        85633793,
-        85950325,
-        102084369,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85829545,
+      102191575,
+      404476123,
+      85633793,
+      85950325,
+      102084369,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4bdP0dYi9CWTJh2uKYJsvx_42.443656_-73.236897@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2b89a5186b44e03d3a18e83d4501a",
+      "sg:id": "SG_4bdP0dYi9CWTJh2uKYJsvx_42.443656_-73.236897@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461719853,
-    "wof:geomhash":"71667cebb4473c6a24fa9ba09afac16b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084369,
-            "localadmin_id":404476123,
-            "locality_id":85950325,
-            "neighbourhood_id":85829545,
-            "region_id":85688645,
-            "venue_id":672476701
-        }
+    "wof:country": "US",
+    "wof:created": 1461719853,
+    "wof:geomhash": "0cd2204f296860adf894c6f5b2a703cb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084369,
+        "localadmin_id": 404476123,
+        "locality_id": 85950325,
+        "neighbourhood_id": 85829545,
+        "region_id": 85688645,
+        "venue_id": 672476701
+      }
     ],
-    "wof:id":672476701,
-    "wof:lastmodified":1472625740,
-    "wof:name":"Yarmosky Pediatric Dentistry",
-    "wof:parent_id":85829545,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:id": 672476701,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Yarmosky Pediatric Dentistry",
+    "wof:parent_id": 85829545,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -73.236897,
     42.443656,
     -73.236897,
     42.443656
-],
+  ],
   "geometry": {"coordinates":[-73.236897,42.443656],"type":"Point"}
 }

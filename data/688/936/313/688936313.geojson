@@ -2,72 +2,75 @@
   "id": 688936313,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 Washington St Canton MA 02021",
-    "addr:housenumber":"20",
-    "addr:postcode":"02021",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.148945,42.139282,-71.148945,42.139282",
-    "geom:latitude":42.139282,
-    "geom:longitude":-71.148945,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20 Washington St",
-    "sg:city":"Canton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "20 Washington St Canton MA 02021",
+    "addr:housenumber": "20",
+    "addr:postcode": "02021",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.148945,42.139282,-71.148945,42.139282",
+    "geom:latitude": 42.139282,
+    "geom:longitude": -71.148945,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Anton's Cleaners, 20 Washington St Canton MA US",
+    "ovtr:similarity": 2.6770520210266113,
+    "sg:address": "20 Washington St",
+    "sg:city": "Canton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 828 9733",
-    "sg:postcode":"02021",
-    "sg:province":"MA",
-    "sg:website":"www.antons.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950843,
-        102084403,
-        85816759
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 828 9733",
+    "sg:postcode": "02021",
+    "sg:province": "MA",
+    "sg:website": "www.antons.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950843,
+      102084403,
+      85816759
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6mt3G4slhq86UInIB0g0Vd_42.139282_-71.148945@1303262197"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a33836a76b94038c297b733cbfb1",
+      "sg:id": "SG_6mt3G4slhq86UInIB0g0Vd_42.139282_-71.148945@1303262197"
     },
-    "wof:country":"US",
-    "wof:created":1461735977,
-    "wof:geomhash":"9ceb8052dbd950fdf2f53463a139da6d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084403,
-            "locality_id":85950843,
-            "neighbourhood_id":85816759,
-            "region_id":85688645,
-            "venue_id":688936313
-        }
+    "wof:country": "US",
+    "wof:created": 1461735977,
+    "wof:geomhash": "7dc6320f72831721af41bcea82dd13c8",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "locality_id": 85950843,
+        "neighbourhood_id": 85816759,
+        "region_id": 85688645,
+        "venue_id": 688936313
+      }
     ],
-    "wof:id":688936313,
-    "wof:lastmodified":1472625013,
-    "wof:name":"Anton's Cleaners",
-    "wof:parent_id":85816759,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 688936313,
+    "wof:lastmodified": 1724253280,
+    "wof:name": "Anton's Cleaners",
+    "wof:parent_id": 85816759,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.148945,
     42.139282,
     -71.148945,
     42.139282
-],
+  ],
   "geometry": {"coordinates":[-71.148945,42.139282],"type":"Point"}
 }

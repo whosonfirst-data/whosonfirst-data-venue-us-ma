@@ -2,86 +2,89 @@
   "id": 673086545,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 Traders Way Salem MA 01970",
-    "addr:housenumber":"1",
-    "addr:postcode":"01970",
-    "addr:street":"Traders Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.92365,42.502641,-70.92365,42.502641",
-    "geom:latitude":42.502641,
-    "geom:longitude":-70.92365,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"1 Traders Way",
-    "sg:city":"Salem",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1 Traders Way Salem MA 01970",
+    "addr:housenumber": "1",
+    "addr:postcode": "01970",
+    "addr:street": "Traders Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.923650,42.502641,-70.923650,42.502641",
+    "geom:latitude": 42.502641,
+    "geom:longitude": -70.92365,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "McDonald's, 1 Traders Way Salem MA US",
+    "ovtr:similarity": 3.929548978805542,
+    "sg:address": "1 Traders Way",
+    "sg:city": "Salem",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/salem/188708-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"01970",
-    "sg:province":"MA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ma/salem/188708-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "01970",
+    "sg:province": "MA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420523403,
-        102191575,
-        404476213,
-        85633793,
-        85950403,
-        102084463,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420523403,
+      102191575,
+      404476213,
+      85633793,
+      85950403,
+      102084463,
+      85688645
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":1693587917,
-        "sg:id":"SG_3QcpME3HLcfHPgF7dOj5Av_42.502641_-70.923650@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 1693587917,
+      "ovtr:id": "08f2a3076518c7850391a3f3c5b8ade3",
+      "sg:id": "SG_3QcpME3HLcfHPgF7dOj5Av_42.502641_-70.923650@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461733490,
-    "wof:geomhash":"13cc6d09cb3afddbe77baaef62df908b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084463,
-            "localadmin_id":404476213,
-            "locality_id":85950403,
-            "neighbourhood_id":420523403,
-            "region_id":85688645,
-            "venue_id":673086545
-        }
+    "wof:country": "US",
+    "wof:created": 1461733490,
+    "wof:geomhash": "13cc6d09cb3afddbe77baaef62df908b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084463,
+        "localadmin_id": 404476213,
+        "locality_id": 85950403,
+        "neighbourhood_id": 420523403,
+        "region_id": 85688645,
+        "venue_id": 673086545
+      }
     ],
-    "wof:id":673086545,
-    "wof:lastmodified":1512142808,
-    "wof:name":"McDonald's",
-    "wof:parent_id":420523403,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 673086545,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 420523403,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -70.92365,
     42.502641,
     -70.92365,
     42.502641
-],
-  "geometry": {"coordinates":[-70.92364999999999,42.502641],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.92365,42.502641],"type":"Point"}
 }

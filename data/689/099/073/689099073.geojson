@@ -2,82 +2,85 @@
   "id": 689099073,
   "type": "Feature",
   "properties": {
-    "addr:full":"239 Elm St Davis Sq Somerville MA 02144",
-    "addr:housenumber":"239",
-    "addr:postcode":"02144",
-    "addr:street":"Elm St;Sq",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.121428,42.395022,-71.121428,42.395022",
-    "geom:latitude":42.395022,
-    "geom:longitude":-71.121428,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"239 Elm St Davis Sq",
-    "sg:city":"Somerville",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Meat & Fish",
-            "type":"Retail Goods"
-        }
+    "addr:full": "239 Elm St Davis Sq Somerville MA 02144",
+    "addr:housenumber": "239",
+    "addr:postcode": "02144",
+    "addr:street": "Elm St;Sq",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.121428,42.395022,-71.121428,42.395022",
+    "geom:latitude": 42.395022,
+    "geom:longitude": -71.121428,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "McKinnon's Meat Market, 239 Elm St Somerville MA US",
+    "ovtr:similarity": 3.8679959774017334,
+    "sg:address": "239 Elm St Davis Sq",
+    "sg:city": "Somerville",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Meat \u0026 Fish",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 666 0888",
-    "sg:postcode":"02144",
-    "sg:province":"MA",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 666 0888",
+    "sg:postcode": "02144",
+    "sg:province": "MA",
+    "sg:tags": [
+      "shop"
     ],
-    "sg:website":"www.mckinnonsmeatmarket.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85850575,
-        102191575,
-        404476445,
-        85633793,
-        85950339,
-        102084643,
-        85688645
+    "sg:website": "www.mckinnonsmeatmarket.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85850575,
+      102191575,
+      404476445,
+      85633793,
+      85950339,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2XnuTTIEEjeHP1iLGCx1iT_42.395022_-71.121428@1303262218"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3067425db3503c2cf542b9f99cc",
+      "sg:id": "SG_2XnuTTIEEjeHP1iLGCx1iT_42.395022_-71.121428@1303262218"
     },
-    "wof:country":"US",
-    "wof:created":1461739366,
-    "wof:geomhash":"bc042bda6bd350f6660e83d492cc48ef",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476445,
-            "locality_id":85950339,
-            "neighbourhood_id":85850575,
-            "region_id":85688645,
-            "venue_id":689099073
-        }
+    "wof:country": "US",
+    "wof:created": 1461739366,
+    "wof:geomhash": "5fb782325db683de32de81d288445e87",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476445,
+        "locality_id": 85950339,
+        "neighbourhood_id": 85850575,
+        "region_id": 85688645,
+        "venue_id": 689099073
+      }
     ],
-    "wof:id":689099073,
-    "wof:lastmodified":1489023685,
-    "wof:name":"McKinnon's Meat Market",
-    "wof:parent_id":85850575,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:id": 689099073,
+    "wof:lastmodified": 1724253275,
+    "wof:name": "McKinnon's Meat Market",
+    "wof:parent_id": 85850575,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -71.121428,
     42.395022,
     -71.121428,
     42.395022
-],
-  "geometry": {"coordinates":[-71.12142799999999,42.395022],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.121428,42.395022],"type":"Point"}
 }

@@ -2,86 +2,89 @@
   "id": 673046443,
   "type": "Feature",
   "properties": {
-    "addr:full":"26 Main St Plymouth MA 02360",
-    "addr:housenumber":"26",
-    "addr:postcode":"02360",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.66437,41.956354,-70.66437,41.956354",
-    "geom:latitude":41.956354,
-    "geom:longitude":-70.66437,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"26 Main St",
-    "sg:city":"Plymouth",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Tattoo Parlor",
-            "type":"Services"
-        }
+    "addr:full": "26 Main St Plymouth MA 02360",
+    "addr:housenumber": "26",
+    "addr:postcode": "02360",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.664370,41.956354,-70.664370,41.956354",
+    "geom:latitude": 41.956354,
+    "geom:longitude": -70.66437,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Cobra Custom Tattoo, 26 Main St Plymouth MA US",
+    "ovtr:similarity": 1.9931399822235107,
+    "sg:address": "26 Main St",
+    "sg:city": "Plymouth",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Tattoo Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 747 8135",
-    "sg:postcode":"02360",
-    "sg:province":"MA",
-    "sg:tags":[
-        "tattooing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 747 8135",
+    "sg:postcode": "02360",
+    "sg:province": "MA",
+    "sg:tags": [
+      "tattooing"
     ],
-    "sg:website":"www.cobracustomtattoo.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85827215,
-        102191575,
-        404476561,
-        85633793,
-        85950483,
-        102084367,
-        85688645
+    "sg:website": "www.cobracustomtattoo.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85827215,
+      102191575,
+      404476561,
+      85633793,
+      85950483,
+      102084367,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2cijjvGFY1cLYSEiEqOvtD_41.956303_-70.664368@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a31410b160db03d1a124ce3718d3",
+      "sg:id": "SG_2cijjvGFY1cLYSEiEqOvtD_41.956303_-70.664368@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732686,
-    "wof:geomhash":"b0043ded16147073d340a7945f9f08d4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476561,
-            "locality_id":85950483,
-            "neighbourhood_id":85827215,
-            "region_id":85688645,
-            "venue_id":673046443
-        }
+    "wof:country": "US",
+    "wof:created": 1461732686,
+    "wof:geomhash": "327c61bdc35b14f69b31f3bd82b6be64",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476561,
+        "locality_id": 85950483,
+        "neighbourhood_id": 85827215,
+        "region_id": 85688645,
+        "venue_id": 673046443
+      }
     ],
-    "wof:id":673046443,
-    "wof:lastmodified":1472625081,
-    "wof:name":"Cobra Custom Tattoo",
-    "wof:parent_id":85827215,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "tattooing"
+    "wof:id": 673046443,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "Cobra Custom Tattoo",
+    "wof:parent_id": 85827215,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tattooing"
     ]
-},
+  },
   "bbox": [
     -70.66437,
     41.956354,
     -70.66437,
     41.956354
-],
-  "geometry": {"coordinates":[-70.66437000000001,41.956354],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.66437,41.956354],"type":"Point"}
 }

@@ -2,91 +2,94 @@
   "id": 689193607,
   "type": "Feature",
   "properties": {
-    "addr:full":"729 Main St Falmouth MA 02540",
-    "addr:housenumber":"729",
-    "addr:postcode":"02540",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.60365,41.553105,-70.60365,41.553105",
-    "geom:latitude":41.553105,
-    "geom:longitude":-70.60365,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"729 Main St",
-    "sg:city":"Falmouth",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"Lounge",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Wholesale",
-            "subcategory":"Wine & Distilled Alcoholic Beverages",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "729 Main St Falmouth MA 02540",
+    "addr:housenumber": "729",
+    "addr:postcode": "02540",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.603650,41.553105,-70.603650,41.553105",
+    "geom:latitude": 41.553105,
+    "geom:longitude": -70.60365,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "John's Liquor Store, 729 Main St Falmouth MA US",
+    "ovtr:similarity": 2.0781071186065674,
+    "sg:address": "729 Main St",
+    "sg:city": "Falmouth",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "Lounge",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Wine \u0026 Distilled Alcoholic Beverages",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 548 2287",
-    "sg:postcode":"02540",
-    "sg:province":"MA",
-    "sg:tags":[
-        "store",
-        "broker",
-        "cocktail"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 548 2287",
+    "sg:postcode": "02540",
+    "sg:province": "MA",
+    "sg:tags": [
+      "store",
+      "broker",
+      "cocktail"
     ],
-    "sg:website":"http://Johnsliquors.Com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85950553,
-        102084379,
-        85818889
+    "sg:website": "http://Johnsliquors.Com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85950553,
+      102084379,
+      85818889
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4P6dLygrtPhifmZMyTn6J7_41.553105_-70.603650@1303262231"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a31613ca22a9036e7d6931daa8cd",
+      "sg:id": "SG_4P6dLygrtPhifmZMyTn6J7_41.553105_-70.603650@1303262231"
     },
-    "wof:country":"US",
-    "wof:created":1461741916,
-    "wof:geomhash":"8227474e56be91d12e2b9b710ee7a5ae",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "locality_id":85950553,
-            "neighbourhood_id":85818889,
-            "region_id":85688645,
-            "venue_id":689193607
-        }
+    "wof:country": "US",
+    "wof:created": 1461741916,
+    "wof:geomhash": "0ed10339b5d53120de0b5b01a57f75b0",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "locality_id": 85950553,
+        "neighbourhood_id": 85818889,
+        "region_id": 85688645,
+        "venue_id": 689193607
+      }
     ],
-    "wof:id":689193607,
-    "wof:lastmodified":1472625593,
-    "wof:name":"John's Liquor Store",
-    "wof:parent_id":85818889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "store",
-        "broker",
-        "cocktail"
+    "wof:id": 689193607,
+    "wof:lastmodified": 1724253279,
+    "wof:name": "John's Liquor Store",
+    "wof:parent_id": 85818889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "store",
+      "broker",
+      "cocktail"
     ]
-},
+  },
   "bbox": [
     -70.60365,
     41.553105,
     -70.60365,
     41.553105
-],
+  ],
   "geometry": {"coordinates":[-70.60365,41.553105],"type":"Point"}
 }

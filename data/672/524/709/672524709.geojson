@@ -2,80 +2,83 @@
   "id": 672524709,
   "type": "Feature",
   "properties": {
-    "addr:full":"64 High St Cotuit MA 02635",
-    "addr:housenumber":"64",
-    "addr:postcode":"02635",
-    "addr:street":"High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.437081,41.618551,-70.437081,41.618551",
-    "geom:latitude":41.618551,
-    "geom:longitude":-70.437081,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"64 High St",
-    "sg:city":"Cotuit",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "64 High St Cotuit MA 02635",
+    "addr:housenumber": "64",
+    "addr:postcode": "02635",
+    "addr:street": "High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.437081,41.618551,-70.437081,41.618551",
+    "geom:latitude": 41.618551,
+    "geom:longitude": -70.437081,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Cotuit Fire District, 64 High St Cotuit MA US",
+    "ovtr:similarity": 2.812551975250244,
+    "sg:address": "64 High St",
+    "sg:city": "Cotuit",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 428 2210",
-    "sg:postcode":"02635",
-    "sg:province":"MA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 428 2210",
+    "sg:postcode": "02635",
+    "sg:province": "MA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85812439,
-        102191575,
-        404475893,
-        85633793,
-        85950321,
-        102084379,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85812439,
+      102191575,
+      404475893,
+      85633793,
+      85950321,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3JcoxNMrNyWXMa1swQkxdi_41.618551_-70.437081@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a31719165c9a03dc9f04d256e3e3",
+      "sg:id": "SG_3JcoxNMrNyWXMa1swQkxdi_41.618551_-70.437081@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461720940,
-    "wof:geomhash":"5d094dd869481803579628fe288a717f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475893,
-            "locality_id":85950321,
-            "neighbourhood_id":85812439,
-            "region_id":85688645,
-            "venue_id":672524709
-        }
+    "wof:country": "US",
+    "wof:created": 1461720940,
+    "wof:geomhash": "3d691cb302626d213829a1458ba7dc5b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475893,
+        "locality_id": 85950321,
+        "neighbourhood_id": 85812439,
+        "region_id": 85688645,
+        "venue_id": 672524709
+      }
     ],
-    "wof:id":672524709,
-    "wof:lastmodified":1472625789,
-    "wof:name":"Cotuit Fire District",
-    "wof:parent_id":85812439,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 672524709,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Cotuit Fire District",
+    "wof:parent_id": 85812439,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -70.437081,
     41.618551,
     -70.437081,
     41.618551
-],
-  "geometry": {"coordinates":[-70.43708100000001,41.618551],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.437081,41.618551],"type":"Point"}
 }

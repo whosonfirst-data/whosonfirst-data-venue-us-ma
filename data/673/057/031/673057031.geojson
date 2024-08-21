@@ -2,80 +2,83 @@
   "id": 673057031,
   "type": "Feature",
   "properties": {
-    "addr:full":"51 Oak Hill Rd Westford MA 01886",
-    "addr:housenumber":"51",
-    "addr:postcode":"01886",
-    "addr:street":"Oak Hill Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.414069,42.618513,-71.414069,42.618513",
-    "geom:latitude":42.618513,
-    "geom:longitude":-71.414069,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"51 Oak Hill Rd",
-    "sg:city":"Westford",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "51 Oak Hill Rd Westford MA 01886",
+    "addr:housenumber": "51",
+    "addr:postcode": "01886",
+    "addr:street": "Oak Hill Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.414069,42.618513,-71.414069,42.618513",
+    "geom:latitude": 42.618513,
+    "geom:longitude": -71.414069,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Mill City Auto Body, 51 Oak Hill Rd Westford MA US",
+    "ovtr:similarity": 2.325498104095459,
+    "sg:address": "51 Oak Hill Rd",
+    "sg:city": "Westford",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 692 2333",
-    "sg:postcode":"01886",
-    "sg:province":"MA",
-    "sg:tags":[
-        "body",
-        "repairing",
-        "painting",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 692 2333",
+    "sg:postcode": "01886",
+    "sg:province": "MA",
+    "sg:tags": [
+      "body",
+      "repairing",
+      "painting",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85857371,
-        102084643
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85857371,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_41wsVCnJqZrYqg1njB5tYt_42.618673_-71.414206@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30790c6c0ea03c0f5d435bb8f7b",
+      "sg:id": "SG_41wsVCnJqZrYqg1njB5tYt_42.618673_-71.414206@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732893,
-    "wof:geomhash":"4cae13d59f7137fc8a11ec285d2de1f7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85857371,
-            "region_id":85688645,
-            "venue_id":673057031
-        }
+    "wof:country": "US",
+    "wof:created": 1461732893,
+    "wof:geomhash": "a98fe213cbb7f57d498096cdcbb08cf4",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85857371,
+        "region_id": 85688645,
+        "venue_id": 673057031
+      }
     ],
-    "wof:id":673057031,
-    "wof:lastmodified":1472625123,
-    "wof:name":"Mill City Auto Body",
-    "wof:parent_id":85857371,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "repairing",
-        "painting",
-        "automobile"
+    "wof:id": 673057031,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Mill City Auto Body",
+    "wof:parent_id": 85857371,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "repairing",
+      "painting",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -71.414069,
     42.618513,
     -71.414069,
     42.618513
-],
+  ],
   "geometry": {"coordinates":[-71.414069,42.618513],"type":"Point"}
 }

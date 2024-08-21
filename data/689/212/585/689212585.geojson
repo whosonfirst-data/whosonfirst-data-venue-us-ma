@@ -2,66 +2,73 @@
   "id": 689212585,
   "type": "Feature",
   "properties": {
-    "addr:full":"827 S Main St Attleboro MA 02703",
-    "addr:housenumber":"827",
-    "addr:postcode":"02703",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.311897,41.912701,-71.311897,41.912701",
-    "geom:latitude":41.912701,
-    "geom:longitude":-71.311897,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"827 S Main St",
-    "sg:city":"Attleboro",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "827 S Main St Attleboro MA 02703",
+    "addr:housenumber": "827",
+    "addr:postcode": "02703",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.311897,41.912701,-71.311897,41.912701",
+    "geom:latitude": 41.912701,
+    "geom:longitude": -71.311897,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Twin Liquors, 827 S Main St Attleboro MA US",
+    "ovtr:similarity": 3.7771520614624023,
+    "sg:address": "827 S Main St",
+    "sg:city": "Attleboro",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 222 1233",
-    "sg:postcode":"02703",
-    "sg:province":"MA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 222 1233",
+    "sg:postcode": "02703",
+    "sg:province": "MA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Y5CQzBcBJNDZsPZDfCuvj_41.912701_-71.311897@1303262233"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a338deae168e036eabfd653f3ff5",
+      "sg:id": "SG_5Y5CQzBcBJNDZsPZDfCuvj_41.912701_-71.311897@1303262233"
     },
-    "wof:country":"US",
-    "wof:created":1461742307,
-    "wof:geomhash":"fa27a6b7d03cca4beb4658632f330512",
-    "wof:hierarchy":[],
-    "wof:id":689212585,
-    "wof:lastmodified":1492099285,
-    "wof:name":"Twin Liquors Inc",
-    "wof:parent_id":85816479,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:country": "US",
+    "wof:created": 1461742307,
+    "wof:geomhash": "fa27a6b7d03cca4beb4658632f330512",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689212585
+      }
+    ],
+    "wof:id": 689212585,
+    "wof:lastmodified": 1724253283,
+    "wof:name": "Twin Liquors Inc",
+    "wof:parent_id": 85816479,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -71.311897,
     41.912701,
     -71.311897,
     41.912701
-],
+  ],
   "geometry": {"coordinates":[-71.311897,41.912701],"type":"Point"}
 }

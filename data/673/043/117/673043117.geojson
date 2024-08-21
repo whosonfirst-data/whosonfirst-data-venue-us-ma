@@ -2,61 +2,68 @@
   "id": 673043117,
   "type": "Feature",
   "properties": {
-    "addr:full":"96 Lakefront St Lunenburg MA 01462",
-    "addr:housenumber":"96",
-    "addr:postcode":"01462",
-    "addr:street":"Lakefront St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.745022,42.573652,-71.745022,42.573652",
-    "geom:latitude":42.573652,
-    "geom:longitude":-71.745022,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"96 Lakefront St",
-    "sg:city":"Lunenburg",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "96 Lakefront St Lunenburg MA 01462",
+    "addr:housenumber": "96",
+    "addr:postcode": "01462",
+    "addr:street": "Lakefront St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.745022,42.573652,-71.745022,42.573652",
+    "geom:latitude": 42.573652,
+    "geom:longitude": -71.745022,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "On the Rocks, 96 Lakefront St Lunenburg MA US",
+    "ovtr:similarity": 3.9509799480438232,
+    "sg:address": "96 Lakefront St",
+    "sg:city": "Lunenburg",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 342 6693",
-    "sg:postcode":"01462",
-    "sg:province":"MA",
-    "sg:tags":[
-        "restaurant"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 342 6693",
+    "sg:postcode": "01462",
+    "sg:province": "MA",
+    "sg:tags": [
+      "restaurant"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1rnTizBfSruOXbLRg32Mme_42.574192_-71.745082@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32a01b03ca803d01fac2f33f10c",
+      "sg:id": "SG_1rnTizBfSruOXbLRg32Mme_42.574192_-71.745082@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461732611,
-    "wof:geomhash":"dece5fcca8f0bf611f7342d654b0f0e9",
-    "wof:hierarchy":[],
-    "wof:id":673043117,
-    "wof:lastmodified":1472625064,
-    "wof:name":"On Rocks",
-    "wof:parent_id":420524195,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "restaurant"
+    "wof:country": "US",
+    "wof:created": 1461732611,
+    "wof:geomhash": "c80492568ccc13687b2afa9ebe93ac8b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673043117
+      }
+    ],
+    "wof:id": 673043117,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "On Rocks",
+    "wof:parent_id": 420524195,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "restaurant"
     ]
-},
+  },
   "bbox": [
     -71.745022,
     42.573652,
     -71.745022,
     42.573652
-],
-  "geometry": {"coordinates":[-71.74502200000001,42.573652],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.745022,42.573652],"type":"Point"}
 }

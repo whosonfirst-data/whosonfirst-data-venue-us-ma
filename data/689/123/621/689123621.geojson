@@ -2,84 +2,87 @@
   "id": 689123621,
   "type": "Feature",
   "properties": {
-    "addr:full":"324 Main St Medford MA 02155",
-    "addr:housenumber":"324",
-    "addr:postcode":"02155",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.10887,42.40743,-71.10887,42.40743",
-    "geom:latitude":42.40743,
-    "geom:longitude":-71.10887,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"324 Main St",
-    "sg:city":"Medford",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "324 Main St Medford MA 02155",
+    "addr:housenumber": "324",
+    "addr:postcode": "02155",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.108870,42.407430,-71.108870,42.407430",
+    "geom:latitude": 42.40743,
+    "geom:longitude": -71.10887,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Bob's Italian Foods, 324 Main St Medford MA US",
+    "ovtr:similarity": 3.625822067260742,
+    "sg:address": "324 Main St",
+    "sg:city": "Medford",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 395 0400",
-    "sg:postcode":"02155",
-    "sg:province":"MA",
-    "sg:tags":[
-        "italian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 395 0400",
+    "sg:postcode": "02155",
+    "sg:province": "MA",
+    "sg:tags": [
+      "italian"
     ],
-    "sg:website":"www.bobsfood.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85891447,
-        102191575,
-        404476403,
-        85633793,
-        85950347,
-        102084643,
-        85688645
+    "sg:website": "www.bobsfood.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85891447,
+      102191575,
+      404476403,
+      85633793,
+      85950347,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6WkYr6luQ8Gn5CZdaIpBbQ_42.407430_-71.108870@1303262222"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3075b4d4b3303e5b24dfb01cba1",
+      "sg:id": "SG_6WkYr6luQ8Gn5CZdaIpBbQ_42.407430_-71.108870@1303262222"
     },
-    "wof:country":"US",
-    "wof:created":1461739936,
-    "wof:geomhash":"01940023146e9f7f0a3d2f323617ef96",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476403,
-            "locality_id":85950347,
-            "neighbourhood_id":85891447,
-            "region_id":85688645,
-            "venue_id":689123621
-        }
+    "wof:country": "US",
+    "wof:created": 1461739936,
+    "wof:geomhash": "01940023146e9f7f0a3d2f323617ef96",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476403,
+        "locality_id": 85950347,
+        "neighbourhood_id": 85891447,
+        "region_id": 85688645,
+        "venue_id": 689123621
+      }
     ],
-    "wof:id":689123621,
-    "wof:lastmodified":1534187510,
-    "wof:name":"Bob's Italian Food Store",
-    "wof:parent_id":85891447,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        689121943
+    "wof:id": 689123621,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Bob's Italian Food Store",
+    "wof:parent_id": 85891447,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      689121943
     ],
-    "wof:tags":[
-        "italian"
+    "wof:tags": [
+      "italian"
     ]
-},
+  },
   "bbox": [
     -71.10887,
     42.40743,
     -71.10887,
     42.40743
-],
+  ],
   "geometry": {"coordinates":[-71.10887,42.40743],"type":"Point"}
 }

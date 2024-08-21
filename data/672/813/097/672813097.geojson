@@ -2,74 +2,77 @@
   "id": 672813097,
   "type": "Feature",
   "properties": {
-    "addr:full":"467 Commercial St Provincetown MA 02657",
-    "addr:housenumber":"467",
-    "addr:postcode":"02657",
-    "addr:street":"Commercial St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.179422,42.056111,-70.179422,42.056111",
-    "geom:latitude":42.056111,
-    "geom:longitude":-70.179422,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"467 Commercial St",
-    "sg:city":"Provincetown",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "467 Commercial St Provincetown MA 02657",
+    "addr:housenumber": "467",
+    "addr:postcode": "02657",
+    "addr:street": "Commercial St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.179422,42.056111,-70.179422,42.056111",
+    "geom:latitude": 42.056111,
+    "geom:longitude": -70.179422,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Angel Foods, 467 Commercial St Provincetown MA US",
+    "ovtr:similarity": 1.747460961341858,
+    "sg:address": "467 Commercial St",
+    "sg:city": "Provincetown",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 487 6666",
-    "sg:postcode":"02657",
-    "sg:province":"MA",
-    "sg:tags":[
-        "market"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 487 6666",
+    "sg:postcode": "02657",
+    "sg:province": "MA",
+    "sg:tags": [
+      "market"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85833055,
-        102084379
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85833055,
+      102084379
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_36V09e2oofNq4fxllrlM5x_42.056111_-70.179422@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a31cec20ba5203ade6cae7d06106",
+      "sg:id": "SG_36V09e2oofNq4fxllrlM5x_42.056111_-70.179422@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461727264,
-    "wof:geomhash":"2e0f6a355a80d497e0492f662b561529",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084379,
-            "neighbourhood_id":85833055,
-            "region_id":85688645,
-            "venue_id":672813097
-        }
+    "wof:country": "US",
+    "wof:created": 1461727264,
+    "wof:geomhash": "180c70cca1861ce227be4fa1c3498ee9",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "neighbourhood_id": 85833055,
+        "region_id": 85688645,
+        "venue_id": 672813097
+      }
     ],
-    "wof:id":672813097,
-    "wof:lastmodified":1472626039,
-    "wof:name":"Angel Foods",
-    "wof:parent_id":85833055,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "market"
+    "wof:id": 672813097,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Angel Foods",
+    "wof:parent_id": 85833055,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "market"
     ]
-},
+  },
   "bbox": [
     -70.179422,
     42.056111,
     -70.179422,
     42.056111
-],
+  ],
   "geometry": {"coordinates":[-70.179422,42.056111],"type":"Point"}
 }

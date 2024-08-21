@@ -2,72 +2,79 @@
   "id": 673093673,
   "type": "Feature",
   "properties": {
-    "addr:full":"215 Charlton Rd Sturbridge MA 01566",
-    "addr:housenumber":"215",
-    "addr:postcode":"01566",
-    "addr:street":"Charlton Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.064893,42.11713,-72.064893,42.11713",
-    "geom:latitude":42.11713,
-    "geom:longitude":-72.064893,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"215 Charlton Rd",
-    "sg:city":"Sturbridge",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "215 Charlton Rd Sturbridge MA 01566",
+    "addr:housenumber": "215",
+    "addr:postcode": "01566",
+    "addr:street": "Charlton Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.064893,42.117130,-72.064893,42.117130",
+    "geom:latitude": 42.11713,
+    "geom:longitude": -72.064893,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "ovtr:label": "Cracker Barrel Old Country Store, 215 Charlton Rd Sturbridge MA US",
+    "ovtr:similarity": 2.5174999237060547,
+    "sg:address": "215 Charlton Rd",
+    "sg:city": "Sturbridge",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/sturbridge/35252-cracker-barrel-old-country-store/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 347 8925",
-    "sg:postcode":"01566",
-    "sg:province":"MA",
-    "sg:tags":[
-        "american",
-        "southern"
+    "sg:menulink": "http://www.allmenus.com/ma/sturbridge/35252-cracker-barrel-old-country-store/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 347 8925",
+    "sg:postcode": "01566",
+    "sg:province": "MA",
+    "sg:tags": [
+      "american",
+      "southern"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125148809,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4TUL6gRYr1Db94OROSCoNn_42.116994_-72.065235@1294127905"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125148809,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a3224906bc490329c693ed32b745",
+      "sg:id": "SG_4TUL6gRYr1Db94OROSCoNn_42.116994_-72.065235@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461733636,
-    "wof:geomhash":"fd16d8d6bf2d038378819c0705668f58",
-    "wof:hierarchy":[],
-    "wof:id":673093673,
-    "wof:lastmodified":1511318587,
-    "wof:name":"Cracker Barrel Old Country Store",
-    "wof:parent_id":85845279,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "southern"
+    "wof:country": "US",
+    "wof:created": 1461733636,
+    "wof:geomhash": "fd16d8d6bf2d038378819c0705668f58",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673093673
+      }
+    ],
+    "wof:id": 673093673,
+    "wof:lastmodified": 1724253284,
+    "wof:name": "Cracker Barrel Old Country Store",
+    "wof:parent_id": 85845279,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "southern"
     ]
-},
+  },
   "bbox": [
     -72.064893,
     42.11713,
     -72.064893,
     42.11713
-],
+  ],
   "geometry": {"coordinates":[-72.064893,42.11713],"type":"Point"}
 }

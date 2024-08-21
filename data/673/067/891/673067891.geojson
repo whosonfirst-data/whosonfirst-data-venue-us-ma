@@ -2,80 +2,83 @@
   "id": 673067891,
   "type": "Feature",
   "properties": {
-    "addr:full":"277 Broadway Somerville MA 02145",
-    "addr:housenumber":"277",
-    "addr:postcode":"02145",
-    "addr:street":"Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.091617,42.391472,-71.091617,42.391472",
-    "geom:latitude":42.391472,
-    "geom:longitude":-71.091617,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"277 Broadway",
-    "sg:city":"Somerville",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Non-profit Organization",
-            "type":"Services"
-        }
+    "addr:full": "277 Broadway Somerville MA 02145",
+    "addr:housenumber": "277",
+    "addr:postcode": "02145",
+    "addr:street": "Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.091617,42.391472,-71.091617,42.391472",
+    "geom:latitude": 42.391472,
+    "geom:longitude": -71.091617,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Elizabeth Peabody House, 277 Broadway Somerville MA US",
+    "ovtr:similarity": 3.415968894958496,
+    "sg:address": "277 Broadway",
+    "sg:city": "Somerville",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 623 5510",
-    "sg:postcode":"02145",
-    "sg:province":"MA",
-    "sg:tags":[
-        "education"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 623 5510",
+    "sg:postcode": "02145",
+    "sg:province": "MA",
+    "sg:tags": [
+      "education"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85858351,
-        102191575,
-        404476445,
-        85633793,
-        85950339,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85858351,
+      102191575,
+      404476445,
+      85633793,
+      85950339,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5T9n5tbPTIZTrhwCGQnhkj_42.391344_-71.091148@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a30666432122032b039da3c1d242",
+      "sg:id": "SG_5T9n5tbPTIZTrhwCGQnhkj_42.391344_-71.091148@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733098,
-    "wof:geomhash":"67e0b0f6bde55d96a4cbae0256718b85",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476445,
-            "locality_id":85950339,
-            "neighbourhood_id":85858351,
-            "region_id":85688645,
-            "venue_id":673067891
-        }
+    "wof:country": "US",
+    "wof:created": 1461733098,
+    "wof:geomhash": "bfdbf0d9506ba250781b269e386dc65f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476445,
+        "locality_id": 85950339,
+        "neighbourhood_id": 85858351,
+        "region_id": 85688645,
+        "venue_id": 673067891
+      }
     ],
-    "wof:id":673067891,
-    "wof:lastmodified":1472625195,
-    "wof:name":"Elizabeth Peabody House",
-    "wof:parent_id":85858351,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "education"
+    "wof:id": 673067891,
+    "wof:lastmodified": 1724253274,
+    "wof:name": "Elizabeth Peabody House",
+    "wof:parent_id": 85858351,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "education"
     ]
-},
+  },
   "bbox": [
     -71.091617,
     42.391472,
     -71.091617,
     42.391472
-],
+  ],
   "geometry": {"coordinates":[-71.091617,42.391472],"type":"Point"}
 }

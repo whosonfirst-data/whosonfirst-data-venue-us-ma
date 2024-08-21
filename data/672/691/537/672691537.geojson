@@ -2,72 +2,75 @@
   "id": 672691537,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 Main St Wayland MA 01778",
-    "addr:housenumber":"201",
-    "addr:postcode":"01778",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.364388,42.325156,-71.364388,42.325156",
-    "geom:latitude":42.325156,
-    "geom:longitude":-71.364388,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"201 Main St",
-    "sg:city":"Wayland",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "201 Main St Wayland MA 01778",
+    "addr:housenumber": "201",
+    "addr:postcode": "01778",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.364388,42.325156,-71.364388,42.325156",
+    "geom:latitude": 42.325156,
+    "geom:longitude": -71.364388,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Wayland Middle School, 201 Main St Wayland MA US",
+    "ovtr:similarity": 3.744286060333252,
+    "sg:address": "201 Main St",
+    "sg:city": "Wayland",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 655 6670",
-    "sg:postcode":"01778",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85852407,
-        102084643
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 655 6670",
+    "sg:postcode": "01778",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85852407,
+      102084643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":312015686,
-        "sg:id":"SG_4PS4tsxibkKNFjw03iuayN_42.325156_-71.364388@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 312015686,
+      "ovtr:id": "08f2a306c2a4a01c03ab8dc6d8eba4cf",
+      "sg:id": "SG_4PS4tsxibkKNFjw03iuayN_42.325156_-71.364388@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461724676,
-    "wof:geomhash":"0a1e9323be58e29b7c2856c7adff83eb",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084643,
-            "neighbourhood_id":85852407,
-            "region_id":85688645,
-            "venue_id":672691537
-        }
+    "wof:country": "US",
+    "wof:created": 1461724676,
+    "wof:geomhash": "0a1e9323be58e29b7c2856c7adff83eb",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "neighbourhood_id": 85852407,
+        "region_id": 85688645,
+        "venue_id": 672691537
+      }
     ],
-    "wof:id":672691537,
-    "wof:lastmodified":1510943526,
-    "wof:name":"Wayland Middle School",
-    "wof:parent_id":85852407,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672691537,
+    "wof:lastmodified": 1724253282,
+    "wof:name": "Wayland Middle School",
+    "wof:parent_id": 85852407,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.364388,
     42.325156,
     -71.364388,
     42.325156
-],
-  "geometry": {"coordinates":[-71.36438800000001,42.325156],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.364388,42.325156],"type":"Point"}
 }

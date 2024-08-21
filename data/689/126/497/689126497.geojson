@@ -2,91 +2,94 @@
   "id": 689126497,
   "type": "Feature",
   "properties": {
-    "addr:city":"Quincy",
-    "addr:full":"135 Adams St Quincy, Ma 02169",
-    "addr:house_number":"135",
-    "addr:housenumber":"135",
-    "addr:phone":"+1 617-773-1177",
-    "addr:postcode":"02169",
-    "addr:road":"Adams St",
-    "addr:state":"MA",
-    "addr:street":"Adams St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.01116,42.25641,-71.01116,42.25641",
-    "geom:latitude":42.25641,
-    "geom:longitude":-71.01116,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"135 Adams St",
-    "sg:city":"Quincy",
-    "sg:classifiers":[
-        {
-            "category":"Landmark",
-            "subcategory":"Historic",
-            "type":"Public Place"
-        }
+    "addr:city": "Quincy",
+    "addr:full": "135 Adams St Quincy, Ma 02169",
+    "addr:house_number": "135",
+    "addr:housenumber": "135",
+    "addr:phone": "+1 617-773-1177",
+    "addr:postcode": "02169",
+    "addr:road": "Adams St",
+    "addr:state": "MA",
+    "addr:street": "Adams St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.011160,42.256410,-71.011160,42.256410",
+    "geom:latitude": 42.25641,
+    "geom:longitude": -71.01116,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "ovtr:label": "Adams National Historical Park, 135 Adams St Quincy MA US",
+    "ovtr:similarity": 3.249763011932373,
+    "sg:address": "135 Adams St",
+    "sg:city": "Quincy",
+    "sg:classifiers": [
+      {
+        "category": "Landmark",
+        "subcategory": "Historic",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 773 1177",
-    "sg:postcode":"02169",
-    "sg:province":"MA",
-    "sg:tags":[
-        "historical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 773 1177",
+    "sg:postcode": "02169",
+    "sg:province": "MA",
+    "sg:tags": [
+      "historical"
     ],
-    "sg:website":"http://www.nps.gov",
-    "src:geom":"mudf",
-    "wof:airports":[
-        102530741
+    "sg:website": "http://www.nps.gov",
+    "src:geom": "mudf",
+    "wof:airports": [
+      102530741
     ],
-    "wof:belongsto":[
-        85837519,
-        102191575,
-        404476591,
-        85633793,
-        85950429,
-        102084403,
-        85688645
+    "wof:belongsto": [
+      85837519,
+      102191575,
+      404476591,
+      85633793,
+      85950429,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8402501131,
-        "sg:id":"SG_4Oc5eruf65buAoX943hedr_42.255981_-71.010300@1303262222"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "mudf:mid": 8402501131,
+      "ovtr:id": "08f2a3393509ccd4038003fafd3ae0a6",
+      "sg:id": "SG_4Oc5eruf65buAoX943hedr_42.255981_-71.010300@1303262222"
     },
-    "wof:country":"US",
-    "wof:created":1461740000,
-    "wof:geomhash":"110dc2d31d1d33b02b131675cd1253cf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476591,
-            "locality_id":85950429,
-            "neighbourhood_id":85837519,
-            "region_id":85688645,
-            "venue_id":689126497
-        }
+    "wof:country": "US",
+    "wof:created": 1461740000,
+    "wof:geomhash": "110dc2d31d1d33b02b131675cd1253cf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476591,
+        "locality_id": 85950429,
+        "neighbourhood_id": 85837519,
+        "region_id": 85688645,
+        "venue_id": 689126497
+      }
     ],
-    "wof:id":689126497,
-    "wof:lastmodified":1534187524,
-    "wof:name":"Adams National Historical Park",
-    "wof:parent_id":85837519,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "historical"
+    "wof:id": 689126497,
+    "wof:lastmodified": 1724253276,
+    "wof:name": "Adams National Historical Park",
+    "wof:parent_id": 85837519,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "historical"
     ]
-},
+  },
   "bbox": [
     -71.01116,
     42.25641,
     -71.01116,
     42.25641
-],
+  ],
   "geometry": {"coordinates":[-71.01116,42.25641],"type":"Point"}
 }

@@ -2,78 +2,81 @@
   "id": 672480291,
   "type": "Feature",
   "properties": {
-    "addr:full":"47 Fuller St Clinton MA 01510",
-    "addr:housenumber":"47",
-    "addr:postcode":"01510",
-    "addr:street":"Fuller St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.685168,42.429922,-71.685168,42.429922",
-    "geom:latitude":42.429922,
-    "geom:longitude":-71.685168,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"47 Fuller St",
-    "sg:city":"Clinton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "47 Fuller St Clinton MA 01510",
+    "addr:housenumber": "47",
+    "addr:postcode": "01510",
+    "addr:street": "Fuller St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.685168,42.429922,-71.685168,42.429922",
+    "geom:latitude": 42.429922,
+    "geom:longitude": -71.685168,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "ovtr:label": "Sean's Auto Repair, 47 Fuller St Clinton MA US",
+    "ovtr:similarity": 2.619502067565918,
+    "sg:address": "47 Fuller St",
+    "sg:city": "Clinton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 368 8830",
-    "sg:postcode":"01510",
-    "sg:province":"MA",
-    "sg:tags":[
-        "repairing",
-        "automobile",
-        "automotive"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 368 8830",
+    "sg:postcode": "01510",
+    "sg:province": "MA",
+    "sg:tags": [
+      "repairing",
+      "automobile",
+      "automotive"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85817199,
-        102084655
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85817199,
+      102084655
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0KDHUx90oHwUrLs8UcAjvB_42.429922_-71.685168@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2a32a5d908b1b032195d702d1f892",
+      "sg:id": "SG_0KDHUx90oHwUrLs8UcAjvB_42.429922_-71.685168@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461719948,
-    "wof:geomhash":"d41e63824605de2c8b33e5b116a1e9a0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084655,
-            "neighbourhood_id":85817199,
-            "region_id":85688645,
-            "venue_id":672480291
-        }
+    "wof:country": "US",
+    "wof:created": 1461719948,
+    "wof:geomhash": "a57f3c9c63a5f648bf3caf2ce53654e2",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "neighbourhood_id": 85817199,
+        "region_id": 85688645,
+        "venue_id": 672480291
+      }
     ],
-    "wof:id":672480291,
-    "wof:lastmodified":1472625742,
-    "wof:name":"Sean's Auto Repair",
-    "wof:parent_id":85817199,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile",
-        "automotive"
+    "wof:id": 672480291,
+    "wof:lastmodified": 1724253281,
+    "wof:name": "Sean's Auto Repair",
+    "wof:parent_id": 85817199,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile",
+      "automotive"
     ]
-},
+  },
   "bbox": [
     -71.685168,
     42.429922,
     -71.685168,
     42.429922
-],
+  ],
   "geometry": {"coordinates":[-71.685168,42.429922],"type":"Point"}
 }
