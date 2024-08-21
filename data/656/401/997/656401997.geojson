@@ -2,80 +2,84 @@
   "id": 656401997,
   "type": "Feature",
   "properties": {
-    "addr:full":"297 Central St Gardner MA 01440",
-    "addr:housenumber":"297",
-    "addr:postcode":"01440",
-    "addr:street":"Central St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.99444,42.576796,-71.99444,42.576796",
-    "geom:latitude":42.576796,
-    "geom:longitude":-71.99444,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"297 Central St",
-    "sg:city":"Gardner",
-    "sg:classifiers":[
-        {
-            "category":"Taxi",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "297 Central St Gardner MA 01440",
+    "addr:housenumber": "297",
+    "addr:postcode": "01440",
+    "addr:street": "Central St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-20",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.994440,42.576796,-71.994440,42.576796",
+    "geom:latitude": 42.576796,
+    "geom:longitude": -71.99444,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "297 Central St",
+    "sg:city": "Gardner",
+    "sg:classifiers": [
+      {
+        "category": "Taxi",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 978 632 2525",
-    "sg:postcode":"01440",
-    "sg:province":"MA",
-    "sg:tags":[
-        "taxicab"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 978 632 2525",
+    "sg:postcode": "01440",
+    "sg:province": "MA",
+    "sg:tags": [
+      "taxicab"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85849693,
-        102191575,
-        404476553,
-        85633793,
-        85950379,
-        102084655,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85849693,
+      102191575,
+      404476553,
+      85633793,
+      85950379,
+      102084655,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_75pguN36V2CdYcXJLCtyKm_42.576796_-71.994440@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_75pguN36V2CdYcXJLCtyKm_42.576796_-71.994440@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461712051,
-    "wof:geomhash":"ef9dddc5b85cb9f535d7fe45d8ef3dab",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084655,
-            "localadmin_id":404476553,
-            "locality_id":85950379,
-            "neighbourhood_id":85849693,
-            "region_id":85688645,
-            "venue_id":656401997
-        }
+    "wof:country": "US",
+    "wof:created": 1461712051,
+    "wof:geomhash": "7080dfe0ed26166909957bdaaf636c4c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084655,
+        "localadmin_id": 404476553,
+        "locality_id": 85950379,
+        "neighbourhood_id": 85849693,
+        "region_id": 85688645,
+        "venue_id": 656401997
+      }
     ],
-    "wof:id":656401997,
-    "wof:lastmodified":1472625101,
-    "wof:name":"Smiley's Taxi",
-    "wof:parent_id":85849693,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "taxicab"
+    "wof:id": 656401997,
+    "wof:lastmodified": 1724218709,
+    "wof:name": "Smiley's Taxi",
+    "wof:parent_id": 85849693,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [
+      672381921
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "taxicab"
     ]
-},
+  },
   "bbox": [
     -71.99444,
     42.576796,
     -71.99444,
     42.576796
-],
+  ],
   "geometry": {"coordinates":[-71.99444,42.576796],"type":"Point"}
 }

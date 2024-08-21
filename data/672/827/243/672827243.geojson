@@ -2,78 +2,81 @@
   "id": 672827243,
   "type": "Feature",
   "properties": {
-    "addr:full":"231 Main St Hyannis MA 02601",
-    "addr:housenumber":"231",
-    "addr:postcode":"02601",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.278967,41.654838,-70.278967,41.654838",
-    "geom:latitude":41.654838,
-    "geom:longitude":-70.278967,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"231 Main St",
-    "sg:city":"Hyannis",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Post Office",
-            "type":"Public Place"
-        }
+    "addr:full": "231 Main St Hyannis MA 02601",
+    "addr:housenumber": "231",
+    "addr:postcode": "02601",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-20",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.278967,41.654838,-70.278967,41.654838",
+    "geom:latitude": 41.654838,
+    "geom:longitude": -70.278967,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "231 Main St",
+    "sg:city": "Hyannis",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Post Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 775 1000",
-    "sg:postcode":"02601",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811889,
-        102191575,
-        404475893,
-        85633793,
-        85950321,
-        102084379,
-        85688645
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 775 1000",
+    "sg:postcode": "02601",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811889,
+      102191575,
+      404475893,
+      85633793,
+      85950321,
+      102084379,
+      85688645
     ],
-    "wof:brand_id":420573749,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7i9kC2HwSQCzvhb0bwXBzN_41.654838_-70.278967@1294127905"
+    "wof:brand_id": 420573749,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7i9kC2HwSQCzvhb0bwXBzN_41.654838_-70.278967@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461727543,
-    "wof:geomhash":"dee8248c20387b0d703c843072945b4a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475893,
-            "locality_id":85950321,
-            "neighbourhood_id":85811889,
-            "region_id":85688645,
-            "venue_id":672827243
-        }
+    "wof:country": "US",
+    "wof:created": 1461727543,
+    "wof:geomhash": "dee8248c20387b0d703c843072945b4a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475893,
+        "locality_id": 85950321,
+        "neighbourhood_id": 85811889,
+        "region_id": 85688645,
+        "venue_id": 672827243
+      }
     ],
-    "wof:id":672827243,
-    "wof:lastmodified":1511320723,
-    "wof:name":"US Post Office",
-    "wof:parent_id":85811889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 672827243,
+    "wof:lastmodified": 1724218709,
+    "wof:name": "US Post Office",
+    "wof:parent_id": 85811889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [
+      656351221
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -70.278967,
     41.654838,
     -70.278967,
     41.654838
-],
-  "geometry": {"coordinates":[-70.27896699999999,41.654838],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.278967,41.654838],"type":"Point"}
 }

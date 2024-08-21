@@ -2,67 +2,74 @@
   "id": 673082993,
   "type": "Feature",
   "properties": {
-    "addr:full":"215 Charlton Rd Sturbridge MA 01566",
-    "addr:housenumber":"215",
-    "addr:postcode":"01566",
-    "addr:street":"Charlton Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-72.06251,42.11842,-72.06251,42.11842",
-    "geom:latitude":42.11842,
-    "geom:longitude":-72.06251,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"215 Charlton Rd",
-    "sg:city":"Sturbridge",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "215 Charlton Rd Sturbridge MA 01566",
+    "addr:housenumber": "215",
+    "addr:postcode": "01566",
+    "addr:street": "Charlton Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-20",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-72.062510,42.118420,-72.062510,42.118420",
+    "geom:latitude": 42.11842,
+    "geom:longitude": -72.06251,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "215 Charlton Rd",
+    "sg:city": "Sturbridge",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/sturbridge/131811-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 347 5600",
-    "sg:postcode":"01566",
-    "sg:province":"MA",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/ma/sturbridge/131811-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 347 5600",
+    "sg:postcode": "01566",
+    "sg:province": "MA",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7dkFFjAEWF1bKaGAg38N2m_42.118420_-72.062510@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7dkFFjAEWF1bKaGAg38N2m_42.118420_-72.062510@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461733410,
-    "wof:geomhash":"22ffabfe9bc69763f8e7dfecafcbd0da",
-    "wof:hierarchy":[],
-    "wof:id":673082993,
-    "wof:lastmodified":1511322287,
-    "wof:name":"Subway",
-    "wof:parent_id":85845279,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:country": "US",
+    "wof:created": 1461733410,
+    "wof:geomhash": "22ffabfe9bc69763f8e7dfecafcbd0da",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673082993
+      }
+    ],
+    "wof:id": 673082993,
+    "wof:lastmodified": 1724218710,
+    "wof:name": "Subway",
+    "wof:parent_id": 85845279,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [
+      673128085
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -72.06251,
     42.11842,
     -72.06251,
     42.11842
-],
+  ],
   "geometry": {"coordinates":[-72.06251,42.11842],"type":"Point"}
 }

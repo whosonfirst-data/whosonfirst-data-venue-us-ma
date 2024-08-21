@@ -2,88 +2,91 @@
   "id": 673076455,
   "type": "Feature",
   "properties": {
-    "addr:full":"755 Boylston St Boston MA 02116",
-    "addr:housenumber":"755",
-    "addr:postcode":"02116",
-    "addr:street":"Boylston St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.080974,42.349244,-71.080974,42.349244",
-    "geom:latitude":42.349244,
-    "geom:longitude":-71.080974,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"755 Boylston St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "755 Boylston St Boston MA 02116",
+    "addr:housenumber": "755",
+    "addr:postcode": "02116",
+    "addr:street": "Boylston St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-20",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.080974,42.349244,-71.080974,42.349244",
+    "geom:latitude": 42.349244,
+    "geom:longitude": -71.080974,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "755 Boylston St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 450 0310",
-    "sg:postcode":"02116",
-    "sg:province":"MA",
-    "sg:tags":[
-        "shop",
-        "tea",
-        "coffee"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 450 0310",
+    "sg:postcode": "02116",
+    "sg:province": "MA",
+    "sg:tags": [
+      "shop",
+      "tea",
+      "coffee"
     ],
-    "sg:website":"www.starbucks.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85804161,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "sg:website": "www.starbucks.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85804161,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:brand_id":420573983,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_76cpP8NS9ueHoWPuYHeFtu_42.349145_-71.081298@1293134755"
+    "wof:brand_id": 420573983,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_76cpP8NS9ueHoWPuYHeFtu_42.349145_-71.081298@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461733275,
-    "wof:geomhash":"d472e7dc059d7bcee2230d79a4a897a5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "neighbourhood_id":85804161,
-            "region_id":85688645,
-            "venue_id":673076455
-        }
+    "wof:country": "US",
+    "wof:created": 1461733275,
+    "wof:geomhash": "d472e7dc059d7bcee2230d79a4a897a5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "neighbourhood_id": 85804161,
+        "region_id": 85688645,
+        "venue_id": 673076455
+      }
     ],
-    "wof:id":673076455,
-    "wof:lastmodified":1511321015,
-    "wof:name":"Starbucks",
-    "wof:parent_id":85804161,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "tea",
-        "coffee"
+    "wof:id": 673076455,
+    "wof:lastmodified": 1724218709,
+    "wof:name": "Starbucks",
+    "wof:parent_id": 85804161,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [
+      689179371
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "tea",
+      "coffee"
     ]
-},
+  },
   "bbox": [
     -71.080974,
     42.349244,
     -71.080974,
     42.349244
-],
+  ],
   "geometry": {"coordinates":[-71.080974,42.349244],"type":"Point"}
 }

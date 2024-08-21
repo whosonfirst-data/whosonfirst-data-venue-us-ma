@@ -2,57 +2,65 @@
   "id": 689042415,
   "type": "Feature",
   "properties": {
-    "addr:full":"59 Townsend Street Roxbury MA 02119",
-    "addr:housenumber":"59",
-    "addr:postcode":"02119",
-    "addr:street":"Townsend Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.09132,42.318502,-71.09132,42.318502",
-    "geom:latitude":42.318502,
-    "geom:longitude":-71.09132,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"59 Townsend Street",
-    "sg:city":"Roxbury",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        }
+    "addr:full": "59 Townsend Street Roxbury MA 02119",
+    "addr:housenumber": "59",
+    "addr:postcode": "02119",
+    "addr:street": "Townsend Street",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-20",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.091320,42.318502,-71.091320,42.318502",
+    "geom:latitude": 42.318502,
+    "geom:longitude": -71.09132,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "59 Townsend Street",
+    "sg:city": "Roxbury",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 989 8400",
-    "sg:postcode":"02119",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1mbjkUcJlLg0XexkFwplIL_42.318502_-71.091320@1303262211"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 989 8400",
+    "sg:postcode": "02119",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1mbjkUcJlLg0XexkFwplIL_42.318502_-71.091320@1303262211"
     },
-    "wof:country":"US",
-    "wof:created":1461738117,
-    "wof:geomhash":"da56bd4d75ee53c6375ad51d94cf7283",
-    "wof:hierarchy":[],
-    "wof:id":689042415,
-    "wof:lastmodified":1489011325,
-    "wof:name":"Jewish Memorial Hospital and Rehabilitation",
-    "wof:parent_id":1108705213,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461738117,
+    "wof:geomhash": "9345a36d855de057b46fc06551d72d5e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689042415
+      }
+    ],
+    "wof:id": 689042415,
+    "wof:lastmodified": 1724218707,
+    "wof:name": "Jewish Memorial Hospital and Rehabilitation",
+    "wof:parent_id": 1108705213,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [
+      689040667
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.09132,
     42.318502,
     -71.09132,
     42.318502
-],
+  ],
   "geometry": {"coordinates":[-71.09132,42.318502],"type":"Point"}
 }

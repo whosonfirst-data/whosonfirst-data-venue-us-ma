@@ -2,81 +2,85 @@
   "id": 673097441,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 Chapel St Needham MA 02492",
-    "addr:housenumber":"105",
-    "addr:postcode":"02492",
-    "addr:street":"Chapel St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.236901,42.281559,-71.236901,42.281559",
-    "geom:latitude":42.281559,
-    "geom:longitude":-71.236901,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"105 Chapel St",
-    "sg:city":"Needham",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "105 Chapel St Needham MA 02492",
+    "addr:housenumber": "105",
+    "addr:postcode": "02492",
+    "addr:street": "Chapel St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-20",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.236901,42.281559,-71.236901,42.281559",
+    "geom:latitude": 42.281559,
+    "geom:longitude": -71.236901,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "105 Chapel St",
+    "sg:city": "Needham",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/needham/291800-not-your-average-joes/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 453 9300",
-    "sg:postcode":"02492",
-    "sg:province":"MA",
-    "sg:tags":[
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ma/needham/291800-not-your-average-joes/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 453 9300",
+    "sg:postcode": "02492",
+    "sg:province": "MA",
+    "sg:tags": [
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85836459,
-        102191575,
-        404476585,
-        85633793,
-        85950835,
-        102084403,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85836459,
+      102191575,
+      404476585,
+      85633793,
+      85950835,
+      102084403,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1neD8oQt9tp753uIVcxfmM_42.281543_-71.236817@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1neD8oQt9tp753uIVcxfmM_42.281543_-71.236817@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461733709,
-    "wof:geomhash":"5ac9159d4a733b7f2f2b995f07bb2d5d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084403,
-            "localadmin_id":404476585,
-            "locality_id":85950835,
-            "neighbourhood_id":85836459,
-            "region_id":85688645,
-            "venue_id":673097441
-        }
+    "wof:country": "US",
+    "wof:created": 1461733709,
+    "wof:geomhash": "f534f84b80f8fd193e82cf0d0e6604b1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "localadmin_id": 404476585,
+        "locality_id": 85950835,
+        "neighbourhood_id": 85836459,
+        "region_id": 85688645,
+        "venue_id": 673097441
+      }
     ],
-    "wof:id":673097441,
-    "wof:lastmodified":1472625276,
-    "wof:name":"Not Your Average Joe's",
-    "wof:parent_id":85836459,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american"
+    "wof:id": 673097441,
+    "wof:lastmodified": 1724218709,
+    "wof:name": "Not Your Average Joe's",
+    "wof:parent_id": 85836459,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [
+      689189627
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american"
     ]
-},
+  },
   "bbox": [
     -71.236901,
     42.281559,
     -71.236901,
     42.281559
-],
+  ],
   "geometry": {"coordinates":[-71.236901,42.281559],"type":"Point"}
 }

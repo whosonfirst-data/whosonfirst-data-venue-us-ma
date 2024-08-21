@@ -2,88 +2,92 @@
   "id": 689077111,
   "type": "Feature",
   "properties": {
-    "addr:full":"1218 Massachusetts Ave Cambridge MA 02138",
-    "addr:housenumber":"1218",
-    "addr:postcode":"02138",
-    "addr:street":"Massachusetts Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.115743,42.372376,-71.115743,42.372376",
-    "geom:latitude":42.372376,
-    "geom:longitude":-71.115743,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1218 Massachusetts Ave",
-    "sg:city":"Cambridge",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        },
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "1218 Massachusetts Ave Cambridge MA 02138",
+    "addr:housenumber": "1218",
+    "addr:postcode": "02138",
+    "addr:street": "Massachusetts Ave",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-20",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.115743,42.372376,-71.115743,42.372376",
+    "geom:latitude": 42.372376,
+    "geom:longitude": -71.115743,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "1218 Massachusetts Ave",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 441 2100",
-    "sg:postcode":"02138",
-    "sg:province":"MA",
-    "sg:tags":[
-        "psychological",
-        "psychologist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 441 2100",
+    "sg:postcode": "02138",
+    "sg:province": "MA",
+    "sg:tags": [
+      "psychological",
+      "psychologist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85876611,
-        102191575,
-        404476475,
-        85633793,
-        85950329,
-        102084643,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85876611,
+      102191575,
+      404476475,
+      85633793,
+      85950329,
+      102084643,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3i15H4b5arFJ8jPOazfeYc_42.372376_-71.115743@1303262215"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3i15H4b5arFJ8jPOazfeYc_42.372376_-71.115743@1303262215"
     },
-    "wof:country":"US",
-    "wof:created":1461738863,
-    "wof:geomhash":"3d26aa71c76438428becb7eccacd9228",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084643,
-            "localadmin_id":404476475,
-            "locality_id":85950329,
-            "neighbourhood_id":85876611,
-            "region_id":85688645,
-            "venue_id":689077111
-        }
+    "wof:country": "US",
+    "wof:created": 1461738863,
+    "wof:geomhash": "ca6997b553aad3f5eeaaf22b8c4876ff",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084643,
+        "localadmin_id": 404476475,
+        "locality_id": 85950329,
+        "neighbourhood_id": 85876611,
+        "region_id": 85688645,
+        "venue_id": 689077111
+      }
     ],
-    "wof:id":689077111,
-    "wof:lastmodified":1489020097,
-    "wof:name":"Randi Kaufman",
-    "wof:parent_id":85876611,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "psychological",
-        "psychologist"
+    "wof:id": 689077111,
+    "wof:lastmodified": 1724218708,
+    "wof:name": "Randi Kaufman",
+    "wof:parent_id": 85876611,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [
+      672325895
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "psychological",
+      "psychologist"
     ]
-},
+  },
   "bbox": [
     -71.115743,
     42.372376,
     -71.115743,
     42.372376
-],
-  "geometry": {"coordinates":[-71.11574299999999,42.372376],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.115743,42.372376],"type":"Point"}
 }

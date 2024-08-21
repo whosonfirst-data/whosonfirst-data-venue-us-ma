@@ -2,59 +2,65 @@
   "id": 672928339,
   "type": "Feature",
   "properties": {
-    "addr:full":"602 New Bedford Rd Rochester MA 02770",
-    "addr:housenumber":"602",
-    "addr:postcode":"02770",
-    "addr:street":"New Bedford Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.820184,41.731583,-70.820184,41.731583",
-    "geom:latitude":41.731583,
-    "geom:longitude":-70.820184,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"602 New Bedford Rd",
-    "sg:city":"Rochester",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Post Office",
-            "type":"Public Place"
-        }
+    "addr:full": "602 New Bedford Rd Rochester MA 02770",
+    "addr:housenumber": "602",
+    "addr:postcode": "02770",
+    "addr:street": "New Bedford Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.820184,41.731583,-70.820184,41.731583",
+    "geom:latitude": 41.731583,
+    "geom:longitude": -70.820184,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "602 New Bedford Rd",
+    "sg:city": "Rochester",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Post Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 000 1111",
-    "sg:postcode":"02770",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573749,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Xvcq551pipl97CQ1qp4FJ_41.731583_-70.820184@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 000 1111",
+    "sg:postcode": "02770",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573749,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Xvcq551pipl97CQ1qp4FJ_41.731583_-70.820184@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461729581,
-    "wof:geomhash":"6edc244d22809eb039c5c4e7e56a3c91",
-    "wof:hierarchy":[],
-    "wof:id":672928339,
-    "wof:lastmodified":1511320791,
-    "wof:name":"US Post Office",
-    "wof:parent_id":420523877,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461729581,
+    "wof:geomhash": "6edc244d22809eb039c5c4e7e56a3c91",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672928339
+      }
+    ],
+    "wof:id": 672928339,
+    "wof:lastmodified": 1724218710,
+    "wof:name": "US Post Office",
+    "wof:parent_id": 420523877,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      673000297
+    ],
+    "wof:tags": []
+  },
   "bbox": [
     -70.820184,
     41.731583,
     -70.820184,
     41.731583
-],
+  ],
   "geometry": {"coordinates":[-70.820184,41.731583],"type":"Point"}
 }

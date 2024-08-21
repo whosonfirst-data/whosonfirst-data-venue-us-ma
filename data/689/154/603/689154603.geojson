@@ -2,93 +2,95 @@
   "id": 689154603,
   "type": "Feature",
   "properties": {
-    "addr:full":"318 Main St Hanson MA 02341",
-    "addr:housenumber":"318",
-    "addr:postcode":"02341",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-70.853039,42.04268,-70.853039,42.04268",
-    "geom:latitude":42.04268,
-    "geom:longitude":-70.853039,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"318 Main St",
-    "sg:city":"Hanson",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Bakery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Bagels",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Donuts",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        }
+    "addr:full": "318 Main St Hanson MA 02341",
+    "addr:housenumber": "318",
+    "addr:postcode": "02341",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-70.853039,42.042680,-70.853039,42.042680",
+    "geom:latitude": 42.04268,
+    "geom:longitude": -70.853039,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "318 Main St",
+    "sg:city": "Hanson",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Bakery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Bagels",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Donuts",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 754 7317",
-    "sg:postcode":"02341",
-    "sg:province":"MA",
-    "sg:tags":[
-        "shop",
-        "espresso",
-        "restaurant"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 754 7317",
+    "sg:postcode": "02341",
+    "sg:province": "MA",
+    "sg:tags": [
+      "shop",
+      "espresso",
+      "restaurant"
     ],
-    "sg:website":"http://boston.citysearch.com/profile/external/604249782/hanson_ma/dunkin_donuts.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        420523817
+    "sg:website": "http://boston.citysearch.com/profile/external/604249782/hanson_ma/dunkin_donuts.html?publisher=yellowpages\u0026reference_id=1\u0026placement=ypwebsitemip",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633793,
+      420523817
     ],
-    "wof:brand_id":420575881,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0qpKt0A7pQjnNQULQ24ANy_42.042680_-70.853039@1303262226"
+    "wof:brand_id": 420575881,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0qpKt0A7pQjnNQULQ24ANy_42.042680_-70.853039@1303262226"
     },
-    "wof:country":"US",
-    "wof:created":1461741046,
-    "wof:geomhash":"3665b359d61c498d85d284c0f63e0aaf",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "neighbourhood_id":420523817,
-            "venue_id":689154603
-        }
+    "wof:country": "US",
+    "wof:created": 1461741046,
+    "wof:geomhash": "3665b359d61c498d85d284c0f63e0aaf",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "neighbourhood_id": 420523817,
+        "venue_id": 689154603
+      }
     ],
-    "wof:id":689154603,
-    "wof:lastmodified":1511998387,
-    "wof:name":"Dunkin Donuts",
-    "wof:parent_id":420523817,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "espresso",
-        "restaurant"
+    "wof:id": 689154603,
+    "wof:lastmodified": 1724218710,
+    "wof:name": "Dunkin Donuts",
+    "wof:parent_id": 420523817,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      673090355
+    ],
+    "wof:tags": [
+      "shop",
+      "espresso",
+      "restaurant"
     ]
-},
+  },
   "bbox": [
     -70.853039,
     42.04268,
     -70.853039,
     42.04268
-],
+  ],
   "geometry": {"coordinates":[-70.853039,42.04268],"type":"Point"}
 }

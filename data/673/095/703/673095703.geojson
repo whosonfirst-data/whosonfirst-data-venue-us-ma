@@ -2,94 +2,97 @@
   "id": 673095703,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 Park Plz Boston MA 02116",
-    "addr:housenumber":"20",
-    "addr:postcode":"02116",
-    "addr:street":"Park Plz",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.069669,42.351423,-71.069669,42.351423",
-    "geom:latitude":42.351423,
-    "geom:longitude":-71.069669,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"20 Park Plz",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Ice Cream",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "20 Park Plz Boston MA 02116",
+    "addr:housenumber": "20",
+    "addr:postcode": "02116",
+    "addr:street": "Park Plz",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-20",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.069669,42.351423,-71.069669,42.351423",
+    "geom:latitude": 42.351423,
+    "geom:longitude": -71.069669,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "20 Park Plz",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Ice Cream",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ma/boston/217698-ben--jerrys/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"02116",
-    "sg:province":"MA",
-    "sg:tags":[
-        "american",
-        "ice",
-        "cream"
+    "sg:menulink": "http://www.allmenus.com/ma/boston/217698-ben--jerrys/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "02116",
+    "sg:province": "MA",
+    "sg:tags": [
+      "american",
+      "ice",
+      "cream"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108711983,
-        85815133,
-        102191575,
-        404476573,
-        85633793,
-        85950361,
-        102084423,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108711983,
+      85815133,
+      102191575,
+      404476573,
+      85633793,
+      85950361,
+      102084423,
+      85688645
     ],
-    "wof:brand_id":1125148969,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Yo9FJ00JtkpTWDQQMv3jx_42.351063_-71.070290@1294127905"
+    "wof:brand_id": 1125148969,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2Yo9FJ00JtkpTWDQQMv3jx_42.351063_-71.070290@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461733671,
-    "wof:geomhash":"a315ee9d1d15dddc24e76ef83981e3f5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084423,
-            "localadmin_id":404476573,
-            "locality_id":85950361,
-            "microhood_id":1108711983,
-            "neighbourhood_id":85815133,
-            "region_id":85688645,
-            "venue_id":673095703
-        }
+    "wof:country": "US",
+    "wof:created": 1461733671,
+    "wof:geomhash": "a315ee9d1d15dddc24e76ef83981e3f5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084423,
+        "localadmin_id": 404476573,
+        "locality_id": 85950361,
+        "microhood_id": 1108711983,
+        "neighbourhood_id": 85815133,
+        "region_id": 85688645,
+        "venue_id": 673095703
+      }
     ],
-    "wof:id":673095703,
-    "wof:lastmodified":1510877379,
-    "wof:name":"Ben & Jerry's",
-    "wof:parent_id":1108711983,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "ice",
-        "cream"
+    "wof:id": 673095703,
+    "wof:lastmodified": 1724218709,
+    "wof:name": "Ben \u0026 Jerry's",
+    "wof:parent_id": 1108711983,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [
+      689024361
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "ice",
+      "cream"
     ]
-},
+  },
   "bbox": [
     -71.069669,
     42.351423,
     -71.069669,
     42.351423
-],
+  ],
   "geometry": {"coordinates":[-71.069669,42.351423],"type":"Point"}
 }

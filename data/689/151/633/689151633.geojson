@@ -2,93 +2,96 @@
   "id": 689151633,
   "type": "Feature",
   "properties": {
-    "addr:full":"321 Crescent St Brockton MA 02302",
-    "addr:housenumber":"321",
-    "addr:postcode":"02302",
-    "addr:street":"Crescent St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.008118,42.080109,-71.008118,42.080109",
-    "geom:latitude":42.080109,
-    "geom:longitude":-71.008118,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"321 Crescent St",
-    "sg:city":"Brockton",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Donuts",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        }
+    "addr:full": "321 Crescent St Brockton MA 02302",
+    "addr:housenumber": "321",
+    "addr:postcode": "02302",
+    "addr:street": "Crescent St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-20",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.008118,42.080109,-71.008118,42.080109",
+    "geom:latitude": 42.080109,
+    "geom:longitude": -71.008118,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "321 Crescent St",
+    "sg:city": "Brockton",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Donuts",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 894 8298",
-    "sg:postcode":"02302",
-    "sg:province":"MA",
-    "sg:tags":[
-        "shop",
-        "espresso",
-        "restaurant"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 894 8298",
+    "sg:postcode": "02302",
+    "sg:province": "MA",
+    "sg:tags": [
+      "shop",
+      "espresso",
+      "restaurant"
     ],
-    "sg:website":"http://www.dunkindonuts.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811415,
-        102191575,
-        404476503,
-        85633793,
-        85950319,
-        102084367,
-        85688645
+    "sg:website": "http://www.dunkindonuts.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811415,
+      102191575,
+      404476503,
+      85633793,
+      85950319,
+      102084367,
+      85688645
     ],
-    "wof:brand_id":420575881,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6r9UBAMpxYDv0hnCFFiUB8_42.080109_-71.008118@1303262226"
+    "wof:brand_id": 420575881,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6r9UBAMpxYDv0hnCFFiUB8_42.080109_-71.008118@1303262226"
     },
-    "wof:country":"US",
-    "wof:created":1461740977,
-    "wof:geomhash":"167a467d540c2efa0c02cfd2f9e8d19a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084367,
-            "localadmin_id":404476503,
-            "locality_id":85950319,
-            "neighbourhood_id":85811415,
-            "region_id":85688645,
-            "venue_id":689151633
-        }
+    "wof:country": "US",
+    "wof:created": 1461740977,
+    "wof:geomhash": "167a467d540c2efa0c02cfd2f9e8d19a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084367,
+        "localadmin_id": 404476503,
+        "locality_id": 85950319,
+        "neighbourhood_id": 85811415,
+        "region_id": 85688645,
+        "venue_id": 689151633
+      }
     ],
-    "wof:id":689151633,
-    "wof:lastmodified":1511319149,
-    "wof:name":"Dunkin' Donuts",
-    "wof:parent_id":85811415,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "espresso",
-        "restaurant"
+    "wof:id": 689151633,
+    "wof:lastmodified": 1724218709,
+    "wof:name": "Dunkin' Donuts",
+    "wof:parent_id": 85811415,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [
+      673096987
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "espresso",
+      "restaurant"
     ]
-},
+  },
   "bbox": [
     -71.008118,
     42.080109,
     -71.008118,
     42.080109
-],
+  ],
   "geometry": {"coordinates":[-71.008118,42.080109],"type":"Point"}
 }

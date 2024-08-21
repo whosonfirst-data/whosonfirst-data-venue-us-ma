@@ -2,74 +2,78 @@
   "id": 672890401,
   "type": "Feature",
   "properties": {
-    "addr:full":"41 Highland Ave Cohasset MA 02025",
-    "addr:housenumber":"41",
-    "addr:postcode":"02025",
-    "addr:street":"Highland Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.802889,42.243,-70.802889,42.243",
-    "geom:latitude":42.243,
-    "geom:longitude":-70.802889,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"41 Highland Ave",
-    "sg:city":"Cohasset",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "41 Highland Ave Cohasset MA 02025",
+    "addr:housenumber": "41",
+    "addr:postcode": "02025",
+    "addr:street": "Highland Ave",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-20",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.802889,42.243000,-70.802889,42.243000",
+    "geom:latitude": 42.243,
+    "geom:longitude": -70.802889,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "41 Highland Ave",
+    "sg:city": "Cohasset",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 781 383 4109",
-    "sg:postcode":"02025",
-    "sg:province":"MA",
-    "sg:tags":[
-        "parks"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 781 383 4109",
+    "sg:postcode": "02025",
+    "sg:province": "MA",
+    "sg:tags": [
+      "parks"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688645,
-        85633793,
-        85806299,
-        102084403
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688645,
+      85633793,
+      85806299,
+      102084403
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6C1o3xhuR48s5lT3z8nDSl_42.243000_-70.802889@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6C1o3xhuR48s5lT3z8nDSl_42.243000_-70.802889@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461728838,
-    "wof:geomhash":"f919b2a2efc27e590611c7b8478bf889",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084403,
-            "neighbourhood_id":85806299,
-            "region_id":85688645,
-            "venue_id":672890401
-        }
+    "wof:country": "US",
+    "wof:created": 1461728838,
+    "wof:geomhash": "1168b380a8edcac82ece905109e730dc",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084403,
+        "neighbourhood_id": 85806299,
+        "region_id": 85688645,
+        "venue_id": 672890401
+      }
     ],
-    "wof:id":672890401,
-    "wof:lastmodified":1472626110,
-    "wof:name":"Cohasset Recreation Dept",
-    "wof:parent_id":85806299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "parks"
+    "wof:id": 672890401,
+    "wof:lastmodified": 1724218710,
+    "wof:name": "Cohasset Recreation Dept",
+    "wof:parent_id": 85806299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [
+      672286943
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "parks"
     ]
-},
+  },
   "bbox": [
     -70.802889,
     42.243,
     -70.802889,
     42.243
-],
-  "geometry": {"coordinates":[-70.80288899999999,42.243],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-70.802889,42.243],"type":"Point"}
 }

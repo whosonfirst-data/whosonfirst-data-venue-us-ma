@@ -2,57 +2,65 @@
   "id": 672291029,
   "type": "Feature",
   "properties": {
-    "addr:full":"65 Canal St Boston MA 02114",
-    "addr:housenumber":"65",
-    "addr:postcode":"02114",
-    "addr:street":"Canal St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-71.059588,42.364134,-71.059588,42.364134",
-    "geom:latitude":42.364134,
-    "geom:longitude":-71.059588,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"65 Canal St",
-    "sg:city":"Boston",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "65 Canal St Boston MA 02114",
+    "addr:housenumber": "65",
+    "addr:postcode": "02114",
+    "addr:street": "Canal St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-20",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-71.059588,42.364134,-71.059588,42.364134",
+    "geom:latitude": 42.364134,
+    "geom:longitude": -71.059588,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "65 Canal St",
+    "sg:city": "Boston",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 617 720 2288",
-    "sg:postcode":"02114",
-    "sg:province":"MA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4n2ZQdD5urReOFIXRdtqzN_42.364134_-71.059588@1294127905"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 617 720 2288",
+    "sg:postcode": "02114",
+    "sg:province": "MA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4n2ZQdD5urReOFIXRdtqzN_42.364134_-71.059588@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461715421,
-    "wof:geomhash":"f9294154670a4b6f84b1ad2450b0fe33",
-    "wof:hierarchy":[],
-    "wof:id":672291029,
-    "wof:lastmodified":1489012220,
-    "wof:name":"Frances Ray Jules Salon",
-    "wof:parent_id":102526589,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461715421,
+    "wof:geomhash": "b1a7f814660380ed9adc339e5c98c838",
+    "wof:hierarchy": [
+      {
+        "venue_id": 672291029
+      }
+    ],
+    "wof:id": 672291029,
+    "wof:lastmodified": 1724218707,
+    "wof:name": "Frances Ray Jules Salon",
+    "wof:parent_id": 102526589,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [
+      689009345
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -71.059588,
     42.364134,
     -71.059588,
     42.364134
-],
-  "geometry": {"coordinates":[-71.05958800000001,42.364134],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-71.059588,42.364134],"type":"Point"}
 }

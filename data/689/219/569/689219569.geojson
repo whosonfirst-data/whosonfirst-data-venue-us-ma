@@ -2,61 +2,67 @@
   "id": 689219569,
   "type": "Feature",
   "properties": {
-    "addr:full":"202 W Main St Norton MA 02766",
-    "addr:housenumber":"202",
-    "addr:postcode":"02766",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-71.211067,41.957173,-71.211067,41.957173",
-    "geom:latitude":41.957173,
-    "geom:longitude":-71.211067,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"202 W Main St",
-    "sg:city":"Norton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "202 W Main St Norton MA 02766",
+    "addr:housenumber": "202",
+    "addr:postcode": "02766",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-71.211067,41.957173,-71.211067,41.957173",
+    "geom:latitude": 41.957173,
+    "geom:longitude": -71.211067,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "202 W Main St",
+    "sg:city": "Norton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 226 2801",
-    "sg:postcode":"02766",
-    "sg:province":"MA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 226 2801",
+    "sg:postcode": "02766",
+    "sg:province": "MA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0SWTGdA4L7z6cRPliAm6cw_41.957173_-71.211067@1303262234"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0SWTGdA4L7z6cRPliAm6cw_41.957173_-71.211067@1303262234"
     },
-    "wof:country":"US",
-    "wof:created":1461742467,
-    "wof:geomhash":"5b945b41fe40233c205fccac679ee12b",
-    "wof:hierarchy":[],
-    "wof:id":689219569,
-    "wof:lastmodified":1472625624,
-    "wof:name":"Downtown Cafe Pizza Express",
-    "wof:parent_id":420523301,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1461742467,
+    "wof:geomhash": "e0550967fc68a04c3fc3389d859093e0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689219569
+      }
+    ],
+    "wof:id": 689219569,
+    "wof:lastmodified": 1724218710,
+    "wof:name": "Downtown Cafe Pizza Express",
+    "wof:parent_id": 420523301,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      689219579
+    ],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -71.211067,
     41.957173,
     -71.211067,
     41.957173
-],
+  ],
   "geometry": {"coordinates":[-71.211067,41.957173],"type":"Point"}
 }

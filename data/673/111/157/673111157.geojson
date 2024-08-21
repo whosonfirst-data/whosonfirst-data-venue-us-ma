@@ -2,62 +2,70 @@
   "id": 673111157,
   "type": "Feature",
   "properties": {
-    "addr:full":"802 State Rd Richmond MA 01254",
-    "addr:housenumber":"802",
-    "addr:postcode":"01254",
-    "addr:street":"State Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-73.367897,42.378201,-73.367897,42.378201",
-    "geom:latitude":42.378201,
-    "geom:longitude":-73.367897,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"802 State Rd",
-    "sg:city":"Richmond",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Travel",
-            "subcategory":"Bed & Breakfast",
-            "type":"Entertainment"
-        }
+    "addr:full": "802 State Rd Richmond MA 01254",
+    "addr:housenumber": "802",
+    "addr:postcode": "01254",
+    "addr:street": "State Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-20",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-73.367897,42.378201,-73.367897,42.378201",
+    "geom:latitude": 42.378201,
+    "geom:longitude": -73.367897,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "802 State Rd",
+    "sg:city": "Richmond",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Travel",
+        "subcategory": "Bed \u0026 Breakfast",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 413 698 2566",
-    "sg:postcode":"01254",
-    "sg:province":"MA",
-    "sg:website":"www.innatrichmond.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7AHmMNn3o5G50HUj8cBplO_42.378201_-73.367897@1303262185"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 413 698 2566",
+    "sg:postcode": "01254",
+    "sg:province": "MA",
+    "sg:website": "www.innatrichmond.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7AHmMNn3o5G50HUj8cBplO_42.378201_-73.367897@1303262185"
     },
-    "wof:country":"US",
-    "wof:created":1461734005,
-    "wof:geomhash":"a7c1ec7456377dc3ffc728a28ac5a67b",
-    "wof:hierarchy":[],
-    "wof:id":673111157,
-    "wof:lastmodified":1472625287,
-    "wof:name":"Inn At Richmond the",
-    "wof:parent_id":420523255,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461734005,
+    "wof:geomhash": "84b6a60ddaa029af93d55ec5747b85b0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 673111157
+      }
+    ],
+    "wof:id": 673111157,
+    "wof:lastmodified": 1724218710,
+    "wof:name": "Inn At Richmond the",
+    "wof:parent_id": 420523255,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [
+      672826369
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.367897,
     42.378201,
     -73.367897,
     42.378201
-],
+  ],
   "geometry": {"coordinates":[-73.367897,42.378201],"type":"Point"}
 }

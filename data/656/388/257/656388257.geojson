@@ -2,82 +2,84 @@
   "id": 656388257,
   "type": "Feature",
   "properties": {
-    "addr:full":"34 Park St Hyannis MA 02601",
-    "addr:housenumber":"34",
-    "addr:postcode":"02601",
-    "addr:street":"Park St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-70.273386,41.654965,-70.273386,41.654965",
-    "geom:latitude":41.654965,
-    "geom:longitude":-70.273386,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"34 Park St",
-    "sg:city":"Hyannis",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "34 Park St Hyannis MA 02601",
+    "addr:housenumber": "34",
+    "addr:postcode": "02601",
+    "addr:street": "Park St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-70.273386,41.654965,-70.273386,41.654965",
+    "geom:latitude": 41.654965,
+    "geom:longitude": -70.273386,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "34 Park St",
+    "sg:city": "Hyannis",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 508 771 0017",
-    "sg:postcode":"02601",
-    "sg:province":"MA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 508 771 0017",
+    "sg:postcode": "02601",
+    "sg:province": "MA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811889,
-        102191575,
-        404475893,
-        85633793,
-        85950321,
-        102084379,
-        85688645
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811889,
+      102191575,
+      404475893,
+      85633793,
+      85950321,
+      102084379,
+      85688645
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Aj7afYREdC9J3sj0sDRP9_41.654965_-70.273386@1294127905"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Aj7afYREdC9J3sj0sDRP9_41.654965_-70.273386@1294127905"
     },
-    "wof:country":"US",
-    "wof:created":1461711768,
-    "wof:geomhash":"c5b64caa75b00aefcb1158c26ad53616",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084379,
-            "localadmin_id":404475893,
-            "locality_id":85950321,
-            "neighbourhood_id":85811889,
-            "region_id":85688645,
-            "venue_id":656388257
-        }
+    "wof:country": "US",
+    "wof:created": 1461711768,
+    "wof:geomhash": "e553b52d836b5fb208900dede03f2513",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084379,
+        "localadmin_id": 404475893,
+        "locality_id": 85950321,
+        "neighbourhood_id": 85811889,
+        "region_id": 85688645,
+        "venue_id": 656388257
+      }
     ],
-    "wof:id":656388257,
-    "wof:lastmodified":1472625018,
-    "wof:name":"Cape Cod Healthcare",
-    "wof:parent_id":85811889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ma",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 656388257,
+    "wof:lastmodified": 1724218709,
+    "wof:name": "Cape Cod Healthcare",
+    "wof:parent_id": 85811889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ma",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      689199431
+    ],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -70.273386,
     41.654965,
     -70.273386,
     41.654965
-],
+  ],
   "geometry": {"coordinates":[-70.273386,41.654965],"type":"Point"}
 }
